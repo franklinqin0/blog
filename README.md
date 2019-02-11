@@ -1,2 +1,2 @@
 # franklinqin0.github.io
-my tech blog
+Franklin Qin's blog

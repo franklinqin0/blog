@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Created on {{ page.create_date | date: "%b %e, %Y" }}
+    {% if page.update_date %}
+    | Updated on {{ page.update_date | date: "%b %e, %Y" }}
+    {% endif %}
+  </div>
+</article>
