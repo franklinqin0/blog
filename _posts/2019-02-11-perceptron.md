@@ -5,7 +5,7 @@ create_date: 2019-02-11 08:45 +0800
 update_date: 
 categories: science
 ---
-When I was learning about perceptron in the ML class, the first machine learning algorithm, invented by a KNer professor Frank Rosenblatt, I found about how the people at the time thought of it. The part about perceptron started from bottom right corner of first image, the section called <i>Rival</i>.
+When I was learning about perceptron in the ML class, the first machine learning algorithm, invented by Frank Rosenblatt, I found about how the people at the time thought of it. The part about perceptron started from bottom right corner of first image, the section called <i>Rival</i>.
 
 Here is the part I loved the most, at the end of the section <i>Rival</i>:
 
