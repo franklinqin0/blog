@@ -254,12 +254,13 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
+    border-left: 4px solid #00ab6b;
+    border-left-width: 4px;
+    border-left-style: solid;
+    border-left-color: rgb(0, 171, 107);
+    padding: 0 20px;
+    font-size: 16px;
     color: $gray;
-    font-size: 22px;
-    font-style: italic;
   }
 
   .comments {
@@ -270,14 +271,6 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
-
-  .quote {
-    border-left: 1.2px groove $gray;
-    padding: 0em 0.5em;
-    font-family: $noto;
-    font-size: 16px;
-    color: $gray;
-  }
 }
 
 .wrapper-footer {
@@ -287,6 +280,20 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.post-tags {
+  text-align: center;
+  line-height: 35px;
+}
+
+.post-tags a {
+  font-size: 15px;
+  padding: 4px 13px;
+  border: none;
+  background-color: #4CAF50;
+  border-radius: 20px;
+  color: #fff;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

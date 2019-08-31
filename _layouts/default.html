@@ -12,9 +12,28 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+    <!-- Mathjax Support -->
+    <!-- for the reason why to set the following config, see: http://docs.mathjax.org/en/latest/tex.html#tex-and-latex-math-delimiters -->
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          processEscapes: true
+        }
+      });
+    </script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
 
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.ico">
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-5734307660524130",
+        enable_page_level_ads: true
+      });
+    </script> -->
   </head>
 
   <body>
@@ -31,6 +50,7 @@
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <!-- <a href="{{ site.baseurl }}/wenyi">Wenyi</a> -->
+            <a href="{{ site.baseurl }}/categories">Categories</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
