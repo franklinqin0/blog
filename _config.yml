@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name:　Franklin 秦梓源
+name:　Franklin
 
 # Short bio or description (displayed in the header)
 description: 我必须尽一切努力，以使自己配得上生命的所得
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-146843725-1
+google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
