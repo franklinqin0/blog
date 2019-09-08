@@ -8,6 +8,11 @@ This page documents good quotes I came across:
 
 爱因斯坦：我必须尽一切努力，以使自己配得上生命的所得
 
+黄家驹墓前的书：
+
+- 生命不在乎得到什么，只在乎做过什么
+- 摇滚精神，永垂不朽
+
 泰戈尔(Tagore), 飞鸟集(Stray Birds)：
 
 - What you are you do not see, what you see is your shadow
@@ -18,4 +23,3 @@ This page documents good quotes I came across:
 - Chastity is a wealth that comes from abundance of love
 - Let life be beautiful like summer flowers and death like autumn leaves (生如夏花之绚烂，死如秋叶之静美)
 - The grass seeks her crowd in the earth. The tree seeks his solitude of the sky
-
