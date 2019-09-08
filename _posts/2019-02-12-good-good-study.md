@@ -3,7 +3,7 @@ layout: post
 title: "厚积薄发"
 create_date: 2019-02-12 00:25 +0800
 update_date: 
-categories: wenyi
+categories: theme
 ---
 当我大一的彷徨时刻，总有不是家人、胜似家人的欢欢姐姐给我鼓励。以下：
 

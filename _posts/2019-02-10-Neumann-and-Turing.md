@@ -3,7 +3,7 @@ layout: post
 title:  "John von Neumann(冯·诺伊曼)和Alan Turing(艾伦·图灵)"
 create_date: 2014-07-14 00:00:00 +0800
 update_date: 
-categories: wenyi
+categories: theme
 ---
 之前看到过这样一篇讲John von Neumann(冯·诺伊曼)和Alan Turing(艾伦·图灵)的八卦文章，超好看！（摘自[上](https://songshuhui.net/archives/69786)和[下](https://songshuhui.net/archives/77807)）
 

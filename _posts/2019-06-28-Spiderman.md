@@ -4,6 +4,7 @@ title: Spiderman
 create_date: 2019-09-01 02:59 +0800
 update_date: 2019-09-01 02:59 +0800
 categories: life
+excerpt: Spiderman, Spiderman, he does whatever a spider can!
 ---
 
 First of all, the classic [theme song](https://youtu.be/ua3baljt7bg).
@@ -42,14 +43,14 @@ p.s. He almost kissed her this time, upside down.
 
 Franklin,
 We come to forks in our lives almost every day.  A decision one way or another at each fork could have profound effects on the rest our lives.  I like to give the example of the young “kid” in high school that decided my future by choosing my vocation and where to attend the university.  That “kid” was me at a very young age.  So many times I look back and wonder, what if that “kid” had decided differently?  What if that “kid” had done it differently?  What if that “kid” had said something different?  The way I get myself back to where I really need to be is to remember that we can NOT change the past but we can change the future.  We can learn from the past and hope we have learned enough to make the best decisions for the future.
- 
+
 I firmly believe that these decisions are different for each person.  I greatly admire people that can self-sacrifice for the good of others.  For example, my niece donated one of her kidneys to a close friend that needed it.  I like to think that I could do that in a similar situation, but I will never know for sure unless it presents itself to me.  However, certainly in small ways we all can help our friends and family and those less fortunate almost every day.  As I get older I find that I have the time and desire to help others.  What I was surprised to find is that I often receive more in personal satisfaction than I feel I’ve even given in help to others.  This may seem somewhat far from the Spiderman story, but I like to think it really isn’t!
 
 S
 
 ~~
 
-Thanks for sharing your experience! I guess whatever choice I make at each fork, I should and will never regret it. Spiderman chose the self-sacrifice and service for the people. I will hopefully compose my own unique story, a one a bit different from his.
+Thanks for sharing your experience! I guess whatever choice I make at each fork, I should and will never regret it. Spiderman chose the self-sacrifice and service for the people. I will hopefully compose my own unique story, one a bit different from his.
 
 ---
 
@@ -57,11 +58,11 @@ This is what I wrote privately after I watched the film *Spider-Man: Far From Ho
 
 ### June 28, 2019
 
-It's been two years since last Marvel's Spiderman movie came out. One could argue that the last one was actually Into the Spider-Verse, a film independent from Marvel Cinematic Universe. However, I loved the Homecoming film more than the animated one, even more than any other Spider Man movies.
+It's been two years since last Marvel's Spiderman movie came out. One could argue that the last one was actually *Into the Spider-Verse*, a film independent from MCU. However, I loved the Homecoming film more than the animated one, even more than any other Spider Man movies.
 
-There are many films which could not live up to the expectation after watching, but Far From Home is an exception. It does not tell a story of the glories of Spider Man, but how he kept failing but finally recaptured his lost grounds. In this film, like Homecoming, Spider Man goes on a field trip with his classmates, met a few monsters but always messed up and put his friends in danger. Unlike last one, he is no longer protected by Iron Man, but seen as a successor: the next Iron Man. Through doubts and betrayals but with friends' help, he was finally able to see through the delusions, kick the ass off Beck, and win his true love: MJ. Although they did not kiss on top of Eiffel Tower, they did on Tower Bridge, surrounded by debris and covered with mud, MJ holding a broken Black Dahlia.
+There are many films which could not live up to the expectation after watching, but *Far From Home* is an exception. It does not tell a story of the glories of Spider Man, but how he kept failing but finally recaptured his lost grounds. In this film, like Homecoming, Spider Man goes on a field trip with his classmates, met a few monsters but always messed up and put his friends in danger. Unlike last one, he is no longer protected by Iron Man, but seen as a successor: the *next Iron Man*. Through doubts and betrayals but with friends' help, he was finally able to see through the delusions, kick the ass of Beck, and win his true love: MJ. Although they did not kiss on top of Eiffel Tower, they did on Tower Bridge, surrounded by debris and covered with mud, MJ holding a broken Black Dahlia.
 
-The twists in the plot gets me quite excited, especially the end. We all thought Beck has died, but he made up the story, employed media to frame Spider Man, and worst of all revealed PP's true identity, thus turned the mass against Spider Man. What is a hero's use if he who wants to protect do not trust him? What would the hero do in the most desperate time? Give a speech and regain people's trust, or wait for the villains to reveal their evil and chase after the villains? I hope the next one would: 1. Base in NYC 2. Do not fall into either of the two stereotypes I suggested above, because despite the great special effects, what matters most is the script. The exact reason why I love Homecoming is 1. It gives MJ not a bitchy, but a smarty look 2. Welcoming news for the Asians: Spider Man's best friend is now a Thai!
+The twists in the plot gets me quite excited, especially the end. We all thought Beck has died, but he made up the story, employed media to frame Spider Man, and worst of all revealed PP's true identity, thus turned the mass against Spider Man. What is a hero's use if he who wants to protect do not trust him? What would the hero do in the most desperate time? Give a speech and regain people's trust, or wait for the villains to reveal their evil and chase after the villains? I hope the next one would: 1. Base in NYC 2. Do not fall into either of the two stereotypes I suggested above, because despite the great special effects, what matters most is the script. The exact reason why I love *Homecoming* is 1. It gives MJ not a bitchy, but a smarty look 2. Welcoming news for the Asians: Spider Man's best friend is now a Thai!
 
 ### July 24, 2019
 Just heard from EC that Tony Leung will be in future MCU, though an antagonist! Looking forward so much!
