@@ -65,4 +65,13 @@ There are many films which could not live up to the expectation after watching, 
 The twists in the plot gets me quite excited, especially the end. We all thought Beck has died, but he made up the story, employed media to frame Spider Man, and worst of all revealed PP's true identity, thus turned the mass against Spider Man. What is a hero's use if he who wants to protect do not trust him? What would the hero do in the most desperate time? Give a speech and regain people's trust, or wait for the villains to reveal their evil and chase after the villains? I hope the next one would: 1. Base in NYC 2. Do not fall into either of the two stereotypes I suggested above, because despite the great special effects, what matters most is the script. The exact reason why I love *Homecoming* is 1. It gives MJ not a bitchy, but a smarty look 2. Welcoming news for the Asians: Spider Man's best friend is now a Thai!
 
 ### July 24, 2019
+
 Just heard from EC that Tony Leung will be in future MCU, though an antagonist! Looking forward so much!
+
+### September 26, 2019
+
+Just rewatched the third episode of Sony Spiderman trilogy, and found the following quote:
+
+> whatever comes in our way, whatever battle we have.raging inside us, we always have a choice. My friend Harry taught me that. He chose to be the best of himself. It’s the choices that make us who we are, and we can always choose to do what’s right.
+
+which reminds me of an essay I wrote: [Easy vs. Right]({{ site.baseurl }}/youth).

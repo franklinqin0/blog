@@ -9,7 +9,7 @@ I was a technology analyst working at GS in Hong Kong from July 2018 to August 2
 
 Now I am a voluntary teacher in Guizhou, China.
 
-This is an anecdote about this site: [Youth]({{ site.baseurl }}/youth)
+This is an anecdote about starting this site: [Youth]({{ site.baseurl }}/youth)
 
 I don't like to broadcast myself across the world, while I welcome those who come across my site and interested in my life to know more about me and my thoughts.
 
