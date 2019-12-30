@@ -13,7 +13,7 @@ This page documents good quotes I came across:
 
 2014年8月16日，由HK坐飞机去美国念书。晚上的飞机，白天无事，便凭着一股热情和少年无知一人在手机无网的情况下在HK乱逛。好在MTR的工作人员和HK的路人都十分热情礼貌，告知我路线。去了李小龙的住址（当时成为一家酒店）和黄家驹的墓。也许因不常去HK，机会难得，当天的情景都历历在目，仿佛发生在昨日。在家驹的墓前，有一本石书，左右分别写：
 
-> 生命不在乎得到什么，只在乎做过什么
+- 生命不在乎得到什么，只在乎做过什么
 - 摇滚精神，永垂不朽
 
 ---
@@ -26,7 +26,7 @@ This page documents good quotes I came across:
 - You smiled and talked to me of nothing and I felt that for this I had been waiting long
 - Life is given to us, we earn it by giving it
 - Chastity is a wealth that comes from abundance of love
-- Let life be beautiful like summer flowers and death like autumn leaves (生如夏花之绚烂，死如秋叶之静美)
+- Let life be beautiful like **summer flowers** and death like **autumn leaves** (生如夏花之绚烂，死如秋叶之静美)
 - The grass seeks her crowd in the earth. The tree seeks his solitude of the sky
 
 ---
@@ -38,7 +38,7 @@ This page documents good quotes I came across:
 - 正直自持，则外邪不能侵
 - 在人生各方面，人会由常人之俗进入雅人之俗。只有少数人能脱离雅人之俗，而回到俗人之淳朴自然。
 - 再大的灾难，人的精神都能克服，能超越，由于精神的坚强弘毅，能将之改变而成为伟大荣耀，光辉万丈。 
-- 他常常会沉默一会儿，可是一说到自己所知，或自己所深信的事，则言辞犀利，足以表示他对其精通有研究，使听者在此专题上，不做第二人想。有一次，他对木兰说：“对一事一物若有真知，若有真了解，乃一大乐事。” 
+- 他常常会沉默一会儿，可是一说到自己所知，或自己所深信的事，则言辞犀利，足以表示他对其精通有研究，使听者在此专题上，不做第二人想。有一次，他对木兰说：“**对一事一物若有真知，若有真了解，乃一大乐事。**” 
 
 ---
 
