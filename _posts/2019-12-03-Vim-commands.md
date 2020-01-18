@@ -8,6 +8,20 @@ categories: tech
 
 I waited so long to write about technology! This is my first technology post and it's about the best text editor in the world: `Vim`.
 
+## Why care about editor
+
+You might spend $\frac{2}{3}$ of your waking hours coding, and you might spend $\frac{2}{3}$ of your coding time on your editor. Thus, you might want to twitch your editor to make half of your day happy and efficient. Vim is the perfect suit: completely customizable, blazingly fast, and super geeky.
+
+## Why Vim
+Vim's philosophy conincides with geeks': **keyboard is faster and more powerful than mouse**. I envy the geeks on YouTube who could just type Vim commands and my eyes couldn't follow. To be a geek, I need to first become a Vimer.
+
+### My Previous Experience
+In my junior year, I took the course *Computer Architecture and Systems Programming*. I started to use Vim because I hated the only other option for an non-GUI editor: Nano. I didn't seriously wrote my `.bashrc`, `.vimrc`, and `tmux.conf` till the following summer. However, my Vim skills plateaued afterwards, since there weren't many scenarios to force me to use Vim, and I was sufficiently happy with VSCode/Sublime Text/IntelliJ.
+
+When I worked at GS, I used `less` more than `Vim`. There were few times requiring my Vim skills to edit files on a server, but not enough to be more familiar with it. Though I was busy with work, I always wanted to refresh my skills on Vim when I get time.
+
+Now is the time!
+
 ## Philosophy of this article
 
 I write this article both to spread the holiness of Vim and keep a reminder of useful commands for myself. Thus, I try to cut baloney, if any, and directly explain commands.
@@ -21,16 +35,6 @@ This article only focuses on the first: basic commands.
 - `<C-w>` means the command being `Control` key followed by `w`
 - In `x{y}`, `{y}` is a placeholder
 - In `x[y]`, either `x` or `xy` could do the same job
-
-## Why Vim
-I envy the geeks on YouTube who could just type Vim commands and my eyes couldn't follow. To be a geek, I need to first become a Vimer.
-
-### My Previous Experience
-In my junior year, I took the course *Computer Architecture and Systems Programming*. I started to use Vim because I hated the only other option for an non-GUI editor: Nano. I didn't seriously wrote my `.bashrc`, `.vimrc`, and `tmux.conf` till the following summer. However, my Vim skills plateaued afterwards, since there weren't many scenarios to force me to use Vim, and I was sufficiently happy with VSCode/Sublime Text/IntelliJ.
-
-When I worked at GS, I used `less` more than `Vim`. There were few times requiring my Vim skills to edit files on a server, but not enough to be more familiar with it. Though I was busy with work, I always wanted to refresh my skills on Vim when I get time.
-
-Now is the time!
 
 ## Vim or NeoVim?
 To be frank, both behave essentially the same, but NeoVim is slightly better than Vim (read [this article](https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/)). Now that Vim 8 has caught up and improved, there isn't much difference a user would notice between the two.
@@ -56,6 +60,16 @@ For Unix/Linux systems, could use the corresponding package manager to install a
 For Windows, could install gVim (GUI Vim), or Cygwin/Cmder for a more powerful terminal, or a Linux distro and use the terminal in that.
 
 Personally, I don't like virtual machines or dual boot.
+
+## Tutorials
+Before proceeding, there are some tutorials I recommend: 
+
+1. a fun and interactive tutorial written by Vim developers:
+	- If you use Vim, in shell do `vimtutor`
+	- If you use NeoVim, enter it and do `:Tutor`
+	Personally I prefer the 2nd as it's more updated.
+2. [a group of tutorials in Chinese](https://github.com/vim-china/hello-vim)
+3. [a video tutorial in Chinese](https://www.imooc.com/learn/1129) (where I found very useful and learned most stuff written below)
 
 ## Basic Commands
 
@@ -94,7 +108,7 @@ In *normal* mode, press:
 ### Understand the Modes
 Most users are surprised that there are so many modes in Vim: *normal*, *insert*, *replace*, *visual*, *command*.
 
-Initially Vim was designed to use both from a command-line interface and as a standalone application in a GUI without a mouse/cursor.eds the *normal* mode to navigate around the file. When we users open a file, rather than just editing, more often we *read*, *select*, and *jump to where we want to edit*. Thus, we need **faster ways to navigate**, which is what Vim is good at and why it is still used today after almost 3 decades since its initial release in 1991.
+Initially Vim was designed to use both from a command-line interface and as a standalone application in a GUI without a mouse/cursor. The *normal* mode to navigate around the file. When we users open a file, rather than just editing, more often we *read*, *select*, and *jump to where we want to edit*. *Normal* mode makes navigation on keyboard much faster, which is why it is still used today after almost 3 decades since its initial release in 1991.
 
 Here are what the four modes are for and how to enter them:
 
@@ -135,7 +149,7 @@ Move by one char:
 - `k`: $\uparrow$
 - `l`: $\rightarrow$
 
----
+Move down 20 lines: `20j`.
 
 #### move between words
 
@@ -153,8 +167,6 @@ So the capitalized commands move faster than the lowercase ones.
 
 Most times, I just use `w` and `b`.
 
----
-
 #### move to a char on the current line
 
 - `f{char}` (**f**ind): move to the next \<char\>
@@ -163,8 +175,6 @@ Most times, I just use `w` and `b`.
 Despite search successful or not, could press `;` to go to the **next** and `,` to go to the **last**.
 
 To search for a **prev char**, could `F<char>`, which is equivalent to `f<char>` then `,`.
-
----
 
 #### move to the start/end of current line
 
@@ -189,14 +199,13 @@ Personally, I use `0` and `$` most often. To avoid remembering `^` and `g_`, I w
 - `gg`: start of document
 - `G`: end of document
 
-To go back to position of last edit, could do `<C-o>`.
+#### move back/forward
 
----
+- `<C-o>`: jump back
+- `<C-i>`: jump forward
 
 #### move to a line given the line number
 Given the line number, `:{n}` or `{n}G` moves to line `n`.
-
----
 
 #### move to the head/middle/bottom of a page
 
@@ -205,8 +214,6 @@ On a **page**,
 - `H` (**H**ead): head
 - `M` (**M**iddle): middle
 - `L` ( **L**ow): bottom
-
----
 
 #### move pages up/down
 
@@ -424,6 +431,11 @@ We programmers always need the autocomplete feature in IDE to help us code bette
 
 In the dropdown list, `<C-n>` to go down and `<C-p>` to go up.
 
+## How to type Chinese in Vim
+To type Chinese in Vim on Mac, I found an answer [here](https://www.v2ex.com/t/338262#r_4013304), which uses `caps lock` when using Chinese input method to type in English.
+
+For other systems, I believe there are good solutions online.
+
 ## Useful tricks
 
 1. Change "ba" to "ab": move the cursor to "b", `x` to cut the char "b" and store into an unnamed reg, `p`aste after current char "a" to change to "ab"
@@ -436,6 +448,8 @@ In the dropdown list, `<C-n>` to go down and `<C-p>` to go up.
 - `~`: change case of letter
 - `gi`: go to the position of last edit
 - `zz` centers current line on the screen
+- `zt` makes current line at top of screen
+- `zb` makes current line at bottom of screen
 
 ## Cliffhanger
 The [next article](???) focuses on how to customize your `.vimrc`.
