@@ -54,4 +54,13 @@ This page documents good quotes I came across:
 - 我觉得有一技之长，过平凡而伟大的人生，足也。努力过，拼搏过，无怨无悔。
 - 你知道应该在什么场合承认**自己的渺小**？在**智慧**面前，在**美**面前，在**大自然**面前，但**不是在人群面前**。在人群中，应该意识到**自己的尊严**
 - 叶卡捷琳娜二世：我时常告诉自己，幸福或是悲痛都取决于内心。如果遇见不幸，那就鼓起勇气去超越。即便眼前都是惨淡，人也可以快乐勇敢
-- 
+
+---
+
+Quotes from great programmers:
+- Grady Booch: The function of good software is to make the complex appear to be simple.
+
+
+
+
+

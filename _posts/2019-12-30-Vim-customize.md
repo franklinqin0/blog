@@ -11,33 +11,13 @@ Following the [last article]({{ site.baseurl }}/Vim-commands) about how to use V
 
 In Unix systems, we could create a hidden file (starting with `.`): `vim ~/.vimrc`. In Windows, we set value of environmental variable `$MYVIMRC` and `vim $MYVIMRC`.
 
-In `.vimrc`, we don't need `:`. Here is a simple `.vimrc`:
-```Vim
-set number                             " display line number
-syntax on
-set pastetoggle=<F2>                   " press F2 to when paste
-set hlsearch                           " highlight search results
-set incsearch                          " show matches while typing pattern
-set foldmethod=indent                  " set fold method
-
-" some useful mappings
-let mapleader=','
-let g:mapleader=','
-
-inoremap jj <Esc>`^
-inoremap <leader>w <Esc>:w<cr>
-noremap <leader>w :w<cr>
-
-nnoremap <silent> [b :bprevious<CR>
-nnoremap <silent> [n :bnext<CR>
-
-```
+In `.vimrc`, we don't need `:`.
 
 There are basically 4 parts in a `.vimrc`:
-1. Settings such as line numbers and colorscheme. To see what can be set, search by `:h option-list`
-2. Mappings such as `jj` for `<Esc>`
-3. Plugins ???
-4. Vim script defines functions to streamline common tasks such as setting a title in a Python file
+1. `Settings` such as line numbers and colorscheme. To see what can be set, search by `:h option-list`
+2. `Mappings` such as `jj` for `<Esc>`
+3. `Plugins`' installations and settings
+4. `Vimscript` defines functions to streamline common tasks such as setting a title in a Python file
 
 ## Mappings
 To map some key, say, `dd` to `\`, we could do `map \ dd`. We could then `\` to delete the current line.
@@ -93,12 +73,13 @@ p.s.: `<cr>` is carriage return (`<Enter>` or `<Return>`).
 
 ## Plugins
 
-We can use a plugin manager to manager plugins to make Vim more customizable and powerful.
+We can use a plugin manager to manage plugins which would make Vim more customizable and powerful.
 
 ### Plugin Manager
 There are many plugin managers for Vim/NeoVim, I switched from singled-threaded [*Vundle*](https://github.com/VundleVim/Vundle.vim) to multi-threaded [*vim-plug*](https://github.com/junegunn/vim-plug) since installing and updating plugins in parallel save much time.
 
-The installation steps are written on *vim-plug*'s [Github page](https://github.com/junegunn/vim-plug). To add a plugin, just put the Github repo after `Plug`, between call begin and end:
+### Plugin installation
+To add a plugin using [vim-plug](https://github.com/junegunn/vim-plug), just put the Github repo after `Plug`, between call begin and end:
 
 ```Vim
 call plug#begin('~/.vim/plugged')
@@ -109,8 +90,8 @@ call plug#end()
 ```
 
 ### How to search for plugins
-1. Google
-2. go to [vimawesome](https://vimawesome.com) and search
+1. You know what you need, then search on Google
+2. You don't know what you need, but randomly browse on [vimawesome](https://vimawesome.com)
 
 ### Useful Plugins
 Below are some useful plugins, which you can learn how to use through these [videos in Chinese](https://www.imooc.com/learn/1129), searching on Google, or reading corresponding documentation:
@@ -119,37 +100,36 @@ Below are some useful plugins, which you can learn how to use through these [vid
 - beautify status and tab lines: [vim-airline](https://github.com/vim-airline/vim-airline)
 - display indentation levels with thin vertical lines: [indentline](https://github.com/yggdroot/indentline)
 - file explorer as tree: [nerdtree](https://github.com/scrooloose/nerdtree)
-- fuzzy file finder: 1. [fzf](https://github.com/junegunn/fzf) is a really good command-line fuzzy finder, and in Vim you could use [fzf.vim](https://github.com/junegunn/fzf.vim). 2. more traditional and in my opinion is less powerful: [ctrip.vim](https://github.com/ctrlpvim/ctrip.vim). I prefer `fzf` b/c of its blazing speed.
-- jump to any character on screen: [vim-easymotion](https://github.com/easymotion/vim-easymotion)
+- fuzzy file finder: 1. [fzf](https://github.com/junegunn/fzf) is a really good command-line fuzzy finder, and in Vim you could use [fzf.vim](https://github.com/junegunn/fzf.vim). 2. more traditional and is less powerful: [ctrip.vim](https://github.com/ctrlpvim/ctrip.vim). I prefer `fzf` b/c of its blazing speed.
+- jump to any character instantly on screen: [vim-easymotion](https://github.com/easymotion/vim-easymotion)
+- overview of file structure: [majutsushi/tagbar](https://github.com/majutsushi/tagbar)
 - change, delete, or add quotes/parentheses: [vim-surround](https://github.com/tpope/vim-surround)
 - find and replace in multiple files: [far.vim](https://github.com/brooth/far.vim)
-- python-mode
-- lfv89/vim-interestingwords
-- neoclide/coc.nvim   Shougo/deoplete.nvim
-- sbdchd/neoformat
-- w0rp/ale
-- tpope/vim-commentary
+- highlight different words simultaneously: [lfv89/vim-interestingwords](https://github.com/lfv89/vim-interestingwords)
+- code completion: 1. [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) is a new tool by a Chinese frontend pro but needs to install nodejs before installation. 2. [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim) does a similar job but I feel the user experience of coc is better
+- format code: [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
+- lint code: [w0rp/ale](https://github.com/dense-analysis/ale)
+- comment code: [tpope/vim-commentary](https://github.com/tpope/vim-commentary)
+- easily align code: [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align)
+- easier look on parentheses: [luochen1990/rainbow](https://github.com/luochen1990/rainbow)
 
-Vim + Git:
-- the best Git wrapper in Vim: tpope/vim-fugitive Gstatus Gblame Gedit
-- airblade/vim-gitgutter
-- junegunn/gv.vim
+These are great plugings to combine Git and Vim:
+- the best Git wrapper in Vim: [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) could do the following commands: `:G[status]`, `:Gblame`, `:Gedit` for a try
+- git diff in the gutter (sign column): [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+- git commit browser: [junegunn/gv.vim](https://github.com/junegunn/gv.vim)
 
-airblade/vim-gitgutter
+### Plugin customization
+To customize installed plugins, please read the official Github README(linked above for each plugin I recommended) and customize according to your needs.
 
-Useful Pages:
+## My .vimrc
+This is [my `init.vim`](https://github.com/franklinqin0/dotfiles/blob/master/nvim/init.vim) for NeoVim.
+
+## Useful Pages
 - [The Ultimate Vim configuration: vimrc](https://github.com/amix/vimrc)
-- SpaceVim
-- https://github.com/spf13/spf13-vim
-- PegasusWang/vim-config
+- a Vim rookie could use [SpaceVim](https://spacevim.org/), but personally I hate black box
+- a really good book if you want to read more about Vim: [Practical Vim](https://isidore.co/calibre/get/pdf/5334)
 
-- Practical Vim
-
+## Coda
 While so many editors/IDE's became favorable and extinct, Vim has been the world's best editor over almost 30 years. Vim/NeoVim are used by so many developers and the community is actively pushing forward many new features and plugins. Remeber: it is never a waste of time to learn Vim, and practice makes perfect.
 
-
-
-
-
-
-
+This is the 2nd of totally 2 articles I wrote about Vim. In the next article, I will write about Tmux.

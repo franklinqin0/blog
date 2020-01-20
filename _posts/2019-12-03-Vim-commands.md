@@ -4,44 +4,57 @@ title: How to Use Vim
 create_date: 2019-12-03 00:00 +0800
 update_date: 2019-12-30 17:30 +0800
 categories: tech
+excerpt: I waited so long to write about technology! This is my first technology post and it's about the best text editor in the world: `Vim`.
+
 ---
 
-I waited so long to write about technology! This is my first technology post and it's about the best text editor in the world: `Vim`.
+## Before we start
+
+This is the 1st of totally 2 articles about Vim. This is the [next article]({{ site.baseurl }}/Vim-customize).
 
 ## Why care about editor
 
 You might spend $\frac{2}{3}$ of your waking hours coding, and you might spend $\frac{2}{3}$ of your coding time on your editor. Thus, you might want to twitch your editor to make half of your day happy and efficient. Vim is the perfect suit: completely customizable, blazingly fast, and super geeky.
 
 ## Why Vim
+
 Vim's philosophy conincides with geeks': **keyboard is faster and more powerful than mouse**. I envy the geeks on YouTube who could just type Vim commands and my eyes couldn't follow. To be a geek, I need to first become a Vimer.
 
 ### My Previous Experience
+
 In my junior year, I took the course *Computer Architecture and Systems Programming*. I started to use Vim because I hated the only other option for an non-GUI editor: Nano. I didn't seriously wrote my `.bashrc`, `.vimrc`, and `tmux.conf` till the following summer. However, my Vim skills plateaued afterwards, since there weren't many scenarios to force me to use Vim, and I was sufficiently happy with VSCode/Sublime Text/IntelliJ.
 
 When I worked at GS, I used `less` more than `Vim`. There were few times requiring my Vim skills to edit files on a server, but not enough to be more familiar with it. Though I was busy with work, I always wanted to refresh my skills on Vim when I get time.
 
 Now is the time!
 
+## Why this article
+
+I write this article both to spread the holiness of Vim and keep a reminder of useful commands for myself.
+
 ## Philosophy of this article
 
-I write this article both to spread the holiness of Vim and keep a reminder of useful commands for myself. Thus, I try to cut baloney, if any, and directly explain commands.
+I try to cut baloney, if any, and directly explain commands.
 
 I try to go from simple to complex. First we learn basic commands in vanilla Vim, and then we think about customizing in `.vimrc`, at last we can install more plugins and combine Vim with Tmux.
 
 This article only focuses on the first: basic commands.
 
 ## Notes before proceeding
+
 - You need to practice multiple times till the commands become your physical memory. **Practice makes perfect!**
 - `<C-w>` means the command being `Control` key followed by `w`
 - In `x{y}`, `{y}` is a placeholder
 - In `x[y]`, either `x` or `xy` could do the same job
 
 ## Vim or NeoVim?
+
 To be frank, both behave essentially the same, but NeoVim is slightly better than Vim (read [this article](https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/)). Now that Vim 8 has caught up and improved, there isn't much difference a user would notice between the two.
 
 But I would vote for NeoVim.
 
 ### Fun facts
+
 Vim stems from Vi and stands for `Vi IMproved`. The prefix "Neo" in "NeoVim" signifies that NeoVim stems from Vim. But why isn't NeoVim called "Vimim"? However, if were so, how do you pronounce this word? 😬
 
 Note that for NeoVim, you don't type `neovim` to start it, but `nvim`. Could do the following to start NeoVim with `vim`:
@@ -53,6 +66,7 @@ fi
 ```
 
 ## How to download and install NeoVim
+
 For my Mac, I use `brew install nvim` to install NeoVim and `brew upgrade nvim` to upgrade it.
 
 For Unix/Linux systems, could use the corresponding package manager to install and upgrade.
@@ -62,6 +76,7 @@ For Windows, could install gVim (GUI Vim), or Cygwin/Cmder for a more powerful t
 Personally, I don't like virtual machines or dual boot.
 
 ## Tutorials
+
 Before proceeding, there are some tutorials I recommend: 
 
 1. a fun and interactive tutorial written by Vim developers:
@@ -192,8 +207,6 @@ Personally, I use `0` and `$` most often. To avoid remembering `^` and `g_`, I w
 - `(` or `)`: between sentences
 - `{` or `}`: between paragraphs
 
-**could use plugin easy-motion** ???
-
 #### move to start/end of document and last edit
 
 - `gg`: start of document
@@ -229,6 +242,9 @@ Move by *one* line **without moving the cursor**:
 - `<C-e>`: $\downarrow$
 - `<C-y>`: $\uparrow$
 
+#### jump to *any character* instantly on screen
+
+See [vim-easymotion](https://github.com/easymotion/vim-easymotion) in [How to Customize Vim]({{ site.baseurl }}/Vim-customize).
 ---
 
 ### How to Copy and Paste
@@ -303,7 +319,7 @@ examples:
 - `% s/self//n`: reports number of matches on total number of lines
 - `:% s/\<abc\>/def/g`: only substitutes the word `abc` but not words that contain it
 
-**How to substitute matches in multiple files** ???
+To substitute matches in multiple files, see [far.vim](https://github.com/brooth/far.vim) in [How to Customize Vim]({{ site.baseurl }}/Vim-customize).
 
 ### Undo and Redo
 In *normal* mode,
@@ -452,4 +468,5 @@ For other systems, I believe there are good solutions online.
 - `zb` makes current line at bottom of screen
 
 ## Cliffhanger
-The [next article](???) focuses on how to customize your `.vimrc`.
+
+The [next article]({{ site.baseurl }}/Vim-customize) focuses on how to customize your `.vimrc`.
