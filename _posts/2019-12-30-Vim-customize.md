@@ -130,4 +130,4 @@ This is [my `init.vim`](https://github.com/franklinqin0/dotfiles/blob/master/nvi
 ## Coda
 While so many editors/IDE's became favorable and extinct, Vim has been the world's best editor over almost 30 years. Vim/NeoVim are used by so many developers and the community is actively pushing forward many new features and plugins. Remeber: it is never a waste of time to learn Vim, and practice makes perfect.
 
-This is the 2nd of totally 2 blogs I wrote about Vim. In the next blog, I will write about `tmux`.
+This is the 2nd of totally 2 blogs I wrote about Vim. In the [next blog]({{ site.baseurl }}/Tmux), I will write about `tmux`.
