@@ -7,7 +7,7 @@ categories: tech
 excerpt: Write our own .vimrc!
 ---
 
-Following the [last article]({{ site.baseurl }}/Vim-commands) about how to use Vim w/o any customization or plugin, this article talks about how to customize Vim for better personal usage by writing a `.vimrc`.
+Following the [last blog]({{ site.baseurl }}/Vim-commands) about how to use Vim w/o any customization or plugin, this blog talks about how to customize Vim for better personal usage by writing a `.vimrc`.
 
 In Unix systems, we could create a hidden file (starting with `.`) `vim ~/.vimrc` for Vim or `vim ~/.config/nvim/init.vim`. In Windows, we set value of environmental variable `$MYVIMRC` and `vim $MYVIMRC`.
 
@@ -31,7 +31,7 @@ To map in **only one mode**, we could do:
 
 The following enables `<C-d>` to delete a line under both *normal* and *insert* modes:
 
-```Vim
+```
 :nmap \ dd
 :imap \ <Esc>ddi
 ```
@@ -40,8 +40,9 @@ To unmap `dd` from `\`, do `unmap \`.
 
 If we define:
 
-```Vim
+```
 map \ dd
+
 map - \
 ```
 
@@ -64,6 +65,7 @@ After we define a `<leader>` key, we could define mappings combining the leader 
 
 ```Vim
 let mapleader=','
+
 inoremap <leader>w <Esc>:w<cr>
 ```
 
@@ -81,7 +83,7 @@ There are many plugin managers for Vim/NeoVim, I switched from singled-threaded 
 ### Plugin installation
 To add a plugin using [vim-plug](https://github.com/junegunn/vim-plug), just put the Github repo after `Plug`, between call begin and end:
 
-```Vim
+```
 call plug#begin('~/.vim/plugged')
 
 Plug 'mhinz/vim-startify'
@@ -132,4 +134,4 @@ This is [my `init.vim`](https://github.com/franklinqin0/dotfiles/blob/master/nvi
 ## Coda
 While so many editors/IDE's became favorable and extinct, Vim has been the world's best editor over almost 30 years. Vim/NeoVim are used by so many developers and the community is actively pushing forward many new features and plugins. Remeber: it is never a waste of time to learn Vim, and practice makes perfect.
 
-This is the 2nd of totally 2 articles I wrote about Vim. In the next article, I will write about Tmux.
+This is the 2nd of totally 2 blogs I wrote about Vim. In the next blog, I will write about `tmux`.

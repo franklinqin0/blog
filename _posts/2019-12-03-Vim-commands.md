@@ -6,21 +6,9 @@ update_date: 2019-12-30 17:30 +0800
 categories: tech
 ---
 
-I have waited for so long to write about technology! This is my first technology post and it's about the best text editor in the world: `Vim`.
+This is the 1st of totally 2 blogs about Vim. And this is the [next blog]({{ site.baseurl }}/Vim-customize).
 
-## Before we start
-
-This is the 1st of totally 2 articles about Vim. This is the [next article]({{ site.baseurl }}/Vim-customize).
-
-## Why care about editor
-
-You might spend $\frac{2}{3}$ of your waking hours coding, and you might spend $\frac{2}{3}$ of your coding time on your editor. Thus, you might want to twitch your editor to make half of your day happy and efficient. Vim is the perfect suit: completely customizable, blazingly fast, and super geeky.
-
-## Why Vim
-
-Vim's philosophy conincides with geeks': **keyboard is faster and more powerful than mouse**. I envy the geeks on YouTube who could just type Vim commands and my eyes couldn't follow. To be a geek, I need to first become a Vimer.
-
-### My Previous Experience
+## My Previous Experience
 
 In my junior year, I took the course *Computer Architecture and Systems Programming*. I started to use Vim because I hated the only other option for an non-GUI editor: Nano. I didn't seriously wrote my `.bashrc`, `.vimrc`, and `tmux.conf` till the following summer. However, my Vim skills plateaued afterwards, since there weren't many scenarios to force me to use Vim, and I was sufficiently happy with VSCode/Sublime Text/IntelliJ.
 
@@ -28,32 +16,41 @@ When I worked at GS, I used `less` more than `Vim`. There were few times requiri
 
 Now is the time!
 
-## Why this article
+## Why Care About Editor
 
-I write this article both to spread the holiness of Vim and keep a reminder of useful commands for myself.
+You might spend $\frac{2}{3}$ of your waking hours coding, and you might spend $\frac{2}{3}$ of your coding time on your editor. Thus, you might want to twitch your editor to make half of your day happy and efficient. Vim is the perfect suit: completely customizable, blazingly fast, and super geeky.
 
-## Philosophy of this article
+## Why Vim
+
+Vim's philosophy conincides with geeks': **keyboard is faster and more powerful than mouse**. I envy the those on YouTube who could just type Vim commands and my eyes couldn't follow. To be a geek, I need to first become a Vimer.
+
+## Why this Blog
+
+I write this blog both to spread the holiness of `Vim` and keep a reminder of useful commands for myself.
+
+## Philosophy of this Blog
 
 I try to cut baloney, if any, and directly explain commands.
 
 I try to go from simple to complex. First we learn basic commands in vanilla Vim, and then we think about customizing in `.vimrc`, at last we can install more plugins and combine Vim with Tmux.
 
-This article only focuses on the first: basic commands.
+This blog only focuses on the first: basic commands.
 
-## Notes before proceeding
+## Notes before Proceeding
 
 - You need to practice multiple times till the commands become your physical memory. **Practice makes perfect!**
 - `<C-w>` means the command being `Control` key followed by `w`
+- `<cr>` is carriage return (`<Enter>` or `<Return>`)
 - In `x{y}`, `{y}` is a placeholder
 - In `x[y]`, either `x` or `xy` could do the same job
 
 ## Vim or NeoVim?
 
-To be frank, both behave essentially the same, but NeoVim is slightly better than Vim (read [this article](https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/)). Now that Vim 8 has caught up and improved, there isn't much difference a user would notice between the two.
+To be frank, both behave essentially the same, but NeoVim is slightly better than Vim (read [this blog](https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/)). Now that Vim 8 has caught up and improved, there isn't much difference a user would notice between the two.
 
 But I would vote for NeoVim.
 
-### Fun facts
+### Fun Facts
 
 Vim stems from Vi and stands for `Vi IMproved`. The prefix "Neo" in "NeoVim" signifies that NeoVim stems from Vim. But why isn't NeoVim called "Vimim"? However, if were so, how do you pronounce this word? 😬
 
@@ -65,15 +62,15 @@ if type nvim > /dev/null 2>&1; then
 fi
 ```
 
-## How to download and install NeoVim
+## Install and Upgrade NeoVim
 
 For my Mac, I use `brew install nvim` to install NeoVim and `brew upgrade nvim` to upgrade it.
 
 For Unix/Linux systems, could use the corresponding package manager to install and upgrade.
 
-For Windows, could install gVim (GUI Vim), or Cygwin/Cmder for a more powerful terminal, or a Linux distro and use the terminal in that.
+For Windows, could install gVim (GUI Vim), or Cygwin/Cmder for a more powerful terminal, or a Linux distro in MS store and use the terminal.
 
-Personally, I don't like virtual machines or dual boot.
+Personally, I don't like virtual machines nor dual boot.
 
 ## Tutorials
 
@@ -90,7 +87,7 @@ Before proceeding, there are some tutorials I recommend:
 
 If you don't know a command in Vim, you could always do `:h[elp] {Command}`.
 
-### Start Vim, insert, save, and quit
+### Start Vim, Insert, Save, and Quit
 
 When you enter Vim with command `vim`, the default mode is *normal*. To start typing, you need to enter the *insert* mode, and here is how:
 
@@ -148,13 +145,13 @@ also works in shell:<br/> - `<C-h>`, delete prev char<br/> - `<C-w>`, delete las
 - `<C-d>`: see possible completions
 - `<C-p>`: show the last command
 
-### How to move your cursor around in *normal* mode
+### How to Move Your Cursor around in *Normal* Mode
 
 Again, the default mode of Vim is *normal*, under which there are so many cool commands to navigate the file!
 
 ---
 
-#### move $\leftarrow$, $\downarrow$, $\uparrow$, $\rightarrow$
+#### Move $\leftarrow$, $\downarrow$, $\uparrow$, $\rightarrow$
 
 Vim uses `hjkl` becauses they are the keys your right hand could reach the fastest. They become pretty intuitive once I get used to them.
 
@@ -469,4 +466,4 @@ For other systems, I believe there are good solutions online.
 
 ## Cliffhanger
 
-The [next article]({{ site.baseurl }}/Vim-customize) focuses on how to customize your `.vimrc`.
+The [next blog]({{ site.baseurl }}/Vim-customize) focuses on how to customize your `.vimrc`.

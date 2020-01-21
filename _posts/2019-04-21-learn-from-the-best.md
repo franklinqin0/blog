@@ -19,4 +19,4 @@ Like me, he:
 - also does Java Spring Boot development, probably even better than I
   - but I had better English reading ability to read the original documentation instead of the translated version in Chinese
 
-Simply put, he is a hard-working individual and I learned inspiring lessons from him, but I was just more fortunate to have seen a further horizon. Thus, this is a lesson to myself and every reader of this article: learn from the best, and become the best.
+Simply put, he is a hard-working individual and I learned inspiring lessons from him, but I was just more fortunate to have seen a further horizon. Thus, this is a lesson to myself and every reader of this blog: learn from the best, and become the best.
