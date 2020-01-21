@@ -4,8 +4,9 @@ title: How to Use Vim
 create_date: 2019-12-03 00:00 +0800
 update_date: 2019-12-30 17:30 +0800
 categories: tech
-excerpt: I waited so long to write about technology! This is my first technology post and it's about the best text editor in the world: `Vim`.
 ---
+
+I have waited for so long to write about technology! This is my first technology post and it's about the best text editor in the world: `Vim`.
 
 ## Before we start
 

@@ -9,7 +9,7 @@ excerpt: Write our own .vimrc!
 
 Following the [last article]({{ site.baseurl }}/Vim-commands) about how to use Vim w/o any customization or plugin, this article talks about how to customize Vim for better personal usage by writing a `.vimrc`.
 
-In Unix systems, we could create a hidden file (starting with `.`): `vim ~/.vimrc`. In Windows, we set value of environmental variable `$MYVIMRC` and `vim $MYVIMRC`.
+In Unix systems, we could create a hidden file (starting with `.`) `vim ~/.vimrc` for Vim or `vim ~/.config/nvim/init.vim`. In Windows, we set value of environmental variable `$MYVIMRC` and `vim $MYVIMRC`.
 
 In `.vimrc`, we don't need `:`.
 
@@ -125,7 +125,7 @@ To customize installed plugins, please read the official Github README(linked ab
 This is [my `init.vim`](https://github.com/franklinqin0/dotfiles/blob/master/nvim/init.vim) for NeoVim.
 
 ## Useful Pages
-- [The Ultimate Vim configuration: vimrc](https://github.com/amix/vimrc)
+- a clean and well-documented `.vimrc`:[The Ultimate Vim configuration: vimrc](https://github.com/amix/vimrc)
 - a Vim rookie could use [SpaceVim](https://spacevim.org/), but personally I hate black box
 - a really good book if you want to read more about Vim: [Practical Vim](https://isidore.co/calibre/get/pdf/5334)
 
