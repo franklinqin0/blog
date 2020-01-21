@@ -31,7 +31,7 @@ To map in **only one mode**, we could do:
 
 The following enables `<C-d>` to delete a line under both *normal* and *insert* modes:
 
-```
+```vim
 :nmap \ dd
 :imap \ <Esc>ddi
 ```
