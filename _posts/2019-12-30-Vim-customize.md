@@ -40,9 +40,8 @@ To unmap `dd` from `\`, do `unmap \`.
 
 If we define:
 
-```
+```vim
 map \ dd
-
 map - \
 ```
 
@@ -63,9 +62,8 @@ To summarize, these are **non-recursive** mappings:
 
 After we define a `<leader>` key, we could define mappings combining the leader key:
 
-```Vim
+```vim
 let mapleader=','
-
 inoremap <leader>w <Esc>:w<cr>
 ```
 
@@ -85,9 +83,7 @@ To add a plugin using [vim-plug](https://github.com/junegunn/vim-plug), just put
 
 ```
 call plug#begin('~/.vim/plugged')
-
 Plug 'mhinz/vim-startify'
-
 call plug#end()
 ```
 
