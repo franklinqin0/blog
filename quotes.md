@@ -18,7 +18,7 @@ This page documents good quotes I came across:
 
 ---
 
-2019年9月，也许因失恋的缘故，变成了一位伤感却写不出诗、只会微醺后唱歌的诗人。既要读诗，便读好久以来都想读的泰戈尔(Tagore)。可惜只看了飞鸟集(Stray Birds)，便不想看其他的了。记录了以下十分喜欢的对话：
+2019年9月，也许因失恋的缘故，变成了一位伤感却写不出诗、只会微醺后唱歌的文艺青年。既要读诗，便读好久以来都想读的泰戈尔(Tagore)。可惜只看了飞鸟集(Stray Birds)，便不想看其他的了。记录了以下十分喜欢的对话：
 
 - What you are you do not see, what you see is your shadow
 - The bird wishes it were a cloud. The cloud wishes it were a bird
