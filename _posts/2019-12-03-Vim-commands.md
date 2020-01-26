@@ -4,6 +4,7 @@ title: How to Use Vim
 create_date: 2019-12-03 00:00 +0800
 update_date: 2019-12-30 17:30 +0800
 categories: tech
+exerpt: Learn basic Vim commands!
 ---
 
 This is the 1st of totally 2 blogs about Vim. And this is the [next blog]({{ site.baseurl }}/Vim-customize).
