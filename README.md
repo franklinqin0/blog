@@ -1,2 +1,1 @@
-# franklinqin0.github.io
-Source code of my blog
+### franklinqin0's [blog](https://franklinqin0.me)
