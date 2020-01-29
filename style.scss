@@ -20,7 +20,7 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 17px/1.4 $helveticaNeue;
   color: $black;
 }
 
@@ -32,9 +32,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $darkerGray;
   font-weight: bold;
-
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -45,23 +43,40 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 25px;
+  font: 26px $georgia;
+  color: $black;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font: 25px $helvetica;
+  color: $darkGray;
 }
 
 h3 {
-  font-size: 20px;
+  font: 23px $georgia;
+  color: $gray;
 }
 
 h4 {
+  font-size: 21px;
+  color: $darkerGray;
+  // border-bottom: 4px solid $blue;
+  // border-bottom-width: 4px;
+  // border-bottom-style: solid;
+  // border-left-color: rgb(0, 171, 107);;
+  // padding: 0 10px;
+}
+
+h5 {
+  font-size: 19px;
+  color: $lightGray;
+}
+
+h6 {
   font-size: 18px;
-  // color: $gray;
 }
 
 p {

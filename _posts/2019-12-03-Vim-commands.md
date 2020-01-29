@@ -243,6 +243,7 @@ Move by *one* line **without moving the cursor**:
 #### jump to *any character* instantly on screen
 
 See [vim-easymotion](https://github.com/easymotion/vim-easymotion) in [How to Customize Vim]({{ site.baseurl }}/Vim-customize).
+
 ---
 
 ### How to Copy and Paste
