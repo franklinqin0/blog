@@ -1,1 +1,1 @@
-### franklinqin0's [blog](https://franklinqin0.me)
+### franklinqin0's old blog
