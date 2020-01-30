@@ -3,8 +3,6 @@ title: How to Use Vim
 date: 2020-01-01
 tags:
  - tech
-sidebar: true
-isComment: true
 ---
 
 Learn basic Vim commands!

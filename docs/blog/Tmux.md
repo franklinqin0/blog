@@ -3,8 +3,6 @@ title: Tmux
 date: 2020-01-21
 tags:
  - tech
-sidebar: true
-isComment: true
 ---
 
 This is everything basic we need to know about `tmux`.

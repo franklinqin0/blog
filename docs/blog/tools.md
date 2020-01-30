@@ -3,8 +3,6 @@ title: My Everyday Tools
 date: 2020-01-22
 tags:
  - tech
-sidebar: true
-isComment: true
 ---
 
 This is a documentation of useful tools to boost my everyday efficiency.

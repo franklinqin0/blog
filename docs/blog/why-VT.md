@@ -3,7 +3,7 @@ title: Why I became a Voluntary Teacher
 date: 2019-09-02
 tags:
  - teach
-isComment: true
+sidebar: false
 ---
 
 This blog serves the purpose of both documenting why I chose to quit a job many envy and go for my childhood dream: voluntary teaching (VT).

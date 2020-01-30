@@ -4,8 +4,7 @@ date: 2015-07-02
 tags:
  - philosophy
  - religion
-sidebar: true
-isComment: true
+sidebar: false
 ---
 
 The following words were written during Basileia(an Ancient Greek word meaning royal palace, or in Christian context, the Kingdom of God), an event organized by AAIV(Asian American Intervarsity), where I made many great friends.

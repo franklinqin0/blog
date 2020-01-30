@@ -3,8 +3,6 @@ title: 支教
 date: 2019-12-20
 tags:
  - teach
-sidebar: true
-isComment: true
 ---
 
 有关2019年9月至12月支教的经历和感悟。

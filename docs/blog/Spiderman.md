@@ -3,8 +3,6 @@ title: Spiderman
 date: 2019-09-01
 tags:
  - film
-sidebar: true
-isComment: true
 ---
 
 Spiderman, Spiderman, he does whatever a spider can!

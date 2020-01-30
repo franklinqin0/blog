@@ -3,8 +3,7 @@ title: About Me
 date: 2020-01-29
 tags:
  - about me
-sidebar: true
-isComment: true
+sidebar: false
 ---
 
 Hi, I'm Franklin Qin. I was born and grew up in mainland China till going for college in U.S. I studied Operations Research and Computer Science at Cornell University from August 2014 to May 2018.

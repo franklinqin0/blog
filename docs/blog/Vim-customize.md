@@ -3,8 +3,6 @@ title: How to Customize Vim
 date: 2020-01-02
 tags:
  - tech
-sidebar: true
-isComment: true
 ---
 
 Write our own .vimrc!

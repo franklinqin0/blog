@@ -4,8 +4,6 @@ date: 2019-09-08
 tags:
  - finance
  - film
-sidebar: true
-isComment: true
 ---
 
 这是一部可遇不可求的神剧：《东方华尔街》The Trading Floor.

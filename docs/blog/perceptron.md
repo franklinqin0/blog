@@ -3,8 +3,7 @@ title: When Perceptron was Invented
 date: 2019-02-11
 tags:
  - tech
-sidebar: true
-isComment: true
+sidebar: false
 ---
 
 When I was learning about perceptron in the ML class, the first machine learning algorithm, invented by Frank Rosenblatt, I found about how the people at the time thought of it. The part about perceptron started from bottom right corner of first image, the section called <i>Rival</i>.

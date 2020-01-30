@@ -3,8 +3,7 @@ title: Youth
 date: 1970-01-01
 tags:
  - about me
-sidebar: true
-isComment: true
+sidebar: false
 ---
 
 Once in my junior year, I saw on the personal website of a friend called Steven having the following excerpt from [<i>This Is the Life</i>](http://www.billemory.com/dillard/dillard.html) by Annie Dillard:

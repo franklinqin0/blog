@@ -3,8 +3,7 @@ title: Learn from the Best
 date: 2019-03-07
 tags:
  - study
-sidebar: true
-isComment: true
+sidebar: false
 ---
 
 Today I met my mom's friend's brother, who is about to graduate and now interning at a tech firm that builds big data platforms for clients. After learning that my monthly pay is 20x of his intern salary and 10x of his fulltime colleagues', I had mixed feelings: I was not sure why we are doing similar stuff but there is such a huge difference between him and me, at least in terms of pay. After learning what he studied and learned, I started to get a hang of the cause of such gap.

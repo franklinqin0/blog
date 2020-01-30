@@ -3,8 +3,7 @@ title: Easy vs Right
 date: 2019-03-07
 tags:
  - life
-sidebar: true
-isComment: true
+sidebar: false
 ---
 
 Today I learned a lesson, seemingly trivial but profound.
