@@ -7,6 +7,8 @@ tags:
 
 This is everything basic we need to know about `tmux`.
 
+<!-- more -->
+
 ## Why tmux
 
 From `man tmux`:
@@ -16,7 +18,7 @@ Often times we lose the screen once we close a terminal window. However, in tmux
 
 ## Notes before Proceeding
 
-- see [Notes before Proceeding in How to Use Vim](Vim-commands#notes-before-proceeding)
+- see [Notes before Proceeding in How to Use Vim](vim_commands#notes-before-proceeding)
 - read man page of tmux: `man tmux` (don't worry if you can't understand even half of it by first glance, you'd be a genius if you do, and even a genius needs to read again, learn and practice)
 - watch some videos online to demo tmux usage
 
@@ -30,7 +32,7 @@ I write this blog both to spread the efficiency of `tmux` and keep some useful n
 
 ## Install tmux
 
-The following steps are quite similar to [those of Vim](Vim-commands.md#install-and-upgrade-neovim).
+The following steps are quite similar to [those of Vim](vim_commands.md#install-and-upgrade-neovim).
 
 For my Mac, I use `brew install tmux` to install tmux and `brew upgrade tmux` to upgrade it.
 

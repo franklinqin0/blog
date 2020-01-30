@@ -1,19 +1,23 @@
 ---
 title: My Everyday Tools
 date: 2020-01-22
-tags:
+categories:
  - tech
+tags:
+ - everyday
 ---
 
 This is a documentation of useful tools to boost my everyday efficiency.
 
+<!-- more -->
+
 ## Editors
 
-I would use *Sublime* to write Chinese and blogs, and *NeoVim* ([commands](Vim-commands.md) and [cutomizations](Vim-customize.md) to code.
+I would use *Sublime* to write Chinese and blogs, and *NeoVim* ([commands](vim_commands) and [cutomizations](vim_customize) to code.
 
 ## Terminal
 
-I am still debating between Mac's built-in *Terminal* app and *Alacritty*. The former is more traditional and supports tabs, while the latter is more modern and uses GPU for rendering and claims to be "the fastest terminal emulator". As I am just starting to use [*tmux*](Tmux.md), I will see whether I will get used to *Alacritty*, which only has only 1 tab and settings in a YAML file.
+I am still debating between Mac's built-in *Terminal* app and *Alacritty*. The former is more traditional and supports tabs, while the latter is more modern and uses GPU for rendering and claims to be "the fastest terminal emulator". As I am just starting to use [*tmux*](tmux), I will see whether I will get used to *Alacritty*, which only has only 1 tab and settings in a YAML file.
 
 ## Shell
 

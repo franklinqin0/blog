@@ -1,13 +1,16 @@
 ---
 title: Basileia
 date: 2015-07-02
-tags:
+categories:
  - philosophy
+tags:
  - religion
 sidebar: false
 ---
 
 The following words were written during Basileia(an Ancient Greek word meaning royal palace, or in Christian context, the Kingdom of God), an event organized by AAIV(Asian American Intervarsity), where I made many great friends.
+
+<!-- more -->
 
 > We human are unworthy and commit sins all the time. Therefore, we repent, which means turn away, and ask for grace and forgiveness from god. Once we ask, god will give, and for those who have strong belief, god will give more. With receiving god’s grace, we know what to do for our best and share the glory of god with other people. In this way, we are worthy of living. Let us turn to the trustworthy, proactive and generous god!
 >

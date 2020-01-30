@@ -1,12 +1,15 @@
 ---
 title: 《东方华尔街》
 date: 2019-09-08
+categories:
+ - film
 tags:
  - finance
- - film
 ---
 
 这是一部可遇不可求的神剧：《东方华尔街》The Trading Floor.
+
+<!-- more -->
 
 去年暑假入职前看了，有些术语当时还不懂，一年后的暑假辞职，回想起来，基本了解了。
 

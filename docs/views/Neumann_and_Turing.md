@@ -1,11 +1,17 @@
 ---
 title: John von Neumann(冯·诺伊曼)和Alan Turing(艾伦·图灵)
 date: 2014-07-14
+author: 一起剥坚果
+categories:
+ - tech
 tags:
+ - ML
  - copy
 ---
 
 之前看到过这样一篇讲John von Neumann(冯·诺伊曼)和Alan Turing(艾伦·图灵)的八卦文章，超好看！（摘自[上](https://songshuhui.net/archives/69786)和[下](https://songshuhui.net/archives/77807)）
+
+<!-- more -->
 
 ### 一、左边的办公室
 

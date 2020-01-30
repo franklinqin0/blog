@@ -1,13 +1,17 @@
 ---
 title: How to Customize Vim
 date: 2020-01-02
-tags:
+categories:
  - tech
+tags:
+ - vim
 ---
 
 Write our own .vimrc!
 
-Following the [last blog](Vim-commands.md) about how to use Vim w/o any customization or plugin, this blog talks about how to customize Vim for better personal usage by writing a `.vimrc`.
+Following the [last blog](vim_commands) about how to use Vim w/o any customization or plugin, this blog talks about how to customize Vim for better personal usage by writing a `.vimrc`.
+
+<!-- more -->
 
 In Unix systems, we could create a hidden file (starting with `.`) `vim ~/.vimrc` for Vim or `vim ~/.config/nvim/init.vim`. In Windows, we set value of environmental variable `$MYVIMRC` and `vim $MYVIMRC`.
 

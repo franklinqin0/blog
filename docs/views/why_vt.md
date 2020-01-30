@@ -1,12 +1,16 @@
 ---
 title: Why I became a Voluntary Teacher
 date: 2019-09-02
-tags:
+categories:
  - teach
+tags:
+ - VT
 sidebar: false
 ---
 
 This blog serves the purpose of both documenting why I chose to quit a job many envy and go for my childhood dream: voluntary teaching (VT).
+
+<!-- more -->
 
 One day, one of my Cornell friends came to HK to see me, but the night before I just couldn’t sleep. A small part is because of his coming, but mostly the insomnia is due to my unhappiness: I did not obtain enough sense of achievement from my previous day’s work, and I couldn’t sleep while I don’t think I achieved much during the day. So I just kept watching films and YouTube to waste time till about 6 a.m. in the morning. I reflected on myself: what is the most interesting thing I want to do now? After a short while, I exclaimed to myself: VT! It’s always been my dream since high school, and I almost forgot about it after a year’s daily scrums! Then, I instantly applied for the opportunity for VT in fall 2019, and went to sleep for a while, before he came to me and we went out to hang out.
 
@@ -22,4 +26,4 @@ And here I am in Guizhou, a beautiful province famous for Maotai (茅台，a fam
 
 ## Cliffhanger
 
-The [next blog](VT.md) talks about my experience as a voluntary teacher.
+The [next blog](vt) talks about my experience as a voluntary teacher.

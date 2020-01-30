@@ -1,11 +1,15 @@
 ---
 title: Spiderman
 date: 2019-09-01
-tags:
+categories:
  - film
+tags:
+ - life
 ---
 
 Spiderman, Spiderman, he does whatever a spider can!
+
+<!-- more -->
 
 First of all, the classic [theme song](https://youtu.be/ua3baljt7bg).
 
@@ -74,4 +78,4 @@ Just rewatched the third episode of Sony Spiderman trilogy, and found the follow
 
 > whatever comes in our way, whatever battle we have.raging inside us, we always have a choice. My friend Harry taught me that. He chose to be the best of himself. It’s the choices that make us who we are, and we can always choose to do what’s right.
 
-which reminds me of an essay I wrote: [Easy vs. Right](easy-vs-right).
+which reminds me of an essay I wrote: [Easy vs. Right](easy_vs_right).

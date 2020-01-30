@@ -1,10 +1,16 @@
 ---
 title: 厚积薄发
 date: 2014-10-01
-tags:
+categories:
  - study
+tags:
+ - college
 sidebar: false
 ---
+
+> “博观而约取，厚积而薄发”
+>
+> <p align="right">——苏轼</p>
 
 当我大一的彷徨时刻，总有不是家人、胜似家人的欢欢姐姐给我鼓励。以下：
 

@@ -1,13 +1,17 @@
 ---
 title: How to Use Vim
 date: 2020-01-01
-tags:
+categories:
  - tech
+tags:
+ - vim
 ---
 
 Learn basic Vim commands!
 
-This is the 1st of totally 2 blogs about Vim. And this is the [next blog](Vim-customize).
+This is the 1st of totally 2 blogs about Vim. And this is the [next blog](vim_customize).
+
+<!-- more -->
 
 ## My Previous Experience
 
@@ -256,7 +260,7 @@ Move by *one* line **without moving the cursor**:
 
 #### jump to *any character* instantly on screen
 
-See [vim-easymotion](https://github.com/easymotion/vim-easymotion) in [How to Customize Vim](Vim-customize).
+See [vim-easymotion](https://github.com/easymotion/vim-easymotion) in [How to Customize Vim](vim_customize).
 
 ---
 
@@ -336,7 +340,7 @@ examples:
 - `% s/self//n`: reports number of matches on total number of lines
 - `:% s/\<abc\>/def/g`: only substitutes the word `abc` but not words that contain it
 
-To substitute matches in multiple files, see [far.vim](https://github.com/brooth/far.vim) in [How to Customize Vim](Vim-customize).
+To substitute matches in multiple files, see [far.vim](https://github.com/brooth/far.vim) in [How to Customize Vim](vim_customize).
 
 ### Undo and Redo
 
@@ -500,4 +504,4 @@ Simply put, could switch the input method back to English.
 
 ## Cliffhanger
 
-The [next blog](Vim-customize) focuses on how to customize your `.vimrc`.
+The [next blog](vim_customize) focuses on how to customize your `.vimrc`.

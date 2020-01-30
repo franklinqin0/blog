@@ -1,11 +1,16 @@
 ---
 title: Quotes
 date: 2014-07-14
+categories:
+ - about
 tags:
  - everyday
+ - life
 ---
 
 This page documents good quotes I came across.
+
+<!-- more -->
 
 ## Top
 

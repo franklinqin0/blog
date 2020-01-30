@@ -1,12 +1,16 @@
 ---
 title: Easy vs Right
 date: 2019-03-07
+categories:
+ - philosophy
 tags:
  - life
 sidebar: false
 ---
 
 Today I learned a lesson, seemingly trivial but profound.
+
+<!-- more -->
 
 After finishing code changes, programmers usually need to test their changes in datasets of different sizes. There are a small dataset and a large one for testing, and I confidently chose the large one, though I should have tested with the small one before the large one. The problem is, I didn’t know how long the job would run on the large one but still kept going with it. The unfortunate situation happened when the large test set isn’t working as expected, because data is too large and froze my computer. Worse yet, I didn’t have the large test set saved before changes! Fortunately, I finally retrieved the data and fixed the frozen computer with a colleague’s help. The punchline of the story is not only to avoid testing with super large dataset and watch for out of memory issue, but **not to feel lucky**! If I were not to feel lucky with the large dataset and just went back a step and chose the small one to test first, I would not have wasted hours of my time solving for the stupid Windows freezing problem.
 
