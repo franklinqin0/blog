@@ -2,5 +2,5 @@
 
 franklinqin0's blog
 
-- outside China: franklinqin0.github.io/blog
+- outside China: franklinqin0.me
 - in China: franklinqin0.gitee.io/blog
