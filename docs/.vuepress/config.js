@@ -13,5 +13,19 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
-  plugins: ['@vuepress/medium-zoom', 'flowchart']
+  plugins: [
+    '@vuepress/medium-zoom', 'flowchart',
+    [
+      'vuepress-plugin-mathjax',
+      {
+        target: 'svg',
+        macros: {
+          '*': '\\times',
+          '\\N': '\\mathbb{N}',
+          '\\Z': '\\mathbb{Z}',
+          '\\Q': '\\mathbb{Q}',
+        },
+      },
+    ],
+  ]
 }

@@ -2,9 +2,9 @@
 title: How to Use Vim
 date: 2020-01-01
 categories:
- - tech
+ - study
 tags:
- - vim
+ - tech
 ---
 
 Learn basic Vim commands!

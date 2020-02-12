@@ -4,7 +4,7 @@ date: 2019-11-30
 categories:
  - study
 tags:
- - cantonese
+ - 粤语
 ---
 
 讲讲自己对HK的逐步了解和学广东话的心路历程。

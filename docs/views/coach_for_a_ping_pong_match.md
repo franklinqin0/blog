@@ -2,8 +2,9 @@
 title: 带领学生参加乒乓球比赛
 date: 2019-11-29
 categories:
- - teach
+ - misc
 tags:
+ - VT
  - ping pong
 ---
 

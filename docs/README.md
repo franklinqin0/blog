@@ -7,7 +7,7 @@ bgImageStyle: {
 faceImage: /turtle.png
 heroImage: /turtle.png
 heroImageStyle: {
-  maxHeight: '200px',
+  maxHeight: '120px',
   display: block,
   margin: '6rem auto 1.5rem',
   borderRadius: '50%',

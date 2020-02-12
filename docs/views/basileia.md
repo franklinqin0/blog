@@ -2,9 +2,10 @@
 title: Basileia
 date: 2015-07-02
 categories:
- - philosophy
+ - misc
 tags:
  - religion
+ - philosophy
 sidebar: false
 ---
 
