@@ -15,5 +15,6 @@ cd public
 git init
 git add -A
 git commit -m 'deploy'
+git push -f git@github.com:franklinqin0/franklinqin0.github.io.git master:gh-pages
 
 cd -
