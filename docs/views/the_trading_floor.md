@@ -5,6 +5,7 @@ categories:
  - film
 tags:
  - finance
+ - philosophy
 ---
 
 这是一部可遇不可求的神剧：《东方华尔街》The Trading Floor.
@@ -24,3 +25,5 @@ tags:
 - dog反过来是god啊😂
 
 好久没有遇到那么烧脑、极具艺术效果、反讽现实的戏了。
+
+will watch again and write synopsis ???

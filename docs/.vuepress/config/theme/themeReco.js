@@ -18,5 +18,26 @@ module.exports = {
   // 备案号
   record: '',
   // 项目开始时间
-  startYear: '2018'
+  startYear: '2018',
+  valineConfig: {
+    appId: 'uBOFiIcFPdMloVyGcBcw4I4o-gzGzoHsz',
+    appKey: 'XCHtYdkmozGx9g1UqOrggXnK',
+    placeholder: 'Please comment here\n请写下留言\n😋😆😎',
+    notify: true,
+    recordIP: true
+  },
+  friendLink: [
+    {
+      title: '午后南杂',
+      desc: 'Enjoy when you can, and endure when you must.',
+      email: '1156743527@qq.com',
+      link: 'https://www.recoluan.com'
+    },
+    {
+      title: 'Ein Verne',
+      desc: 'My 1st blog friend',
+      email: 'einverne@gmail.com',
+      link: 'https://blog.einverne.info'
+    },
+  ]
 }

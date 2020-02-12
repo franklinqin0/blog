@@ -2,9 +2,11 @@
 title: Easy vs Right
 date: 2019-03-07
 categories:
- - philosophy
+ - misc
 tags:
+ - tech
  - life
+ - philosophy
 sidebar: false
 ---
 

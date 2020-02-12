@@ -1,1 +1,3 @@
-### franklinqin0's blog
+# franklinqin0.gitlab.io
+
+my blog

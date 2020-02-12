@@ -1,8 +1,10 @@
 ---
 title: 浅谈学习的习惯
 date: 2014-07-14
+categories:
+ - misc
 tags:
- - study
+ - youth
 sidebar: false
 ---
 

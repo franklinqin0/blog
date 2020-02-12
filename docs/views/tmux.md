@@ -1,6 +1,8 @@
 ---
 title: Tmux
 date: 2020-01-21
+categories:
+ - study
 tags:
  - tech
 ---

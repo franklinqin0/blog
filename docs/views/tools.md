@@ -2,9 +2,9 @@
 title: My Everyday Tools
 date: 2020-01-22
 categories:
- - tech
+ - about
 tags:
- - everyday
+ - tech
 ---
 
 This is a documentation of useful tools to boost my everyday efficiency.

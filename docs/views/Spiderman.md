@@ -5,6 +5,7 @@ categories:
  - film
 tags:
  - life
+sidebar: false
 ---
 
 Spiderman, Spiderman, he does whatever a spider can!
@@ -79,3 +80,7 @@ Just rewatched the third episode of Sony Spiderman trilogy, and found the follow
 > whatever comes in our way, whatever battle we have.raging inside us, we always have a choice. My friend Harry taught me that. He chose to be the best of himself. It’s the choices that make us who we are, and we can always choose to do what’s right.
 
 which reminds me of an essay I wrote: [Easy vs. Right](easy_vs_right).
+
+will come back after watching 2 Marvel films again
+
+add Sony film 1st film quote (look into your eyes)???

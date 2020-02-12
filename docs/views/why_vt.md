@@ -1,8 +1,8 @@
 ---
-title: Why I became a Voluntary Teacher
+title: Why I Became a Voluntary Teacher
 date: 2019-09-02
 categories:
- - teach
+ - misc
 tags:
  - VT
 sidebar: false
