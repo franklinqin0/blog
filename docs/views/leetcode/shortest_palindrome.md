@@ -7,12 +7,12 @@ tags:
  - leetcode
 ---
 
-## Problem
-
 Given a string `s`, you are allowed to convert it to a palindrome by adding characters in front of it. Find and return the **shortest palindrome** you can find by performing this transformation.
 
 - [problem](https://leetcode.com/problems/shortest-palindrome/)
 - [article](https://leetcode.com/articles/shortest-palindrome/)
+
+<!-- more -->
 
 ## Solution
 
