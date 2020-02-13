@@ -34,10 +34,6 @@ where `S` is the sum of all characters in all strings.
 
 ```python
 def longestCommonPrefix(self, strs: List[str]) -> str:
-    """
-    :type strs: List[str]
-    :rtype: str
-    """
     if not strs: return ""
     # if len(strs) == 1: return strs[0]
 
@@ -66,10 +62,6 @@ where `S` is the sum of all characters in all strings.
 
 ```python
 def longestCommonPrefix(self, strs: List[str]) -> str:
-    """
-    :type strs: List[str]
-    :rtype: str
-    """
     if not strs: return ""
     if len(strs) == 1: return strs[0]
 
@@ -92,10 +84,6 @@ Complexity:
 
 ```python
 def longestCommonPrefix(self, strs: List[str]) -> str:
-    """
-    :type strs: List[str]
-    :rtype: str
-    """
     if not strs: return ""
     if len(strs) == 1: return strs[0]
 
