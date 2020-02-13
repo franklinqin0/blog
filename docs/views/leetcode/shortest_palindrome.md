@@ -22,8 +22,8 @@ This problem can be solved in various ways: brute force, RK algorithm, KMP algor
 
 Complexity:
 
-- Time: `O(n^2)`
-- Space: `O(n)`
+- Time: $O(n^2)$
+- Space: $O(n)$
 
 ```java
 public Boolean isPalindrome(String s) {
@@ -51,8 +51,8 @@ public String shortestPalindrome(String s) {
 
 Complexity:
 
-- Time: `O(n)`
-- Space: `O(n)`
+- Time: $O(n)$
+- Space: $O(n)$
 
 ```java
 public String shortestPalindrome(String s) {
@@ -82,8 +82,8 @@ public String shortestPalindrome(String s) {
 
 Complexity:
 
-- Time: `O(n)`
-- Space: `O(n)`
+- Time: $O(n)$
+- Space: $O(n)$
 
 ```java
 public String shortestPalindrome(String s) {

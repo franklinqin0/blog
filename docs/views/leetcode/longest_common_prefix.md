@@ -20,12 +20,12 @@ If there is no common prefix, return an empty string `""`.
 
 ### Horizontal Scanning
 
-Initialize `lcp` as `strs[0]`, then go thru `strs[1]` to `strs[-1]` and truncate `lcp` if not found.
+Initialize `lcp` as `strs[0]`, then iterate thru `strs[1:]` and truncate `lcp` by ending char if not found.
 
 Complexity:
 
-- Time: `O(S)`
-- Space: `O(1)`
+- Time: $O(S)$
+- Space: $O(1)$
 
 where `S` is the sum of all characters in all strings.
 
@@ -49,6 +49,17 @@ def longestCommonPrefix(self, strs: List[str]) -> str:
 ```
 
 ### Vertical Scanning
+
+Vertically scan thru `strs[1:]` to see if each string has the `i`th char is the same as `strs[0][i]`. If not, return `strs[0][:i]`. After nested for loop, return the `lcp` as `strs[0]`.
+
+Similar to [horizontal scanning](#horizontal-scanning), vertical scanning has same time & space complexity.
+
+Complexity:
+
+- Time: $O(S)$
+- Space: $O(1)$
+
+where `S` is the sum of all characters in all strings.
 
 - best case: `strs[0] == ""`
 - worst case: same as that in [Horizontal Scanning](#horizontal-scanning).
@@ -76,8 +87,8 @@ Sort `strs` s.t. elements are in alphabetical order. Then `zip` the 1st and last
 
 Complexity:
 
-- Time: `O($n \log n$)`
-- Space: `O(1)`
+- Time: $O(n \log n)$
+- Space: $O(1)$
 
 ```python
 def longestCommonPrefix(self, strs: List[str]) -> str:

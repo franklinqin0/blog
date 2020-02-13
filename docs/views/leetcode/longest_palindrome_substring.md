@@ -20,8 +20,8 @@ Given a string `s`, find the **longest palindromic substring** in `s`. You may a
 
 Complexity:
 
-- Time: `O(n^3)`
-- Space: `O(1)`
+- Time: $O(n^3)$
+- Space: $O(1)$
 
 The `brute force` solution can be further optimized to `expand around center` by expanding one char at a time in left and right direction under odd and even cases.
 
@@ -59,8 +59,8 @@ public String longestPalindrome(String s) {
 
 Complexity:
 
-- Time: `O(n)`
-- Space: `O(n)`
+- Time: $O(n)$
+- Space: $O(n)$
 
 ```java
 public String longestPalindrome(String s) {
