@@ -16,6 +16,18 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 <!-- more -->
 
+## Code Snippet
+
+The following code is before written solution:
+
+```python
+# Definition for singly-linked list.
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+```
+
 ## Solution
 
 ### Add by ints & Construct ListNode by Modulus
@@ -31,14 +43,14 @@ Complexity:
 - Time: $O(\max(m,n))$
 - Space: $O(\max(m,n))$
 
-where `n` is the number of digits in `sum`.
+where `m` is the number of digits in `l1` and `n` is the number of digits in `l2`.
 
 ```python
 def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
     sum = 0
     power = 1
 
-    while l1!=None or l2!=None:
+    while l1 or l2:
         l1_val = l1.val if l1!=None else 0
         l2_val = l2.val if l2!=None else 0
         sum += l1_val*power + l2_val*power
@@ -60,18 +72,17 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
 
 ### ListNode Adder
 
-Different from [solution](#add-by-ints--construct-listnode-by-modulus), I DIY an adder to avoid the 2nd while loop and used the dummy head `ln` to avoid `do` before while loop.
+Different from [solution](#add-by-ints--construct-listnode-by-modulus), I DIY an adder to avoid the 2nd while loop and used the dummy head `dummy` to avoid `do` before while loop.
 
 Complexity is the same and runtime is similar, but I like the second one more.
 
 ```python
 def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-    ln = ListNode(0)
-    end = ln
+    dummy = end = ListNode(0)
     sum = 0
     carry = 0
 
-    while l1!=None or l2!=None or carry!=0:
+    while l1 or l2 or carry:
         l1_val = l1.val if l1!=None else 0
         l2_val = l2.val if l2!=None else 0
         sum = l1_val + l2_val + carry
@@ -81,10 +92,12 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         l1 = l1.next if l1!=None else None
         l2 = l2.next if l2!=None else None
 
-    return ln.next
+    return dummy.next
 ```
 
-## Note: Division Operators `/` and `//`
+## Note
+
+### Division Operators `/` and `//`
 
 The division operators difference in Python 2 and 3 is described [here](https://www.geeksforgeeks.org/division-operator-in-python/).
 
@@ -99,3 +112,7 @@ Python 3 uses `//` for **floor division** for *both int and float arguments*.
 So the behavior of “//” is same for Python 2 and 3.
 
 Personally I like Python 3 for division behavior as it's clearer and causes less confusion.
+
+### Simpler Ways to Calculate Values of ListNode in While Loop
+
+The `if foo!=None then bar` thing looks quite ugly. Please see the [next problem](add_two_numbers_ii) for the while loop with 2 if statements.

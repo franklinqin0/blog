@@ -25,13 +25,25 @@ Other than these reasons, I also learned `C++` along the way because there are m
 - [Two Sum](two_sum)
 - [Longest Common Subsequence](longest-common-subsequence)
 
-## Language I used
+## Languages I used
 
-I previously used `Java` extensively, but will use `Python3` from now on for the speed, simplicity and elegance.
+### Java
 
-## Edge Cases
+I previously used `Java` extensively, because one of my best friends said Java gives you a better time to explain the underlying data structure.
 
-Watch out for the following edge cases:
+### C++
+
+I was actually learning the language and am now reading many solutions in this language. However, C++ is known for a steep learning curve, and I don't think it's a good idea to write my solution while checking how to do a thing in it.
+
+### Python 3
+
+My officially first programming language is Python 2, from which I learned if, for, while, simple but useful data structures like list and map, and finally even a little OOP before learning Java. Several years later, Python is extinct and Python 3 inherits the speed, simplicity and elegance.
+
+Thus, now I am using Python 3.
+
+## Edge Cases - A Note for Myself
+
+ALWAYS watch out for the edge cases, typical ones including but not limited to:
 
 - empty string
 - empty array
