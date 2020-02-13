@@ -1,5 +1,5 @@
 ---
-title: Two Sum
+title: Leetcode Notes
 date: 2020-02-13
 categories:
  - study
@@ -7,7 +7,7 @@ tags:
  - leetcode
 ---
 
-I keep following notes for [Leetcode](https://leetcode.com) problems I solved.
+I keep notes for [Leetcode](https://leetcode.com) problems I solved.
 
 <!-- more -->
 
