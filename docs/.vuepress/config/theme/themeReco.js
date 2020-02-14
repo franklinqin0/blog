@@ -22,7 +22,7 @@ module.exports = {
   valineConfig: {
     appId: 'uBOFiIcFPdMloVyGcBcw4I4o-gzGzoHsz',
     appKey: 'XCHtYdkmozGx9g1UqOrggXnK',
-    placeholder: 'Please comment here\n请写下留言\n😋😆😎',
+    placeholder: '😋😆😎',
     notify: true,
     recordIP: true
   },
