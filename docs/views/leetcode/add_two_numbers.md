@@ -11,8 +11,11 @@ You are given two **non-empty** linked lists representing two non-negative integ
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
+:::tip
+
 - [problem](https://leetcode.com/problems/add-two-numbers/)
 - [article](https://leetcode.com/articles/add-two-numbers/)
+:::
 
 <!-- more -->
 

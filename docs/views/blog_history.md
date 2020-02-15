@@ -29,3 +29,5 @@ Following are the items I try to finish in the future. When I finish them, I wil
 [ ] multi-language support
 [ ] change theme color to blue
 [ ] set up self-runner on *Aliyun* and corresponding *GitHub Action*
+[ ] set up RSS feed
+[ ] play songs at bottom left corner

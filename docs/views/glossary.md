@@ -18,12 +18,12 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 
 | Abbreviations | Full Name | 中文意思
 | ------------- | --------- | ------ |
-| IMPT | important | 重要的 |
 | VT | voluntary teaching | 支教 |
 | ZF | government | 政府 |
 | IDK | I don't know | 我不知道 |
 | BS | bullshit | 扯淡 |
 | thru | through | 穿过，在...期间 |
+| o.w. | otherwise | 不然 |
 
 ## CS Abbreviations
 
@@ -35,3 +35,6 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | int | integer |
 | elt | element |
 | len | length |
+| IMPT | important | 重要的 |
+| REC | recommended | 推荐的 |
+| XREC | not recommended | 不推荐的 |

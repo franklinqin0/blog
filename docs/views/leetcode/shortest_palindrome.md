@@ -9,8 +9,11 @@ tags:
 
 Given a string `s`, you are allowed to convert it to a palindrome by adding characters in front of it. Find and return the **shortest palindrome** you can find by performing this transformation.
 
+:::tip
+
 - [problem](https://leetcode.com/problems/shortest-palindrome/)
 - [article](https://leetcode.com/articles/shortest-palindrome/)
+:::
 
 <!-- more -->
 
@@ -24,6 +27,8 @@ Complexity:
 
 - Time: $O(n^2)$
 - Space: $O(n)$
+
+where `n` is the length of `s`.
 
 ```java
 public Boolean isPalindrome(String s) {
@@ -54,6 +59,8 @@ Complexity:
 - Time: $O(n)$
 - Space: $O(n)$
 
+where `n` is the length of `s`.
+
 ```java
 public String shortestPalindrome(String s) {
     int power = 1;
@@ -80,10 +87,14 @@ public String shortestPalindrome(String s) {
 
 ### KMP(Knuth-Morris-Pratt) algorithm
 
+???
+
 Complexity:
 
 - Time: $O(n)$
 - Space: $O(n)$
+
+where `n` is the length of `s`.
 
 ```java
 public String shortestPalindrome(String s) {

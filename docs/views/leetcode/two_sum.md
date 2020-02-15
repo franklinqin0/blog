@@ -11,8 +11,11 @@ Given an array of integers, return **indices** of the two numbers such that they
 
 You may assume that each input would have ***exactly*** one solution, and you may not use the same element twice.
 
+:::tip
+
 - [problem](https://leetcode.com/problems/two-sum/)
 - [article](https://leetcode.com/articles/two-sum/)
+:::
 
 <!-- more -->
 

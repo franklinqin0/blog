@@ -9,8 +9,11 @@ tags:
 
 Given a string `s`, find the **longest palindromic substring** in `s`. You may assume that the maximum length of `s` is 1000.
 
+:::tip
+
 - [problem](https://leetcode.com/problems/longest-palindromic-substring/)
 - [article](https://leetcode.com/articles/longest-palindromic-substring/)
+:::
 
 <!-- more -->
 
@@ -68,6 +71,7 @@ public String longestPalindrome(String s) {
     StringBuilder sb = new StringBuilder("^");
     int centerLPS = 0, lengthLPS = -1;
 
+    // preprocessing
     for (int i=0; i<s.length(); i++)
         // add "#" inbetween chars
         sb = sb.append("#" + s.charAt(i));

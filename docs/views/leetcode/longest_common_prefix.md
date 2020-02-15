@@ -11,8 +11,11 @@ Write a function to find the longest common prefix string amongst an array of st
 
 If there is no common prefix, return an empty string `""`.
 
+:::tip
+
 - [problem](https://leetcode.com/problems/longest-common-prefix/)
 - [article](https://leetcode.com/articles/longest-common-prefix/)
+:::
 
 <!-- more -->
 

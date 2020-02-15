@@ -15,9 +15,12 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 What if you cannot modify the input lists? In other words, reversing the lists is not allowed.
 
+:::tip
+
 - [problem](https://leetcode.com/problems/add-two-numbers-ii/)
 
 See the easier related problem [Add Two Numbers](add_two_numbers).
+:::
 
 <!-- more -->
 
@@ -43,7 +46,7 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         curr = l
 
         while curr:
-            // IMPT: remember the steps to reverse a singly linked list
+            # IMPT: remember the steps to reverse a singly linked list
             nxt = curr.next
             curr.next = prev
             prev = curr
