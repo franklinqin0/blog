@@ -11,7 +11,7 @@ You are given two **non-empty** linked lists representing two non-negative integ
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
-[*Follow up:*](#follow-up)
+*Follow up:*
 
 What if you cannot modify the input lists? In other words, reversing the lists is not allowed.
 
@@ -37,7 +37,7 @@ Complexity:
 - Time: $O(m+n)$
 - Space: $O(m+n)$
 
-where `m` is the number of digits in `l1` and `n` is the number of digits in `l2`.
+where `m` is the number of nodes in `l1` and `n` is the number of nodes in `l2`.
 
 ```python
 def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
@@ -46,7 +46,7 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         curr = l
 
         while curr:
-            # IMPT: remember the steps to reverse a singly linked list
+            # IMPT: remember the steps to reverse a singly linked list!!!
             nxt = curr.next
             curr.next = prev
             prev = curr
@@ -74,11 +74,11 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
 
 ---
 
-The follow up says:
+The [*follow up:*](#follow-up) says:
 
 > What if you cannot modify the input lists? In other words, reversing the lists is not allowed.
 
-That's very much like an interview question! There are two ways: stack and recursion.
+There are two ways: stack and recursion.
 
 ### Stack
 
@@ -135,41 +135,41 @@ Frankly, I copied most of the following code, as the recursive function `add_lis
 Both time and space complexity are the same.
 
 ```python
-    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        def get_len(l: ListNode) -> int:
-            length = 0
-            while l:
-                l = l.next
-                length += 1
-            return length
+def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+    def get_len(l: ListNode) -> int:
+        length = 0
+        while l:
+            l = l.next
+            length += 1
+        return length
 
-        def add_lists(ln1: ListNode, ln2: ListNode, diff: int) -> (ListNode, int):
-            if ln1 is None and ln2 is None:
-                return None, 0
-            if diff>0:
-                # currently ln1 is longer than ln2
-                # move the pointer at list1 to n1.next, don't move the pointer at list2
-                next_node, carry = add_lists(ln1.next, ln2, diff-1)
-                carry += ln1.val
-            else:
-                next_node, carry = add_lists(ln1.next, ln2.next, diff)
-                carry += ln1.val + ln2.val
-            new_val, new_carry = carry%10, carry//10
-            head = ListNode(new_val)
-            head.next = next_node
-            return head, new_carry
+    def add_lists(ln1: ListNode, ln2: ListNode, diff: int) -> (ListNode, int):
+        if ln1 is None and ln2 is None:
+            return None, 0
+        if diff>0:
+            # currently ln1 is longer than ln2
+            # move the pointer at list1 to n1.next, don't move the pointer at list2
+            next_node, carry = add_lists(ln1.next, ln2, diff-1)
+            carry += ln1.val
+        else:
+            next_node, carry = add_lists(ln1.next, ln2.next, diff)
+            carry += ln1.val + ln2.val
+        new_val, new_carry = carry%10, carry//10
+        head = ListNode(new_val)
+        head.next = next_node
+        return head, new_carry
 
-        l1_len, l2_len = get_len(l1), get_len(l2)
-        # always keep len(ln1) > len(ln2)
-        if l1_len < l2_len:
-            l1_len, l2_len = l2_len, l1_len
-            l1, l2 = l2, l1
-        diff = l1_len - l2_len
-        head, carry = add_lists(l1, l2, diff)
-        # handle the leftmost carry
-        if carry:
-            c = ListNode(carry)
-            c.next = head
-            head = c
-        return head
+    l1_len, l2_len = get_len(l1), get_len(l2)
+    # always keep len(ln1) > len(ln2)
+    if l1_len < l2_len:
+        l1_len, l2_len = l2_len, l1_len
+        l1, l2 = l2, l1
+    diff = l1_len - l2_len
+    head, carry = add_lists(l1, l2, diff)
+    # handle the leftmost carry
+    if carry:
+        c = ListNode(carry)
+        c.next = head
+        head = c
+    return head
 ```

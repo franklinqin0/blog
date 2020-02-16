@@ -53,7 +53,7 @@ def mySqrt(self, x):
 
 If $x < 2$, return $x$.
 
-For $x \ge 2$ the square root is always smaller than $\frac{x}{2}$ and larger than 0: $0 < a < \frac{x}{2}$.
+For $x \ge 2$, $\sqrt{x}$ is always smaller than $\frac{x}{2}$ and larger than 0: $0 < a < \frac{x}{2}$.
 
 Complexity:
 

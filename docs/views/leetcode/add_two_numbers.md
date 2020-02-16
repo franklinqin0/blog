@@ -46,7 +46,7 @@ Complexity:
 - Time: $O(\max(m,n))$
 - Space: $O(\max(m,n))$
 
-where `m` is the number of digits in `l1` and `n` is the number of digits in `l2`.
+where `m` is the number of nodes in `l1` and `n` is the number of nodes in `l2`.
 
 ```python
 def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
