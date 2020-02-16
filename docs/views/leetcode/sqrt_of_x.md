@@ -102,7 +102,7 @@ def mySqrt(self, x):
 
 ### Newton's Method
 
-Newton's method gives the [best runtime asymptotically](https://leetcode.com/articles/Figures/69/cp.png).
+[Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method#Square_root_of_a_number) gives the [best runtime asymptotically](https://leetcode.com/articles/Figures/69/cp.png).
 
 The math is deduced below:
 
