@@ -52,8 +52,8 @@ Equivalently, could do `bin(6)[2:].zfill(8)`, where `zfill` added the `0`'s padd
 
 Complexity:
 
-- Time: $O(max(N,M))$
-- Space: $O(max(N,M))$
+- Time: $O(\max(N,M))$
+- Space: $O(\max(N,M))$
 
 ```python
 def addBinary(self, a, b) -> str:
@@ -85,6 +85,11 @@ def addBinary(self, a, b) -> str:
 ### Bit Manipulation
 
 See explanation in the [article](https://leetcode.com/articles/add-binary#approach-2-bit-manipulation).
+
+Complexity:
+
+- Time: $O(\max(N,M))$
+- Space: $O(\max(N,M))$
 
 ```python
 def addBinary(self, a, b) -> str:
