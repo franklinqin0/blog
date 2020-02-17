@@ -3,7 +3,7 @@ title: John von Neumann(冯·诺伊曼)和Alan Turing(艾伦·图灵)
 date: 2014-07-14
 author: 一起剥坚果
 categories:
- - tech
+ - misc
 tags:
  - ML
  - copy

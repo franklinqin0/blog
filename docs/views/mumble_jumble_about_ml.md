@@ -2,7 +2,7 @@
 title: Mumble-jumble about ML
 date: 2019-02-11
 categories:
- - tech
+ - misc
 tags:
  - ML
  - sci-fi
