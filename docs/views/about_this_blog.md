@@ -38,3 +38,9 @@ Some apps I've always wanted to build:
 - [ ] implement md <-> html converter in `sed`
 - [ ] collaborative code editor built in `Vue`
 - [ ] `LaTex` <-> picture converter on PC & mobile
+
+To fix:
+
+= [ ] `\begin` not interpreted in vuepress-plugin-mathjax:
+
+https://github.com/vuepress/vuepress-plugin-mathjax/blob/master/src/markdown.js

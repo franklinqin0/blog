@@ -25,10 +25,14 @@ Could you solve it without converting the integer to a string?
 
 ### Convert to String & Compare Chars
 
+We perform $O(1)$ per digit and there are $O(\log n)$ digits in total.
+
+We use a string to store $O(\log n)$ digits so space is $O(\log n)$.
+
 Complexity:
 
-- Time: $O(n)$
-- Space: $O(n)$ ???
+- Time: $O(\log n)$
+- Space: $O(\log n)$
 
 ```python
 def isPalindrome(self, x: int) -> bool:
@@ -66,10 +70,14 @@ Let's just do vanilla int comparison then.
 
 ### Revert an Integer & Compare Ints
 
+We perform $O(1)$ per digit and there are $O(\log n)$ digits in total.
+
+There is no string initialized so space is constant.
+
 Complexity:
 
-- Time: $O(n)$
-- Space: $O(1)$ ???
+- Time: $O(\log n)$
+- Space: $O(1)$
 
 ```python
 def isPalindrome(self, x: int) -> bool:
