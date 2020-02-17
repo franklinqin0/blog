@@ -22,9 +22,16 @@ Assume we are dealing with an environment which could only store integers within
 
 ## Solution
 
-### Convert to String & Reverse & Convert back to Int
+### Built-in Functions
+
+Convert to a `str`, reverse the string, and finally convert back to `int`.
 
 Since `ri` is positive, only need to check if $< 2^{31}$.
+
+Complexity:
+
+- Time: $O(\log n)$
+- Space: $O(\log n)$
 
 ```python
 def reverse(self, x: int) -> int:
@@ -36,6 +43,11 @@ def reverse(self, x: int) -> int:
 ### Reverse an Int
 
 Following is a standard way to reverse an int and should be remembered.
+
+Complexity:
+
+- Time: $O(\log n)$
+- Space: $O(1)$
 
 ```python
 def reverse(self, x: int) -> int:

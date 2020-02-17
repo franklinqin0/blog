@@ -53,7 +53,12 @@ def isPalindrome(self, x: int) -> bool:
 
 ### 1-line Solution
 
-Why should I do the char comparison in a while loop myself?
+Why should I do the char comparison in a while loop myself? Leave it to `::` in Python!
+
+Complexity:
+
+- Time: $O(\log n)$
+- Space: $O(\log n)$
 
 ```python
 def isPalindrome(self, x: int) -> bool:

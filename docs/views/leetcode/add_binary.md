@@ -9,7 +9,7 @@ tags:
 
 Given two binary strings, return their sum (also a binary string).
 
-The input strings are both non-empty and contains only characters 1 or 0.
+The input strings are both **non-empty** and contains only characters 1 or 0.
 
 :::tip
 
@@ -45,10 +45,15 @@ A tip on `f-strings`. For example: `f'{6:08b}'`.
 
 Starting with `f`, represent int `6` in `8` `b`inary digits with `0`'s padded at front. So the evaluated result is: `'00000110'`.
 
-Equivalently, could do `bin(6)[2:].zfill(8)`, where `zfill` added the `0`'s padded at front
+Equivalently, could do `bin(6)[2:].zfill(8)`, where `zfill` added the `0`'s padded at front.
 :::
 
 ### Bit-by-bit manipulation
+
+Complexity:
+
+- Time: $O(max(N,M))$
+- Space: $O(max(N,M))$
 
 ```python
 def addBinary(self, a, b) -> str:
@@ -75,4 +80,28 @@ def addBinary(self, a, b) -> str:
     answer.reverse()
 
     return ''.join(answer)
+```
+
+### Bit Manipulation
+
+See explanation in the [article](https://leetcode.com/articles/add-binary#approach-2-bit-manipulation).
+
+```python
+def addBinary(self, a, b) -> str:
+    x, y = int(a, 2), int(b, 2)
+    while y:
+        answer = x ^ y
+        carry = (x & y) << 1
+        x, y = answer, carry
+    return bin(x)[2:]
+```
+
+An equivalent but even shorter solution:
+
+```python
+def addBinary(self, a: str, b: str) -> str:
+    x, y = int(a,2), int(b,2)
+    while y>0:
+        x, y = x^y, (x&y) << 1
+    return bin(x)[2:]
 ```
