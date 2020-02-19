@@ -16,12 +16,21 @@ Note:
 3. Both `num1` and `num2` do not contain any leading zero, except the number 0 itself.
 4. You **must not use any built-in BigInteger library** or **convert the inputs to integer directly**.
 
+<!-- more -->
+
 :::tip
 
 - [problem](https://leetcode.com/problems/multiply-strings/)
 - [article](https://leetcode.com/articles/multiply-strings/)
 :::
 
+## Solution
+
+### Int Array
+
+Use an int array to store the result and convert back to string.
+
+See explanation at [here](https://leetcode.com/problems/multiply-strings/discuss/17605/Easiest-JAVA-Solution-with-Graph-Explanation).
 
 ```python
 class Solution:
@@ -42,4 +51,30 @@ def multiply(self, num1: str, num2: str) -> str:
             res += str(p)
 
     return res
+```
+
+### String as Char Array
+
+We could calculate product of int digits and store in string.
+
+Since `str` object in Python doesn't support item assignment, I found a C++ solution below:
+
+```Cpp
+string sum(num1.size() + num2.size(), '0');
+
+for (int i = num1.size() - 1; 0 <= i; --i) {
+    int carry = 0;
+    for (int j = num2.size() - 1; 0 <= j; --j) {
+        int tmp = (sum[i + j + 1] - '0') + (num1[i] - '0') * (num2[j] - '0') + carry;
+        sum[i + j + 1] = tmp % 10 + '0';
+        carry = tmp / 10;
+    }
+    sum[i] += carry;
+}
+
+size_t startpos = sum.find_first_not_of("0");
+if (string::npos != startpos) {
+    return sum.substr(startpos);
+}
+return "0";
 ```

@@ -36,8 +36,11 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | Abbreviations | Full Name |
 | ------------- | --------- |
 | CS | Computer Science |
+| algo | algorithm |
 | var | variable |
-| char | character |
 | int | integer |
+| char | character |
+| str | string |
+| dict | dictionary |
 | elt | element |
 | len | length |

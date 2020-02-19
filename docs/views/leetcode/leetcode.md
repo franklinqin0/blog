@@ -17,13 +17,29 @@ While most people do Leetcode to find a (better) job, I do it to review my algor
 
 Other than these reasons, I also learned `C++` along the way because there are many solutions on Leetcode discussions written in the language.
 
-## Problems I solved
+## Problems I solved (??? should organize once migrated)
 
 - [Longest Common Prefix](longest_common_prefix)
 - [Longest Palindrome Substring](longest_palindrome_substring)
 - [Shortest Palindrome](shortest_palindrome)
 - [Two Sum](two_sum)
 - [Longest Common Subsequence](longest-common-subsequence)
+
+## Checklist I followed
+
+This is the checklist I followed for each blog:
+
+- state the problem
+- follow up or note if any
+- `<!-- more -->` tag for better preview
+- problem (and article) links
+- code snippet if any
+- solution
+  - title to summarize
+  - elaboration of algo
+  - time&space complexity
+  - code
+  - further notes
 
 ## Languages I used
 
@@ -43,7 +59,7 @@ Thus, now I am using Python 3.
 
 ## Edge Cases - A Note for Myself
 
-ALWAYS watch out for the edge cases, typical ones including but not limited to:
+ALWAYS watch out for the edge cases with typical ones including but not limited to:
 
 - empty string
 - empty array

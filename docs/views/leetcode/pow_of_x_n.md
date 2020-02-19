@@ -1,5 +1,5 @@
 ---
-title: `x` to the `n`
+title: x to the n
 date: 2020-02-17
 categories:
  - study

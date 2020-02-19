@@ -98,7 +98,7 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
     return dummy.next
 ```
 
-## Note
+## Further Notes
 
 ### Division Operators `/` and `//`
 
