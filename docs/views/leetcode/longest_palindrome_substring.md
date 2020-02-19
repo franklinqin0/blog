@@ -9,13 +9,13 @@ tags:
 
 Given a string `s`, find the **longest palindromic substring** in `s`. You may assume that the maximum length of `s` is 1000.
 
+<!-- more -->
+
 :::tip
 
 - [problem](https://leetcode.com/problems/longest-palindromic-substring/)
 - [article](https://leetcode.com/articles/longest-palindromic-substring/)
 :::
-
-<!-- more -->
 
 ## Solution
 

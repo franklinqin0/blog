@@ -1,5 +1,5 @@
 ---
-title: Int to Roman
+title: Integer to Roman
 date: 2020-02-15
 categories:
  - study
@@ -18,6 +18,8 @@ Not as interesting as the reversed [Roman to Int](int_to_roman) problem.
 :::
 
 ## Solution
+
+Note that time/space complexity are not discussed below.
 
 ### Many if/else Statements
 
