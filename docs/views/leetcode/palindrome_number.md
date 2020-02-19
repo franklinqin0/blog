@@ -1,5 +1,5 @@
 ---
-title: Two Sum
+title: Palindrome Number
 date: 2020-02-16
 categories:
  - study
@@ -42,7 +42,7 @@ def isPalindrome(self, x: int) -> bool:
     l = 0
     r = len(s)-1
     while l<r:
-        # compare head and tail
+        # compare 1st and last digit
         if s[l]!=s[r]:
             return False
         else:

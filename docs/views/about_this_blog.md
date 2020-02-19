@@ -38,6 +38,7 @@ Some apps I've always wanted to build:
 - [ ] implement md <-> html converter in `sed`
 - [ ] collaborative code editor built in `Vue`
 - [ ] `LaTex` <-> picture converter on PC & mobile
+- [ ] crawls news(hacker, blog, Ted) and show on personal webpage
 
 To fix:
 
