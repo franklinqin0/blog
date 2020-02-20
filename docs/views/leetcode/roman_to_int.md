@@ -7,6 +7,8 @@ tags:
  - leetcode
 ---
 
+$\uparrow$
+
 <!-- more -->
 
 :::tip

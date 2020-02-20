@@ -1,13 +1,15 @@
 ---
 title: Integer to Roman
-date: 2020-02-15
+date: 2020-02-19
 categories:
  - study
 tags:
  - leetcode
 ---
 
-Not as interesting as the reversed [Roman to Int](int_to_roman) problem.
+$\uparrow$
+
+Not as interesting as the reversed [Roman to Int](roman_to_int#solution) problem.
 
 <!-- more -->
 
