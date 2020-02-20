@@ -18,14 +18,14 @@ module.exports = {
   // 备案号
   record: '',
   // 项目开始时间
-  startYear: '2018',
-  valineConfig: {
-    appId: 'uBOFiIcFPdMloVyGcBcw4I4o-gzGzoHsz',
-    appKey: 'XCHtYdkmozGx9g1UqOrggXnK',
-    placeholder: '😋😆😎',
-    notify: true,
-    recordIP: true
-  },
+  // startYear: '2018',
+  // valineConfig: {
+  //   appId: 'uBOFiIcFPdMloVyGcBcw4I4o-gzGzoHsz',
+  //   appKey: 'XCHtYdkmozGx9g1UqOrggXnK',
+  //   placeholder: '😋😆😎',
+  //   notify: true,
+  //   recordIP: true
+  // },
   friendLink: [
     {
       title: '午后南杂',
