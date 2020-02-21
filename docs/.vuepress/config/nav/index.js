@@ -4,6 +4,7 @@ module.exports = [
   { text: 'Contact', 
     icon: 'reco-message',
     items: [
+      { text: 'Subscribe vis RSS', link: 'https://franklinqin0.github.io/blog/rss', icon: 'reco-rss' },
       { text: 'Email', link: 'mailto:franklinqin0@gmail.com?subject=I read your blog and here is what I think', icon: 'reco-mail' },
       { text: 'Wechat', link: 'https://franklinqin0.github.io/blog/wechat.png', icon: 'reco-wechat'},
       { text: 'Facebook', link: 'https://www.facebook.com/franklinqin0', icon: 'reco-facebook'},

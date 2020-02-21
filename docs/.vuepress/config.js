@@ -27,8 +27,9 @@ module.exports = {
         },
       },
     ],
-    ['@vuepress-reco/vuepress-plugin-rss',
-    {
+    [
+      '@vuepress-reco/vuepress-plugin-rss',
+      {
       site_url: 'https://franklinqin0.me',
       count: 20
       }
