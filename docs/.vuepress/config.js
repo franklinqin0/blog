@@ -5,6 +5,8 @@ module.exports = {
   title: "Franklin Qin",
   description: '哲人日已遠，典型在夙昔。風簷展書讀，古道照顏色',
   dest: 'docs/.vuepress/dist',
+  editLinks: true,
+  editLinkText: 'Edit this page on GitHub',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
