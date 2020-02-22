@@ -46,6 +46,18 @@ module.exports = {
       }
     ],
     [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-146843725-1'
+      }
+    ],
+    [
+      "vuepress-plugin-google-adsense",
+      {
+        ad_client: "ca-pub-5734307660524130" // replace it with your ad_client
+      }
+    ],
+    [
       'vuepress-plugin-mathjax',
       {
         target: 'svg',
