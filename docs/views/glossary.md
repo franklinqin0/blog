@@ -1,6 +1,6 @@
 ---
 title: Glossary
-date: 9999-12-29
+date: 9999-01-01
 categories:
  - about
 tags:
