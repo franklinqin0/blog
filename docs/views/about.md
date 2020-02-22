@@ -16,10 +16,8 @@ I was born and grew up in mainland China till going for college in U.S. I studie
 
 I was a technology analyst working at GS in Hong Kong from July 2018 to August 2019.
 
-Now I am a voluntary teacher in Guizhou, China.
+I was a voluntary teacher in CJ, Guizhou, China from September 2019 to December 2019.
 
-This is an anecdote about starting this site: [Youth](youth)
+[This](youth) is an anecdote about starting this site and [this](about_this_blog) is about the blog.
 
-I don't like to broadcast myself across the world, while I welcome those who come across my site and interested in my life to know more about me and my thoughts.
-
-I will keep writing blogs because of my adamant love for [Markdown](https://daringfireball.net/projects/markdown/syntax). It's simple and down-to-earth, just like me. And I'M LOVIN IT~~~
+I will keep writing blogs because of my adamant love for [Markdown](https://daringfireball.net/projects/markdown/syntax), b/c it's simple and down-to-earth, just like me.

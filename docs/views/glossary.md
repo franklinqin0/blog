@@ -30,12 +30,18 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | XREC | not recommended | 不推荐的 |
 | w/ | with | 和...一起 |
 | w/o | without | 没有和...一起 |
+| b/c | because | 因为 |
+| ofc | of course | 当然 |
 
 ## CS Abbreviations
 
 | Abbreviations | Full Name |
 | ------------- | --------- |
 | CS | Computer Science |
+| OOP | object-oriented programming |
+| FP | functional programming |
+| ML | machine learning |
+| PL | programming language |
 | algo | algorithm |
 | var | variable |
 | int | integer |
@@ -44,3 +50,5 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | dict | dictionary |
 | elt | element |
 | len | length |
+| def | definition |
+| thm | theorem |
