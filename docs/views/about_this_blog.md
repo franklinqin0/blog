@@ -30,12 +30,8 @@ I already have the former two, and am still finding the `X` project and trying t
 
 Following are the items I try to finish in the future. When I finish them, I will tick.
 
-- [ ] change theme color to blue
-- [ ] explore GitHub comments
-- [ ] set up self-runner on *Aliyun* and corresponding *GitHub Action*
-- [ ] set up RSS feed
 - [ ] play songs at bottom left corner
-[ ] multi-language support
+- [ ] multi-language support
 
 Some apps I've always wanted to build:
 

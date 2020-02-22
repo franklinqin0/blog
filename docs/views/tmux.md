@@ -7,7 +7,7 @@ tags:
  - tech
 ---
 
-This is everything basic we need to know about `tmux`.
+I write this blog both to spread the efficiency of `tmux` and keep some useful notes for myself.
 
 <!-- more -->
 
@@ -27,10 +27,6 @@ Often times we lose the screen once we close a terminal window. However, in tmux
 ## My Previous Experience
 
 I was introduced to `tmux` almost the same time as `Vim` by a roommate. I found it useful to open multiple sessions and windows on a screen, saving troubles from switching terminal tabs, but I was too busy and lazy to learn new tools with heavy workload at school.
-
-## Why this Blog
-
-I write this blog both to spread the efficiency of `tmux` and keep some useful notes for myself.
 
 ## Install tmux
 

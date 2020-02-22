@@ -7,7 +7,7 @@ tags:
  - tech
 ---
 
-Learn basic Vim commands!
+I write this blog both to spread the holiness of `Vim` and keep a reminder of useful commands for myself.
 
 This is the 1st of totally 2 blogs about Vim. And this is the [next blog](vim_customize).
 
@@ -28,10 +28,6 @@ You might spend $\frac{2}{3}$ of your waking hours coding, and you might spend $
 ## Why Vim
 
 Vim's philosophy conincides with geeks': **keyboard is faster and more powerful than mouse**. I envy the those on YouTube who could just type Vim commands and my eyes couldn't follow. To be a geek, I need to first become a Vimer.
-
-## Why this Blog
-
-I write this blog both to spread the holiness of `Vim` and keep a reminder of useful commands for myself.
 
 ## Philosophy of this Blog
 
