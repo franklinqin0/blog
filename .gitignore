@@ -1,4 +1,7 @@
-node_modules/
 .DS_Store
-docs/.vuepress/dist/
+.env
+yarn-error.log
+
 .vscode/
+node_modules/
+docs/.vuepress/dist/

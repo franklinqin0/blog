@@ -1,4 +1,5 @@
 const themeConfig = require('./config/theme/')
+require('dotenv/config');
 
 module.exports = {
   title: "Franklin Qin",
@@ -14,7 +15,36 @@ module.exports = {
     lineNumbers: true
   },
   plugins: [
-    '@vuepress/medium-zoom', 'flowchart',
+    'flowchart',
+    [
+      'vuepress-plugin-comment',
+      {
+        choosen: 'gitalk', 
+        options: {
+          clientID: process.env.clientID,
+          clientSecret: process.env.clientSecret,
+          repo: "blog",
+          owner: "franklinqin0",
+          admin: ["franklinqin0"],
+          id: "<%- frontmatter.title %>", // Ensure uniqueness and length less than 50
+          distractionFreeMode: true, // Facebook-like distraction free mode
+          labels: ["Comment"],
+          title: "Comment | <%- frontmatter.title %>",
+          body: "<%- frontmatter.title %>：<%- window.location.origin %><%- window.location.pathname %>"
+        }
+      }
+    ],
+    [
+      '@vuepress/medium-zoom',
+      {
+        selector: 'img.medium-zoom',
+        // medium-zoom options here
+        // See: https://github.com/francoischalifour/medium-zoom#options
+        options: {
+          margin: 16
+        }
+      }
+    ],
     [
       'vuepress-plugin-mathjax',
       {

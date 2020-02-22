@@ -7,8 +7,6 @@ tags:
  - tech
 ---
 
-## Why This Blog
-
 This blog originates from slides of my first (and only) tech talk at GS in July 2019. I chose this topic b/c our team used a lot of Java (Spring & business logic), but lacks knowledge in FP.
 
 What makes me happy is that most attendees said good things about it :P, so I posted them here now.
