@@ -54,3 +54,4 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | def | definition |
 | thm | theorem |
 | doc | documentation |
+| loc | lines of code |
