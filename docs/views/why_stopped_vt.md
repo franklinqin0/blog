@@ -56,7 +56,7 @@ This scripture reminds me of [*Sunrise Also sprach Zarathustra* in *2001: A Spac
 
 ### Light over Rural Education in China
 
-I don't see much right now. As stated in [My VT experience](vt), teachers do **NOT** earn what they deserve, so not many good teachers would come to insular places like TL primary school. Thanks to Steve Jobs, almost every kid I know in 4th grade and above has a smartphone and uses it mostly for games and streaming short videos.
+I don't see much right now. As stated in [My VT experience](vt.md#老师只是兼职教书), teachers do **NOT** earn what they deserve, so not many good teachers would come to insular places like TL primary school. Thanks to Steve Jobs, almost every kid I know in 4th grade and above has a smartphone and uses it mostly for games and streaming short videos.
 
 This is a bad habit I had cultivated as a primary school teacher: repeating myself over and over in case students forgot, and they most likely do. For the last time, let me just the lousy excuse and hereby quote my aforementioned manifesto:
 
