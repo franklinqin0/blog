@@ -1,6 +1,6 @@
 ---
 title: Glossary
-date: 9999-12-30
+date: 9999-12-29
 categories:
  - about
 tags:
@@ -42,6 +42,7 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | FP | functional programming |
 | ML | machine learning |
 | PL | programming language |
+| MVP | minimum viable product |
 | algo | algorithm |
 | var | variable |
 | int | integer |
@@ -52,3 +53,4 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | len | length |
 | def | definition |
 | thm | theorem |
+| doc | documentation |
