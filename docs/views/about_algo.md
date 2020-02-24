@@ -8,7 +8,9 @@ tags:
 sidebar: false
 ---
 
-Recently, I created the site to record [algorithm problems I've solved](https://alog.franklinqin0.me).
+Recently, I spent 3 days to create the site to record [algorithm problems I've solved](https://alog.franklinqin0.me).
+
+It may be slow in the eyes of most skilled developers, but it used to take me at least 3 weeks to push a small enhancement to production at GS. I've encountered many weird errors but also learned so much in the process!
 
 ## Hide My Secrets
 

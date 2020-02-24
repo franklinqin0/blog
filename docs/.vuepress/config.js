@@ -1,5 +1,4 @@
 const themeConfig = require('./config/theme/')
-require('dotenv/config');
 
 module.exports = {
   title: "Franklin Qin",
