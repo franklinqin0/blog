@@ -19,6 +19,12 @@ module.exports = {
   plugins: [
     'flowchart',
     [
+      'sitemap',
+      {
+        hostname: 'https://franklinqin0.me'
+      }
+    ],
+    [
       'vuepress-plugin-comment',
       {
         choosen: 'gitalk', 

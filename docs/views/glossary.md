@@ -31,7 +31,10 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | w/ | with | 和...一起 |
 | w/o | without | 没有和...一起 |
 | b/c | because | 因为 |
+| coz | because | 因为 |
 | ofc | of course | 当然 |
+| sth | something | 一些东西 |
+| sb | somebody | 一些人 |
 
 ## CS Abbreviations
 
@@ -55,3 +58,6 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | thm | theorem |
 | doc | documentation |
 | loc | lines of code |
+| env | environment |
+| dev | development |
+| prod | production |

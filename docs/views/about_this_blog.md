@@ -30,15 +30,15 @@ In early 2018, I used Jekyll as the static site generator to construct a MVP.Gra
 
 In early 2020, while searching for alternatives, I was quite excited to discover [`*VuePress*`](https://vuepress.vuejs.org/), which is based on [`Vue.js`](https://vuejs.org/), a framework I've always been quite curious about, after having learned some [`Angular.js`](https://angular.io/) and [`React.js`](https://reactjs.org/).
 
-My passion faded a bit due to unfamiliarity about `Vue.js` and `VuePress`, until I searched "VuePress blog theme" on GitHub. I clicked on the 1st theme [*reco*](https://vuepress-theme-reco.recoluan.com/en/) and marvelled at its simplicity and elegance. I found it marvelously realistic (IDK, I'm BSing here) that IT HAS ALMOST ALL THE FEATURES I NEED, if not more! So I spent a few days to make some changes most in structure and few in blog posts to move my old blogs from Jekyll to `vuepress-theme-reco`.
+My passion faded a bit due to unfamiliarity about `Vue.js` and `VuePress`, until I searched "VuePress blog theme" on GitHub. I clicked on the 1st theme [*reco*](https://vuepress-theme-reco.recoluan.com/en) and marvelled at its simplicity and elegance. I found it marvelously realistic (IDK, I'm BSing here) that IT HAS ALMOST ALL THE FEATURES I NEED, if not more! So I spent a few days to make some changes most in structure and few in blog posts to move my old blogs from Jekyll to `vuepress-theme-reco`.
 
 ## Personal Projects
 
 Is that the end of the story? Far from it! If there are several projects that a serious developer should spent years maintaining on GitHub, if not decades, they should be:
 
-- [`dotfiles`](https://github.com/franklinqin0/dotfiles/tree/master) $\rightarrow$ every developer should have one's unique and ever-evolving needs
-- [`blog`](https://github.com/franklinqin0/blog/tree/master) $\rightarrow$ outlet of thoughts
-- [`algo`](https://github.com/franklinqin0/algo/tree/master) $\rightarrow$ algorithm problems solved
+- [`dotfiles`](https://github.com/franklinqin0/dotfiles) $\rightarrow$ every developer should have one's unique and ever-evolving needs
+- [`blog`](https://github.com/franklinqin0/blog) $\rightarrow$ outlet of thoughts
+- [`algo`](https://github.com/franklinqin0/algo) $\rightarrow$ algorithm problems solved
 - `X` -> one's expertise
 
 I already have the former three, and am still finding the `X` project and trying to be a technical expert in a specific area rather than dilettante who scratches the surface of everything but actually knows nothing.
@@ -57,6 +57,4 @@ Some apps I've always wanted to build:
 
 To fix:
 
-= [ ] `\begin` not interpreted in vuepress-plugin-mathjax:
-
-https://github.com/vuepress/vuepress-plugin-mathjax/blob/master/src/markdown.js
+= [ ] `\begin` not interpreted in vuepress-plugin-mathjax: [issue](https://github.com/vuepress/vuepress-plugin-mathjax/blob/master/src/markdown.js)
