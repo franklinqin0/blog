@@ -1,5 +1,5 @@
 ---
-title: Java FP
+title: Functional Programming in Java
 date: 2020-02-22
 categories:
  - study
@@ -7,15 +7,15 @@ tags:
  - tech
 ---
 
-This blog originates from slides of my first (and only) tech talk at GS in July 2019. I chose this topic b/c our team used a lot of Java (Spring & business logic), but lacks knowledge in FP.
+This blog originates from slides of my first (and only) tech talk in our team at GS in July 2019. I chose this topic b/c our team used a lot of Java (Spring & business logic), but needs more knowledge in FP (functional programming).
 
-What makes me happy is that most attendees said good things about it :P, so I posted them here now.
+What makes me happy is that most attendees said good things about my talk :P, so I posted them here now.
 
 <!-- more -->
 
 ## Functional Programming Overview
 
-Note that most content below comes from the Coursera course [Functional Programming Principles in Scala by Martin Odersky](https://www.coursera.org/learn/progfun1/home/welcome), but I've Googled a lot and merged knowledge & examples collected here and there.
+Note that most content below comes from the Coursera course [Functional Programming Principles in Scala by Martin Odersky](https://www.coursera.org/learn/progfun1/home/welcome), but I've merged a lot of knowledge & examples collected from googling.
 
 Firstly, let's overview what is FP and why we should use it.
 

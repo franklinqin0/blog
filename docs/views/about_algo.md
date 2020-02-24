@@ -10,11 +10,11 @@ sidebar: false
 
 Recently, I created the site to record [algorithm problems I've solved](https://alog.franklinqin0.me).
 
-## How to Hide Your Secrets
+## Hide My Secrets
 
-You have secrets on API keys/passwords? Tell me!
+I was worry about leaking my client ID and secret if I hard code them in [`config.js`]()
 
-Well, that's a bad joke. Don't tell me, don't tell anybody, but keep it to yourself,
+
 https://gist.github.com/derzorngottes/3b57edc1f996dddcab25
 
 https://github.com/imsun/gitment#is-it-safe-to-make-my-client-secret-public

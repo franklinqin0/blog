@@ -9,7 +9,7 @@ tags:
 sidebar: false
 ---
 
-This is my favorite English song: [*Forever Young*](https://youtu.be/t1TcDHrkQYg).
+The title reminds me of my favorite English song: [*Forever Young by Alphaville*](https://youtu.be/t1TcDHrkQYg).
 
 <!-- more -->
 
