@@ -24,8 +24,8 @@ module.exports = {
       {
         choosen: 'gitalk', 
         options: {
-          clientID: process.env.clientID,
-          clientSecret: process.env.clientSecret,
+          clientID: '60994aaadda1cb23b737',
+          clientSecret: '17a720136175e289ac15e1bf613cf2887cdf1209',
           repo: "blog",
           owner: "franklinqin0",
           admin: ["franklinqin0"],
