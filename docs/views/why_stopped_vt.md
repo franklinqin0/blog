@@ -10,7 +10,7 @@ tags:
 
 This is the final blog in the series of `VT`(voluntary teaching):
 
-- [Why VT](why_vt.md)
+- [Why VT](why_vt)
 - [My VT experience](vt)
 - [Coach for a Ping Pong Match](coach_for_a_ping_pong_match)
 
