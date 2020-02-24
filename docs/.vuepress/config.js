@@ -5,8 +5,9 @@ module.exports = {
   title: "Franklin Qin",
   description: '哲人日已遠，典型在夙昔。風簷展書讀，古道照顏色',
   dest: 'docs/.vuepress/dist',
+  GAID: 'UA-146843725-1',
   editLinks: true,
-  editLinkText: 'Edit this page on GitHub',
+  editLinkText: 'Improve this page on GitHub!',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
@@ -45,12 +46,6 @@ module.exports = {
         options: {
           margin: 16
         }
-      }
-    ],
-    [
-      '@vuepress/google-analytics',
-      {
-        'ga': 'UA-146843725-1'
       }
     ],
     [
