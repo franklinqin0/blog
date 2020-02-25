@@ -2,9 +2,9 @@ const themeConfig = require('./config/theme/')
 
 module.exports = {
   title: "Franklin Qin",
-  description: '哲人日已遠，典型在夙昔。風簷展書讀，古道照顏色',
+  description: 'Just do it!',
   dest: 'docs/.vuepress/dist',
-  GAID: 'UA-146843725-1',
+  // GAID: 'UA-146843725-1',
   editLinks: true,
   editLinkText: 'Improve this page on GitHub!',
   head: [
