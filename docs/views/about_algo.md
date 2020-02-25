@@ -30,7 +30,7 @@ Initially, I didn't want to choose VuePress for the algo site b/c I've alreay us
 
 I did a lot of research on quite a few alternatives before I made my mind to keep using VuePress and hone my skills in Vue!
 
-### VuePress
+### [VuePress](https://vuepress.vuejs.org/)
 
 Though VuePress renders beautifully and elegantly, I can't say I don't have any grudge on it:
 

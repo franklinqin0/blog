@@ -46,6 +46,7 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | ML | machine learning |
 | PL | programming language |
 | MVP | minimum viable product |
+| OA | online assessment |
 | algo | algorithm |
 | var | variable |
 | int | integer |
