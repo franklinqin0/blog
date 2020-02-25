@@ -2,14 +2,16 @@
 title: 三个故事
 date: 2020-02-24
 categories:
--study
+ - study
 tags:
--life
--philosophy
--Chinese
+ - life
+ - philosophy
+ - Chinese
 ---
 
 2018年8月10日，我刚刚去HK工作两星期，除了对新工作和生活的憧憬，更多是对于未来的迷茫。FY学长抽空给我写了三个小故事，经他同意后，我原封不动放在这里：
+
+<!-- more -->
 
 ---
 
