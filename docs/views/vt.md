@@ -6,6 +6,8 @@ categories:
 tags:
  - VT
  - life
+prev: why_vt
+next: coach_for_a_ping_pong_match
 ---
 
 有关2019年9月至12月在贵州CJ支教的经历和感悟。

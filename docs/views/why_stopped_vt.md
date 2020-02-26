@@ -1,11 +1,11 @@
 ---
-title: Why I stopped to Become a Voluntary Teacher
+title: Why I stopped Being a Voluntary Teacher
 date: 2020-02-11
 categories:
  - misc
 tags:
  - VT
-# mplang: en
+prev: coach_for_a_ping_pong_match
 ---
 
 This is the final blog in the series of `VT`(voluntary teaching):

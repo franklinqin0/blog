@@ -6,6 +6,8 @@ categories:
 tags:
  - VT
  - ping pong
+prev: vt
+next: why_stopped_vt
 ---
 
 男生第一名，女生第二三名，算是努力有一点回报。

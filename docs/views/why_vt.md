@@ -6,6 +6,7 @@ categories:
 tags:
  - VT
 sidebar: false
+next: vt
 ---
 
 This blog serves the purpose of both documenting why I chose to quit a job many envy and go for my childhood dream: voluntary teaching (VT).
