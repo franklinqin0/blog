@@ -4,7 +4,7 @@ module.exports = {
   title: "Franklin Qin",
   description: 'Just do it!',
   dest: 'docs/.vuepress/dist',
-  // GAID: 'UA-146843725-1',
+  GAID: 'UA-146843725-3',
   editLinks: true,
   editLinkText: 'Improve this page on GitHub!',
   head: [

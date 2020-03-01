@@ -43,18 +43,6 @@ Is that the end of the story? Far from it! If there are several projects that a 
 
 I already have the former three, and am still finding the `X` project and trying to be a technical expert in a specific area rather than dilettante who scratches the surface of everything but actually knows nothing.
 
-Following are the items I try to finish in the future. When I finish them, I will tick.
+## Comment Always Welcomed
 
-- [ ] play songs at bottom left corner
-- [ ] multi-language support
-
-Some apps I've always wanted to build:
-
-- [ ] implement md <-> html converter in `sed` (Linux, sed)
-- [ ] collaborative code editor built in `Vue` (Node, Docker)
-- [ ] `LaTex` <-> picture converter on PC & mobile (ML, OCR)
-- [ ] crawls news(hacker, blog, Ted) and show on webpage (ML, web crawler)
-
-To fix:
-
-= [ ] `\begin` not interpreted in vuepress-plugin-mathjax: [issue](https://github.com/vuepress/vuepress-plugin-mathjax/blob/master/src/markdown.js)
+As of now, I get more than 500 page views per day, mainly from the US and China and few from Europe. With such a wide audience, I fear that I might have expressed inappropriate words in this blog and leave a negative effect in your life. If so, please tell me by comment/mail/etc. and I will fix it.

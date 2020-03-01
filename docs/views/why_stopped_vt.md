@@ -20,7 +20,11 @@ As the reasons for VT are stated in [Why I became a Voluntary Teacher](why_vt), 
 
 ## Note
 
-If you have read anything negative about Chinese countryside in any of my writings, please note I am only talking about my own little short experience. If you have read anything positive, it's generally true :P
+If you have read anything *negative* about Chinese countryside in any of my writings, please note I am only talking about *my own little short experience*. If you have read anything positive, it's generally true :P
+
+## The Good Part
+
+First of all, I very much thank that I am lucky enough to have had this experience at this stage of my life. I have met so many interesting young souls who will better the future of China and the world. Their untainted eyes are as clear as crystal. They don't have as many complex thoughts as grown-ups. And I was really glad some of them really want to learn more about the world and I have left memorable footprints in their childhood.
 
 ## There is Little I Could Change
 
@@ -56,15 +60,16 @@ This scripture reminds me of [*Sunrise Also sprach Zarathustra* in *2001: A Spac
 
 ### Light over Rural Education in China
 
-I don't see much right now. As stated in [My VT experience](vt.md#老师只是兼职教书), teachers do **NOT** earn what they deserve, so not many good teachers would come to insular places like TL primary school. Thanks to Steve Jobs, almost every kid I know in 4th grade and above has a smartphone and uses it mostly for games and streaming short videos.
+I don't see much right now. As stated in [My VT experience](vt.md#老师只是兼职教书), teachers do **NOT** earn what they deserve, so not many good teachers would come to insular places like TL primary school. Thanks to Steve Jobs, almost every kid I know in 4th grade and above has a smartphone and uses it mostly for games and streaming short entertaining videos.
 
-This is a bad habit I had cultivated as a primary school teacher: repeating myself over and over in case students forgot, and they most likely do. For the last time, let me just the lousy excuse and hereby quote my aforementioned manifesto:
+This is a bad habit I had cultivated as a primary school teacher: repeating myself over and over in case students forgot, and they most likely do. Let me just the lousy excuse and hereby quote my aforementioned manifesto:
 
 > the smart kids will find their **own way to live their lives**.
 
 If education is the light and students are a forrest, then initially light is uniformly distributed everywhere in the forrest. The ones who know their way would have few branches and focus on growing only in one direction: up, to compete for more light and grow faster, thus the positive feedback cycle.
 
 I will quote what's later dubbed as [*Matthew effect*](https://en.wikipedia.org/wiki/Matthew_effect) from the Bible to officially end the VT series:
+
 > For to every one who has will more be given, and he will have abundance; but from him who has not, even what he has will be taken away.
 >
 > <p align="right">——Matthew 25:29, RSV</p>
