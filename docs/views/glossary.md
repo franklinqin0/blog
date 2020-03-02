@@ -16,7 +16,7 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 
 ## General Abbreviations
 
-| Abbreviations | Full Name | 中文意思
+| Abbreviations | Full Name | 中文意思 |
 | ------------- | --------- | ------ |
 | VT | voluntary teaching | 支教 |
 | ZF | government | 政府 |

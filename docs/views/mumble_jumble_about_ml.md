@@ -7,6 +7,7 @@ tags:
  - ML
  - sci-fi
 sidebar: false
+publish: false
 ---
 
 Brief overview of history of machine learning and my simplistic views on its current development.

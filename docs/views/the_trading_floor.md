@@ -6,6 +6,7 @@ categories:
 tags:
  - finance
  - philosophy
+publish: false
 ---
 
 这是一部可遇不可求的神剧：《东方华尔街》The Trading Floor.

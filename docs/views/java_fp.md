@@ -5,6 +5,7 @@ categories:
  - study
 tags:
  - tech
+publish: false
 ---
 
 This blog originates from slides of my first (and only) tech talk in our team at GS in July 2019. I chose this topic b/c our team used a lot of Java (Spring & business logic), but needs more knowledge in FP (functional programming).

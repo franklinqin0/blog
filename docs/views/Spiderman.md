@@ -6,6 +6,7 @@ categories:
 tags:
  - life
 sidebar: false
+publish: false
 ---
 
 Spiderman, Spiderman, he does whatever a spider can!
