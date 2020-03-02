@@ -4,7 +4,7 @@ module.exports = {
   title: "Franklin Qin",
   description: 'Just do it!',
   dest: 'docs/.vuepress/dist',
-  GAID: 'UA-146843725-3',
+  noFoundPageByTencent: false,
   editLinks: true,
   editLinkText: 'Improve this page on GitHub!',
   head: [
@@ -71,6 +71,12 @@ module.exports = {
       site_url: 'https://franklinqin0.me',
       count: 20
       }
-    ]
+    ],
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-146843725-3'
+      }
+    ],
   ]
 }
