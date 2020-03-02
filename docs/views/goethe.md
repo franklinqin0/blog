@@ -9,6 +9,7 @@ tags:
 
 I record my daily progress in learning German here.
 
+::: details 2. März
 ## 2. März
 
 ### Wörter
@@ -50,7 +51,7 @@ I record my daily progress in learning German here.
 
 ### Sätze
 
-Kennenlernen
+#### Kennenlernen
 
 | Frage | Antworten |
 | ----- | --------- |
@@ -58,3 +59,4 @@ Kennenlernen
 | Wie heißt du?<br> Wie heißen Sie? <br> Wer bist du?| Ich heiße Franklin.<br> Ich bin Franklin.<br> Mein Name ist Franklin. |
 | Wo wohnst du? | Ich wohne in Guangzhou. |
 | Welche Sprachen sprichst du? | Ich spreche Chinesisch und Deutsch. |
+:::
