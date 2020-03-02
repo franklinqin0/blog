@@ -9,6 +9,8 @@ tags:
 
 I record my daily progress in learning German here.
 
+<!-- more -->
+
 ::: details 2. März
 ## 2. März
 
