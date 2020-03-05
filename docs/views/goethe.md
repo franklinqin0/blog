@@ -30,7 +30,7 @@ Ich lerne Deutsch.
 | wo | where |
 | woher | from where |
 | welche | which |
-| heißt | be called |
+| heißen/heißt/heiße | be called |
 | kommen/kommst/komme/kommt | come |
 | aus | from |
 | wohnst/wohne | live |
@@ -55,11 +55,11 @@ Ich lerne Deutsch.
 
 ### Sätze
 
-#### Kennenlernen
+#### Kennenlernen/Begrüßung
 
 | Frage | Antworten |
 | ----- | --------- |
-| Heimat | Woher kommst du? | Ich komme aus China. |
+| Heimat | Woher kommst du?<br>Woher kommen Sie? | Ich komme aus China. |
 | Name | Wie heißt du?<br> Wie heißen Sie? <br> Wer bist du? <br> Wie ist dein Name? | Ich heiße Franklin.<br> Ich bin Franklin.<br> Mein Name ist Franklin. |
 | Wohnort | Wo wohnst du? | Ich wohne in Guangzhou. |
 | Sprache | Welche Sprachen sprichst du? | Ich spreche Chinesisch und Deutsch. |
@@ -80,7 +80,7 @@ Ich lerne Deutsch.
 | stellen | place (v.) |
 | bauen | build |
 | Frage | question |
-| Antworten | answer |
+| die Antworten | answer |
 | Aussage | statement |
 | alles/all | all |
 | Heimat | home |
@@ -175,7 +175,7 @@ Ich lerne Deutsch.
 
 | Zahl | Deutsch |
 | ---- | ------- |
-| 0 | Null |
+| 0 | null |
 | 1 | eins |
 | 2 | zwei |
 | 3 | drei |
@@ -212,7 +212,7 @@ Ich lerne Deutsch.
 | 70 | siebzig |
 | 80 | achtzig |
 | 90 | neunzig |
-| 100 | hundret |
+| 100 | (ein)hundret |
 
 ### Phrase
 
@@ -254,11 +254,51 @@ Ich lerne Deutsch.
 | dann | then |
 | falsch | false |
 | hier | here |
+| formell | formal |
+| Entschuldigung | sorry |
+| super | fantastic |
+| Ferien | holiday/vacation |
+| oder | or |
+| Begrüßung | greeting |
+| Wiederholung | replay/repetition |
+| echt | really |
+| schritt | step |
+
+#### Tag
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| am morgen | tomorrow |
+| am Morgen | morning |
+| am Vormittag | late morning |
+| am Nachmittag | afternoon |
+| am Mittag | noon |
+| am Abend | evening |
+| in der Nacht | night |
+
+#### Beruf(e)
+
+| Mann | Frau | Englisch |
+| ---- | ---- | -------- |
+| der Architekt | die Architektin | architect |
+| der Elektriker | die Elektrikerin | electrician |
+| der Designer | die Designerin | designer |
+| der Journalist | die Journalistin | journalist |
+| der Sekretär | die Sekretärin | secretary |
+| der Apotheker | die Apothekerin | druggist |
+| der Lehrer | die Lehrerin | teacher |
+| der Verkäufer | die Verkäuferin | vendor/salesperson |
 
 ### Sätze
 
 | Deutsch | Englisch |
 | ------- | -------- |
 | Das ist dann alles. | That's all. |
+| Tschüs. | Goodbye. |
+| Auf Wiedersehen. | Goodbye. |
+| Guten Tag. | Good morning. |
+| Gute Nacht. | Good night. |
+| Wie geht's?<br>Wie geht's dir?<br>Wie geht es Ihnen? | How are you? |
+| Ach, nicht so gut.<br>Gar nicht gut. | Not so good. |
 
 :::
