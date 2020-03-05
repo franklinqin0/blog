@@ -165,10 +165,11 @@ Ich lerne Deutsch.
 | verstehen | understand |
 | korrekt | correct |
 | auch | also |
-| sagen | say |
+| sagen/sagt | say |
 | aussagen | state |
 | Aussprache | pronunciation |
 | aussprechen | pronounce |
+| Ihre | your |
 
 #### Die Zahlen
 
@@ -227,7 +228,37 @@ Ich lerne Deutsch.
 
 | Deutsch | Englisch |
 | ------- | -------- |
-| Ich stelle mich vor | I'll introduce myself |
+| Ich stelle mich vor. | I'll introduce myself. |
 
 :::
 
+::: details 5. März
+## 5. März
+
+### Wörter
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| vor | in front of |
+| Vorname | first/given name |
+| Familie | family |
+| Familienname | last/family name |
+| Adresse | address |
+| mobil | mobile |
+| Webseite | website |
+| zurück | back |
+| setzen | put |
+| zurücksetzen | put back |
+| Unterstrich | underscore |
+| Büro | bureau/office |
+| dann | then |
+| falsch | false |
+| hier | here |
+
+### Sätze
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| Das ist dann alles. | That's all. |
+
+:::
