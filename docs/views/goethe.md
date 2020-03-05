@@ -248,7 +248,7 @@ Ich lerne Deutsch.
 | Webseite | website |
 | zurück | back |
 | setzen | put |
-| zurücksetzen | put back |
+| zurücksetzen | reset |
 | Unterstrich | underscore |
 | Büro | bureau/office |
 | dann | then |
@@ -261,7 +261,7 @@ Ich lerne Deutsch.
 | oder | or |
 | Begrüßung | greeting |
 | Wiederholung | replay/repetition |
-| echt | really |
+| echt | real(ly) |
 | schritt | step |
 
 #### Tag

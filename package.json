@@ -19,6 +19,7 @@
     "vuepress": "1.2.0",
     "vuepress-plugin-comment": "^0.7.3",
     "vuepress-plugin-flowchart": "1.4.3",
+    "vuepress-plugin-mygitalk": "^1.0.5",
     "vuepress-theme-reco": "1.2.2"
   },
   "devDependencies": {
