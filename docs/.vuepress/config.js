@@ -21,7 +21,8 @@ module.exports = {
     [
       'sitemap',
       {
-        hostname: 'https://franklinqin0.me'
+        hostname: 'https://franklinqin0.me',
+        exclude: ['/404.html']
       }
     ],
     [

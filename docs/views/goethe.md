@@ -58,7 +58,7 @@ Ich lerne Deutsch.
 
 #### Kennenlernen/Begrüßung
 
-| Objekt | Frage | Antworten |
+|  | Frage | Antworten |
 | ------ | ----- | --------- |
 | Heimat | Woher kommst du?<br>Woher kommen Sie? | Ich komme aus China. |
 | Name | Wie heißt du?<br> Wie heißen Sie? <br> Wer bist du? <br> Wie ist dein Name? | Ich heiße Franklin.<br> Ich bin Franklin.<br> Mein Name ist Franklin. |
@@ -327,6 +327,7 @@ die Studenten und die Studentinnen
 | noch | still |
 | mögen | want to |
 | Mode | fashion |
+| Medizin | medicine |
 | Wirtschaft | economy |
 
 ### Phrase
@@ -347,18 +348,5 @@ die Studenten und die Studentinnen
 
 | informell Frage | formell Frage | Anworten |
 | --------------- | ------------- | -------- |
-| Was bist du von Beruf?
-<br>Was ist dein Beruf?
-<br>Wo arbeitest du?
-<br>Was machst du (beruflich)?
-<br>Und was machst du?
-| Was sind Sie von Beruf?
-<br>Was ist Ihr Beruf?
-<br>Wo arbeiten Sie?
-<br>Was machen Sie (beruflich)?
-<br>Und was machen Sie?
-| Ich bin Architekt(in) (von Beruf).
-<br>Ich arbeite als Architekt.
-<br>Ich arbeite bei Siemens/BMW.
-<br>Ich studiere Architektur/Medizin/Wirtschaft. |
+| Was bist du von Beruf?<br>Was ist dein Beruf?<br>Wo arbeitest du?<br>Was machst du (beruflich)?<br>Und was machst du? | Was sind Sie von Beruf?<br>Was ist Ihr Beruf?<br>Wo arbeiten Sie?<br>Was machen Sie (beruflich)?<br>Und was machen Sie? | Ich bin Architekt(in) (von Beruf).<br>Ich arbeite als Architekt.<br>Ich arbeite bei Siemens/BMW.<br>Ich studiere Architektur. |
 :::
