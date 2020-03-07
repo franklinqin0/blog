@@ -170,7 +170,7 @@ Ich lerne Deutsch.
 | aussagen | state |
 | Aussprache | pronunciation |
 | aussprechen | pronounce |
-| Ihre | your |
+| Ihr(e) | your |
 
 #### Die Zahlen
 
@@ -219,11 +219,11 @@ Ich lerne Deutsch.
 
 | Deutsch | Englisch |
 | ------- | -------- |
-| zum Beispiel | for exmaple/instance |
+| zum Beispiel | for example/instance |
 | Beitrag absenden | send the contribution |
 | Änderungen sichern | make changes |
 | Vergangene Versuche anzeigen | Show past attempts |
-| meine/deine/Ihre Telefonnummer | my/your（你的）/your（您的） telephone number |
+| mein(e)/dein(e)/Ihr(e) Telefonnummer | my/your（你的）/your（您的） telephone number |
 
 ### Sätze
 
@@ -248,7 +248,7 @@ Ich lerne Deutsch.
 | Webseite | website |
 | zurück | back |
 | setzen | put |
-| zurücksetzen | put back |
+| zurücksetzen | reset |
 | Unterstrich | underscore |
 | Büro | bureau/office |
 | dann | then |
@@ -287,14 +287,12 @@ Ich lerne Deutsch.
 | der Sekretär | die Sekretärin | secretary |
 | der Apotheker | die Apothekerin | druggist |
 | der Verkäufer | die Verkäuferin | vendor/salesperson |
-| der Hausmann | die Hausfrau |
+| der Hausmann | die Hausfrau | househusband/housewife |
 | der Köch | die Köchin | chef |
 | der Lehrer | die Lehrerin | teacher |
-| der Student | die Studentin | college student |
 | der Schüler | die Schülerin | pupil |
-
-die Studenten | die Studentinnen
-die Studenten und die Studentinnen
+| der Student | die Studentin | college student |
+| die Studenten | die Studentinnen | die Studenten und die Studentinnen |
 
 ### Sätze
 
