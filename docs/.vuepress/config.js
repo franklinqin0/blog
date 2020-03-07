@@ -79,13 +79,6 @@ module.exports = {
       }
     ],
     ['container', {
-      type: 'danger',
-      defaultTitle: {
-        '/': 'WARNING',
-        '/zh/': '警告'
-      }
-    }],
-    ['container', {
       type: 'right',
       defaultTitle: ''
     }],

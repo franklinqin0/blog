@@ -23,23 +23,24 @@ Ich lerne Deutsch.
 | Zeit | time |
 | Zeitplan | schedule |
 | teilnehmen | attend |
-| Kennenlernen | self introduction |
-| Speichern | store/submit |
+| kennenlernen | get to know |
+| Kennenlernen | familiarization |
+| Speichern | store |
 | wie | how/what |
 | wer | who |
 | wo | where |
 | woher | from where |
 | welche | which |
-| heißen/heißt/heiße | be called |
-| kommen/kommst/komme/kommt | come |
+| heißen | be called |
+| kommen | come |
 | aus | from |
-| wohnst/wohne | live |
+| wohnen | live |
 | Wohnort | place of residence |
 | er | he |
 | sie | she/they |
 | Sie | you 您 |
 | du | you 你 |
-| sprichst/spreche/sprechen | speak |
+| sprechen | speak |
 | schreiben | write |
 | hören | listen |
 | lesen | read |
@@ -57,8 +58,8 @@ Ich lerne Deutsch.
 
 #### Kennenlernen/Begrüßung
 
-| Frage | Antworten |
-| ----- | --------- |
+| Objekt | Frage | Antworten |
+| ------ | ----- | --------- |
 | Heimat | Woher kommst du?<br>Woher kommen Sie? | Ich komme aus China. |
 | Name | Wie heißt du?<br> Wie heißen Sie? <br> Wer bist du? <br> Wie ist dein Name? | Ich heiße Franklin.<br> Ich bin Franklin.<br> Mein Name ist Franklin. |
 | Wohnort | Wo wohnst du? | Ich wohne in Guangzhou. |
@@ -222,14 +223,13 @@ Ich lerne Deutsch.
 | Beitrag absenden | send the contribution |
 | Änderungen sichern | make changes |
 | Vergangene Versuche anzeigen | Show past attempts |
-| meine/Ihre Telefonnummer | my/your telephone number |
+| meine/deine/Ihre Telefonnummer | my/your（你的）/your（您的） telephone number |
 
 ### Sätze
 
 | Deutsch | Englisch |
 | ------- | -------- |
 | Ich stelle mich vor. | I'll introduce myself. |
-
 :::
 
 ::: details 5. März
@@ -242,7 +242,7 @@ Ich lerne Deutsch.
 | vor | in front of |
 | Vorname | first/given name |
 | Familie | family |
-| Familienname | last/family name |
+| Nachname/Familienname | last/family name |
 | Adresse | address |
 | mobil | mobile |
 | Webseite | website |
@@ -286,8 +286,15 @@ Ich lerne Deutsch.
 | der Journalist | die Journalistin | journalist |
 | der Sekretär | die Sekretärin | secretary |
 | der Apotheker | die Apothekerin | druggist |
-| der Lehrer | die Lehrerin | teacher |
 | der Verkäufer | die Verkäuferin | vendor/salesperson |
+| der Hausmann | die Hausfrau |
+| der Köch | die Köchin | chef |
+| der Lehrer | die Lehrerin | teacher |
+| der Student | die Studentin | college student |
+| der Schüler | die Schülerin | pupil |
+
+die Studenten | die Studentinnen
+die Studenten und die Studentinnen
 
 ### Sätze
 
@@ -300,5 +307,58 @@ Ich lerne Deutsch.
 | Gute Nacht. | Good night. |
 | Wie geht's?<br>Wie geht's dir?<br>Wie geht es Ihnen? | How are you? |
 | Ach, nicht so gut.<br>Gar nicht gut. | Not so good. |
+:::
 
+::: details 6. März
+## 6. März
+
+### Wörter
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| ledig | unmarried single |
+| verheiratet | married |
+| leben | live |
+| sehen | see |
+| studierten | study |
+| suchen | look for |
+| Sitzung/Treffen | meeting |
+| Abgabe | delivery |
+| noch | still |
+| mögen | want to |
+| Mode | fashion |
+| Wirtschaft | economy |
+
+### Phrase
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| Grüß dich! | Hello there! |
+| ein bisschen / etwas Deutsch | a little German |
+
+### Sätze
+
+| Frage | Anworten |
+| ----- | -------- |
+| Wie alt bist du?<br>Wie alt sein Sie, Herr/Frau ...? | Ich bin zweiundzwanzig Jahre alt. |
+| Welche Frage können wir noch stellen? | What question can we still ask? |
+
+#### Beruf Frage & Antworten
+
+| informell Frage | formell Frage | Anworten |
+| --------------- | ------------- | -------- |
+| Was bist du von Beruf?
+<br>Was ist dein Beruf?
+<br>Wo arbeitest du?
+<br>Was machst du (beruflich)?
+<br>Und was machst du?
+| Was sind Sie von Beruf?
+<br>Was ist Ihr Beruf?
+<br>Wo arbeiten Sie?
+<br>Was machen Sie (beruflich)?
+<br>Und was machen Sie?
+| Ich bin Architekt(in) (von Beruf).
+<br>Ich arbeite als Architekt.
+<br>Ich arbeite bei Siemens/BMW.
+<br>Ich studiere Architektur/Medizin/Wirtschaft. |
 :::
