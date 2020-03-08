@@ -1,6 +1,6 @@
 ---
 title: Quotes
-date: 2014-07-14
+date: 1970-01-02
 categories:
  - about
 tags:
