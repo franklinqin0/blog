@@ -60,7 +60,7 @@ Ich lerne Deutsch.
 
 |  | Frage | Antworten |
 | ------ | ----- | --------- |
-| Heimat | Woher kommst du?<br>Woher kommen Sie? | Ich komme aus China. |
+| Heimat/Herkunft | Woher kommst du?<br>Woher kommen Sie? | Ich komme aus China. |
 | Name | Wie heißt du?<br> Wie heißen Sie? <br> Wer bist du? <br> Wie ist dein Name? | Ich heiße Franklin.<br> Ich bin Franklin.<br> Mein Name ist Franklin. |
 | Wohnort | Wo wohnst du? | Ich wohne in Guangzhou. |
 | Sprache | Welche Sprachen sprichst du? | Ich spreche Chinesisch und Deutsch. |
@@ -213,7 +213,7 @@ Ich lerne Deutsch.
 | 70 | siebzig |
 | 80 | achtzig |
 | 90 | neunzig |
-| 100 | (ein)hundret |
+| 100 | (ein)hundert |
 
 ### Phrase
 
@@ -314,8 +314,6 @@ Ich lerne Deutsch.
 
 | Deutsch | Englisch |
 | ------- | -------- |
-| ledig | unmarried single |
-| verheiratet | married |
 | leben | live |
 | sehen | see |
 | studierten | study |
@@ -347,4 +345,109 @@ Ich lerne Deutsch.
 | informell Frage | formell Frage | Anworten |
 | --------------- | ------------- | -------- |
 | Was bist du von Beruf?<br>Was ist dein Beruf?<br>Wo arbeitest du?<br>Was machst du (beruflich)?<br>Und was machst du? | Was sind Sie von Beruf?<br>Was ist Ihr Beruf?<br>Wo arbeiten Sie?<br>Was machen Sie (beruflich)?<br>Und was machen Sie? | Ich bin Architekt(in) (von Beruf).<br>Ich arbeite als Architekt.<br>Ich arbeite bei Siemens/BMW.<br>Ich studiere Architektur. |
+:::
+
+
+::: details 7. März
+## 7. März
+
+### Wörter
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| Reportage | reporting |
+| vorkommen | happen |
+| ganz | whole |
+| folgender | following |
+| helfen | help |
+| nur | only/just |
+| wenig | little |
+| Bild(er) | picture(s) |
+| Paar(e) | pair(s) |
+| heute | today |
+| Achtung | attention |
+| Angebot | offer |
+| geben | give |
+| Bildung | education |
+| keine | no |
+| kosten | cost |
+| Rechnung | calculation/bill invoice |
+| Kugel | ball |
+| langsam | slow(ly)/gradual(ly) |
+| einmal | once |
+| wiederholen | repeat |
+
+### Familienstand
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| ledig | unmarried single |
+| verheiratet | married |
+| geschieden | divorced |
+
+### Arbeitsplatz (workplace)
+
+| Deutsch | Plural | Englisch |
+| ------- | ------ | -------- |
+| der Computer | die Computer | computer |
+| der Drucker | die Drucker | printer |
+| der Kalender | die Kalender | calendar |
+| das Formular | die Formulare | form |
+| der Kugelschreiber | die Kugelschreiber | pen |
+| die Briefmarke | die Briefmarken | stamp |
+| die Brille | die Brillen | glasses |
+| die Maus | die Mäuse | mouse |
+| der Bleistift | die Bleistifte | pencil |
+| das Handy | die Handys | mobile phone |
+| der Ausweis | die Ausweise | ID card |
+| der Schlüssel | die Schlüssel | key |
+| das Buch | die Bücher | book |
+| der/das Tablet | die Tablets | tablet |
+| der MP3-Player | die MP3-Player | MP3 player |
+| der USB-Stick | die USB-Sticks | USB stick |
+
+### Die Artikel
+
+Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules for plural formation.)
+
+| der | das | die |
+| --- | --- | --- |
+| Computer<br>Kalendar<br>Ausweis<br>Kugelschreiber<br>Bleistift | Formular<br>Handy<br>Buch<br>Tablet | Brille<br>Maus<br>Briefmarke |
+
+### Farbe
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| rot | red |
+| blau | blue |
+| gelb | yellow |
+| weiß | white |
+| grün | green |
+| grau | grey |
+| schwarz | black |
+| braun | brown |
+| pink | pink |
+| orange | orange |
+
+## Sätze
+
+alt:
+
+- Wie heißen Sie?
+- Woher kommen Sie?
+- Wo wohnen Sie?
+- Wie alt sind Sie?
+- Was machen Sie beruflich?
+- Sind Sie verheiratet?
+- Was ist das?
+
+neu:
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| Was kostet der Bleistift? | How much is the pencil? |
+| Vielen Dank. | Thank you. |
+| Bitte ein bisschen langsamer. | A little slower, please. |
+| Können Sie die Telefonnummer bitte noch einmal wiederholen? | Can you repeat the phone number again? |
+
 :::
