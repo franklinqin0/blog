@@ -136,7 +136,6 @@ Ich lerne Deutsch.
 ### Sätze
 
 | Wie schreibt man das? | Can you spell it? |
-
 :::
 
 ::: details 4. März
@@ -276,24 +275,6 @@ Ich lerne Deutsch.
 | am Abend | evening |
 | in der Nacht | night |
 
-#### Beruf(e)
-
-| Mann | Frau | Englisch |
-| ---- | ---- | -------- |
-| der Architekt | die Architektin | architect |
-| der Elektriker | die Elektrikerin | electrician |
-| der Designer | die Designerin | designer |
-| der Journalist | die Journalistin | journalist |
-| der Sekretär | die Sekretärin | secretary |
-| der Apotheker | die Apothekerin | druggist |
-| der Verkäufer | die Verkäuferin | vendor/salesperson |
-| der Hausmann | die Hausfrau | househusband/housewife |
-| der Köch | die Köchin | chef |
-| der Lehrer | die Lehrerin | teacher |
-| der Schüler | die Schülerin | pupil |
-| der Student | die Studentin | college student |
-| die Studenten | die Studentinnen | die Studenten und die Studentinnen |
-
 ### Sätze
 
 | Deutsch | Englisch |
@@ -325,6 +306,26 @@ Ich lerne Deutsch.
 | Mode | fashion |
 | Medizin | medicine |
 | Wirtschaft | economy |
+
+#### Beruf(e)
+
+| Mann | Frau | Englisch |
+| ---- | ---- | -------- |
+| der Architekt | die Architektin | architect |
+| der Ingenieur | die Ingenieurin | engineer |
+| der Elektriker | die Elektrikerin | electrician |
+| der Designer | die Designerin | designer |
+| der Journalist | die Journalistin | journalist |
+| der Sekretär | die Sekretärin | secretary |
+| der Apotheker | die Apothekerin | druggist |
+| der Verkäufer | die Verkäuferin | vendor/salesperson |
+| der Hausmann | die Hausfrau | househusband/housewife |
+| der Köch | die Köchin | chef |
+| der Musiker | die Musikerin | musician |
+| der Lehrer | die Lehrerin | teacher |
+| der Schüler | die Schülerin | pupil |
+| der Student | die Studentin | college student |
+| die Studenten | die Studentinnen | die Studenten und die Studentinnen |
 
 ### Phrase
 
@@ -451,3 +452,55 @@ neu:
 | Können Sie die Telefonnummer bitte noch einmal wiederholen? | Can you repeat the phone number again? |
 
 :::
+
+::: details 8. März
+## 8. März
+
+### Wörter
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| die Leute | people |
+| papier | paper |
+| gern | fond(adv.) |
+| Spiele | play(n.) |
+| spielen | play(v.) |
+| nett | nice/kind |
+| charmant | charming |
+| Blei | lead 铅 |
+
+#### ???
+
+| Deutsch | Plural | Englisch |
+| ------- | ------ | -------- |
+| das Foto | die Fotos | photo |
+| das Glas | die Gläser | glass |
+| das Taschentuch | die Taschentücher | hankerchief |
+| ...
+
+#### ????
+
+｜ Volleyball spielen | volleyball |
+| Yoga machen
+Faharrd fahren | 
+| joggen | jog |
+| Ski fahren | ski |
+| Basketball spielen | play basketball |
+
+
+| Was kennen Sie auf dem Bild? | What do you know in the picture? |
+| Was machst du gern?
+Sie ...
+
+Ich lese gern.
+Bücher lesen.
+
+| Ich höre Musik. | I listen to music. |
+| Ich höre gern Musik. | I like to listen to music. |
+
+Ich spiele gern Yoga.
+Ich jogge nicht gern.
+
+### Phrase
+
+| Spiele spielen | play games |
