@@ -4,9 +4,6 @@ module.exports = {
   title: "Franklin Qin",
   description: 'Just do it!',
   dest: 'docs/.vuepress/dist',
-  noFoundPageByTencent: false,
-  editLinks: true,
-  editLinkText: 'Improve this page on GitHub!',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]

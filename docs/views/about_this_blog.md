@@ -43,6 +43,6 @@ Is that the end of the story? Far from it! If there are several projects that a 
 
 I already have the former three, and am still finding the `X` project and trying to be a technical expert in a specific area rather than dilettante who scratches the surface of everything but actually knows nothing.
 
-## Comment Always Welcomed
+## Comments Always Welcomed
 
-As of now, I get more than 500 page views per day, mainly from the US and China and few from Europe. With such a wide audience, I fear that I might have expressed inappropriate words in this blog and leave a negative effect in your life. If so, please tell me by comment/mail/etc. and I will fix it.
+I fear that I might have expressed inappropriate words in this blog and incurred bad influence. If so, please tell me by comment/mail/etc. and I will fix it.

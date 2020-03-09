@@ -17,5 +17,6 @@ module.exports = {
   author: 'franklinqin0',
   // 备案号
   record: '',
-  friendLink: []
+  friendLink: [],
+  noFoundPageByTencent: false
 }
