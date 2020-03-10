@@ -7,7 +7,7 @@ tags:
  - tech
 ---
 
-This blog illustrates some notes on using my Mac(model was released in mid 2015 and OS is Catalina 10.15).
+This blog illustrates some notes on using my Mac (model was released in mid 2015, OS is Catalina 10.15).
 
 <!-- more -->
 
@@ -33,6 +33,8 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 
 Happy ending? Nah. I recently started [learning German](goethe) and had to find some workaround to type chars and symbols such as `ä`, `ö`, `ü`, `ß`, `„` and `”`.
 
+### Key Combs
+
 These are the ways to type them on my mac:
 
 - `ä`: `Option u` + `a`
@@ -46,5 +48,11 @@ and the lower and upper quotes:
 - `”`: `Option Shift [`
 
 Note that I actually searched online and saw other key combs, but don't work.
+
+### Add Input Source
+
+Another way to guarantee typing the correct German chars, or any language's chars is to use the corresponding input source. This could be done on Mac by: `System Preferences` $\rightarrow$ `Keyboard` $\rightarrow$ `Input Souces` $\rightarrow$ $+$ $\rightarrow$ {another language}.
+
+## Further
 
 Please see this article for [more details](https://ia.net/writer/support/mac/special-characters) on keyboard viewer, quotes, ellipsis, and IA writer.
