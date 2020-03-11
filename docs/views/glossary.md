@@ -12,7 +12,7 @@ In case you don't get some abbreviation, read this blog.
 
 <!-- more -->
 
-At GS, people like to use abbreviations w/i the company and teams. There is even a website to keep track of the mappings from abbrevations to full names and meanings. I think it's a good idea if definition is clear and doesn't cause confusion. Thus, I build the glossary below in case you don't understand some abbreviation I mentioned.
+At GS, people like to use abbreviations w/i the company and teams. There is even a website to keep track of the mappings from abbrevations to full names and meanings in case confusions arise. Thus, I follow that practice and build the glossary below.
 
 ## General Abbreviations
 
@@ -35,6 +35,7 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | ofc | of course | 当然 |
 | sth | something | 一些东西 |
 | sb | somebody | 一些人 |
+| tgt | together | 一起 |
 
 ## CS Abbreviations
 

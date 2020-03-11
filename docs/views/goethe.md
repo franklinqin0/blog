@@ -126,15 +126,12 @@ Ich lerne Deutsch.
 | ihr 你们 | kommt |
 | sie 您 / Sie 他们 | kommen |
 
-### Phrase
+### Sätze
 
 | Deutsch | Englisch |
 | ------- | -------- |
 | Sätze bauen | build sentences |
 | nur auf Deutsch | only for German |
-
-### Sätze
-
 | Wie schreibt man das? | Can you spell it? |
 :::
 
@@ -214,7 +211,7 @@ Ich lerne Deutsch.
 | 90 | neunzig |
 | 100 | (ein)hundert |
 
-### Phrase
+### Sätze
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -223,11 +220,6 @@ Ich lerne Deutsch.
 | Änderungen sichern | make changes |
 | Vergangene Versuche anzeigen | Show past attempts |
 | mein(e)/dein(e)/Ihr(e) Telefonnummer | my/your（你的）/your（您的） telephone number |
-
-### Sätze
-
-| Deutsch | Englisch |
-| ------- | -------- |
 | Ich stelle mich vor. | I'll introduce myself. |
 :::
 
@@ -301,7 +293,6 @@ Ich lerne Deutsch.
 | suchen | look for |
 | Sitzung/Treffen | meeting |
 | Abgabe | delivery |
-| noch | still |
 | mögen | want to |
 | Mode | fashion |
 | Medizin | medicine |
@@ -328,14 +319,13 @@ Ich lerne Deutsch.
 | der Student | die Studentin | college student |
 | die Studenten | die Studentinnen | die Studenten und die Studentinnen |
 
-### Phrase
+### Sätze
 
 | Deutsch | Englisch |
 | ------- | -------- |
 | Grüß dich! | Hello there! |
 | ein bisschen / etwas Deutsch | a little German |
-
-### Sätze
+| ein bisschen später | a little later |
 
 | Frage | Anworten |
 | ----- | -------- |
@@ -348,7 +338,6 @@ Ich lerne Deutsch.
 | --------------- | ------------- | -------- |
 | Was bist du von Beruf?<br>Was ist dein Beruf?<br>Wo arbeitest du?<br>Was machst du (beruflich)?<br>Und was machst du? | Was sind Sie von Beruf?<br>Was ist Ihr Beruf?<br>Wo arbeiten Sie?<br>Was machen Sie (beruflich)?<br>Und was machen Sie? | Ich bin Architekt(in) (von Beruf).<br>Ich arbeite als Architekt.<br>Ich arbeite bei Siemens/BMW.<br>Ich studiere Architektur. |
 :::
-
 
 ::: details 7. März
 ## 7. März
@@ -379,7 +368,7 @@ Ich lerne Deutsch.
 | einmal | once |
 | wiederholen | repeat |
 
-### Familienstand
+#### Familienstand
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -387,7 +376,7 @@ Ich lerne Deutsch.
 | verheiratet | married |
 | geschieden | divorced |
 
-### Arbeitsplatz (workplace)
+#### Arbeitsplatz (workplace)
 
 | Deutsch | Plural | Englisch |
 | ------- | ------ | -------- |
@@ -412,7 +401,7 @@ Ich lerne Deutsch.
 | das Taschentuch | die Taschentücher | hankerchief |
 | der Kopfhörer | die Kopfhörer | headphone |
 
-### Die Artikel
+#### Die Artikel
 
 Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules for plural formation.)
 
@@ -420,7 +409,7 @@ Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules f
 | --- | --- | --- |
 | Computer<br>Kalendar<br>Ausweis<br>Kugelschreiber<br>Bleistift | Formular<br>Handy<br>Buch<br>Tablet | Brille<br>Maus<br>Briefmarke |
 
-### Farbe (Color)
+#### Farbe (Color)
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -467,7 +456,7 @@ neu:
 | ------- | -------- |
 | die Leute | people |
 | papier | paper |
-| gern | fond(adv.) |
+| gern(e) | fond(adv.) |
 | Spiele | play(n.) |
 | spielen | play(v.) |
 | fahren | drive/ride |
@@ -475,6 +464,7 @@ neu:
 | charmant | charming |
 | Blei | lead 铅 |
 | das Feuerzeug | lighter |
+| der Sport | sport |
 
 #### Sportarten
 
@@ -483,6 +473,7 @@ neu:
 | Spiele spielen | play games |
 | Tennis spielen | tennis |
 | Fußball spielen | football |
+| Basketball spielen | basketball |
 | Volleyball spielen | volleyball |
 | schwimmen | swim |
 | Yoga machen | yoga |
@@ -496,7 +487,7 @@ neu:
 
 | Deutsch | Englisch |
 | ------- | -------- |
-| Was machen Sie gern?<br>Was machst du gern?<br>Was spielst du gern? | What do you like to do? |
+| Was machen Sie (nicht) gern?<br>Was machst du (nicht) gern?<br>Was spielst du (nicht) gern? | What do you (not) like to do? |
 | Bücher lesen.<br>Ich lese gern. | I like reading. |
 | Ich höre Musik. | I listen to music. |
 | Ich höre gern Musik. | I like to listen to music. |
@@ -514,7 +505,7 @@ neu:
 | wählen | choose |
 | schwierig | difficult |
 | wann | when |
-| dieses/dieser | this |
+| diese/dieses/dieser | this |
 | Woche | week |
 | Wochentag | weekday |
 | Wochenende | weekend |
@@ -527,6 +518,9 @@ neu:
 | bis | until |
 | noch | still |
 | mehr | more |
+| ja | yes |
+| nein | no |
+| jeder | every |
 
 #### Fahren
 
@@ -552,7 +546,7 @@ neu:
 #### Tageszeiten (time of day)
 
 | Zeit | Uhr |
-| ------- | -------- |
+| ---- | --- |
 | am Morgen | circa 6 bis 9 Uhr |
 | am Vormittag | circa 9 bis 12 Uhr |
 | am Mittag | circa 12 bis 14 Uhr |
@@ -578,16 +572,129 @@ neu:
 | Bis gleich! | See you later! |
 :::
 
-::: details 10. März
-## 10. März
+::: details 11. März
+## 11. März
 
 ### Wörter
 
 | Deutsch | Englisch |
 | ------- | -------- |
+| Geburt | birth |
+| wirt/werden | become |
+| Freund | friend |
+| Feind | foe |
+| feier | celebrate |
+| Feier | party, celebration |
+| die Einladung | invitation |
+| der Betreff | headline |
+| die Bleibe | place to stay |
+| bleiben | stay remain |
+| um | around |
+| machen | make |
+| Endung | ending |
+| spät | late |
+| später | later |
+| Beginn | beginning |
+| Prüfung | test(n.) |
+| prufen | test(v.) |
+| schlafen | sleep |
+| deshalb | therefore |
+| Grüß | greeting |
+| Grüße | regards |
+| Elter | parent(s) |
+| zur | to the |
+| nächste | next |
+| viele | many |
+| Nachricht | news/message |
+| erste | 1st |
+| zweite | 2nd |
+| dritte | 3rd |
+| vierte | 4th |
+| verschieden | different |
+| gemeinsam | together |
+| verabreden | arrange |
+| früh | early |
+| wissen | know |
+| brauchen | need |
+| hinzufügen | add |
+
+#### ??? Drinks
+
+| das Wasser | water |
+| das Bier | beer |
+| der Tee | tea |
+| der Rotwein | red wine |
+| der Weißwein | white wine |
+| Schokolade | chocolate |
+
+#### Eine Geburtstagsfeier (a birthday party)
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| der Geburtstag | birthday |
+| die Musik | music |
 | das Getränk | beverage |
+| das Essen | meal |
+| die Geburtstagstorte | birthday cake |
+| die Freunde | friends |
+
+#### Verb
+
+| Person | kommen | beginnen | haben | sein | xxx |
+| ------ | ------ | -------- | ----- | ---- | ------ |
+| ich 我| komme | beginne | habe | bin | xxx |
+| du 你 | kommst | beginnst | **hast** | bist | xxx |
+| er 他 / sie 她 / es 它 | kommt | beginnt | **hat** | ist | xxx |
+| wir 我们 | kommen | beginnen | haben | sind | xxx |
+| ihr 你们 | kommt | beginnt | habt | seid | xxx |
+| sie 您 / Sie 他们 | kommen | beginnen | haben | sind | xxx |
+
+### Zeitangabe (statement regarding time)
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| zehn Uhr dreißig | 10:30 |
+| von 14 Uhr bis 15 Uhr | from 14:00 to 15:00 |
+| Am Donnerstag, um zehn Uhr. | On Thursday, at 10 o'clock. |
+| Wann Spielen wir Fußball? | When do you play football? |
+| Wir spielen am Montag Fußball. | We play football on Monday. |
+
+### Hast du Zeit? / Haben Sie Zeit? (Do you have time?)
+
+Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play tennis?)
+
+| Ja | Nein |
+| -- | ---- |
+| Ja, ich habe Zeit.<br>Ja, das geht. | Nein, ich habe (leider) keine Zeit.<br>Nein, das geht (leider) nicht. |
 
 ### Sätze
 
 | Deutsch | Englisch |
 | ------- | -------- |
+| Liebe Grüße. | Best regards. |
+| Was braucht man für eine Party? | What do you need for a party? |
+| Wir haben Zeit und kommen gern. | We have time and like to come. |
+| Ich habe nächste Woche Deutschprüfung, leider. | I have a German exam next week, unfortunately. |
+
+
+## Worter
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| meinen | think |
+| Sprechstunde | consultation |
+
+### ???
+
+| masculine & neuter | feminine |
+| ------------------ | -------- |
+| ein | eine |
+| kein keine |
+| mein | meine |
+| Anhang | (email) attachment |
+
+## Sätze
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| Wie meinen Sie? | I beg your pardon? |
