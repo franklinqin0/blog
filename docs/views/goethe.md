@@ -77,7 +77,7 @@ Ich lerne Deutsch.
 | Karte | card, chart |
 | Weltkarte | world map |
 | Beispiel | example |
-| Stelle | place (n.) |
+| Stelle/Stellung | place (n.) |
 | stellen | place (v.) |
 | bauen | build |
 | Frage | question |
@@ -306,6 +306,7 @@ Ich lerne Deutsch.
 | Mode | fashion |
 | Medizin | medicine |
 | Wirtschaft | economy |
+| Computerwissenschaft | computer science |
 
 #### Beruf(e)
 
@@ -406,6 +407,10 @@ Ich lerne Deutsch.
 | der/das Tablet | die Tablets | tablet |
 | der MP3-Player | die MP3-Player | MP3 player |
 | der USB-Stick | die USB-Sticks | USB stick |
+| das Foto | die Fotos | photo |
+| das Glas | die Gläser | glass |
+| das Taschentuch | die Taschentücher | hankerchief |
+| der Kopfhörer | die Kopfhörer | headphone |
 
 ### Die Artikel
 
@@ -415,7 +420,7 @@ Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules f
 | --- | --- | --- |
 | Computer<br>Kalendar<br>Ausweis<br>Kugelschreiber<br>Bleistift | Formular<br>Handy<br>Buch<br>Tablet | Brille<br>Maus<br>Briefmarke |
 
-### Farbe
+### Farbe (Color)
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -465,42 +470,124 @@ neu:
 | gern | fond(adv.) |
 | Spiele | play(n.) |
 | spielen | play(v.) |
+| fahren | drive/ride |
 | nett | nice/kind |
 | charmant | charming |
 | Blei | lead 铅 |
+| das Feuerzeug | lighter |
 
-#### ???
+#### Sportarten
 
-| Deutsch | Plural | Englisch |
-| ------- | ------ | -------- |
-| das Foto | die Fotos | photo |
-| das Glas | die Gläser | glass |
-| das Taschentuch | die Taschentücher | hankerchief |
-| ...
-
-#### ????
-
-｜ Volleyball spielen | volleyball |
-| Yoga machen
-Faharrd fahren | 
+| Deutsch | Englisch |
+| ------- | -------- |
+| Spiele spielen | play games |
+| Tennis spielen | tennis |
+| Fußball spielen | football |
+| Volleyball spielen | volleyball |
+| schwimmen | swim |
+| Yoga machen | yoga |
 | joggen | jog |
+| wandern | hike |
+| Fahrrad fahren | cycle |
 | Ski fahren | ski |
 | Basketball spielen | play basketball |
 
+### Sätze
 
-| Was kennen Sie auf dem Bild? | What do you know in the picture? |
-| Was machst du gern?
-Sie ...
-
-Ich lese gern.
-Bücher lesen.
-
+| Deutsch | Englisch |
+| ------- | -------- |
+| Was machen Sie gern?<br>Was machst du gern?<br>Was spielst du gern? | What do you like to do? |
+| Bücher lesen.<br>Ich lese gern. | I like reading. |
 | Ich höre Musik. | I listen to music. |
 | Ich höre gern Musik. | I like to listen to music. |
+| Ich spiele (nicht) gern Yoga. | I (don't) like to play yoga. |
+| Ich jogge (nicht) gern. | I (don't) like to jog. |
+:::
 
-Ich spiele gern Yoga.
-Ich jogge nicht gern.
+::: details 9. März
+## 9. März
 
-### Phrase
+### Wörter
 
-| Spiele spielen | play games |
+| Deutsch | Englisch |
+| ------- | -------- |
+| wählen | choose |
+| schwierig | difficult |
+| wann | when |
+| dieses/dieser | this |
+| Woche | week |
+| Wochentag | weekday |
+| Wochenende | weekend |
+| sich | self |
+| vielleicht | perhaps |
+| gleich | at once / same |
+| leider | unfortunately |
+| aber | but |
+| nah(e) | near |
+| bis | until |
+| noch | still |
+| mehr | more |
+
+#### Fahren
+
+| Person | Verb |
+| ------ | ---- |
+| ich 我| fahre |
+| du 你 | fährst |
+| er 他 / sie 她 / es 它 | fährt |
+| sie 您 / Sie 他们 | fahren |
+
+#### Woche (Week)
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| Montag | Monday |
+| Dienstag | Tuesday |
+| Mittwoch | Wednesday |
+| Donnerstag | Thursday |
+| Freitag | Friday |
+| Samstag | Saturday |
+| Sonntag | Sunday |
+
+#### Tageszeiten (time of day)
+
+| Zeit | Uhr |
+| ------- | -------- |
+| am Morgen | circa 6 bis 9 Uhr |
+| am Vormittag | circa 9 bis 12 Uhr |
+| am Mittag | circa 12 bis 14 Uhr |
+| am Nachmittag | circa 14 bis 17 Uhr |
+| am Abend | circa 17 bis 0 Uhr |
+| in der Nacht | circa 0 bis 6 Uhr |
+
+#### Aktivität (activity)
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| fotografieren | take photograph |
+| kochen | cook |
+| Musik Hören | listen to music |
+| lesen | read (books) |
+| Gitarre spielen | play guitar |
+
+### Sätze
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| Was kennen Sie auf dem Bild? | What do you know in the picture? |
+| Bis gleich! | See you later! |
+:::
+
+::: details 10. März
+## 10. März
+
+### Wörter
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| das Getränk | beverage |
+
+### Sätze
+
+| Deutsch | Englisch |
+| ------- | -------- |
