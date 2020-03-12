@@ -49,7 +49,7 @@ Ich lerne Deutsch.
 | Gruppenarbeit | group work |
 | ordnen | order |
 | richtig | right |
-| die Reihenfolge | order |
+| <die>Reihenfolge</die> | order |
 | ziehen | pull |
 | Dialog | dialogue |
 | passenden | suitable |
@@ -81,7 +81,7 @@ Ich lerne Deutsch.
 | stellen | place (v.) |
 | bauen | build |
 | Frage | question |
-| die Antworten | answer |
+| <die>Antworten</die> | answer |
 | Aussage | statement |
 | alles/all | all |
 | Heimat | home |
@@ -168,7 +168,7 @@ Ich lerne Deutsch.
 | aussprechen | pronounce |
 | Ihr(e) | your |
 
-#### Die Zahlen
+#### <die>Zahlen</die>
 
 | Zahl | Deutsch |
 | ---- | ------- |
@@ -303,21 +303,21 @@ Ich lerne Deutsch.
 
 | Mann | Frau | Englisch |
 | ---- | ---- | -------- |
-| der Architekt | die Architektin | architect |
-| der Ingenieur | die Ingenieurin | engineer |
-| der Elektriker | die Elektrikerin | electrician |
-| der Designer | die Designerin | designer |
-| der Journalist | die Journalistin | journalist |
-| der Sekretär | die Sekretärin | secretary |
-| der Apotheker | die Apothekerin | druggist |
-| der Verkäufer | die Verkäuferin | vendor/salesperson |
-| der Hausmann | die Hausfrau | househusband/housewife |
-| der Köch | die Köchin | chef |
-| der Musiker | die Musikerin | musician |
-| der Lehrer | die Lehrerin | teacher |
-| der Schüler | die Schülerin | pupil |
-| der Student | die Studentin | college student |
-| die Studenten | die Studentinnen | die Studenten und die Studentinnen |
+| <der>Architekt</der> | <die>Architektin</die> | architect |
+| <der>Ingenieur</der> | <die>Ingenieurin</die> | engineer |
+| <der>Elektriker</der> | <die>Elektrikerin</die> | electrician |
+| <der>Designer</der> | <die>Designerin</die> | designer |
+| <der>Journalist</der> | <die>Journalistin</die> | journalist |
+| <der>Sekretär</der> | <die>Sekretärin</die> | secretary |
+| <der>Apotheker</der> | <die>Apothekerin</die> | druggist |
+| <der>Verkäufer</der> | <die>Verkäuferin</die> | vendor/salesperson |
+| <der>Hausmann</der> | <die>Hausfrau</die> | househusband/housewife |
+| <der>Köch</der> | <die>Köchin</die> | chef |
+| <der>Musiker</der> | <die>Musikerin</die> | musician |
+| <der>Lehrer</der> | <die>Lehrerin</die> | teacher |
+| <der>Schüler</der> | <die>Schülerin</die> | pupil |
+| <der>Student</der> | <die>Studentin</die> | college student |
+| <die>Studenten</die> | <die>Studentinnen</die> | <die>Studenten</die> und <die>Studentinnen</die> |
 
 ### Sätze
 
@@ -380,32 +380,32 @@ Ich lerne Deutsch.
 
 | Deutsch | Plural | Englisch |
 | ------- | ------ | -------- |
-| der Computer | die Computer | computer |
-| der Drucker | die Drucker | printer |
-| der Kalender | die Kalender | calendar |
-| das Formular | die Formulare | form |
-| der Kugelschreiber | die Kugelschreiber | pen |
-| die Briefmarke | die Briefmarken | stamp |
-| die Brille | die Brillen | glasses |
-| die Maus | die Mäuse | mouse |
-| der Bleistift | die Bleistifte | pencil |
-| das Handy | die Handys | mobile phone |
-| der Ausweis | die Ausweise | ID card |
-| der Schlüssel | die Schlüssel | key |
-| das Buch | die Bücher | book |
-| der/das Tablet | die Tablets | tablet |
-| der MP3-Player | die MP3-Player | MP3 player |
-| der USB-Stick | die USB-Sticks | USB stick |
-| das Foto | die Fotos | photo |
-| das Glas | die Gläser | glass |
-| das Taschentuch | die Taschentücher | hankerchief |
-| der Kopfhörer | die Kopfhörer | headphone |
+| <der>Computer</der> | <die>Computer</die> | computer |
+| <der>Drucker</der> | <die>Drucker</die> | printer |
+| <der>Kalender</der> | <die>Kalender</die> | calendar |
+| <der>Kopfhörer</der> | <die>Kopfhörer</die> | headphone |
+|<der>Kugelschreiber</der> | <die>Kugelschreiber</die> | pen |
+| <der>Bleistift</der> | <die>Bleistifte</die> | pencil |
+| <der>Ausweis</der> | <die>Ausweise</die> | ID card |
+| <der>Schlüssel</der> | <die>Schlüssel</die> | key |
+| <der>MP3-Player</der> | <die>MP3-Player</die> | MP3 player |
+| <der>USB-Stick</der> | <die>USB-Sticks</die> | USB stick |
+| <die>Briefmarke</die> | <die>Briefmarken</die> | stamp |
+| <die>Brille</die> | <die>Brillen</die> | glasses |
+| <die>Maus</die> | <die>Mäuse</die> | mouse |
+| <das>Handy</das> | <die>Handys</die> | mobile phone |
+| <das>Tablet</das> | <die>Tablets</die> | tablet |
+| <das>Buch</das> | <die>Bücher</die> | book |
+| <das>Formular</das> | <die>Formulare</die> | form |
+| <das>Foto</das> | <die>Fotos</die> | photo |
+| <das>Glas</das> | <die>Gläser</die> | glass |
+| <das>Taschentuch</das> | <die>Taschentücher</die> | hankerchief |
 
-#### Die Artikel
+#### <die>Artikel</die>
 
 Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules for plural formation.)
 
-| der | das | die |
+| <der>der</der> | <das>das</das> | <die>die</die> |
 | --- | --- | --- |
 | Computer<br>Kalendar<br>Ausweis<br>Kugelschreiber<br>Bleistift | Formular<br>Handy<br>Buch<br>Tablet | Brille<br>Maus<br>Briefmarke |
 
@@ -459,11 +459,11 @@ neu:
 | gern(e) | fond(adv.) |
 | Spiele | play(n.) |
 | spielen | play(v.) |
-| fahren | drive/ride |
+| fahren | ride, drive |
 | nett | nice/kind |
 | charmant | charming |
 | Blei | lead 铅 |
-| das Feuerzeug | lighter |
+| <das>Feuerzeug</das> | lighter |
 | der Sport | sport |
 
 #### Sportarten
@@ -505,13 +505,13 @@ neu:
 | wählen | choose |
 | schwierig | difficult |
 | wann | when |
-| diese/dieses/dieser | this |
+| dies/diese/dieses/dieser | this |
 | Woche | week |
 | Wochentag | weekday |
 | Wochenende | weekend |
 | sich | self |
 | vielleicht | perhaps |
-| gleich | at once / same |
+| gleich | at once, same |
 | leider | unfortunately |
 | aber | but |
 | nah(e) | near |
@@ -521,15 +521,6 @@ neu:
 | ja | yes |
 | nein | no |
 | jeder | every |
-
-#### Fahren
-
-| Person | Verb |
-| ------ | ---- |
-| ich 我| fahre |
-| du 你 | fährst |
-| er 他 / sie 她 / es 它 | fährt |
-| sie 您 / Sie 他们 | fahren |
 
 #### Woche (Week)
 
@@ -618,38 +609,40 @@ neu:
 | brauchen | need |
 | hinzufügen | add |
 
-#### ??? Drinks
-
-| das Wasser | water |
-| das Bier | beer |
-| der Tee | tea |
-| der Rotwein | red wine |
-| der Weißwein | white wine |
-| Schokolade | chocolate |
-
 #### Eine Geburtstagsfeier (a birthday party)
 
 | Deutsch | Englisch |
 | ------- | -------- |
-| der Geburtstag | birthday |
-| die Musik | music |
-| das Getränk | beverage |
-| das Essen | meal |
-| die Geburtstagstorte | birthday cake |
-| die Freunde | friends |
+| <der>Geburtstag</der> | birthday |
+| <die>Musik</die> | music |
+| <die>Geburtstagstorte</die> | birthday cake |
+| <die>Freunde</die> | friends |
+| <das>Getränk</das> | beverage |
+| <das>Essen</das> | meal |
+
+#### Getränk (drink)
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| <das>Wasser</das> | water |
+| <das>Bier</das> | beer |
+| <der>Tee</der> | tea |
+| <der>Rotwein</der> | red wine |
+| <der>Weißwein</der> | white wine |
+| <die>Schokolade</die> | chocolate |
 
 #### Verb
 
-| Person | kommen | beginnen | haben | sein | xxx |
+| Person | kommen | beginnen | haben | sein | fahren |
 | ------ | ------ | -------- | ----- | ---- | ------ |
-| ich 我| komme | beginne | habe | bin | xxx |
-| du 你 | kommst | beginnst | **hast** | bist | xxx |
-| er 他 / sie 她 / es 它 | kommt | beginnt | **hat** | ist | xxx |
-| wir 我们 | kommen | beginnen | haben | sind | xxx |
-| ihr 你们 | kommt | beginnt | habt | seid | xxx |
-| sie 您 / Sie 他们 | kommen | beginnen | haben | sind | xxx |
+| ich 我| komme | beginne | habe | bin | fahre |
+| du 你 | kommst | beginnst | <impt>hast</impt> | bist | fährst |
+| er 他 / sie 她 / es 它 | kommt | beginnt | <impt>hat</impt> | ist | fährt |
+| wir 我们 | kommen | beginnen | haben | sind | fahren |
+| ihr 你们 | kommt | beginnt | habt | seid | fahrt |
+| sie 您 / Sie 他们 | kommen | beginnen | haben | sind | fahren |
 
-### Zeitangabe (statement regarding time)
+#### Zeitangabe (statement regarding time)
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -659,7 +652,7 @@ neu:
 | Wann Spielen wir Fußball? | When do you play football? |
 | Wir spielen am Montag Fußball. | We play football on Monday. |
 
-### Hast du Zeit? / Haben Sie Zeit? (Do you have time?)
+#### Hast du Zeit? / Haben Sie Zeit? (Do you have time?)
 
 Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play tennis?)
 
@@ -675,7 +668,10 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | Was braucht man für eine Party? | What do you need for a party? |
 | Wir haben Zeit und kommen gern. | We have time and like to come. |
 | Ich habe nächste Woche Deutschprüfung, leider. | I have a German exam next week, unfortunately. |
+:::
 
+::: details 12. März
+## 12. März
 
 ## Worter
 
@@ -683,6 +679,7 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | ------- | -------- |
 | meinen | think |
 | Sprechstunde | consultation |
+| heiß | hot |
 
 ### ???
 
@@ -698,3 +695,5 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | Deutsch | Englisch |
 | ------- | -------- |
 | Wie meinen Sie? | I beg your pardon? |
+
+:::
