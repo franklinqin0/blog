@@ -118,7 +118,7 @@ Deutsch lernen Notizen vom 2. bis 8. März.
 | ------- | -------- |
 | fotografieren | take photograph |
 | kochen | cook |
-| Musik Hören | listen to music |
+| Musik hören | listen to music |
 | lesen | read (books) |
 | Gitarre spielen | play guitar |
 
@@ -130,9 +130,9 @@ Deutsch lernen Notizen vom 2. bis 8. März.
 | Bis gleich! | See you later! |
 :::
 
-## 11. März
+## 10 & 11. März
 
-::: details 11. März
+::: details
 
 ### Wörter
 
@@ -141,30 +141,29 @@ Deutsch lernen Notizen vom 2. bis 8. März.
 | <d type="er" text="Betreff"/> | headline |
 | <d type="er" text="Freund"/> | friend |
 | <d type="er" text="Feind"/> | foe |
+| <d type="er" text="Grüß(e)"/> | greeting |
+| <d type="er" text="Beginn"/> | beginning |
 | <d type="ie" text="Geburt"/> | birth |
 | <d type="ie" text="Feier"/> | party, celebration |
 | <d type="ie" text="Einladung"/> | invitation |
 | <d type="ie" text="Bleibe"/> | place to stay |
 | <d type="ie" text="Nachricht"/> | news/message |
+| <d type="ie" text="Endung"/> | ending |
+| <d type="ie" text="Prüfung"/> | test(n.) |
+| <d type="as" text="Elter"/> | parent(s) |
 | wirt/werden | become |
 | feier | celebrate |
-| bleiben | stay remain |
-| um | around |
+| bleiben | stay, remain |
+| um | around (specific time: {xxx} o'clock) |
 | machen | make |
-| Endung | ending |
 | spät | late |
 | später | later |
-| Beginn | beginning |
-| Prüfung | test(n.) |
 | prufen | test(v.) |
 | schlafen | sleep |
 | deshalb | therefore |
-| Grüß | greeting |
-| Grüße | regards |
-| Elter | parent(s) |
 | zur | to the |
 | nächste | next |
-| viele | many |
+| viel/viele/vielen | many |
 | erste | 1st |
 | zweite | 2nd |
 | dritte | 3rd |
@@ -237,31 +236,31 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 
 | Deutsch | Englisch |
 | ------- | -------- |
-| meinen | think |
-| Sprechstunde | consultation |
-| heiß | hot |
 | <d type="er" text="Rucksack"/> | backpack |
 | <d type="er" text="Schlüssel"/> | key |
 | <d type="ie" text="Uhr"/> | hour |
 | <d type="ie" text="Küche"/> | kitchen |
+| <d type="ie" text="Sprechstunde"/> | consultation |
 | <d type="as" text="Zimmer"/> | room |
 | <d type="as" text="Wohnzimmer"/> | living room |
 | <d type="as" text="Telefon"/> | telephone |
+| meinen | think |
+| heiß | hot |
 
-### Teil der Rede (part of speech) ???
+### Artikel
 
-| maskulin & neuter | feminine |
-| ------------------ | -------- |
-| ein | eine |
-| kein | keine |
-| mein | meine |
+|   | maskulin | neutrum | feminin |
+| - | -------- | ------- | ------- |
+| bestimmter Artikel | der <d type="er" text="Rucksack"/> | das <d type="as" text="Telefon"/> | die <d type="ie" text="Uhr"/> |
+| unbestimmter Artikel | ein <d type="er" text="Rucksack"/> | ein <d type="as" text="Telefon"/> | eine <d type="ie" text="Uhr"/> |
+| Negationsartikel | kein <d type="er" text="Rucksack"/> | kein <d type="as" text="Telefon"/> | keine <d type="ie" text="Uhr"/> |
 
 ### Sätze
 
 | Deutsch | Englisch |
 | ------- | -------- |
 | Wie meinen Sie? | I beg your pardon? |
-| Ist das eine Cola? | Is that a Cola? |
+| Ist das ein<d type="impt" text="e"/> Cola? | Is that a Cola? |
 | Nein, das ist kein<d type="impt" text="e"/> Cola. Das ist ein<d type="impt" text="e"/> heiße Schokolade. | No, it is not Cola. It is a hot chocolate. |
 :::
 
@@ -277,16 +276,12 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | <d type="er" text="Glaube"/> | belief |
 | <d type="er" text="Mitbewohner"/> | other occupant |
 | <d type="er" text="Kellner"/> | waiter |
-| <d type="er" text="Reis"/> | rice |
 | <d type="er" text="Appetit"/> | appetite |
 | <d type="er" text="Saft"/> | juice |
 | <d type="er" text="Hunger"/> | hunger |
 | <d type="er" text="Durst"/> | thirst |
 | <d type="er" text="Teller"/> | plate |
-| <d type="er" text="Salat"/> | salad |
-| <d type="er" text="Obstsalat"/> | fruit salad |
 | <d type="as" text="Gespräch"/> | conversation |
-| <d type="as" text="Hähnchen"/> | chicken |
 | <d type="as" text="Fleisch"/> | flesh |
 | <d type="ie" text="Speise"/> | dish |
 | <d type="ie" text="Anhang"/> | (email) attachment |
@@ -298,10 +293,6 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | <d type="ie" text="Zitrone"/> | lemon |
 | <d type="ie" text="Sache(n)"/> | stuff |
 | <d type="ie" text="Tagessuper"/> | Tagessuper |
-| <d type="ie" text="Gemüsesuppe"/> | vegetable soup |
-| <d type="as" text="Gemüse"/> | vegetable |
-| <d type="as" text="Eis"/> | ice |
-| <d type="as" text="Obst"/> | fruit |
 | (zu) zweit | two |
 | üben | practice |
 | aussehen | look |
@@ -325,7 +316,7 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | mögen/möchte/möchten | would like |
 | schon | already |
 | dazu | with it |
-| nehmen | take |
+| nehmen/nimmt | take |
 | schmecken | taste |
 | wirklich | real(ly) |
 | bringen | bring |
@@ -344,6 +335,7 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | <d type="er" text="Rotwein"/> | red wine |
 | <d type="er" text="Weißwein"/> | white wine |
 | <d type="er" text="Apfelsaft"/> | apple juice |
+| <d type="ie" text="Cola"/> | cola |
 | <d type="ie" text="Schokolade"/> | chocolate |
 | <d type="ie" text="Limonade"/> | lemonade |
 | <d type="as" text="Wasser"/> | water |
@@ -405,11 +397,32 @@ M: Wir möchten dann zahlen.
 
 | Deutsch | Englisch |
 | ------- | -------- |
-| <d type="ie" text="Speise"/> | dish |
+| <d type="er" text="Apfel"/> | apple |
+| <d type="er" text="Kuchen"/> | cake |
+| <d type="er" text="Apfelkuchen"/> | apple cake |
+| <d type="er" text="Fisch"/> | fish |
+| <d type="er" text="Reis"/> | rice |
+| <d type="er" text="Schinken"/> | ham |
+| <d type="er" text="Salat"/> | salad |
+| <d type="er" text="Obstsalat"/> | fruit salad |
 | <d type="ie" text="Vorspeise"/> | starter |
 | <d type="ie" text="Hauptspeise"/> | main course |
 | <d type="ie" text="Nachspeise"/><br><d type="as" text="Dessert"/> | dessert |
+| <d type="ie" text="Omelette"/> | omelette |
+| <d type="ie" text="Melone"/> | melon |
+| <d type="ie" text="Speise"/> | dish |
+| <d type="ie" text="Gemüsesuppe"/> | vegetable soup |
+| <d type="as" text="Gemüse"/> | vegetable |
 | <d type="as" text="Haupt"/> | head |
+| <d type="as" text="Eis"/> | ice |
+| <d type="as" text="Obst"/> | fruit |
+| <d type="as" text="Hähnchen"/> | chicken |
+
+#### <d type="ie" text="Speise"/>
+
+| <d type="ie" text="Vorspeise"/>	| der <d type="er" text="Salat"/><br>der Schinken mit Melone<br>die Gemüsesuppe |
+| <d type="ie" text="Hauptspeise"/> |	das Hähnchen mit Pommes<br>das Omelette mit Gemüse<br>der Fisch mit Reis |
+| <d type="ie" text="Nachspeise"/<d type="as" text="Dessert"/> | das Eis<br>der Apfelkuchen<br>der <d type="er" text="Obstsalat"/> |
 
 ### Sätze
 
@@ -420,4 +433,3 @@ M: Wir möchten dann zahlen.
 | Ich muss etwas essen. | I must eat sth. |
 | Ich essen etwas. | I eat sth. |
 
-:::
