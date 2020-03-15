@@ -1,5 +1,5 @@
 ---
-title: Python3 Notes
+title: Python3 Features
 date: 2020-03-10
 categories:
  - study

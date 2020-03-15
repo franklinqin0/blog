@@ -1,5 +1,5 @@
 ---
-title: Common Algorithms
+title: Interview Algorithms
 date: 2020-03-10
 categories:
  - study
@@ -9,7 +9,7 @@ publish: false
 ---
 
 This blog features some of the most commonly used algorithms.
-
+<d type="er" text="haha"/>
 <!-- more -->
 
 Thanks to:
@@ -26,6 +26,21 @@ who taught me the core CS courses to help me write, categorize and understand th
 ```py
 import random
 ```
+
+## BFS
+
+## DFS
+
+## Input Size, Runtime, Algorithm
+
+We could guess the types of algorithms from given input size.
+
+A chip could run about $10^9$ operations in a second. Given input size, we could deduce the runtime, and thus the algorithm:
+
+$n = 10^7$ $\rightarrow$ $O(n)$
+$n = 10^4~10^6$ $\rightarrow$ $O(n\log n)$
+$n = 10^3$ $\rightarrow$ $O(n^2)$
+$n <= 20$ $\rightarrow$ $O(2^n)$ (DFS)
 
 ## Dutch National Flag
 

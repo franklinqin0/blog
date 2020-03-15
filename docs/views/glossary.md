@@ -22,12 +22,12 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | ZF | government | 政府 |
 | IDK | I don't know | 我不知道 |
 | BS | bullshit | 扯淡 |
-| thru | through | 穿过，在...期间 |
-| o.w. | otherwise | 不然 |
 | IMPT | important | 重要的 |
 | NIMPT | not important | 不重要的 |
 | REC | recommended | 推荐的 |
 | XREC | not recommended | 不推荐的 |
+| thru | through | 穿过，在...期间 |
+| o.w. | otherwise | 不然 |
 | w/ | with | 和...一起 |
 | w/o | without | 没有和...一起 |
 | b/c | because | 因为 |
@@ -49,6 +49,8 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | MVP | minimum viable product |
 | LC | LeetCode |
 | OA | online assessment |
+| TLS | time limit exceeded |
+| WFH | work from home |
 | algo | algorithm |
 | var | variable |
 | int | integer |

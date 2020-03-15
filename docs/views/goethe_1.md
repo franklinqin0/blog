@@ -1,18 +1,20 @@
 ---
-title: Lernen von Goethe Institut
+title: Lernen von Goethe Institut - eins
 date: 2020-03-02
 categories:
  - study
 tags:
  - Deutsch
+next: goethe_2
 ---
 
-Ich lerne Deutsch.
+Deutsch lernen Notizen vom 2. bis 8. März.
 
 <!-- more -->
 
-::: details 2. März
 ## 2. März
+
+::: details
 
 ### Wörter
 
@@ -49,7 +51,7 @@ Ich lerne Deutsch.
 | Gruppenarbeit | group work |
 | ordnen | order |
 | richtig | right |
-| <die>Reihenfolge</die> | order |
+| <d type="ie" text="Reihenfolge"/> | order |
 | ziehen | pull |
 | Dialog | dialogue |
 | passenden | suitable |
@@ -66,8 +68,9 @@ Ich lerne Deutsch.
 | Sprache | Welche Sprachen sprichst du? | Ich spreche Chinesisch und Deutsch. |
 :::
 
-::: details 3. März
 ## 3. März
+
+::: details
 
 ### Wörter
 
@@ -81,7 +84,7 @@ Ich lerne Deutsch.
 | stellen | place (v.) |
 | bauen | build |
 | Frage | question |
-| <die>Antworten</die> | answer |
+| <d type="ie" text="Antworten"/> | answer |
 | Aussage | statement |
 | alles/all | all |
 | Heimat | home |
@@ -96,6 +99,7 @@ Ich lerne Deutsch.
 | auf | on |
 | Zahl | number (n.) |
 | Zahlen | number (v.) |
+| zahlen | pay |
 | Zimmer | room |
 
 #### Länder und Sprachen
@@ -135,8 +139,9 @@ Ich lerne Deutsch.
 | Wie schreibt man das? | Can you spell it? |
 :::
 
-::: details 4. März
 ## 4. März
+
+::: details
 
 ### Wörter
 
@@ -168,7 +173,7 @@ Ich lerne Deutsch.
 | aussprechen | pronounce |
 | Ihr(e) | your |
 
-#### <die>Zahlen</die>
+#### <d type="ie" text="Zahlen"/>
 
 | Zahl | Deutsch |
 | ---- | ------- |
@@ -223,8 +228,9 @@ Ich lerne Deutsch.
 | Ich stelle mich vor. | I'll introduce myself. |
 :::
 
-::: details 5. März
 ## 5. März
+
+::: details
 
 ### Wörter
 
@@ -280,8 +286,9 @@ Ich lerne Deutsch.
 | Ach, nicht so gut.<br>Gar nicht gut. | Not so good. |
 :::
 
-::: details 6. März
 ## 6. März
+
+::: details
 
 ### Wörter
 
@@ -303,21 +310,21 @@ Ich lerne Deutsch.
 
 | Mann | Frau | Englisch |
 | ---- | ---- | -------- |
-| <der>Architekt</der> | <die>Architektin</die> | architect |
-| <der>Ingenieur</der> | <die>Ingenieurin</die> | engineer |
-| <der>Elektriker</der> | <die>Elektrikerin</die> | electrician |
-| <der>Designer</der> | <die>Designerin</die> | designer |
-| <der>Journalist</der> | <die>Journalistin</die> | journalist |
-| <der>Sekretär</der> | <die>Sekretärin</die> | secretary |
-| <der>Apotheker</der> | <die>Apothekerin</die> | druggist |
-| <der>Verkäufer</der> | <die>Verkäuferin</die> | vendor/salesperson |
-| <der>Hausmann</der> | <die>Hausfrau</die> | househusband/housewife |
-| <der>Köch</der> | <die>Köchin</die> | chef |
-| <der>Musiker</der> | <die>Musikerin</die> | musician |
-| <der>Lehrer</der> | <die>Lehrerin</die> | teacher |
-| <der>Schüler</der> | <die>Schülerin</die> | pupil |
-| <der>Student</der> | <die>Studentin</die> | college student |
-| <die>Studenten</die> | <die>Studentinnen</die> | <die>Studenten</die> und <die>Studentinnen</die> |
+| <d type="er" text="Architekt"/> | <d type="ie" text="Architektin"/> | architect |
+| <d type="er" text="Ingenieur"/> | <d type="ie" text="Ingenieurin"/> | engineer |
+| <d type="er" text="Elektriker"/> | <d type="ie" text="Elektrikerin"/> | electrician |
+| <d type="er" text="Designer"/> | <d type="ie" text="Designerin"/> | designer |
+| <d type="er" text="Journalist"/> | <d type="ie" text="Journalistin"/> | journalist |
+| <d type="er" text="Sekretär"/> | <d type="ie" text="Sekretärin"/> | secretary |
+| <d type="er" text="Apotheker"/> | <d type="ie" text="Apothekerin"/> | druggist |
+| <d type="er" text="Verkäufer"/> | <d type="ie" text="Verkäuferin"/> | vendor/salesperson |
+| <d type="er" text="Hausmann"/> | <d type="ie" text="Hausfrau"/> | househusband/housewife |
+| <d type="er" text="Köch"/> | <d type="ie" text="Köchin"/> | chef |
+| <d type="er" text="Musiker"/> | <d type="ie" text="Musikerin"/> | musician |
+| <d type="er" text="Lehrer"/> | <d type="ie" text="Lehrerin"/> | teacher |
+| <d type="er" text="Schüler"/> | <d type="ie" text="Schülerin"/> | pupil |
+| <d type="er" text="Student"/> | <d type="ie" text="Studentin"/> | college student |
+| <d type="ie" text="Studenten"/> | <d type="ie" text="Studentinnen"/> | <d type="ie" text="Studenten"/> und <d type="ie" text="Studentinnen"/> |
 
 ### Sätze
 
@@ -339,8 +346,8 @@ Ich lerne Deutsch.
 | Was bist du von Beruf?<br>Was ist dein Beruf?<br>Wo arbeitest du?<br>Was machst du (beruflich)?<br>Und was machst du? | Was sind Sie von Beruf?<br>Was ist Ihr Beruf?<br>Wo arbeiten Sie?<br>Was machen Sie (beruflich)?<br>Und was machen Sie? | Ich bin Architekt(in) (von Beruf).<br>Ich arbeite als Architekt.<br>Ich arbeite bei Siemens/BMW.<br>Ich studiere Architektur. |
 :::
 
-::: details 7. März
 ## 7. März
+::: details
 
 ### Wörter
 
@@ -353,7 +360,7 @@ Ich lerne Deutsch.
 | helfen | help |
 | nur | only/just |
 | wenig | little |
-| Bild(er) | picture(s) |
+| <d type="as" text="Bild(er)"/> | picture(s) |
 | Paar(e) | pair(s) |
 | heute | today |
 | Achtung | attention |
@@ -362,7 +369,7 @@ Ich lerne Deutsch.
 | Bildung | education |
 | keine | no |
 | kosten | cost |
-| Rechnung | calculation/bill invoice |
+| <d type="ie" text="Rechnung"/> | calculation/bill invoice |
 | Kugel | ball |
 | langsam | slow(ly)/gradual(ly) |
 | einmal | once |
@@ -380,32 +387,33 @@ Ich lerne Deutsch.
 
 | Deutsch | Plural | Englisch |
 | ------- | ------ | -------- |
-| <der>Computer</der> | <die>Computer</die> | computer |
-| <der>Drucker</der> | <die>Drucker</die> | printer |
-| <der>Kalender</der> | <die>Kalender</die> | calendar |
-| <der>Kopfhörer</der> | <die>Kopfhörer</die> | headphone |
-|<der>Kugelschreiber</der> | <die>Kugelschreiber</die> | pen |
-| <der>Bleistift</der> | <die>Bleistifte</die> | pencil |
-| <der>Ausweis</der> | <die>Ausweise</die> | ID card |
-| <der>Schlüssel</der> | <die>Schlüssel</die> | key |
-| <der>MP3-Player</der> | <die>MP3-Player</die> | MP3 player |
-| <der>USB-Stick</der> | <die>USB-Sticks</die> | USB stick |
-| <die>Briefmarke</die> | <die>Briefmarken</die> | stamp |
-| <die>Brille</die> | <die>Brillen</die> | glasses |
-| <die>Maus</die> | <die>Mäuse</die> | mouse |
-| <das>Handy</das> | <die>Handys</die> | mobile phone |
-| <das>Tablet</das> | <die>Tablets</die> | tablet |
-| <das>Buch</das> | <die>Bücher</die> | book |
-| <das>Formular</das> | <die>Formulare</die> | form |
-| <das>Foto</das> | <die>Fotos</die> | photo |
-| <das>Glas</das> | <die>Gläser</die> | glass |
-| <das>Taschentuch</das> | <die>Taschentücher</die> | hankerchief |
+| <d type="er" text="Computer"/> | <d type="ie" text="Computer"/> | computer |
+| <d type="er" text="Drucker"/> | <d type="ie" text="Drucker"/> | printer |
+| <d type="er" text="Kalender"/> | <d type="ie" text="Kalender"/> | calendar |
+| <d type="er" text="Kopfhörer"/> | <d type="ie" text="Kopfhörer"/> | headphone |
+|<d type="er" text="Kugelschreiber"/> | <d type="ie" text="Kugelschreiber"/> | pen |
+| <d type="er" text="Bleistift"/> | <d type="ie" text="Bleistifte"/> | pencil |
+| <d type="er" text="Ausweis"/> | <d type="ie" text="Ausweise"/> | ID card |
+| <d type="er" text="Schlüssel"/> | <d type="ie" text="Schlüssel"/> | key |
+| <d type="er" text="MP3-Player"/> | <d type="ie" text="MP3-Player"/> | MP3 player |
+| <d type="er" text="USB-Stick"/> | <d type="ie" text="USB-Sticks"/> | USB stick |
+| <d type="ie" text="Briefmarke"/> | <d type="ie" text="Briefmarken"/> | stamp |
+| <d type="ie" text="Brille"/> | <d type="ie" text="Brillen"/> | glasses |
+| <d type="ie" text="Maus"/> | <d type="ie" text="Mäuse"/> | mouse |
+| <d type="as" text="Handy"/> | <d type="ie" text="Handys"/> | mobile phone |
+| <d type="as" text="Tablet"/> | <d type="ie" text="Tablets"/> | tablet |
+| <d type="as" text="Buch"/> | <d type="ie" text="Bücher"/> | book |
+| <d type="as" text="Formular"/> | <d type="ie" text="Formulare"/> | form |
+| <d type="as" text="Foto"/> | <d type="ie" text="Fotos"/> | photo |
+| <d type="as" text="Glas"/> | <d type="ie" text="Gläser"/> | glass |
+| <d type="as" text="Tuch"/> | <d type="ie" text="Tuche/Tücher"/> | cloth |
+| <d type="as" text="Taschentuch"/> | <d type="ie" text="Taschentücher"/> | hankerchief |
 
-#### <die>Artikel</die>
+#### <d type="ie" text="Artikel"/>
 
 Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules for plural formation.)
 
-| <der>der</der> | <das>das</das> | <die>die</die> |
+| <d type="er" text="der"/> | <d type="as" text="das"/> | <d type="ie" text="die"/> |
 | --- | --- | --- |
 | Computer<br>Kalendar<br>Ausweis<br>Kugelschreiber<br>Bleistift | Formular<br>Handy<br>Buch<br>Tablet | Brille<br>Maus<br>Briefmarke |
 
@@ -444,256 +452,4 @@ neu:
 | Vielen Dank. | Thank you. |
 | Bitte ein bisschen langsamer. | A little slower, please. |
 | Können Sie die Telefonnummer bitte noch einmal wiederholen? | Can you repeat the phone number again? |
-
-:::
-
-::: details 8. März
-## 8. März
-
-### Wörter
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| die Leute | people |
-| papier | paper |
-| gern(e) | fond(adv.) |
-| Spiele | play(n.) |
-| spielen | play(v.) |
-| fahren | ride, drive |
-| nett | nice/kind |
-| charmant | charming |
-| Blei | lead 铅 |
-| <das>Feuerzeug</das> | lighter |
-| der Sport | sport |
-
-#### Sportarten
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| Spiele spielen | play games |
-| Tennis spielen | tennis |
-| Fußball spielen | football |
-| Basketball spielen | basketball |
-| Volleyball spielen | volleyball |
-| schwimmen | swim |
-| Yoga machen | yoga |
-| joggen | jog |
-| wandern | hike |
-| Fahrrad fahren | cycle |
-| Ski fahren | ski |
-| Basketball spielen | play basketball |
-
-### Sätze
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| Was machen Sie (nicht) gern?<br>Was machst du (nicht) gern?<br>Was spielst du (nicht) gern? | What do you (not) like to do? |
-| Bücher lesen.<br>Ich lese gern. | I like reading. |
-| Ich höre Musik. | I listen to music. |
-| Ich höre gern Musik. | I like to listen to music. |
-| Ich spiele (nicht) gern Yoga. | I (don't) like to play yoga. |
-| Ich jogge (nicht) gern. | I (don't) like to jog. |
-:::
-
-::: details 9. März
-## 9. März
-
-### Wörter
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| wählen | choose |
-| schwierig | difficult |
-| wann | when |
-| dies/diese/dieses/dieser | this |
-| Woche | week |
-| Wochentag | weekday |
-| Wochenende | weekend |
-| sich | self |
-| vielleicht | perhaps |
-| gleich | at once, same |
-| leider | unfortunately |
-| aber | but |
-| nah(e) | near |
-| bis | until |
-| noch | still |
-| mehr | more |
-| ja | yes |
-| nein | no |
-| jeder | every |
-
-#### Woche (Week)
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| Montag | Monday |
-| Dienstag | Tuesday |
-| Mittwoch | Wednesday |
-| Donnerstag | Thursday |
-| Freitag | Friday |
-| Samstag | Saturday |
-| Sonntag | Sunday |
-
-#### Tageszeiten (time of day)
-
-| Zeit | Uhr |
-| ---- | --- |
-| am Morgen | circa 6 bis 9 Uhr |
-| am Vormittag | circa 9 bis 12 Uhr |
-| am Mittag | circa 12 bis 14 Uhr |
-| am Nachmittag | circa 14 bis 17 Uhr |
-| am Abend | circa 17 bis 0 Uhr |
-| in der Nacht | circa 0 bis 6 Uhr |
-
-#### Aktivität (activity)
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| fotografieren | take photograph |
-| kochen | cook |
-| Musik Hören | listen to music |
-| lesen | read (books) |
-| Gitarre spielen | play guitar |
-
-### Sätze
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| Was kennen Sie auf dem Bild? | What do you know in the picture? |
-| Bis gleich! | See you later! |
-:::
-
-::: details 11. März
-## 11. März
-
-### Wörter
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| Geburt | birth |
-| wirt/werden | become |
-| Freund | friend |
-| Feind | foe |
-| feier | celebrate |
-| Feier | party, celebration |
-| die Einladung | invitation |
-| der Betreff | headline |
-| die Bleibe | place to stay |
-| bleiben | stay remain |
-| um | around |
-| machen | make |
-| Endung | ending |
-| spät | late |
-| später | later |
-| Beginn | beginning |
-| Prüfung | test(n.) |
-| prufen | test(v.) |
-| schlafen | sleep |
-| deshalb | therefore |
-| Grüß | greeting |
-| Grüße | regards |
-| Elter | parent(s) |
-| zur | to the |
-| nächste | next |
-| viele | many |
-| Nachricht | news/message |
-| erste | 1st |
-| zweite | 2nd |
-| dritte | 3rd |
-| vierte | 4th |
-| verschieden | different |
-| gemeinsam | together |
-| verabreden | arrange |
-| früh | early |
-| wissen | know |
-| brauchen | need |
-| hinzufügen | add |
-
-#### Eine Geburtstagsfeier (a birthday party)
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| <der>Geburtstag</der> | birthday |
-| <die>Musik</die> | music |
-| <die>Geburtstagstorte</die> | birthday cake |
-| <die>Freunde</die> | friends |
-| <das>Getränk</das> | beverage |
-| <das>Essen</das> | meal |
-
-#### Getränk (drink)
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| <das>Wasser</das> | water |
-| <das>Bier</das> | beer |
-| <der>Tee</der> | tea |
-| <der>Rotwein</der> | red wine |
-| <der>Weißwein</der> | white wine |
-| <die>Schokolade</die> | chocolate |
-
-#### Verb
-
-| Person | kommen | beginnen | haben | sein | fahren |
-| ------ | ------ | -------- | ----- | ---- | ------ |
-| ich 我| komme | beginne | habe | bin | fahre |
-| du 你 | kommst | beginnst | <impt>hast</impt> | bist | fährst |
-| er 他 / sie 她 / es 它 | kommt | beginnt | <impt>hat</impt> | ist | fährt |
-| wir 我们 | kommen | beginnen | haben | sind | fahren |
-| ihr 你们 | kommt | beginnt | habt | seid | fahrt |
-| sie 您 / Sie 他们 | kommen | beginnen | haben | sind | fahren |
-
-#### Zeitangabe (statement regarding time)
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| zehn Uhr dreißig | 10:30 |
-| von 14 Uhr bis 15 Uhr | from 14:00 to 15:00 |
-| Am Donnerstag, um zehn Uhr. | On Thursday, at 10 o'clock. |
-| Wann Spielen wir Fußball? | When do you play football? |
-| Wir spielen am Montag Fußball. | We play football on Monday. |
-
-#### Hast du Zeit? / Haben Sie Zeit? (Do you have time?)
-
-Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play tennis?)
-
-| Ja | Nein |
-| -- | ---- |
-| Ja, ich habe Zeit.<br>Ja, das geht. | Nein, ich habe (leider) keine Zeit.<br>Nein, das geht (leider) nicht. |
-
-### Sätze
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| Liebe Grüße. | Best regards. |
-| Was braucht man für eine Party? | What do you need for a party? |
-| Wir haben Zeit und kommen gern. | We have time and like to come. |
-| Ich habe nächste Woche Deutschprüfung, leider. | I have a German exam next week, unfortunately. |
-:::
-
-::: details 12. März
-## 12. März
-
-## Worter
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| meinen | think |
-| Sprechstunde | consultation |
-| heiß | hot |
-
-### ???
-
-| masculine & neuter | feminine |
-| ------------------ | -------- |
-| ein | eine |
-| kein keine |
-| mein | meine |
-| Anhang | (email) attachment |
-
-## Sätze
-
-| Deutsch | Englisch |
-| ------- | -------- |
-| Wie meinen Sie? | I beg your pardon? |
-
 :::
