@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Interview Algorithms | Franklin Qin</title>
+    <meta name="description" content="Just do it!">
+    <meta name="generator" content="VuePress 1.3.1">
+    <link rel="icon" href="/favicon.ico">
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    
+    <link rel="preload" href="/assets/css/0.styles.f0d43faf.css" as="style"><link rel="preload" href="/assets/js/app.bf2636e5.js" as="script"><link rel="preload" href="/assets/js/4.287285bd.js" as="script"><link rel="preload" href="/assets/js/1.8e1464fd.js" as="script"><link rel="preload" href="/assets/js/28.96a7ea39.js" as="script"><link rel="preload" href="/assets/js/10.f1deec8b.js" as="script"><link rel="prefetch" href="/assets/js/11.841a8851.js"><link rel="prefetch" href="/assets/js/12.09ebe44d.js"><link rel="prefetch" href="/assets/js/13.4ccd7042.js"><link rel="prefetch" href="/assets/js/14.d4f0b2ad.js"><link rel="prefetch" href="/assets/js/15.401348c5.js"><link rel="prefetch" href="/assets/js/16.2e3ca5e9.js"><link rel="prefetch" href="/assets/js/17.b56081f6.js"><link rel="prefetch" href="/assets/js/18.07fcdb8c.js"><link rel="prefetch" href="/assets/js/19.2dd3a33d.js"><link rel="prefetch" href="/assets/js/20.3280db66.js"><link rel="prefetch" href="/assets/js/21.5f71251f.js"><link rel="prefetch" href="/assets/js/22.d1e0c5d4.js"><link rel="prefetch" href="/assets/js/23.f70bd2ae.js"><link rel="prefetch" href="/assets/js/24.97689c66.js"><link rel="prefetch" href="/assets/js/25.d7e11e64.js"><link rel="prefetch" href="/assets/js/26.e8014090.js"><link rel="prefetch" href="/assets/js/27.84d4b633.js"><link rel="prefetch" href="/assets/js/29.3c7aebd7.js"><link rel="prefetch" href="/assets/js/30.6c5d7de0.js"><link rel="prefetch" href="/assets/js/31.6ed42897.js"><link rel="prefetch" href="/assets/js/32.0db2356c.js"><link rel="prefetch" href="/assets/js/33.56368771.js"><link rel="prefetch" href="/assets/js/34.724b1c58.js"><link rel="prefetch" href="/assets/js/35.fad39a9c.js"><link rel="prefetch" href="/assets/js/36.7cfa5118.js"><link rel="prefetch" href="/assets/js/37.3c4037a7.js"><link rel="prefetch" href="/assets/js/38.4ded3ed2.js"><link rel="prefetch" href="/assets/js/39.da6e8703.js"><link rel="prefetch" href="/assets/js/40.8fc01c23.js"><link rel="prefetch" href="/assets/js/41.c485e3bc.js"><link rel="prefetch" href="/assets/js/42.fe6f89cd.js"><link rel="prefetch" href="/assets/js/43.fcc7cb1b.js"><link rel="prefetch" href="/assets/js/44.677aa190.js"><link rel="prefetch" href="/assets/js/45.bd4ff05d.js"><link rel="prefetch" href="/assets/js/46.3a9b153b.js"><link rel="prefetch" href="/assets/js/47.b19ccf01.js"><link rel="prefetch" href="/assets/js/48.eb753e17.js"><link rel="prefetch" href="/assets/js/49.924a134b.js"><link rel="prefetch" href="/assets/js/5.a7a2c8ad.js"><link rel="prefetch" href="/assets/js/50.e9c1b240.js"><link rel="prefetch" href="/assets/js/51.ac285983.js"><link rel="prefetch" href="/assets/js/52.d148454d.js"><link rel="prefetch" href="/assets/js/53.0979b655.js"><link rel="prefetch" href="/assets/js/54.5365aea0.js"><link rel="prefetch" href="/assets/js/55.595ee35c.js"><link rel="prefetch" href="/assets/js/56.f8dea1b7.js"><link rel="prefetch" href="/assets/js/6.3babfd64.js"><link rel="prefetch" href="/assets/js/7.1f5bfef8.js"><link rel="prefetch" href="/assets/js/8.791cb2bd.js"><link rel="prefetch" href="/assets/js/9.42bea164.js"><link rel="prefetch" href="/assets/js/vendors~flowchart.50ec1682.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.f0d43faf.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div><div class="theme-container" data-v-4698c43e><div data-v-4698c43e><div id="loader-wrapper" class="loading-wrapper" data-v-4b73742e data-v-4698c43e data-v-4698c43e><div class="loader-main" data-v-4b73742e><div data-v-4b73742e></div><div data-v-4b73742e></div><div data-v-4b73742e></div><div data-v-4b73742e></div></div> <!----> <!----></div> <div class="password-shadow password-wrapper-out" style="display:none;" data-v-6cbeab0a data-v-4698c43e data-v-4698c43e><h3 class="title" style="display:none;" data-v-6cbeab0a data-v-6cbeab0a>Franklin Qin</h3> <!----> <label id="box" class="inputBox" style="display:none;" data-v-6cbeab0a data-v-6cbeab0a><input type="password" value="" data-v-6cbeab0a> <span data-v-6cbeab0a>Konck! Knock!</span> <button data-v-6cbeab0a>OK</button></label> <div class="footer" style="display:none;" data-v-6cbeab0a data-v-6cbeab0a><span data-v-6cbeab0a><i class="iconfont reco-theme" data-v-6cbeab0a></i> <a target="blank" href="https://vuepress-theme-reco.recoluan.com" data-v-6cbeab0a>vuePress-theme-reco</a></span> <span data-v-6cbeab0a><i class="iconfont reco-copyright" data-v-6cbeab0a></i> <a data-v-6cbeab0a><span data-v-6cbeab0a>franklinqin0</span>
+            
+          <!---->
+          2020
+        </a></span></div></div> <div class="hide" data-v-4698c43e><header class="navbar" data-v-4698c43e><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"><!----> <span class="site-name">Franklin Qin</span></a> <div class="links"><div class="color-picker"><a class="color-button"><i class="iconfont reco-color"></i></a> <div class="color-picker-menu" style="display:none;"><div class="mode-options"><h4 class="title">Choose mode</h4> <ul class="color-mode-options"><li class="dark">dark</li><li class="auto active">auto</li><li class="light">light</li></ul></div></div></div> <div class="search-box"><i class="iconfont reco-search"></i> <input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="/" class="nav-link"><i class="iconfont reco-home"></i>
+  Home
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><a class="dropdown-title"><span class="title"><i class="iconfont reco-category"></i>
+      Category
+    </span> <span class="arrow right"></span></a> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/categories/misc/" class="nav-link"><i class="iconfont undefined"></i>
+  misc
+</a></li><li class="dropdown-item"><!----> <a href="/categories/film/" class="nav-link"><i class="iconfont undefined"></i>
+  film
+</a></li><li class="dropdown-item"><!----> <a href="/categories/about/" class="nav-link"><i class="iconfont undefined"></i>
+  about
+</a></li><li class="dropdown-item"><!----> <a href="/categories/study/" class="nav-link"><i class="iconfont undefined"></i>
+  study
+</a></li></ul></div></div><div class="nav-item"><a href="/tag/" class="nav-link"><i class="iconfont reco-tag"></i>
+  Tag
+</a></div><div class="nav-item"><a href="/timeline/" class="nav-link"><i class="iconfont reco-date"></i>
+  TimeLine
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><a class="dropdown-title"><span class="title"><i class="iconfont reco-message"></i>
+      More
+    </span> <span class="arrow right"></span></a> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="https://franklinqin0.github.io/algo" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont undefined"></i>
+  Algo
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://franklinqin0.github.io/blog/rss" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-rss"></i>
+  RSS
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="mailto:franklinqin0@gmail.com?subject=I read your blog and here is what I think" class="nav-link external"><i class="iconfont reco-mail"></i>
+  Email
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://github.com/franklinqin0" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-github"></i>
+  GitHub
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://franklinqin0.github.io/blog/wechat.png" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-wechat"></i>
+  Wechat
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://www.facebook.com/franklinqin0" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-facebook"></i>
+  Facebook
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://www.linkedin.com/in/franklinqin0/" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-linkedin"></i>
+  LinkedIn
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li></ul></div></div> <!----></nav></div></header> <div class="sidebar-mask" data-v-4698c43e></div> <aside class="sidebar" data-v-4698c43e><div class="personal-info-wrapper" data-v-6c8ffc9c><!----> <h3 class="name" data-v-6c8ffc9c>
+    franklinqin0
+  </h3> <div class="num" data-v-6c8ffc9c><div data-v-6c8ffc9c><h3 data-v-6c8ffc9c>30</h3> <h6 data-v-6c8ffc9c>文章</h6></div> <div data-v-6c8ffc9c><h3 data-v-6c8ffc9c>17</h3> <h6 data-v-6c8ffc9c>标签</h6></div></div> <hr data-v-6c8ffc9c></div> <nav class="nav-links"><div class="nav-item"><a href="/" class="nav-link"><i class="iconfont reco-home"></i>
+  Home
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><a class="dropdown-title"><span class="title"><i class="iconfont reco-category"></i>
+      Category
+    </span> <span class="arrow right"></span></a> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/categories/misc/" class="nav-link"><i class="iconfont undefined"></i>
+  misc
+</a></li><li class="dropdown-item"><!----> <a href="/categories/film/" class="nav-link"><i class="iconfont undefined"></i>
+  film
+</a></li><li class="dropdown-item"><!----> <a href="/categories/about/" class="nav-link"><i class="iconfont undefined"></i>
+  about
+</a></li><li class="dropdown-item"><!----> <a href="/categories/study/" class="nav-link"><i class="iconfont undefined"></i>
+  study
+</a></li></ul></div></div><div class="nav-item"><a href="/tag/" class="nav-link"><i class="iconfont reco-tag"></i>
+  Tag
+</a></div><div class="nav-item"><a href="/timeline/" class="nav-link"><i class="iconfont reco-date"></i>
+  TimeLine
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><a class="dropdown-title"><span class="title"><i class="iconfont reco-message"></i>
+      More
+    </span> <span class="arrow right"></span></a> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="https://franklinqin0.github.io/algo" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont undefined"></i>
+  Algo
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://franklinqin0.github.io/blog/rss" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-rss"></i>
+  RSS
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="mailto:franklinqin0@gmail.com?subject=I read your blog and here is what I think" class="nav-link external"><i class="iconfont reco-mail"></i>
+  Email
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://github.com/franklinqin0" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-github"></i>
+  GitHub
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://franklinqin0.github.io/blog/wechat.png" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-wechat"></i>
+  Wechat
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://www.facebook.com/franklinqin0" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-facebook"></i>
+  Facebook
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://www.linkedin.com/in/franklinqin0/" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-linkedin"></i>
+  LinkedIn
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li></ul></div></div> <!----></nav>  <ul class="sidebar-links"><li><section class="sidebar-group depth-0"><p class="sidebar-heading open"><span>Interview Algorithms</span> <!----></p> <ul class="sidebar-links sidebar-group-items"><li><a href="/views/interview_algo.html#import-libraries" class="sidebar-link">Import Libraries</a><ul class="sidebar-sub-headers"></ul></li><li><a href="/views/interview_algo.html#bfs" class="sidebar-link">BFS</a><ul class="sidebar-sub-headers"></ul></li><li><a href="/views/interview_algo.html#dfs" class="sidebar-link">DFS</a><ul class="sidebar-sub-headers"></ul></li><li><a href="/views/interview_algo.html#input-size-runtime-algorithm" class="sidebar-link">Input Size, Runtime, Algorithm</a><ul class="sidebar-sub-headers"></ul></li><li><a href="/views/interview_algo.html#dutch-national-flag" class="sidebar-link">Dutch National Flag</a><ul class="sidebar-sub-headers"></ul></li></ul></section></li></ul> </aside> <div class="password-shadow password-wrapper-in" style="display:none;" data-v-6cbeab0a data-v-4698c43e><h3 class="title" style="display:none;" data-v-6cbeab0a data-v-6cbeab0a>Interview Algorithms</h3> <!----> <label id="box" class="inputBox" style="display:none;" data-v-6cbeab0a data-v-6cbeab0a><input type="password" value="" data-v-6cbeab0a> <span data-v-6cbeab0a>Konck! Knock!</span> <button data-v-6cbeab0a>OK</button></label> <div class="footer" style="display:none;" data-v-6cbeab0a data-v-6cbeab0a><span data-v-6cbeab0a><i class="iconfont reco-theme" data-v-6cbeab0a></i> <a target="blank" href="https://vuepress-theme-reco.recoluan.com" data-v-6cbeab0a>vuePress-theme-reco</a></span> <span data-v-6cbeab0a><i class="iconfont reco-copyright" data-v-6cbeab0a></i> <a data-v-6cbeab0a><span data-v-6cbeab0a>franklinqin0</span>
+            
+          <!---->
+          2020
+        </a></span></div></div> <div data-v-4698c43e><main class="page"><!----> <div class="page-title" style="display:none;"><h1>Interview Algorithms</h1> <hr> <div data-v-484a899e><i class="iconfont reco-account" data-v-484a899e><span data-v-484a899e>franklinqin0</span></i> <i class="iconfont reco-date" data-v-484a899e><span data-v-484a899e>2020-03-10</span></i> <!----> <i class="iconfont reco-tag tags" data-v-484a899e><span class="tag-item" data-v-484a899e>
+      tech
+    </span></i></div></div> <div class="theme-reco-content content__default" style="display:none;"><p>This blog features some of the most commonly used algorithms.
+<span class="d er" data-v-13fbc75a>haha</span></p> <p>Thanks to:</p> <ul><li>Walker M. White and Lillian Lee, teacher of CS1110: <em>Intro to Programming in Python</em></li> <li>David Gries, teacher of CS2110: <em>OOP in Java</em></li> <li>Michael Clarkson, teacher of CS3110: <em>FP in OCaml</em></li> <li>Eva Tardos, teacher of CS4820: <em>Intro to Algorithms</em></li></ul> <p>who taught me the core CS courses to help me write, categorize and understand the following algorithms.</p> <h2 id="import-libraries"><a href="#import-libraries" class="header-anchor">#</a> Import Libraries</h2> <div class="language-py line-numbers-mode"><pre class="language-py"><code><span class="token keyword">import</span> random
+</code></pre> <div class="line-numbers-wrapper"><span class="line-number">1</span><br></div></div><h2 id="bfs"><a href="#bfs" class="header-anchor">#</a> BFS</h2> <h2 id="dfs"><a href="#dfs" class="header-anchor">#</a> DFS</h2> <h2 id="input-size-runtime-algorithm"><a href="#input-size-runtime-algorithm" class="header-anchor">#</a> Input Size, Runtime, Algorithm</h2> <p>We could guess the types of algorithms from given input size.</p> <p>A chip could run about <mjx-container jax="SVG" class="MathJax"><svg xmlns="http://www.w3.org/2000/svg" width="3.175ex" height="2.005ex" viewBox="0 -864 1403.6 886" style="vertical-align:-0.05ex;"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500, 0)"></path></g><g data-mml-node="mn" transform="translate(1000, 393.1) scale(0.707)"><path data-c="39" d="M352 287Q304 211 232 211Q154 211 104 270T44 396Q42 412 42 436V444Q42 537 111 606Q171 666 243 666Q245 666 249 666T257 665H261Q273 665 286 663T323 651T370 619T413 560Q456 472 456 334Q456 194 396 97Q361 41 312 10T208 -22Q147 -22 108 7T68 93T121 149Q143 149 158 135T173 96Q173 78 164 65T148 49T135 44L131 43Q131 41 138 37T164 27T206 22H212Q272 22 313 86Q352 142 352 280V287ZM244 248Q292 248 321 297T351 430Q351 508 343 542Q341 552 337 562T323 588T293 615T246 625Q208 625 181 598Q160 576 154 546T147 441Q147 358 152 329T172 282Q197 248 244 248Z"></path></g></g></g></g></svg></mjx-container> operations in a second. Given input size, we could deduce the runtime, and thus the algorithm:</p> <p><mjx-container jax="SVG" class="MathJax"><svg xmlns="http://www.w3.org/2000/svg" width="6.922ex" height="2.156ex" viewBox="0 -871.1 3059.3 953.1" style="vertical-align:-0.186ex;"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="6E" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(877.8, 0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="msup" transform="translate(1655.8, 0)"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500, 0)"></path></g><g data-mml-node="mn" transform="translate(1000, 393.1) scale(0.707)"><path data-c="37" d="M55 458Q56 460 72 567L88 674Q88 676 108 676H128V672Q128 662 143 655T195 646T364 644H485V605L417 512Q408 500 387 472T360 435T339 403T319 367T305 330T292 284T284 230T278 162T275 80Q275 66 275 52T274 28V19Q270 2 255 -10T221 -22Q210 -22 200 -19T179 0T168 40Q168 198 265 368Q285 400 349 489L395 552H302Q128 552 119 546Q113 543 108 522T98 479L95 458V455H55V458Z"></path></g></g></g></g></svg></mjx-container> <mjx-container jax="SVG" class="MathJax"><svg xmlns="http://www.w3.org/2000/svg" width="2.262ex" height="1.181ex" viewBox="0 -511 1000 522" style="vertical-align:-0.025ex;"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path></g></g></g></svg></mjx-container> <mjx-container jax="SVG" class="MathJax"><svg xmlns="http://www.w3.org/2000/svg" width="4.844ex" height="2.262ex" viewBox="0 -750 2141 1000" style="vertical-align:-0.566ex;"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="4F" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"></path></g><g data-mml-node="mo" transform="translate(763, 0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(1152, 0)"><path data-c="6E" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(1752, 0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container> <mjx-container jax="SVG" class="MathJax"><svg xmlns="http://www.w3.org/2000/svg" width="10.663ex" height="2.158ex" viewBox="0 -871.8 4712.9 953.8" style="vertical-align:-0.186ex;"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="6E" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(877.8, 0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="msup" transform="translate(1655.8, 0)"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500, 0)"></path></g><g data-mml-node="mn" transform="translate(1000, 393.1) scale(0.707)"><path data-c="34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"></path></g></g><g data-mml-node="mtext" transform="translate(3059.3, 0)"><path data-c="A0" d=""></path></g><g data-mml-node="msup" transform="translate(3309.3, 0)"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500, 0)"></path></g><g data-mml-node="mn" transform="translate(1000, 393.1) scale(0.707)"><path data-c="36" d="M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z"></path></g></g></g></g></svg></mjx-container> <mjx-container jax="SVG" class="MathJax"><svg xmlns="http://www.w3.org/2000/svg" width="2.262ex" height="1.181ex" viewBox="0 -511 1000 522" style="vertical-align:-0.025ex;"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path></g></g></g></svg></mjx-container> <mjx-container jax="SVG" class="MathJax"><svg xmlns="http://www.w3.org/2000/svg" width="9.847ex" height="2.262ex" viewBox="0 -750 4352.3 1000" style="vertical-align:-0.566ex;"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="4F" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"></path></g><g data-mml-node="mo" transform="translate(763, 0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="mi" transform="translate(1152, 0)"><path data-c="6E" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mi" transform="translate(1918.7, 0)"><path data-c="6C" d="M42 46H56Q95 46 103 60V68Q103 77 103 91T103 124T104 167T104 217T104 272T104 329Q104 366 104 407T104 482T104 542T103 586T103 603Q100 622 89 628T44 637H26V660Q26 683 28 683L38 684Q48 685 67 686T104 688Q121 689 141 690T171 693T182 694H185V379Q185 62 186 60Q190 52 198 49Q219 46 247 46H263V0H255L232 1Q209 2 183 2T145 3T107 3T57 1L34 0H26V46H42Z"></path><path data-c="6F" d="M28 214Q28 309 93 378T250 448Q340 448 405 380T471 215Q471 120 407 55T250 -10Q153 -10 91 57T28 214ZM250 30Q372 30 372 193V225V250Q372 272 371 288T364 326T348 362T317 390T268 410Q263 411 252 411Q222 411 195 399Q152 377 139 338T126 246V226Q126 130 145 91Q177 30 250 30Z" transform="translate(278, 0)"></path><path data-c="67" d="M329 409Q373 453 429 453Q459 453 472 434T485 396Q485 382 476 371T449 360Q416 360 412 390Q410 404 415 411Q415 412 416 414V415Q388 412 363 393Q355 388 355 386Q355 385 359 381T368 369T379 351T388 325T392 292Q392 230 343 187T222 143Q172 143 123 171Q112 153 112 133Q112 98 138 81Q147 75 155 75T227 73Q311 72 335 67Q396 58 431 26Q470 -13 470 -72Q470 -139 392 -175Q332 -206 250 -206Q167 -206 107 -175Q29 -140 29 -75Q29 -39 50 -15T92 18L103 24Q67 55 67 108Q67 155 96 193Q52 237 52 292Q52 355 102 398T223 442Q274 442 318 416L329 409ZM299 343Q294 371 273 387T221 404Q192 404 171 388T145 343Q142 326 142 292Q142 248 149 227T179 192Q196 182 222 182Q244 182 260 189T283 207T294 227T299 242Q302 258 302 292T299 343ZM403 -75Q403 -50 389 -34T348 -11T299 -2T245 0H218Q151 0 138 -6Q118 -15 107 -34T95 -74Q95 -84 101 -97T122 -127T170 -155T250 -167Q319 -167 361 -139T403 -75Z" transform="translate(778, 0)"></path></g><g data-mml-node="mo" transform="translate(3196.7, 0)"><path data-c="2061" d=""></path></g><g data-mml-node="mi" transform="translate(3363.3, 0)"><path data-c="6E" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(3963.3, 0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container> <mjx-container jax="SVG" class="MathJax"><svg xmlns="http://www.w3.org/2000/svg" width="6.922ex" height="2.139ex" viewBox="0 -863.3 3059.3 945.3" style="vertical-align:-0.186ex;"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="6E" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(877.8, 0)"><path data-c="3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path></g><g data-mml-node="msup" transform="translate(1655.8, 0)"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500, 0)"></path></g><g data-mml-node="mn" transform="translate(1000, 393.1) scale(0.707)"><path data-c="33" d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z"></path></g></g></g></g></svg></mjx-container> <mjx-container jax="SVG" class="MathJax"><svg xmlns="http://www.w3.org/2000/svg" width="2.262ex" height="1.181ex" viewBox="0 -511 1000 522" style="vertical-align:-0.025ex;"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path></g></g></g></svg></mjx-container> <mjx-container jax="SVG" class="MathJax"><svg xmlns="http://www.w3.org/2000/svg" width="5.757ex" height="2.452ex" viewBox="0 -833.9 2544.6 1083.9" style="vertical-align:-0.566ex;"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="4F" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"></path></g><g data-mml-node="mo" transform="translate(763, 0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="msup" transform="translate(1152, 0)"><g data-mml-node="mi"><path data-c="6E" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mn" transform="translate(600, 363) scale(0.707)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g></g><g data-mml-node="mo" transform="translate(2155.6, 0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container> <mjx-container jax="SVG" class="MathJax"><svg xmlns="http://www.w3.org/2000/svg" width="6.637ex" height="1.819ex" viewBox="0 -666 2933.6 804" style="vertical-align:-0.312ex;"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="6E" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g><g data-mml-node="mo" transform="translate(877.8, 0)"><path data-c="2A7D" d="M674 636Q682 636 688 630T694 615T687 601Q686 600 417 472L151 346L399 228Q687 92 691 87Q694 81 694 76Q694 58 676 56H670L382 192Q92 329 90 331Q83 336 83 348Q84 359 96 365Q104 369 382 500T665 634Q669 636 674 636ZM94 170Q102 172 104 172Q110 171 254 103T535 -30T678 -98Q694 -106 694 -118Q694 -136 676 -138H670L382 -2Q92 135 90 137Q83 142 83 154Q84 164 94 170Z"></path></g><g data-mml-node="mn" transform="translate(1933.6, 0)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500, 0)"></path></g></g></g></svg></mjx-container> <mjx-container jax="SVG" class="MathJax"><svg xmlns="http://www.w3.org/2000/svg" width="2.262ex" height="1.181ex" viewBox="0 -511 1000 522" style="vertical-align:-0.025ex;"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2192" d="M56 237T56 250T70 270H835Q719 357 692 493Q692 494 692 496T691 499Q691 511 708 511H711Q720 511 723 510T729 506T732 497T735 481T743 456Q765 389 816 336T935 261Q944 258 944 250Q944 244 939 241T915 231T877 212Q836 186 806 152T761 85T740 35T732 4Q730 -6 727 -8T711 -11Q691 -11 691 0Q691 7 696 25Q728 151 835 230H70Q56 237 56 250Z"></path></g></g></g></svg></mjx-container> <mjx-container jax="SVG" class="MathJax"><svg xmlns="http://www.w3.org/2000/svg" width="5.691ex" height="2.262ex" viewBox="0 -750 2515.3 1000" style="vertical-align:-0.566ex;"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="4F" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"></path></g><g data-mml-node="mo" transform="translate(763, 0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path></g><g data-mml-node="msup" transform="translate(1152, 0)"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path></g><g data-mml-node="mi" transform="translate(500, 363) scale(0.707)"><path data-c="6E" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"></path></g></g><g data-mml-node="mo" transform="translate(2126.3, 0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path></g></g></g></svg></mjx-container> (DFS)</p> <h2 id="dutch-national-flag"><a href="#dutch-national-flag" class="header-anchor">#</a> Dutch National Flag</h2> <div class="language-py line-numbers-mode"><pre class="language-py"><code><span class="token keyword">def</span> <span class="token function">dnf</span><span class="token punctuation">(</span>b<span class="token punctuation">,</span> h<span class="token punctuation">,</span> k<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token triple-quoted-string string">&quot;&quot;&quot;Returns: Partition points for the Dutch National Flag
+    
+    The Dutch National Flag algorithm arranges the elements of b[h..k]
+    so that negatives are first, then 0s, then positives. It returns a
+    tuple (i,j)  representing the two partition points.
+    
+    Parameter b: The list to rearrange
+    Precondition: b is a mutable sequence (e.g. a list).
+    
+    Parameter h: The starting point to sort
+    Precondition: h is an int and a valid position in b
+    
+    Parameter k: The ending poing to sort
+    Precondition: k is an int and a valid position in b
+    &quot;&quot;&quot;</span>
+    <span class="token keyword">assert</span> <span class="token builtin">type</span><span class="token punctuation">(</span>b<span class="token punctuation">)</span> <span class="token operator">==</span> <span class="token builtin">list</span><span class="token punctuation">,</span> `b`<span class="token operator">+</span><span class="token string">' is not a list'</span>
+    <span class="token keyword">assert</span> <span class="token number">0</span> <span class="token operator">&lt;=</span> h <span class="token keyword">and</span> h <span class="token operator">&lt;</span> <span class="token builtin">len</span><span class="token punctuation">(</span>b<span class="token punctuation">)</span><span class="token punctuation">,</span> `h`<span class="token operator">+</span><span class="token string">' is not a valid position in the list'</span>
+    <span class="token keyword">assert</span> <span class="token number">0</span> <span class="token operator">&lt;=</span> k <span class="token keyword">and</span> k <span class="token operator">&lt;</span> <span class="token builtin">len</span><span class="token punctuation">(</span>b<span class="token punctuation">)</span><span class="token punctuation">,</span> `k`<span class="token operator">+</span><span class="token string">' is not a valid position in the list'</span>
+
+    <span class="token comment"># Loop variables to satisfy the invariant</span>
+    t <span class="token operator">=</span> h
+    j <span class="token operator">=</span> k
+    i<span class="token operator">=</span> k<span class="token operator">+</span><span class="token number">1</span>
+    
+    <span class="token comment"># inv: b[h..t-1] &lt; 0, b[t..i-1] unknown, b[i..j] = 0, and b[j+1..k] &gt; 0 </span>
+    <span class="token keyword">while</span> t <span class="token operator">&lt;</span> i<span class="token punctuation">:</span>
+        <span class="token keyword">if</span> b<span class="token punctuation">[</span>i<span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">]</span> <span class="token operator">&lt;</span> <span class="token number">0</span><span class="token punctuation">:</span>
+            _swap<span class="token punctuation">(</span>b<span class="token punctuation">,</span>i<span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">,</span>t<span class="token punctuation">)</span>
+            t <span class="token operator">=</span> t<span class="token operator">+</span><span class="token number">1</span>
+        <span class="token keyword">elif</span> b<span class="token punctuation">[</span>i<span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">]</span> <span class="token operator">==</span> <span class="token number">0</span><span class="token punctuation">:</span>
+            i <span class="token operator">=</span> i<span class="token operator">-</span><span class="token number">1</span> 
+        <span class="token keyword">else</span><span class="token punctuation">:</span> 
+            _swap<span class="token punctuation">(</span>b<span class="token punctuation">,</span>i<span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">,</span>j<span class="token punctuation">)</span>
+            i <span class="token operator">=</span> i<span class="token operator">-</span><span class="token number">1</span>
+            j <span class="token operator">=</span> j<span class="token operator">-</span><span class="token number">1</span>
+    
+    <span class="token comment"># post: b[h..i-1] &lt; 0, b[i..j] = 0, and b[j+1..k] &gt; 0 </span>
+    <span class="token comment"># Return dividers as a tuple</span>
+    <span class="token keyword">return</span> <span class="token punctuation">(</span>i<span class="token punctuation">,</span> j<span class="token punctuation">)</span>
+</code></pre> <div class="line-numbers-wrapper"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br><span class="line-number">36</span><br><span class="line-number">37</span><br><span class="line-number">38</span><br><span class="line-number">39</span><br><span class="line-number">40</span><br></div></div><h1 id="note-this-uses-a-different-invariant-than-the-lab"><a href="#note-this-uses-a-different-invariant-than-the-lab" class="header-anchor">#</a> NOTE: This uses a DIFFERENT invariant than the lab</h1> <p>def partition(b, h, k):
+&quot;&quot;&quot;Returns: The new position of pivot in partitioned list b[h..k].</p> <div class="language- extra-class"><pre><code>The pivot is the initial value x = b[h].  This function rearranges the
+list so that elements &lt;= x are before the pivot and elements &gt;= x are
+after the pivot.
+
+Parameter b: The list to rearrange
+Precondition: b is a mutable sequence (e.g. a list).
+
+Parameter h: The starting point to sort
+Precondition: h is an int and a valid position in b
+
+Parameter k: The ending poing to sort
+Precondition: k is an int and a valid position in b
+&quot;&quot;&quot;
+assert type(b) == list, `b`+' is not a list'
+assert 0 &lt;= h and h &lt; len(b), `h`+' is not a valid position in the list'
+assert 0 &lt;= k and k &lt; len(b), `k`+' is not a valid position in the list'
+
+# position i is end of first paritition range
+i = h
+# position j is BEFORE beginning of second partition range
+j = k
+
+# Find the first element in the list.
+x = b[h]
+    
+# invariant: b[h..i-1] &lt; x, b[i] = x, b[i+1..j] unknown, and  b[j+1..k] &gt;= x
+while i &lt; j:
+    if b[i+1] &gt;= x:
+        # Move this to the end of the block.
+        _swap(b,i+1,j)
+        j = j - 1
+    else:   # b[i+1] &lt; x
+        _swap(b,i,i+1)
+        i = i + 1
+    
+# post: b[h..i-1] &lt; x, b[i] is x, and b[i+1..k] &gt;= x
+return i
+</code></pre></div><h1 id="helper-function"><a href="#helper-function" class="header-anchor">#</a> HELPER FUNCTION</h1> <p>def _swap(b, h, k):
+&quot;&quot;&quot;Procedure swaps b[h] and b[k]</p> <div class="language- extra-class"><pre><code>Parameter b: The list to rearrange
+Precondition: b is a mutable sequence (e.g. a list).
+
+Parameter h: The first position to swap
+Precondition: h is an int and a valid position in b
+
+Parameter k: The second position to swap
+Precondition: k is an int and a valid position in b
+&quot;&quot;&quot;
+# We typically do not enforce preconditions on hidden helpers
+temp = b[h]
+b[h] = b[k]
+b[k] = temp
+</code></pre></div><h1 id="linear-search"><a href="#linear-search" class="header-anchor">#</a> Linear search</h1> <p>def linear_search(b,c):
+&quot;&quot;&quot;Returns: index of first occurrence of c in b; -1 if not found.</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to search
+Precondition: b is a sequence
+
+Parameter c: The value to search for
+Precondition: NONE (c can be any value)&quot;&quot;&quot;
+# Quick way to check if a sequence
+assert len(b) &gt;= 0, `b`+' is a not a sequence (list, string, or tuple)'
+
+# Store in i the index of the first c in b[0..]
+i = 0
+
+# invariant: c is not in b[0..i-1]
+while i &lt; len(b) and b[i] != c:
+    i = i + 1;
+    
+# post: b[i] == c OR (i == len(b) and c is not in b[0..i-1])
+return i if i &lt; len(b) else -1
+</code></pre></div><h1 id="binary-search"><a href="#binary-search" class="header-anchor">#</a> Binary search</h1> <p>def binary_search(b,c):
+&quot;&quot;&quot;Returns: index of first occurrence of c in b; -1 if not found.</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to search
+Precondition: b is a SORTED sequence
+
+Parameter c: The value to search for
+Precondition: NONE (c can be any value)&quot;&quot;&quot;
+# Quick way to check if a sequence; CANNOT easily check sorted
+assert len(b) &gt;= 0, `b`+' is a not a sequence (list, string, or tuple)'
+
+# Store in i the value BEFORE beginning of range to search
+i = 0
+# Store in j the end of the range to search (element after)
+j = len(b)
+# The middle position of the range
+mid = (i+j)/2
+
+# invariant; b[0..i-1] &lt; c, b[i..j-1] unknown, b[j..] &gt;= c 
+while j &gt; i:
+    if b[mid] &lt; c:
+        i = mid+1
+    else:     # b[mid] &gt;= c
+        j = mid
+        
+    # Compute a new middle.
+    mid = (i+j)/2
+
+# post: i == j and b[0..i-1] &lt; c and b[j..] &gt;= c
+return i if (i &lt; len(b) and b[i] == c) else -1
+</code></pre></div><p>def isort(b):
+&quot;&quot;&quot;Insertion Sort: Sorts the array b in n^2 time</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to sort
+Precondition: b is a mutable sequence (e.g. a list).&quot;&quot;&quot;
+assert type(b) == list, `b`+' is not a list'
+
+# Start from beginning of list
+i = 0
+
+# inv: b[0..i-1] sorted    
+while i  &lt; len(b):
+    _push_down(b,i)
+    i = i + 1
+
+# post: b[0..len(b)-1] sorted
+</code></pre></div><h1 id="helper-function-2"><a href="#helper-function-2" class="header-anchor">#</a> HELPER FUNCTION</h1> <p>def _push_down(b, k):
+&quot;&quot;&quot;Moves the value at position k into its sorted position in b[0.k-1].</p> <div class="language- extra-class"><pre><code>Parameter b: The list to rearrange
+Precondition: b is a list, with b[0..k-1] sorted
+
+Parameter k: The position to push down into b[0..k-1]
+Precondition: k is an int and a valid position in b&quot;&quot;&quot;
+# We typically do not enforce preconditions on hidden helpers
+
+# Start from position k
+j = k
+
+# inv: b[j..k] is sorted
+while j &gt; 0:
+    if b[j-1] &gt; b[j]:
+        _swap(b,j-1,j)
+    j = j - 1
+# post: b[0..k] is sorted     
+</code></pre></div><p>def ssort(b):
+&quot;&quot;&quot;Selection Sort: Sorts the array b in n^2 time</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to sort
+Precondition: b is a mutable sequence (e.g. a list).&quot;&quot;&quot;
+assert type(b) == list, `b`+' is not a list'
+
+# Start from beginning of list
+i = 0
+
+# inv: b[0..i-1] sorted    
+while i &lt; len(b):
+    index = _min_index(b,i);
+    _swap(b,i,index)    
+    i = i+1
+# post: b[0..len(b)-1] sorted
+</code></pre></div><h1 id="helper-function-3"><a href="#helper-function-3" class="header-anchor">#</a> HELPER FUNCTION</h1> <p>def _min_index(b, h):
+&quot;&quot;&quot;Returns: The index of the minimum value in b[h..]</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to search
+Precondition: b is a mutable sequence (e.g. a list).&quot;&quot;&quot;
+# We typically do not enforce preconditions on hidden helpers
+
+# Start from position h
+i = h
+index = h;
+
+# inv: index position of min in b[h..i-1]
+while i &lt; len(b):
+    if b[i] &lt; b[index]:
+        index = i
+    i = i+1
+    
+# post: index position of min in b[h..len(b)-1]
+return index
+</code></pre></div><p>def qsort(b):
+&quot;&quot;&quot;Quick Sort: Sorts the array b in n log n average time</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to sort
+Precondition: b is a mutable sequence (e.g. a list).&quot;&quot;&quot;
+assert type(b) == list, `b`+' is not a list'
+
+# Send everything to the recursive helper
+_qsort_helper(b,0,len(b)-1)
+</code></pre></div><p>def _qsort_helper(b, h, k):
+&quot;&quot;&quot;Quick Sort: Sorts the array b[h..k] in n log n average time</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to sort
+Precondition: b is a mutable sequence (e.g. a list).
+
+Parameter h: The starting point to sort
+Precondition: h is an int and a valid position in b
+
+Parameter k: The ending poing to sort
+Precondition: k is an int and a valid position in b
+&quot;&quot;&quot;
+# We typically do not enforce preconditions on hidden helpers
+if k-h &lt; 1:            # BASE CASE
+    return 
+
+# RECURSIVE CASE
+j = partition(b, h, k)
+# b[h..j-1] &lt;= b[j] &lt;= b[j+1..k]
+# Sort b[h..j-1]  and  b[j+1..k]
+_qsort_helper(b, h, j-1)
+_qsort_helper(b, j+1, k)
+</code></pre></div><p>def roll(p):
+&quot;&quot;&quot;Returns: a random int in 0..len(p)-1; i returned with prob p[i].</p> <div class="language- extra-class"><pre><code>Parameter p: The die value distribution
+Precondition: p a list of positive floats that sum to at least 1.&quot;&quot;&quot;
+# Do not assert precondition; too complicated
+
+r = random.random()     # r in [0,1)
+# Think of interval [0,1] as divided into segments of size p[i]
+# Store into i the segment number in which r falls.
+i = 0
+sum_of = p[0]
+while r &gt;= sum_of:
+    sum_of = sum_of + p[i+1]
+    i = i + 1
+    
+return i
+</code></pre></div><p>def scramble(b):
+&quot;&quot;&quot;Scrambles the list to resort again</p> <div class="language- extra-class"><pre><code>Parameter b: The list to scramble
+Precondition: b is a mutable sequence (e.g. a list).&quot;&quot;&quot;
+assert type(b) == list, `b`+' is not a list'
+
+# Start from the beginning
+i = 0
+
+# inv: b[0..i-1] is scrambled
+
+while i &lt; len(b):
+    size = len(b)-i
+    pos  = int(random.random()*size)
+    _swap(b,i,i+pos)
+    i = i+1
+# post: b[0..len(b)] is scrambled    
+</code></pre></div></div> <footer class="page-edit" style="display:none;"><!----> <div class="last-updated"><span class="prefix">Last Updated: </span> <span class="time">3/15/2020, 6:38:47 AM</span></div></footer> <!----> <!----></main> <!----> <div class="comments-wrapper" data-v-4698c43e><!----></div></div></div></div></div></div><div class="global-ui"><div class="back-to-ceiling" style="right:1rem;bottom:6rem;width:2.5rem;height:2.5rem;border-radius:.25rem;line-height:2.5rem;display:none;" data-v-a81d141e data-v-a81d141e><svg t="1574745035067" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="5404" class="icon" data-v-a81d141e><path d="M526.60727968 10.90185116a27.675 27.675 0 0 0-29.21455937 0c-131.36607665 82.28402758-218.69155461 228.01873535-218.69155402 394.07834331a462.20625001 462.20625001 0 0 0 5.36959153 69.94390903c1.00431239 6.55289093-0.34802892 13.13561351-3.76865779 18.80351572-32.63518765 54.11355614-51.75690182 118.55860487-51.7569018 187.94566865a371.06718723 371.06718723 0 0 0 11.50484808 91.98906777c6.53300375 25.50556257 41.68394495 28.14064038 52.69160883 4.22606766 17.37162448-37.73630017 42.14135425-72.50938081 72.80769204-103.21549295 2.18761121 3.04276886 4.15646224 6.24463696 6.40373557 9.22774369a1871.4375 1871.4375 0 0 0 140.04691725 5.34970492 1866.36093723 1866.36093723 0 0 0 140.04691723-5.34970492c2.24727335-2.98310674 4.21612437-6.18497483 6.3937923-9.2178004 30.66633723 30.70611158 55.4360664 65.4791928 72.80769147 103.21549355 11.00766384 23.91457269 46.15860503 21.27949489 52.69160879-4.22606768a371.15156223 371.15156223 0 0 0 11.514792-91.99901164c0-69.36717486-19.13165746-133.82216804-51.75690182-187.92578088-3.42062944-5.66790279-4.76302748-12.26056868-3.76865837-18.80351632a462.20625001 462.20625001 0 0 0 5.36959269-69.943909c-0.00994388-166.08943902-87.32547796-311.81420293-218.6915546-394.09823051zM605.93803103 357.87693858a93.93749974 93.93749974 0 1 1-187.89594924 6.1e-7 93.93749974 93.93749974 0 0 1 187.89594924-6.1e-7z" p-id="5405" data-v-a81d141e></path><path d="M429.50777625 765.63860547C429.50777625 803.39355007 466.44236686 1000.39046097 512.00932183 1000.39046097c45.56695499 0 82.4922232-197.00623328 82.5015456-234.7518555 0-37.75494459-36.9345906-68.35043303-82.4922232-68.34111062-45.57627738-0.00932239-82.52019037 30.59548842-82.51086798 68.34111062z" p-id="5406" data-v-a81d141e></path></svg></div><div></div></div></div>
+    <script src="/assets/js/app.bf2636e5.js" defer></script><script src="/assets/js/4.287285bd.js" defer></script><script src="/assets/js/1.8e1464fd.js" defer></script><script src="/assets/js/28.96a7ea39.js" defer></script><script src="/assets/js/10.f1deec8b.js" defer></script>
+  </body>
+</html>
