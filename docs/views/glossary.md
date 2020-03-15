@@ -36,6 +36,7 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | sth | something | 一些东西 |
 | sb | somebody | 一些人 |
 | tgt | together | 一起 |
+| btw | between/by the way | 在中间/顺便一提 |
 
 ## CS Abbreviations
 
