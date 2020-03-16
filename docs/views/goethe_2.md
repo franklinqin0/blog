@@ -491,6 +491,8 @@ Look there is a table free good day what would you like to drink a beer for me a
 | öffnen | open(v.) |
 | erleben | experience |
 | wollen | want to do |
+| euch | you |
+| aufmerksam | attentive |
 
 #### <d type="ie" text="Zahlen"/> über 100
 
@@ -536,8 +538,6 @@ Look there is a table free good day what would you like to drink a beer for me a
 | <d type="as" text="Kino"/> | cinema |
 | <d type="as" text="Theater"/> | theater |
 | <d type="as" text="Stadion"/> | stadium |
-| euch | you |
-| aufmerksam | attentive |
 
 ### Sätze
 

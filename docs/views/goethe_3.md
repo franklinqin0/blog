@@ -15,15 +15,15 @@ Deutsch lernen Notizen am 16. März.
 
 ## 16. März
 
-::: details
-
 ### Wörter
 
 | Deutsch | Englisch |
 | ------- | -------- |
+| <d type="er" text="Verkäufer"/>/<d type="ie" text="Verkäuferin"/> | vendor |
+| <d type="er" text="Kunde"/>/<d type="ie" text="Kundin"/> | customer |
 | <d type="er" text="Kühlschrank"/> | fridge |
 | <d type="er" text="Markt"/> | market |
-| <d type="er" text="Mengenangaben"/> | 量词 |
+| <d type="er" text="Mengenangabe(n)"/> | measure word 量词 |
 | <d type="er" text="Zettel"/> | piece of paper |
 | <d type="er" text="Einkaufszettel"/> | shopping list |
 | <d type="ie" text="Bäckerei"/> | backery |
@@ -36,6 +36,17 @@ Deutsch lernen Notizen am 16. März.
 | sonst | else |
 | schneiden | cut |
 | auffordern | request, invite |
+| lecker | delicious |
+| satt | full 饱 |
+| setzen | sit |
+| beider | both |
+| Lieblings- | favorite |
+| Lieblingsessen | favorite food |
+| Lieblingsgetränk | favorite drink |
+| Lieblingsobst | favorite fruit |
+
+- **Q:** Was ist dein Lieblingsessen/Lieblingsgetränk/Lieblingsobst?
+- **A:** Mein Lieblingsessen/Lieblingsgetränk/Lieblingsobst ist ...
 
 #### Obst und Gemüse
 
@@ -45,7 +56,9 @@ Deutsch lernen Notizen am 16. März.
 | <d type="ie" text="Birne"/> | pear |
 | <d type="ie" text="Orange"/> | orange |
 | <d type="ie" text="Kiwi"/> | kiwi |
-| <d type="ie" text="Banane"/> | banana |
+| <d type="ie" text="Banane(n)"/> | banana |
+| <d type="ie" text="Ananas"/> | pineapple |
+| <d type="ie" text="Erdbeere"/> | strawberry |
 
 | Gemüse | vegetable |
 | ------ | -------- |
@@ -61,7 +74,7 @@ Deutsch lernen Notizen am 16. März.
 
 | Lebensmittel | food |
 | ------------ | ---- |
-| <d type="er" text="Käse"/> | cheese |
+| <d type="er" text="Käse"/> (nur Sg.) | cheese |
 | <d type="er" text="Reis"/> | rice |
 | <d type="er" text="Fisch"/> | fish |
 | <d type="er" text="Zucker"/> | sugar |
@@ -69,36 +82,39 @@ Deutsch lernen Notizen am 16. März.
 | <d type="er" text="Schinken"/> | ham |
 | <d type="ie" text="Wurst"/> | sausage |
 | <d type="ie" text="Nudel(n)"/> | noodle(s) |
-| <d type="ie" text="Milch"/> | milk |
+| <d type="ie" text="Milch"/> (nur Sg.) | milk |
+| <d type="ie" text="Marmelade"/> | marmalade |
 | <d type="as" text="Fleisch"/> | flesh |
 | <d type="as" text="Mehl"/> | flour |
 | <d type="as" text="Brot"/> | bread |
 | <d type="as" text="Brötchen"/> | small bread |
 | <d type="as" text="Vollkornbrot"/> | wholewheat bread |
-| <d type="as" text="Öl"/> | oil |
-| <d type="as" text="Ei"/> | egg |
+| <d type="as" text="Öl"/>(e) | oil |
+| <d type="as" text="Ei"/>(er) | egg |
 
 #### Verb
 
-| Person | mögen | essen | geben | nehmen |
-| ------ | ----- | ----- | ----- | ------ |
-| ich | <d type="impt" text="mag"/> | esse | gebe | nehme |
-| du | m<d type="impt" text="a"/>gst | <d type="impt" text="i"/>sst | gimpt/i"/>bst | nimpt/imm"/>st |
-| er/sie/es | <d type="impt" text="mag"/> | <d type="impt" text="i"/>sst | gimpt/i"/>bt | nimpt/imm"/>t |
-| wir | mögen | essen | geben | nehmen |
-| ihr | mögt | esst | gebt | nehmt |
-| sie/Sie | mögen | essen | geben | nehmen |
-| lecker | delicious |
-| satt | full 饱 |
-| setzen | sit |
+- mögen: like
+- möchten: want/would like
+
+| Person | mögen | möchten | essen | geben | nehmen |
+| ------ | ----- | ------- | ----- | ----- | ------ |
+| ich | <d type="impt" text="mag"/> | möchte | esse | gebe | nehme |
+| du | m<d type="impt" text="a"/>gst | möchtest | <d type="impt" text="i"/>sst | g<d type="impt" text="i"/>bst | n<d type="impt" text="imm"/>st |
+| er/sie/es | <d type="impt" text="mag"/> | möchte | <d type="impt" text="i"/>sst | g<d type="impt" text="i"/>bt | n<d type="impt" text="imm"/>t |
+| wir | mögen | möchten | essen | geben | nehmen |
+| ihr | mögt | möchtet | esst | gebt | nehmt |
+| sie/Sie | mögen | möchten | essen | geben | nehmen |
 
 #### <d type="ie" text="Mengenangaben"/>
 
 | Deutsch | Englisch |
 | ------- | -------- |
-| Liter | liter |
-| <d type="er" text="Becher"/> | cup |
-| <d type="ie" text="Dose"/> | bowl |
+| <d type="er" text="Liter"/> | liter |
+| <d type="er" text="Karton"/> | carton |
+| <d type="er" text="Becher"/> | cup 开口杯 |
+| <d type="ie" text="Dose"/> | bowl 铝皮罐头|
+| <d type="ie" text="Tafel"/> | slate |
 | <d type="ie" text="Flasche"/> | bottle |
 | <d type="ie" text="Packung"/> | packet |
 | <d type="as" text="Gramm"/> | gram |
@@ -111,7 +127,7 @@ Deutsch lernen Notizen am 16. März.
 | Verb | du | ihr |
 | ---- | -- | --- |
 | essen | iss | esst |
-| bringst | bring(e) | bringt |
+| bringst | bring | bringt |
 | fahren | fahr | fahrt |
 | schneiden | schneid | schneidet |
 | waschen | wasch | wascht |
@@ -129,19 +145,27 @@ Deutsch lernen Notizen am 16. März.
 
 Preis (price):
 
-- Was kostet ein Kilo Käse?
-- Was kosten 100 Gramm Käse?
+- **Was** *kostet* ein Kilo Käse?
+- **Was** *kosten* 100 Gramm Käse?
+
 oder
-- Wie viel kostet ein Kilo Käse?
-- Wie viel kosten 100 Gramm Käse?
+
+- **Wie viel** *kostet* ein Kilo Käse?
+- **Wie viel** *kosten* 100 Gramm Käse?
 
 Einkaufen (buy):
 
-Q: Wie viel kostet/kosten xxx?
-A: Ich hätte gern xxx. / Ja, xxx, bitte.
-Q: Sonst noch etwas?
-A: Nein, danke. / Das ist alles.
+- **Q:** Was essen Sie gern? / Was isst du gern?
+- **A:** Ich esse gern Tomate.
 
+- **Q:** Was mögen Sie? / Was magst du?
+- **A:** Ich mag Tomate.
+
+- **Q:** Wie viel kostet/kosten xxx?
+- **A:** Ich hätte gern xxx. / Ja, xxx, bitte.
+
+- **Q:** Sonst noch etwas?
+- **A:** Nein, danke. / Das ist alles.
 
 #### Aufforderungssätze 祈使句
 
@@ -154,4 +178,5 @@ A: Nein, danke. / Das ist alles.
 #### Schmecken
 
 | Ja | Nein |
+| -- | ---- |
 | Es ist sehr gut!<br>Es schmeckt super!<br>Sehr lecker! | Nein, es ist nicht gut.<br>Nein, es schmeckt nicht. |
