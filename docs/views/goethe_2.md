@@ -6,6 +6,7 @@ categories:
 tags:
  - Deutsch
 prev: goethe_1
+next: goethe_2
 sidebar: false
 ---
 
@@ -445,7 +446,7 @@ M: Wir möchten dann zahlen.
 | Ich muss etwas essen. | I must eat sth. |
 | Ich essen etwas. | I eat sth. |
 
-| Was möchten Sie ...? | Ich bekomme/nehme/möchte/bestelle (bitte) einen Apfelsaft. <br>Für mich bitte ... |
+| Was möchten Sie ...? | Ich bekomme/nehme/möchte/brauche bestelle (bitte) einen Apfelsaft. <br>Für mich bitte ... |
 | Guten Appetit! | Danke. |
 | Haben Sie noch einen Wunsch? | Nein, danke.<br>Ich möchte bitte bezahlen. |
 
@@ -520,21 +521,21 @@ Look there is a table free good day what would you like to drink a beer for me a
 
 | Deutsch | Englisch |
 | ------- | -------- |
-| der/Zoo"/> | zoo |
-| der/Park"/> | park |
-| der/Flughafen"/> | airport |
+| <d type="er" text="Zoo"/> | zoo |
+| <d type="er" text="Park"/> | park |
+| <d type="er" text="Flughafen"/> | airport |
 | <d type="er" text="Bahnhof(Bahnhöfe)"/> | railway station |
-| der/Hafen"/> | harbor |
-| die/Oper"/> | opera |
-| die/Kirche"/> | church |
-| die/Bibliothek"/> | library |
-| die/Philharmonie"/> | philharmonic hall |
-| das/Kaufhaus"/> | department store |
-| das/Restaurant"/> | restaurant |
+| <d type="er" text="Hafen"/> | harbor |
+| <d type="ie" text="Oper"/> | opera |
+| <d type="ie" text="Kirche"/> | church |
+| <d type="ie" text="Bibliothek"/> | library |
+| <d type="ie" text="Philharmonie"/> | philharmonic hall |
+| <d type="as" text="Kaufhaus"/> | department store |
+| <d type="as" text="Restaurant"/> | restaurant |
 | <d type="as" text="Museum"/> | museum |
-| das/Kino"/> | cinema |
-| das/Theater"/> | theater |
-| das/Stadion"/> | stadium |
+| <d type="as" text="Kino"/> | cinema |
+| <d type="as" text="Theater"/> | theater |
+| <d type="as" text="Stadion"/> | stadium |
 | euch | you |
 | aufmerksam | attentive |
 
@@ -605,3 +606,5 @@ Veranstaltungen/Film
 Wie lange dauert ... ?	(Von ...) bis ...
 Wann beginnt ...?
 Wann endet ...?	Um ...
+
+???
