@@ -56,13 +56,13 @@ Deutsch lernen Notizen am 16. März.
 | <d type="ie" text="Birne"/> | pear |
 | <d type="ie" text="Orange"/> | orange |
 | <d type="ie" text="Kiwi"/> | kiwi |
-| <d type="ie" text="Banane(n)"/> | banana |
+| <d type="ie" text="Banane"/>(n) | banana |
 | <d type="ie" text="Ananas"/> | pineapple |
 | <d type="ie" text="Erdbeere"/> | strawberry |
 
 | Gemüse | vegetable |
 | ------ | -------- |
-| <d type="er" text="Pilz"/> | mushroom |
+| <d type="er" text="Pilz"/>(e) | mushroom |
 | <d type="er" text="Knoblauch"/> | garlic |
 | <d type="ie" text="Zwiebel"/> | onion |
 | <d type="ie" text="Kartoffel"/> | potato |
@@ -156,13 +156,10 @@ oder
 Einkaufen (buy):
 
 - **Q:** Was essen Sie gern? / Was isst du gern?
-- **A:** Ich esse gern Tomate.
+- **A:** Ich esse gern Tomate. / Ich hätte gern xxx. / Ja, xxx, bitte.
 
 - **Q:** Was mögen Sie? / Was magst du?
 - **A:** Ich mag Tomate.
-
-- **Q:** Wie viel kostet/kosten xxx?
-- **A:** Ich hätte gern xxx. / Ja, xxx, bitte.
 
 - **Q:** Sonst noch etwas?
 - **A:** Nein, danke. / Das ist alles.

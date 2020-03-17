@@ -8,7 +8,7 @@ tags:
 prev: coach_for_a_ping_pong_match
 ---
 
-This is the final blog in the series of `VT`(voluntary teaching):
+This blogs serves as an end to the `VT` series:
 
 - [Why VT](why_vt)
 - [My VT experience](vt)
@@ -50,7 +50,7 @@ In retrospect, my way of eliminating the trash burning activities inside school 
 
 After I was nearly asphyxiated by the arising bluish gas when playing ping pong close to the trash burner inside school, I told myself: I will do whatever to stop it. I talked to the headmaster of DL central primary school. No response. Then I posted on the website of CJ county ZF(government). No response. The next day at the same time I posted again. In the following day, they called in an impatient voice, "We will handle this. Meanwhile, please stop sending anything anymore."
 
-Two days later, DL country ZF send 4 people to the school, interrupted my class, dragged me into office and claimed indisputably, "We saw your email and we feel obliged to talk about the current situation: since the waste treatment plants nearby are still under construction and there is no usable one within a reasonable distance, instead of burning inside school, starting from tomorrow we will send a truck every week to collect the trash and send them outside village to burn. Is that good?" I could only nodded my head under their camera and authority. They then proclaimed in a serious commanding tone, "If you ever want to appeal to the ZF again, please just talk to the village head rather than the county magistrate. Thanks!"
+Two days later, ZF of DL county send 4 people to the school, interrupted my class, dragged me into office and claimed indisputably, "We saw your email and we feel obliged to talk about the current situation: since the waste treatment plants nearby are still under construction and there is no usable one within a reasonable distance, instead of burning inside school, starting from tomorrow we will send a truck every week to collect the trash and send them outside village to burn. Is that good?" I could only nodded my head under their camera and authority. They then proclaimed in a serious commanding tone, "If you ever want to appeal to the ZF again, please just talk to the village head rather than the county magistrate. Thanks!"
 
 But the local teachers held their silent grudge against me. They feared that their bonus might be deducted and ZF will find faults deliberately. I was pretty angry when I learned this fact weeks later from a local teacher close to me, not because they had these thoughts, but they weren't upright to sincerely talk to me about these worries.
 
@@ -60,17 +60,17 @@ In Wang Kar-wai's film *Ashes of Time*, these words always stick to my mind, "Be
 
 I admit that I am this kind of person: doubtful of authority and eager to see what's beyond the mountain and desert. I fear to become a boiled frog in warm water. Even if there is nothing new beyond this mountain and desert, I enjoy what I see along the journey, and hope to find an oasis at the end of journey.
 
-With the hope of finding students who think alike, I brought some interesting books to the the school, such as *Three Bodies*, *Jules Verne*, and taught English songs by Beatles, MJ, and Coldplay and played films such as *Star Wars* and *Harry Potter*. However, few have expressed their curiosity and said: oh, that's what's happening in the outside world and how we might lead a different life. The curious are few, and even fewer think different and ask interesting questions.
+With the hope of finding students who think alike, I brought some fun books to the the school, such as *Three Bodies*, *Jules Verne*, and taught English songs by *Beatles*, *MJ*, and *Coldplay* and played films such as *Star Wars* and *Harry Potter*. However, few have expressed their curiosity and said: oh, that's what's happening in the outside world and how we might lead a different life. The curious are few, and even fewer think different and ask interesting questions.
 
 ### Maybe it's just Me
 
 After multiple failed attempts to get my students more interested in science and foreign culture, I tried to stick to the English textbook and just be an English teacher but still got quite frustrated. Though most girls tried hard to learn English but forgot words just learned due to the lack of English environment, most boys were more interested in basketball and cricket fighting.
 
-Thus, I always ask myself, "Are you a boring teacher giving boring classes? Are you not good enough to the students to make them learn b/c of you? Are you too harsh and teach too difficult content?" After CJ gave positive comments about my classes, I recollected some confidence but still found myself talking about inaccurate stuff only I found interesting, or forcing them to remember English words and sentences.
+Thus, I always ask myself, "Are you a boring teacher giving boring classes? Are you not good enough to the students to make them learn b/c of you? Are you too harsh and teach too difficult content?" After CJ gave positive comments about my classes, I recollected some confidence but still found few kids frustrated to remember English words and reluctant to come to my class.
 
 Should I blame myself? Is it the teacher's responsiblity when a student is impossible to become serious about schoolwork and almost never finishes homework? Is studying more important to the teacher than the kid and the kid's parents or grandparents?
 
-It's easy to be told, "you shouldn't blame yourself as you've done your best." But if I've done my best, why are the kids wasting their youth not learning and later working at sweatshop factories? I have always set a high standard for myself and therefore for my students, but as a person w/ a strong desire to control, I find hard to sometimes control myself, let alone others.
+I'd become lighthearted for a short while if told, "you can't do anything if a student doesn't want to learn." But if I've done my best, why are the kids wasting their youth not learning and later working at sweatshop factories? I have always set a high standard for myself and therefore for my students, but as a person w/ a strong desire to control, I find hard to sometimes control myself, let alone others.
 
 The headmaster at the school taught for more than 2 decades. He even taught the parents of some kids. However, one could count with one hand the number of college graduates from the country. I tried hard to refrain from asking him: how do you deal with such failure and depression everyday?
 
@@ -87,7 +87,7 @@ Let there be light.
 Genesis 1:3
 :::
 
-This scripture reminds me of [*Sunrise Also sprach Zarathustra* in *2001: A Space Odyssey*](https://youtu.be/e-QFj59PON4) by Stanley Kubrik, my favorite foreign film director.
+This scripture reminds me of [*Sunrise Also sprach Zarathustra* in *2001: A Space Odyssey*](https://youtu.be/e-QFj59PON4) by **Stanley Kubrik**, my favorite foreign film director.
 
 ### Light over Rural Education in China
 
@@ -95,7 +95,7 @@ As stated in [My VT experience](vt.md#老师只是兼职教书), teachers do **N
 
 After all these grumbles, I still harbor a hope: the smart kids will **achieve their ambitions and live better lives**.
 
-If education is the light and students are a forrest, then initially light is uniformly distributed everywhere in the forrest. The ones who know their way would have few branches and focus on growing only in one direction: up, to compete for more light and grow faster, thus the positive feedback cycle.
+If education is the light and students are a forrest, then initially light is uniformly distributed everywhere in the forrest. The few who know their way would have no branch but only focus on growing **up**, to compete for more light and grow faster.
 
 I will quote what's later dubbed as [*Matthew effect*](https://en.wikipedia.org/wiki/Matthew_effect) from the Bible to officially end the VT series:
 
