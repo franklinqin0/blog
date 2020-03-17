@@ -76,23 +76,5 @@ module.exports = {
         'ga': 'UA-146843725-3'
       }
     ],
-    ['container', {
-      type: 'right',
-      defaultTitle: ''
-    }],
-    ['container', {
-      type: 'theorem',
-      before: info => `<div class="custom-block theorem"><p class="title">${info}</p>`,
-      after: '</div>',
-    }],
-    ['container', {
-      type: 'details',
-      before: info => `<details class="custom-block details">${info ? `<summary>${info}</summary>` : ''}\n`,
-      after: () => '</details>\n',
-      defaultTitle: {
-        '/': 'See More',
-        '/zh/': '更多'
-      }
-    }]
   ]
 }

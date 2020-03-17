@@ -40,6 +40,7 @@ Deutsch lernen Notizen am 16. März.
 | satt | full 饱 |
 | setzen | sit |
 | beider | both |
+| sonst | otherwise |
 | Lieblings- | favorite |
 | Lieblingsessen | favorite food |
 | Lieblingsgetränk | favorite drink |
@@ -70,7 +71,7 @@ Deutsch lernen Notizen am 16. März.
 | <d type="ie" text="Paprika"/> | pepper |
 | <d type="ie" text="Tomate"/> | tomato |
 
-#### Lebensmittel
+#### Lebensmittel (food)
 
 | Lebensmittel | food |
 | ------------ | ---- |
@@ -143,32 +144,61 @@ Deutsch lernen Notizen am 16. März.
 | Was darf's sein? | What'll it be? |
 | Soll ich das Brot schneiden? | Should I cut the bread? |
 
-Preis (price):
+#### Pardon
+
+| Gemüse | Englisch |
+| ------ | -------- |
+| Entschuldigung! Wie bitte? | Sorry, pardon? |
+| Sprechen Sie bitte langsamer! | Please speak slower! |
+
+#### beim Einkaufen (buy):
+
+**Q:**
+
+- Was mögen Sie?
+- Was magst du?
+- Was essen Sie gern?
+- Was isst du gern?
+- Sie wünschen?
+- Was hätten Sie gern?
+
+**A:**
+
+- Ich mag Tomate.
+- Ich esse gern Tomate.
+- Ich hätte gern 1 Kilo Kartoffeln.
+
+<d type="er" text="Preis"/> (price)
+
+**Q:**
 
 - **Was** *kostet* ein Kilo Käse?
 - **Was** *kosten* 100 Gramm Käse?
-
-oder
-
 - **Wie viel** *kostet* ein Kilo Käse?
 - **Wie viel** *kosten* 100 Gramm Käse?
 
-Einkaufen (buy):
+**A:**
 
-- **Q:** Was essen Sie gern? / Was isst du gern?
-- **A:** Ich esse gern Tomate. / Ich hätte gern xxx. / Ja, xxx, bitte.
+- Es macht zusammen ein Euro zwanzig.
+- Das kostet ein zwanzig.
 
-- **Q:** Was mögen Sie? / Was magst du?
-- **A:** Ich mag Tomate.
+**Q:**
 
-- **Q:** Sonst noch etwas?
+- Noch etwas?
+- Sonst noch etwas?
+
 - **A:** Nein, danke. / Das ist alles.
+
+Auf Wiedersehen:
+
+- Hier bitte.
+- Danke sehr!
 
 #### Aufforderungssätze 祈使句
 
 - Geben Sie mir eine Tüte, bitte.
+- Gib mir bitte eine Tüte.
 - Schneiden sie das Brot, bitte.
-- Geben Sie mir ein Vollkornbrot, bitte.
 - Bringen Sie noch einen Orangensaft, bitte.
 - Setzt euch, bitte.
 

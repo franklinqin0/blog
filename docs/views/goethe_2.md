@@ -6,7 +6,7 @@ categories:
 tags:
  - Deutsch
 prev: goethe_1
-next: goethe_2
+next: goethe_3
 sidebar: false
 ---
 
@@ -387,6 +387,7 @@ drei
 K: Noch ein Dessert?
 F: Nein, danke.
 M: Wir möchten dann zahlen.
+:::
 
 ## 14. März
 
@@ -453,6 +454,7 @@ M: Wir möchten dann zahlen.
 schau mal da ist ein Tisch frei guten Tag was möchten Sie trinken ein Bier für mich und Mineralwasser mit Zitrone da kommen die Getränke das geht ja schnell hier das Bier für Sie danke und das Mineralwasser für sie und bringen Sie uns bitte die Karte ich habe Durst die Speisekarte für mich eine Suppe und einen Grillteller guten Appetit guten Appetit danke dir auch möchten Sie noch ein Dessert für mich einen Salat und eine Suppe Entschuldigung Salat und Suppe zum Dessert wir möchten bitte einen Tiramisu und einen Espresso Tiramisu und Espresso haben Sie noch einen Wunsch nein danke jedes sehr und der Espresso danke schön
 
 Look there is a table free good day what would you like to drink a beer for me and mineral water with lemon there the drinks come quickly yes the beer for you thank you and the mineral water for you and please bring us the card I am thirsty the menu for me a soup and a grill plate good appetite good appetite thank you also would you like a dessert for me a salad and a soup sorry salad and soup for dessert we would like a tiramisu and an espresso tiramisu and espresso you have another wish no thank you very much and the espresso thank you very much.
+:::
 
 ## 15. März
 
@@ -563,7 +565,7 @@ Look there is a table free good day what would you like to drink a beer for me a
 | In der O2-Arena gibt es Platz für 17.000 Menschen. | There is space for 17,000 people in the O2 arena. |
 | In Berlin gibt es rund 4650 Restaurants und über 1000 Kneipen und Bars. | In Berlin there are around 4650 restaurants and over 1000 pubs and bars. |
 
----
+#### Mit Ben ins Kino
 
 Mir: Hallo Ben. Im Filmtheater spielen sie „Who Am I – Kein System ist sicher”. Es ist ein deutscher Thriller aus dem Jahr zweitausendvierzehn. Der Film spielt in Berlin und handelt von einer Hackergruppe, die global auf sich aufmerksam machen will. Ich mag den Hauptdarsteller Tom Schilling sehr. Hast du Lust?
 
@@ -581,30 +583,22 @@ Mir: Der Film kommt um Viertel nach sieben.
 
 Ben: Gut! Dann bis Samstag.
 
-Fragen/Vorschläge	Antworten
+#### Vorschläge (suggestion)
 
-zustimmen
-ablehnen
-Hast du am Samstag Zeit?
-Kannst du am Samstag?	Ja, wann (denn)?
-Ja, Samstag ist gut.	Nein, am Samstag habe ich (leider) keine Zeit.
-Nein, am Samstag kann ich (leider) nicht / geht es (leider) nicht.
-Gehen wir am Samstag ins Kino / ins Theater / in die Kneipe / ins Café / ins Konzert?
-Hast du Lust?	Ja, gern. Wann (denn)?
-Gute Idee.	Ich habe (leider) keine Zeit.
-Ich habe keine Lust.
-Wann hast du Zeit?	Ich habe am Montag Zeit.
-Am Montag.
+| Fragen/Vorschläge | zustimmen | ablehnen |
+| ----------------- | --------- | -------- |
+| Hast du am Samstag Zeit?<br>Kannst du am Samstag?	| Ja, wann (denn)?<br>Ja, Samstag ist gut. | Nein, am Samstag habe ich (leider) keine Zeit.<br>Nein, am Samstag kann ich (leider) nicht / geht es (leider) nicht. |
+| Hast du Lust?<br>Gehen wir am Samstag<br>ins Kino/ins Theater<br>/in die Kneipe/ins Café/ins Konzert? | Ja, gern. Wann (denn)?<br>Gute Idee. | Ich habe (leider) keine Zeit.<br>Ich habe keine Lust. |
+| Wann hast du Zeit? | Ich habe am Montag Zeit.<br>Am Montag. | |
 
-Zeitangaben
+#### Zeitangaben (statement regarding time)
 
-Geschäfte/Institutionen
-Wie lange hat/ist ... geöffnet?	Von ... bis ...
-Wann öffnet ...?
-Wann schließt ...?	Um ...
-Veranstaltungen/Film
-Wie lange dauert ... ?	(Von ...) bis ...
-Wann beginnt ...?
-Wann endet ...?	Um ...
+Geschäft(e) $\rightarrow$ business / Institution(en) $\rightarrow$ institution
 
-???
+- Wie lange hat/ist ... geöffnet?	Von ... bis ...
+- Wann öffnet/schließt ...?
+
+Film / Veranstaltung(en) $\rightarrow$ event
+
+- Wie lange dauert ... ?	(Von ...) bis ...
+- Wann beginnt/endet ...?
