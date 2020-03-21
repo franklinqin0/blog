@@ -10,7 +10,7 @@ next: goethe_3
 sidebar: false
 ---
 
-Deutsch lernen Notizen vom 9. bis 15. März.
+Deutsch Notizen vom 9. bis 15. März.
 
 <!-- more -->
 
@@ -593,12 +593,24 @@ Ben: Gut! Dann bis Samstag.
 
 #### Zeitangaben (statement regarding time)
 
-Geschäft(e) $\rightarrow$ business / Institution(en) $\rightarrow$ institution
+Geschäft(business) / Institution(institution)
 
-- Wie lange hat/ist ... geöffnet?	Von ... bis ...
+**Q:**
+
+- Wie lange hat/ist ... geöffnet?
 - Wann öffnet/schließt ...?
 
-Film / Veranstaltung(en) $\rightarrow$ event
+**A:**
 
-- Wie lange dauert ... ?	(Von ...) bis ...
+- Von ... bis ...
+
+Film / Veranstaltung(event)
+
+**Q:**
+
+- Wie lange dauert ... ?
 - Wann beginnt/endet ...?
+
+**A:**
+
+- (Von ...) bis ...

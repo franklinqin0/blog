@@ -12,6 +12,48 @@ While studying for interview problems, I use `Python3` as the PL and feel like c
 
 <!-- more -->
 
+## Int
+
+### Overflow
+
+Basically, Python doesn't need to worry about integer overflow.
+
+Following are from [*EPI in Python*](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949).
+
+Integers:
+
+> Integers in Python3 are **unbounded**-the *maximum integer* representable is *a function of the available memory*. The constant `sys.maxsize` can be used to find the word-size; specifically, it's the maximum value integer that can be stored in the word, e.g., $2**63 - L$ on a `64`-bit machine. Bounds on floats are specified in `sys.float-info`.
+
+Float:
+
+> Unlike integers, floats are not infinite precision, and it's convenient to refer to infinity as `float('inf ')` and `float('-inf ')`. These values are comparable to integers, and can be used to create pseudo max-int and pseudo min-int.
+
+### bin
+
+From [https://docs.python.org/3/library/functions.html#bin]():
+
+::: tip bin
+`bin` converts an integer number to a binary string prefixed with “0b”. `[2:]` takes away `0b` and returns the binary int as a string.
+:::
+
+## Division
+
+### Division Operators `/` and `//`
+
+The division operators difference in Python 2 and 3 is described [here](https://www.geeksforgeeks.org/division-operator-in-python/).
+
+Python 2 uses `/` for **floor division** if *both arguments*(the dividend and divisor) are *integers*.
+
+Python 2 uses `//` for **floor division** for *both int and float arguments*.
+
+Python 3 uses `/` for **floating point division** for *both int and float arguments*.
+
+Python 3 uses `//` for **floor division** for *both int and float arguments*.
+
+So the behavior of “//” is same for Python 2 and 3.
+
+Personally I like Python 3 for division behavior as it's clearer and causes less confusion.
+
 ## Data Structures
 
 Sometimes it's not so obvious to see how to use a data structure in `Python3`.
@@ -65,3 +107,4 @@ More at [Queue in Python](https://www.geeksforgeeks.org/queue-in-python/).
 ### Tuple (Immutable)
 
 ()
+

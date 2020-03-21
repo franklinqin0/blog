@@ -1,6 +1,6 @@
 ---
 title: Glossary
-date: 9999-01-01
+date: 2020-02-13
 categories:
  - about
 tags:
@@ -8,11 +8,9 @@ tags:
 sidebar: false
 ---
 
-In case you don't get some abbreviation, read this blog.
+At GS, people like to use abbreviations w/i the company and teams. There is even a website to keep track of the mappings from abbrevations to full names and meanings in case confusions arise. Thus, I follow that practice and build the glossary below.
 
 <!-- more -->
-
-At GS, people like to use abbreviations w/i the company and teams. There is even a website to keep track of the mappings from abbrevations to full names and meanings in case confusions arise. Thus, I follow that practice and build the glossary below.
 
 ## General Abbreviations
 
@@ -29,6 +27,7 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | thru | through | 穿过，在...期间 |
 | o.w. | otherwise | 不然 |
 | w/ | with | 和...一起 |
+| w/i | within | 在...里面 |
 | w/o | without | 没有和...一起 |
 | b/c | because | 因为 |
 | coz | because | 因为 |
@@ -48,10 +47,17 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | ML | machine learning |
 | PL | programming language |
 | MVP | minimum viable product |
+| SPA | single page app |
 | LC | LeetCode |
 | OA | online assessment |
 | TLS | time limit exceeded |
 | WFH | work from home |
+| RCA | ripple carry adder |
+| VCS | version control system |
+| KMP | Knuth-Morris-Pratt |
+| DFS | depth first search |
+| BFS | breadth first search |
+| RK | Rabin-Karp |
 | algo | algorithm |
 | var | variable |
 | int | integer |
@@ -68,3 +74,4 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | dev | development |
 | prod | production |
 | comb | combination |
+| col | column |

@@ -9,7 +9,7 @@ next: goethe_2
 sidebar: false
 ---
 
-Deutsch lernen Notizen vom 2. bis 8. März.
+Deutsch Notizen vom 2. bis 8. März.
 
 <!-- more -->
 

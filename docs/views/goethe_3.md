@@ -6,10 +6,11 @@ categories:
 tags:
  - Deutsch
 prev: goethe_2
+next: goethe_4
 sidebar: false
 ---
 
-Deutsch lernen Notizen am 16. März.
+Deutsch Notizen am 16. März.
 
 <!-- more -->
 
@@ -33,14 +34,13 @@ Deutsch lernen Notizen am 16. März.
 | selten | rare(ly) |
 | gerade | now |
 | nur | only |
-| sonst | else |
 | schneiden | cut |
 | auffordern | request, invite |
 | lecker | delicious |
 | satt | full 饱 |
 | setzen | sit |
 | beider | both |
-| sonst | otherwise |
+| sonst | else, otherwise |
 | Lieblings- | favorite |
 | Lieblingsessen | favorite food |
 | Lieblingsgetränk | favorite drink |
@@ -151,7 +151,7 @@ Deutsch lernen Notizen am 16. März.
 | Entschuldigung! Wie bitte? | Sorry, pardon? |
 | Sprechen Sie bitte langsamer! | Please speak slower! |
 
-#### beim Einkaufen (buy):
+#### beim Einkaufen (shopping):
 
 **Q:**
 
