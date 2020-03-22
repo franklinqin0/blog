@@ -65,6 +65,8 @@ Deutsch Notizen am 20. März.
 | aufschreiben | write down |
 | rufen | call/shout |
 | anrufen | call/shout to |
+| holen | fetch |
+| abholen | pick up |
 
 ### <d type="ie" text="Jahreszeit"/> (season)
 

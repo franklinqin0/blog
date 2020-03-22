@@ -278,6 +278,7 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | <d type="er" text="Glaube"/> | belief |
 | <d type="er" text="Mitbewohner"/> | other occupant |
 | <d type="er" text="Kellner"/> | waiter |
+| <d type="er" text="Gast"/> | guest |
 | <d type="er" text="Appetit"/> | appetite |
 | <d type="er" text="Saft"/> | juice |
 | <d type="er" text="Hunger"/> | hunger |
