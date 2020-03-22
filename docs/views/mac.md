@@ -11,6 +11,14 @@ This blog illustrates some notes on using my Mac (model was released in mid 2015
 
 <!-- more -->
 
+## Clean Unused Homebrew Dependencies
+
+Like `apt-get autoremove` in Ubuntu, I have too many unused homebrew dependencies and want to clean them.
+
+```sh
+brew bundle dump && brew bundle --force cleanup
+```
+
 ## Accented Chars vs. Key Repeat
 
 Mac enables users to hold down a letter key and show accented or special chars.
@@ -29,11 +37,9 @@ To disable pop-up and **enable key repeat**, could set `ApplePressAndHoldEnabled
 defaults write -g ApplePressAndHoldEnabled -bool false
 ```
 
-## German Chars
+### German Key Combs
 
-Happy ending? Nah. I recently started [learning German](goethe) and had to find some workaround to type chars and symbols such as `ä`, `ö`, `ü`, `ß`, `„` and `”`.
-
-### Key Combs
+Happy ending? Not yet! I recently started [learning German](goethe) and had to find some workaround to type chars and symbols such as `ä`, `ö`, `ü`, `ß`, `„` and `”`.
 
 These are the ways to type them on my mac:
 

@@ -1,15 +1,18 @@
 ---
 title: Lernen von Goethe Institut - fünf
-date: 2020-03-18
+date: 2020-03-20
 categories:
  - study
 tags:
  - Deutsch
 prev: goethe_4
+next: goethe_6
 sidebar: false
 ---
 
 Deutsch Notizen am 20. März.
+
+<!-- more -->
 
 ## Wörter
 
@@ -22,30 +25,34 @@ Deutsch Notizen am 20. März.
 | sicher | certainly |
 | langweilig | boring |
 | wunderbar | wonderful |
+| freuen | be happy |
 | kennen | know |
 | wissen | know |
-| fangen | catch |
 | besprechen | discuss |
 | schauen | look |
 | warten | wait |
 | denken | think |
 | bereiten | prepare |
+| verkürzen | shorten |
 | unseren | our |
 | früh | early |
 | benötigten | require |
 | dort | there |
-| der/Zahnarzt/"> | dentist |
-| der/Monat"/> | month |
-| der/Friseur"/>(in) | hairdresser |
-| der/Nachbar"/>(in) | neighbour |
-| der/Traum"/> | dream |
-| die/Bühne"/> | stage, theatre |
-| die/Torte"/> | cake |
-| die/Veranstaltung | event |
-| das/Gefängnis"/> | prison |
+| <d type="er" text="Zahnarzt"/> | dentist |
+| <d type="er" text="Monat"/> | month |
+| <d type="er" text="Friseur"/>(in) | hairdresser |
+| <d type="er" text="Nachbar"/>(in) | neighbour |
+| <d type="er" text="Traum"/> | dream |
+| <d type="ie" text="Bühne"/> | stage, theatre |
+| <d type="ie" text="Torte"/> | cake |
+| <d type="ie" text="Veranstaltung"/> | event |
+| <d type="ie" text="Schwester"/> | sister |
+| <d type="as" text="Gefängnis"/> | prison |
 
 ### Trennbare Verben （前缀介词 + 动词）
 
+| Deutsch | Englisch |
+| ------- | -------- |
 | räumen | clean |
 | aufräumen | clean up |
 | laden | charge, load |
@@ -59,12 +66,14 @@ Deutsch Notizen am 20. März.
 | rufen | call/shout |
 | anrufen | call/shout to |
 
-### die/Jahreszeit"/>
+### <d type="ie" text="Jahreszeit"/> (season)
 
-- der/Frühling"/>
-- der/Sommer"/>
-- der/Herbst"/>
-- der/Winter"/>
+- <d type="er" text="Frühling"/>
+- <d type="er" text="Sommer"/>
+- <d type="er" text="Herbst"/>
+- <d type="er" text="Winter"/>
+
+[Vivaldi's Four Seasons](https://youtu.be/GRxofEmo3HA)
 
 ### Die zwölf Monate
 
@@ -83,7 +92,7 @@ Deutsch Notizen am 20. März.
 | November | November |
 | Dezember | December |
 
-### die Personalpronomen
+### Die <d type="ie" text="Personalpronomen"/>
 
 | Akkusativ | Nominativ |
 | --------- | --------- |
@@ -96,19 +105,18 @@ Deutsch Notizen am 20. März.
 | euch | ihr |
 | sie/Sie | sie/Sie |
 
-### Können, Kennen, Wissen
+### Können, Kennen, Wissen (3 Know's)
 
 Können ist Modalverb. z.B., Ich kann in Ruhe lesen.
 
-Kennen (be acquainted w/ an entity 认得):
+`wissen` is used if seeing clauses (dass, wie, wann, wo, wer, warum); `kennen` is used if seeing nouns.
 
-- Kennen Sie den Weg? $\rightarrow$ 您认得这条路吗？
+See more at: [德语里wissen和kennen的区别 ?](https://www.zhihu.com/question/37165171/answer/1093104295)
 
-Wissen (have knowledge of a fact, usually answered by a phrase 听说)
+### vom(von dem) / von
 
-- Wissen Sie den Weg? $\rightarrow$ 您听说过这条路吗？
-
-| vom = von dem | vom 
+- <d type="impt" text="vom"/> 8. bis 12. Juli
+- <d type="impt" text="von"/> 12 Uhr bis 13 Uhr
 
 ## Sätze
 
@@ -120,8 +128,10 @@ Wissen (have knowledge of a fact, usually answered by a phrase 听说)
 | Im Sommer machen wir Urlaub. | We go on vacation in summer. |
 | Welchen Monat magst du am liebsten? | Which month do you like most in May? |
 | Sabine muss am Mittwoch bis um(???) zwei in der Schule arbeiten. | Sabine must work in school till two on Wednesday. |
-| Das ist doch(???) das große Metalfestival, oder? |
+| Das ist doch das große Metalfestival, oder? | It's the big metal festival, isn't it? |
 | Ich möchte dich einladen. | I want to invite you. |
+| Wir freuen uns auf dich. | We look forward to you. |
+| Holt ihr mich ab? | Are you going to pick me up? |
 
 ### Zeitangaben
 
@@ -135,7 +145,24 @@ Wissen (have knowledge of a fact, usually answered by a phrase 听说)
 
 |   | Welches Datum ist heute? | Wann ist der Termine? | Wann machst du Urlaub? |
 | - | ------------------------ | --------------------- | ---------------------- |
-|   | Der<br>impt/erste"/> (1.)<br>zweite (2.)<br>impt/dritte"/> (3.)<br>siebte (7.)<br>dreizehnte (13.)<br>siebenundzwanzigste (27.) ... Mai | Am<br>impt/ersten"/> (1.)<br>zweiten (2.)<br>impt/dritten"/> (3.)<br>siebten (7.)<br>dreizehnten (13.)<br>siebenundzwanzigsten (27.) ... Mai<br>Am Mittwoch, den zehnten Mai (10.05.)<br> | Vom ersten bis zum siebenundzwanzigsten Juni.<br>Vom 1. bis 27.6. |
+|   | Der<br><d type="impt" text="erste"/> (1.)<br>zweite (2.)<br><d type="impt" text="dritte"/> (3.)<br>siebte (7.)<br>dreizehnte (13.)<br>siebenundzwanzig<d type="impt" text="ste"/> (27.) **... Mai** | Am<br><d type="impt" text="ersten"/> (1.)<br>zweiten (2.)<br><d type="impt" text="dritten"/> (3.)<br>siebten (7.)<br>dreizehnten (13.)<br>siebenundzwanzig<d type="impt" text="sten"/> (27.) **... Mai**<br>Am Mittwoch, den zehnten Mai (10.05.)<br> | Vom ersten bis zum siebenundzwanzigsten Juni.<br>Vom 1. bis 27.6. |
 | schriftlich | Der 10.05. | am 10.05. | vom 14.11.–20.11. |
 | mündlich | Der zehnte Mai | am zehnten Mai | vom vierzehnten bis zwanzigsten November |
 
+## Meine Einladung
+
+::: tip
+Liebe Freunde:
+
+Am Samstag um acht Uhr habe ich Geburtstagsfeier.
+
+Kannst du vielleicht Gemüse oder Saft mitbringen? Ich kann Fisch und Reis einkaufen.
+
+Kommst du? Bitte ruf uns an oder schreib eine E-Mail. Kommst du mit dem Zug? Wir holen dich gern vom Bahnhof ab.
+
+Wir freuen uns auf dich!
+
+Liebe Grüße
+
+Franklin Qin
+:::

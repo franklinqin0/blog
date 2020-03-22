@@ -14,18 +14,19 @@ Deutsch Notizen am 18. März.
 
 <!-- more -->
 
-## 16. März
+## Wörter
 
-### Wörter
-
-| Person | Deutsch | Englisch |
-| ------ | ------- | -------- |
+| Deutsch | Englisch |
+| ------- | -------- |
 | nie | never |
 | oft | often |
 | immer | always |
 | jeweils | each |
 | ganz | whole |
 | müde | tired, sleepy |
+| verboten | forbidden |
+| treffen | hit, meet |
+| verschiedene | different |
 | wollen | want |
 | können | be able to |
 | müssen | must |
@@ -36,92 +37,84 @@ Deutsch Notizen am 18. März.
 | reisen | travel |
 | bauen | build |
 | unterrichten | teach, inform |
-| verboten | forbidden |
-| treffen | hit, meet |
-| verschiedene | different |
-| organisieren | organize |
-| der/Termin"/> | date, appointment |
-| der/Felsen"/> | cliff |
-| der/Ausflug"/> | outing |
-| der/Krankenpfleger"/> | nurse |
-| der/Spaß"/> | fun |
-| der/Ort"/> | place |
-| der/Kollegen"/> | colleague |
-| die/Ruhe"/> | rest, silence |
-| das/Gespräch"/> | conversation |
-| das/Krankenhaus"/> | hospital |
-| das/Frühstück"/> | breakfast |
 | aufstehen | get up |
-| zur Schule gehen | go to school |
 | fernsehen | watch TV |
+| organisieren | organize |
+| <d type="er" text="Termin"/> | date, appointment |
+| <d type="er" text="Felsen"/> | cliff |
+| <d type="er" text="Ausflug"/> | outing |
+| <d type="er" text="Krankenpfleger"/> | nurse |
+| <d type="er" text="Spaß"/> | fun |
+| <d type="er" text="Ort"/> | place |
+| <d type="er" text="Kollegen"/> | colleague |
+| <d type="ie" text="Ruhe"/> | rest, silence |
+| <d type="as" text="Gespräch"/> | conversation |
+| <d type="as" text="Krankenhaus"/> | hospital |
+| <d type="as" text="Frühstück"/> | breakfast |
+| <d type="as" text="Meer"/> | sea |
 
-#### Verb
+### Verb
 
 | wollen | können | müssen |
 | ------ | ------ | ------ |
-| ich | wimpt/i"/>ll | kimpt/a"/>nn | mimpt/u"/>ss |
-| du | wimpt/i"/>llst | kimpt/a"/>nnst | mimpt/u"/>sst |
-| er/sie/es | wimpt/i"/>ll | kimpt/a"/>nn | mimpt/u"/>ss |
+| ich | w<d type="impt" text="i"/>ll | k<d type="impt" text="a"/>nn | m<d type="impt" text="u"/>ss |
+| du | w<d type="impt" text="i"/>llst | k<d type="impt" text="a"/>nnst | m<d type="impt" text="u"/>sst |
+| er/sie/es | w<d type="impt" text="i"/>ll | k<d type="impt" text="a"/>nn | m<d type="impt" text="u"/>ss |
 | wir | wollen | können | müssen |
 | ihr | wollt | könnt | müsst |
 | sie/Sie | wollen | können | müssen |
 
-### Sätze
+### <d type="er" text="Urlaub"/>
 
+| <d type="ie" text="Aktivität"/> | Activity |
+| ------------------------------- | -------- |
+| zur Schule gehen | go to school |
+| ans Meer fahren | go to the sea |
+| einen Ausflug machen | take a trip |
+| Freunde treffen können | can meet friends |
+| surfen lernen | learn to surf |
+| lange schlafen | sleep late |
+| nicht arbeiten müssen | don't have to work |
 
-Daniel die Kinder und ich leben in Nürnberg. Wir arbeiten beide da ist der Alltag oft schwer unsere Kinder Paul und Lea gehen zur Schule im Urlaub sind wir gern am Meer 
+## Sätze
 
-Am morgen muss ich um 6 Uhr aufstehen und das Frühstück für meine Familie machen nach der Arbeit mache ich Sport ich jogge gern.
+### Eins
 
-Ich arbeite als Architekt im Büro ist immer viel los ich habe den ganzen Tag Termine abends bin ich müde ich will Fernsehen und Ruhe haben am Wochenende koche ich gern für die Familie ich bin 8 und gehe in die zweite Klasse ich kann schon gut Klavier spielen jeden Montag habe ich Unterricht am Nachmittag spiele ich gerne mit skip das ist unser Hund in der Schule habe ich super viel Stress Hausaufgaben lernen das mache ich nicht gern am Wochenende kann ich lange schlafen und mit meinen Freunden Fußball spielen
+**Sabine:** Daniel, **kannst** du am Abend noch einkaufen? Ich **muss** arbeiten.
 
-Sabine: Daniel, **kannst** du am Abend noch einkaufen? Ich **muss** arbeiten.
+**Daniel:** Ja gut, dann nehme ich das Auto. Nach der Arbeit fahre ich zum Supermarkt.
 
-Daniel: Ja gut, dann nehme ich das Auto. Nach der Arbeit fahre ich zum Supermarkt.
+**Sabine:** Prima! Dann mache ich am Freitag den Einkauf.
 
-Sabine: Prima! Dann mache ich am Freitag den Einkauf.
+**Daniel:** Ja, das ist gut. Am Freitag habe ich einen wichtigen Termin. Da **muss** ich lange im Büro bleiben.
 
-Daniel: Ja, das ist gut. Am Freitag habe ich einen wichtigen Termin. Da **muss** ich lange im Büro bleiben.
+### Zwei
 
----
+**Daniel:** Lea, **kannst** du am Nachmittag mit Skip spazieren gehen? Ich **muss** lernen. Ich habe morgen einen Mathetest.
 
-Daniel: Lea, **kannst** du am Nachmittag mit Skip spazieren gehen? Ich **muss** lernen. Ich habe morgen einen Mathetest.
+**Lea:** Nö. Ich **will** heute nicht mit Skip spazieren gehen. Marie und ich **wollen** am Nachmittag im Park spielen.
 
-Lea: Nö. Ich **will** heute nicht mit Skip spazieren gehen. Marie und ich **wollen** am Nachmittag im Park spielen.
+**Mama:** Dann **könnt** ihr Skip doch mitnehmen. Das ist doch kein Problem, oder?
 
-Mama: Dann **könnt** ihr Skip doch mitnehmen. Das ist doch kein Problem, oder?
+**Lea:** Mhm. Na, gut.
 
-Mhm. Na, gut.
+### Drei
 
----
-
-25. August
 Unser Urlaub ist zu Ende. Morgen beginnt der Alltag. Wir müssen wieder arbeiten und die Kinder müssen zur Schule gehen. Schade
 
-18. August
 Die Insel Hiddensee: Hier können wir nur Fahrrad fahren. Autos sind auf der Insel verboten.
 
-13. August
 Lea will die größte Sandburg bauen.
 
-12. August
 Ausflug zu den Kreidefelsen: ein schöner Ort!
 
-10. August
 Paul will Surfen lernen. Er macht einen Kurs und muss viel üben.
 
-5. August
 Daniel schwimmt jeden Tag im Meer und joggt. Der Alltag ist weit weg.
 
-1. August
 Super! Keine Arbeit. Ich kann in Ruhe lesen.
 
-ans Meer fahren
-einen Ausflug machen
-Freunde treffen können
-surfen lernen
-lange schlafen
-nicht arbeiten müssen
+## Berufe
 
 Sabine Pohl ist Lehrerin von Beruf. Die Arbeit mit den Kindern macht ihr viel Spaß. Am Vormittag arbeitet sie, am Nachmittag hat sie keine Schule. Sie unterrichtet an der Paul Klee Schule in Nürnberg.
 
@@ -135,5 +128,7 @@ Markus Schenk arbeitet im Marien-Krankenhaus in Weinheim. Als Arzt kann er viele
 
 Heike Weber arbeitet bei Siemens in Erlangen. Sie ist dort Sekretärin. Heike schreibt viele E-Mails. Für den Chef und andere Kollegen organisiert sie Meetings und Termine. Als Sekretärin muss sie sehr ordentlich und genau arbeiten.
 
-Am Abend arbeitet Timo Marielli im Restaurant.
-Timo Marielli arbeitet am Abend im Restaurant.
+## Am Abend
+
+- Am Abend arbeitet Timo Marielli im Restaurant.
+- Timo Marielli arbeitet am Abend im Restaurant.
