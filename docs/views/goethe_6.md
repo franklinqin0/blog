@@ -6,6 +6,7 @@ categories:
 tags:
  - Deutsch
 prev: goethe_5
+next: goethe_7
 sidebar: false
 ---
 
@@ -22,7 +23,8 @@ Deutsch Notizen am 22. März.
 | zusagen | accept |
 | absagen | reject |
 | bedanken | thank |
-| jemand | anybody |
+| jemand | somebody, anybody |
+| niemand | nobody |
 | das/Bescheid"/> | reply |
 
 ### die/Kneipe"/>, das/Restaurant"/>, das/Bistro"/>, das/Café"/>
@@ -31,7 +33,6 @@ Deutsch Notizen am 22. März.
 - das/Restaurant"/>: es gibt Getränke und ein großes Angebot an Speisen
 - das/Bistro"/>: es gibt Getränke und einfache schnelle Gerichte
 - das/Café"/>: am Tag geöffnet, es gibt Frühstück, Kuchen, Getränke und manchmal kleine Gerichte (Suppe, Sandwich)
-
 
 ## Sätze
 
@@ -61,5 +62,4 @@ Ich freue mich auf einen tollen Abend mit euch!
 
 | sich bedanken | zusagen | absagen |
 | ------------- | ------- | ------- |
-| Vielen Dank<br>Danke für die Einladung. | Ich komme gern.<br>Ich feiere gern mit dir.<br>Ich nehme die Einladung gern an.<br>Ich komme gern mit. Danke. Ich freue mich. | Es tut mir leid, ich kann nicht mit dir feiern.<br>Ich kann leider nicht kommen.<br>Ich habe leider keine Zeit.<br>Ich muss leider absagen.<br>Lieben Dank für die Einladung, aber am Samstag geht es leider nicht. |
-| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+| <ul><li>Vielen Dank</li><li>Danke für die Einladung.</li></ul> | <ul><li>Ich komme gern.</li><li>Ich feiere gern mit dir.</li><li>Ich nehme die Einladung gern an.</li><li>Ich komme gern mit. Danke. Ich freue mich.</li></ul> | <ul><li>Es tut mir leid, ich kann nicht mit dir feiern.</li><li>Ich kann leider nicht kommen.</li><li>Ich habe leider keine Zeit.</li><li>Ich muss leider absagen.</li><li>Lieben Dank für die Einladung, aber am Samstag geht es leider nicht.</li></ul> |

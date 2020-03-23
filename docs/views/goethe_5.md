@@ -147,7 +147,7 @@ See more at: [德语里wissen和kennen的区别 ?](https://www.zhihu.com/questio
 
 |   | Welches Datum ist heute? | Wann ist der Termine? | Wann machst du Urlaub? |
 | - | ------------------------ | --------------------- | ---------------------- |
-|   | Der<br><d type="impt" text="erste"/> (1.)<br>zweite (2.)<br><d type="impt" text="dritte"/> (3.)<br>siebte (7.)<br>dreizehnte (13.)<br>siebenundzwanzig<d type="impt" text="ste"/> (27.) **... Mai** | Am<br><d type="impt" text="ersten"/> (1.)<br>zweiten (2.)<br><d type="impt" text="dritten"/> (3.)<br>siebten (7.)<br>dreizehnten (13.)<br>siebenundzwanzig<d type="impt" text="sten"/> (27.) **... Mai**<br>Am Mittwoch, den zehnten Mai (10.05.)<br> | Vom ersten bis zum siebenundzwanzigsten Juni.<br>Vom 1. bis 27.6. |
+|   | Der<ul><li><d type="impt" text="erste"/> (1.)</li><li>zweite (2.)</li><li><d type="impt" text="dritte"/> (3.)</li><li>siebte (7.)</li><li>dreizehnte (13.)</li><li>siebenundzwanzig<d type="impt" text="ste"/> (27.) </li></ul>**... Mai** | Am<ul><li><d type="impt" text="ersten"/> (1.)</li><li>zweiten (2.)</li><li><d type="impt" text="dritten"/> (3.)</li><li>siebten (7.)</li><li>dreizehnten (13.)</li><li>siebenundzwanzig<d type="impt" text="sten"/> (27.)</li></ul> **... Mai**<br><ul><li>Am Mittwoch, den zehnten Mai (10.5.)</li></ul> | <ul><li>Vom ersten bis zum siebenundzwanzigsten Juni.</li><li>Vom 1. bis 27.6.</li></ul> |
 | schriftlich | Der 10.05. | am 10.05. | vom 14.11.–20.11. |
 | mündlich | Der zehnte Mai | am zehnten Mai | vom vierzehnten bis zwanzigsten November |
 
