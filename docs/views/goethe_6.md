@@ -62,4 +62,4 @@ Ich freue mich auf einen tollen Abend mit euch!
 | sich bedanken | zusagen | absagen |
 | ------------- | ------- | ------- |
 | Vielen Dank<br>Danke für die Einladung. | Ich komme gern.<br>Ich feiere gern mit dir.<br>Ich nehme die Einladung gern an.<br>Ich komme gern mit. Danke. Ich freue mich. | Es tut mir leid, ich kann nicht mit dir feiern.<br>Ich kann leider nicht kommen.<br>Ich habe leider keine Zeit.<br>Ich muss leider absagen.<br>Lieben Dank für die Einladung, aber am Samstag geht es leider nicht. |
-
+| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|

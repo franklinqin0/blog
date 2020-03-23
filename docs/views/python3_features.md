@@ -108,3 +108,6 @@ More at [Queue in Python](https://www.geeksforgeeks.org/queue-in-python/).
 
 ()
 
+### List Cannot be Hashed
+
+A list adding to a set would cause error "list objects are unhashable" b/c **list is mutable** but elements in set are not supposed to change after being added and hashed. Instead of `list`, I could add a `tuple` to the set, as described in [this Stack Overflow answer](https://stackoverflow.com/a/1306653/6421652).

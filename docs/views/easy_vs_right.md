@@ -1,5 +1,5 @@
 ---
-title: Easy vs Right
+title: Easy vs. Right
 date: 2019-03-07
 categories:
  - misc
