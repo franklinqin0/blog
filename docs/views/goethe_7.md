@@ -21,18 +21,6 @@ Deutsch Notizen am 23. März.
 | günstig | favorable |
 | interessant | interesting |
 | fertig | finished |
-| laut | loud |
-| ruhig | calm |
-| leise | quiet |
-| teuer | costly |
-| billig | cheap |
-| schmal | narrow |
-| breit | wide |
-| groß | big |
-| klein | small |
-| hell | bright |
-| sonnig | sunny |
-| dunkel | dark |
 | gesund | healthy |
 | kaputt | broken |
 | praktisch | practical |
@@ -51,6 +39,17 @@ Deutsch Notizen am 23. März.
 | <d type="ie" text="Sache"/> | thing |
 | <d type="as" text="Fenster"/> | window |
 | <d type="as" text="Dach"/> | roof |
+
+### <d type="as" text="Antonym"/>
+
+| neu | alt |
+| schön, klasse | hässlich, schlecht |
+| laut | ruhig, leise |
+| teuer | billig |
+| schmal | breit |
+| groß | | klein |
+| hell, sonnig | dunkel |
+| modern | altmodisch |
 
 ### Wo Man Wohnt
 
@@ -90,13 +89,7 @@ Ich wohne im ...
 - <d type="as" text="Sofa"/>
 - <d type="as" text="Bett"/>
 - <d type="as" text="Regal"/>
-
-### <d type="as" text="Pronomen"/>
-
-| Pronomen | der, die, das |
-| er | der |
-| sie | die |
-| es | der/die/das |
+<d type="as" text="- Ladegerät"/>
 
 ### Verb
 
@@ -109,22 +102,15 @@ Ich wohne im ...
 | ihr | gefallt |
 | sie/Sie | gefallen |
 
-## Sätze
+### <d type="as" text="Pronomen"/>
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| sag mal | tell me |
-| Die Wohnung zahlen über 1000 Euro Miete im Monat. | The apartment pays over 1000 euros rent per month. |
-| Wie gefällt dir/Ihnen der Balkon / das Zimmer / die Küche? | <ul><li>Er/Es/Sie gefällt mir.</li><li>Er/Es/Sie gefällt mir (sehr) gut.</li><li>Er/Es/Sie gefällt mir nicht (so gut).</li></ul> |
-| Wie gefallen dir/Ihnen die Zimmer? | <ul><li>Sie gefallen mir.</li><li>Sie gefallen mir (sehr) gut.</li><li>Sie gefallen mir nicht (so gut).</li></ul> |
+| Pronomen | der, die, das |
+| -------- | ------------- |
+| er | der |
+| sie | die |
+| es | der/die/das |
 
-### Die Nachbarn
-
-::: tip
-Wer wohnt in dem Haus? Viele Familien? Nein, nur im Erdgeschoss wohnt eine Familie mit zwei Kindern. Sie haben eine Terrasse. Im ersten Stock ist eine WG. Das sind drei Studenten. Und hier im zweiten Stock wohnen wir und ein paar: Isabel und Antonio. Die Leute im dritten und vierten Stock kenne ich noch nicht. Im Dachgeschoss wohnt gerade niemand.
-:::
-
-### Possessivartikel 物主代词
+### Possessivartikel 物主冠词
 
 |   | <d type="er" text="der"/> | <d type="as" text="das"/> | <d type="ie" text="die"/> |
 | - | ---------- | ---------- | ---------- |
@@ -133,6 +119,42 @@ Wer wohnt in dem Haus? Viele Familien? Nein, nur im Erdgeschoss wohnt eine Famil
 | er/es | sein(en) | sein | seine |
 | sie | ihr(en) | ihr | ihre |
 | wir | unser(en) | unser | unsere |
-| ihr | euer(en) | euer | eu<d type="impt" text="re"/> |
+| ihr | euer(en) | euer | eu(e)<d type="impt" text="re"/> |
 | sie | ihr(en) | ihr | ihre |
 | Sie | Ihr(en) | Ihr | Ihre |
+
+## Sätze
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| sag mal | tell me |
+| Die Wohnung zahlen über 1000 Euro Miete im Monat. | The apartment pays over 1000 euros rent per month. |
+
+### Finden / Gefallen
+
+Finden:
+
+- Wie findest du xxx?
+- Ich finde er schön.
+- Wie findet ihr xxx?
+- Wir finden er praktisch.
+
+Gefallen, Substantiv im Singular:
+
+- Wie gefällt dir/Ihnen der Balkon / das Zimmer/ die Küche?
+- Er/Es/Sie gefällt mir/uns.
+- Er/Es/Sie gefällt mir/uns (sehr) gut.
+- Er/Es/Sie gefällt mir/uns nicht (so gut).
+
+Gefallen, Substantiv im Plural:
+
+- Wie gefallen dir/Ihnen die Zimmer?
+- Sie gefallen mir/uns.
+- Sie gefallen mir/uns (sehr) gut.
+- Sie gefallen mir/uns nicht (so gut).
+
+### Die Nachbarn
+
+::: tip
+Wer wohnt in dem Haus? Viele Familien? Nein, nur im Erdgeschoss wohnt eine Familie mit zwei Kindern. Sie haben eine Terrasse. Im ersten Stock ist eine WG. Das sind drei Studenten. Und hier im zweiten Stock wohnen wir und ein paar: Isabel und Antonio. Die Leute im dritten und vierten Stock kenne ich noch nicht. Im Dachgeschoss wohnt gerade niemand.
+:::

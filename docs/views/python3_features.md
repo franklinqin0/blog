@@ -116,10 +116,10 @@ A list adding to a set would cause error "list objects are unhashable" b/c **lis
 ## Algorithms
 
 Prefix Sum can look for subarray sum O(1) every time
-<!-- 前缀和：多次查询区间和O(1)/次
+前缀和：多次查询区间和O(1)/次
 双指针：根据区间和调整区间
 树状数组：单点修改，区间查询
-线状树：区间修改 -->
+线状树：区间修改
 
 Two Pointers is used interchangbly w/ sliding window, as the way of thinking is more important than name and style.
 
