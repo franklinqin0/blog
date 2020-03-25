@@ -81,6 +81,7 @@ set()
 ### HashMap
 
 {}
+`get(self, key, default=None)` returns the value for key if key is in the dictionary, else default.
 
 ### Array
 
@@ -88,8 +89,8 @@ set()
 
 ### Matrix
 
-[0]*2
-[[0] for i in range()]...
+`[0]*2`
+`[[0]*num_cols for _ in range(num_rows)]`
 
 ### Stack
 
@@ -111,3 +112,22 @@ More at [Queue in Python](https://www.geeksforgeeks.org/queue-in-python/).
 ### List Cannot be Hashed
 
 A list adding to a set would cause error "list objects are unhashable" b/c **list is mutable** but elements in set are not supposed to change after being added and hashed. Instead of `list`, I could add a `tuple` to the set, as described in [this Stack Overflow answer](https://stackoverflow.com/a/1306653/6421652).
+
+## Algorithms
+
+Prefix Sum can look for subarray sum O(1) every time
+<!-- 前缀和：多次查询区间和O(1)/次
+双指针：根据区间和调整区间
+树状数组：单点修改，区间查询
+线状树：区间修改 -->
+
+Two Pointers is used interchangbly w/ sliding window, as the way of thinking is more important than name and style.
+
+95% of the time, summing over a window requires prefix sum. Exceptions: 线状树, 互动数组
+
+Edge cases to watch for:
+
+1. 0, empty input of string/array/any ds
+2. TLE / infinite loop
+
+`csum` means cumulative sum.

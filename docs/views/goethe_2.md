@@ -303,7 +303,6 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | stimmen | be right |
 | bestimmt | definite(ly) |
 | ohne | without |
-| aufräumen | clean up |
 | glauben | believe |
 | eigen(e) | own, characteristic |
 | vergleichen | compare |

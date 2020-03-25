@@ -51,22 +51,17 @@ Deutsch Notizen am 20. März.
 
 ### Trennbare Verben （前缀介词 + 动词）
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| räumen | clean |
-| aufräumen | clean up |
-| laden | charge, load |
-| einladen | invite |
-| fangen | start |
-| anfangen | start on |
-| bringen | bring |
-| mitbringen | bring w/ |
-| schreibe | write |
-| aufschreiben | write down |
-| rufen | call/shout |
-| anrufen | call/shout to |
-| holen | fetch |
-| abholen | pick up |
+| Verb | Englisch | Trennbar Verb | Englisch |
+| ---- | -------- | ------------- | -------- |
+| räumen | clean | aufräumen | clean up |
+| schreibe | write | aufschreiben | write down |
+| laden | charge, load | einladen | invite |
+| kauf | buy | einkauf | buy |
+| fangen | start | anfangen | start on |
+| sehen | see | ansehen | look at |
+| rufen | call/shout | anrufen | call/shout to |
+| bringen | bring | mitbringen | bring w/ |
+| holen | fetch | abholen | pick up |
 
 ### <d type="ie" text="Jahreszeit"/> (season)
 
@@ -156,7 +151,7 @@ See more at: [德语里wissen和kennen的区别 ?](https://www.zhihu.com/questio
 ::: tip
 Liebe Freunde:
 
-Am Samstag um acht Uhr habe ich Geburtstagsfeier.
+Am Samstag feiere ich meinen Geburtstag. Die Party fängt um acht Uhr an.
 
 Kannst du vielleicht Gemüse oder Saft mitbringen? Ich kann Fisch und Reis einkaufen.
 
