@@ -5,9 +5,10 @@ categories:
  - study
 tags:
  - tech
+next: vim_customize
 ---
 
-I write this blog both to spread the holiness of `Vim` and keep a reminder of useful commands for myself.
+This blog both spreads the holiness of `Vim` and keeps a reminder of useful commands for myself.
 
 This is the 1st of totally 2 blogs about Vim. And this is the [next blog](vim_customize).
 

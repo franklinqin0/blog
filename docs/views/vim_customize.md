@@ -5,6 +5,8 @@ categories:
  - study
 tags:
  - tech
+last: vim_commands
+next: tmux
 ---
 
 Write our own .vimrc!

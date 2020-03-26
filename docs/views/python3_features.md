@@ -14,6 +14,16 @@ While studying for interview problems, I use `Python3` as the PL and feel like c
 
 ## Int
 
+The # bits of number `n` is $\log n$.
+
+## Modular Arithmatic
+
+$(n+m)^k \mod n = m$
+
+### Bit Manipulation
+
+`n & (n-1)` would eliminate the rightmost 1-bit.
+
 ### Overflow
 
 Basically, Python doesn't need to worry about integer overflow.
