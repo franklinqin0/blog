@@ -6,6 +6,7 @@ categories:
 tags:
  - Deutsch
 prev: goethe_7
+next: goethe_9
 sidebar: false
 ---
 
@@ -25,34 +26,71 @@ Deutsch Notizen am 25. März.
 | wider | again |
 | endlich | at last |
 | zwischen | between |
+| melden | report, announce |
 | bewerten | assess |
 | riechen | smell |
-| der/Strand"/> | beach |
-| das/Opernhaus"/> | opera house |
 | spazieren | stroll |
+| <d type="er" text="Strand"/> | beach |
+| <d type="as" text="Opernhaus"/> | opera house |
+| <d type="as" text="Gepäck"/> | luggage |
 
 ### Präsens / Präteritum
 
 |   | sein (Präsens) | sein (Präteritum) | haben (Präsens) | haben (Präteritum) |
 | - | -------------- | ----------------- | --------- | ------------------ |
-| ich | bin | war | habe | hatte |
+| ich | bin | <d type="impt" text="war"/> | habe | <d type="impt" text="hatte"/> |
 | du | bist | warst | hast | hattest |
-| er/es/sie | ist | war | hat | hatte |
+| er/es/sie | ist | <d type="impt" text="war"/> | hat | <d type="impt" text="hatte"/> |
 | wir | sind | waren | haben | hatten |
 | ihr | seid | wart | habt | hattet |
 | sie/Sie | sind | waren | haben | hatten |
+
+## Sätze
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| Gute Reise und bis bald! | Have a good trip and see you soon! |
+| Melde dich! | Get in touch! |
+
+| Frage | Antworten |
+| ----- | --------- |
+| Warst du auch in Melbourne? | Nein, leider nicht. |
+| Wo wart ihr denn gestern Vormittag? | Wir waren in Sydney.
+| Hattest du viel Spaß? | Oh ja, ich hatte wirklich viel Spaß. Surfen ist toll. |
+| Wie war eure Woche? | Nicht so toll. Wir hatten sehr viel Arbeit. |
+| War das Abendessen bei Sams Freunden schön? | Oh ja! Es war sehr schön. |
+| Wie lange hatten Julia und Sam denn Urlaub? | Zwei Wochen. |
 
 ### Ein Kompliment Machen und Sich Bedanken
 
 - Du kannst ja/aber/wirklich/toll/sehr gut kochen!
 - Vielen Dank! / Oh, danke! / Danke sehr! / Danke!
 
-| Gute Reise und bis bald! | Have a good trip and see you soon! |
+### Mein letzter Urlaub
+
+::: tip
+Ich war 2018 in den USA. Das Reise war toll! Ich hatte wirklich viel Spaß. Ich habe mit meinen Eltern Museen in DC besucht. Ich ging zum Strand Santa Monica in Kalifornien. Das Wasser war kalt, das Wetter war sonnig, und die Leute waren freundlich. Ich freue mich!
+:::
+
+### Danke für das Wochenende
+
+::: tip
+Hallo Lola:
+
+Danke für das Wochenende bei euch in Berlin! Der Besuch im Museum war so toll! Der Samstagabend im klassisches Konzert war schön! Das Essen mit dir und Michael war auch sehr schön. Ich freue mich auf euer sonnig und modern Wohnung.
+
+Ich hatte wirklich viel Spaß.
+
+LG
+
+Franklin Qin
+:::
+### Australien
 
 ::: tip
 Hallo Julia,
 
-na, wie geht’s dir in Australien? Alles okay? Erzähl mal ein bisschen … Wie ist Australien? Wie ist Sydney?
+na, wie geht’s dir in Australien? Alles okay? Erzähl mal ein bisschen ... Wie ist Australien? Wie ist Sydney?
 
 Ist Sam wirklich so toll? Was machst du denn so? Hast du Spaß? Ich warte auf deine Antwort!!!
 
@@ -75,24 +113,66 @@ Julia
 P.S. Wie geht’s dir? Hast du viel Stress in der Arbeit?
 :::
 
-Warst du auch in Melbourne?
-Nein, leider nicht.
+### Auf Besuch in Berlin
 
-Wo wart ihr denn gestern Vormittag?
-Wir waren in Sydney.
+::: tip Wochenende in Berlin
+Hallo Mama,
 
-Hattest du viel Spaß?
-Oh ja, ich hatte wirklich viel Spaß. Surfen ist toll.
+Caroline und ich freuen uns schon sehr auf deinen Besuch am Wochenende! Ich muss am Freitag leider arbeiten, aber Caroline hat am Freitag frei und holt dich vom Bahnhof ab. Wann kommst du denn in Berlin an? Ihr könnt dann dein Gepäck nach Hause bringen und wir treffen uns um 12 Uhr zum Mittagessen. Wann gehst du denn mit Sabine ins Theater? Am Freitagabend oder Samstagabend?
+Möchtest du am Sonntag mit uns ins Museum gehen? Caroline hat Tickets für das Pergamonmuseum. Das ist wirklich sehr toll. Das gefällt dir bestimmt. Möchtest du am Sonntagabend in die Oper gehen? Die Staatsoper spielt „Don Giovanni".
 
-Wie war eure Woche?
-Nicht so toll. Wir hatten sehr viel Arbeit.
+Ich warte auf deine Antwort.
 
-War das Abendessen bei Sams Freunden schön?
-Oh ja! Es war sehr schön.
+Liebe Grüße
+Michael
+:::
 
-Wie lange hatten Julia und Sam denn Urlaub?
-Zwei Wochen.
+::: tip AW: Wochenende in Berlin
+Hallo Michael,
 
----
+ich freue mich auch schon sehr auf das Wochenende in Berlin!
 
-Ich war 2018 in die USA. Das Reise war toll! Ich hatte wirklich viel Spaß. Ich habe mit meinen Eltern Museen in DC besucht. Ich ging zum Strand Santa Monica in Kalifornien. Das Wasser war kalt, das Wetter war sonnig, und die Leute waren freundlich. Ich freue mich!
+Mein Zug kommt am Freitag um 10:47 Uhr am Hauptbahnhof an. Ich kann auch ein Taxi nehmen. Caroline muss mich nicht abholen!
+
+Ich gehe am Freitagabend mit Sabine ins Theater und am Samstag treffe ich Sabine und ihren Mann Peter zum Frühstück. Am Nachmittag möchte ich gern eine Stadttour machen und vielleicht ein bisschen einkaufen .... Habt ihr Zeit?
+
+Am Samstagabend möchte ich dich und Caroline gerne zum Essen einladen und am Sonntag können
+wir dann zusammen das Pergamonmuseum besuchen. Das ist eine gute Idee!
+
+In die Oper möchte ich am Sonntag nicht. Ich mag keine Mozart-Opern.
+
+Ich freue mich! Bis Freitag!
+
+Viele Grüße
+Deine Mama
+:::
+
+### E-Mail Formalia
+
+<d type="as" text="Betreff"/> (subject):
+
+- Danke!
+- Es war toll bei euch!
+
+<d type="ie" text="Anrede"/> (form of address):
+
+- Hallo (liebe/lieber)
+- Liebe/Lieber
+
+<d type="er" text="Hauptteil"/> (major part):
+
+- Ich hoffe, ...
+- Danke für ...
+- … war sehr schön.
+- ... ich komme ...
+
+<d type="er" text="Schluss"/> (end):
+
+- Bis bald!
+- Mach’s gut!
+
+<d type="er" text="Gruß"/> (greeting):
+
+- Viele (liebe) Grüße
+- Liebe Grüße
+- Ich sende dir viele liebe Grüße.
