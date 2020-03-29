@@ -251,7 +251,7 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 
 ### Artikel
 
-|   | maskulin | neutrum | feminin |
+|   | maskulin | sächlich | feminin |
 | - | -------- | ------- | ------- |
 | bestimmter Artikel | der <d type="er" text="Rucksack"/> | das <d type="as" text="Telefon"/> | die <d type="ie" text="Uhr"/> |
 | unbestimmter Artikel | ein <d type="er" text="Rucksack"/> | ein <d type="as" text="Telefon"/> | eine <d type="ie" text="Uhr"/> |

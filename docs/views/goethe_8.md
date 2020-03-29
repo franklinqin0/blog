@@ -69,7 +69,7 @@ Deutsch Notizen am 25. März.
 ### Mein letzter Urlaub
 
 ::: tip
-Ich war 2018 in den USA. Das Reise war toll! Ich hatte wirklich viel Spaß. Ich habe mit meinen Eltern Museen in DC besucht. Ich ging zum Strand Santa Monica in Kalifornien. Das Wasser war kalt, das Wetter war sonnig, und die Leute waren freundlich. Ich freue mich!
+Ich war 2018 in den USA. Das Reise war toll! Ich hatte wirklich viel Spaß. Ich habe mit meinen Eltern Museen in DC besucht. Ich ging zum Strand Santa Monica in Kalifornien. Das Wasser war kalt, das Wetter war sonnig, und die Leute waren freundlich.
 :::
 
 ### Danke für das Wochenende
@@ -159,7 +159,7 @@ Deine Mama
 - Hallo (liebe/lieber)
 - Liebe/Lieber
 
-<d type="er" text="Hauptteil"/> (major part):
+<d type="er" text="Hauptteil"/> (main part):
 
 - Ich hoffe, ...
 - Danke für ...

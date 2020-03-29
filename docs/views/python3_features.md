@@ -46,6 +46,8 @@ From [https://docs.python.org/3/library/functions.html#bin]():
 `bin` converts an integer number to a binary string prefixed with “0b”. `[2:]` takes away `0b` and returns the binary int as a string.
 :::
 
+If `n` is an integer, `int(bin(n)[2:],2)` would return the original `n`.
+
 ## Division
 
 ### Division Operators `/` and `//`

@@ -2,7 +2,7 @@ const themeConfig = require('./config/theme/')
 
 module.exports = {
   title: "Franklin Qin",
-  description: 'Just do it!',
+  description: 'Alles Gute!',
   dest: 'docs/.vuepress/dist',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
