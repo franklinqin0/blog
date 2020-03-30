@@ -6,8 +6,8 @@ categories:
 tags:
  - Deutsch
 prev: goethe_8
+next: goethe_10
 sidebar: false
-publish: false
 ---
 
 Deutsch Notizen am 25. März.
@@ -18,50 +18,91 @@ Deutsch Notizen am 25. März.
 
 | Deutsch | Englisch |
 | ------- | -------- |
+| herzlich | warm |
+| lustig | jolly |
+| genug | enough |
 | gerade | straight |
 | gespannt | eager |
+| begeistert | enthusiastic(ally) |
 | möglich | possible |
-| die/Möglichkeit"/> | possibility |
+| <d type="ie" text="Möglichkeit"/> | possibility |
+| beispielsweise | for instance |
 | nutzen | use |
+| tragen | carry |
+| schaffen | manage |
+| werden | become |
+| vergessen | forget |
+| genießen | enjoy |
+| empfehlen | recommend |
+| ausdrücken | express |
+| <d type="er" text="Glückwunsch"/> | congratulations |
+| <d type="er" text="Durchschnitt"/> | average |
+| <d type="er" text="Tipp"/> | tip |
+| <d type="er" text="Punkt"/> | spot |
+| <d type="er" text="Treffpunkt"/> | meeting place |
+| <d type="er" text="Fortschritt"/> | progress |
+| <d type="ie" text="Maschine"/> | machine |
+| <d type="ie" text="Suchmaschine"/> | search engine |
+| <d type="ie" text="Umfrage"/> | survey |
+| <d type="ie" text="Zutat"/> | ingredient |
+| <d type="ie" text="Gelegenheit"/> | opportunity |
+| <d type="as" text="Netz | net |
+| <d type="as" text="Feuerwerk"/> | firework |
+| <d type="as" text="Rezepte"/> | recipe |
+| <d type="as" text="Schwimmbad"/> | swimming pool |
 
-| der/Durchschnitt"/> | average |
-| der/Tipp"/> | tip |
-| der/Punkt"/> | spot |
-| der/Treffpunkt"/> | meeting place |
-| der/Fortschritt"/> | progress |
-| die/Maschine"/> | machine |
-| die/Suchmaschine"/> | search engine |
-| die/Umfrage"/> | survey |
-| die/Zutat"/> | ingredient |
+### die/Famile"/>
 
-| die/Gelegenheit"/> | opportunity |
-| das/Netz | net |
+| <d type="er" text="Bruder"/> | brother |
+| <d type="ie" text="Schwester"/> | sister |
+| <d type="er" text="Vatter"/> | father |
+| <d type="ie" text="Mutter"/> | mother |
+| die/Oma"/> | grandma |
 
-| der/Bruder"/> | brother |
-| die/Schwester"/> | sister |
-| der/Vatter"/> | father |
-| die/Mutter"/> | mother |
-| das/Rezepte"/> | recipe |
 
-| maskulin | das/sächlich"/> | die/feminin"/> | Plural |
+### Dativ
+
+| maskulin | <d type="as" text="sächlich"/> | <d type="ie" text="feminin"/> | Plural |
 | --- | --- | --- | --- |
-| dem | dem"/> | die/der"/> | den |
+| dem | dem"/> | <d type="ie" text="der"/> | den |
 | einem | einem | einer | einen |
 | meinem | meinem | meiner | meinen |
 | keinem | keinem | keiner | keinen |
 
 ### Präposition + Artikel im Dativ $\rightarrow$ Verschmelzung des Artikels
 
-*bei*: bei dem $\rightarrow$ beim | der/Arzt"/> / das/Fest"/>
+*bei*: bei dem $\rightarrow$ beim | <d type="er" text="Arzt"/> / <d type="as" text="Fest"/>
 
-*von*: von dem $\rightarrow$ vom | der/Bahnhof"/> / das/Büro"/>
+*von*: von dem $\rightarrow$ vom | <d type="er" text="Bahnhof"/> / <d type="as" text="Büro"/>
 
 *zu*:
 
-- zu dem $\rightarrow$ zum | der/Garten"/> / das/Interview"/>
-- zu der $\rightarrow$ zur | die/Schule"/>
+- zu dem $\rightarrow$ zum | <d type="er" text="Garten"/> / <d type="as" text="Interview"/>
+- zu der $\rightarrow$ zur | <d type="ie" text="Schule"/>
 
 ## Sätze
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| wie immer | as always |
+| nicht vergessen | don't forget |
+| Das schaffe ich. | I can manage. |
+
+### Zeit
+
+- <d type="as" text="Jahr"/>
+- <d type="ie" text="Woche"/>
+- <d type="er" text="Tag"/>
+- <d type="ie" text="Stunde"/>(n)
+- <d type="ie" text="Minute"/>(n)
+- <d type="ie" text="Sekunde"/>(n)
+
+### Wie oft / lange?
+
+- 30 Minuten täglich / pro Tag
+- ein bis zwei Stunden täglich / pro Tag
+- ca./circa/zirka drei Stunden pro Woche
+- viermal im Jahr
 
 ### Im Netz
 
@@ -74,34 +115,55 @@ Deutsch Notizen am 25. März.
 - E-Mails schreiben
 - telefonieren
 
----
+### Im Internet unterwegs
 
-Circa 56 Millionen Deutsche nutzen das Internet.
+::: tip
+Ich nutze das Internet täglich. Im Durchschnitt bin ich pro Tag zehn Stunden online. Im Internet lese ich blogs und schreibe ich E-Mails. Ich lerne Deutsch auch im Internet. Ich benutze Facebook, WeChat, Google, Spotify oft.
+:::
 
-Im Durchschnitt sind sie pro Tag drei Stunden online. Circa 70% nutzen das Internet mit ihrem Computer oder Laptop und 60% surfen mit ihrem Smartphone. Und es sind täglich mehr.
+### <d type="ie" text="Hilfe"/>
 
-Aber was machen die Personen im Internet?
+Hilfe anbieten:
 
-Kommunikation und Informationen sind sehr wichtig. Vier von fünf Personen, also 80%, schreiben E-Mails. Und 30% chatten mit Freunden. Aber nicht nur E-Mails und Chats sind wichtig. Immer mehr Menschen telefonieren auch im Internet, zum Beispiel mit Skype. Kommunikation ist also sehr wichtig. Aber noch mehr Personen suchen im Internet Informationen. 83% nutzen Suchmaschinen wie Google, Bing oder Yahoo. Andere surfen einfach so im Internet, lesen Blogs und Nachrichten, hören Musik oder sehen Videos an.
+- Kann ich Ihnen/dir/euch helfen?
+- Brauchen Sie / brauchst du / braucht ihr Hilfe?
 
-Sehr wichtig sind auch soziale Netzwerke wie zum Beispiel Facebook.
+Hilfe annehmen:
 
-Besonders junge Leute nutzen soziale Netzwerke oft – ein bis zwei Stunden pro Tag. Die Deutschen nutzen auch das Telefon für die Kommunikation mit Freunden und Familie. Aber im Durchschnitt telefonieren sie nur noch 50 Minuten pro Woche, also weniger als eine Stunde.
+- Gerne.
+- Ja, das ist sehr nett.
+- Ja, danke.
 
-die Sekunde
-die Minute (= 60 Sekunden)
-die Stunde (= 60 Minuten)
-der Tag (= 24 Stunden)
-die Woche
-das Jahr
+Hilfe ablehnen:
 
-Wie oft / Wie lange?
-30 Minuten täglich / pro Tag
-ein bis zwei Stunden täglich / pro Tag
-ca. drei Stunden pro Woche
-viermal im Jahr
+- Nein, danke.
+- Nein, (danke,) das schaffe ich.
 
----
+### Festival
 
-Der Workshop klingt toll. Ich liebe Pasta. Ich war leider **seit zwei** Jahren nicht mehr in Italien. Du hast bestimmt sehr viele Ideen **nach dem** Workshop. Ich bin gespannt! Ich bekomme sehr oft Obst und Gemüse **aus dem** Garten **von einem** Freund. Gerade habe ich viele Zucchini, Paprika und Tomaten. Vielleicht hast du ja ein tolles Rezept **mit den** Zutaten? Ich habe leider keine Idee. Macht dein Freund den Workshop oft? Ich bin nächstes Jahr **bei einer** Freundin in Neapel. Vielleicht kann ich dann auch **zu dem** Workshop fahren.
+| Deutsch | Englisch |
+| ------- | -------- |
+| Silverster | New Year's Eve |
+| Silvesterparty | New Year party |
+| <d type="ie" text="Hochzeit"/> | wedding |
+| <d type="as" text="Weihnachten"/> | Christmas |
 
+### Glückwünsche ausdrücken
+
+- Alles Gute (zum Geburtstabg)!
+- Frohe Weihnachten!
+- Herzlichen Glückwunsch!
+- Prosit Neujahr! / Gutes neues Jahr! / Frohes neues Jahr!
+
+### Auf Glückwünsche reagieren
+
+- Vielen/Herzlichen Dank.
+- Danke, (dir/euch/Ihnen auch).
+
+### ... gehen
+
+- in den Club
+- ins Theater
+- in den Park
+- ins Schwimmbad
+- ins Café gehen
