@@ -129,6 +129,10 @@ A list adding to a set would cause error "list objects are unhashable" b/c **lis
 
 Prefix Sum can look for subarray sum O(1) every time
 前缀和：多次查询区间和O(1)/次
+- 前缀和是⼀种思想，可以⽤于许多的减少时间复杂度的地⽅
+- 我们不⼀定会使⽤前缀“和”，可能是其他⽐如积，最⼤值，最⼩值这样 的值。主要还是要根据题⽬来考虑使⽤什么。
+- 哈希表是⼀种⼯具，与前缀和配套使⽤可以达到“⽤空间换时间”的⽬ 的。
+
 双指针：根据区间和调整区间
 树状数组：单点修改，区间查询
 线状树：区间修改
