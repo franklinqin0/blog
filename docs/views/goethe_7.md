@@ -43,6 +43,7 @@ Deutsch Notizen am 23. März.
 ### <d type="as" text="Antonym"/>
 
 | neu | alt |
+| --- | --- |
 | schön, klasse | hässlich, schlecht |
 | laut | ruhig, leise |
 | teuer | billig |
@@ -89,7 +90,7 @@ Ich wohne im ...
 - <d type="as" text="Sofa"/>
 - <d type="as" text="Bett"/>
 - <d type="as" text="Regal"/>
-<d type="as" text="- Ladegerät"/>
+- <d type="as" text="- Ladegerät"/>
 
 ### Verb
 

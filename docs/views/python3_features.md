@@ -50,6 +50,8 @@ If `n` is an integer, `int(bin(n)[2:],2)` would return the original `n`.
 
 ## Division
 
+`divmod`
+
 ### Division Operators `/` and `//`
 
 The division operators difference in Python 2 and 3 is described [here](https://www.geeksforgeeks.org/division-operator-in-python/).
@@ -94,6 +96,8 @@ set()
 
 {}
 `get(self, key, default=None)` returns the value for key if key is in the dictionary, else default.
+
+Dictionary associates values with immutable keys which means you cannot use lists as keys.
 
 ### Array
 

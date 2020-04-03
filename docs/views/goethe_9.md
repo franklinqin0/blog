@@ -10,7 +10,7 @@ next: goethe_10
 sidebar: false
 ---
 
-Deutsch Notizen am 25. März.
+Deutsch Notizen am 27. März.
 
 <!-- more -->
 
@@ -106,14 +106,16 @@ Deutsch Notizen am 25. März.
 
 ### Im Netz
 
-- im Internet surfen
+- im Internet surfen/telefonieren
+- mit dem Tablet surfen
+- mit dem Handy ins Internet gehen
+- Informationen suchen
 - soziale Netzwerke nutzen
 - mit Freunden chatten
 - einen Blog lesen/schreiben
 - Deutsch lernen
 - Computerspiele spielen
-- E-Mails schreiben
-- telefonieren
+- E-Mails schreiben/verschicken
 
 ### Im Internet unterwegs
 
