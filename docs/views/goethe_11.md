@@ -1,6 +1,5 @@
 
 
-
 | erklären | explain |
 | rauchen | smoke |
 | spülen | wash |
@@ -10,8 +9,16 @@
 | erstellen | build |
 | der/Hocker"/> | stool |
 | die/Einstellungen"/> | adjustment |
+| die/Bewerbung"/> | application |
 | das/Geschirr"/> | dishes |
 
+| auf | on |
+| unter | under |
+| neben | beside |
+| an |
+| vor |hinter | zwischen |
+| in | in |
+| 
 
 | Man muss hier warten. |      |
 | Man muss hier nicht warten. | don't have to |

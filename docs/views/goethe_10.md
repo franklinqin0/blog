@@ -37,20 +37,14 @@ Deutsch Notizen am 30. März.
 | die/Krankenschwester"/> | nurse |
 | das/Heimatland"/> | homeland |
 
-| auf | on |
-| unter | under |
-| neben | beside |
-| an |
-| vor |hinter | zwischen |
-| in | in |
-| 
-
-die Bank: das Geld
-der Geldautomat: das Geld
-die Post: die Briefmarken
-der Museumsshop: die Postkarte, das Souvenir
-die Touristeninformation: der Stadtplan, der Prospekt
-die Kasse: das Ticket
+| der/Platz"/> | für |
+| ------------ | --- |
+| die/Bank"/> | das/Geld"/> |
+| der/Geldautomat"/> | das/Geld"/> |
+| die/Post"/> | die/Briefmarke"/> |
+| der/Museumsshop"/> | die/Postkarte"/>, das/Souvenir"/> |
+| die/Touristeninformation"/> | der/Stadtplan"/>, der/Prospekt"/> |
+| die/Kasse"/> | das/Ticket"/> |
 
 ## Sätze
 
@@ -60,7 +54,8 @@ die Kasse: das Ticket
 | im Stau stehen | stuck in jam |
 | ein und einhalb Stunden | one and a half hour |
 | Darf ich Sie noch etwas fragen? | May I ask you something else? |
-| Danach ruft sie einen Kunden an.  | 
+| Danach ruft sie einen Kunden an.  | Then she calls a customer. |
+
 ### Verspätung
 
 | Deutsch | Englisch |

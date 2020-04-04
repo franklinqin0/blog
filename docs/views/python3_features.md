@@ -106,6 +106,7 @@ Dictionary associates values with immutable keys which means you cannot use list
 ### Matrix
 
 `[0]*2`
+`[[0 for _ in range(num_cols)] for i in range(num_rows)]`
 `[[0]*num_cols for _ in range(num_rows)]`
 
 ### Stack
@@ -151,3 +152,9 @@ Edge cases to watch for:
 2. TLE / infinite loop
 
 `csum` means cumulative sum.
+
+隐式图：没有明确的点和边的关系（不会定义Node等）
+
+矩阵就是⼀种经典的隐式图问题
+
+
