@@ -108,5 +108,5 @@ Deutsch Notizen am 30. März.
 ### Pünktlichkeit
 
 ::: tip
-Ich komme aus China. Pünktlichkeit ist in China in der Arbeit und bei offiziellen Terminen sehr wichtig! Man kommt zu einem Meeting oder zum Arzt pünktlich. Auf Partys und zum Essen kommt Man zu etwas spät, aber nicht zu viel.
+Ich komme aus China. Pünktlichkeit ist in China in der Arbeit und bei offiziellen Terminen sehr wichtig! Man kommt zu einem Meeting oder zum Arzt pünktlich. Auf Partys und zum Essen kommt Man etwas spät, aber nicht zu viel.
 :::
