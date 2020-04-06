@@ -25,14 +25,14 @@ Deutsch Notizen am 22. März.
 | bedanken | thank |
 | jemand | somebody, anybody |
 | niemand | nobody |
-| das/Bescheid"/> | reply |
+| <d type="as" text="Bescheid"/> | reply |
 
-### die/Kneipe"/>, das/Restaurant"/>, das/Bistro"/>, das/Café"/>
+### <d type="ie" text="Kneipe"/>, <d type="as" text="Restaurant"/>, <d type="as" text="Bistro"/>, <d type="as" text="Café"/>
 
-- die/Kneipe"/>: es gibt alkoholische und nicht-alkoholische Getränke, manchmal kleine Speisen, am Abend geöffnet
-- das/Restaurant"/>: es gibt Getränke und ein großes Angebot an Speisen
-- das/Bistro"/>: es gibt Getränke und einfache schnelle Gerichte
-- das/Café"/>: am Tag geöffnet, es gibt Frühstück, Kuchen, Getränke und manchmal kleine Gerichte (Suppe, Sandwich)
+- <d type="ie" text="Kneipe"/>: es gibt alkoholische und nicht-alkoholische Getränke, manchmal kleine Speisen, am Abend geöffnet
+- <d type="as" text="Restaurant"/>: es gibt Getränke und ein großes Angebot an Speisen
+- <d type="as" text="Bistro"/>: es gibt Getränke und einfache schnelle Gerichte
+- <d type="as" text="Café"/>: am Tag geöffnet, es gibt Frühstück, Kuchen, Getränke und manchmal kleine Gerichte (Suppe, Sandwich)
 
 ## Sätze
 

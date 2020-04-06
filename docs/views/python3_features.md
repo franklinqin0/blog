@@ -12,6 +12,9 @@ While studying for interview problems, I use `Python3` as the PL and feel like c
 
 <!-- more -->
 
+- elegant and clear
+- high-readability
+
 ## Int
 
 The # bits of number `n` is $\log n$.

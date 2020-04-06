@@ -7,6 +7,7 @@
 | einschalten | switch on |
 | aufhängen | hang up |
 | erstellen | build |
+| verabschieden | say goodbye to |
 | der/Hocker"/> | stool |
 | die/Einstellungen"/> | adjustment |
 | die/Bewerbung"/> | application |
@@ -50,3 +51,10 @@ Können Sie einen Moment warten ?
 Da kann ich dir leider auch nicht helfen .
 Kannst du mir das bitte erklären ?
 Ich kann Ihnen das leider nicht erklären .
+
+
+mit/von + Dativ
+für + Akku
+
+
+wohl | krank |
