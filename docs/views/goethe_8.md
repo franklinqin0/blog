@@ -23,7 +23,7 @@ Deutsch Notizen am 25. März.
 | chaotisch | chaotic |
 | prima | great |
 | preterite | past |
-| wider | again |
+| wieder | again |
 | endlich | at last |
 | zwischen | between |
 | melden | report, announce |

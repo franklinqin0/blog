@@ -20,11 +20,14 @@ Deutsch Notizen am 22. März.
 | ------- | -------- |
 | bald | soon |
 | herzlich | warm(ly) |
+| einfach | single |
 | zusagen | accept |
 | absagen | reject |
 | bedanken | thank |
 | jemand | somebody, anybody |
 | niemand | nobody |
+| <d type="ie" text="Suppe"/> | soup |
+| <d type="as" text="Gericht"/> | dish |
 | <d type="as" text="Bescheid"/> | reply |
 
 ### <d type="ie" text="Kneipe"/>, <d type="as" text="Restaurant"/>, <d type="as" text="Bistro"/>, <d type="as" text="Café"/>

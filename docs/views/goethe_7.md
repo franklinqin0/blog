@@ -42,13 +42,14 @@ Deutsch Notizen am 23. März.
 
 ### <d type="as" text="Antonym"/>
 
-| neu | alt |
+| Wort | Antonym |
 | --- | --- |
+| neu | alt |
 | schön, klasse | hässlich, schlecht |
 | laut | ruhig, leise |
 | teuer | billig |
 | schmal | breit |
-| groß | | klein |
+| groß | klein |
 | hell, sonnig | dunkel |
 | modern | altmodisch |
 
@@ -90,7 +91,7 @@ Ich wohne im ...
 - <d type="as" text="Sofa"/>
 - <d type="as" text="Bett"/>
 - <d type="as" text="Regal"/>
-- <d type="as" text="- Ladegerät"/>
+- <d type="as" text="Ladegerät"/>
 
 ### Verb
 
@@ -113,7 +114,7 @@ Ich wohne im ...
 
 ### Possessivartikel 物主冠词
 
-|   | <d type="er" text="der"/> | <d type="as" text="das"/> | <d type="ie" text="die"/> |
+| Person | <d type="er" text="der"/> | <d type="as" text="das"/> | <d type="ie" text="die"/> |
 | - | ---------- | ---------- | ---------- |
 | ich | mein(en) | mein | meine |
 | du | dein(en) | dein | deine |

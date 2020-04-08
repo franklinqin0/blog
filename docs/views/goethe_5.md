@@ -37,7 +37,6 @@ Deutsch Notizen am 20. März.
 | unseren | our |
 | früh | early |
 | benötigten | require |
-| dort | there |
 | <d type="er" text="Zahnarzt"/> | dentist |
 | <d type="er" text="Monat"/> | month |
 | <d type="er" text="Friseur"/>(in) | hairdresser |
@@ -56,7 +55,7 @@ Deutsch Notizen am 20. März.
 | räumen | clean | aufräumen | clean up |
 | schreibe | write | aufschreiben | write down |
 | laden | charge, load | einladen | invite |
-| kauf | buy | einkauf | buy |
+| kauf | buy | einkaufen | buy |
 | fangen | start | anfangen | start on |
 | sehen | see | ansehen | look at |
 | rufen | call/shout | anrufen | call/shout to |
@@ -104,7 +103,10 @@ Deutsch Notizen am 20. März.
 
 ### Können, Kennen, Wissen (3 Know's)
 
-Können ist Modalverb. z.B., Ich kann in Ruhe lesen.
+Können ist Modalverb (know how to do sth). z.B.
+
+- Ich kann in Ruhe lesen.
+- Ich kann Deutsch.
 
 `wissen` is used if seeing clauses (dass, wie, wann, wo, wer, warum); `kennen` is used if seeing nouns.
 
@@ -124,7 +126,7 @@ See more at: [德语里wissen和kennen的区别 ?](https://www.zhihu.com/questio
 | Kannst du dann bei den Kindern sein? | Can you be with the kids then? |
 | Im Sommer machen wir Urlaub. | We go on vacation in summer. |
 | Welchen Monat magst du am liebsten? | Which month do you like most in May? |
-| Sabine muss am Mittwoch bis um(???) zwei in der Schule arbeiten. | Sabine must work in school till two on Wednesday. |
+| Sabine muss am Mittwoch bis um zwei in der Schule arbeiten. | Sabine must work in school till two on Wednesday. |
 | Das ist doch das große Metalfestival, oder? | It's the big metal festival, isn't it? |
 | Ich möchte dich einladen. | I want to invite you. |
 | Wir freuen uns auf dich. | We look forward to you. |
