@@ -196,6 +196,8 @@ Auf Wiedersehen:
 
 #### Aufforderungssätze 祈使句
 
+Kürzen du/ihr.
+
 - Geben Sie mir eine Tüte, bitte.
 - Gib mir bitte eine Tüte.
 - Schneiden sie das Brot, bitte.

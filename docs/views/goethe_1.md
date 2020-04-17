@@ -376,7 +376,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | einmal | once |
 | wiederholen | repeat |
 
-#### Familienstand
+#### Familienstand (marital status)
 
 | Deutsch | Englisch |
 | ------- | -------- |

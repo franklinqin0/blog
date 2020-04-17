@@ -30,22 +30,22 @@ Deutsch Notizen am 30. März.
 | schenken | give |
 | recherchieren | investigate |
 | Verspätung | lateness |
-| die/Pflanze"/> | plant |
-| die/Tastatur"/> | keyboard |
-| die/Führung"/> | guided tour |
-| der/Ordner"/> | file |
-| der/die Erwachsene | adult |
-| die/Krankenschwester"/> | nurse |
-| das/Heimatland"/> | homeland |
+| <d type="ie" text="Pflanze"/> | plant |
+| <d type="ie" text="Tastatur"/> | keyboard |
+| <d type="ie" text="Führung"/> | guided tour |
+| <d type="er" text="Ordner"/> | file |
+| <d type="er" text="die Erwachsene | adult |
+| <d type="ie" text="Krankenschwester"/> | nurse |
+| <d type="as" text="Heimatland"/> | homeland |
 
-| der/Platz"/> | für |
+| <d type="er" text="Platz"/> | für |
 | ------------ | --- |
-| die/Bank"/> | das/Geld"/> |
-| der/Geldautomat"/> | das/Geld"/> |
-| die/Post"/> | die/Briefmarke"/> |
-| der/Museumsshop"/> | die/Postkarte"/>, das/Souvenir"/> |
-| die/Touristeninformation"/> | der/Stadtplan"/>, der/Prospekt"/> |
-| die/Kasse"/> | das/Ticket"/> |
+| <d type="ie" text="Bank"/> | <d type="as" text="Geld"/> |
+| <d type="er" text="Geldautomat"/> | <d type="as" text="Geld"/> |
+| <d type="ie" text="Post"/> | <d type="ie" text="Briefmarke"/> |
+| <d type="er" text="Museumsshop"/> | <d type="ie" text="Postkarte"/>, <d type="as" text="Souvenir"/> |
+| <d type="ie" text="Touristeninformation"/> | <d type="er" text="Stadtplan"/>, <d type="er" text="Prospekt"/> |
+| <d type="ie" text="Kasse"/> | <d type="as" text="Ticket"/> |
 
 ## Sätze
 
@@ -80,7 +80,7 @@ Deutsch Notizen am 30. März.
 - Ich empfehle Ihnen ...
 - Ich kann Ihnen einen Plan mit (den Abfahrtszeiten / den Preisen geben).
 
-### Personalpronomen (习惯、静三动四)
+### Personalpronomen (静三动四)
 
 | Nominativ | Akkusativ | Dativ |
 | --------- | --------- | ----- |

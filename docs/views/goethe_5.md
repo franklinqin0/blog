@@ -56,11 +56,14 @@ Deutsch Notizen am 20. März.
 | schreibe | write | aufschreiben | write down |
 | laden | charge, load | einladen | invite |
 | kauf | buy | einkaufen | buy |
+| schalten | switch | einschalten | swtich on |
 | fangen | start | anfangen | start on |
 | sehen | see | ansehen | look at |
 | rufen | call/shout | anrufen | call/shout to |
+| probieren | try | anprobieren | try on |
 | bringen | bring | mitbringen | bring w/ |
 | holen | fetch | abholen | pick up |
+| bereiten | prepare | vorbereiten | prepare for |
 
 ### <d type="ie" text="Jahreszeit"/> (season)
 
@@ -103,7 +106,7 @@ Deutsch Notizen am 20. März.
 
 ### Können, Kennen, Wissen (3 Know's)
 
-Können ist Modalverb (know how to do sth). z.B.
+`Können` is a modal  verb (know how to do sth). e.g.
 
 - Ich kann in Ruhe lesen.
 - Ich kann Deutsch.

@@ -51,23 +51,27 @@ Deutsch Notizen am 27. März.
 | <d type="as" text="Rezepte"/> | recipe |
 | <d type="as" text="Schwimmbad"/> | swimming pool |
 
-### die/Famile"/>
-
-| <d type="er" text="Bruder"/> | brother |
-| <d type="ie" text="Schwester"/> | sister |
-| <d type="er" text="Vatter"/> | father |
-| <d type="ie" text="Mutter"/> | mother |
-| die/Oma"/> | grandma |
-
-
 ### Dativ
 
-| maskulin | <d type="as" text="sächlich"/> | <d type="ie" text="feminin"/> | Plural |
+| <d type="er" text="maskulin"/> | <d type="as" text="sächlich"/> | <d type="ie" text="feminin"/> | Plural |
 | --- | --- | --- | --- |
-| dem | dem"/> | <d type="ie" text="der"/> | den |
+| dem | dem | der | den |
 | einem | einem | einer | einen |
 | meinem | meinem | meiner | meinen |
 | keinem | keinem | keiner | keinen |
+
+### Akkusativ
+
+| <d type="er" text="maskulin"/> | <d type="as" text="sächlich"/> | <d type="ie" text="feminin"/> | Plural |
+| --- | --- | --- | --- |
+| den | das | die | die |
+| meinen | mein | mein | mein |
+
+### Nominativ
+
+- der - welcher - dieser ( 词尾都是er )
+- das - welches - dieses ( 词尾都是es )
+- die - welche - diese ( 词尾都是e )
 
 ### Präposition + Artikel im Dativ $\rightarrow$ Verschmelzung des Artikels
 

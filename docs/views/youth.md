@@ -13,7 +13,7 @@ The title reminds me of my favorite English song: [*Forever Young by Alphaville*
 
 <!-- more -->
 
-Once in my junior year, I saw on the personal website of a friend called Steven having the following excerpt from [<i>This Is the Life</i>](http://www.billemory.com/dillard/dillard.html) by Annie Dillard:
+Once in my junior year, I saw on Steven's blog the following excerpt from [<i>This Is the Life</i>](http://www.billemory.com/dillard/dillard.html) by Annie Dillard:
 
 ::: tip This Is the Life
 People look at the sky and at the other animals. They make beautiful objects, beautiful sounds, beautiful motions of their bodies beating drums in lines. They pray; they toss people in peat bogs; they help the sick and injured; they pierce their lips, their noses, ears; they make the same mistakes despite religion, written language, philosophy, and science; they build, they kill, they preserve, they count and figure, they boil the pot, they keep the embers alive; they tell their stories and gird themselves.
@@ -27,7 +27,7 @@ Then what?
 
 Good question! "**Then what?**" I guess thinking about the meaning of life is a meaningless thing per se. I occassionally feel quite bored, lacking intellectual challenges. If we see ourselves as patients, we could cure ourselves rather than thinking about these far-fetching questions. You lack love? Love people surrounding you, and they will love you back. You lack challenges to solve and are buried in daily labor? Find some interesting math and coding problems! There are tons of them out there! You feel tired? Well, sleep, and wake up to lead an exciting life, rather than wasting time on stupid films!
 
-Of course, I didn't think of any of these back then, but told him, "Wow, this is deep! If I were to **build my own website**, I will have the blog of *Youth* by Samuel Ullman."
+Of course, I didn't think of any of these back then, but told him, "Wow, this is deep! If I were to **build my own blog**, I will have the blog of *Youth* by Samuel Ullman."
 
 So here it is:
 
