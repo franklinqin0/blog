@@ -71,6 +71,31 @@ This page documents good quotes I came across.
 
 ---
 
+## 唐诗
+
+江南无所有，聊赠一枝春
+
+---
+
 Quotes from great programmers:
 
 - Grady Booch: The function of good software is to make the complex appear to be simple.
+
+---
+
+::: Seven times I have despised my soul, Kahlil Gibran
+
+The first time when I saw her being meek that she might attain height.
+
+The second time when I saw her limping before the crippled.
+
+The third time when she was given to choose between the hard and the easy, and she chose the easy.
+
+The fourth time when she committed a wrong, and comforted herself that others also commit wrong.
+
+The fifth time when she forbode for weakness, and attributed her patience to strength.
+
+The sixth time when she despised the ugliness of a face, and knew not that it was one of her own masks.
+
+And the seventh time when she sang a song of praise, and deemed it a virtue.
+:::

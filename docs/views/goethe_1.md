@@ -323,6 +323,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | <d type="er" text="Köch"/> | <d type="ie" text="Köchin"/> | chef |
 | <d type="er" text="Musiker"/> | <d type="ie" text="Musikerin"/> | musician |
 | <d type="er" text="Lehrer"/> | <d type="ie" text="Lehrerin"/> | teacher |
+| der/Briefträger"/> | postman |
 | <d type="er" text="Schüler"/> | <d type="ie" text="Schülerin"/> | pupil |
 | <d type="er" text="Student"/> | <d type="ie" text="Studentin"/> | college student |
 | <d type="ie" text="Studenten"/> | <d type="ie" text="Studentinnen"/> | <d type="ie" text="Studenten"/> und <d type="ie" text="Studentinnen"/> |

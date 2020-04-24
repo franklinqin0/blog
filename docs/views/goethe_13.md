@@ -1,12 +1,14 @@
 
 | wohin | where to |
 | windig | windy |
+| bewölkt | cloudy |
+| schneien | snow |
+| schneinen | shine |
 | leer | empty |
 | regnen | rain |
 | anprobieren | try on |
 | entscheiden | decide |
 | versprechen | promise |
-
 | abfahren | depart |
 | umsteigen | change |
 | einsteigen | get on |
@@ -16,13 +18,14 @@
 | die/Kleidung"/> | clothes |
 | die/Kabine"/> | cabin |
 | der/Himmel"/> | sky |
+| das/Ehepaar"/> | married couple |
 
 ## Sätze
 
 | Der blaue Pullover steht mir besser. | The blue sweater suits me better. |
 
-
-| Wo 
+| Es schneit. | snowing |
+| Die Sonne scheint. | sunny |
 
 | liegen | legen |
 | stehen | stellen |

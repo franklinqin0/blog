@@ -44,7 +44,9 @@ store the hashed value: `hash(provided password + stored salt)`
 
 ## HTTP vs. HTTPS
 
-## == vs. ===
+## RPC vs. REST
+
+## JS == vs. ===
 
 ## NoSQL
 
@@ -75,6 +77,8 @@ Models
 **P**artition-tolerance
 
 ## Message Queue
+
+### Kafka vs. RabbitMQ
 
 ## Service Oriented Architecture (SOA)
 
