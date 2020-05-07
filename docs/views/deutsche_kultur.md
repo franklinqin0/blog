@@ -1,5 +1,5 @@
 ---
-title: Deutsche Kultur
+title: German Culture
 date: 2020-04-11
 categories:
  - study
@@ -9,4 +9,7 @@ sidebar: false
 publish: false
 ---
 
-https://www.golyr.de/lilian-harvey/songtext-das-gibt-s-nur-einmal-379790.html
+## das-gibt-s-nur-einmal
+
+- video: [https://www.bilibili.com/video/BV1gb411G7LX]()
+- English+German lyrics: https://lyricstranslate.com/en/das-gibts-nur-einmal-it-only-happens-once.html

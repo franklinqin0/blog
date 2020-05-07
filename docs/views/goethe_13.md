@@ -8,6 +8,7 @@ tags:
 prev: goethe_12
 next: goethe_14
 sidebar: false
+publish: false
 ---
 
 | Deutsch | Englisch |
@@ -56,6 +57,8 @@ sidebar: false
 
 ## Sätze
 
+| Deutsch | Englisch |
+| ------- | -------- |
 | Der blaue Pullover steht mir besser. | The blue sweater suits me better. |
 | Wie viel verdient man? | How much do you earn? |
 | Sie sind in Ordnung. | It's OK. |
@@ -82,26 +85,25 @@ sidebar: false
 - mit, von, zu, seit, nach + Dativ
 - ohne, für + Akkusativ
 
-- **Q:** <d type="impt" text="Mit"/> wem gehen Sie gern ins Kino?
-- **A:** Ich gehe gern <d type="impt" text="mit"/> den Eltern ins Kino.
+**Q:** <d type="impt" text="Mit"/> wem gehen Sie gern ins Kino?
+**A:** Ich gehe gern <d type="impt" text="mit"/> den Eltern ins Kino.
+**Q:** <d type="impt" text="Mit"/> wem gehst du gern zum Supermarkt?
+**A:** Ich gehe gern <d type="impt" text="mit"/> meinem Freund zum Supermarkt.
 
-- **Q:** <d type="impt" text="Mit"/> wem gehst du gern zum Supermarkt?
-- **A:** Ich gehe gern <d type="impt" text="mit"/> meinem Freund zum Supermarkt.
+**Q:** Wohin gehen Sie oft <d type="impt" text="mit"/> Ihrer Mutter?
+**A:** Wir gehen oft <d type="impt" text="zu"/> dem Park.
 
-- **Q:** Wohin gehen Sie oft <d type="impt" text="mit"/> Ihrer Mutter?
-- **A:** Wir gehen oft <d type="impt" text="zu"/> dem Park.
+**Q:** Ist das deine Tasche?
+**A:** Nein, das ist die Tasche <d type="impt" text="von"/> meine Schwester.
 
-- **Q:** Ist das deine Tasche?
-- **A:** Nein, das ist die Tasche <d type="impt" text="von"/> meine Schwester.
+**Q:** <d type="impt" text="Seit"/> wann kennen Sie <d type="ie" text="Ihre beste Freundin"/>/<d type="er" text="Ihren besten Freund?"/>
+**A:** Ich kenne sie/ihn <d type="impt" text="seit"/> dem Jahr 2000.
 
-- **Q:** <d type="impt" text="Seit"/> wann kennen Sie <d type="ie" text="Ihre beste Freundin"/>/<d type="er" text="Ihren besten Freund?"/>
-- **A:** Ich kenne sie/ihn <d type="impt" text="seit"/> dem Jahr 2000.
+**Q:** Was machen Sie manchmal <d type="impt" text="nach"/> der Arbeit?
+**A:** <d type="impt" text="Nach"/> der Arbeit spiele ich Volleyball.
 
-- **Q:** Was machen Sie manchmal <d type="impt" text="nach"/> der Arbeit?
-- **A:** <d type="impt" text="Nach"/> der Arbeit spiele ich Volleyball.
-
-- **Q:** Wo sind Sie gerade?
-- **A:** Ich bin <d type="impt" text="bei"/> den Eltern zu Hause.
+**Q:** Wo sind Sie gerade?
+**A:** Ich bin <d type="impt" text="bei"/> den Eltern zu Hause.
 
 ::: tip ohne / mit / für
 Roberto und sein Sohn Lino leben allein. Robertos Eltern wohnen auch in der Stadt. Sie helfen ihm oft. Das ist wichtig **für** ihn. „**Ohne** die Hilfe der Eltern geht es nicht“, sagt Roberto. Oft holen Oma und Opa Lino von der Schule ab und spielen **mit** ihm. Das ist toll **für** ihren Enkel. Roberto bleibt dann länger im Büro oder trifft seine Freunde.
@@ -137,7 +139,7 @@ Lukas wohnt in einer WG **mit** seiner Oma. Er hilft ihr im Alltag und kauft **f
 
 ## Partizip (participle, 分词)
 
-z.B. Ich bin nach Berlin gefahren.
+**z.B.** Ich bin nach Berlin gefahren.
 
 ### Regelmäßige Verben: ge- ... -(e)t
 
