@@ -60,3 +60,9 @@ component already instantiated, not mounted yet, DOM doesn't exist
 - updated(){} // 更新后，所有状态已是最新
 - beforeDestroy(){} // 销毁前，可用于一些定时器或订阅的取消
 - destroyed(){} // 组件已销毁，作用同上
+
+
+
+# v-slot
+@ v-on
+: v-bind

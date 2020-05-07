@@ -92,6 +92,14 @@ Deutsch Notizen am 27. März.
 | nicht vergessen | don't forget |
 | Das schaffe ich. | I can manage. |
 
+### ... gehen
+
+- in den Club
+- ins Theater
+- in den Park
+- ins Schwimmbad
+- ins Café gehen
+
 ### Zeit
 
 - <d type="as" text="Jahr"/>
@@ -154,22 +162,14 @@ Hilfe ablehnen:
 | <d type="ie" text="Hochzeit"/> | wedding |
 | <d type="as" text="Weihnachten"/> | Christmas |
 
-### Glückwünsche ausdrücken
+### Glückwünsche ausdrücken (express congrats)
 
-- Alles Gute (zum Geburtstabg)!
-- Frohe Weihnachten!
-- Herzlichen Glückwunsch!
-- Prosit Neujahr! / Gutes neues Jahr! / Frohes neues Jahr!
+- <d type="er" text="Geburtstag"/> $\rightarrow$ Alles Gute (zum Geburtstabg)!
+- <d type="ie" text="Weihnachten(pl.)"/> $\rightarrow$ Frohe Weihnachten!
+- <d type="ie" text="Hochzeit"/> $\rightarrow$ Herzlichen Glückwunsch!
+- <d type="er" text="Neujahrstag"/> / <d type="as" text="Silvester"/> $\rightarrow$ Prosit Neujahr! / Gutes neues Jahr! / Frohes neues Jahr!
 
 ### Auf Glückwünsche reagieren
 
 - Vielen/Herzlichen Dank.
 - Danke, (dir/euch/Ihnen auch).
-
-### ... gehen
-
-- in den Club
-- ins Theater
-- in den Park
-- ins Schwimmbad
-- ins Café gehen

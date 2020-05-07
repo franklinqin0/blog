@@ -11,6 +11,12 @@ publish: false
 This blog features important interview questions for full stack engineers.
 <!-- more -->
 
+## TCP
+
+Transmission control protocol (TCP) manages the sending and receiving of all your data as packets.
+
+## Cookie
+
 Cookie is a small piece of data **stored by the browser** and **sent to the server** with every request.
 
 Cookie use cases:
@@ -27,6 +33,8 @@ Cookie vs. Token: https://medium.com/@sherryhsu/session-vs-token-based-authentic
 session token / local storage
 
 ## CORS 跨域
+
+## Cross-site scripting
 
 ## Cryptography
 
@@ -46,7 +54,21 @@ store the hashed value: `hash(provided password + stored salt)`
 
 ## RPC vs. REST
 
-## JS == vs. ===
+## JS
+
+### == vs. ===
+
+## ES 6
+
+https://github.com/addyosmani/es6-equivalents-in-es5
+
+### This & Arrow Function
+
+### Class
+
+### Deconstruction
+
+### Spread Operation
 
 ## NoSQL
 

@@ -52,6 +52,7 @@ Deutsch Notizen am 23. März.
 | groß | klein |
 | hell, sonnig | dunkel |
 | modern | altmodisch |
+| wohl | krank |
 
 ### Wo Man Wohnt
 

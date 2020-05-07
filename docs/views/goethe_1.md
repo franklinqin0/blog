@@ -323,7 +323,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | <d type="er" text="Köch"/> | <d type="ie" text="Köchin"/> | chef |
 | <d type="er" text="Musiker"/> | <d type="ie" text="Musikerin"/> | musician |
 | <d type="er" text="Lehrer"/> | <d type="ie" text="Lehrerin"/> | teacher |
-| der/Briefträger"/> | postman |
+| <d type="er" text="Briefträger"/> | <d type="ie" text="Briefträgerin"/> | postman |
 | <d type="er" text="Schüler"/> | <d type="ie" text="Schülerin"/> | pupil |
 | <d type="er" text="Student"/> | <d type="ie" text="Studentin"/> | college student |
 | <d type="ie" text="Studenten"/> | <d type="ie" text="Studentinnen"/> | <d type="ie" text="Studenten"/> und <d type="ie" text="Studentinnen"/> |
@@ -343,7 +343,7 @@ Deutsch Notizen vom 2. bis 8. März.
 
 #### Beruf Frage & Antworten
 
-| informell Frage | formell Frage | Anworten |
+| informell Frage | formell Frage | Antworten |
 | --------------- | ------------- | -------- |
 | Was bist du von Beruf?<br>Was ist dein Beruf?<br>Wo arbeitest du?<br>Was machst du (beruflich)?<br>Und was machst du? | Was sind Sie von Beruf?<br>Was ist Ihr Beruf?<br>Wo arbeiten Sie?<br>Was machen Sie (beruflich)?<br>Und was machen Sie? | Ich bin Architekt(in) (von Beruf).<br>Ich arbeite als Architekt.<br>Ich arbeite bei Siemens/BMW.<br>Ich studiere Architektur. |
 :::

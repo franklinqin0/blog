@@ -99,3 +99,13 @@ The sixth time when she despised the ugliness of a face, and knew not that it wa
 
 And the seventh time when she sang a song of praise, and deemed it a virtue.
 :::
+
+---
+
+::: tip 临江仙·柳絮
+白玉堂前春解舞，东风卷得均匀。蜂围蝶阵乱纷纷。几曾随逝水？岂必委芳尘？
+万缕千丝终不改，任他随聚随分。韶华休笑本无根。好风凭借力，送我上青云。
+
+::: right
+曹雪芹，《红楼梦》第70回
+:::

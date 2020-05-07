@@ -5,9 +5,8 @@ categories:
  - study
 tags:
  - Deutsch
-# prev: goethe_12
-# next: goethe_12
 sidebar: false
+publish: false
 ---
 
 https://www.golyr.de/lilian-harvey/songtext-das-gibt-s-nur-einmal-379790.html

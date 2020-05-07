@@ -6,7 +6,7 @@ categories:
 tags:
  - Deutsch
 prev: goethe_10
-# next: goethe_12
+next: goethe_12
 sidebar: false
 ---
 
@@ -18,10 +18,8 @@ Deutsch Notizen am 9. April.
 
 | Deutsch | Englisch |
 | ------- | -------- |
-| schlimm | serious |
 | besonders | particularly |
 | erklären | explain |
-| schmerzen | hurt |
 | bewegen | move |
 | nehmen | take |
 | schenken | give |
@@ -34,33 +32,42 @@ Deutsch Notizen am 9. April.
 | aufhängen | hang up |
 | erstellen | build |
 | verabschieden | say goodbye to |
-| der/Hocker"/> | stool |
-| der/Verstand"/> | reason |
-| der/Bewerber"/> | applicant |
-| der/Unfall"/> | accident |
-| die/Anweisung"/> | instruction |
-| die/Besprechung"/> | meeting |
-| die/Einstellung"/> | employment |
-| die/Ehre"/> | honor |
-| die/Toilette"/> | toilet |
-| die/Bewerbung"/> | application |
-| das/Geschirr"/> spülen | wash dishes |
-| das/Lebensmittel"/> | food |
+| <d type="er" text="Hocker"/> | stool |
+| <d type="er" text="Verstand"/> | reason |
+| <d type="er" text="Bewerber"/> | applicant |
+| <d type="er" text="Unfall"/> | accident |
+| <d type="ie" text="Anweisung"/> | instruction |
+| <d type="ie" text="Besprechung"/> | meeting |
+| <d type="ie" text="Einstellung"/> | employment |
+| <d type="ie" text="Ehre"/> | honor |
+| <d type="ie" text="Toilette"/> | toilet |
+| <d type="ie" text="Bewerbung"/> | application |
+| <d type="as" text="Geschirr"/> spülen | wash dishes |
+| <d type="as" text="Lebensmittel"/> | food |
 
-| das/Geschenke"/> | present |
+| <d type="as" text="Geschenke"/> | present |
 | --- | --- |
-| der/Schuh"/> | shoe |
-| der/Gürtel"/> | belt |
-| der/Pullover"/> | pullover sweater |
-| der/Sekt"/> | sparkling white wine, champagne |
-| die/Kette"/> | chain |
-| die/Uhr"/> | watch |
-| das/Hemd"/> | shirt |
-| das/Kleid"/> | dress |
+| <d type="er" text="Schuh"/> | shoe |
+| <d type="er" text="Gürtel"/> | belt |
+| <d type="er" text="Pullover"/> | pullover sweater |
+| <d type="er" text="Sekt"/> | sparkling white wine, champagne |
+| <d type="ie" text="Kette"/> | chain |
+| <d type="ie" text="Uhr"/> | watch |
+| <d type="as" text="Hemd"/> | shirt |
+| <d type="as" text="Kleid"/> | dress |
+
+| Noun | Verb |
+| ---- | ---- |
+| <d type="er" text="Drucker"/> | drucken |
+| <d type="er" text="Scanner"/> | scannen |
+| <d type="er" text="Kopierer"/> / <d type="ie" text="Kopie"/> | kopieren |
+| <d type="er" text="Klick"/> | (an)klicken |
+| <d type="er" text="Download"/> | downloaden oder herunterladen |
+| <d type="er" text="Button"/> | einen Button drücken |
 
 ### Verb
 
-| Person | Verb |
+| Person | dürfen |
 | ------ | ---- |
 | ich | darf |
 | du | darfst |
@@ -81,7 +88,7 @@ zuerst > dann/danach/später > zuletzt
 ### Präposition + Dativ
 
 - Q: Wo ist der Kalender?
-- A: Der Kalender ist auf der/dem Tisch"/> / neben das/dem Telefon"/> / an die/der Wand"/>.
+- A: Der Kalender ist auf <d type="er" text="dem Tisch"/> / neben <d type="as" text="dem Telefon"/> / an <d type="ie" text="der Wand"/>.
 
 | Präposition | preposition |
 | ----------- | ----------- |
@@ -106,39 +113,27 @@ zuerst > dann/danach/später > zuletzt
 | Was kann ich für Sie tun? | What can I do for you? |
 |  Machen Sie vorher Notizen. | Take notes beforehand. |
 
+### Helfen
 
-| der/Drucker"/> | drucken |
-| der/Scanner"/> | scannen |
-| der/Kopierer"/> / kopieren / die Kopie |
-| der Klick | (an)klicken |
-| der Download | downloaden oder herunterladen |
-| der Button | einen Button drücken |
-
-formell
+#### Formell Fragen
 
 - Entschuldigung, können Sie mir helfen?
 - Können Sie mir das (bitte) erklären?
+- Können Sie einen Moment warten?
 
-informell
+#### Informell Fragen
 
 - Hilf mir bitte!
 - Entschuldigung, kannst du mir helfen?
 - Wie geht das (denn)?
 - Kannst du mir das (bitte) erklären?
 
-Kannst du mir bitte helfen ?
-Natürlich kann ich dir helfen .
-Entschuldigung. Können Sie mir helfen ?
-Können Sie einen Moment warten ?
-Da kann ich dir leider auch nicht helfen .
-Kannst du mir das bitte erklären ?
-Ich kann Ihnen das leider nicht erklären .
+### Antworten
 
-
-wohl | krank |
-
+- Natürlich kann ich dir helfen.
+- Da kann ich dir leider auch nicht helfen.
+- Ich kann Ihnen das leider nicht erklären.
 
 ::: tip Magdalenas Tag
- 
 Magdalena hat heute viel zu tun. Zuerst spricht sie mit Kollegen. Sie ruft dann Kunden an. Danach schreibt sie E-Mails auf ihren Laptop. Sie kauft später im Supermarkt ein. Zuletzt kocht sie das Abendessen.
 :::
