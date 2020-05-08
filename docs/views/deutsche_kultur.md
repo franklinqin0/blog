@@ -14,10 +14,30 @@ sidebar: false
 
 ### Das gibt's nur einmal（仅此一回）
 
-- [video](https://www.bilibili.com/video/BV1gb411G7LX)
+- [song](https://www.bilibili.com/video/BV1gb411G7LX)
 - [English+German lyrics](https://lyricstranslate.com/en/das-gibts-nur-einmal-it-only-happens-once.html)
 
 在《起风了》这部宫崎骏“最后”的电影里，在男女主热恋时，一旁微笑地看透一切的憨憨德国大叔在餐厅里弹唱了这首歌，十分应景。一生只有一次初恋，就像春天只有一个五月。情侣恋爱时，总以为爱会海枯石烂，但最终还是会挥手说再见。在天空还未变灰之前，须尽情享受天堂的光辉！
+
+### Wie geht glücklich?（如何幸福）
+
+- [song](https://youtu.be/sovU0R5A7mk)
+- [lyrics](https://lyricstranslate.com/en/wie-geht-gl%C3%BCcklich-how-does-happy-work.html)
+
+虽然恋人间承诺„Ich liebe dich, wird für immer sein.”（我会永远爱你），但现在却„Meine Haare wurden länger, unser Schweigen auch”（我的头发更长了，我们的沉默也一样）。爱究竟是什么呢？如何才能给彼此幸福呢？曾经彻夜长谈，为何最终只剩争吵和沉默？
+
+### Ja oder Nein（是或否）
+
+- [song](https://youtu.be/_h5Itf6ORRI)
+
+在网上没找到歌词:sweat:
+
+## Kein Liebeslied（不是情歌）
+
+- [song](https://youtu.be/HpFRyCee5gE)
+- [lyrics](https://www.musixmatch.com/lyrics/Tom-Schilling-The-Jazz-Kids/Kein-Liebeslied)
+
+没找到翻译的歌词:sweat:
 
 ## Kino
 
