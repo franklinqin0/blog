@@ -11,9 +11,7 @@ Recently, I created the [algo site](https://alog.franklinqin0.me) to record algo
 
 <!-- more -->
 
-And it took me 3 days :sweat:.
-
-It may be slow in the eyes of most skilled developers, but it used to take me at least 2 or 3 weeks to push a small enhancement to production at GS. I've encountered many weird errors but also learned so much in the process!
+I've encountered many weird errors but also learned so much in the process!
 
 When I migrated my blog [from Jekyll to VuePress](about_this_blog.md#built-transformed), it also took me a few days to figure out how to use the [reco-theme][reco_theme], such as updating frontmatter w/ categories and adding a sidebar. When I created the algo site this time, reco-theme no longer applies b/c it's designed for blogs while I was creating a doc. This forced me to abandon laziness (temporarily :P) and start from scratch by following the [offical VuePress doc](https://vuepress.vuejs.org) step-by-step.
 
@@ -73,7 +71,7 @@ These are the steps to initiate Gitalk on this blog:
 2. add Gitalk according to your static site generator
    - for me, it's VuePress and I used [this plugin](https://github.com/dongyuanxin/vuepress-plugin-comment)
 3. push & debug
-   - coz I don't believe you'd succeed in one try
+   - coz it's hard to succeed in first trial
    - note that the home & callback url's are in prod, so dev server would redirect to prod url's
 
 #### Caveats

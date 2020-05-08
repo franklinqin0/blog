@@ -8,7 +8,6 @@ tags:
  - Deutsch
  - life
 sidebar: false
-publish: false
 ---
 
 ## Song
