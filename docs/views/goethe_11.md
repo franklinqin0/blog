@@ -124,7 +124,7 @@ zuerst > dann/danach/später > zuletzt
 #### Informell Fragen
 
 - Hilf mir bitte!
-- Entschuldigung, kannst du mir helfen?
+- Entschuldigung, kannst du mir (bitte) helfen?
 - Wie geht das (denn)?
 - Kannst du mir das (bitte) erklären?
 
@@ -135,5 +135,5 @@ zuerst > dann/danach/später > zuletzt
 - Ich kann Ihnen das leider nicht erklären.
 
 ::: tip Magdalenas Tag
-Magdalena hat heute viel zu tun. Zuerst spricht sie mit Kollegen. Sie ruft dann Kunden an. Danach schreibt sie E-Mails auf ihren Laptop. Sie kauft später im Supermarkt ein. Zuletzt kocht sie das Abendessen.
+Magdalena hat heute viel zu tun. **Zuerst** spricht sie mit Kollegen. Sie ruft **dann** Kunden an. **Danach** schreibt sie E-Mails auf ihren Laptop. Sie kauft später im Supermarkt ein. **Zuletzt** kocht sie das Abendessen.
 :::

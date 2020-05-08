@@ -32,7 +32,7 @@ Deutsch Notizen am 27. März.
 | <d type="as" text="Bein"/> | leg |
 | <d type="ie" text="Dame"/> | lady |
 
-### <d type="ie" text="Familie"/>
+### Familienmitglieder (members of family)
 
 - <d type="ie" text="Großeltern"/>: <d type="ie" text="Großmutter (Oma)"/>, <d type="er" text="Großvater (Opa)"/>
 - <d type="ie" text="Eltern"/>: <d type="ie" text="Mutter (Mama)"/>, <d type="er" text="Vater (Papa)"/>
@@ -98,9 +98,15 @@ Deutsch Notizen am 27. März.
 
 ### Wer / Wen / Wem
 
-- Nominativ: Wer ist das? – Mein Sohn.
-- Akkusativ: Wen triffst du heute Abend? – Einen Freund.
-- Dativ: Mit wem gehst du ins Konzert? – Mit meiner Mutter.
+- Nominativ:
+  - Q: Wer ist das?
+  - A: Mein Sohn.
+- Akkusativ:
+  - Q: Wen triffst du heute Abend?
+  - A: Einen Freund.
+- Dativ:
+  - Q: Mit wem gehst du ins Konzert?
+  - A: Mit meiner Mutter.
 
 ::: tip Meeting am Donnerstag: Absage
 Guten Tag Herr Kehlmann,

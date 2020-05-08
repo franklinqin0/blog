@@ -8,8 +8,9 @@ tags:
 prev: goethe_12
 next: goethe_14
 sidebar: false
-publish: false
 ---
+
+## Wörter
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -17,12 +18,7 @@ publish: false
 | anstrengend | strenuous |
 | meist | mostly |
 | wohin | where to |
-| windig | windy |
-| bewölkt | cloudy |
-| schneien | snow |
-| schneinen | shine |
 | leer | empty |
-| regnen | rain |
 | anprobieren | try on |
 | entscheiden | decide |
 | versprechen | promise |
@@ -35,10 +31,8 @@ publish: false
 | aufregen | excite, agitate |
 | reden | talk |
 | backen | bake |
+| wechseln | change |
 | <d type="er" text="Konditor"/> | confectioner |
-| <d type="er" text="Himmel"/> | sky |
-| <d type="er" text="Regenfall"/> | fall of rain |
-| <d type="er" text="Schein"/> | light |
 | <d type="er" text="Hinweise"/> | tip |
 | <d type="ie" text="Anseige"/> | report |
 | <d type="ie" text="Redaktion"/> | editing |
@@ -55,63 +49,16 @@ publish: false
 - reisen
 - schwimmen
 
-## Sätze
+### Modelverb sollen (should)
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| Der blaue Pullover steht mir besser. | The blue sweater suits me better. |
-| Wie viel verdient man? | How much do you earn? |
-| Sie sind in Ordnung. | It's OK. |
-| Soll ich dort arbeiten? Was meint ihr? | Should I work there? What do you all mean? |
-| Das finde ich nicht. | I don't think so. |
-| Wartest du schon lange? | Have you been waiting a long time? |
-| Wir treffen uns bald. | We will meet soon. |
-
-
-| Es schneit. | It's snowing. |
-| Die Sonne scheint. | It's sunny. |
-
-
-
-| <d type="ie" text="Ankunft"/> | arrival |
-
-| <d type="ie" text="Klimaanlage"/> | air conditioner |
-| <d type="ie" text="Heizung"/> | heating |
-
-| <d type="ie" text="Lösung"/> | solution |
-
-### Präpositionen mit Dativ / Akkusativ
-
-- mit, von, zu, seit, nach + Dativ
-- ohne, für + Akkusativ
-
-**Q:** <d type="impt" text="Mit"/> wem gehen Sie gern ins Kino?
-**A:** Ich gehe gern <d type="impt" text="mit"/> den Eltern ins Kino.
-**Q:** <d type="impt" text="Mit"/> wem gehst du gern zum Supermarkt?
-**A:** Ich gehe gern <d type="impt" text="mit"/> meinem Freund zum Supermarkt.
-
-**Q:** Wohin gehen Sie oft <d type="impt" text="mit"/> Ihrer Mutter?
-**A:** Wir gehen oft <d type="impt" text="zu"/> dem Park.
-
-**Q:** Ist das deine Tasche?
-**A:** Nein, das ist die Tasche <d type="impt" text="von"/> meine Schwester.
-
-**Q:** <d type="impt" text="Seit"/> wann kennen Sie <d type="ie" text="Ihre beste Freundin"/>/<d type="er" text="Ihren besten Freund?"/>
-**A:** Ich kenne sie/ihn <d type="impt" text="seit"/> dem Jahr 2000.
-
-**Q:** Was machen Sie manchmal <d type="impt" text="nach"/> der Arbeit?
-**A:** <d type="impt" text="Nach"/> der Arbeit spiele ich Volleyball.
-
-**Q:** Wo sind Sie gerade?
-**A:** Ich bin <d type="impt" text="bei"/> den Eltern zu Hause.
-
-::: tip ohne / mit / für
-Roberto und sein Sohn Lino leben allein. Robertos Eltern wohnen auch in der Stadt. Sie helfen ihm oft. Das ist wichtig **für** ihn. „**Ohne** die Hilfe der Eltern geht es nicht“, sagt Roberto. Oft holen Oma und Opa Lino von der Schule ab und spielen **mit** ihm. Das ist toll **für** ihren Enkel. Roberto bleibt dann länger im Büro oder trifft seine Freunde.
-
-Lukas wohnt in einer WG **mit** seiner Oma. Er hilft ihr im Alltag und kauft **für** sie ein. Die Oma kocht **für** den Enkel. „**Mit** Lukas habe ich immer sehr viel Spaß“, sagt Elfriede.
-
-„Im Dorf haben wir Ruhe, Natur und unsere Freunde", sagt Sonja. „Theater und Kneipen sind nicht so wichtig für uns. Wir können gut **ohne** sie leben. Aber der Weg zur Arbeit ist weit. Jonas muss jeden Tag **mit** dem Auto in die Stadt fahren."
-:::
+| Person | sollen |
+| ------ | ------ |
+| ich | soll |
+| du | sollst |
+| er/es/sie | soll |
+| wir | sollen |
+| ihr | sollt |
+| sie/Sie | sollen |
 
 ### Hausarbeit
 
@@ -126,32 +73,24 @@ Lukas wohnt in einer WG **mit** seiner Oma. Er hilft ihr im Alltag und kauft **f
 - kochen
 - den Tisch decken
 
-## Modelverb sollen (should)
+### Partizip (participle, 分词)
 
-| Person | sollen |
-| ------ | ------ |
-| ich | soll |
-| du | sollst |
-| er/es/sie | soll |
-| wir | sollen |
-| ihr | sollt |
-| sie/Sie | sollen |
+#### z.B.
 
-## Partizip (participle, 分词)
+- **Q:** Was hast du am Wochenende gemacht?
+- **A:** Ich hatte am Wochenende frei! Ich **bin** in die Stadt **ge**fahren und habe Christina gesehen. Dann **sind** wir ins Café **ge**gangen. Danach haben wir bei Christina Karten gespielt.
 
-**z.B.** Ich bin nach Berlin gefahren.
-
-### Regelmäßige Verben: ge- ... -(e)t
+#### Regelmäßige Verben: ge- ... -(e)t
 
 - machen $\rightarrow$ gemacht
 - lernen $\rightarrow$ gelernt
 
-### Unregelmäßige Verben: ge- ... -en
+#### Unregelmäßige Verben: ge- ... -en
 
 - fahren $\rightarrow$ gefahren
 - sehen $\rightarrow$ gesehen
 
-### Verben auf -*ieren*
+#### Verben auf -*ieren*
 
 - trainieren $\rightarrow$ trainiert
 - telefonieren $\rightarrow$ telefoniert
@@ -178,7 +117,67 @@ Lukas wohnt in einer WG **mit** seiner Oma. Er hilft ihr im Alltag und kauft **f
 | anrufen | angerufen |
 | einkaufen | eingekauft |
 | mitbringen | mitgebracht |
+| entscheiden | entschieden |
 
-| liegen | legen |
-| stehen | stellen |
-| hängen | hängen |
+#### Perfekt mit <d type="impt" text="sein"/>
+
+Perfect with **sein** for verbs with movement: gehen, fahren, kommen, reisen, schwimmen, <d type="impt" text="bleiben"/>.
+
+- Ich **bin** nach Zürich **gefahren**.
+
+## Sätze
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| Der blaue Pullover steht mir besser. | The blue sweater suits me better. |
+| Wie viel verdient man? | How much do you earn? |
+| Sie sind in Ordnung. | It's OK. |
+| Soll ich dort arbeiten? Was meint ihr? | Should I work there? What do you all mean? |
+| Das finde ich nicht. | I don't think so. |
+| Wartest du schon lange? | Have you been waiting a long time? |
+| Wir treffen uns bald. | We will meet soon. |
+
+### Präpositionen mit Dativ / Akkusativ
+
+- mit, von, zu, seit, nach + Dativ
+- ohne, für + Akkusativ
+
+| Fragen | Antworten |
+| --- | --- |
+| <d type="impt" text="Mit"/> wem gehen Sie gern ins Kino? | Ich gehe gern <d type="impt" text="mit"/> den Eltern ins Kino. |
+| <d type="impt" text="Mit"/> wem gehst du gern zum Supermarkt? | Ich gehe gern <d type="impt" text="mit"/> meinem Freund zum Supermarkt. |
+| Wohin gehen Sie oft <d type="impt" text="mit"/> Ihrer Mutter? | Wir gehen oft <d type="impt" text="zu"/> dem Park. |
+| Ist das deine Tasche? | Nein, das ist die Tasche <d type="impt" text="von"/> meine Schwester. |
+| <d type="impt" text="Seit"/> wann kennen Sie <d type="ie" text="Ihre beste Freundin"/>/<d type="er" text="Ihren besten Freund?"/> | Ich kenne sie/ihn <d type="impt" text="seit"/> dem Jahr 2000. |
+| Was machen Sie manchmal <d type="impt" text="nach"/> der Arbeit? | <d type="impt" text="Nach"/> der Arbeit spiele ich Volleyball. |
+| Wo sind Sie gerade? | Ich bin <d type="impt" text="bei"/> den Eltern zu Hause. |
+
+::: tip ohne / mit / für
+Roberto und sein Sohn Lino leben allein. Robertos Eltern wohnen auch in der Stadt. Sie helfen ihm oft. Das ist wichtig **für** ihn. „**Ohne** die Hilfe der Eltern geht es nicht“, sagt Roberto. Oft holen Oma und Opa Lino von der Schule ab und spielen **mit** ihm. Das ist toll **für** ihren Enkel. Roberto bleibt dann länger im Büro oder trifft seine Freunde.
+
+Lukas wohnt in einer WG **mit** seiner Oma. Er hilft ihr im Alltag und kauft **für** sie ein. Die Oma kocht **für** den Enkel. „**Mit** Lukas habe ich immer sehr viel Spaß“, sagt Elfriede.
+
+„Im Dorf haben wir Ruhe, Natur und unsere Freunde", sagt Sonja. „Theater und Kneipen sind nicht so wichtig für uns. Wir können gut **ohne** sie leben. Aber der Weg zur Arbeit ist weit. Jonas muss jeden Tag **mit** dem Auto in die Stadt fahren."
+:::
+
+### Wechselpräpositionen
+
+Präpositionen: an, auf, hinter, in, neben, über, unter, vor, zwischen
+
+- **Wohin**? Präposition + Akkusativ
+- **Wo**? Präposition + Dativ
+
+#### hängen
+
+- **Wohin** soll ich das Bild **hängen**? **Hängen** Sie das Bild an <d type="impt" text="die"/> <d type="ie" text="Wand"/>.
+- **Wo** ist das Bild? Das Bild **hängt** jetzt an <d type="impt" text="der"/> <d type="ie" text="Wand"/>.
+
+#### stellen vs. stehen
+
+- **Wohin** soll ich die Vase **stellen**? **Stellen** Sie die Vase bitte auf <d type="impt" text="den"/> <d type="er" text="Tisch"/>.
+- **Wo** ist die Vase? Die Vase **steht** jetzt auf <d type="impt" text="dem"/> <d type="er" text="Tisch"/>.
+
+#### legen vs. liegen
+
+- **Wohin** soll ich das Buch **legen**? **Legen** Sie das Buch bitte auf <d type="impt" text="die"/> Tisch.
+- **Wo** ist das Buch? Das Buch **liegt** jetzt auf dem Tisch.
