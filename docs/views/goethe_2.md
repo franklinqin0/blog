@@ -1,5 +1,5 @@
 ---
-title: Lernen von Goethe Institut - zwei
+title: Deutsch Lernen vom Goethe Institut - zwei
 date: 2020-03-12
 categories:
  - study
