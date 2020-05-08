@@ -18,7 +18,7 @@ I was a technology analyst working at GS in Hong Kong from July 2018 to August 2
 
 I was a voluntary teacher in CJ, Guizhou, China from September 2019 to December 2019.
 
-Now I am studying full stack technologies at home.
+Now I am learning full stack technologies at home.
 
 [This](youth) is an anecdote about starting this site and [this](about_this_blog) is about the blog.
 
