@@ -19,6 +19,12 @@ sidebar: false
 
 在《起风了》这部宫崎骏“最后”的电影里，在男女主热恋时，一旁微笑地看透一切的憨憨德国大叔在餐厅里弹唱了这首歌，十分应景。一生只有一次初恋，就像春天只有一个五月。情侣恋爱时，总以为爱会海枯石烂，但最终还是会挥手说再见。在天空还未变灰之前，须尽情享受对方眼中的光辉！
 
+### Wie Schön Du Bist
+
+- [song & lyrics](https://youtu.be/eTNKnD0RNVo)
+
+How beautiful you are! 想起了一首英文歌：[Just The Way You Are](https://youtu.be/LjhCEhWiKXk).
+
 ### Wie geht glücklich?（如何幸福）
 
 - [song](https://youtu.be/sovU0R5A7mk)
