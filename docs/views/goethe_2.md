@@ -16,8 +16,6 @@ Deutsch Notizen vom 9. bis 15. März.
 
 ## 8. März
 
-::: details
-
 ### Wörter
 
 | Deutsch | Englisch |
@@ -34,7 +32,7 @@ Deutsch Notizen vom 9. bis 15. März.
 | charmant | charming |
 | gern(e) | fond(adv.) |
 
-#### Sportarten
+### Sportarten
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -61,11 +59,8 @@ Deutsch Notizen vom 9. bis 15. März.
 | Ich höre gern Musik. | I like to listen to music. |
 | Ich spiele (nicht) gern Yoga. | I (don't) like to play yoga. |
 | Ich jogge (nicht) gern. | I (don't) like to jog. |
-:::
 
 ## 9. März
-
-::: details
 
 ### Wörter
 
@@ -91,7 +86,7 @@ Deutsch Notizen vom 9. bis 15. März.
 | nein | no |
 | jeder | every |
 
-#### Woche (Week)
+### Woche (Week)
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -103,7 +98,7 @@ Deutsch Notizen vom 9. bis 15. März.
 | Samstag | Saturday |
 | Sonntag | Sunday |
 
-#### Tageszeiten (time of day)
+### Tageszeiten (time of day)
 
 | Zeit | Uhr |
 | ---- | --- |
@@ -114,7 +109,7 @@ Deutsch Notizen vom 9. bis 15. März.
 | am Abend | circa 17 bis 0 Uhr |
 | in der Nacht | circa 0 bis 6 Uhr |
 
-#### Aktivität (activity)
+### Aktivität (activity)
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -133,8 +128,6 @@ Deutsch Notizen vom 9. bis 15. März.
 :::
 
 ## 10 & 11. März
-
-::: details
 
 ### Wörter
 
@@ -178,7 +171,7 @@ Deutsch Notizen vom 9. bis 15. März.
 | brauchen | need |
 | hinzufügen | add |
 
-#### Eine Geburtstagsfeier (a birthday party)
+### Eine Geburtstagsfeier (a birthday party)
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -189,7 +182,7 @@ Deutsch Notizen vom 9. bis 15. März.
 | <d type="as" text="Getränk"/> | beverage |
 | <d type="as" text="Essen"/> | meal |
 
-#### Verb
+### Verb
 
 | Person | kommen | beginnen | haben | fahren | machen | arbeiten |
 | ------ | ------ | -------- | ----- | ------ | ------ | -------- |
@@ -200,7 +193,7 @@ Deutsch Notizen vom 9. bis 15. März.
 | ihr 你们 | kommt | beginnt | habt | fahrt | macht | arbeitet |
 | sie 您 / Sie 他们 | kommen | beginnen | haben | fahren | machen | arbeiten |
 
-#### Zeitangabe (statement regarding time)
+### Zeitangabe (statement regarding time)
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -210,7 +203,7 @@ Deutsch Notizen vom 9. bis 15. März.
 | Wann Spielen wir Fußball? | When do you play football? |
 | Wir spielen am Montag Fußball. | We play football on Monday. |
 
-#### Hast du Zeit? / Haben Sie Zeit? (Do you have time?)
+### Hast du Zeit? / Haben Sie Zeit? (Do you have time?)
 
 Spielen wir am Wochenende zusammen Computerspiel. Hast du Zeit? (We will play computer game during weekend. Do you have time?)
 
@@ -228,11 +221,8 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | Was braucht man für eine Party? | What do you need for a party? |
 | Wir haben Zeit und kommen gern. | We have time and like to come. |
 | Ich habe nächste Woche Deutschprüfung, leider. | I have a German exam next week, unfortunately. |
-:::
 
 ## 12. März
-
-::: details
 
 ### Wörter
 
@@ -264,11 +254,8 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | Wie meinen Sie? | I beg your pardon? |
 | Ist das ein<d type="impt" text="e"/> Cola? | Is that a Cola? |
 | Nein, das ist kein<d type="impt" text="e"/> Cola. Das ist ein<d type="impt" text="e"/> heiße Schokolade. | No, it is not Cola. It is a hot chocolate. |
-:::
 
 ## 13. März
-
-::: details
 
 ### Worter
 
@@ -284,8 +271,6 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | <d type="er" text="Hunger"/> | hunger |
 | <d type="er" text="Durst"/> | thirst |
 | <d type="er" text="Teller"/> | plate |
-| <d type="as" text="Gespräch"/> | conversation |
-| <d type="as" text="Fleisch"/> | flesh |
 | <d type="ie" text="Speise"/> | dish |
 | <d type="ie" text="Anhang"/> | (email) attachment |
 | <d type="ie" text="Ahnung"/> | knowledge |
@@ -295,7 +280,8 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | <d type="ie" text="Regel"/> | rule |
 | <d type="ie" text="Zitrone"/> | lemon |
 | <d type="ie" text="Sache(n)"/> | stuff |
-| <d type="ie" text="Tagessuper"/> | Tagessuper |
+| <d type="as" text="Gespräch"/> | conversation |
+| <d type="as" text="Fleisch"/> | flesh |
 | (zu) zweit | two |
 | über | over |
 | üben | practice |
@@ -328,7 +314,7 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | bestellen | order |
 | halb | half |
 
-#### Getränk (drink)
+### Getränk (drink)
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -368,30 +354,27 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 | Guten Appetit! | Good appetite! |
 | schmeckt's | tastes good |
 
-## <d type="as" text="Gespräch"/>
+### <d type="as" text="Gespräch"/>
 
-eins
-
+::: tip eins
 Kellner: Hier bitte, die Karte. Möchten Sie schon etwas trinken?
 Frau: Für mich ein Bier bitte.
 Mann: Ein Mineralwasser mit Zitrone.
+:::
 
-zwei
-
+::: tip zwei
 K: Das Mineralwasser für Sie. Das Mineralwasser für Sie. Und zum Essen?
 F: Ich nehme das Hähnchen mit Reis und einen Salat.
 M: Ich möchte die Tagessuppe und den Grillteller.
+:::
 
-drei
-
+::: tip drei
 K: Noch ein Dessert?
 F: Nein, danke.
 M: Wir möchten dann zahlen.
 :::
 
 ## 14. März
-
-::: details
 
 ### Wörter
 
@@ -423,6 +406,8 @@ M: Wir möchten dann zahlen.
 
 #### <d type="ie" text="Speise"/>
 
+| Speise | Detail |
+| ------ | ------ |
 | <d type="ie" text="Vorspeise"/>	| der <d type="er" text="Salat"/><br>der Schinken mit Melone<br>die Gemüsesuppe |
 | <d type="ie" text="Hauptspeise"/> |	das Hähnchen mit Pommes<br>das Omelette mit Gemüse<br>der Fisch mit Reis |
 | <d type="ie" text="Nachspeise"/<d type="as" text="Dessert"/> | das Eis<br>der Apfelkuchen<br>der <d type="er" text="Obstsalat"/> |
@@ -447,18 +432,13 @@ M: Wir möchten dann zahlen.
 | Ich muss etwas essen. | I must eat sth. |
 | Ich essen etwas. | I eat sth. |
 
+| Fragen | Antworten |
+| ------ | --------- |
 | Was möchten Sie ...? | Ich bekomme/nehme/möchte/brauche bestelle (bitte) einen Apfelsaft. <br>Für mich bitte ... |
 | Guten Appetit! | Danke. |
 | Haben Sie noch einen Wunsch? | Nein, danke.<br>Ich möchte bitte bezahlen. |
 
-schau mal da ist ein Tisch frei guten Tag was möchten Sie trinken ein Bier für mich und Mineralwasser mit Zitrone da kommen die Getränke das geht ja schnell hier das Bier für Sie danke und das Mineralwasser für sie und bringen Sie uns bitte die Karte ich habe Durst die Speisekarte für mich eine Suppe und einen Grillteller guten Appetit guten Appetit danke dir auch möchten Sie noch ein Dessert für mich einen Salat und eine Suppe Entschuldigung Salat und Suppe zum Dessert wir möchten bitte einen Tiramisu und einen Espresso Tiramisu und Espresso haben Sie noch einen Wunsch nein danke jedes sehr und der Espresso danke schön
-
-Look there is a table free good day what would you like to drink a beer for me and mineral water with lemon there the drinks come quickly yes the beer for you thank you and the mineral water for you and please bring us the card I am thirsty the menu for me a soup and a grill plate good appetite good appetite thank you also would you like a dessert for me a salad and a soup sorry salad and soup for dessert we would like a tiramisu and an espresso tiramisu and espresso you have another wish no thank you very much and the espresso thank you very much.
-:::
-
 ## 15. März
-
-::: details
 
 ### Wörter
 
@@ -496,7 +476,7 @@ Look there is a table free good day what would you like to drink a beer for me a
 | euch | you |
 | aufmerksam | attentive |
 
-#### <d type="ie" text="Zahlen"/> über 100
+### <d type="ie" text="Zahlen"/> über 100
 
 | Zahl | Deutsch |
 | ---- | ------- |
@@ -521,7 +501,7 @@ Look there is a table free good day what would you like to drink a beer for me a
 | 1,000,000 | eine Million |
 | 1,350,000 | eine Million dreihundertfünfzigtausend |
 
-#### Meine Stadt
+### Meine Stadt
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -554,7 +534,7 @@ Look there is a table free good day what would you like to drink a beer for me a
 | Es ist einundzwanzig Uhr. | It's 21:00. |
 | Es ist zwölf Uhr dreißig.<hr>Es ist halb eins. | It's 12:30. |
 
-#### Berlin
+### Berlin
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -565,7 +545,7 @@ Look there is a table free good day what would you like to drink a beer for me a
 | In der O2-Arena gibt es Platz für 17.000 Menschen. | There is space for 17,000 people in the O2 arena. |
 | In Berlin gibt es rund 4650 Restaurants und über 1000 Kneipen und Bars. | In Berlin there are around 4650 restaurants and over 1000 pubs and bars. |
 
-#### Mit Ben ins Kino
+::: tip Mit Ben ins Kino
 
 Mir: Hallo Ben. Im Filmtheater spielen sie „Who Am I – Kein System ist sicher”. Es ist ein deutscher Thriller aus dem Jahr zweitausendvierzehn. Der Film spielt in Berlin und handelt von einer Hackergruppe, die global auf sich aufmerksam machen will. Ich mag den Hauptdarsteller Tom Schilling sehr. Hast du Lust?
 
@@ -582,8 +562,9 @@ Ben: Ja, Samstag ist gut. Wann beginnt der Film denn?
 Mir: Der Film kommt um Viertel nach sieben.
 
 Ben: Gut! Dann bis Samstag.
+:::
 
-#### Vorschläge (suggestion)
+### Vorschläge (suggestion)
 
 | Fragen/Vorschläge | zustimmen | ablehnen |
 | ----------------- | --------- | -------- |
@@ -591,9 +572,9 @@ Ben: Gut! Dann bis Samstag.
 | Hast du Lust?<br>Gehen wir am Samstag<br>ins Kino/ins Theater<br>/in die Kneipe/ins Café/ins Konzert? | Ja, gern. Wann (denn)?<br>Gute Idee. | Ich habe (leider) keine Zeit.<br>Ich habe keine Lust. |
 | Wann hast du Zeit? | Ich habe am Montag Zeit.<br>Am Montag. | |
 
-#### Zeitangaben (statement regarding time)
+### Zeitangaben (statement regarding time)
 
-Geschäft(business) / Institution(institution)
+#### Geschäft(business) / Institution(institution)
 
 **Q:**
 
@@ -604,7 +585,7 @@ Geschäft(business) / Institution(institution)
 
 - Von ... bis ...
 
-Film / Veranstaltung(event)
+#### Film / Veranstaltung(event)
 
 **Q:**
 

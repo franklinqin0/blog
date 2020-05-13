@@ -15,8 +15,6 @@ Deutsch Notizen vom 2. bis 8. März.
 
 ## 2. März
 
-::: details
-
 ### Wörter
 
 | Deutsch | Englisch |
@@ -57,9 +55,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | Dialog | dialogue |
 | passenden | suitable |
 
-### Sätze
-
-#### Kennenlernen/Begrüßung
+### Kennenlernen/Begrüßung
 
 |  | Frage | Antworten |
 | ------ | ----- | --------- |
@@ -70,8 +66,6 @@ Deutsch Notizen vom 2. bis 8. März.
 :::
 
 ## 3. März
-
-::: details
 
 ### Wörter
 
@@ -103,7 +97,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | zahlen | pay |
 | Zimmer | room |
 
-#### Länder und Sprachen
+### Länder und Sprachen
 
 | Land | Sprache |
 | ------ | ------------- |
@@ -120,7 +114,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | Schweden | Schwedisch |
 | Ägypten | Arabisch |
 
-#### Kommen
+### Kommen
 
 | Person | Verb |
 | ------ | ---- |
@@ -138,11 +132,8 @@ Deutsch Notizen vom 2. bis 8. März.
 | Sätze bauen | build sentences |
 | nur auf Deutsch | only for German |
 | Wie schreibt man das? | Can you spell it? |
-:::
 
 ## 4. März
-
-::: details
 
 ### Wörter
 
@@ -174,7 +165,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | aussprechen | pronounce |
 | Ihr(e) | your |
 
-#### <d type="ie" text="Zahlen"/>
+### <d type="ie" text="Zahlen"/>
 
 | Zahl | Deutsch |
 | ---- | ------- |
@@ -231,8 +222,6 @@ Deutsch Notizen vom 2. bis 8. März.
 
 ## 5. März
 
-::: details
-
 ### Wörter
 
 | Deutsch | Englisch |
@@ -262,7 +251,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | echt | really |
 | schritt | step |
 
-#### Tag
+### Tag
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -285,11 +274,8 @@ Deutsch Notizen vom 2. bis 8. März.
 | Gute Nacht. | Good night. |
 | Wie geht's?<br>Wie geht's dir?<br>Wie geht es Ihnen? | How are you? |
 | Ach, nicht so gut.<br>Gar nicht gut. | Not so good. |
-:::
 
 ## 6. März
-
-::: details
 
 ### Wörter
 
@@ -307,7 +293,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | Wirtschaft | economy |
 | Computerwissenschaft | computer science |
 
-#### Beruf(e)
+### Beruf(e)
 
 | Mann | Frau | Englisch |
 | ---- | ---- | -------- |
@@ -342,15 +328,13 @@ Deutsch Notizen vom 2. bis 8. März.
 | Wie alt bist du?<br>Wie alt sein Sie, Herr/Frau ...? | Ich bin zweiundzwanzig Jahre alt. |
 | Welche Frage können wir noch stellen? | What question can we still ask? |
 
-#### Beruf Frage & Antworten
+### Beruf Frage & Antworten
 
 | informell Frage | formell Frage | Antworten |
 | --------------- | ------------- | -------- |
 | Was bist du von Beruf?<br>Was ist dein Beruf?<br>Wo arbeitest du?<br>Was machst du (beruflich)?<br>Und was machst du? | Was sind Sie von Beruf?<br>Was ist Ihr Beruf?<br>Wo arbeiten Sie?<br>Was machen Sie (beruflich)?<br>Und was machen Sie? | Ich bin Architekt(in) (von Beruf).<br>Ich arbeite als Architekt.<br>Ich arbeite bei Siemens/BMW.<br>Ich studiere Architektur. |
-:::
 
 ## 7. März
-::: details
 
 ### Wörter
 
@@ -378,7 +362,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | einmal | once |
 | wiederholen | repeat |
 
-#### Familienstand (marital status)
+### Familienstand (marital status)
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -386,7 +370,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | verheiratet | married |
 | geschieden | divorced |
 
-#### Arbeitsplatz (workplace)
+### Arbeitsplatz (workplace)
 
 | Deutsch | Plural | Englisch |
 | ------- | ------ | -------- |
@@ -412,7 +396,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | <d type="as" text="Tuch"/> | <d type="ie" text="Tuche/Tücher"/> | cloth |
 | <d type="as" text="Taschentuch"/> | <d type="ie" text="Taschentücher"/> | hankerchief |
 
-#### <d type="ie" text="Artikel"/>
+### <d type="ie" text="Artikel"/>
 
 Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules for plural formation.)
 
@@ -420,7 +404,7 @@ Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules f
 | --- | --- | --- |
 | Computer<br>Kalendar<br>Ausweis<br>Kugelschreiber<br>Bleistift | Formular<br>Handy<br>Buch<br>Tablet | Brille<br>Maus<br>Briefmarke |
 
-#### Farbe (Color)
+### Farbe (Color)
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -435,7 +419,7 @@ Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules f
 | pink | pink |
 | orange | orange |
 
-## Sätze
+### Sätze
 
 alt:
 
@@ -455,4 +439,3 @@ neu:
 | Vielen Dank. | Thank you. |
 | Bitte ein bisschen langsamer. | A little slower, please. |
 | Können Sie die Telefonnummer bitte noch einmal wiederholen? | Can you repeat the phone number again? |
-:::

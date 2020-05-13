@@ -1,5 +1,5 @@
 ---
-title: Deutsch Lernen vom Goethe Institut - fünf
+title: Deutsch Lernen vom Goethe Institut - vier
 date: 2020-03-30
 categories:
  - study
