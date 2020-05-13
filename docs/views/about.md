@@ -16,9 +16,7 @@ I was born and grew up in mainland China till going for college in U.S. I studie
 
 I was a technology analyst working at GS in Hong Kong from July 2018 to August 2019.
 
-I was a voluntary teacher in CJ, Guizhou, China from September 2019 to December 2019.
-
-Now I am learning full stack technologies at home.
+I was a voluntary teacher in CJ, Guizhou, China from September to December 2019.
 
 [This](youth) is an anecdote about starting this site and [this](about_this_blog) is about the blog.
 
