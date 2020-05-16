@@ -11,7 +11,7 @@ module.exports = {
   theme: 'reco',
   themeConfig,
   markdown: {
-    lineNumbers: true
+    lineNumbers: false
   },
   plugins: [
     'flowchart',
