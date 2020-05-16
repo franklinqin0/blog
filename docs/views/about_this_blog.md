@@ -18,7 +18,7 @@ In recent years, less and less people bother about creating their personal websi
 
 Simpler and easier, more dazzling and arousing, pictures and funny videos. They sell.
 
-After my brother KJ told me that Chinese interact their friends through WeChat moments w/ no more than 9 pictures and a like click, I once seriously doubt the value of creating this site. But I made up my mind to continue this site after reading [this popular essay](https://vanschneider.com/a-love-letter-to-personal-websites), and I quote:
+After my brother KV told me that Chinese interact their friends through WeChat moments w/ no more than 9 pictures and a like click, I once seriously doubt the value of creating this site. But I made up my mind to continue this site after reading [this popular essay](https://vanschneider.com/a-love-letter-to-personal-websites), and I quote:
 
 > It’s a place where we can express, on our terms, who we are and what we offer.
 

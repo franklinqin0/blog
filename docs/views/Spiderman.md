@@ -2,7 +2,7 @@
 title: My Grassroot Hero Spiderman
 date: 2019-09-01
 categories:
- - film
+ - play
 tags:
  - life
 sidebar: false

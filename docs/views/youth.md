@@ -9,7 +9,11 @@ tags:
 sidebar: false
 ---
 
-The title reminds me of my favorite English song: [*Forever Young by Alphaville*](https://youtu.be/t1TcDHrkQYg).
+The title reminds me of following stuff I love:
+
+- favorite English song: [*Forever Young* by Alphaville](https://youtu.be/t1TcDHrkQYg)
+- [*Forever Young* by Bob Dylan](https://youtu.be/Frj2CLGldC4)
+- [*If* by Rudyard Kipling](https://www.poetryfoundation.org/poems/46473/if---)
 
 <!-- more -->
 

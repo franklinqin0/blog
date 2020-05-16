@@ -2,7 +2,7 @@
 title: 观《谜城》有感
 date: 2015-07-14
 categories:
- - film
+ - play
 tags:
  - life
 sidebar: false

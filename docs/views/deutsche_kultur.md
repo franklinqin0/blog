@@ -3,7 +3,7 @@ title: 德国文化
 date: 2020-05-08
 categories:
  - study
- - film
+ - play
 tags:
  - Deutsch
  - life

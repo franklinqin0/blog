@@ -2,7 +2,7 @@
 title: 《东方华尔街》
 date: 2019-09-08
 categories:
- - film
+ - play
 tags:
  - finance
  - philosophy
