@@ -20,30 +20,32 @@ A few seconds saved actually introduce more time spent trying to fix the quick b
 
 Thus, learning is not natural, cheating is; reading books is not natural, playing games is; discussing the latest advancements of human knowledge with great minds is not natural, chatting mumble jumble is. **I hope the moment we die and look back at what we have done in our lives, we do not feel we wasted our talents doing random shit, but a complacency that we have spent enough time with the right people, doing the right things, and helped bettering the world become a better place.** This may sound cliché but I mean every word. **The everlasting thing to do is to choose the right rather than the easy way.**
 
-I hope to finish this essay before I digress too much. To summarize my points, I will end with a short poem, *The Road Not Taken* by Robert Frost:
+I hope to finish this essay before I digress too much. To summarize my points, I will end with a short poem:
 
-> Two roads diverged in a yellow wood,  
-> And sorry I could not travel both  
-> And be one traveler, long I stood  
-> And looked down one as far as I could  
-> To where it bent in the undergrowth;  
-> 
-> Then took the other, as just as fair,  
-> And having perhaps the better claim,  
-> Because it was grassy and wanted wear;  
-> Though as for that the passing there  
-> Had worn them really about the same,  
-> 
-> And both that morning equally lay  
-> In leaves no step had trodden black.  
-> Oh, I kept the first for another day!  
-> Yet knowing how way leads on to way,  
-> I doubted if I should ever come back.  
-> 
-> I shall be telling this with a sigh  
-> Somewhere ages and ages hence:  
-> Two roads diverged in a wood, and I—  
-> I took the one less traveled by,  
-> And that has made all the difference.  
+::: tip <i>The Road Not Taken</i> by Robert Frost
+Two roads diverged in a yellow wood,  
+And sorry I could not travel both  
+And be one traveler, long I stood  
+And looked down one as far as I could  
+To where it bent in the undergrowth;  
+
+Then took the other, as just as fair,  
+And having perhaps the better claim,  
+Because it was grassy and wanted wear;  
+Though as for that the passing there  
+Had worn them really about the same,  
+
+And both that morning equally lay  
+In leaves no step had trodden black.  
+Oh, I kept the first for another day!  
+Yet knowing how way leads on to way,  
+I doubted if I should ever come back.  
+
+I shall be telling this with a sigh  
+Somewhere ages and ages hence:  
+Two roads diverged in a wood, and I—  
+I took the one less traveled by,  
+And that has made all the difference.  
+:::
 
 Now, my friend, out of the right but hard road travelled by few or the easy but wrong road travelled by many, which one will you take then?
