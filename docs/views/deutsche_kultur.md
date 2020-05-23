@@ -2,13 +2,16 @@
 title: 德国文化
 date: 2020-05-08
 categories:
- - study
  - play
 tags:
  - Deutsch
  - life
 sidebar: false
 ---
+
+一些十分喜爱的德国文化，包括音乐和电影。
+
+<!-- more -->
 
 ## Song
 
@@ -54,30 +57,28 @@ How beautiful you are! 想起了一首英文歌：[Just The Way You Are](https:/
 电影中有大诗人T.S. Eliot的一段话：
 
 ::: tip exploration
-We shall not cease from exploration
-And the end of all our exploring
-Will be to arrive where we started
-And know the place for the first time.
+We shall not cease from exploration  
+And the end of all our exploring  
+Will be to arrive where we started  
+And know the place for the first time.  
 :::
 
 ::: tip Suchen
-Wir lassen nie vom Suchen ab,
-und doch, am Ende allen unseren Suchens,
-sind wir am Ausgangspunkt zurück
-und werden diesen Ort zum ersten Mal erfassen.
+Wir lassen nie vom Suchen ab,  
+und doch, am Ende allen unseren Suchens,  
+sind wir am Ausgangspunkt zurück  
+und werden diesen Ort zum ersten Mal erfassen.  
 :::
 
 ::: tip 探索
-探索的重点也是探索的起点，
-让我们重新开始探索吧！
+探索的重点也是探索的起点，  
+让我们重新开始探索吧！  
 :::
 
 ### Who Am I – Kein System ist sicher（我是谁 - 没有系统是安全的）
 
-::: theorem 真相
-每个人只会看见他愿意看见的
-:::
+所谓的真相，不过是**每个人只会看见他愿意看见的东西**。
 
 Paul Graham说：黑客是艺术家。但编程艺术也只有看得懂代码的人才能体会。对普通大众而言，黑客更像是魔术师，把不可能变为可能，用代码攻克坚不可摧的系统。但如果是为一己私利就另当别论了。
 
-这种烧脑的爆米花电影像过山车一样反转反转再反转，特别喜欢！对了，顺带粉上了Tom Schilling ~~~
+特别喜欢这种像过山车一样反转反转再反转的烧脑爆米花电影！对了，顺带粉上了Tom Schilling ~~~
