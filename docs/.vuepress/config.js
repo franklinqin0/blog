@@ -52,16 +52,10 @@ module.exports = {
       }
     ],
     [
-      'vuepress-plugin-mathjax',
+      '@maginapp/vuepress-plugin-katex',
       {
-        target: 'svg',
-        macros: {
-          '*': '\\times',
-          '\\N': '\\mathbb{N}',
-          '\\Z': '\\mathbb{Z}',
-          '\\Q': '\\mathbb{Q}',
-        },
-      },
+        delimiters: 'dollars'
+      }
     ],
     [
       '@vuepress-reco/vuepress-plugin-rss',

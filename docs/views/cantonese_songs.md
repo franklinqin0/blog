@@ -7,7 +7,6 @@ tags:
  - life
 next: hk_films
 sidebar: false
-publish: false
 ---
 
 一些十分喜爱的粤语歌曲。
@@ -15,6 +14,11 @@ publish: false
 <!-- more -->
 
 ## 许冠杰
+
+## 张国荣
+
+[追](https://youtu.be/HcSE3cQH-Ic)
+[风再起时](https://youtu.be/abnkTAq9tHs)
 
 ## Beyond
 

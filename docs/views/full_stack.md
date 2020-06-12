@@ -74,14 +74,19 @@ https://github.com/addyosmani/es6-equivalents-in-es5
 
 ### MongoDB
 
-`mongoexport --db local --collection startup_log  --out local.json`
-`mongoimport --db test --collection test --file demo_news.json`
+Export/import a collection in a database:
 
-Collections
-‘Collections’ in Mongo are equivalent to tables in relational databases. They can hold multiple JSON documents.
+- `mongoexport --db local --collection startup_log  --out local.json`
+- `mongoimport --db test --collection test --file demo_news.json`
 
-Documents
-‘Documents’ are equivalent to records or rows of data in SQL. While a SQL row can reference data in other tables, Mongo documents usually combine that in a document.
+Export/import all collections in a database:
+
+- `mongodump -d <database_name> -o <directory_backup>`
+- `mongorestore -d <database_name> <directory_backup>`
+
+**Collections** in Mongo are equivalent to **tables** in relational databases. They can hold multiple JSON documents.
+
+**Documents** are equivalent to **records** or **rows** of data in SQL. While a SQL row can reference data in other tables, Mongo documents usually combine that in a document.
 
 Fields
 ‘Fields’ or attributes are similar to columns in a SQL table.

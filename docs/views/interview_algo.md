@@ -9,7 +9,7 @@ publish: false
 ---
 
 This blog features some of the most commonly used algorithms.
-<d type="er" text="haha"/>
+
 <!-- more -->
 
 Thanks to:

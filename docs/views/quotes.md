@@ -109,3 +109,24 @@ And the seventh time when she sang a song of praise, and deemed it a virtue.
 ::: right
 曹雪芹，《红楼梦》第70回
 :::
+
+---
+
+::: tip 洞仙歌·丁卯八月病中作
+
+贤愚相去，算其间能几。差以毫厘缪千里。细思量义利，舜跖之分，孳孳者，等是鸡鸣而起。
+
+味甘终易坏，岁晚还知，君子之交淡如水。一饷聚飞蚊，其响如雷，深自觉、昨非今是。羡安乐窝中泰和汤，更剧饮，无过半醺而已。
+
+::: right
+辛弃疾
+:::
+
+---
+
+::: tip Love Oneself
+To love oneself is the beginning of a lifelong romance.
+
+::: right
+Oscar Wilde
+:::
