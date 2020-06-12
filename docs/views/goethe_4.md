@@ -2,9 +2,9 @@
 title: Deutsch Lernen vom Goethe Institut - vier
 date: 2020-03-30
 categories:
- - study
+  - study
 tags:
- - Deutsch
+  - Deutsch
 prev: goethe_3
 next: deutsche_kultur
 sidebar: false
@@ -18,55 +18,55 @@ Deutsch Notizen vom 30. März bis 8. Mai.
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| fast | almost |
-| zuerst | first |
-| zuletzt | last |
-| höflich | polite |
-| offiziel | official |
-| komisch | funny |
-| sofort | immediately |
-| manchmal | sometimes |
-| hochladen | upload |
-| schenken | give |
-| recherchieren | investigate |
-| Verspätung | lateness |
-| <d type="ie" text="Pflanze"/> | plant |
-| <d type="ie" text="Tastatur"/> | keyboard |
-| <d type="ie" text="Führung"/> | guided tour |
-| <d type="er" text="Ordner"/> | file |
-| <d type="er" text="die Erwachsene | adult |
-| <d type="ie" text="Krankenschwester"/> | nurse |
-| <d type="as" text="Heimatland"/> | homeland |
+| Deutsch                                | Englisch    |
+| -------------------------------------- | ----------- |
+| fast                                   | almost      |
+| zuerst                                 | first       |
+| zuletzt                                | last        |
+| höflich                                | polite      |
+| offiziel                               | official    |
+| komisch                                | funny       |
+| sofort                                 | immediately |
+| manchmal                               | sometimes   |
+| hochladen                              | upload      |
+| schenken                               | give        |
+| recherchieren                          | investigate |
+| Verspätung                             | lateness    |
+| <d type="ie" text="Pflanze"/>          | plant       |
+| <d type="ie" text="Tastatur"/>         | keyboard    |
+| <d type="ie" text="Führung"/>          | guided tour |
+| <d type="er" text="Ordner"/>           | file        |
+| <d type="er" text="die Erwachsene"/>   | adult       |
+| <d type="ie" text="Krankenschwester"/> | nurse       |
+| <d type="as" text="Heimatland"/>       | homeland    |
 
-| <d type="er" text="Platz"/> | für |
-| ------------ | --- |
-| <d type="ie" text="Bank"/> | <d type="as" text="Geld"/> |
-| <d type="er" text="Geldautomat"/> | <d type="as" text="Geld"/> |
-| <d type="ie" text="Post"/> | <d type="ie" text="Briefmarke"/> |
-| <d type="er" text="Museumsshop"/> | <d type="ie" text="Postkarte"/>, <d type="as" text="Souvenir"/> |
+| <d type="er" text="Platz"/>                | für                                                             |
+| ------------------------------------------ | --------------------------------------------------------------- |
+| <d type="ie" text="Bank"/>                 | <d type="as" text="Geld"/>                                      |
+| <d type="er" text="Geldautomat"/>          | <d type="as" text="Geld"/>                                      |
+| <d type="ie" text="Post"/>                 | <d type="ie" text="Briefmarke"/>                                |
+| <d type="er" text="Museumsshop"/>          | <d type="ie" text="Postkarte"/>, <d type="as" text="Souvenir"/> |
 | <d type="ie" text="Touristeninformation"/> | <d type="er" text="Stadtplan"/>, <d type="er" text="Prospekt"/> |
-| <d type="ie" text="Kasse"/> | <d type="as" text="Ticket"/> |
+| <d type="ie" text="Kasse"/>                | <d type="as" text="Ticket"/>                                    |
 
 ### Sätze
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| Es macht's nicht.<br>Das macht (doch) nichts. | It doesn't matter. |
-| im Stau stehen | stuck in jam |
-| ein und einhalb Stunden | one and a half hour |
-| Darf ich Sie noch etwas fragen? | May I ask you something else? |
-| Danach ruft sie einen Kunden an.  | Then she calls a customer. |
+| Deutsch                                       | Englisch                      |
+| --------------------------------------------- | ----------------------------- |
+| Es macht's nicht.<br>Das macht (doch) nichts. | It doesn't matter.            |
+| im Stau stehen                                | stuck in jam                  |
+| ein und einhalb Stunden                       | one and a half hour           |
+| Darf ich Sie noch etwas fragen?               | May I ask you something else? |
+| Danach ruft sie einen Kunden an.              | Then she calls a customer.    |
 
 #### Verspätung
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| Ich bin impt/in"/> 20 Minuten da. | I'll be there in 20 minutes. |
-| Ich komme eine Stunde später. | I will come an hour later. |
-| Der Zug hat fünf Minuten Verspätung. | The train is five minutes late. |
-| Ich bin zehn Minuten zu spät. | I'm ten minutes late. |
+| Deutsch                                           | Englisch                        |
+| ------------------------------------------------- | ------------------------------- |
+| Ich bin <d type="impt" text="in"/> 20 Minuten da. | I'll be there in 20 minutes.    |
+| Ich komme eine Stunde später.                     | I will come an hour later.      |
+| Der Zug hat fünf Minuten Verspätung.              | The train is five minutes late. |
+| Ich bin zehn Minuten zu spät.                     | I'm ten minutes late.           |
 
 #### Informationen bitten
 
@@ -86,27 +86,27 @@ Deutsch Notizen vom 30. März bis 8. Mai.
 
 | Nominativ | Akkusativ | Dativ |
 | --------- | --------- | ----- |
-| ich | mich | mir |
-| du | dich | dir |
-| er | ihn | ihm |
-| es | es | ihm |
-| sie | sie | ihr |
-| wir | uns | uns |
-| ihr | euch | euch |
-| sie | sie | ihnen |
-| Sie | Sie | Ihnen |
+| ich       | mich      | mir   |
+| du        | dich      | dir   |
+| er        | ihn       | ihm   |
+| es        | es        | ihm   |
+| sie       | sie       | ihr   |
+| wir       | uns       | uns   |
+| ihr       | euch      | euch  |
+| sie       | sie       | ihnen |
+| Sie       | Sie       | Ihnen |
 
 #### Dativ
 
-| Verb | Satz |
-| ---- | ---- |
-| helfen | Wie kann ich Ihnen helfen? |
-| danken | Ich danke Ihnen! |
-| geben | Gibst du mir den Stadtplan? |
-| zeigen | Können Sie uns das zeigen? |
-| schenken | Ich schenke ihm das Buch. |
+| Verb      | Satz                                |
+| --------- | ----------------------------------- |
+| helfen    | Wie kann ich Ihnen helfen?          |
+| danken    | Ich danke Ihnen!                    |
+| geben     | Gibst du mir den Stadtplan?         |
+| zeigen    | Können Sie uns das zeigen?          |
+| schenken  | Ich schenke ihm das Buch.           |
 | empfehlen | Ich empfehle Ihnen den Weißen Bock. |
-| gefallen | Gefällt dir das Buch? |
+| gefallen  | Gefällt dir das Buch?               |
 
 #### Pünktlichkeit
 
@@ -118,65 +118,65 @@ Ich komme aus China. Pünktlichkeit ist in China in der Arbeit und bei offiziell
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| besonders | particularly |
-| erklären | explain |
-| bewegen | move |
-| nehmen | take |
-| schenken | give |
-| umkleiden | change clothes |
-| verbieten | forbid |
-| rauchen | smoke |
-| spülen | wash |
-| putzen | polish, clean |
-| einschalten | switch on |
-| aufhängen | hang up |
-| erstellen | build |
-| verabschieden | say goodbye to |
-| <d type="er" text="Hocker"/> | stool |
-| <d type="er" text="Verstand"/> | reason |
-| <d type="er" text="Bewerber"/> | applicant |
-| <d type="er" text="Unfall"/> | accident |
-| <d type="ie" text="Anweisung"/> | instruction |
-| <d type="ie" text="Besprechung"/> | meeting |
-| <d type="ie" text="Einstellung"/> | employment |
-| <d type="ie" text="Ehre"/> | honor |
-| <d type="ie" text="Toilette"/> | toilet |
-| <d type="ie" text="Bewerbung"/> | application |
-| <d type="as" text="Geschirr"/> spülen | wash dishes |
-| <d type="as" text="Lebensmittel"/> | food |
+| Deutsch                               | Englisch       |
+| ------------------------------------- | -------------- |
+| besonders                             | particularly   |
+| erklären                              | explain        |
+| bewegen                               | move           |
+| nehmen                                | take           |
+| schenken                              | give           |
+| umkleiden                             | change clothes |
+| verbieten                             | forbid         |
+| rauchen                               | smoke          |
+| spülen                                | wash           |
+| putzen                                | polish, clean  |
+| einschalten                           | switch on      |
+| aufhängen                             | hang up        |
+| erstellen                             | build          |
+| verabschieden                         | say goodbye to |
+| <d type="er" text="Hocker"/>          | stool          |
+| <d type="er" text="Verstand"/>        | reason         |
+| <d type="er" text="Bewerber"/>        | applicant      |
+| <d type="er" text="Unfall"/>          | accident       |
+| <d type="ie" text="Anweisung"/>       | instruction    |
+| <d type="ie" text="Besprechung"/>     | meeting        |
+| <d type="ie" text="Einstellung"/>     | employment     |
+| <d type="ie" text="Ehre"/>            | honor          |
+| <d type="ie" text="Toilette"/>        | toilet         |
+| <d type="ie" text="Bewerbung"/>       | application    |
+| <d type="as" text="Geschirr"/> spülen | wash dishes    |
+| <d type="as" text="Lebensmittel"/>    | food           |
 
-| <d type="as" text="Geschenke"/> | present |
-| --- | --- |
-| <d type="er" text="Schuh"/> | shoe |
-| <d type="er" text="Gürtel"/> | belt |
-| <d type="er" text="Pullover"/> | pullover sweater |
-| <d type="er" text="Sekt"/> | sparkling white wine, champagne |
-| <d type="ie" text="Kette"/> | chain |
-| <d type="ie" text="Uhr"/> | watch |
-| <d type="as" text="Hemd"/> | shirt |
-| <d type="as" text="Kleid"/> | dress |
+| <d type="as" text="Geschenke"/> | present                         |
+| ------------------------------- | ------------------------------- |
+| <d type="er" text="Schuh"/>     | shoe                            |
+| <d type="er" text="Gürtel"/>    | belt                            |
+| <d type="er" text="Pullover"/>  | pullover sweater                |
+| <d type="er" text="Sekt"/>      | sparkling white wine, champagne |
+| <d type="ie" text="Kette"/>     | chain                           |
+| <d type="ie" text="Uhr"/>       | watch                           |
+| <d type="as" text="Hemd"/>      | shirt                           |
+| <d type="as" text="Kleid"/>     | dress                           |
 
-| Noun | Verb |
-| ---- | ---- |
-| <d type="er" text="Drucker"/> | drucken |
-| <d type="er" text="Scanner"/> | scannen |
-| <d type="er" text="Kopierer"/> / <d type="ie" text="Kopie"/> | kopieren |
-| <d type="er" text="Klick"/> | (an)klicken |
-| <d type="er" text="Download"/> | downloaden oder herunterladen |
-| <d type="er" text="Button"/> | einen Button drücken |
+| Noun                                                         | Verb                          |
+| ------------------------------------------------------------ | ----------------------------- |
+| <d type="er" text="Drucker"/>                                | drucken                       |
+| <d type="er" text="Scanner"/>                                | scannen                       |
+| <d type="er" text="Kopierer"/> / <d type="ie" text="Kopie"/> | kopieren                      |
+| <d type="er" text="Klick"/>                                  | (an)klicken                   |
+| <d type="er" text="Download"/>                               | downloaden oder herunterladen |
+| <d type="er" text="Button"/>                                 | einen Button drücken          |
 
 #### Verb
 
-| Person | dürfen |
-| ------ | ---- |
-| ich | darf |
-| du | darfst |
-| er/es/sie | darf |
-| wir | dürfen |
-| ihr | dürft |
-| sie/Sie | dürfen |
+| Person    | dürfen |
+| --------- | ------ |
+| ich       | darf   |
+| du        | darfst |
+| er/es/sie | darf   |
+| wir       | dürfen |
+| ihr       | dürft  |
+| sie/Sie   | dürfen |
 
 #### Zeitadverbien
 
@@ -194,26 +194,26 @@ zuerst > dann/danach/später > zuletzt
 
 | Präposition | preposition |
 | ----------- | ----------- |
-| auf | on |
-| unter | under |
-| neben | beside |
-| an | at/on |
-| vor | before |
-| hinter | behind |
-| zwischen | between |
-| in | in |
-| über | above |
+| auf         | on          |
+| unter       | under       |
+| neben       | beside      |
+| an          | at/on       |
+| vor         | before      |
+| hinter      | behind      |
+| zwischen    | between     |
+| in          | in          |
+| über        | above       |
 
 ### Sätze
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| ein paar | a few |
-| Man muss hier warten. | You have to wait here. |
-| Man muss hier nicht warten. | don't have to |
-| Was ist denn los? | So what's going on? |
-| Was kann ich für Sie tun? | What can I do for you? |
-|  Machen Sie vorher Notizen. | Take notes beforehand. |
+| Deutsch                     | Englisch               |
+| --------------------------- | ---------------------- |
+| ein paar                    | a few                  |
+| Man muss hier warten.       | You have to wait here. |
+| Man muss hier nicht warten. | don't have to          |
+| Was ist denn los?           | So what's going on?    |
+| Was kann ich für Sie tun?   | What can I do for you? |
+| Machen Sie vorher Notizen.  | Take notes beforehand. |
 
 #### Helfen
 
@@ -244,21 +244,21 @@ Magdalena hat heute viel zu tun. **Zuerst** spricht sie mit Kollegen. Sie ruft *
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| stören | disturb |
-| echt | really |
-| einfach | single, easy |
-| ähnlich | similar |
-| besonderer | special |
-| draußen | outside |
-| <d type="er" text="Bescheid"/> | reply |
-| <d type="ie" text="Rückmeldung"/> | feedback |
-| <d type="ie" text="Geschichte"/> | history |
-| <d type="ie" text="Jugend"/> | youth |
-| <d type="ie" text="Schulter"/> | shoulder |
-| <d type="as" text="Bein"/> | leg |
-| <d type="ie" text="Dame"/> | lady |
+| Deutsch                           | Englisch     |
+| --------------------------------- | ------------ |
+| stören                            | disturb      |
+| echt                              | really       |
+| einfach                           | single, easy |
+| ähnlich                           | similar      |
+| besonderer                        | special      |
+| draußen                           | outside      |
+| <d type="er" text="Bescheid"/>    | reply        |
+| <d type="ie" text="Rückmeldung"/> | feedback     |
+| <d type="ie" text="Geschichte"/>  | history      |
+| <d type="ie" text="Jugend"/>      | youth        |
+| <d type="ie" text="Schulter"/>    | shoulder     |
+| <d type="as" text="Bein"/>        | leg          |
+| <d type="ie" text="Dame"/>        | lady         |
 
 #### Familienmitglieder (members of family)
 
@@ -272,12 +272,12 @@ Magdalena hat heute viel zu tun. **Zuerst** spricht sie mit Kollegen. Sie ruft *
 
 ### Sätze
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| erzählen Geschichten aus ihrer Jugend | tell stories from her youth. |
-| Ein paar Probleme haben wir schon. | We already have a few problems. |
+| Deutsch                                                                                                                   | Englisch                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| erzählen Geschichten aus ihrer Jugend                                                                                     | tell stories from her youth.                                                                                 |
+| Ein paar Probleme haben wir schon.                                                                                        | We already have a few problems.                                                                              |
 | Das Foto ist von unserer Hochzeit. Emil und ich waren erst 24 Jahre alt. Das war vor 60 Jahren, eine wirklich lange Zeit. | The photo is from our wedding. Emil and I were only 24 years old. That was a really long time, 60 years ago. |
-| Mit wem sprichst du? | Who are you talking to? |
+| Mit wem sprichst du?                                                                                                      | Who are you talking to?                                                                                      |
 
 #### Anrede
 
@@ -310,19 +310,19 @@ Magdalena hat heute viel zu tun. **Zuerst** spricht sie mit Kollegen. Sie ruft *
 
 #### Der / Das / Die
 
-|   | maskulin (Mann) | neutrum (Rezept) | feminin (Woche) | Plural (Telefonnummern) |
-| - | -------- | ------- | ------- | ------ |
+|           | maskulin (Mann)           | neutrum (Rezept)          | feminin (Woche)           | Plural (Telefonnummern)   |
+| --------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
 | Nominativ | <d type="er" text="der"/> | <d type="as" text="das"/> | <d type="ie" text="die"/> | <d type="ie" text="die"/> |
 | Akkusativ | <d type="er" text="den"/> | <d type="as" text="das"/> | <d type="ie" text="die"/> | <d type="ie" text="die"/> |
-| Dativ | <d type="er" text="dem"/> | <d type="as" text="dem"/> | <d type="ie" text="der"/> | <d type="ie" text="den"/> |
+| Dativ     | <d type="er" text="dem"/> | <d type="as" text="dem"/> | <d type="ie" text="der"/> | <d type="ie" text="den"/> |
 
 #### Demonstrativartikel
 
-|   | maskulin (Mann) | neutrum (Rezept) | feminin (Woche) | Plural (Telefonnummern) |
-| - | -------- | ------- | ------- | ------ |
-| Nominativ | <d type="er" text="dieser"/> | <d type="as" text="dieses"/> | <d type="ie" text="diese"/> | <d type="ie" text="diese"/> |
-| Akkusativ | <d type="er" text="diesen"/> | <d type="as" text="dieses"/> | <d type="ie" text="diese"/> | <d type="ie" text="diese"/> |
-| Dativ | <d type="er" text="diesem"/> | <d type="as" text="diesem"/> | <d type="ie" text="dieser"/> | <d type="ie" text="diesen"/> |
+|           | maskulin (Mann)              | neutrum (Rezept)             | feminin (Woche)              | Plural (Telefonnummern)      |
+| --------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |
+| Nominativ | <d type="er" text="dieser"/> | <d type="as" text="dieses"/> | <d type="ie" text="diese"/>  | <d type="ie" text="diese"/>  |
+| Akkusativ | <d type="er" text="diesen"/> | <d type="as" text="dieses"/> | <d type="ie" text="diese"/>  | <d type="ie" text="diese"/>  |
+| Dativ     | <d type="er" text="diesem"/> | <d type="as" text="diesem"/> | <d type="ie" text="dieser"/> | <d type="ie" text="diesen"/> |
 
 #### Wer / Wen / Wem
 
@@ -349,46 +349,46 @@ Franklin
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| regelmäßig | regular |
-| anstrengend | strenuous |
-| meist | mostly |
-| wohin | where to |
-| leer | empty |
-| anprobieren | try on |
-| entscheiden | decide |
-| versprechen | promise |
-| abfahren | depart |
-| umsteigen | change |
-| einsteigen | get on |
-| aussteigen | get off |
-| fliegen | fly |
-| verdienen | earn |
-| aufregen | excite, agitate |
-| reden | talk |
-| backen | bake |
-| wechseln | change |
-| <d type="er" text="Konditor"/> | confectioner |
-| <d type="er" text="Hinweise"/> | tip |
-| <d type="ie" text="Anseige"/> | report |
-| <d type="ie" text="Redaktion"/> | editing |
-| <d type="ie" text="Kleidung"/> | clothes |
-| <d type="ie" text="Kabine"/> | cabin |
-| <d type="as" text="Ehepaar"/> | married couple |
-| <d type="as" text="Gehalt"/> | salary |
+| Deutsch                         | Englisch        |
+| ------------------------------- | --------------- |
+| regelmäßig                      | regular         |
+| anstrengend                     | strenuous       |
+| meist                           | mostly          |
+| wohin                           | where to        |
+| leer                            | empty           |
+| anprobieren                     | try on          |
+| entscheiden                     | decide          |
+| versprechen                     | promise         |
+| abfahren                        | depart          |
+| umsteigen                       | change          |
+| einsteigen                      | get on          |
+| aussteigen                      | get off         |
+| fliegen                         | fly             |
+| verdienen                       | earn            |
+| aufregen                        | excite, agitate |
+| reden                           | talk            |
+| backen                          | bake            |
+| wechseln                        | change          |
+| <d type="er" text="Konditor"/>  | confectioner    |
+| <d type="er" text="Hinweise"/>  | tip             |
+| <d type="ie" text="Anseige"/>   | report          |
+| <d type="ie" text="Redaktion"/> | editing         |
+| <d type="ie" text="Kleidung"/>  | clothes         |
+| <d type="ie" text="Kabine"/>    | cabin           |
+| <d type="as" text="Ehepaar"/>   | married couple  |
+| <d type="as" text="Gehalt"/>    | salary          |
 
 ### Sätze
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| Der blaue Pullover steht mir besser. | The blue sweater suits me better. |
-| Wie viel verdient man? | How much do you earn? |
-| Sie sind in Ordnung. | It's OK. |
+| Deutsch                                | Englisch                                   |
+| -------------------------------------- | ------------------------------------------ |
+| Der blaue Pullover steht mir besser.   | The blue sweater suits me better.          |
+| Wie viel verdient man?                 | How much do you earn?                      |
+| Sie sind in Ordnung.                   | It's OK.                                   |
 | Soll ich dort arbeiten? Was meint ihr? | Should I work there? What do you all mean? |
-| Das finde ich nicht. | I don't think so. |
-| Wartest du schon lange? | Have you been waiting a long time? |
-| Wir treffen uns bald. | We will meet soon. |
+| Das finde ich nicht.                   | I don't think so.                          |
+| Wartest du schon lange?                | Have you been waiting a long time?         |
+| Wir treffen uns bald.                  | We will meet soon.                         |
 
 ### Verben der Bewegung
 
@@ -400,14 +400,14 @@ Franklin
 
 ### Modelverb sollen (should)
 
-| Person | sollen |
-| ------ | ------ |
-| ich | soll |
-| du | sollst |
-| er/es/sie | soll |
-| wir | sollen |
-| ihr | sollt |
-| sie/Sie | sollen |
+| Person    | sollen |
+| --------- | ------ |
+| ich       | soll   |
+| du        | sollst |
+| er/es/sie | soll   |
+| wir       | sollen |
+| ihr       | sollt  |
+| sie/Sie   | sollen |
 
 ### Hausarbeit
 
@@ -439,34 +439,34 @@ Franklin
 - fahren $\rightarrow$ gefahren
 - sehen $\rightarrow$ gesehen
 
-#### Verben auf -*ieren*
+#### Verben auf -_ieren_
 
 - trainieren $\rightarrow$ trainiert
 - telefonieren $\rightarrow$ telefoniert
 
-| Verb | Partizip |
-| ---- | -------- |
-| gehen | gegangen |
-| geben | gegeben |
-| lesen | gelesen |
-| kommen | gekommen |
-| schreiben | geschrieben |
-| essen | gegessen |
-| sehen | gesehen |
-| treffen | getroffen |
-| helfen | geholfen |
-| finden | gefunden |
-| trinken | getrunken |
-| fahren | gefahren |
-| nehmen | genommen |
+| Verb         | Partizip       |
+| ------------ | -------------- |
+| gehen        | gegangen       |
+| geben        | gegeben        |
+| lesen        | gelesen        |
+| kommen       | gekommen       |
+| schreiben    | geschrieben    |
+| essen        | gegessen       |
+| sehen        | gesehen        |
+| treffen      | getroffen      |
+| helfen       | geholfen       |
+| finden       | gefunden       |
+| trinken      | getrunken      |
+| fahren       | gefahren       |
+| nehmen       | genommen       |
 | zurückkommen | zurückgekommen |
-| abholen | abgeholt |
-| anfangen | angefangen |
-| einladen | eingeladen |
-| anrufen | angerufen |
-| einkaufen | eingekauft |
-| mitbringen | mitgebracht |
-| entscheiden | entschieden |
+| abholen      | abgeholt       |
+| anfangen     | angefangen     |
+| einladen     | eingeladen     |
+| anrufen      | angerufen      |
+| einkaufen    | eingekauft     |
+| mitbringen   | mitgebracht    |
+| entscheiden  | entschieden    |
 
 #### Perfekt mit <d type="impt" text="sein"/>
 
@@ -479,15 +479,15 @@ Perfect with **sein** for verbs with movement: gehen, fahren, kommen, reisen, sc
 - mit, von, zu, seit, nach + Dativ
 - ohne, für + Akkusativ
 
-| Fragen | Antworten |
-| --- | --- |
-| <d type="impt" text="Mit"/> wem gehen Sie gern ins Kino? | Ich gehe gern <d type="impt" text="mit"/> den Eltern ins Kino. |
-| <d type="impt" text="Mit"/> wem gehst du gern zum Supermarkt? | Ich gehe gern <d type="impt" text="mit"/> meinem Freund zum Supermarkt. |
-| Wohin gehen Sie oft <d type="impt" text="mit"/> Ihrer Mutter? | Wir gehen oft <d type="impt" text="zu"/> dem Park. |
-| Ist das deine Tasche? | Nein, das ist die Tasche <d type="impt" text="von"/> meine Schwester. |
-| <d type="impt" text="Seit"/> wann kennen Sie <d type="ie" text="Ihre beste Freundin"/>/<d type="er" text="Ihren besten Freund?"/> | Ich kenne sie/ihn <d type="impt" text="seit"/> dem Jahr 2000. |
-| Was machen Sie manchmal <d type="impt" text="nach"/> der Arbeit? | <d type="impt" text="Nach"/> der Arbeit spiele ich Volleyball. |
-| Wo sind Sie gerade? | Ich bin <d type="impt" text="bei"/> den Eltern zu Hause. |
+| Fragen                                                                                                                            | Antworten                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| <d type="impt" text="Mit"/> wem gehen Sie gern ins Kino?                                                                          | Ich gehe gern <d type="impt" text="mit"/> den Eltern ins Kino.          |
+| <d type="impt" text="Mit"/> wem gehst du gern zum Supermarkt?                                                                     | Ich gehe gern <d type="impt" text="mit"/> meinem Freund zum Supermarkt. |
+| Wohin gehen Sie oft <d type="impt" text="mit"/> Ihrer Mutter?                                                                     | Wir gehen oft <d type="impt" text="zu"/> dem Park.                      |
+| Ist das deine Tasche?                                                                                                             | Nein, das ist die Tasche <d type="impt" text="von"/> meine Schwester.   |
+| <d type="impt" text="Seit"/> wann kennen Sie <d type="ie" text="Ihre beste Freundin"/>/<d type="er" text="Ihren besten Freund?"/> | Ich kenne sie/ihn <d type="impt" text="seit"/> dem Jahr 2000.           |
+| Was machen Sie manchmal <d type="impt" text="nach"/> der Arbeit?                                                                  | <d type="impt" text="Nach"/> der Arbeit spiele ich Volleyball.          |
+| Wo sind Sie gerade?                                                                                                               | Ich bin <d type="impt" text="bei"/> den Eltern zu Hause.                |
 
 ::: tip ohne / mit / für
 Roberto und sein Sohn Lino leben allein. Robertos Eltern wohnen auch in der Stadt. Sie helfen ihm oft. Das ist wichtig **für** ihn. „**Ohne** die Hilfe der Eltern geht es nicht“, sagt Roberto. Oft holen Oma und Opa Lino von der Schule ab und spielen **mit** ihm. Das ist toll **für** ihren Enkel. Roberto bleibt dann länger im Büro oder trifft seine Freunde.
@@ -523,49 +523,49 @@ Präpositionen: an, auf, hinter, in, neben, über, unter, vor, zwischen
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| denn | because |
-| dann | then |
-| plötzlich | sudden(ly) |
-| komisch | funny |
-| leicht | light |
-| stark | strong |
-| ungefähr | approximate(ly) |
-| manchmal | sometimes |
-| links | on the left |
-| rechts | on the right |
-| geradeaus | straight |
-| unerwartet | unexpected |
-| erwarten | expect |
-| stürzen | fall |
-| versichern | insure, assert |
-| gratulieren | congratulate |
-| vergessen | forget |
-| bedeuten | mean |
-| <d type="er" text="Zug"/> | train |
-| <d type="er" text="Bereich"/> | area |
-| <d type="er" text="Körperteil"/> | part of the body |
-| <d type="er" text="Unfall"/> | accident |
-| <d type="er" text="Diebstahl"/> | theft |
-| <d type="er" text="Auftrag"/> | intruction |
-| <d type="ie" text="Fassung"/> | version |
-| <d type="ie" text="Luft"/> | air |
-| <d type="ie" text="Ankunft"/> | arrival |
-| <d type="ie" text="Klimaanlage"/> | air conditioner |
-| <d type="ie" text="Heizung"/> | heating |
-| <d type="ie" text="Lösung"/> | solution |
-| <d type="ie" text="Beschreibung"/> | description |
-| <d type="as" text="Paket"/> | package |
+| Deutsch                              | Englisch           |
+| ------------------------------------ | ------------------ |
+| denn                                 | because            |
+| dann                                 | then               |
+| plötzlich                            | sudden(ly)         |
+| komisch                              | funny              |
+| leicht                               | light              |
+| stark                                | strong             |
+| ungefähr                             | approximate(ly)    |
+| manchmal                             | sometimes          |
+| links                                | on the left        |
+| rechts                               | on the right       |
+| geradeaus                            | straight           |
+| unerwartet                           | unexpected         |
+| erwarten                             | expect             |
+| stürzen                              | fall               |
+| versichern                           | insure, assert     |
+| gratulieren                          | congratulate       |
+| vergessen                            | forget             |
+| bedeuten                             | mean               |
+| <d type="er" text="Zug"/>            | train              |
+| <d type="er" text="Bereich"/>        | area               |
+| <d type="er" text="Körperteil"/>     | part of the body   |
+| <d type="er" text="Unfall"/>         | accident           |
+| <d type="er" text="Diebstahl"/>      | theft              |
+| <d type="er" text="Auftrag"/>        | intruction         |
+| <d type="ie" text="Fassung"/>        | version            |
+| <d type="ie" text="Luft"/>           | air                |
+| <d type="ie" text="Ankunft"/>        | arrival            |
+| <d type="ie" text="Klimaanlage"/>    | air conditioner    |
+| <d type="ie" text="Heizung"/>        | heating            |
+| <d type="ie" text="Lösung"/>         | solution           |
+| <d type="ie" text="Beschreibung"/>   | description        |
+| <d type="as" text="Paket"/>          | package            |
 | <d type="as" text="Verkehrsmittel"/> | means of transport |
 
 ### Sätze
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| Dann ruh dich aus! | Then rest! |
-| Gute Besserung! | Get well! |
-| im Moment | at the moment |
+| Deutsch                                                                      | Englisch                                                              |
+| ---------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Dann ruh dich aus!                                                           | Then rest!                                                            |
+| Gute Besserung!                                                              | Get well!                                                             |
+| im Moment                                                                    | at the moment                                                         |
 | Mir hat die Lernplattform (nicht) gefallen, denn ich habe dort viel gelernt. | I (did not) like the learning platform because I learned a lot there. |
 
 ### Wohin: Präposition + Akkkusativ
@@ -579,36 +579,36 @@ Wohin fahren Timo und Julia? Sie haben sich entschieden, nach München zu fahren
 
 ### Die Körperteile
 
-| <d type="er" text="Körperteil"/> | part of body |
-| --- | --- |
-| <d type="er" text="Kopf"/> | head |
-| <d type="er" text="Mund"/> | mouth |
-| <d type="er" text="Hals"/> | neck |
-| <d type="er" text="Rücken"/> | back |
-| <d type="er" text="Bauch"/> | belly, stomach |
-| <d type="er" text="Arm"/> | arm |
-| <d type="er" text="Fuß"/> | foot |
-| <d type="as" text="Auge"/> | eye |
-| <d type="ie" text="Nase"/> | nose |
-| <d type="ie" text="Schulter"/> | shoulder |
-| <d type="ie" text="Brust"/> | chest |
-| <d type="ie" text="Hand"/> | hand |
-| <d type="as" text="Ohr"/> | ear |
-| <d type="as" text="Bein"/> | leg |
+| <d type="er" text="Körperteil"/> | part of body   |
+| -------------------------------- | -------------- |
+| <d type="er" text="Kopf"/>       | head           |
+| <d type="er" text="Mund"/>       | mouth          |
+| <d type="er" text="Hals"/>       | neck           |
+| <d type="er" text="Rücken"/>     | back           |
+| <d type="er" text="Bauch"/>      | belly, stomach |
+| <d type="er" text="Arm"/>        | arm            |
+| <d type="er" text="Fuß"/>        | foot           |
+| <d type="as" text="Auge"/>       | eye            |
+| <d type="ie" text="Nase"/>       | nose           |
+| <d type="ie" text="Schulter"/>   | shoulder       |
+| <d type="ie" text="Brust"/>      | chest          |
+| <d type="ie" text="Hand"/>       | hand           |
+| <d type="as" text="Ohr"/>        | ear            |
+| <d type="as" text="Bein"/>       | leg            |
 
 ### Schmerzen Beschreiben
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| schmerzen | hurt |
-| erzählen | tell |
-| schlimm | serious |
-| atmen | respire |
-| <d type="er" text="Husten"/> | cough |
-| <d type="er" text="Schnupfen"/> / <d type="ie" text="Erkältung"/> | cold |
-| <d type="ie" text="Besserung"/> | recovery |
-| <d type="ie" text="Reservierung"/> | reservation |
-| <d type="as" text="Fieber"/> | fever |
+| Deutsch                                                           | Englisch    |
+| ----------------------------------------------------------------- | ----------- |
+| schmerzen                                                         | hurt        |
+| erzählen                                                          | tell        |
+| schlimm                                                           | serious     |
+| atmen                                                             | respire     |
+| <d type="er" text="Husten"/>                                      | cough       |
+| <d type="er" text="Schnupfen"/> / <d type="ie" text="Erkältung"/> | cold        |
+| <d type="ie" text="Besserung"/>                                   | recovery    |
+| <d type="ie" text="Reservierung"/>                                | reservation |
+| <d type="as" text="Fieber"/>                                      | fever       |
 
 - Ich habe keine/leichte/starke Schmerzen.
 - Was fehlt Ihnen? $\rightarrow$ Der/Mein Arm tut weh.
@@ -631,15 +631,15 @@ Wohin fahren Timo und Julia? Sie haben sich entschieden, nach München zu fahren
 
 ### Wetter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| windig | windy |
-| bewölkt | cloudy |
-| schneien | snow |
-| schneinen | shine |
-| regnen | rain |
-| <d type="er" text="Himmel"/> | sky |
-| <d type="er" text="Regenfall"/> | fall of rain |
-| <d type="er" text="Schein"/> | light |
-| Es schneit. | It's snowing. |
-| Die Sonne scheint. | It's sunny. |
+| Deutsch                         | Englisch      |
+| ------------------------------- | ------------- |
+| windig                          | windy         |
+| bewölkt                         | cloudy        |
+| schneien                        | snow          |
+| schneinen                       | shine         |
+| regnen                          | rain          |
+| <d type="er" text="Himmel"/>    | sky           |
+| <d type="er" text="Regenfall"/> | fall of rain  |
+| <d type="er" text="Schein"/>    | light         |
+| Es schneit.                     | It's snowing. |
+| Die Sonne scheint.              | It's sunny.   |

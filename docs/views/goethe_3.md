@@ -2,9 +2,9 @@
 title: Deutsch Lernen vom Goethe Institut - drei
 date: 2020-03-16
 categories:
- - study
+  - study
 tags:
- - Deutsch
+  - Deutsch
 prev: goethe_2
 next: goethe_4
 sidebar: false
@@ -18,137 +18,137 @@ Deutsch Notizen vom 16. bis 27. März.
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| <d type="er" text="Verkäufer"/>/<d type="ie" text="Verkäuferin"/> | vendor |
-| <d type="er" text="Kunde"/>/<d type="ie" text="Kundin"/> | customer |
-| <d type="er" text="Kühlschrank"/> | fridge |
-| <d type="er" text="Markt"/> | market |
-| <d type="er" text="Mengenangabe(n)"/> | measure word 量词 |
-| <d type="er" text="Zettel"/> | piece of paper |
-| <d type="er" text="Einkaufszettel"/> | shopping list |
-| <d type="ie" text="Bäckerei"/> | backery |
-| <d type="ie" text="Metzgerei"/> | butcher's (shop) |
-| <d type="ie" text="Tüte"/> | bag |
-| <d type="as" text="Lebensmittel"/> | food |
-| selten | rare(ly) |
-| gerade | now |
-| nur | only |
-| schneiden | cut |
-| auffordern | request, invite |
-| lecker | delicious |
-| satt | full 饱 |
-| setzen | sit |
-| beider | both |
-| sonst | else, otherwise |
-| Lieblings- | favorite |
-| Lieblingsessen | favorite food |
-| Lieblingsgetränk | favorite drink |
-| Lieblingsobst | favorite fruit |
+| Deutsch                                                           | Englisch          |
+| ----------------------------------------------------------------- | ----------------- |
+| <d type="er" text="Verkäufer"/>/<d type="ie" text="Verkäuferin"/> | vendor            |
+| <d type="er" text="Kunde"/>/<d type="ie" text="Kundin"/>          | customer          |
+| <d type="er" text="Kühlschrank"/>                                 | fridge            |
+| <d type="er" text="Markt"/>                                       | market            |
+| <d type="er" text="Mengenangabe(n)"/>                             | measure word 量词 |
+| <d type="er" text="Zettel"/>                                      | piece of paper    |
+| <d type="er" text="Einkaufszettel"/>                              | shopping list     |
+| <d type="ie" text="Bäckerei"/>                                    | backery           |
+| <d type="ie" text="Metzgerei"/>                                   | butcher's (shop)  |
+| <d type="ie" text="Tüte"/>                                        | bag               |
+| <d type="as" text="Lebensmittel"/>                                | food              |
+| selten                                                            | rare(ly)          |
+| gerade                                                            | now               |
+| nur                                                               | only              |
+| schneiden                                                         | cut               |
+| auffordern                                                        | request, invite   |
+| lecker                                                            | delicious         |
+| satt                                                              | full 饱           |
+| setzen                                                            | sit               |
+| beider                                                            | both              |
+| sonst                                                             | else, otherwise   |
+| Lieblings-                                                        | favorite          |
+| Lieblingsessen                                                    | favorite food     |
+| Lieblingsgetränk                                                  | favorite drink    |
+| Lieblingsobst                                                     | favorite fruit    |
 
 - **Q:** Was ist dein Lieblingsessen/Lieblingsgetränk/Lieblingsobst?
 - **A:** Mein Lieblingsessen/Lieblingsgetränk/Lieblingsobst ist ...
 
 #### Obst und Gemüse
 
-| Obst | fruit |
-| ------- | -------- |
-| <d type="er" text="Apfel"/> | apple |
-| <d type="ie" text="Birne"/> | pear |
-| <d type="ie" text="Orange"/> | orange |
-| <d type="ie" text="Kiwi"/> | kiwi |
-| <d type="ie" text="Banane"/>(n) | banana |
-| <d type="ie" text="Ananas"/> | pineapple |
-| <d type="ie" text="Erdbeere"/> | strawberry |
+| Obst                            | fruit      |
+| ------------------------------- | ---------- |
+| <d type="er" text="Apfel"/>     | apple      |
+| <d type="ie" text="Birne"/>     | pear       |
+| <d type="ie" text="Orange"/>    | orange     |
+| <d type="ie" text="Kiwi"/>      | kiwi       |
+| <d type="ie" text="Banane"/>(n) | banana     |
+| <d type="ie" text="Ananas"/>    | pineapple  |
+| <d type="ie" text="Erdbeere"/>  | strawberry |
 
-| Gemüse | vegetable |
-| ------ | -------- |
-| <d type="er" text="Pilz"/>(e) | mushroom |
-| <d type="er" text="Knoblauch"/> | garlic |
-| <d type="ie" text="Zwiebel"/> | onion |
-| <d type="ie" text="Kartoffel"/> | potato |
-| <d type="ie" text="Gurke"/> | cucumber |
-| <d type="ie" text="Paprika"/> | pepper |
-| <d type="ie" text="Tomate"/> | tomato |
+| Gemüse                          | vegetable |
+| ------------------------------- | --------- |
+| <d type="er" text="Pilz"/>(e)   | mushroom  |
+| <d type="er" text="Knoblauch"/> | garlic    |
+| <d type="ie" text="Zwiebel"/>   | onion     |
+| <d type="ie" text="Kartoffel"/> | potato    |
+| <d type="ie" text="Gurke"/>     | cucumber  |
+| <d type="ie" text="Paprika"/>   | pepper    |
+| <d type="ie" text="Tomate"/>    | tomato    |
 
 #### Lebensmittel (food)
 
-| Lebensmittel | food |
-| ------------ | ---- |
-| <d type="er" text="Käse"/> (nur Sg.) | cheese |
-| <d type="er" text="Reis"/> | rice |
-| <d type="er" text="Fisch"/> | fish |
-| <d type="er" text="Zucker"/> | sugar |
-| <d type="er" text="Honig"/> | honey |
-| <d type="er" text="Schinken"/> | ham |
-| <d type="ie" text="Wurst"/> | sausage |
-| <d type="ie" text="Nudel(n)"/> | noodle(s) |
-| <d type="ie" text="Milch"/> (nur Sg.) | milk |
-| <d type="ie" text="Marmelade"/> | marmalade |
-| <d type="as" text="Fleisch"/> | flesh |
-| <d type="as" text="Mehl"/> | flour |
-| <d type="as" text="Brot"/> | bread |
-| <d type="as" text="Brötchen"/> | small bread |
-| <d type="as" text="Vollkornbrot"/> | wholewheat bread |
-| <d type="as" text="Öl"/>(e) | oil |
-| <d type="as" text="Ei"/>(er) | egg |
+| Lebensmittel                          | food             |
+| ------------------------------------- | ---------------- |
+| <d type="er" text="Käse"/> (nur Sg.)  | cheese           |
+| <d type="er" text="Reis"/>            | rice             |
+| <d type="er" text="Fisch"/>           | fish             |
+| <d type="er" text="Zucker"/>          | sugar            |
+| <d type="er" text="Honig"/>           | honey            |
+| <d type="er" text="Schinken"/>        | ham              |
+| <d type="ie" text="Wurst"/>           | sausage          |
+| <d type="ie" text="Nudel(n)"/>        | noodle(s)        |
+| <d type="ie" text="Milch"/> (nur Sg.) | milk             |
+| <d type="ie" text="Marmelade"/>       | marmalade        |
+| <d type="as" text="Fleisch"/>         | flesh            |
+| <d type="as" text="Mehl"/>            | flour            |
+| <d type="as" text="Brot"/>            | bread            |
+| <d type="as" text="Brötchen"/>        | small bread      |
+| <d type="as" text="Vollkornbrot"/>    | wholewheat bread |
+| <d type="as" text="Öl"/>(e)           | oil              |
+| <d type="as" text="Ei"/>(er)          | egg              |
 
 #### Verb
 
 - mögen: like
 - möchten: want/would like
 
-| Person | mögen | möchten | essen | geben | nehmen |
-| ------ | ----- | ------- | ----- | ----- | ------ |
-| ich | <d type="impt" text="mag"/> | möchte | esse | gebe | nehme |
-| du | m<d type="impt" text="a"/>gst | möchtest | <d type="impt" text="i"/>sst | g<d type="impt" text="i"/>bst | n<d type="impt" text="imm"/>st |
-| er/sie/es | <d type="impt" text="mag"/> | möchte | <d type="impt" text="i"/>sst | g<d type="impt" text="i"/>bt | n<d type="impt" text="imm"/>t |
-| wir | mögen | möchten | essen | geben | nehmen |
-| ihr | mögt | möchtet | esst | gebt | nehmt |
-| sie/Sie | mögen | möchten | essen | geben | nehmen |
+| Person    | mögen                         | möchten  | essen                        | geben                         | nehmen                         |
+| --------- | ----------------------------- | -------- | ---------------------------- | ----------------------------- | ------------------------------ |
+| ich       | <d type="impt" text="mag"/>   | möchte   | esse                         | gebe                          | nehme                          |
+| du        | m<d type="impt" text="a"/>gst | möchtest | <d type="impt" text="i"/>sst | g<d type="impt" text="i"/>bst | n<d type="impt" text="imm"/>st |
+| er/sie/es | <d type="impt" text="mag"/>   | möchte   | <d type="impt" text="i"/>sst | g<d type="impt" text="i"/>bt  | n<d type="impt" text="imm"/>t  |
+| wir       | mögen                         | möchten  | essen                        | geben                         | nehmen                         |
+| ihr       | mögt                          | möchtet  | esst                         | gebt                          | nehmt                          |
+| sie/Sie   | mögen                         | möchten  | essen                        | geben                         | nehmen                         |
 
 #### <d type="ie" text="Mengenangaben"/>
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| <d type="er" text="Liter"/> | liter |
-| <d type="er" text="Karton"/> | carton |
-| <d type="er" text="Becher"/> | cup 开口杯 |
-| <d type="ie" text="Dose"/> | bowl 铝皮罐头|
-| <d type="ie" text="Tafel"/> | slate |
-| <d type="ie" text="Flasche"/> | bottle |
-| <d type="ie" text="Packung"/> | packet |
-| <d type="as" text="Gramm"/> | gram |
-| <d type="as" text="Kilo"/> | kilo(gram) |
-| <d type="as" text="Glas"/> | glass |
-| <d type="as" text="Pfund"/> | pound(=500 grams) |
+| Deutsch                       | Englisch          |
+| ----------------------------- | ----------------- |
+| <d type="er" text="Liter"/>   | liter             |
+| <d type="er" text="Karton"/>  | carton            |
+| <d type="er" text="Becher"/>  | cup 开口杯        |
+| <d type="ie" text="Dose"/>    | bowl 铝皮罐头     |
+| <d type="ie" text="Tafel"/>   | slate             |
+| <d type="ie" text="Flasche"/> | bottle            |
+| <d type="ie" text="Packung"/> | packet            |
+| <d type="as" text="Gramm"/>   | gram              |
+| <d type="as" text="Kilo"/>    | kilo(gram)        |
+| <d type="as" text="Glas"/>    | glass             |
+| <d type="as" text="Pfund"/>   | pound(=500 grams) |
 
 #### Imperativ
 
-| Verb | du | ihr |
-| ---- | -- | --- |
-| essen | iss | esst |
-| bringst | bring | bringt |
-| fahren | fahr | fahrt |
+| Verb      | du      | ihr       |
+| --------- | ------- | --------- |
+| essen     | iss     | esst      |
+| bringst   | bring   | bringt    |
+| fahren    | fahr    | fahrt     |
 | schneiden | schneid | schneidet |
-| waschen | wasch | wascht |
-| kaufen | kauf | kauft |
+| waschen   | wasch   | wascht    |
+| kaufen    | kauf    | kauft     |
 
 ### Sätze
 
-| Deutsch | Englisch |
-| ------ | -------- |
-| Machen wir lieber einen Obstsalat. | We'd rather have a fruit salad. |
+| Deutsch                                  | Englisch                              |
+| ---------------------------------------- | ------------------------------------- |
+| Machen wir lieber einen Obstsalat.       | We'd rather have a fruit salad.       |
 | Gehen wir auf den Markt und kaufen Obst? | Do we go to the market and buy fruit? |
-| Was ist auf dem Tisch? | What is on the table? |
-| Was darf's sein? | What'll it be? |
-| Soll ich das Brot schneiden? | Should I cut the bread? |
+| Was ist auf dem Tisch?                   | What is on the table?                 |
+| Was darf's sein?                         | What'll it be?                        |
+| Soll ich das Brot schneiden?             | Should I cut the bread?               |
 
 #### Pardon
 
-| Deutsch | Englisch |
-| ------ | -------- |
-| Entschuldigung! Wie bitte? | Sorry, pardon? |
+| Deutsch                       | Englisch             |
+| ----------------------------- | -------------------- |
+| Entschuldigung! Wie bitte?    | Sorry, pardon?       |
 | Sprechen Sie bitte langsamer! | Please speak slower! |
 
 #### beim Einkaufen (shopping)
@@ -172,10 +172,10 @@ Deutsch Notizen vom 16. bis 27. März.
 
 **Q:**
 
-- **Was** *kostet* ein Kilo Käse?
-- **Was** *kosten* 100 Gramm Käse?
-- **Wie viel** *kostet* ein Kilo Käse?
-- **Wie viel** *kosten* 100 Gramm Käse?
+- **Was** _kostet_ ein Kilo Käse?
+- **Was** _kosten_ 100 Gramm Käse?
+- **Wie viel** _kostet_ ein Kilo Käse?
+- **Wie viel** _kosten_ 100 Gramm Käse?
 
 **A:**
 
@@ -206,73 +206,73 @@ Kürzen du/ihr.
 
 #### Schmecken
 
-| Ja | Nein |
-| -- | ---- |
+| Ja                                                     | Nein                                                |
+| ------------------------------------------------------ | --------------------------------------------------- |
 | Es ist sehr gut!<br>Es schmeckt super!<br>Sehr lecker! | Nein, es ist nicht gut.<br>Nein, es schmeckt nicht. |
 
 ## 18. März
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| nie | never |
-| oft | often |
-| immer | always |
-| jeweils | each |
-| ganz | whole |
-| müde | tired, sleepy |
-| verboten | forbidden |
-| treffen | hit, meet |
-| verschiedene | different |
-| wollen | want |
-| können | be able to |
-| müssen | must |
-| wichtig | important |
-| klingeln | ring |
-| spazieren | stroll |
-| besuchen | visit |
-| reisen | travel |
-| bauen | build |
-| unterrichten | teach, inform |
-| aufstehen | get up |
-| fernsehen | watch TV |
-| organisieren | organize |
-| <d type="er" text="Termin"/> | date, appointment |
-| <d type="er" text="Felsen"/> | cliff |
-| <d type="er" text="Ausflug"/> | outing |
-| <d type="er" text="Krankenpfleger"/> | nurse |
-| <d type="er" text="Spaß"/> | fun |
-| <d type="er" text="Ort"/> | place |
-| <d type="er" text="Kollegen"/> | colleague |
-| <d type="ie" text="Ruhe"/> | rest, silence |
-| <d type="as" text="Gespräch"/> | conversation |
-| <d type="as" text="Krankenhaus"/> | hospital |
-| <d type="as" text="Frühstück"/> | breakfast |
-| <d type="as" text="Meer"/> | sea |
+| Deutsch                              | Englisch          |
+| ------------------------------------ | ----------------- |
+| nie                                  | never             |
+| oft                                  | often             |
+| immer                                | always            |
+| jeweils                              | each              |
+| ganz                                 | whole             |
+| müde                                 | tired, sleepy     |
+| verboten                             | forbidden         |
+| treffen                              | hit, meet         |
+| verschiedene                         | different         |
+| wollen                               | want              |
+| können                               | be able to        |
+| müssen                               | must              |
+| wichtig                              | important         |
+| klingeln                             | ring              |
+| spazieren                            | stroll            |
+| besuchen                             | visit             |
+| reisen                               | travel            |
+| bauen                                | build             |
+| unterrichten                         | teach, inform     |
+| aufstehen                            | get up            |
+| fernsehen                            | watch TV          |
+| organisieren                         | organize          |
+| <d type="er" text="Termin"/>         | date, appointment |
+| <d type="er" text="Felsen"/>         | cliff             |
+| <d type="er" text="Ausflug"/>        | outing            |
+| <d type="er" text="Krankenpfleger"/> | nurse             |
+| <d type="er" text="Spaß"/>           | fun               |
+| <d type="er" text="Ort"/>            | place             |
+| <d type="er" text="Kollegen"/>       | colleague         |
+| <d type="ie" text="Ruhe"/>           | rest, silence     |
+| <d type="as" text="Gespräch"/>       | conversation      |
+| <d type="as" text="Krankenhaus"/>    | hospital          |
+| <d type="as" text="Frühstück"/>      | breakfast         |
+| <d type="as" text="Meer"/>           | sea               |
 
 #### Verb
 
-| wollen | können | müssen |
-| ------ | ------ | ------ |
-| ich | w<d type="impt" text="i"/>ll | k<d type="impt" text="a"/>nn | m<d type="impt" text="u"/>ss |
-| du | w<d type="impt" text="i"/>llst | k<d type="impt" text="a"/>nnst | m<d type="impt" text="u"/>sst |
-| er/sie/es | w<d type="impt" text="i"/>ll | k<d type="impt" text="a"/>nn | m<d type="impt" text="u"/>ss |
-| wir | wollen | können | müssen |
-| ihr | wollt | könnt | müsst |
-| sie/Sie | wollen | können | müssen |
+| wollen    | können                         | müssen                         |
+| --------- | ------------------------------ | ------------------------------ |
+| ich       | w<d type="impt" text="i"/>ll   | k<d type="impt" text="a"/>nn   | m<d type="impt" text="u"/>ss |
+| du        | w<d type="impt" text="i"/>llst | k<d type="impt" text="a"/>nnst | m<d type="impt" text="u"/>sst |
+| er/sie/es | w<d type="impt" text="i"/>ll   | k<d type="impt" text="a"/>nn   | m<d type="impt" text="u"/>ss |
+| wir       | wollen                         | können                         | müssen |
+| ihr       | wollt                          | könnt                          | müsst |
+| sie/Sie   | wollen                         | können                         | müssen |
 
 #### <d type="er" text="Urlaub"/>
 
-| <d type="ie" text="Aktivität"/> | Activity |
-| --- | --- |
-| zur Schule gehen | go to school |
-| ans Meer fahren | go to the sea |
-| einen Ausflug machen | take a trip |
-| Freunde treffen können | can meet friends |
-| surfen lernen | learn to surf |
-| lange schlafen | sleep late |
-| nicht arbeiten müssen | don't have to work |
+| <d type="ie" text="Aktivität"/> | Activity           |
+| ------------------------------- | ------------------ |
+| zur Schule gehen                | go to school       |
+| ans Meer fahren                 | go to the sea      |
+| einen Ausflug machen            | take a trip        |
+| Freunde treffen können          | can meet friends   |
+| surfen lernen                   | learn to surf      |
+| lange schlafen                  | sleep late         |
+| nicht arbeiten müssen           | don't have to work |
 
 ### Sätze
 
@@ -335,54 +335,54 @@ Heike Weber arbeitet bei Siemens in Erlangen. Sie ist dort Sekretärin. Heike sc
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| dort | there |
-| dabei | with it, at the time |
-| trennbar | separate |
-| klassisch | classical |
-| sicher | certainly |
-| langweilig | boring |
-| wunderbar | wonderful |
-| freuen | be happy |
-| kennen | know |
-| wissen | know |
-| besprechen | discuss |
-| schauen | look |
-| warten | wait |
-| denken | think |
-| bereiten | prepare |
-| verkürzen | shorten |
-| unseren | our |
-| früh | early |
-| benötigten | require |
-| <d type="er" text="Zahnarzt"/> | dentist |
-| <d type="er" text="Monat"/> | month |
-| <d type="er" text="Friseur"/>(in) | hairdresser |
-| <d type="er" text="Nachbar"/>(in) | neighbour |
-| <d type="er" text="Traum"/> | dream |
-| <d type="ie" text="Bühne"/> | stage, theatre |
-| <d type="ie" text="Torte"/> | cake |
-| <d type="ie" text="Veranstaltung"/> | event |
-| <d type="ie" text="Schwester"/> | sister |
-| <d type="as" text="Gefängnis"/> | prison |
+| Deutsch                             | Englisch             |
+| ----------------------------------- | -------------------- |
+| dort                                | there                |
+| dabei                               | with it, at the time |
+| trennbar                            | separate             |
+| klassisch                           | classical            |
+| sicher                              | certainly            |
+| langweilig                          | boring               |
+| wunderbar                           | wonderful            |
+| freuen                              | be happy             |
+| kennen                              | know                 |
+| wissen                              | know                 |
+| besprechen                          | discuss              |
+| schauen                             | look                 |
+| warten                              | wait                 |
+| denken                              | think                |
+| bereiten                            | prepare              |
+| verkürzen                           | shorten              |
+| unseren                             | our                  |
+| früh                                | early                |
+| benötigten                          | require              |
+| <d type="er" text="Zahnarzt"/>      | dentist              |
+| <d type="er" text="Monat"/>         | month                |
+| <d type="er" text="Friseur"/>(in)   | hairdresser          |
+| <d type="er" text="Nachbar"/>(in)   | neighbour            |
+| <d type="er" text="Traum"/>         | dream                |
+| <d type="ie" text="Bühne"/>         | stage, theatre       |
+| <d type="ie" text="Torte"/>         | cake                 |
+| <d type="ie" text="Veranstaltung"/> | event                |
+| <d type="ie" text="Schwester"/>     | sister               |
+| <d type="as" text="Gefängnis"/>     | prison               |
 
 #### Trennbare Verben （前缀介词 + 动词）
 
-| Verb | Englisch | Trennbar Verb | Englisch |
-| ---- | -------- | ------------- | -------- |
-| räumen | clean | aufräumen | clean up |
-| schreibe | write | aufschreiben | write down |
-| laden | charge, load | einladen | invite |
-| kauf | buy | einkaufen | buy |
-| schalten | switch | einschalten | swtich on |
-| fangen | start | anfangen | start on |
-| sehen | see | ansehen | look at |
-| rufen | call/shout | anrufen | call/shout to |
-| probieren | try | anprobieren | try on |
-| bringen | bring | mitbringen | bring w/ |
-| holen | fetch | abholen | pick up |
-| bereiten | prepare | vorbereiten | prepare for |
+| Verb      | Englisch     | Trennbar Verb | Englisch      |
+| --------- | ------------ | ------------- | ------------- |
+| räumen    | clean        | aufräumen     | clean up      |
+| schreibe  | write        | aufschreiben  | write down    |
+| laden     | charge, load | einladen      | invite        |
+| kauf      | buy          | einkaufen     | buy           |
+| schalten  | switch       | einschalten   | swtich on     |
+| fangen    | start        | anfangen      | start on      |
+| sehen     | see          | ansehen       | look at       |
+| rufen     | call/shout   | anrufen       | call/shout to |
+| probieren | try          | anprobieren   | try on        |
+| bringen   | bring        | mitbringen    | bring w/      |
+| holen     | fetch        | abholen       | pick up       |
+| bereiten  | prepare      | vorbereiten   | prepare for   |
 
 #### <d type="ie" text="Jahreszeit"/> (season)
 
@@ -395,44 +395,44 @@ Heike Weber arbeitet bei Siemens in Erlangen. Sie ist dort Sekretärin. Heike sc
 
 #### Die zwölf Monate
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| Januar | January |
-| Februar | February |
-| März | March |
-| April | April |
-| Mai | May |
-| Juni | June |
-| Juli | July |
-| August | August |
+| Deutsch   | Englisch  |
+| --------- | --------- |
+| Januar    | January   |
+| Februar   | February  |
+| März      | March     |
+| April     | April     |
+| Mai       | May       |
+| Juni      | June      |
+| Juli      | July      |
+| August    | August    |
 | September | September |
-| Oktober | October |
-| November | November |
-| Dezember | December |
+| Oktober   | October   |
+| November  | November  |
+| Dezember  | December  |
 
 #### Die <d type="ie" text="Personalpronomen"/>
 
 | Akkusativ | Nominativ |
 | --------- | --------- |
-| mich | ich |
-| dich | du |
-| ihn | er |
-| es | es |
-| sie | sie |
-| uns | wir |
-| euch | ihr |
-| sie/Sie | sie/Sie |
+| mich      | ich       |
+| dich      | du        |
+| ihn       | er        |
+| es        | es        |
+| sie       | sie       |
+| uns       | wir       |
+| euch      | ihr       |
+| sie/Sie   | sie/Sie   |
 
 #### Können, Kennen, Wissen (3 Know's)
 
-`Können` is a modal  verb (know how to do sth). e.g.
+`Können` is a modal verb (know how to do sth). e.g.
 
 - Ich kann in Ruhe lesen.
 - Ich kann Deutsch.
 
 `wissen` is used if seeing clauses (dass, wie, wann, wo, wer, warum); `kennen` is used if seeing nouns.
 
-See more at: [德语里wissen和kennen的区别 ?](https://www.zhihu.com/question/37165171/answer/1093104295)
+See more at: [德语里 wissen 和 kennen 的区别 ?](https://www.zhihu.com/question/37165171/answer/1093104295)
 
 #### vom(von dem) / von
 
@@ -441,18 +441,18 @@ See more at: [德语里wissen和kennen的区别 ?](https://www.zhihu.com/questio
 
 ### Sätze
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| Welches Datum ist das? | What date is that? |
+| Deutsch                                                      | Englisch                                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| Welches Datum ist das?                                       | What date is that?                                                        |
 | Das geht leider nicht, da treffe ich einen wichtigen Kunden. | Unfortunately, that's not possible, because I meet an important customer. |
-| Kannst du dann bei den Kindern sein? | Can you be with the kids then? |
-| Im Sommer machen wir Urlaub. | We go on vacation in summer. |
-| Welchen Monat magst du am liebsten? | Which month do you like most in May? |
-| Sabine muss am Mittwoch bis um zwei in der Schule arbeiten. | Sabine must work in school till two on Wednesday. |
-| Das ist doch das große Metalfestival, oder? | It's the big metal festival, isn't it? |
-| Ich möchte dich einladen. | I want to invite you. |
-| Wir freuen uns auf dich. | We look forward to you. |
-| Holt ihr mich ab? | Are you going to pick me up? |
+| Kannst du dann bei den Kindern sein?                         | Can you be with the kids then?                                            |
+| Im Sommer machen wir Urlaub.                                 | We go on vacation in summer.                                              |
+| Welchen Monat magst du am liebsten?                          | Which month do you like most in May?                                      |
+| Sabine muss am Mittwoch bis um zwei in der Schule arbeiten.  | Sabine must work in school till two on Wednesday.                         |
+| Das ist doch das große Metalfestival, oder?                  | It's the big metal festival, isn't it?                                    |
+| Ich möchte dich einladen.                                    | I want to invite you.                                                     |
+| Wir freuen uns auf dich.                                     | We look forward to you.                                                   |
+| Holt ihr mich ab?                                            | Are you going to pick me up?                                              |
 
 #### Zeitangaben
 
@@ -464,11 +464,11 @@ See more at: [德语里wissen和kennen的区别 ?](https://www.zhihu.com/questio
 
 #### Datumsangaben
 
-|   | Welches Datum ist heute? | Wann ist der Termine? | Wann machst du Urlaub? |
-| - | ------------------------ | --------------------- | ---------------------- |
-|   | Der<ul><li><d type="impt" text="erste"/> (1.)</li><li>zweite (2.)</li><li><d type="impt" text="dritte"/> (3.)</li><li>siebte (7.)</li><li>dreizehnte (13.)</li><li>siebenundzwanzig<d type="impt" text="ste"/> (27.) </li></ul>**... Mai** | Am<ul><li><d type="impt" text="ersten"/> (1.)</li><li>zweiten (2.)</li><li><d type="impt" text="dritten"/> (3.)</li><li>siebten (7.)</li><li>dreizehnten (13.)</li><li>siebenundzwanzig<d type="impt" text="sten"/> (27.)</li></ul> **... Mai**<br><ul><li>Am Mittwoch, den zehnten Mai (10.5.)</li></ul> | <ul><li>Vom ersten bis zum siebenundzwanzigsten Juni.</li><li>Vom 1. bis 27.6.</li></ul> |
-| schriftlich | Der 10.05. | am 10.05. | vom 14.11.–20.11. |
-| mündlich | Der zehnte Mai | am zehnten Mai | vom vierzehnten bis zwanzigsten November |
+|             | Welches Datum ist heute?                                                                                                                                                                                                                   | Wann ist der Termine?                                                                                                                                                                                                                                                                                     | Wann machst du Urlaub?                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+|             | Der<ul><li><d type="impt" text="erste"/> (1.)</li><li>zweite (2.)</li><li><d type="impt" text="dritte"/> (3.)</li><li>siebte (7.)</li><li>dreizehnte (13.)</li><li>siebenundzwanzig<d type="impt" text="ste"/> (27.) </li></ul>**... Mai** | Am<ul><li><d type="impt" text="ersten"/> (1.)</li><li>zweiten (2.)</li><li><d type="impt" text="dritten"/> (3.)</li><li>siebten (7.)</li><li>dreizehnten (13.)</li><li>siebenundzwanzig<d type="impt" text="sten"/> (27.)</li></ul> **... Mai**<br><ul><li>Am Mittwoch, den zehnten Mai (10.5.)</li></ul> | <ul><li>Vom ersten bis zum siebenundzwanzigsten Juni.</li><li>Vom 1. bis 27.6.</li></ul> |
+| schriftlich | Der 10.05.                                                                                                                                                                                                                                 | am 10.05.                                                                                                                                                                                                                                                                                                 | vom 14.11.–20.11.                                                                        |
+| mündlich    | Der zehnte Mai                                                                                                                                                                                                                             | am zehnten Mai                                                                                                                                                                                                                                                                                            | vom vierzehnten bis zwanzigsten November                                                 |
 
 ### Meine Einladung
 
@@ -492,19 +492,19 @@ Franklin Qin
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| bald | soon |
-| herzlich | warm(ly) |
-| einfach | single |
-| zusagen | accept |
-| absagen | reject |
-| bedanken | thank |
-| jemand | somebody, anybody |
-| niemand | nobody |
-| <d type="ie" text="Suppe"/> | soup |
-| <d type="as" text="Gericht"/> | dish |
-| <d type="as" text="Bescheid"/> | reply |
+| Deutsch                        | Englisch          |
+| ------------------------------ | ----------------- |
+| bald                           | soon              |
+| herzlich                       | warm(ly)          |
+| einfach                        | single            |
+| zusagen                        | accept            |
+| absagen                        | reject            |
+| bedanken                       | thank             |
+| jemand                         | somebody, anybody |
+| niemand                        | nobody            |
+| <d type="ie" text="Suppe"/>    | soup              |
+| <d type="as" text="Gericht"/>  | dish              |
+| <d type="as" text="Bescheid"/> | reply             |
 
 #### <d type="ie" text="Kneipe"/>, <d type="as" text="Restaurant"/>, <d type="as" text="Bistro"/>, <d type="as" text="Café"/>
 
@@ -515,11 +515,11 @@ Franklin Qin
 
 ### Sätze
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| Du bist herzlich eingeladen. | You are cordially invited. | Hat noch jemand einen Wunsch? | Does anyone else have a wish? |
-| Wir schließen bald. | We close soon. |
-| Zahlen Sie zusammen oder getrennt? | Are you paying together or separately? |
+| Deutsch                                                           | Englisch                                          |
+| ----------------------------------------------------------------- | ------------------------------------------------- |
+| Du bist herzlich eingeladen.                                      | You are cordially invited.                        | Hat noch jemand einen Wunsch? | Does anyone else have a wish? |
+| Wir schließen bald.                                               | We close soon.                                    |
+| Zahlen Sie zusammen oder getrennt?                                | Are you paying together or separately?            |
 | Einen schönen Abend für Sie alle und noch ein schönes Wochenende. | A nice evening for all of you and a nice weekend. |
 
 #### Einladung zum Geburtstag
@@ -539,76 +539,76 @@ Ich freue mich auf einen tollen Abend mit euch!
 
 #### Zusagen und Absagen
 
-| sich bedanken | zusagen | absagen |
-| ------------- | ------- | ------- |
+| sich bedanken                                                  | zusagen                                                                                                                                                        | absagen                                                                                                                                                                                                                                                   |
+| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <ul><li>Vielen Dank</li><li>Danke für die Einladung.</li></ul> | <ul><li>Ich komme gern.</li><li>Ich feiere gern mit dir.</li><li>Ich nehme die Einladung gern an.</li><li>Ich komme gern mit. Danke. Ich freue mich.</li></ul> | <ul><li>Es tut mir leid, ich kann nicht mit dir feiern.</li><li>Ich kann leider nicht kommen.</li><li>Ich habe leider keine Zeit.</li><li>Ich muss leider absagen.</li><li>Lieben Dank für die Einladung, aber am Samstag geht es leider nicht.</li></ul> |
 
 ## 23. März
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| günstig | favorable |
-| interessant | interesting |
-| fertig | finished |
-| gesund | healthy |
-| kaputt | broken |
-| praktisch | practical |
-| bequem | comfortable |
-| glücklich | fortunate |
-| letzter | last |
-| vorbei | past by |
-| stimmen | be right |
-| nun | now |
-| warum | why |
-| zeigen | show |
-| <d type="er" text="Flur"/> | floor |
-| <d type="er" text="Aufzug"/> | lift |
-| <d type="er" text="Grundriss"/> | ground plan |
+| Deutsch                                     | Englisch                   |
+| ------------------------------------------- | -------------------------- |
+| günstig                                     | favorable                  |
+| interessant                                 | interesting                |
+| fertig                                      | finished                   |
+| gesund                                      | healthy                    |
+| kaputt                                      | broken                     |
+| praktisch                                   | practical                  |
+| bequem                                      | comfortable                |
+| glücklich                                   | fortunate                  |
+| letzter                                     | last                       |
+| vorbei                                      | past by                    |
+| stimmen                                     | be right                   |
+| nun                                         | now                        |
+| warum                                       | why                        |
+| zeigen                                      | show                       |
+| <d type="er" text="Flur"/>                  | floor                      |
+| <d type="er" text="Aufzug"/>                | lift                       |
+| <d type="er" text="Grundriss"/>             | ground plan                |
 | <d type="ie" text="Wohngemeinschaft"/> (WG) | group sharing an apartment |
-| <d type="ie" text="Sache"/> | thing |
-| <d type="as" text="Fenster"/> | window |
-| <d type="as" text="Dach"/> | roof |
+| <d type="ie" text="Sache"/>                 | thing                      |
+| <d type="as" text="Fenster"/>               | window                     |
+| <d type="as" text="Dach"/>                  | roof                       |
 
 #### <d type="as" text="Antonym"/>
 
-| Wort | Antonym |
-| --- | --- |
-| neu | alt |
+| Wort          | Antonym            |
+| ------------- | ------------------ |
+| neu           | alt                |
 | schön, klasse | hässlich, schlecht |
-| laut | ruhig, leise |
-| teuer | billig |
-| schmal | breit |
-| groß | klein |
-| hell, sonnig | dunkel |
-| modern | altmodisch |
-| wohl | krank |
+| laut          | ruhig, leise       |
+| teuer         | billig             |
+| schmal        | breit              |
+| groß          | klein              |
+| hell, sonnig  | dunkel             |
+| modern        | altmodisch         |
+| wohl          | krank              |
 
 #### Wo Man Wohnt
 
 Ich wohne im ...
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| <d type="as" text="Dachgeschoss"/> | attic |
+| Deutsch                                                            | Englisch      |
+| ------------------------------------------------------------------ | ------------- |
+| <d type="as" text="Dachgeschoss"/>                                 | attic         |
 | ersten/zweiten/dritten/vierten/fünften <d type="er" text="Stock"/> | storey, floor |
-| <d type="as" text="Erdgeschoss"/> | ground floor |
+| <d type="as" text="Erdgeschoss"/>                                  | ground floor  |
 
 #### <d type="er" text="Raum"/>
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| <d type="er" text="Balkon"/> | balcony |
-| <d type="ie" text="Terrasse"/> | terrace |
-| <d type="ie" text="Küche"/> | kitchen |
-| <d type="ie" text="Toilette"/> | toilet |
-| <d type="as" text="Bad"/> | bath |
-| <d type="as" text="Esszimmer"/> | dining room |
-| <d type="as" text="Wohnzimmer"/> | living room |
-| <d type="as" text="Arbeitszimmer"/> | study |
-| <d type="as" text="Schlafzimmer"/> | bedroom |
-| <d type="as" text="Kinderzimmer"/> | children's room |
+| Deutsch                             | Englisch        |
+| ----------------------------------- | --------------- |
+| <d type="er" text="Balkon"/>        | balcony         |
+| <d type="ie" text="Terrasse"/>      | terrace         |
+| <d type="ie" text="Küche"/>         | kitchen         |
+| <d type="ie" text="Toilette"/>      | toilet          |
+| <d type="as" text="Bad"/>           | bath            |
+| <d type="as" text="Esszimmer"/>     | dining room     |
+| <d type="as" text="Wohnzimmer"/>    | living room     |
+| <d type="as" text="Arbeitszimmer"/> | study           |
+| <d type="as" text="Schlafzimmer"/>  | bedroom         |
+| <d type="as" text="Kinderzimmer"/>  | children's room |
 
 #### <d type="as" text="Möbel"/>
 
@@ -627,41 +627,41 @@ Ich wohne im ...
 
 #### Verb
 
-| Person | Gefallen |
-| ------ | -------- |
-| ich| gefalle |
-| du| gefällst |
-| er/sie/es | gefällt |
-| wir | gefallen |
-| ihr | gefallt |
-| sie/Sie | gefallen |
+| Person    | Gefallen |
+| --------- | -------- |
+| ich       | gefalle  |
+| du        | gefällst |
+| er/sie/es | gefällt  |
+| wir       | gefallen |
+| ihr       | gefallt  |
+| sie/Sie   | gefallen |
 
 #### <d type="as" text="Pronomen"/>
 
 | Pronomen | der, die, das |
 | -------- | ------------- |
-| er | der |
-| sie | die |
-| es | der/die/das |
+| er       | der           |
+| sie      | die           |
+| es       | der/die/das   |
 
 #### Possessivartikel 物主冠词
 
-| Person | <d type="er" text="der"/> | <d type="as" text="das"/> | <d type="ie" text="die"/> |
-| - | ---------- | ---------- | ---------- |
-| ich | mein(en) | mein | meine |
-| du | dein(en) | dein | deine |
-| er/es | sein(en) | sein | seine |
-| sie | ihr(en) | ihr | ihre |
-| wir | unser(en) | unser | unsere |
-| ihr | euer(en) | euer | eu(e)<d type="impt" text="re"/> |
-| sie | ihr(en) | ihr | ihre |
-| Sie | Ihr(en) | Ihr | Ihre |
+| Person | <d type="er" text="der"/> | <d type="as" text="das"/> | <d type="ie" text="die"/>       |
+| ------ | ------------------------- | ------------------------- | ------------------------------- |
+| ich    | mein(en)                  | mein                      | meine                           |
+| du     | dein(en)                  | dein                      | deine                           |
+| er/es  | sein(en)                  | sein                      | seine                           |
+| sie    | ihr(en)                   | ihr                       | ihre                            |
+| wir    | unser(en)                 | unser                     | unsere                          |
+| ihr    | euer(en)                  | euer                      | eu(e)<d type="impt" text="re"/> |
+| sie    | ihr(en)                   | ihr                       | ihre                            |
+| Sie    | Ihr(en)                   | Ihr                       | Ihre                            |
 
 ### Sätze
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| sag mal | tell me |
+| Deutsch                                           | Englisch                                           |
+| ------------------------------------------------- | -------------------------------------------------- |
+| sag mal                                           | tell me                                            |
 | Die Wohnung zahlen über 1000 Euro Miete im Monat. | The apartment pays over 1000 euros rent per month. |
 
 #### Finden / Gefallen
@@ -695,50 +695,50 @@ Wer wohnt in dem Haus? Viele Familien? Nein, nur im Erdgeschoss wohnt eine Famil
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| krank | ill |
-| traurig | sad |
-| chaotisch | chaotic |
-| prima | great |
-| preterite | past |
-| wieder | again |
-| endlich | at last |
-| zwischen | between |
-| melden | report, announce |
-| bewerten | assess |
-| riechen | smell |
-| spazieren | stroll |
-| <d type="er" text="Strand"/> | beach |
-| <d type="as" text="Opernhaus"/> | opera house |
-| <d type="as" text="Gepäck"/> | luggage |
+| Deutsch                         | Englisch         |
+| ------------------------------- | ---------------- |
+| krank                           | ill              |
+| traurig                         | sad              |
+| chaotisch                       | chaotic          |
+| prima                           | great            |
+| preterite                       | past             |
+| wieder                          | again            |
+| endlich                         | at last          |
+| zwischen                        | between          |
+| melden                          | report, announce |
+| bewerten                        | assess           |
+| riechen                         | smell            |
+| spazieren                       | stroll           |
+| <d type="er" text="Strand"/>    | beach            |
+| <d type="as" text="Opernhaus"/> | opera house      |
+| <d type="as" text="Gepäck"/>    | luggage          |
 
 #### Präsens / Präteritum
 
-|   | sein (Präsens) | sein (Präteritum) | haben (Präsens) | haben (Präteritum) |
-| - | -------------- | ----------------- | --------- | ------------------ |
-| ich | bin | <d type="impt" text="war"/> | habe | <d type="impt" text="hatte"/> |
-| du | bist | warst | hast | hattest |
-| er/es/sie | ist | <d type="impt" text="war"/> | hat | <d type="impt" text="hatte"/> |
-| wir | sind | waren | haben | hatten |
-| ihr | seid | wart | habt | hattet |
-| sie/Sie | sind | waren | haben | hatten |
+|           | sein (Präsens) | sein (Präteritum)           | haben (Präsens) | haben (Präteritum)            |
+| --------- | -------------- | --------------------------- | --------------- | ----------------------------- |
+| ich       | bin            | <d type="impt" text="war"/> | habe            | <d type="impt" text="hatte"/> |
+| du        | bist           | warst                       | hast            | hattest                       |
+| er/es/sie | ist            | <d type="impt" text="war"/> | hat             | <d type="impt" text="hatte"/> |
+| wir       | sind           | waren                       | haben           | hatten                        |
+| ihr       | seid           | wart                        | habt            | hattet                        |
+| sie/Sie   | sind           | waren                       | haben           | hatten                        |
 
 ### Sätze
 
-| Deutsch | Englisch |
-| ------- | -------- |
+| Deutsch                  | Englisch                           |
+| ------------------------ | ---------------------------------- |
 | Gute Reise und bis bald! | Have a good trip and see you soon! |
-| Melde dich! | Get in touch! |
+| Melde dich!              | Get in touch!                      |
 
-| Frage | Antworten |
-| ----- | --------- |
-| Warst du auch in Melbourne? | Nein, leider nicht. |
-| Wo wart ihr denn gestern Vormittag? | Wir waren in Sydney.
-| Hattest du viel Spaß? | Oh ja, ich hatte wirklich viel Spaß. Surfen ist toll. |
-| Wie war eure Woche? | Nicht so toll. Wir hatten sehr viel Arbeit. |
-| War das Abendessen bei Sams Freunden schön? | Oh ja! Es war sehr schön. |
-| Wie lange hatten Julia und Sam denn Urlaub? | Zwei Wochen. |
+| Frage                                       | Antworten                                             |
+| ------------------------------------------- | ----------------------------------------------------- |
+| Warst du auch in Melbourne?                 | Nein, leider nicht.                                   |
+| Wo wart ihr denn gestern Vormittag?         | Wir waren in Sydney.                                  |
+| Hattest du viel Spaß?                       | Oh ja, ich hatte wirklich viel Spaß. Surfen ist toll. |
+| Wie war eure Woche?                         | Nicht so toll. Wir hatten sehr viel Arbeit.           |
+| War das Abendessen bei Sams Freunden schön? | Oh ja! Es war sehr schön.                             |
+| Wie lange hatten Julia und Sam denn Urlaub? | Zwei Wochen.                                          |
 
 #### Ein Kompliment Machen und Sich Bedanken
 
@@ -860,80 +860,80 @@ Deine Mama
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| herzlich | warm |
-| lustig | jolly |
-| genug | enough |
-| gerade | straight |
-| gespannt | eager |
-| begeistert | enthusiastic(ally) |
-| möglich | possible |
-| <d type="ie" text="Möglichkeit"/> | possibility |
-| beispielsweise | for instance |
-| nutzen | use |
-| tragen | carry |
-| schaffen | manage |
-| werden | become |
-| vergessen | forget |
-| genießen | enjoy |
-| empfehlen | recommend |
-| ausdrücken | express |
-| <d type="er" text="Glückwunsch"/> | congratulations |
-| <d type="er" text="Durchschnitt"/> | average |
-| <d type="er" text="Tipp"/> | tip |
-| <d type="er" text="Punkt"/> | spot |
-| <d type="er" text="Treffpunkt"/> | meeting place |
-| <d type="er" text="Fortschritt"/> | progress |
-| <d type="ie" text="Maschine"/> | machine |
-| <d type="ie" text="Suchmaschine"/> | search engine |
-| <d type="ie" text="Umfrage"/> | survey |
-| <d type="ie" text="Zutat"/> | ingredient |
-| <d type="ie" text="Gelegenheit"/> | opportunity |
-| <d type="as" text="Netz | net |
-| <d type="as" text="Feuerwerk"/> | firework |
-| <d type="as" text="Rezepte"/> | recipe |
-| <d type="as" text="Schwimmbad"/> | swimming pool |
+| Deutsch                            | Englisch           |
+| ---------------------------------- | ------------------ |
+| herzlich                           | warm               |
+| lustig                             | jolly              |
+| genug                              | enough             |
+| gerade                             | straight           |
+| gespannt                           | eager              |
+| begeistert                         | enthusiastic(ally) |
+| möglich                            | possible           |
+| <d type="ie" text="Möglichkeit"/>  | possibility        |
+| beispielsweise                     | for instance       |
+| nutzen                             | use                |
+| tragen                             | carry              |
+| schaffen                           | manage             |
+| werden                             | become             |
+| vergessen                          | forget             |
+| genießen                           | enjoy              |
+| empfehlen                          | recommend          |
+| ausdrücken                         | express            |
+| <d type="er" text="Glückwunsch"/>  | congratulations    |
+| <d type="er" text="Durchschnitt"/> | average            |
+| <d type="er" text="Tipp"/>         | tip                |
+| <d type="er" text="Punkt"/>        | spot               |
+| <d type="er" text="Treffpunkt"/>   | meeting place      |
+| <d type="er" text="Fortschritt"/>  | progress           |
+| <d type="ie" text="Maschine"/>     | machine            |
+| <d type="ie" text="Suchmaschine"/> | search engine      |
+| <d type="ie" text="Umfrage"/>      | survey             |
+| <d type="ie" text="Zutat"/>        | ingredient         |
+| <d type="ie" text="Gelegenheit"/>  | opportunity        |
+| <d type="as" text="Netz            | net                |
+| <d type="as" text="Feuerwerk"/>    | firework           |
+| <d type="as" text="Rezepte"/>      | recipe             |
+| <d type="as" text="Schwimmbad"/>   | swimming pool      |
 
 #### Dativ
 
 | <d type="er" text="maskulin"/> | <d type="as" text="sächlich"/> | <d type="ie" text="feminin"/> | Plural |
-| --- | --- | --- | --- |
-| dem | dem | der | den |
-| einem | einem | einer | einen |
-| meinem | meinem | meiner | meinen |
-| keinem | keinem | keiner | keinen |
+| ------------------------------ | ------------------------------ | ----------------------------- | ------ |
+| dem                            | dem                            | der                           | den    |
+| einem                          | einem                          | einer                         | einen  |
+| meinem                         | meinem                         | meiner                        | meinen |
+| keinem                         | keinem                         | keiner                        | keinen |
 
 #### Akkusativ
 
 | <d type="er" text="maskulin"/> | <d type="as" text="sächlich"/> | <d type="ie" text="feminin"/> | Plural |
-| --- | --- | --- | --- |
-| den | das | die | die |
-| meinen | mein | mein | mein |
+| ------------------------------ | ------------------------------ | ----------------------------- | ------ |
+| den                            | das                            | die                           | die    |
+| meinen                         | mein                           | mein                          | mein   |
 
 #### Nominativ
 
-- der - welcher - dieser ( 词尾都是er )
-- das - welches - dieses ( 词尾都是es )
-- die - welche - diese ( 词尾都是e )
+- der - welcher - dieser ( 词尾都是 er )
+- das - welches - dieses ( 词尾都是 es )
+- die - welche - diese ( 词尾都是 e )
 
 #### Präposition + Artikel im Dativ $\rightarrow$ Verschmelzung des Artikels
 
-*bei*: bei dem $\rightarrow$ beim | <d type="er" text="Arzt"/> / <d type="as" text="Fest"/>
+_bei_: bei dem $\rightarrow$ beim | <d type="er" text="Arzt"/> / <d type="as" text="Fest"/>
 
-*von*: von dem $\rightarrow$ vom | <d type="er" text="Bahnhof"/> / <d type="as" text="Büro"/>
+_von_: von dem $\rightarrow$ vom | <d type="er" text="Bahnhof"/> / <d type="as" text="Büro"/>
 
-*zu*:
+_zu_:
 
 - zu dem $\rightarrow$ zum | <d type="er" text="Garten"/> / <d type="as" text="Interview"/>
 - zu der $\rightarrow$ zur | <d type="ie" text="Schule"/>
 
 ### Sätze
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| wie immer | as always |
-| nicht vergessen | don't forget |
+| Deutsch          | Englisch      |
+| ---------------- | ------------- |
+| wie immer        | as always     |
+| nicht vergessen  | don't forget  |
 | Das schaffe ich. | I can manage. |
 
 #### ... gehen
@@ -999,12 +999,12 @@ Hilfe ablehnen:
 
 #### Festival
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| Silverster | New Year's Eve |
-| Silvesterparty | New Year party |
-| <d type="ie" text="Hochzeit"/> | wedding |
-| <d type="as" text="Weihnachten"/> | Christmas |
+| Deutsch                           | Englisch       |
+| --------------------------------- | -------------- |
+| Silverster                        | New Year's Eve |
+| Silvesterparty                    | New Year party |
+| <d type="ie" text="Hochzeit"/>    | wedding        |
+| <d type="as" text="Weihnachten"/> | Christmas      |
 
 #### Glückwünsche ausdrücken (express congrats)
 

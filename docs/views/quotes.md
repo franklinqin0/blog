@@ -2,9 +2,9 @@
 title: Quotes
 date: 1970-01-02
 categories:
- - about
+  - about
 tags:
- - life
+  - life
 ---
 
 This page documents good quotes I came across.
@@ -20,16 +20,16 @@ This page documents good quotes I came across.
 
 ---
 
-## 2014年8月16日
+## 2014 年 8 月 16 日
 
-由HK坐飞机去美国念书。晚上的飞机，白天无事，便凭着一股热情和少年无知一人在手机无网的情况下在HK乱逛。好在MTR的工作人员和HK的路人都十分热情礼貌，告知我路线。去了李小龙的住址（当时成为一家酒店）和黄家驹的墓。也许因不常去HK，机会难得，当天的情景都历历在目，仿佛发生在昨日。在家驹的墓前，有一本石书，左右分别写：
+由 HK 坐飞机去美国念书。晚上的飞机，白天无事，便凭着一股热情和少年无知一人在手机无网的情况下在 HK 乱逛。好在 MTR 的工作人员和 HK 的路人都十分热情礼貌，告知我路线。去了李小龙的住址（当时成为一家酒店）和黄家驹的墓。也许因不常去 HK，机会难得，当天的情景都历历在目，仿佛发生在昨日。在家驹的墓前，有一本石书，左右分别写：
 
 - 生命不在乎得到什么，只在乎做过什么
 - 摇滚精神，永垂不朽
 
 ---
 
-## 2019年9月
+## 2019 年 9 月
 
 也许因失恋的缘故，变成了一位伤感却写不出诗、只会微醺后唱歌的文艺青年。既要读诗，便读好久以来都想读的泰戈尔(Tagore)。可惜只看了飞鸟集(Stray Birds)，便不想看其他的了。记录了以下十分喜欢的对话：
 
@@ -44,18 +44,18 @@ This page documents good quotes I came across.
 
 ---
 
-## 2019年11月30日
+## 2019 年 11 月 30 日
 
-随性看，两三个星期后，终于读完了《京华烟云》，很精彩。LYT还是读了许多书的人，对儒释道都有研究，以木兰为主角，讲了中国1900-1938年的大事件与姚曾两家人物的际遇。虽有些瑕疵，但瑕不掩瑜，我从中也学到了许多中国20世纪前40年的近代历史、为人处事之道、和一些新奇的知识。我十分挑剔，佳句不断，但只记录了以下几句不错的话：
+随性看，两三个星期后，终于读完了《京华烟云》，很精彩。LYT 还是读了许多书的人，对儒释道都有研究，以木兰为主角，讲了中国 1900-1938 年的大事件与姚曾两家人物的际遇。虽有些瑕疵，但瑕不掩瑜，我从中也学到了许多中国 20 世纪前 40 年的近代历史、为人处事之道、和一些新奇的知识。我十分挑剔，佳句不断，但只记录了以下几句不错的话：
 
 - 正直自持，则外邪不能侵
 - 在人生各方面，人会由常人之俗进入雅人之俗。只有少数人能脱离雅人之俗，而回到俗人之淳朴自然。
-- 再大的灾难，人的精神都能克服，能超越，由于精神的坚强弘毅，能将之改变而成为伟大荣耀，光辉万丈。 
-- 他常常会沉默一会儿，可是一说到自己所知，或自己所深信的事，则言辞犀利，足以表示他对其精通有研究，使听者在此专题上，不做第二人想。有一次，他对木兰说：“**对一事一物若有真知，若有真了解，乃一大乐事。**” 
+- 再大的灾难，人的精神都能克服，能超越，由于精神的坚强弘毅，能将之改变而成为伟大荣耀，光辉万丈。
+- 他常常会沉默一会儿，可是一说到自己所知，或自己所深信的事，则言辞犀利，足以表示他对其精通有研究，使听者在此专题上，不做第二人想。有一次，他对木兰说：“**对一事一物若有真知，若有真了解，乃一大乐事。**”
 
 ---
 
-## 2019年12月1日
+## 2019 年 12 月 1 日
 
 最近又道听途说了以下的话，对未来的打算似乎清楚了些：
 
@@ -83,7 +83,7 @@ Quotes from great programmers:
 
 ---
 
-::: Seven times I have despised my soul, Kahlil Gibran
+::: tip Seven times I have despised my soul
 
 The first time when I saw her being meek that she might attain height.
 
@@ -98,6 +98,9 @@ The fifth time when she forbode for weakness, and attributed her patience to str
 The sixth time when she despised the ugliness of a face, and knew not that it was one of her own masks.
 
 And the seventh time when she sang a song of praise, and deemed it a virtue.
+
+::: right
+Kahlil Gibran
 :::
 
 ---
@@ -107,7 +110,7 @@ And the seventh time when she sang a song of praise, and deemed it a virtue.
 万缕千丝终不改，任他随聚随分。韶华休笑本无根。好风凭借力，送我上青云。
 
 ::: right
-曹雪芹，《红楼梦》第70回
+曹雪芹，《红楼梦》第 70 回
 :::
 
 ---
