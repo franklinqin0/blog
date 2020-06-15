@@ -36,7 +36,7 @@ Deutsch Notizen vom 30. März bis 8. Mai.
 | <d type="ie" text="Tastatur"/>         | keyboard    |
 | <d type="ie" text="Führung"/>          | guided tour |
 | <d type="er" text="Ordner"/>           | file        |
-| <d type="er" text="die Erwachsene"/>   | adult       |
+| der/die Erwachsene                     | adult       |
 | <d type="ie" text="Krankenschwester"/> | nurse       |
 | <d type="as" text="Heimatland"/>       | homeland    |
 
