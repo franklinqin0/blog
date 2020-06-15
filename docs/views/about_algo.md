@@ -32,7 +32,7 @@ I did a lot of research on quite a few alternatives before I made my mind to kee
 
 Though VuePress renders beautifully and elegantly, I can't say I don't have any grudge on it:
 
-1. though `vuepress-plugin-mathjax` renders simple math expressions correctly, the [mathjax matrix issue](https://github.com/vuepress/vuepress-plugin-mathjax/issues/14) still hasn't been solved. If you know how to solve it, please help and comment below!
+1. though `vuepress-plugin-mathjax` renders simple math expressions correctly, the [mathjax matrix issue](https://github.com/vuepress/vuepress-plugin-mathjax/issues/14) still hasn't been solved. So I switched to `@markspec/vuepress-plugin-katex` and it works like a charm
 2. after `yarn dev`, it's nice that dev server automatically refresh and update the change, I still have to refresh after some changes
 
 ### [GitBook](https://www.gitbook.com)
