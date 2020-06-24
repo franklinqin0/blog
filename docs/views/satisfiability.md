@@ -31,3 +31,4 @@ Rather than the normal definition of "meet the expectations, needs, or desires o
 **Monotone 3SAT**: each clause is all positive or all negative.
 
 **2SAT**: OR clause of 2 literals.
+$$a + b = c$$

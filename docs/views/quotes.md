@@ -71,77 +71,65 @@ This page documents good quotes I came across.
 
 ---
 
-## 唐诗
+## 诗词
 
+::: tip
 江南无所有，聊赠一枝春
-
----
-
-Quotes from great programmers:
-
-- Grady Booch: The function of good software is to make the complex appear to be simple.
-
----
+::: right
+陆凯，《赠范晔》
+:::
 
 ::: tip Seven times I have despised my soul
-
-The first time when I saw her being meek that she might attain height.
-
-The second time when I saw her limping before the crippled.
-
-The third time when she was given to choose between the hard and the easy, and she chose the easy.
-
-The fourth time when she committed a wrong, and comforted herself that others also commit wrong.
-
-The fifth time when she forbode for weakness, and attributed her patience to strength.
-
-The sixth time when she despised the ugliness of a face, and knew not that it was one of her own masks.
-
-And the seventh time when she sang a song of praise, and deemed it a virtue.
-
+The first time when I saw her being meek that she might attain height.  
+The second time when I saw her limping before the crippled.  
+The third time when she was given to choose between the hard and the easy, and she chose the easy.  
+The fourth time when she committed a wrong, and comforted herself that others also commit wrong.  
+The fifth time when she forbode for weakness, and attributed her patience to strength.  
+The sixth time when she despised the ugliness of a face, and knew not that it was one of her own masks.  
+And the seventh time when she sang a song of praise, and deemed it a virtue.  
 ::: right
 Kahlil Gibran
 :::
 
----
-
 ::: tip 临江仙·柳絮
-白玉堂前春解舞，东风卷得均匀。蜂围蝶阵乱纷纷。几曾随逝水？岂必委芳尘？
-万缕千丝终不改，任他随聚随分。韶华休笑本无根。好风凭借力，送我上青云。
-
+白玉堂前春解舞，东风卷得均匀。蜂围蝶阵乱纷纷。几曾随逝水？岂必委芳尘？  
+万缕千丝终不改，任他随聚随分。韶华休笑本无根。好风凭借力，送我上青云。  
 ::: right
 曹雪芹，《红楼梦》第 70 回
 :::
 
----
-
 ::: tip 洞仙歌·丁卯八月病中作
-
-贤愚相去，算其间能几。差以毫厘缪千里。细思量义利，舜跖之分，孳孳者，等是鸡鸣而起。
-
-味甘终易坏，岁晚还知，君子之交淡如水。一饷聚飞蚊，其响如雷，深自觉、昨非今是。羡安乐窝中泰和汤，更剧饮，无过半醺而已。
-
+贤愚相去，算其间能几。差以毫厘缪千里。细思量义利，舜跖之分，孳孳者，等是鸡鸣而起。  
+味甘终易坏，岁晚还知，君子之交淡如水。一饷聚飞蚊，其响如雷，深自觉、昨非今是。羡安乐窝中泰和汤，更剧饮，无过半醺而已。  
 ::: right
 辛弃疾
 :::
 
----
+::: tip 梦与诗
+醉过才知酒浓  
+爱过才知情重  
+你不能做我的诗  
+正如我不能做你的梦  
+::: right
+胡适
+:::
+
+## Quotes
+
+::: tip
+The function of good software is to make the complex appear to be simple.
+::: right
+Grady Booch
+:::
 
 ::: tip Love Oneself
 To love oneself is the beginning of a lifelong romance.
-
 ::: right
 Oscar Wilde
 :::
 
----
+今天看《三千鸦杀》，片名来自于以下诗句。意思是即使除去所有的太阳、长眠不醒，也不愿与你分离。世人从这句话中体会到了爱人间的浪漫，但可曾体会过执着之苦？Love is a sweet pain.
 
-::: tip 梦与诗
-醉过才知酒浓
-爱过才知情重
-你不能做我的诗
-正如我不能做你的梦
-
-::: right
-胡适
+::: tip
+三千世界鸦杀尽，与君共寝至天明
 :::
