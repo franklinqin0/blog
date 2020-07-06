@@ -15,7 +15,9 @@ This blog features important interview questions for full stack engineers.
 
 Transmission control protocol (TCP) manages the sending and receiving of all your data as packets.
 
-## Cookie
+## Session, Cookie, Token
+
+### Cookie
 
 Cookie is a small piece of data **stored by the browser** and **sent to the server** with every request.
 
@@ -26,15 +28,51 @@ Cookie use cases:
 3. state of filling a long form
 4. browse history (ads)
 
+### Session
+
 Session is a collection of data **stored on the server** and associated with a **given user**.
 
-Cookie vs. Token: https://medium.com/@sherryhsu/session-vs-token-based-authentication-11a6c5ac45e4
+### Cookie & Session vs. Token
 
-session token / local storage
+As HTTP is a stateless protocol, either a cookie or a token is used to store user state.
 
-## CORS 跨域
+### Cookie & Session Based Auth
 
-## Cross-site scripting
+In the session based authentication, the server will create a session for the user after the user logs in. The session id is then stored on a **cookie on the user’s browser**. While the user stays logged in, the cookie would be sent along with every subsequent request. The server can then compare the session id stored on the cookie against the session information stored in the memory to verify user’s identity and sends response with the corresponding state!
+
+### Token Based Authentication
+
+Many web applications use JSON Web Token (JWT) instead of sessions for authentication. In the token based application, the server creates JWT with a secret and sends the JWT to the client. The client stores the JWT (usually in local storage) and includes JWT in the header with every request. The server would then validate the JWT with every request from the client and sends response.
+
+The biggest difference here is that the user’s state is not stored on the server, as the state is stored inside the token on the client side instead. Most of the modern web applications use JWT for authentication for reasons including scalability and mobile device authentication.
+
+Mostly from [Sherry Hsu's Medium post](https://medium.com/@sherryhsu/session-vs-token-based-authentication-11a6c5ac45e4)
+
+## OAuth
+
+OAuth doesn't share password data but instead uses **authorization tokens** to prove an identity between consumers and service providers. OAuth is an authentication protocol that allows user to approve one application interacting with another without giving away user's identity.
+
+## Cross-origin Resource Sharing (CORS)
+
+CORS is a mechanism that **allows restricted resources** on a web page to be requested **from another domain** outside the domain from which the first resource was served. A web page may freely embed cross-origin images, stylesheets, scripts, iframes, and videos.
+
+## Cross-site Scripting (XSS)
+
+XSS is a client-side code injection attack. The attacker aims to execute malicious scripts in a web browser of the victim by including malicious code in a legitimate web page or web application. Solution: escape angular bracket `<` with less sign `&lt;` so that malicious script won't be run.
+
+[More by computerphile](https://youtu.be/L5l9lSnNMxg)
+
+## Cross-site Request Forgery (CSRF)
+
+CSRF, also known as one-click attack or session riding, is a type of malicious exploit of a website where **unauthorized commands** are transmitted **from a user that the web application trusts**. Basic solution: referer head, but might be blocked by ad blocker or privacy tool. Ultimate solution: each time a form is created, a **one-time token** is generated. Thus, a valid form sent back should include this token.
+
+[More by computerphile](https://youtu.be/vRBihr41JTo)
+
+## SQL Injection
+
+SQL injection is a code injection technique, used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker).
+
+[More by computerphile](https://youtu.be/_jKylhJtPmI)
 
 ## Cryptography
 
@@ -46,7 +84,6 @@ Known issues:
   Same password is common like '123456'
 
 Solution: add **salt**
-
 
 store the hashed value: `hash(provided password + stored salt)`
 

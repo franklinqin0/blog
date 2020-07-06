@@ -32,3 +32,6 @@ Rather than the normal definition of "meet the expectations, needs, or desires o
 
 **2SAT**: OR clause of 2 literals.
 $$a + b = c$$
+
+
+https://youtu.be/x-Ik9YAFAPo
