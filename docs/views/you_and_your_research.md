@@ -2,13 +2,16 @@
 title: You and Your Research
 date: 2020-07-06
 categories:
-  - study
+  - misc
 tags:
   - tech
+sidebar: false
 author: Richard Hamming
 ---
 
-Following is a transcript of Richard Hamming's speech "You and Your Research" at Bell Communications Research Colloquium Seminar on 7 March 1986.
+Following is an abridged version from the [full transcript](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) of Richard Hamming's speech "You and Your Research" at Bell Communications Research Colloquium Seminar on 7 March 1986.
+
+<!-- more -->
 
 ## Talk
 

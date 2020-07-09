@@ -146,6 +146,7 @@ Ich komme aus China. Pünktlichkeit ist in China in der Arbeit und bei offiziell
 | <d type="ie" text="Bewerbung"/>       | application    |
 | <d type="as" text="Geschirr"/> spülen | wash dishes    |
 | <d type="as" text="Lebensmittel"/>    | food           |
+| <d type="as" text="Gebäude"/>         | building       |
 
 | <d type="as" text="Geschenke"/> | present                         |
 | ------------------------------- | ------------------------------- |
