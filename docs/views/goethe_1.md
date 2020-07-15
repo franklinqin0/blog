@@ -26,7 +26,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | teilnehmen                        | attend             |
 | kennenlernen                      | get to know        |
 | Kennenlernen                      | familiarization    |
-| Speichern                         | store              |
+| speichern                         | store              |
 | wie                               | how/what           |
 | wer                               | who                |
 | wo                                | where              |
@@ -57,46 +57,45 @@ Deutsch Notizen vom 2. bis 8. März.
 
 ### Kennenlernen/Begrüßung
 
-|                 | Frage                                                                       | Antworten                                                             |
+|                 | Frage                                                                       | Antwort                                                               |
 | --------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Heimat/Herkunft | Woher kommst du?<br>Woher kommen Sie?                                       | Ich komme aus China.                                                  |
 | Name            | Wie heißt du?<br> Wie heißen Sie? <br> Wer bist du? <br> Wie ist dein Name? | Ich heiße Franklin.<br> Ich bin Franklin.<br> Mein Name ist Franklin. |
 | Wohnort         | Wo wohnst du?                                                               | Ich wohne in Guangzhou.                                               |
 | Sprache         | Welche Sprachen sprichst du?                                                | Ich spreche Chinesisch und Deutsch.                                   |
 
-:::
-
 ## 3. März
 
 ### Wörter
 
-| Deutsch                         | Englisch     |
-| ------------------------------- | ------------ |
-| Welt                            | world        |
-| Karte                           | card, chart  |
-| Weltkarte                       | world map    |
-| Beispiel                        | example      |
-| Stelle/Stellung                 | place (n.)   |
-| stellen                         | place (v.)   |
-| bauen                           | build        |
-| Frage                           | question     |
-| <d type="ie" text="Antworten"/> | answer       |
-| Aussage                         | statement    |
-| alles/all                       | all          |
-| Heimat                          | home         |
-| buchstabier(en)                 | spell out    |
-| dein                            | your         |
-| sehr                            | very         |
-| Einführung                      | introduction |
-| sammeln                         | collect      |
-| zusammen                        | together     |
-| Schritt                         | step         |
-| nur                             | only         |
-| auf                             | on           |
-| Zahl                            | number (n.)  |
-| Zahlen                          | number (v.)  |
-| zahlen                          | pay          |
-| Zimmer                          | room         |
+| Deutsch                       | Englisch     |
+| ----------------------------- | ------------ |
+| Welt                          | world        |
+| Karte                         | card, chart  |
+| Weltkarte                     | world map    |
+| Beispiel                      | example      |
+| Stelle/Stellung               | place (n.)   |
+| stellen                       | place (v.)   |
+| bauen                         | build        |
+| Frage                         | question     |
+| <d type="ie" text="Antwort"/> | answer       |
+| Aussage                       | statement    |
+| alles/all                     | all          |
+| Heimat                        | home         |
+| buchstabier(en)               | spell out    |
+| dein                          | your         |
+| sehr                          | very         |
+| Führung                       | guidance     |
+| Einführung                    | introduction |
+| sammeln                       | collect      |
+| zusammen                      | together     |
+| Schritt                       | step         |
+| nur                           | only         |
+| auf                           | on           |
+| Zahl                          | number (n.)  |
+| Zahlen                        | number (v.)  |
+| zahlen                        | pay          |
+| Zimmer                        | room         |
 
 ### Länder und Sprachen
 
@@ -220,8 +219,6 @@ Deutsch Notizen vom 2. bis 8. März.
 | mein(e)/dein(e)/Ihr(e) Telefonnummer | my/your（你的）/your（您的） telephone number |
 | Ich stelle mich vor.                 | I'll introduce myself.                        |
 
-:::
-
 ## 5. März
 
 ### Wörter
@@ -330,9 +327,9 @@ Deutsch Notizen vom 2. bis 8. März.
 | Wie alt bist du?<br>Wie alt sein Sie, Herr/Frau ...? | Ich bin zweiundzwanzig Jahre alt. |
 | Welche Frage können wir noch stellen?                | What question can we still ask?   |
 
-### Beruf Frage & Antworten
+### Beruf
 
-| informell Frage                                                                                                       | formell Frage                                                                                                           | Antworten                                                                                                                     |
+| informell Frage                                                                                                       | formell Frage                                                                                                           | Antwort                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Was bist du von Beruf?<br>Was ist dein Beruf?<br>Wo arbeitest du?<br>Was machst du (beruflich)?<br>Und was machst du? | Was sind Sie von Beruf?<br>Was ist Ihr Beruf?<br>Wo arbeiten Sie?<br>Was machen Sie (beruflich)?<br>Und was machen Sie? | Ich bin Architekt(in) (von Beruf).<br>Ich arbeite als Architekt.<br>Ich arbeite bei Siemens/BMW.<br>Ich studiere Architektur. |
 
