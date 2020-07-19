@@ -2,9 +2,9 @@
 title: Interview Algorithms
 date: 2020-03-10
 categories:
- - study
+  - study
 tags:
- - tech
+  - tech
 publish: false
 ---
 
@@ -14,10 +14,10 @@ This blog features some of the most commonly used algorithms.
 
 Thanks to:
 
-- Walker M. White and Lillian Lee, teacher of CS1110: *Intro to Programming in Python*
-- David Gries, teacher of CS2110: *OOP in Java*
-- Michael Clarkson, teacher of CS3110: *FP in OCaml*
-- Eva Tardos, teacher of CS4820: *Intro to Algorithms*
+- Walker M. White and Lillian Lee, teacher of CS1110: _Intro to Programming in Python_
+- David Gries, teacher of CS2110: _OOP in Java_
+- Michael Clarkson, teacher of CS3110: _FP in OCaml_
+- Eva Tardos, teacher of CS4820: _Intro to Algorithms_
 
 who taught me the core CS courses to help me write, categorize and understand the following algorithms.
 
@@ -30,6 +30,18 @@ import random
 ## BFS
 
 ## DFS
+
+### Note
+
+Consider what happens to the root, leaf, and other nodes respectively. Define the entrance and exit clearly.
+
+### Why
+
+Search for answers in a tree. Enumerate all the possibilities.
+
+### Shortcomings
+
+High time complexity(all nodes). Recursion can be hard to understand.
 
 ## Input Size, Runtime, Algorithm
 
@@ -88,8 +100,9 @@ def dnf(b, h, k):
 ```
 
 # NOTE: This uses a DIFFERENT invariant than the lab
+
 def partition(b, h, k):
-    """Returns: The new position of pivot in partitioned list b[h..k].
+"""Returns: The new position of pivot in partitioned list b[h..k].
 
     The pivot is the initial value x = b[h].  This function rearranges the
     list so that elements <= x are before the pivot and elements >= x are
@@ -129,10 +142,10 @@ def partition(b, h, k):
     # post: b[h..i-1] < x, b[i] is x, and b[i+1..k] >= x
     return i
 
-
 # HELPER FUNCTION
-def _swap(b, h, k):
-    """Procedure swaps b[h] and b[k]
+
+def \_swap(b, h, k):
+"""Procedure swaps b[h] and b[k]
 
     Parameter b: The list to rearrange
     Precondition: b is a mutable sequence (e.g. a list).
@@ -148,10 +161,10 @@ def _swap(b, h, k):
     b[h] = b[k]
     b[k] = temp
 
-
 # Linear search
+
 def linear_search(b,c):
-    """Returns: index of first occurrence of c in b; -1 if not found.
+"""Returns: index of first occurrence of c in b; -1 if not found.
 
     Parameter b: The sequence to search
     Precondition: b is a sequence
@@ -171,10 +184,10 @@ def linear_search(b,c):
     # post: b[i] == c OR (i == len(b) and c is not in b[0..i-1])
     return i if i < len(b) else -1
 
-
 # Binary search
+
 def binary_search(b,c):
-    """Returns: index of first occurrence of c in b; -1 if not found.
+"""Returns: index of first occurrence of c in b; -1 if not found.
 
     Parameter b: The sequence to search
     Precondition: b is a SORTED sequence
@@ -204,9 +217,8 @@ def binary_search(b,c):
     # post: i == j and b[0..i-1] < c and b[j..] >= c
     return i if (i < len(b) and b[i] == c) else -1
 
-
 def isort(b):
-    """Insertion Sort: Sorts the array b in n^2 time
+"""Insertion Sort: Sorts the array b in n^2 time
 
     Parameter b: The sequence to sort
     Precondition: b is a mutable sequence (e.g. a list)."""
@@ -222,10 +234,10 @@ def isort(b):
 
     # post: b[0..len(b)-1] sorted
 
-
 # HELPER FUNCTION
-def _push_down(b, k):
-    """Moves the value at position k into its sorted position in b[0.k-1].
+
+def \_push_down(b, k):
+"""Moves the value at position k into its sorted position in b[0.k-1].
 
     Parameter b: The list to rearrange
     Precondition: b is a list, with b[0..k-1] sorted
@@ -244,9 +256,8 @@ def _push_down(b, k):
         j = j - 1
     # post: b[0..k] is sorted
 
-
 def ssort(b):
-    """Selection Sort: Sorts the array b in n^2 time
+"""Selection Sort: Sorts the array b in n^2 time
 
     Parameter b: The sequence to sort
     Precondition: b is a mutable sequence (e.g. a list)."""
@@ -262,10 +273,10 @@ def ssort(b):
         i = i+1
     # post: b[0..len(b)-1] sorted
 
-
 # HELPER FUNCTION
-def _min_index(b, h):
-    """Returns: The index of the minimum value in b[h..]
+
+def \_min_index(b, h):
+"""Returns: The index of the minimum value in b[h..]
 
     Parameter b: The sequence to search
     Precondition: b is a mutable sequence (e.g. a list)."""
@@ -284,9 +295,8 @@ def _min_index(b, h):
     # post: index position of min in b[h..len(b)-1]
     return index
 
-
 def qsort(b):
-    """Quick Sort: Sorts the array b in n log n average time
+"""Quick Sort: Sorts the array b in n log n average time
 
     Parameter b: The sequence to sort
     Precondition: b is a mutable sequence (e.g. a list)."""
@@ -295,9 +305,8 @@ def qsort(b):
     # Send everything to the recursive helper
     _qsort_helper(b,0,len(b)-1)
 
-
-def _qsort_helper(b, h, k):
-    """Quick Sort: Sorts the array b[h..k] in n log n average time
+def \_qsort_helper(b, h, k):
+"""Quick Sort: Sorts the array b[h..k] in n log n average time
 
     Parameter b: The sequence to sort
     Precondition: b is a mutable sequence (e.g. a list).
@@ -319,9 +328,8 @@ def _qsort_helper(b, h, k):
     _qsort_helper(b, h, j-1)
     _qsort_helper(b, j+1, k)
 
-
 def roll(p):
-    """Returns: a random int in 0..len(p)-1; i returned with prob p[i].
+"""Returns: a random int in 0..len(p)-1; i returned with prob p[i].
 
     Parameter p: The die value distribution
     Precondition: p a list of positive floats that sum to at least 1."""
@@ -338,9 +346,8 @@ def roll(p):
 
     return i
 
-
 def scramble(b):
-    """Scrambles the list to resort again
+"""Scrambles the list to resort again
 
     Parameter b: The list to scramble
     Precondition: b is a mutable sequence (e.g. a list)."""
@@ -357,5 +364,3 @@ def scramble(b):
         _swap(b,i,i+pos)
         i = i+1
     # post: b[0..len(b)] is scrambled
-
-
