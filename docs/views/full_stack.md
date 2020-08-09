@@ -2,13 +2,14 @@
 title: Full Stack Engineer Interview Questions
 date: 2020-03-10
 categories:
- - study
+  - study
 tags:
- - tech
+  - tech
 publish: false
 ---
 
 This blog features important interview questions for full stack engineers.
+
 <!-- more -->
 
 ## TCP
@@ -93,6 +94,54 @@ store the hashed value: `hash(provided password + stored salt)`
 
 ## JS
 
+Let's see vanilla JS.
+
+```js
+function uniteUnique(arr) {
+  var args = [...arguments];
+  var result = [];
+  for (var i = 0; i < args.length; i++) {
+    for (var j = 0; j < args[i].length; j++) {
+      if (!result.includes(args[i][j])) {
+        result.push(args[i][j]);
+      }
+    }
+  }
+  return result;
+}
+```
+
+So there are `var` and `for` and array's `includes` and `push` functions, among which `for` is quite wordy and `var` is pretty unsafe (global lexical scope???).
+
+A little better using `while`, `concat` and `filter`:
+
+```js
+function uniteUnique() {
+  var concatArr = [];
+  var i = 0;
+  while (arguments[i]) {
+    concatArr = concatArr.concat(arguments[i]);
+    i++;
+  }
+  uniqueArray = concatArr.filter(function(item, pos) {
+    return concatArr.indexOf(item) == pos;
+  });
+  return uniqueArray;
+}
+```
+
+Finally, using ES6 syntax (spread operator and `Set`):
+
+```js
+function uniteUnique(...arrays) {
+  //make an array out of the given arrays and flatten it (using the spread operator)
+  const flatArray = [].concat(...arrays);
+
+  // create a Set which clears any duplicates since it's a regular set and not a multiset
+  return [...new Set(flatArray)];
+}
+```
+
 ### == vs. ===
 
 ## ES 6
@@ -105,7 +154,9 @@ https://github.com/addyosmani/es6-equivalents-in-es5
 
 ### Deconstruction
 
-### Spread Operation
+### Spread Operator
+
+`...`
 
 ## NoSQL
 
@@ -113,7 +164,7 @@ https://github.com/addyosmani/es6-equivalents-in-es5
 
 Export/import a collection in a database:
 
-- `mongoexport --db local --collection startup_log  --out local.json`
+- `mongoexport --db local --collection startup_log --out local.json`
 - `mongoimport --db test --collection test --file demo_news.json`
 
 Export/import all collections in a database:
@@ -155,7 +206,6 @@ Models
 ## Network Address Translation (NAT)
 
 NAT is the process where a network device, usually a firewall, assigns a public address to a computer (or group of computers) inside a private network. The main use of NAT is to limit the number of public IP addresses an organization or company must use, for both economy and security purposes.
-
 
 ## CSS
 
