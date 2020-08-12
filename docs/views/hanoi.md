@@ -8,7 +8,7 @@ tags:
 sidebar: false
 ---
 
-A few weeks ago, I was invited to a friend's house and saw the **Tower of Hanoi** game on the table. I immediately realized that the number of steps to move should be **exponential** to the number of disks, but I didn't know how to prove it. This blog serves to explain this interesting ancient problem.
+A few weeks ago, I was invited to a friend's house. On the table I saw the **Tower of Hanoi** game. I immediately realized with intuition that the total number of steps to move should be exponential to the number of disks, but I could not think of a proof at the time. Thus, I write this blog to explain this interesting ancient problem.
 
 <!-- more -->
 
@@ -26,17 +26,17 @@ Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. Th
 
 ## Solution
 
-Let's say the 3 rods are called `A`, `B`, `C`, and `from_rod = A`, `to_rod = B`, `aux_rod = C`. For every `n` disks, our strategy is to first move all `n - 1` disks from `A` to `B`, move the largest disk from `A` to `C`, and at last move `n - 1` disks from `B` to `C`. As the following code shows:
+Let's say the 3 rods are called `A`, `B`, `C`. At first, `n=4`, `from_rod = A`, `to_rod = B`, `aux_rod = C`. For every `n` disks, our strategy is to first move all `n - 1` disks from `A` to `B`, move the `n`th disk from `A` to `C`, and at last move `n - 1` disks from `B` to `C`. To move the `n-1` disks from `A` to `B`, we should first move `n-2` disks from `A` to `C`, move the `n-1`th disk from `A` to `B`, and at last move `n-2` disks from `C` to `B`. We follow such pattern recursively, until there is only 1 disk left. As the following code shows:
 
 ### Recursion
 
 ```py
 def TowerOfHanoi(n , from_rod, to_rod, aux_rod):
-  if n == 1:
-  print "Move disk 1 from rod",from_rod,"to rod",to_rod
-  return TowerOfHanoi(n-1, from_rod, aux_rod, to_rod)
-  print "Move disk",n,"from rod",from_rod,"to rod",to_rod
-  TowerOfHanoi(n-1, aux_rod, to_rod, from_rod)
+    if n == 1:
+        print("Move disk 1 from rod",from_rod,"to rod",to_rod)
+    return TowerOfHanoi(n-1, from_rod, aux_rod, to_rod)
+    print("Move disk",n,"from rod",from_rod,"to rod",to_rod)
+    TowerOfHanoi(n-1, aux_rod, to_rod, from_rod)
 ```
 
 ### Driver code
@@ -48,7 +48,7 @@ TowerOfHanoi(n, 'A', 'C', 'B')
 
 ## Proof for Exponential Number of Steps
 
-I was quite happy with my intuition but unhappy with my math ability when I realized the exponential complexity. Let $h_n$ be the number of steps with $n$ disks. Here is the proof:
+Let $h_n$ be the number of steps with $n$ disks. Here is the proof:
 
 $$h_n = 2h_{n-1} + 1$$
 $$h_1 = 1$$
@@ -59,10 +59,16 @@ Now back to the legend. If the priests were able to move disks at a rate of one 
 
 ## Further
 
+Following are interesting ways to go deeper but I am good for now.
+
+- Iterative solutions
+- Relation to Hamiltonian path
+- Solutions to more than 3 rods
+
+## References
+
 The [Chinese wikipedia explanation](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%BA%E5%A1%94) is more terse and insightful than the [English one](https://en.wikipedia.org/wiki/Tower_of_Hanoi).
 
 [This geeksforgeeks post](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi) offers the [recursive solution](#recursion) code above, and a pretty good descriptive video.
 
 [Wolfram Mathworld](https://mathworld.wolfram.com/TowerofHanoi.html) gives more math insights.
-
-There are iterative solutions and the problem also relates to Hamiltonian path, but I am not interested enough to explore further.

@@ -137,33 +137,34 @@ Deutsch Notizen vom 2. bis 8. März.
 
 ### Wörter
 
-| Deutsch         | Englisch          |
-| --------------- | ----------------- |
-| klicken         | click             |
-| können/kann     | can               |
-| Vorstellung     | presentation      |
-| Sportarten      | sports            |
-| viele           | many              |
-| Pflicht         | duty              |
-| feld(er)        | field(s)          |
-| Pflichtfeld(er) | required field(s) |
-| bisschen        | a bit             |
-| natülich        | natural(ly)       |
-| Aufnahme        | recording         |
-| Beitrag         | contribution      |
-| absenden        | send              |
-| Änderung(en)    | change(s)         |
-| sichern         | make              |
-| Inhalt          | content           |
-| kennen          | know              |
-| verstehen       | understand        |
-| korrekt         | correct           |
-| auch            | also              |
-| sagen/sagt      | say               |
-| aussagen        | state             |
-| Aussprache      | pronunciation     |
-| aussprechen     | pronounce         |
-| Ihr(e)          | your              |
+| Deutsch         | Englisch           |
+| --------------- | ------------------ |
+| klicken         | click              |
+| können/kann     | can                |
+| Vorstellung     | idea, presentation |
+| Sportarten      | sports             |
+| viele           | many               |
+| Pflicht         | duty               |
+| feld(er)        | field(s)           |
+| Pflichtfeld(er) | required field(s)  |
+| bisschen        | a bit              |
+| natülich        | natural(ly)        |
+| Aufnahme        | recording          |
+| Beitrag         | contribution       |
+| absenden        | send               |
+| Änderung(en)    | change(s)          |
+| sichern         | store              |
+| Inhalt          | content            |
+| kennen          | know               |
+| verstehen       | understand         |
+| verstellen      | adjust             |
+| korrekt         | correct            |
+| auch            | also               |
+| sagen/sagt      | say                |
+| aussagen        | state              |
+| Aussprache      | pronunciation      |
+| aussprechen     | pronounce          |
+| Ihr(e)          | your               |
 
 ### <d type="ie" text="Zahlen"/>
 
