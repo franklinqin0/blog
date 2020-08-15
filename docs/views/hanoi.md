@@ -26,7 +26,7 @@ Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. Th
 
 ## Solution
 
-Let's say the 3 rods are called `A`, `B`, `C`. At first, `n=4`, `from_rod = A`, `to_rod = B`, `aux_rod = C`. For every `n` disks, our strategy is to first move all `n - 1` disks from `A` to `B`, move the `n`th disk from `A` to `C`, and at last move `n - 1` disks from `B` to `C`. To move the `n-1` disks from `A` to `B`, we should first move `n-2` disks from `A` to `C`, move the `n-1`th disk from `A` to `B`, and at last move `n-2` disks from `C` to `B`. We follow such pattern recursively, until there is only 1 disk left. As the following code shows:
+Let's say the 3 rods are called `A`, `B`, `C`. At first, $n=4$, `from_rod = A`, `to_rod = B`, `aux_rod = C`. For every $n$ disks, our strategy is to first move all $n-1$ disks from `A` to `B`, move the $n$th disk from `A` to `C`, and at last move $n-1$ disks from `B` to `C`. To move the $n-1$ disks from `A` to `B`, we should first move $n-2$ disks from `A` to `C`, move the $n-1$th disk from `A` to `B`, and at last move $n-2$ disks from `C` to `B`. We follow such pattern recursively, until there is only 1 disk left. As the following code shows:
 
 ### Recursion
 
@@ -55,7 +55,7 @@ $$h_1 = 1$$
 
 Solving the above two equations gives $h_n = 2^n - 1$, i.e., the [Mersenne primes](https://en.wikipedia.org/wiki/Mersenne_prime).
 
-Now back to the legend. If the priests were able to move disks at a rate of one per second, using the smallest number of moves it would take them $2^{64} − 1$ seconds or roughly 585 billion years to finish, which is about 42 times the current age of the universe.
+Now come back to [the legend](#origin). If the priests were able to move disks at a rate of one per second, using the smallest number of moves it would take them $2^{64} − 1$ seconds or roughly 585 billion years to finish, which is about 42 times the current age of the universe.
 
 ## Further
 

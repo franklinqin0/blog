@@ -5,6 +5,7 @@ categories:
   - about
 tags:
   - life
+  - copy
 ---
 
 This page documents good quotes I came across.
@@ -71,49 +72,6 @@ This page documents good quotes I came across.
 
 ---
 
-## 诗词
-
-::: tip
-江南无所有，聊赠一枝春
-::: right
-陆凯 《赠范晔》
-:::
-
-::: tip Seven times I have despised my soul
-The first time when I saw her being meek that she might attain height.  
-The second time when I saw her limping before the crippled.  
-The third time when she was given to choose between the hard and the easy, and she chose the easy.  
-The fourth time when she committed a wrong, and comforted herself that others also commit wrong.  
-The fifth time when she forbode for weakness, and attributed her patience to strength.  
-The sixth time when she despised the ugliness of a face, and knew not that it was one of her own masks.  
-And the seventh time when she sang a song of praise, and deemed it a virtue.  
-::: right
-Kahlil Gibran
-:::
-
-::: tip
-白玉堂前春解舞，东风卷得均匀。蜂围蝶阵乱纷纷。几曾随逝水？岂必委芳尘？  
-万缕千丝终不改，任他随聚随分。韶华休笑本无根。好风凭借力，送我上青云。  
-::: right
-薛宝钗 《临江仙·柳絮》
-:::
-
-::: tip
-贤愚相去，算其间能几。差以毫厘缪千里。细思量义利，舜跖之分，孳孳者，等是鸡鸣而起。  
-味甘终易坏，岁晚还知，君子之交淡如水。一饷聚飞蚊，其响如雷，深自觉、昨非今是。羡安乐窝中泰和汤，更剧饮，无过半醺而已。  
-::: right
-辛弃疾 《洞仙歌·丁卯八月病中作》
-:::
-
-::: tip
-醉过才知酒浓  
-爱过才知情重  
-你不能做我的诗  
-正如我不能做你的梦  
-::: right
-胡适 《梦与诗》
-:::
-
 ## Quotes
 
 ::: tip
@@ -140,20 +98,4 @@ Oscar Wilde
 子夏曰：“博学而笃志，切问而近思，仁在其中矣。”
 ::: right
 《论语·子张》
-:::
-
-::: tip
-夫天地者，万物之逆旅；光阴者，百代之过客。而浮生若梦，为欢几何？古人秉烛夜游，良有以也。况阳春召我以烟景，大块假我以文章。会桃李之芳园，序天伦之乐事。群季俊秀，皆为惠连；吾人咏歌，独惭康乐。幽赏未已，高谈转清。开琼筵以坐花，飞羽觞而醉月。不有佳作，何伸雅怀？如诗不成，罚依金谷酒数。
-::: right
-李白《春夜宴从弟桃花园序》
-:::
-
-::: tip
-
-人生若只如初见，何事秋风悲画扇。
-等闲变却故人心，却道故人心易变。
-骊山语罢清宵半，泪雨霖铃终不怨。
-何如薄幸锦衣郎，比翼连枝当日愿。
-::: right
-纳兰性德 《木兰花·拟古决绝词柬友》
 :::
