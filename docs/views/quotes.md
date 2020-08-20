@@ -80,6 +80,18 @@ The function of good software is to make the complex appear to be simple.
 Grady Booch
 :::
 
+::: tip
+Testing shows the presence, not the absence of bugs.
+::: right
+Edsger Wybe Dijkstra
+:::
+
+::: tip
+The difference between stupidity and genius is that genius has it limits.
+::: right
+Albert Einstein
+:::
+
 ::: tip Love Oneself
 To love oneself is the beginning of a lifelong romance.
 ::: right
