@@ -74,16 +74,10 @@ This page documents good quotes I came across.
 
 ## Quotes
 
-::: tip
-The function of good software is to make the complex appear to be simple.
+::: tip Love Oneself
+To love oneself is the beginning of a lifelong romance.
 ::: right
-Grady Booch
-:::
-
-::: tip
-Testing shows the presence, not the absence of bugs.
-::: right
-Edsger Wybe Dijkstra
+Oscar Wilde
 :::
 
 ::: tip
@@ -92,13 +86,87 @@ The difference between stupidity and genius is that genius has it limits.
 Albert Einstein
 :::
 
-::: tip Love Oneself
-To love oneself is the beginning of a lifelong romance.
+::: tip
+At the heart of science is an essential balance between two seemingly contradictory attitudes--an openness to new ideas, no matter how bizarre or counterintuitive they may be, and the most ruthless skeptical scrutiny of all ideas, old and new. This is how deep truths are winnowed from deep nonsense.
 ::: right
-Oscar Wilde
+Carl Sagan
 :::
 
-今天看《三千鸦杀》，片名来自于以下诗句。意思是即使除去所有的太阳、长眠不醒，也不愿与你分离。世人从这句话中体会到了爱人间的浪漫，但可曾体会过执着之苦？Love is a sweet pain.
+::: tip
+We shall do a much better programming job, provided we approach the task with a full appreciation of its tremendous difficulty, provided that we respect the intrinsic limitations of the human mind and approach the task as very humble programmers.
+::: right
+Alan Turing
+:::
+
+::: tip
+Information is the resolution of uncertainty.
+::: right
+Claude Elwood Shannon
+:::
+
+::: tip
+
+- Testing shows the presence, not the absence of bugs.
+- Elegance is not a dispensable luxury but a quality that decides between success and failure.
+- Simplicity is prerequisite for reliability.
+
+::: right
+Edsger Wybe Dijkstra
+:::
+
+::: tip
+
+- Premature optimization is the root of all evil.
+- When I speak about computer programming as an art, I am thinking primarily of it as an art form, in an aesthetic sense. The chief goal of my work as an educator and author is to help people learn how to write beautiful programs ... My feeling is that when we prepare a program, the experience can be just like composing poetry or music ... Some programs are elegant, some are exquisite, some are sparkling. My claim is that it is possible to write grand programs, noble programs, truly magnificent ones! ... computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. Programmers who subconsciously view themselves as artists will enjoy what they do and will do it better.
+
+::: right
+Donal Knuth
+:::
+
+::: tip
+There are two ways of constructing a software design. One way is to make it so simple that there are obviously no deficiencies. And the other way is to make it so complicated that there are no obvious deficiencies.
+::: right
+Tony Hoare
+:::
+
+::: tip
+The purpose of computation is insight, not numbers.
+::: right
+Richard Hamming
+:::
+
+::: tip
+
+- Software is like sex: It's better when it's free.
+- Talk is cheap. Show me the code.
+- Those that can, do. Those that can't, complain.
+- The Linux philosophy is 'Laugh in the face of danger'. Oops. Wrong - One. 'Do it yourself'. Yes, that's it.
+- See, you not only have to be a good coder to create a system like - Linux, you have to be a sneaky bastard too.
+- I'm an egotistical bastard, and I name all my projects after myself. - First 'Linux', now 'git'.
+
+::: right
+Linus Torvalds
+:::
+
+::: tip
+Success is a lousy teacher. It seduces smart people into thinking they can't lose. And it's an unreliable guide to the future.
+::: right
+Bill Gates
+:::
+
+::: tip
+Now, it's my belief that Python is a lot easier than to teach to students programming and teach them C or C++ or Java at the same time because all the details of the languages are so much harder. Other scripting languages really don't work very well there either.
+::: right
+Guido van Rossum
+:::
+
+::: tip
+The function of good software is to make the complex appear to be simple.
+::: right
+Grady Booch
+:::
+
+即使除去所有的太阳、长眠不醒，也不愿与你分离。世人从这句话中体会到了爱人间的浪漫，但可曾痛苦于执着？Love is a sweet pain.
 
 ::: tip
 三千世界鸦杀尽，与君共寝至天明
