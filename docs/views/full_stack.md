@@ -94,6 +94,24 @@ store the hashed value: `hash(provided password + stored salt)`
 
 ## JS
 
+### == vs. ===
+
+## ES 6
+
+https://github.com/addyosmani/es6-equivalents-in-es5
+
+### This & Arrow Function
+
+### Class
+
+### Deconstruction
+
+### Spread Operator
+
+`...`
+
+### Unite Unique
+
 Let's see vanilla JS.
 
 ```js
@@ -141,22 +159,6 @@ function uniteUnique(...arrays) {
   return [...new Set(flatArray)];
 }
 ```
-
-### == vs. ===
-
-## ES 6
-
-https://github.com/addyosmani/es6-equivalents-in-es5
-
-### This & Arrow Function
-
-### Class
-
-### Deconstruction
-
-### Spread Operator
-
-`...`
 
 ## NoSQL
 
