@@ -17,7 +17,7 @@
     "@vuepress/plugin-google-analytics": "^1.5.2",
     "@vuepress/plugin-medium-zoom": "1.5.2",
     "vue-class-component": "^7.2.3",
-    "vuepress": "1.5.2",
+    "vuepress": "1.5.3",
     "vuepress-plugin-comment": "^0.7.3",
     "vuepress-plugin-flowchart": "1.4.3",
     "vuepress-plugin-google-adsense": "^0.1.0",
