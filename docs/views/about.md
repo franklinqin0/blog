@@ -22,6 +22,8 @@ I was a technology analyst working at GS in Hong Kong from July 2018 to August 2
 
 I was a voluntary teacher in CJ, Guizhou, China from September to December 2019.
 
-Now I am a full stack developer at a tech startup in Guangzhou, China.
+I was a full stack engineer and developed a course scheduling system at a tech startup in Guangzhou, China.
 
-I will always keep writing blogs in [Markdown](https://daringfireball.net/projects/markdown/syntax), b/c it's simple and down-to-earth, just like me.
+Now I am studying CS, German, violin.
+
+I love writing blogs in [Markdown](https://daringfireball.net/projects/markdown/syntax), b/c it's simple and down-to-earth, just like me.

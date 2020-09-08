@@ -93,7 +93,10 @@ Carl Sagan
 :::
 
 ::: tip
-We shall do a much better programming job, provided we approach the task with a full appreciation of its tremendous difficulty, provided that we respect the intrinsic limitations of the human mind and approach the task as very humble programmers.
+
+- Sometimes it is the people no one can imagine anything of who do the things no one can imagine.
+- We shall do a much better programming job, provided we approach the task with a full appreciation of its tremendous difficulty, provided that we respect the intrinsic limitations of the human mind and approach the task as very humble programmers.
+
 ::: right
 Alan Turing
 :::

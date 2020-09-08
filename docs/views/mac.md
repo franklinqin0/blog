@@ -2,9 +2,9 @@
 title: Mac Notes
 date: 2020-03-09
 categories:
- - study
+  - study
 tags:
- - tech
+  - tech
 ---
 
 This blog illustrates some notes on using my Mac (model was released in mid 2015, OS is Catalina 10.15).
@@ -83,4 +83,16 @@ alias unsetproxy="set -e ALL_PROXY"
 # set/unset proxy just for Git
 alias agent="git config --global http.proxy socks5://127.0.0.1:1086;git config --global https.proxy socks5://127.0.0.1:1086;git config --global http.sslVerify false"
 alias unagent="git config --global --unset http.proxy;git config --global --unset https.proxy"
+```
+
+Enable credentials storage in local Git repository:
+
+```sh
+$ git config credential.helper store
+```
+
+Enable credentials storage globally:
+
+```
+$ git config --global credential.helper store
 ```
