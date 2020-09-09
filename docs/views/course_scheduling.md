@@ -7,32 +7,32 @@ tags:
   - tech
 ---
 
-During the past summer, I worked at a friend's tech startup and established a course scheduling system. I served as a full stack engineer for this task, learned a lot during such process and want to share some ideas and insights on this project.
+During the past summer, I worked at a friend's tech startup and established a course scheduling system. I served as a full stack engineer for this task, learned a lot and want to share some ideas and insights.
 
 <!-- more -->
 
 ## Data Models
 
-Code should be built around data instead of the other way around. Thus, building a sensible data model is crucial. Given models in teacher, class, course (stores pointer of at most 1 teacher and at most 1 class), I created a few more models, two most essential of which are `slot` and `schedule`. `Slot` has information on the start and end times, which school day, which session on the school day, etc. If a `slot` is not available to assign any schedule, its field `free` is then false. `Schedule` wraps around course (name, teacher, class), room, and of course, `slot`. If a course has multiple lectures during the week, then there are multiple schedules corresponding to the course. If a schedule is assigned to a slot, the `slot` id is then stored.
+Code should be built around data instead of the other way around. Thus, building a sensible data model is crucial. Given models in teacher, class, course (taught by at most 1 teacher and to at most 1 class), I created a few more models, two most essential of which are `slot` and `schedule`. `Slot` has information on the start and end times, what school day, which session on the school day, etc. If a `slot` is not available to assign any schedule, its field `free` is then false. `Schedule` is a weekly session of a course and contains info on course, teacher, class, room, and `slot`. There can be multiple schedules for a course. If a schedule is assigned to a slot, the `slot` id is then stored.
 
 ## Algorithm - Integer Programming (IP)
 
-When I took over the task of high school course scheduling, I was quite excited and immediately realized that I could use the my ORIE knowledge (specifically, integer programming) the first time after my graduation. However, I forgot most of what I learned in ORIE 3310 (Optimization II), let alone how to transform the data into code. But through review over course notes, and help of college professors (my special thanks go to Professor [David Williamson](http://www.davidpwilliamson.net/work), the teacher who taught me ORIE 3310 in spring 2017), I was able to realize the algorithm in code. No code will be displayed below to protect business secrets, but math can be shared with no concern.
+When I took over the task of high school course scheduling, I immediately realized that I could use the my ORIE knowledge (specifically, integer programming) the first time after my graduation. However, I forgot most of what I learned in ORIE 3310 (Optimization II), let alone how to transform the data into code. But through review over course notes, and help of college professors (my special thanks go to Professor [David Williamson](http://www.davidpwilliamson.net/work), the teacher who taught me ORIE 3310 in spring 2017), I was able to realize the algorithm in code. No code will be displayed below to protect business secrets, but math can be shared with no concern.
 
 What is integer programming? According to [Wikipedia](https://en.wikipedia.org/wiki/Integer_programming), _it is a mathematical optimization or feasibility program in which some or all of the variables are restricted to be integers. In many settings, the term refers to integer linear programming (ILP), in which the objective function and the constraints (other than the integer constraints) are linear._
 
-Here is an integer linear program in canonical form:
+Here is an **integer linear program** in canonical form:
 
 $$
 \begin{array}{ll}
 \text{maximize} & \mathbf{c}^{\mathrm{T}} \mathbf{x} \\
-\text{subject to} & A \mathbf{x} \leq \mathbf{b} \\
-& \mathbf{x} \geq \mathbf{0} \\
+\text{subject to} & A \mathbf{x} \le \mathbf{b} \\
+& \mathbf{x} \ge \mathbf{0} \\
 \text {and} & \mathbf{x} \in \mathbb{Z}^{n}
 \end{array}
 $$
 
-A linear program in canonical form would not require the integrality constraint.
+A **linear program** in canonical form is similar but omits the integrality constraint.
 
 In the following math formulations, the decision variables are binary, either 0 or 1. This is a special case of integer programming, and a usual practice for assignment problems.
 
@@ -97,10 +97,10 @@ Before integer programming, I initially used GA for the course scheduling algori
 
 Essentially, GA depends heavily on the initial population and may be ineffective or inefficient if not operated properly. Being stochastic, there are no guarantees on the optimality or the quality of the solution. Therefore, there is a consensus in the academia that GA, though a generic problem solver, is at best the 2nd best way to solve any problem.
 
-Simply put, in the case of course scheduling, GA is definitely inferior to IP.
+Simply put, in terms of course scheduling, GA gives an expedient solution but IP gives a feasible one.
 
-### Divide & Conquer
+### Manual Simulation
 
-My colleagues remind me of the usual and manual way of scheduling courses: tackle by each course/teacher/class. This would gradually reduce the number of free schedules. Though it works well for basic cases, but not so much when parallel electives are involved. This algorithm may schedule the parallel electives before normal schedules, but may require additional adjustments after assignment.
+My colleagues remind me of a simple algorithm: simulate the manual way of scheduling courses: tackle by each course/teacher/class. This would gradually reduce the number of free schedules. Though it works well for basic cases, but not so much when parallel electives are involved. This algorithm may schedule the parallel electives before normal schedules, but may require additional adjustments after assignment.
 
 In short, the algorithm does not go further than manual scheduling, though seems intuitive. Unfortunately, like GA, no strict math proof can be given to ensure the existence of a feasible solution.
