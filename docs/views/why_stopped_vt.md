@@ -5,14 +5,14 @@ categories:
   - misc
 tags:
   - VT
-prev: coach_for_a_ping_pong_match
+prev: ping_pong_coach
 ---
 
 This blogs serves as an end to the `VT` (voluntary teaching) series:
 
 - [Why VT](why_vt)
 - [My VT experience](vt)
-- [Coach for a Ping Pong Match](coach_for_a_ping_pong_match)
+- [Ping Pong Coach](ping_pong_coach)
 
 <!-- more -->
 
