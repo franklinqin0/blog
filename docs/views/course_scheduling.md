@@ -28,7 +28,7 @@ $$
 \text{maximize} & \mathbf{c}^{\mathrm{T}} \mathbf{x} \\
 \text{subject to} & A \mathbf{x} \leq \mathbf{b} \\
 & \mathbf{x} \geq \mathbf{0} \\
-\text { and } & \mathbf{x} \in \mathbb{Z}^{n}
+\text {and} & \mathbf{x} \in \mathbb{Z}^{n}
 \end{array}
 $$
 
@@ -67,7 +67,7 @@ $\sum_{j \in P} x_{ij}$ for each slot $i$, where $P$ represents the $p$-th combi
 Sometimes the administrator may have assigned some schedules to some slots already, so the algorithm only deals with free schedules. However, we need to satisfy no-conflict constraints with the assigned schedules. There are basically two ways to deal with assigned schedules (assume schedule $j$ is assigned to slot $i$):
 
 1. Assign decision variables involving assigned slot and schedule to $1$, so that the free schedules automatically satisfy previous constraints. E.g., set $x[i, j] = 1$
-2. All the other schedules with same teacher, class, room as schedule $j$ should not be assigned at slot $i$. E.g., if schedule $j$ is a **physics** course and taught by **Albert** to class **Thoreau**, then any free schedule that is a **physics** course or taught by **Albert** or taught to class **Thoreau** should be $0$ at slot $i$.
+2. All the other schedules with same teacher, class, room as schedule $j$ should not be assigned at slot $i$. E.g., if schedule $j$ is a **physics** course and taught by **Albert** to class **Thoreau**, then decision variable of any free schedule that is a **physics** course or taught by **Albert** or taught to class **Thoreau** is set to $0$ at slot $i$.
 
 The 1st way has the number of decision variables equal to that of all schedules but has less constraints. The 2nd way has the number of decision variables equal to that of only free schedules but has more constraints.
 
