@@ -58,9 +58,9 @@ It should be obvious that for a set of classes (usually a grade), compulsory and
 
 I then created a new data model `parallel elective`, and stores the id's of classes (MongoDB allows an array to be stored in a row). If a course schedule belongs to a parallel elective, it then stores its id. This model is simple and based on the assumption that each schedule can only belong to one parallel elective.
 
-For the math formulation, I will start with an illustrative example. Say we have three courses, $A$, $B$, $C$, and each has $k$ weekly schedules (same _number of schedules_ is recommended but not required). Therefore, schedules $A_1$, ..., $A_k$, $B_1$, ..., $B_k$, $C_1$, ..., $C_k$ store the same id of a parallel elective. $A$, $B$, $C$ are then zipped and produced $k$ combinations: $[A_1, B_1, C_1]$, ..., $[A_k, B_k, C_k]$. For each combination in a parallel elective, the schedules are either scheduled together or not:
+For the math formulation, I will start with an illustrative example. Say we have three courses, $A$, $B$, $C$, and each has $k$ weekly schedules (same _number of schedules_ is recommended but not required). Therefore, schedules $A_1$, ..., $A_k$, $B_1$, ..., $B_k$, $C_1$, ..., $C_k$ store the same id of a parallel elective. $A$, $B$, $C$ are then zipped and produced $k$ combinations: $[A_1, B_1, C_1]$, ..., $[A_k, B_k, C_k]$. For each combination in a parallel elective, the schedules are either all scheduled in a slot or not:
 
-$\sum_{j \in P} x_{ij}$ for each slot $i$, where $P$ represents the $p$-th combination $[A_p, B_p, C_p]$ and $p \in [1..k]$
+$\sum_{j \in P} x_{ij} = 0/k$ for each slot $i$, where $P$ represents the $p$-th combination $[A_p, B_p, C_p]$ and $p \in [1..k]$
 
 ### Assigned Schedules
 

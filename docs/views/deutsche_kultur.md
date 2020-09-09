@@ -2,10 +2,10 @@
 title: 德国文化
 date: 2020-05-08
 categories:
- - play
+  - play
 tags:
- - Deutsch
- - life
+  - Deutsch
+  - life
 sidebar: false
 ---
 
@@ -21,6 +21,18 @@ sidebar: false
 - [English+German lyrics](https://lyricstranslate.com/en/das-gibts-nur-einmal-it-only-happens-once.html)
 
 在《起风了》这部宫崎骏“最后”的电影里，在男女主热恋时，一旁微笑地看透一切的憨憨德国大叔在餐厅里弹唱了这首歌，十分应景。一生只有一次初恋，就像春天只有一个五月。情侣恋爱时，总以为爱会海枯石烂，但最终还是会挥手说再见。在天空还未变灰之前，须尽情享受对方眼中的光辉！
+
+### Zwei Kleine Sterne
+
+- [song](https://youtu.be/bjbdrJngKFA)
+- [lyrics](https://lyricstranslate.com/en/zwei-kleine-sterne-two-little-stars.html)
+
+::: tip
+Zwei kleine Sterne stehen
+am großen Himmelszelt.
+Sie werden mit dir gehen
+wohl in die weite, weite Welt.
+:::
 
 ### Wie Schön Du Bist
 
@@ -54,7 +66,7 @@ How beautiful you are! 想起了一首英文歌：[Just The Way You Are](https:/
 
 - [中文解说](https://www.bilibili.com/video/BV1kW411e7nm/)
 
-电影中有大诗人T.S. Eliot的一段话：
+电影中有大诗人 T.S. Eliot 的一段话：
 
 ::: tip exploration
 We shall not cease from exploration  
@@ -79,6 +91,6 @@ und werden diesen Ort zum ersten Mal erfassen.
 
 所谓的真相，不过是**每个人只会看见他愿意看见的东西**。
 
-Paul Graham说：黑客是艺术家。但编程艺术也只有看得懂代码的人才能体会。对普通大众而言，黑客更像是魔术师，把不可能变为可能，用代码攻克坚不可摧的系统。但如果是为一己私利就另当别论了。
+Paul Graham 说：黑客是艺术家。但编程艺术也只有看得懂代码的人才能体会。对普通大众而言，黑客更像是魔术师，把不可能变为可能，用代码攻克坚不可摧的系统。但如果是为一己私利就另当别论了。
 
-特别喜欢这种像过山车一样反转反转再反转的烧脑爆米花电影！对了，顺带粉上了Tom Schilling ~~~
+特别喜欢这种像过山车一样反转反转再反转的烧脑爆米花电影！对了，顺带粉上了 Tom Schilling ~~~
