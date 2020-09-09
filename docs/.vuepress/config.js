@@ -25,7 +25,7 @@ module.exports = {
     [
       'vuepress-plugin-comment',
       {
-        choosen: 'gitalk', 
+        choosen: 'gitalk',
         options: {
           clientID: '60994aaadda1cb23b737',
           clientSecret: '17a720136175e289ac15e1bf613cf2887cdf1209',
@@ -33,7 +33,7 @@ module.exports = {
           owner: "franklinqin0",
           admin: ["franklinqin0"],
           id: "<%- frontmatter.title %>", // Ensure uniqueness and length less than 50
-          distractionFreeMode: true, // Facebook-like distraction free mode
+          distractionFreeMode: false, // Facebook-like distraction free mode
           labels: ["Comment"],
           title: "Comment | <%- frontmatter.title %>",
           body: "<%- frontmatter.title %>：<%- window.location.origin %><%- window.location.pathname %>"
@@ -60,8 +60,8 @@ module.exports = {
     [
       '@vuepress-reco/vuepress-plugin-rss',
       {
-      site_url: 'https://franklinqin0.me',
-      count: 20
+        site_url: 'https://franklinqin0.me',
+        count: 20
       }
     ],
     [
