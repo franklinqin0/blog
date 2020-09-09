@@ -42,7 +42,7 @@ Whether I assign a schedule to a slot or not, this is a binary decision and I ne
 
 Further, the core constraint is to have no conflict in the timetable, i.e., no more than one schedule of each course, teacher, class, or room in each slot. To represent these in math:
 
-$x = 0/1$ (_boolean condition_)
+$x[i, j] = 0/1$ for all slot $i$'s and schedule $j$'s (_boolean condition_)
 
 $\sum_{j \in \mathbf{T}} x_{ij} \le 1$ for each slot $i$, where $T$ is the set of schedules taught by each teacher (because we assume each course is taught by one and only one teacher, the _unique course condition_ can be satisfied by this _unique teacher condition_)
 
@@ -56,7 +56,7 @@ $\sum_{i = 0}^{n} x_{ij} = 1$ for each schedule $j$ (easy to forget, but we have
 
 It should be obvious that for a set of classes (usually a grade), compulsory and elective courses taken by a class should not be scheduled in the same slot. To go one step further, the high school requires the feature "parallel electives", which requires a set of courses enrolled by a set of classes to be assigned at a same slot. A student from these classes can thus only choose at most one out of these courses for this semester.
 
-I then created a new data model `parallel elective`, and stores the id's of classes (MongoDB allows an array to be stored in a row). If a course schedule belongs to a parallel elective, it then stores its id. This model is simple and based on the assumption that each schedule can only belong to one parallel elective.
+I then created a new data model `parallel elective`, which stores the id's of `class`es (MongoDB allows an array to be stored in a document). If a course `schedule` belongs to a parallel elective, it then stores its id. This model is simple and based on the assumption that each schedule can only belong to one parallel elective.
 
 For the math formulation, I will start with an illustrative example. Say we have three courses, $A$, $B$, $C$, and each has $k$ weekly schedules (same _number of schedules_ is recommended but not required). Therefore, schedules $A_1$, ..., $A_k$, $B_1$, ..., $B_k$, $C_1$, ..., $C_k$ store the same id of a parallel elective. $A$, $B$, $C$ are then zipped and produced $k$ combinations: $[A_1, B_1, C_1]$, ..., $[A_k, B_k, C_k]$. For each combination in a parallel elective, the schedules are either all scheduled in a slot or not:
 
