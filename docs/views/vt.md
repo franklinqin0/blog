@@ -16,7 +16,8 @@ next: ping_pong_coach
 
 - 凡事勿过度
 - 认识你自己
-  :::
+
+:::
 
 <!-- more -->
 

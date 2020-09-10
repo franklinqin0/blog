@@ -2,9 +2,9 @@
 title: Functional Programming in Java
 date: 2020-02-22
 categories:
- - study
+  - study
 tags:
- - tech
+  - tech
 publish: false
 ---
 
@@ -24,7 +24,7 @@ Firstly, let's overview what is FP and why we should use it.
 
 #### Paradigm
 
-a *paradigm* describes distinct concepts or thought patterns in some scientific discipline.
+a _paradigm_ describes distinct concepts or thought patterns in some scientific discipline.
 
 Main programming paradigms:
 
@@ -48,13 +48,13 @@ is about:
 
 pure imperative programming is limited by the "Von Neumann" bottleneck:
 
-*One tends to conceptualize data structures word-by-word.*
+_One tends to conceptualize data structures word-by-word._
 
 $\rightarrow$ need other techniques for defining **high-level abstractions** such as collections, polynomials, geometric shapes, strings, documents.
 
 ### Theory
 
-Ideally, develop *theories* of collections, shapes, strings, ...
+Ideally, develop _theories_ of collections, shapes, strings, ...
 
 A theory consists of:
 
@@ -62,7 +62,7 @@ A theory consists of:
 - operations on these types
 - laws that describe the relationships between values and operations
 
-Normally, a theory does not describe *mutations*, and mutation can destroy useful laws in theories.
+Normally, a theory does not describe _mutations_, and mutation can destroy useful laws in theories.
 
 Thus, let's concentrate on defining theories for **operators expressed as functions** to:
 
@@ -71,7 +71,7 @@ Thus, let's concentrate on defining theories for **operators expressed as functi
 
 ### Functional Programming
 
-- In a *restricted sense*, FP means programming **w/o mutable variables, assignments, loops, and other imperative control structures**
+- In a _restricted sense_, FP means programming **w/o mutable variables, assignments, loops, and other imperative control structures**
 - In a wider sense, FP means focusing on the **functions** (math > CS, no side effect + return value depends only on the input params)
 - In particular, functions can be values that are **produced**, **consumed**, and **composed**
 
@@ -128,7 +128,7 @@ def sum(f: Int => Int, a: Int, b: Int) = {
 
 ### Currying
 
-**Def**: translating the evaluation of a function that *takes multiple arguments* into *evaluating a sequence of functions, each with a single argument*.
+**Def**: translating the evaluation of a function that _takes multiple arguments_ into _evaluating a sequence of functions, each with a single argument_.
 
 Example: `f(x,y,z) = h(x)(y)(z)`.
 
@@ -196,7 +196,7 @@ You are back to square one; you need test and access methods for all the differe
 
 ### Case Class
 
-A *case class* definition is similar to a normal class definition, except that it is preceded by the modifier `case`. For example:
+A _case class_ definition is similar to a normal class definition, except that it is preceded by the modifier `case`. For example:
 
 ```scala
   trait Expr
@@ -280,6 +280,7 @@ String formatted =
 ```
 
 More at:
+
 1. http://cr.openjdk.java.net/~briangoetz/amber/pattern-match.html
 2. https://blog.codefx.org/java/switch-expressions/
 
@@ -289,7 +290,7 @@ When passing in or return a function, what type is it? $\rightarrow$ find a type
 
 What matters: **Input and Return Types**
 
-*Functional Interfaces* in `java.util.function`:
+_Functional Interfaces_ in `java.util.function`:
 
 ```Java
 public interface Function<T,R>{
@@ -367,7 +368,7 @@ Above example from [this source](https://hackernoon.com/finally-functional-progr
 
 From [GeeksforGeeks](https://www.geeksforgeeks.org/stream-in-java/):
 
-Introduced in **Java 8**, the Stream API (in `java.util.stream`) is used to process collections of objects. A **stream** is *a sequence of objects* that supports various methods which can be *pipelined* to produce the desired result.
+Introduced in **Java 8**, the Stream API (in `java.util.stream`) is used to process collections of objects. A **stream** is _a sequence of objects_ that supports various methods which can be _pipelined_ to produce the desired result.
 
 Besides pipelining, a stream can be lazily evaluated
 
@@ -439,7 +440,7 @@ So we have to write `<String, List<String>>` twice! But now we could simply do:
 Map<String, List<String>> myMap = new HashMap<>();
 ```
 
-Note that we need `<>` b/c o.w. `HashMap()` refers to `HashMap` raw type, and we'd receive an *unchecked conversion warning*.
+Note that we need `<>` b/c o.w. `HashMap()` refers to `HashMap` raw type, and we'd receive an _unchecked conversion warning_.
 
 #### Type Checking vs. Type Inference
 
@@ -465,6 +466,7 @@ Some are concerning to personal tastes, while some are hard to change due to ini
 Out of several languages I know, JavaScript and Scala use "=>" whereas OCaml uses "->". Personally I don't think it matters, but I easily get confused when coding in different languages.
 
 #### no `break` would break
+
 In switch statements(not expression!): `break` could easily be forgotten.
 
 #### Functional $\leftarrow$ Interface
@@ -510,5 +512,4 @@ I'm not ashamed of admitting not knowing these stuff, b/c I will defo come back 
   - Java was initially known for JVM's portability and now we see a series of JVM languages
 - bought and turned into quick & periodic upgrades
 
-![May the Force Be with You!](
-https://i.kym-cdn.com/photos/images/newsfeed/000/748/010/532.jpg)
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/000/748/010/532.jpg" alt="May the Force Be with You!" width=50% class="medium-zoom">

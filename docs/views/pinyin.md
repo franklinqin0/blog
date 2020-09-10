@@ -15,11 +15,11 @@ tags:
 
 直到大学结束，我一直用全拼打字。
 
-然后，我在 HK 参加工作，考虑到有时候会打繁体字，用纯字型输入法比较繁琐，拼音可直接移植，十分方便。但听说全拼不如双拼快，于是想学习双拼。用头两个星期学会了**搜狗双拼**，发现自己确实能用更短的时间能打更多的字，但有些编码不直观，只能强记。
+刚开始在 HK 参加工作时，考虑到有时候会打繁体字，用纯字型输入法比较繁琐，拼音可直接移植，十分方便。但听说全拼不如双拼快，于是想学习双拼。用头两个星期学会了**搜狗双拼**，发现自己确实能用更短的时间能打更多的字，但有些编码不直观，只能强记。
 
-几个月后，我朋友给我说了一位 CS 大神，用双拼，但用的是**小鹤双拼**。
+几个月后，朋友给我说了一位 CS 大神，用双拼，但用的是**小鹤双拼**。
 
-虽然都是双拼，但转变不易，我又如便秘一般痛苦地学习一星期、熟练一星期。但那之后，打字时就浑身通透舒畅。
+虽然都是双拼，但转变不易，有如便秘一般痛苦地学习与熟练之后，打字时就浑身通透舒畅。
 
 ## 双拼
 
@@ -35,7 +35,7 @@ tags:
 
 双拼有许多方案，在输入法里的设置里可以自由选择，比如我的安卓手机上使用[gboard 输入法](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en_US)有以下双拼方案：
 
-<img src="/pinyin/shuangpin_options.png" alt="双拼方案" width=40%>
+<img src="/pinyin/shuangpin_options.png" alt="双拼方案" width=40% class="medium-zoom">
 
 小鹤双拼是所有双拼方案中最合理、直观、容易记住的。如果你不相信，可以把所有的双拼方案都学一遍～ 😂
 
@@ -47,7 +47,7 @@ tags:
 
 以下键位图来自[小鹤拼音官网双拼页面](https://www.flypy.com/pin.html)：
 
-![键位图](/pinyin/key_mappings.png)
+<img src="/pinyin/key_mappings.png" alt="键位图" width=40% class="medium-zoom">
 
 注意：如果全拼只有韵母，那么小鹤双拼编码有以下两种情况：
 
@@ -68,13 +68,13 @@ tags:
 
 值得一提的是，如果学会小鹤双形，可以基本不用选字，如官网的 demo：
 
-![小鹤双形 demo](https://www.flypy.com/images/twlp.gif)
+<img src="https://www.flypy.com/images/twlp.gif" alt="小鹤双形 demo" width=40% class="medium-zoom">
 
 ## 模糊音设置
 
 最后讲讲模糊音设置。无论全拼或双拼，都可以有模糊音设置：
 
-<img src="/pinyin/fuzzy_pinyin_settings.png" alt="模糊音设置" width=40%>
+<img src="/pinyin/fuzzy_pinyin_settings.png" alt="模糊音设置" width=40% class="medium-zoom">
 
 这个就见仁见智啦！如果设置太多会有过多符合的字词，影响选字。如果设置太少，则输入错误时会浪费时间修改。
 
