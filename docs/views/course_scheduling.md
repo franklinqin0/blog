@@ -20,7 +20,7 @@ Code should be designed around data instead of the other way around. Thus, build
 - start time
 - end time
 - school day
-- free (`slot` is not available to assign any schedule)
+- free (if _false_, no `schedule` can be assigned to this `slot`)
 
 `Schedule` is a weekly session of a course and contains following information:
 
@@ -28,13 +28,13 @@ Code should be designed around data instead of the other way around. Thus, build
 - teacher
 - class
 - room
-- `slot` (if _false_, no `schedule` can be assigned to this `slot`)
+- `slot` (refers if assigned to the `slot`)
 
 There can be multiple `schedule`s for a `course`.
 
 ## Algorithm - Integer Programming (IP)
 
-When I took over the task of high school course scheduling, I immediately realized that I could use the my ORIE knowledge (specifically, integer programming) the first time after my graduation. However, I forgot most of what I learned in _Optimization II_, let alone how to transform the data into code. Through careful review over ORIE 3310 course notes, and help of Cornell professors, I was able to realize the algorithm in code. To guard business secrets, no code will be displayed below, but math can be shared with no concern.
+When I took over the task of high school course scheduling, I immediately realized that I could use the my ORIE knowledge (specifically, integer programming) the first time after my graduation. However, I forgot most of what I learned in _Optimization II_, let alone how to transform the data into code. Through careful review over ORIE 3310 course notes, and help of Cornell professors, I was able to realize the algorithm in code. In the following, I will restrict to the math formulations of IP rather than code.
 
 What is integer programming? According to [Wikipedia](https://en.wikipedia.org/wiki/Integer_programming), _it is a mathematical optimization or feasibility program in which some or all of the variables are restricted to be integers. In many settings, the term refers to integer linear programming (ILP), in which the objective function and the constraints (other than the integer constraints) are linear._
 
@@ -101,11 +101,11 @@ The 1st requirement is easy to implement, say there is a relationship between `s
 
 $\sum_{j \in \mathbf{T}} x_{ij} = 0$ for each $i \in [1..m]$, where $T$ is the set of schedules taught by teacher $t$
 
-The 2nd requirement is indeed a bit tricky. Say there are 2 schedules $j_1$ and $j_2$ to be assigned to 2 slots $i$ and $i + s$, where $s$ is the number of school days (usually $5$). Thus, setting `x[i, j_1]` and `x[i + s, j_2]` both to 1 would ensure the consecutive condition. In reality, however, the $i$ cannot be determined, and _consecutives_ is given, i.e., the mapping from a `course` to `# consecutives`.
+The 2nd requirement is indeed a bit tricky. Say there are 2 schedules $j_1$ and $j_2$ to be assigned to 2 slots $i$ and $i + s$, where $s$ is the number of school days (usually $5$). Thus, setting `x[i, j_1]` and `x[i + s, j_2]` both to 1 would ensure the consecutive condition. In reality, however, the $i$ cannot be determined, and `consecutives` is given, i.e., the mapping from a `course` to `# consecutives`.
 
 Here are the constraints:
 
-$\sum_{i = 0}^{m - s} \sum_{j_1, j_2 \in \mathbf{C}, j_1 \neq j_2} x[i, j_1] * x[i + s, j_2] \le \text{consecutives}[\mathbf{C}]$, where $C$ is the set of schedules of each course
+$\sum_{i = 0}^{m - s} \sum_{j_1, j_2 \in \mathbf{C}, j_1 \neq j_2} x[i, j_1] \times x[i + s, j_2] \le \text{consecutives}[\mathbf{C}]$, where $C$ is the set of schedules of each course
 
 And the objective is basically to maximize sum of LHS of constraints.
 
