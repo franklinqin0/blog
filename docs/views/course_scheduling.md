@@ -61,13 +61,13 @@ Further, the core constraint is to have **no conflict** in the timetable, i.e., 
 
 $x[i, j] = 0/1$ for all slots $i \in [1..m]$ and schedules $j \in [1..n]$ (_boolean condition_: $0$ means schedule $j$ is not assigned to slot $i$, $1$ means positive)
 
-$\sum_{i = 1}^{m} \sum_{j \in \mathbf{T}} x_{ij} \le 1$, where $T$ is the set of schedules taught by each teacher (_unique teacher condition_: for each slot $i$, at most 1 out of all schedules in $T$ is assigned)
+$\sum_{j \in \mathbf{T}} x_{ij} \le 1$ for each $i \in [1..m]$, where $T$ is the set of schedules taught by each teacher (_unique teacher condition_: for each slot $i$, at most 1 out of all schedules in $T$ is assigned)
 
-$\sum_{i = 1}^{m} \sum_{j \in \mathbf{C}} x_{ij} \le 1$, where $C$ is the set of schedules of each class (_unique class condition_: for each slot $i$, at most 1 out of all schedules in $C$ is assigned)
+$\sum_{j \in \mathbf{C}} x_{ij} \le 1$ for each $i \in [1..m]$, where $C$ is the set of schedules of each class (_unique class condition_: for each slot $i$, at most 1 out of all schedules in $C$ is assigned)
 
-$\sum_{i = 1}^{m} \sum_{j \in \mathbf{R}} x_{ij} \le 1$, where $R$ is the set of schedules in each room (_unique room condition_: for each slot $i$, at most 1 out of all schedules in $R$ is assigned)
+$\sum_{j \in \mathbf{R}} x_{ij} \le 1$ for each $i \in [1..m]$, where $R$ is the set of schedules in each room (_unique room condition_: for each slot $i$, at most 1 out of all schedules in $R$ is assigned)
 
-$\sum_{j = 1}^{n} \sum_{i = 1}^{m} x_{ij} = 1$ (have to assign each schedule in some slot)
+$\sum_{i = 1}^{m} x_{ij} = 1$ for each $j \in [1..n]$ (have to assign each schedule in some slot)
 
 Currently, each course is taught by one and only one teacher, the _unique course condition_ can be satisfied by this _unique teacher condition_.
 
@@ -79,7 +79,7 @@ It is enforced that each schedule can only belong to one parallel elective.
 
 For the math formulation, I will start with an illustrative example. Say we have three courses, $A$, $B$, $C$, and each has $k$ weekly schedules (same _number of schedules_ is recommended but not required). Therefore, schedules $A_1$, ..., $A_k$, $B_1$, ..., $B_k$, $C_1$, ..., $C_k$ store the same id of a parallel elective. $A$, $B$, $C$ are then zipped and produced $k$ combinations: $[A_1, B_1, C_1]$, ..., $[A_k, B_k, C_k]$. For each combination in a parallel elective, the schedules are either all scheduled in a slot or not:
 
-$\sum_{j \in \mathbf{P}} x_{ij} = 0/k$ for each slot $i$, where $P$ represents the $p$-th combination $[A_p, B_p, C_p]$ and $p \in [1..k]$
+$\sum_{j_1, j_2 \in \mathbf{P}, j_1 \ne j_2} x_{ij_1} = x_{ij_2}$ for each slot $i \in [1..m]$, where $P$ represents the $p$-th combination $[A_p, B_p, C_p]$ and $p \in [1..k]$
 
 ### Assigned Schedules
 
