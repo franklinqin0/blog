@@ -69,7 +69,7 @@ $\sum_{j \in \mathbf{R}} x_{ij} \le 1$ for each $i \in [1..m]$, where $R$ is the
 
 $\sum_{i = 1}^{m} x_{ij} = 1$ for each $j \in [1..n]$ (have to assign each schedule in some slot)
 
-Currently, each course is taught by one and only one teacher, the _unique course condition_ can be satisfied by this _unique teacher condition_.
+Currently, each course is taught by one and only one teacher, the _unique course condition_ can be satisfied by _unique teacher condition_.
 
 ### Parallel Electives
 
@@ -140,16 +140,19 @@ In short, the algorithm does not go further than manual scheduling, though seems
 
 This is the timeline of implementation of IP:
 
-| time                   | description                                                                                                                                         |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| late July - mid August | thinking about IP formulations, and read the [assignment example problem](https://developers.google.com/optimization/assignment/assignment_example) |
-| 8/14 11:41am           | got 1st answer from IP to satisfy [basic requirements](#basic-formulation)                                                                          |
-| 8/17 11:00pm           | finished [parallel electives](#parallel-electives)                                                                                                  |
-| 9/17 3:35am            | convert to CP-SAT solver                                                                                                                            |
-| 9/18 9:42pm            | finished [consecutives](#further-requirements)                                                                                                      |
+| time                   | description                                                                                                                                        |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| early June             | spent 3 weeks on GA, but does not work well for large number of schedules                                                                          |
+| late July - mid August | thought about IP formulations, and read the [assignment example problem](https://developers.google.com/optimization/assignment/assignment_example) |
+| 8/14 11:41am           | got 1st answer from IP to satisfy [basic requirements](#basic-formulation)                                                                         |
+| 8/17 11:00pm           | finished [parallel electives](#parallel-electives)                                                                                                 |
+| 9/17 3:35am            | converted from MIP to CP-SAT solver                                                                                                                |
+| 9/18 9:42pm            | finished [consecutives](#further-requirements)                                                                                                     |
 
 ## Thanks
 
-My great thanks go to Professor [David Williamson](http://www.davidpwilliamson.net/work), who elegantly taught ORIE 3310 in spring 2017 at Cornell, patiently answered my ignorant questions in emails and suggested to me the vastly useful [Google OR-Tools](https://developers.google.com/optimization).
+My great thanks go to many of my friends, who listened to my vague ideas, challenged them with insightful questions, and inspired me to aim for excellence.
 
-[My special thanks go to my mom](https://youtu.be/nBcJlo8QVHc), who helped find so many bugs in my buggy system without grudges, and constantly inspired me to keep on refining it with support and encouragement.
+My special thanks go to Professor [David Williamson](http://www.davidpwilliamson.net/work), who elegantly taught ORIE 3310 in spring 2017 at Cornell, patiently answered my ignorant questions in emails and suggested to me the vastly useful [Google OR-Tools](https://developers.google.com/optimization).
+
+My [very special thanks go to my mom](https://youtu.be/nBcJlo8QVHc), who helped find so many bugs in my initial system without grudges, and constantly inspired me to keep on refining it with support and encouragement.
