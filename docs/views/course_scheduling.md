@@ -136,6 +136,19 @@ My colleagues remind me of a simple algorithm: simulate the manual way of schedu
 
 In short, the algorithm does not go further than manual scheduling, though seems intuitive. Unfortunately, like GA, no strict math proof can be given to ensure the existence of a feasible solution.
 
+## Timeline
+
+This is the timeline of implementation of IP:
+
+| time         | description                                        |
+| ------------ | -------------------------------------------------- |
+| 8/14 11:41am | I got 1st answer from IP                           |
+| 8/17 11:00pm | finished [parallel electives](#parallel-electives) |
+| 9/17 3:35am  | convert to CP-SAT model                            |
+| 9/18 9:42pm  | finished LT algo                                   |
+
 ## Thanks
 
 My special thanks go to Professor [David Williamson](http://www.davidpwilliamson.net/work), who elegantly taught ORIE 3310 in spring 2017 at Cornell, patiently answered my ignorant questions in emails and suggested to me the vastly useful [Google OR-Tools](https://developers.google.com/optimization).
+
+My especially special thanks go to my mom, who patiently used my buggy system without grudges, and inspired me to keep on refining it with support and encouragement.
