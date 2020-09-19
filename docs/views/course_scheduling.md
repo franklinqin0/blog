@@ -99,7 +99,7 @@ Clearly, the administrator was not happy enough with the basic requirements abov
 
 The 1st requirement is easy to implement, say there is a relationship between `slot` $i$ and `teacher` $t$:
 
-$\sum_{j \in \mathbf{T}} x_{ij} = 0$, where $T$ is the set of schedules taught by teacher $t$
+$\sum_{j \in \mathbf{T}} x_{ij} = 0$ for each $i \in [1..m]$, where $T$ is the set of schedules taught by teacher $t$
 
 The 2nd requirement is indeed a bit tricky. Say there are 2 schedules $j_1$ and $j_2$ to be assigned to 2 slots $i$ and $i + s$, where $s$ is the number of school days (usually $5$). Thus, setting `x[i, j_1]` and `x[i + s, j_2]` both to 1 would ensure the consecutive condition. In reality, however, the $i$ cannot be determined, and _consecutives_ is given, i.e., the mapping from a `course` to `# consecutives`.
 
@@ -140,15 +140,16 @@ In short, the algorithm does not go further than manual scheduling, though seems
 
 This is the timeline of implementation of IP:
 
-| time         | description                                        |
-| ------------ | -------------------------------------------------- |
-| 8/14 11:41am | I got 1st answer from IP                           |
-| 8/17 11:00pm | finished [parallel electives](#parallel-electives) |
-| 9/17 3:35am  | convert to CP-SAT model                            |
-| 9/18 9:42pm  | finished LT algo                                   |
+| time                   | description                                                                                                                                         |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| late July - mid August | thinking about IP formulations, and read the [assignment example problem](https://developers.google.com/optimization/assignment/assignment_example) |
+| 8/14 11:41am           | got 1st answer from IP to satisfy [basic requirements](#basic-formulation)                                                                          |
+| 8/17 11:00pm           | finished [parallel electives](#parallel-electives)                                                                                                  |
+| 9/17 3:35am            | convert to CP-SAT solver                                                                                                                            |
+| 9/18 9:42pm            | finished [consecutives](#further-requirements)                                                                                                      |
 
 ## Thanks
 
-My special thanks go to Professor [David Williamson](http://www.davidpwilliamson.net/work), who elegantly taught ORIE 3310 in spring 2017 at Cornell, patiently answered my ignorant questions in emails and suggested to me the vastly useful [Google OR-Tools](https://developers.google.com/optimization).
+My great thanks go to Professor [David Williamson](http://www.davidpwilliamson.net/work), who elegantly taught ORIE 3310 in spring 2017 at Cornell, patiently answered my ignorant questions in emails and suggested to me the vastly useful [Google OR-Tools](https://developers.google.com/optimization).
 
-My especially special thanks go to my mom, who patiently used my buggy system without grudges, and inspired me to keep on refining it with support and encouragement.
+[My special thanks go to my mom](https://youtu.be/nBcJlo8QVHc), who helped find so many bugs in my buggy system without grudges, and constantly inspired me to keep on refining it with support and encouragement.
