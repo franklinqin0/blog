@@ -22,7 +22,7 @@ During the past summer, I worked at a friend's tech startup and established a co
 1. In last September, I was a [voluntary teacher teaching English](why_vt). A local teacher complained to me about the hassle of spending so much time scheduling courses for the entire school. Even with cheap pirated course scheduling software, he still had to manually adjust schedules in order to satisfy various requirements proposed by other teachers. As soon as I heard about this problem, I immediately realized that integer programming should be quite helpful. However, I forgot most of what I learned in _Optimization II_, let alone how to transform the data into code
 2. As informed by Professor [Madeleine Udell](https://people.orie.cornell.edu/mru8/bio.html), [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates#Early_life) wrote a class scheduling program for his school in exchange for computer time. As [the rumor](https://skeptics.stackexchange.com/a/16906) says, he tweaked the program’s code so that he was placed in classes with mostly female students
 3. The course scheduling program can be classified into 2 types: high school (fixed timeslots) or college (flexible timeslots), but I will only talk about the 1st, as the system I developed served high schools
-4. [It can be proved](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1255&context=theses) that the decision problem is NP-complete and the optimization problem is NP-hard. There are `# timeslots` ^ `# schedules` possible ways to schedule courses. Thus, we have to come up with some smart tricks to restrict this astronomical complexity and turn it close to polynomial time
+4. [It can be proved](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1255&context=theses) that the decision problem is NP-complete and the optimization problem is NP-hard. There are `# timeslots` ^ `# schedules` possible ways to schedule courses. Thus, we have to come up with some smart tricks to restrict this astronomical complexity and turn it close to polynomial runtime
 
 ## Data Models
 
@@ -115,16 +115,14 @@ Clearly, the administrator was not happy enough with the basic requirements abov
 
 #### Slot -> Teacher(s)
 
-The 1st requirement is easy to implement, say there is an occupied relationship between `slot` $i$ and `teacher` $t$:
-
+The 1st requirement is easy to implement, say there is an occupied relationship between `slot` $i$ and `teacher` $t$:  
 $\sum_{j \in \mathbf{T}} x_{ij} = 0$ for each $i \in [1..m]$, where $T$ is the set of schedules taught by teacher $t$
 
 #### Consecutive Schedules
 
 The 2nd requirement is indeed a bit tricky. Say there are 2 schedules $j_1$ and $j_2$ to be assigned to 2 slots $i$ and $i + s$, where $s$ is the number of school days (usually $5$). Thus, setting `x[i, j_1]` and `x[i + s, j_2]` both to 1 would ensure the consecutive condition. In reality, however, $i$ can be any `slot`, and $\text{consecutives}$ is given, i.e., the mapping from a `course` to `# consecutives`.
 
-Here are the constraints:
-
+Here are the constraints:  
 $\sum_{i = 0}^{m - s} \sum_{j_1, j_2 \in \mathbf{C}, j_1 \neq j_2} x[i, j_1] \times x[i + s, j_2] \le \text{consecutives}[\mathbf{C}]$, where $C$ is the set of schedules of each course
 
 And the objective is basically to maximize sum of LHS of constraints.
@@ -152,7 +150,7 @@ Simply put, in terms of course scheduling, GA gives an expedient solution but IP
 
 ### Manual Simulation
 
-My colleagues remind me of a simple algorithm: simulate the manual way of scheduling courses and tackle by each course/teacher/class. This would gradually reduce the number of free schedules. Though it works for basic cases, it does not work well when more requirements (such as [parallel electives](#parallel-electives) and [consecutive schedules](#consecutive-schedules)). This algorithm may schedule the parallel electives before normal schedules, but may require additional adjustments after assignment.
+My colleagues remind me of a simple algorithm: simulate the manual way of scheduling courses and tackle by each course/teacher/class. This would gradually reduce the number of free schedules. Though it works for basic cases, it does not work well with more requirements (such as [parallel electives](#parallel-electives) and [consecutive schedules](#consecutive-schedules)). This algorithm may schedule the parallel electives before normal schedules, but may require additional adjustments after assignment.
 
 In short, though intuitive, the algorithm does not go much further than manual scheduling. Unfortunately, like GA, no strict math proof can be given to ensure the existence of a feasible solution.
 
