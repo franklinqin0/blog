@@ -13,6 +13,7 @@ This blogs serves as an end to the `VT` (voluntary teaching) series:
 - [Why VT](why_vt)
 - [My VT experience](vt)
 - [Ping Pong Coach](ping_pong_coach)
+- this blog
 
 <!-- more -->
 

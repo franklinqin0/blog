@@ -7,9 +7,22 @@ tags:
   - tech
 ---
 
-During the past summer, I worked at a friend's tech startup and established a course scheduling system. I served as a full stack engineer for this task, learned a lot and want to share some ideas and insights.
+::: theorem
+Nobody knows more about course scheduling algorithm than I do.
+::: right
+Donald Trump
+:::
 
 <!-- more -->
+
+During the past summer, I worked at a friend's tech startup and established a course scheduling system. I served as a full stack engineer for this task, learned a lot and want to share some ideas and insights.
+
+## Baloney
+
+1. In last September, I was a [voluntary teacher teaching English](why_vt). A local teacher complained to me about the hassle of spending so much time scheduling courses for the entire school. Even with cheap pirated course scheduling software, he still had to manually adjust schedules in order to satisfy various requirements proposed by other teachers. As soon as I heard about this problem, I immediately realized that integer programming should be quite helpful. However, I forgot most of what I learned in _Optimization II_, let alone how to transform the data into code
+2. As informed by Professor [Madeleine Udell](https://people.orie.cornell.edu/mru8/bio.html), [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates#Early_life) wrote a class scheduling program for his school in exchange for computer time. As [the rumor](https://skeptics.stackexchange.com/a/16906) says, he tweaked the program’s code so that he was placed in classes with mostly female students
+3. The course scheduling program can be classified into 2 types: high school (fixed timeslots) or college (flexible timeslots), but I will only talk about the 1st, as the system I developed served high schools
+4. [It can be proved](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1255&context=theses) that the decision problem is NP-complete and the optimization problem is NP-hard. There are `# timeslots` ^ `# schedules` possible ways to schedule courses. Thus, we have to come up with some smart tricks to restrict this astronomical complexity and turn it close to polynomial time
 
 ## Data Models
 
@@ -22,7 +35,7 @@ Code should be designed around data instead of the other way around. Thus, build
 - school day
 - free (if _false_, no `schedule` can be assigned to this `slot`)
 
-`Schedule` is a weekly session of a course and contains following information:
+`Schedule` is 1 weekly session of a course (can be many sessions) and contains following information:
 
 - course
 - teacher
@@ -30,11 +43,9 @@ Code should be designed around data instead of the other way around. Thus, build
 - room
 - `slot` (refers if assigned to the `slot`)
 
-There can be multiple `schedule`s for a `course`.
-
 ## Algorithm - Integer Programming (IP)
 
-When I took over the task of high school course scheduling, I immediately realized that I could use the my ORIE knowledge (specifically, integer programming) the first time after my graduation. However, I forgot most of what I learned in _Optimization II_, let alone how to transform the data into code. Through careful review over ORIE 3310 course notes, and help of Cornell professors, I was able to realize the algorithm in code. In the following, I will restrict to the math formulations of IP rather than code.
+Through careful review over ORIE 3310 course notes, and help of Cornell professors, I was able to realize the algorithm in code. In the following, I will restrict to the math formulations of IP rather than code.
 
 What is integer programming? According to [Wikipedia](https://en.wikipedia.org/wiki/Integer_programming), _it is a mathematical optimization or feasibility program in which some or all of the variables are restricted to be integers. In many settings, the term refers to integer linear programming (ILP), in which the objective function and the constraints (other than the integer constraints) are linear._
 
@@ -51,31 +62,36 @@ $$
 
 A **linear program** in canonical form is similar but omits the integrality constraint.
 
-In the following math formulations, the decision variables are binary, either 0 or 1. This is a special case of integer programming, and a usual practice for assignment problems.
+In the following math formulations, all decision variables are binary: $0$ or $1$, which is a special case of integer programming, and a usual practice for [assignment problems](https://developers.google.com/optimization/assignment/overview).
 
 ### Basic Formulation
 
 Whether assigning a `schedule` to a `slot` is a binary decision and I need a boolean variable to represent it. For each slot $i$ and schedule $j$, a binary decision variable `x[i, j]` is defined. There are `n * m` decision variables, where `m` is number of slots and `n` number of schedules.
 
-Further, the core constraint is to have **no conflict** in the timetable, i.e., no more than $1$ `schedule` of each `course`, `teacher`, `class`, or `room` in each `slot`. To represent these in math:
+Further, the core constraint is to **have no conflict** in the timetable, i.e., no more than $1$ `schedule` of each `course`, `teacher`, `class`, or `room` in each `slot`. To represent these in math:
 
-$x[i, j] = 0/1$ for all slots $i \in [1..m]$ and schedules $j \in [1..n]$ (_boolean condition_: $0$ means schedule $j$ is not assigned to slot $i$, $1$ means positive)
+**Boolean Condition**: $0$ means schedule $j$ is not assigned to slot $i$, $1$ means positive.  
+$\mathbf{x}_{ij} = 0/1$ for all slots $i \in [1..m]$ and schedules $j \in [1..n]$
 
-$\sum_{j \in \mathbf{T}} x_{ij} \le 1$ for each $i \in [1..m]$, where $T$ is the set of schedules taught by each teacher (_unique teacher condition_: for each slot $i$, at most 1 out of all schedules in $T$ is assigned)
+Note that for now, **each course is taught by one and only one teacher**, so the **Unique Course** condition can be satisfied by the below **Unique Teacher** condition.
 
-$\sum_{j \in \mathbf{C}} x_{ij} \le 1$ for each $i \in [1..m]$, where $C$ is the set of schedules of each class (_unique class condition_: for each slot $i$, at most 1 out of all schedules in $C$ is assigned)
+**Unique Teacher**: for each slot $i$, at most 1 out of all schedules in $T$ is assigned.  
+$\sum_{j \in \mathbf{T}} \mathbf{x}_{ij} \le 1$ for each $i \in [1..m]$, where $T$ is the set of schedules taught by each teacher
 
-$\sum_{j \in \mathbf{R}} x_{ij} \le 1$ for each $i \in [1..m]$, where $R$ is the set of schedules in each room (_unique room condition_: for each slot $i$, at most 1 out of all schedules in $R$ is assigned)
+**Unique Class**: for each slot $i$, at most 1 out of all schedules in $C$ is assigned.  
+$\sum_{j \in \mathbf{C}} \mathbf{x}_{ij} \le 1$ for each $i \in [1..m]$, where $C$ is the set of schedules of each class
 
-$\sum_{i = 1}^{m} x_{ij} = 1$ for each $j \in [1..n]$ (have to assign each schedule in some slot)
+**Unique Room**: for each slot $i$, at most 1 out of all schedules in $R$ is assigned.  
+$\sum_{j \in \mathbf{R}} \mathbf{x}_{ij} \le 1$ for each $i \in [1..m]$, where $R$ is the set of schedules in each room
 
-Currently, each course is taught by one and only one teacher, the _unique course condition_ can be satisfied by _unique teacher condition_.
+And don't forget! We must **assign each schedule in some slot**.  
+$\sum_{i = 1}^{m} \mathbf{x}_{ij} = 1$ for each $j \in [1..n]$
 
 ### Parallel Electives
 
-It should be obvious that for a set of classes (usually a grade), compulsory and elective courses taken by a class should not be scheduled in the same slot. To go one step further, the high school requires the feature "parallel electives", which requires _a set of courses enrolled by a set of classes to be assigned at a same slot_. A student from these classes can thus only choose _at most one_ out of these courses for this semester.
+It should be obvious that for a set of classes (usually a grade), compulsory and elective courses taken by a class should not be scheduled in the same slot. To go one step further, the high school requires the feature "parallel electives", which requires **a set of courses enrolled by a set of classes to be assigned at a same slot**. A student from these classes can thus only choose _at most one_ out of these courses for this semester.
 
-It is enforced that each schedule can only belong to one parallel elective.
+It is enforced that **each schedule can only belong to one parallel elective**.
 
 For the math formulation, I will start with an illustrative example. Say we have three courses, $A$, $B$, $C$, and each has $k$ weekly schedules (same _number of schedules_ is recommended but not required). Therefore, schedules $A_1$, ..., $A_k$, $B_1$, ..., $B_k$, $C_1$, ..., $C_k$ store the same id of a parallel elective. $A$, $B$, $C$ are then zipped and produced $k$ combinations: $[A_1, B_1, C_1]$, ..., $[A_k, B_k, C_k]$. For each combination in a parallel elective, the schedules are either all scheduled in a slot or not:
 
@@ -97,11 +113,15 @@ Clearly, the administrator was not happy enough with the basic requirements abov
 1. Some teachers cannot teach any course in certain slots
 2. Assign two consecutive schedules for certain times (max is `floor(# schedules / 2)`) per week
 
-The 1st requirement is easy to implement, say there is a relationship between `slot` $i$ and `teacher` $t$:
+#### Slot -> Teacher(s)
+
+The 1st requirement is easy to implement, say there is an occupied relationship between `slot` $i$ and `teacher` $t$:
 
 $\sum_{j \in \mathbf{T}} x_{ij} = 0$ for each $i \in [1..m]$, where $T$ is the set of schedules taught by teacher $t$
 
-The 2nd requirement is indeed a bit tricky. Say there are 2 schedules $j_1$ and $j_2$ to be assigned to 2 slots $i$ and $i + s$, where $s$ is the number of school days (usually $5$). Thus, setting `x[i, j_1]` and `x[i + s, j_2]` both to 1 would ensure the consecutive condition. In reality, however, the $i$ cannot be determined, and `consecutives` is given, i.e., the mapping from a `course` to `# consecutives`.
+#### Consecutive Schedules
+
+The 2nd requirement is indeed a bit tricky. Say there are 2 schedules $j_1$ and $j_2$ to be assigned to 2 slots $i$ and $i + s$, where $s$ is the number of school days (usually $5$). Thus, setting `x[i, j_1]` and `x[i + s, j_2]` both to 1 would ensure the consecutive condition. In reality, however, $i$ can be any `slot`, and $\text{consecutives}$ is given, i.e., the mapping from a `course` to `# consecutives`.
 
 Here are the constraints:
 
@@ -126,28 +146,28 @@ Before integer programming, I initially used GA for the course scheduling algori
 - Stochastic algorithms in general can have difficulty obeying equality constraints.
 - GA is sensitive to the initial population used. Wide diversity of feasible solutions is what you want.
 
-Essentially, GA depends heavily on the initial population and may be ineffective or inefficient if not operated properly. Being stochastic, it cannot guarantee on the optimality or the quality of the solution. Therefore, there is a consensus in academia that GA, though a generic problem solver, is at best the 2nd best way to solve any problem.
+Essentially, GA depends heavily on the randomized generated initial population and may be ineffective or inefficient if not operated properly. There is a consensus in academia that GA, though a generic problem solver, is at best the 2nd best way to solve any problem.
 
-Simply put, in terms of course scheduling, GA gives an expedient solution but IP gives a feasible one.
+Simply put, in terms of course scheduling, GA gives an expedient solution but IP gives an optimal one.
 
 ### Manual Simulation
 
-My colleagues remind me of a simple algorithm: simulate the manual way of scheduling courses: tackle by each course/teacher/class. This would gradually reduce the number of free schedules. Though it works well for basic cases, but not so much when parallel electives are involved. This algorithm may schedule the parallel electives before normal schedules, but may require additional adjustments after assignment.
+My colleagues remind me of a simple algorithm: simulate the manual way of scheduling courses and tackle by each course/teacher/class. This would gradually reduce the number of free schedules. Though it works for basic cases, it does not work well when more requirements (such as [parallel electives](#parallel-electives) and [consecutive schedules](#consecutive-schedules)). This algorithm may schedule the parallel electives before normal schedules, but may require additional adjustments after assignment.
 
-In short, the algorithm does not go further than manual scheduling, though seems intuitive. Unfortunately, like GA, no strict math proof can be given to ensure the existence of a feasible solution.
+In short, though intuitive, the algorithm does not go much further than manual scheduling. Unfortunately, like GA, no strict math proof can be given to ensure the existence of a feasible solution.
 
 ## Timeline
 
-This is the timeline of implementation of IP:
+Following is the timeline of implementation of IP.
 
-| time                   | description                                                                                                                                        |
+| Time                   | Description                                                                                                                                        |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| early June             | spent 3 weeks on GA, but does not work well for large number of schedules                                                                          |
+| early June             | spent 3 weeks on GA, but does not work well with large number of schedules                                                                         |
 | late July - mid August | thought about IP formulations, and read the [assignment example problem](https://developers.google.com/optimization/assignment/assignment_example) |
-| 8/14 11:41am           | got 1st answer from IP to satisfy [basic requirements](#basic-formulation)                                                                         |
-| 8/17 11:00pm           | finished [parallel electives](#parallel-electives)                                                                                                 |
-| 9/17 3:35am            | converted from MIP to CP-SAT solver                                                                                                                |
-| 9/18 9:42pm            | finished [consecutives](#further-requirements)                                                                                                     |
+| 8/14 11:41 a.m.        | got 1st answer from IP to satisfy [basic requirements](#basic-formulation)                                                                         |
+| 8/17 11:00 p.m.        | finished [parallel electives](#parallel-electives)                                                                                                 |
+| 9/17 3:35 a.m.         | converted from MIP to CP-SAT solver                                                                                                                |
+| 9/18 9:42 p.m.         | finished [consecutive schedules](#consecutive-schedules)                                                                                           |
 
 ## Thanks
 

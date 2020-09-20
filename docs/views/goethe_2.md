@@ -30,24 +30,23 @@ Deutsch Notizen vom 9. bis 15. März.
 | fahren                          | ride, drive |
 | nett                            | nice/kind   |
 | charmant                        | charming    |
-| gern(e)                         | fond(adv.)  |
+| gern(e)                         | fond (adv.) |
 
 ### Sportarten
 
 | Deutsch            | Englisch        |
 | ------------------ | --------------- |
 | Spiele spielen     | play games      |
-| Tennis spielen     | tennis          |
-| Fußball spielen    | football        |
-| Basketball spielen | basketball      |
-| Volleyball spielen | volleyball      |
+| Tennis spielen     | play tennis     |
+| Fußball spielen    | play football   |
+| Basketball spielen | play basketball |
+| Volleyball spielen | play volleyball |
 | schwimmen          | swim            |
 | Yoga machen        | yoga            |
 | joggen             | jog             |
 | wandern            | hike            |
 | Fahrrad fahren     | cycle           |
 | Ski fahren         | ski             |
-| Basketball spielen | play basketball |
 
 ### Sätze
 
@@ -125,8 +124,6 @@ Deutsch Notizen vom 9. bis 15. März.
 | ---------------------------- | -------------------------------- |
 | Was kennen Sie auf dem Bild? | What do you know in the picture? |
 | Bis gleich!                  | See you later!                   |
-
-:::
 
 ## 10 & 11. März
 
