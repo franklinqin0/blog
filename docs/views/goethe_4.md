@@ -576,7 +576,7 @@ Präpositionen: an, auf, hinter, in, neben, über, unter, vor, zwischen
 Wohin fahren Timo und Julia? Sie haben sich entschieden, nach München zu fahren.
 
 - Nach {Stadt/Land}
-- In <d type="er" text="den"/> Iran / In <d type="ie" text="die"/> Türkei / In <d type="ie" text="die"/> Schweiz / In <d type="ie" text="die"/> USA / In <d type="er" text="den"/> Süden
+- In <d type="er" text="den"/> Iran / In <d type="ie" text="die"/> Türkei / In <d type="ie" text="die"/> Schweiz / In <d type="ie" text="die"/> USA / In <d type="er" text="den"/> Süden/Norden
 
 ### Die Körperteile
 

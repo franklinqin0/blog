@@ -102,6 +102,12 @@ Alan Turing
 :::
 
 ::: tip
+I think that it’s extraordinarily important that we in computer science keep fun in computing. When it started out, it was an awful lot of fun…I hope the field of computer science never loses its sense of fun…What’s in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led up to it, that you can make it more.
+::: right
+Alan J. Perlis
+:::
+
+::: tip
 Information is the resolution of uncertainty.
 ::: right
 Claude Elwood Shannon

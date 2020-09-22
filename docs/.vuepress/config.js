@@ -70,5 +70,14 @@ module.exports = {
         'ga': 'UA-146843725-3'
       }
     ],
+    ['container', {
+      type: 'theorem',
+      defaultTitle: {
+        '/': '',
+        '/zh/': ''
+      },
+      before: info => `<div class="custom-block theorem"><p class="title">${info}</p>`,
+      after: '</div>'
+    }],
   ]
 }

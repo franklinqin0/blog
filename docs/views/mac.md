@@ -63,7 +63,11 @@ Another way to guarantee typing the correct German chars, or any language's char
 
 Please see this article for [more details](https://ia.net/writer/support/mac/special-characters) on keyboard viewer, quotes, ellipsis, and IA writer.
 
-## Terminal Proxy w/ Socks5
+## Terminal Caveats
+
+Following are some common caveats for Unix terminal.
+
+### Terminal Proxy w/ Socks5
 
 It's fairly easy to use a socks5 proxy in browser, but how to use it in terminal, especially when downloading from GitHub is super slow in China? From [this article](https://www.jianshu.com/p/205aff65954a) I made the following terminal proxy settings.
 
@@ -85,6 +89,15 @@ alias agent="git config --global http.proxy socks5://127.0.0.1:1086;git config -
 alias unagent="git config --global --unset http.proxy;git config --global --unset https.proxy"
 ```
 
+### Disable Proxy for Development Server
+
+```sh
+SET NO_PROXY=localhost
+yarn start (or npm run start)
+```
+
+### Save Credentials for Git
+
 Enable credentials storage in local Git repository:
 
 ```sh
@@ -95,4 +108,11 @@ Enable credentials storage globally:
 
 ```
 $ git config --global credential.helper store
+```
+
+### Fish
+
+```
+# set path
+set PATH <newdir> $PATH
 ```

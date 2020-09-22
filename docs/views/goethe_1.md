@@ -404,7 +404,7 @@ Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules f
 | -------------------------------------------------------------- | ----------------------------------- | ---------------------------- |
 | Computer<br>Kalendar<br>Ausweis<br>Kugelschreiber<br>Bleistift | Formular<br>Handy<br>Buch<br>Tablet | Brille<br>Maus<br>Briefmarke |
 
-### Farbe (Color)
+### Farbe(n)
 
 | Deutsch | Englisch |
 | ------- | -------- |
@@ -418,6 +418,8 @@ Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules f
 | braun   | brown    |
 | pink    | pink     |
 | orange  | orange   |
+
+### Himmelsrichtungen
 
 ### Sätze
 

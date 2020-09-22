@@ -19,10 +19,10 @@ During the past summer, I worked at a friend's tech startup and established a co
 
 ## Baloney
 
-1. In last September, I was a [voluntary teacher teaching English](why_vt). A local teacher complained to me about the hassle of spending so much time scheduling courses for the entire school. Even with cheap pirated course scheduling software, he still had to manually adjust schedules in order to satisfy various requirements proposed by other teachers. As soon as I heard about this problem, I immediately realized that integer programming should be quite helpful. However, I forgot most of what I learned in _Optimization II_, let alone how to transform the data into code
-2. As informed by Professor [Madeleine Udell](https://people.orie.cornell.edu/mru8/bio.html), [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates#Early_life) wrote a class scheduling program for his school in exchange for computer time. As [the rumor](https://skeptics.stackexchange.com/a/16906) says, he tweaked the program’s code so that he was placed in classes with mostly female students
+1. As informed by Professor [Madeleine Udell](https://people.orie.cornell.edu/mru8/bio.html), [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates#Early_life) wrote a class scheduling program for his school in exchange for computer time. As [the rumor](https://skeptics.stackexchange.com/a/16906) says, he tweaked the program’s code so that he was placed in classes with mostly female students
+2. In last September, I was a [voluntary teacher teaching English](why_vt). A local teacher complained to me about the hassle of spending so much time scheduling courses for the entire school. Even with cheap pirated course scheduling software, he still had to manually adjust schedules in order to satisfy various requirements proposed by other teachers. As soon as I heard about this problem, I immediately realized that integer programming should be quite helpful. However, I forgot most of what I learned in _Optimization II_, let alone how to transform the data into code
 3. The course scheduling program can be classified into 2 types: high school (fixed timeslots) or college (flexible timeslots), but I will only talk about the 1st, as the system I developed served high schools
-4. [It can be proved](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1255&context=theses) that the decision problem is NP-complete and the optimization problem is NP-hard. There are `# timeslots` ^ `# schedules` possible ways to schedule courses. Thus, we have to come up with some smart tricks to restrict this astronomical complexity and turn it close to polynomial runtime
+4. [It can be proved](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1255&context=theses) that the decision problem is NP-complete and the optimization problem is NP-hard. Let `m` be the number of slots and `n` the number of schedules. Then there are $2^{m \cdot n}$ possible ways to schedule courses (if `m = 40` and `n = 100`, then the exponential is at least $10^{1200}$). Thus, we have to come up with some smart tricks to restrict this astronomical complexity and turn it close to polynomial runtime
 
 ## Data Models
 
@@ -71,21 +71,26 @@ Whether assigning a `schedule` to a `slot` is a binary decision and I need a boo
 Further, the core constraint is to **have no conflict** in the timetable, i.e., no more than $1$ `schedule` of each `course`, `teacher`, `class`, or `room` in each `slot`. To represent these in math:
 
 **Boolean Condition**: $0$ means schedule $j$ is not assigned to slot $i$, $1$ means positive.  
-$\mathbf{x}_{ij} = 0/1$ for all slots $i \in [1..m]$ and schedules $j \in [1..n]$
+$\mathbf{x}_{ij} = 0/1$  
+for all slots $i \in [1..m]$ and schedules $j \in [1..n]$
 
 Note that for now, **each course is taught by one and only one teacher**, so the **Unique Course** condition can be satisfied by the below **Unique Teacher** condition.
 
-**Unique Teacher**: for each slot $i$, at most 1 out of all schedules in $T$ is assigned.  
-$\sum_{j \in \mathbf{T}} \mathbf{x}_{ij} \le 1$ for each $i \in [1..m]$, where $T$ is the set of schedules taught by each teacher
+**Unique Teacher**: for each slot, at most 1 out of all schedules by a teacher is assigned.  
+$\sum_{j \in \mathbf{T}} \mathbf{x}_{ij} \le 1$  
+for each $i \in [1..m]$, where $T$ is the set of schedules taught by each teacher
 
-**Unique Class**: for each slot $i$, at most 1 out of all schedules in $C$ is assigned.  
-$\sum_{j \in \mathbf{C}} \mathbf{x}_{ij} \le 1$ for each $i \in [1..m]$, where $C$ is the set of schedules of each class
+**Unique Class**: for each slot, at most 1 out of all schedules from a course is assigned.  
+$\sum_{j \in \mathbf{C}} \mathbf{x}_{ij} \le 1$  
+for each $i \in [1..m]$, where $C$ is the set of schedules of each class
 
-**Unique Room**: for each slot $i$, at most 1 out of all schedules in $R$ is assigned.  
-$\sum_{j \in \mathbf{R}} \mathbf{x}_{ij} \le 1$ for each $i \in [1..m]$, where $R$ is the set of schedules in each room
+**Unique Room**: for each slot, at most 1 out of all schedules in a room is assigned.  
+$\sum_{j \in \mathbf{R}} \mathbf{x}_{ij} \le 1$  
+for each $i \in [1..m]$, where $R$ is the set of schedules in each room
 
 And don't forget! We must **assign each schedule in some slot**.  
-$\sum_{i = 1}^{m} \mathbf{x}_{ij} = 1$ for each $j \in [1..n]$
+$\sum_{i = 1}^{m} \mathbf{x}_{ij} = 1$  
+for each $j \in [1..n]$
 
 ### Parallel Electives
 
