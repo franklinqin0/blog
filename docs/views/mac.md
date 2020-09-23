@@ -67,6 +67,12 @@ Please see this article for [more details](https://ia.net/writer/support/mac/spe
 
 Following are some common caveats for Unix terminal.
 
+### Change Root Password
+
+```sh
+sudo passwd root
+```
+
 ### Terminal Proxy w/ Socks5
 
 It's fairly easy to use a socks5 proxy in browser, but how to use it in terminal, especially when downloading from GitHub is super slow in China? From [this article](https://www.jianshu.com/p/205aff65954a) I made the following terminal proxy settings.

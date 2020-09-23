@@ -20,9 +20,9 @@ During the past summer, I worked at a friend's tech startup and established a co
 ## Baloney
 
 1. As informed by Professor [Madeleine Udell](https://people.orie.cornell.edu/mru8/bio.html), [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates#Early_life) wrote a class scheduling program for his school in exchange for computer time. As [the rumor](https://skeptics.stackexchange.com/a/16906) says, he tweaked the program’s code so that he was placed in classes with mostly female students
-2. In last September, I was a [voluntary teacher teaching English](why_vt). A local teacher complained to me about the hassle of spending so much time scheduling courses for the entire school. Even with cheap pirated course scheduling software, he still had to manually adjust schedules in order to satisfy various requirements proposed by other teachers. As soon as I heard about this problem, I immediately realized that integer programming should be quite helpful. However, I forgot most of what I learned in _Optimization II_, let alone how to transform the data into code
+2. In last September, I was a [voluntary teacher teaching English](why_vt). A local teacher complained to me about the hassle of spending so much time scheduling courses for the entire school. Even with cheap pirated software, he still had to manually adjust schedules in order to satisfy various requirements proposed by other teachers. I immediately realized that integer programming should be quite helpful for the algorithm. However, I forgot most of what I learned in _Optimization II_, let alone how to transform the data into code
 3. The course scheduling program can be classified into 2 types: high school (fixed timeslots) or college (flexible timeslots), but I will only talk about the 1st, as the system I developed served high schools
-4. [It can be proved](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1255&context=theses) that the decision problem is NP-complete and the optimization problem is NP-hard. Let `m` be the number of slots and `n` the number of schedules. Then there are $2^{m \cdot n}$ possible ways to schedule courses (if `m = 40` and `n = 100`, then the exponential is at least $10^{1200}$). Thus, we have to come up with some smart tricks to restrict this astronomical complexity and turn it close to polynomial runtime
+4. [It can be proved](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1255&context=theses) that the decision problem is NP-complete and the optimization problem is NP-hard. Let `m` be the number of slots and `n` the number of schedules. Since each schedule must be assigned to a slot, there are $m^n$ possible ways to schedule courses (if `m = 40` and `n = 100`, then the exponential is about $1.607 \times 10^{159}$). Thus, we have to come up with some smart tricks to restrict this astronomical complexity and turn it close to polynomial runtime
 
 ## Data Models
 
@@ -66,7 +66,7 @@ In the following math formulations, all decision variables are binary: $0$ or $1
 
 ### Basic Formulation
 
-Whether assigning a `schedule` to a `slot` is a binary decision and I need a boolean variable to represent it. For each slot $i$ and schedule $j$, a binary decision variable `x[i, j]` is defined. There are `n * m` decision variables, where `m` is number of slots and `n` number of schedules.
+Whether assigning a `schedule` to a `slot` is a binary decision and I need a boolean variable to represent it. For each slot $i$ and schedule $j$, a binary decision variable `x[i, j]` is defined. There are `m * n` decision variables and $2^{mn}$ assignment possibilities, where `m` is number of slots and `n` number of schedules.
 
 Further, the core constraint is to **have no conflict** in the timetable, i.e., no more than $1$ `schedule` of each `course`, `teacher`, `class`, or `room` in each `slot`. To represent these in math:
 
@@ -100,7 +100,8 @@ It is enforced that **each schedule can only belong to one parallel elective**.
 
 For the math formulation, I will start with an illustrative example. Say we have three courses, $A$, $B$, $C$, and each has $k$ weekly schedules (same _number of schedules_ is recommended but not required). Therefore, schedules $A_1$, ..., $A_k$, $B_1$, ..., $B_k$, $C_1$, ..., $C_k$ store the same id of a parallel elective. $A$, $B$, $C$ are then zipped and produced $k$ combinations: $[A_1, B_1, C_1]$, ..., $[A_k, B_k, C_k]$. For each combination in a parallel elective, the schedules are either all scheduled in a slot or not:
 
-$\sum_{j_1, j_2 \in \mathbf{P}, j_1 \ne j_2} x_{ij_1} = x_{ij_2}$ for each slot $i \in [1..m]$, where $P$ represents the $p$-th combination $[A_p, B_p, C_p]$ and $p \in [1..k]$
+$\sum_{j_1, j_2 \in \mathbf{P}, j_1 \ne j_2} x_{ij_1} = x_{ij_2}$  
+for each slot $i \in [1..m]$, where $P$ represents the $p$-th combination $[A_p, B_p, C_p]$ and $p \in [1..k]$
 
 ### Assigned Schedules
 
@@ -118,19 +119,23 @@ Clearly, the administrator was not happy enough with the basic requirements abov
 1. Some teachers cannot teach any course in certain slots
 2. Assign two consecutive schedules for certain times (max is `floor(# schedules / 2)`) per week
 
+The 1st requirement is easy whereas the 2nd is more tricky.
+
 #### Slot -> Teacher(s)
 
-The 1st requirement is easy to implement, say there is an occupied relationship between `slot` $i$ and `teacher` $t$:  
-$\sum_{j \in \mathbf{T}} x_{ij} = 0$ for each $i \in [1..m]$, where $T$ is the set of schedules taught by teacher $t$
+Say `teacher` $t$ is _not free_ at `slot` $i$:  
+$\sum_{j \in \mathbf{T}} x_{ij} = 0$  
+for each $i \in [1..m]$, where $T$ is the set of schedules taught by teacher $t$
 
 #### Consecutive Schedules
 
-The 2nd requirement is indeed a bit tricky. Say there are 2 schedules $j_1$ and $j_2$ to be assigned to 2 slots $i$ and $i + s$, where $s$ is the number of school days (usually $5$). Thus, setting `x[i, j_1]` and `x[i + s, j_2]` both to 1 would ensure the consecutive condition. In reality, however, $i$ can be any `slot`, and $\text{consecutives}$ is given, i.e., the mapping from a `course` to `# consecutives`.
+Say there are 2 schedules $j_1$ and $j_2$ to be assigned to 2 slots $i$ and $i + s$, where $s$ is the number of school days (usually $5$). Thus, setting `x[i, j_1]` and `x[i + s, j_2]` should both be set to $1$ (**product** of 2 decision variables) to ensure the consecutive condition. In reality, $i$ can be any `slot` $\in [0..m-s]$, and $\text{consecutives}$ is given, i.e., the mapping from a `course` to `# consecutives`.
 
-Here are the constraints:  
-$\sum_{i = 0}^{m - s} \sum_{j_1, j_2 \in \mathbf{C}, j_1 \neq j_2} x[i, j_1] \times x[i + s, j_2] \le \text{consecutives}[\mathbf{C}]$, where $C$ is the set of schedules of each course
+Here are the _constraints_:  
+$\sum_{i = 0}^{m - s} \sum_{j_1, j_2 \in \mathbf{C}, j_1 \neq j_2} x[i, j_1] \times x[i + s, j_2] \le \text{consecutives}[\mathbf{C}]$  
+where $C$ is the set of schedules of each course
 
-And the objective is basically to maximize sum of LHS of constraints.
+And the _objective_ is basically to maximize sum of LHS of constraints.
 
 This formulation works theorectically, but it has nonlienar terms(product of 2 decision variables) in both constraints and objective. It is no longer standard IP, and so requires [AddMultiplicationEquality](https://developers.google.com/optimization/reference/python/sat/python/cp_model#addmultiplicationequality) from [CP-SAT solver](https://developers.google.com/optimization/cp/cp_solver) to create a new decision variable for each product of `x`.
 
@@ -155,7 +160,7 @@ Simply put, in terms of course scheduling, GA gives an expedient solution but IP
 
 ### Manual Simulation
 
-My colleagues remind me of a simple algorithm: simulate the manual way of scheduling courses and tackle by each course/teacher/class. This would gradually reduce the number of free schedules. Though it works for basic cases, it does not work well with more requirements (such as [parallel electives](#parallel-electives) and [consecutive schedules](#consecutive-schedules)). This algorithm may schedule the parallel electives before normal schedules, but may require additional adjustments after assignment.
+My colleagues remind me of a simple algorithm: simulate the manual way of scheduling courses and tackle by each course/teacher/class. This would gradually reduce the number of free schedules. Though it works for basic cases, it does not work well with more requirements (such as [parallel electives](#parallel-electives) and [consecutive schedules](#consecutive-schedules)).
 
 In short, though intuitive, the algorithm does not go much further than manual scheduling. Unfortunately, like GA, no strict math proof can be given to ensure the existence of a feasible solution.
 
