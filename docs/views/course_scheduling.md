@@ -129,7 +129,7 @@ for each $i \in [1..m]$, where $T$ is the set of schedules taught by teacher $t$
 
 #### Consecutive Schedules
 
-Say there are 2 schedules $j_1$ and $j_2$ to be assigned to 2 slots $i$ and $i + s$, where $s$ is the number of school days (usually $5$). Thus, setting `x[i, j_1]` and `x[i + s, j_2]` should both be set to $1$ (**product** of 2 decision variables) to ensure the consecutive condition. In reality, $i$ can be any `slot` $\in [0..m-s]$, and $\text{consecutives}$ is given, i.e., the mapping from a `course` to `# consecutives`.
+Say there are 2 schedules $j_1$ and $j_2$ to be assigned to 2 slots $i$ and $i + s$, where $s$ is the number of school days (usually $5$). Thus, `x[i, j_1]` and `x[i + s, j_2]` should both be set to $1$ (**product** of 2 decision variables) to ensure the consecutive condition. In reality, $i$ can be any `slot` $\in [0..m-s]$, and $\text{consecutives}$ is the mapping from a `course` to `# consecutives`.
 
 Here are the _constraints_:  
 $\sum_{i = 0}^{m - s} \sum_{j_1, j_2 \in \mathbf{C}, j_1 \neq j_2} x[i, j_1] \times x[i + s, j_2] \le \text{consecutives}[\mathbf{C}]$  
