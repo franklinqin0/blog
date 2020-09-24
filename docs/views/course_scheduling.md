@@ -8,21 +8,21 @@ tags:
 ---
 
 ::: theorem
-Nobody knows more about course scheduling algorithm than I do.
+Nobody knows more about _course scheduling algorithm_ than I do.
 ::: right
 Donald Trump
 :::
 
 <!-- more -->
 
-During the past summer, I worked at a friend's tech startup and established a course scheduling system. I served as a full stack engineer for this task, learned a lot and want to share some ideas and insights.
+During the past summer, I worked at a friend's tech startup and established a course scheduling system. I served as a full stack engineer for backend, frontend, and algorithm. In the following I will share some ideas and insights on the algorithm.
 
 ## Baloney
 
 1. As informed by Professor [Madeleine Udell](https://people.orie.cornell.edu/mru8/bio.html), [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates#Early_life) wrote a class scheduling program for his school in exchange for computer time. As [the rumor](https://skeptics.stackexchange.com/a/16906) says, he tweaked the program’s code so that he was placed in classes with mostly female students
 2. In last September, I was a [voluntary teacher teaching English](why_vt). A local teacher complained to me about the hassle of spending so much time scheduling courses for the entire school. Even with cheap pirated software, he still had to manually adjust schedules in order to satisfy various requirements proposed by other teachers. I immediately realized that integer programming should be quite helpful for the algorithm. However, I forgot most of what I learned in _Optimization II_, let alone how to transform the data into code
 3. The course scheduling program can be classified into 2 types: high school (fixed timeslots) or college (flexible timeslots), but I will only talk about the 1st, as the system I developed served high schools
-4. [It can be proved](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1255&context=theses) that the decision problem is NP-complete and the optimization problem is NP-hard. Let `m` be the number of slots and `n` the number of schedules. Since each schedule must be assigned to a slot, there are $m^n$ possible ways to schedule courses (if `m = 40` and `n = 100`, then the exponential is about $1.607 \times 10^{159}$). Thus, we have to come up with some smart tricks to restrict this astronomical complexity and turn it close to polynomial runtime
+4. [It can be proved](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1255&context=theses) that the decision problem is NP-complete and the optimization problem is NP-hard. Let `m` be the number of slots and `n` the number of schedules. Since each schedule must be assigned to a slot, there are $m^n$ possible ways to schedule courses (if `m = 40` and `n = 100`, then $40^{100}$ is about $1.607 \times 10^{159}$). Thus, we have to come up with some smart tricks to restrict this astronomical complexity and turn it close to polynomial runtime
 
 ## Data Models
 
@@ -179,7 +179,7 @@ Following is the timeline of implementation of IP.
 
 ## Thanks
 
-My great thanks go to many of my friends, who listened to my vague ideas, challenged them with insightful questions, and inspired me to aim for excellence.
+My great thanks go to many of my friends, who listened to my vague ideas, challenged me with insightful questions, and inspired me to aim for excellence.
 
 My special thanks go to Professor [David Williamson](http://www.davidpwilliamson.net/work), who elegantly taught ORIE 3310 in spring 2017 at Cornell, patiently answered my ignorant questions in emails and suggested to me the vastly useful [Google OR-Tools](https://developers.google.com/optimization).
 
