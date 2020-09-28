@@ -2,9 +2,9 @@
 title: Tmux
 date: 2020-01-21
 categories:
- - study
+  - study
 tags:
- - tech
+  - tech
 ---
 
 I write this blog both to spread the efficiency of `tmux` and keep some useful notes for myself.
@@ -14,7 +14,10 @@ I write this blog both to spread the efficiency of `tmux` and keep some useful n
 ## Why tmux
 
 From `man tmux`:
-> `tmux` is short for `t`erminal `m`ultipl`ex`er: it enables a number of terminals to be created, accessed, and controlled from a single screen.
+
+::: theorem
+`tmux` is short for `t`erminal `m`ultipl`ex`er: it enables a number of terminals to be created, accessed, and controlled from a single screen.
+:::
 
 Often times we lose the screen once we close a terminal window. However, in tmux, **each session is persistent** and will **survive accidental disconnection**. Thus, we could detach from a session before bed. A snapshot of terminal is **auto saved and revived** the next morning when we reattach to it.
 
@@ -40,11 +43,11 @@ For windows, could install Cygwin/Cmder or a Linux distro in MS store and use th
 
 ## Terminologies
 
-Tmux is a *client-server architecture*. A `server` hosts tmux sessions and a `client` displays them on screen. When the client loses connection to server, the sessions are still stored on server and displayed when reattached.
+Tmux is a _client-server architecture_. A `server` hosts tmux sessions and a `client` displays them on screen. When the client loses connection to server, the sessions are still stored on server and displayed when reattached.
 
 A `session` has one or more windows linked to it.
 
-A `window` occupies the entire screen and may be split into rectangular *panes*.
+A `window` occupies the entire screen and may be split into rectangular _panes_.
 
 A `pane` is a separate pseudo terminal.
 
@@ -57,9 +60,8 @@ A `pane` is a separate pseudo terminal.
 - `tmux kill-session -t {session_name}`: destroy a named session
 - `tmux ls`: display all sessions
 
-
-
 To input tmux instead of shell commands, a **prefix** (by default `<C-b>`) is needed:
+
 - `{prefix} d`: detach from current session
 - `{prefix } %`: split pane vertically
 - `{prefix } "`: split pane horizontally
@@ -68,7 +70,7 @@ To input tmux instead of shell commands, a **prefix** (by default `<C-b>`) is ne
 
 ## Write our own `.tmux.conf`
 
-Following are some customizations I did in my `.tmux.conf`. Others are quite similar and I will just show you [the code](https://github.com/franklinqin0/dotfiles/blob/master/tmux/.tmux.conf): 
+Following are some customizations I did in my `.tmux.conf`. Others are quite similar and I will just show you [the code](https://github.com/franklinqin0/dotfiles/blob/master/tmux/.tmux.conf):
 
 ### Redefine the prefix
 
@@ -117,12 +119,14 @@ bind -n M-l select-pane -R
 ## Important Confusion to Watch out for
 
 If in a session and wants to:
+
 - **destroy**, except for `kill-session` above, could either `exit` and Enter, or `<C-d>`.
 - **detach**, `{prefix} d`.
 
 DON'T **DESTROY** A SESSION WHILE YOU WANT TO **DETACH** IT!!!
 
 ## Useful Links
+
 - the only website, if any, you need to star about tmux: [Tmux Cheat Sheet](https://tmuxcheatsheet.com)
 - a `.tmux.conf` where I copied most from: [Pegasus Wang's `.tmux.conf`](https://github.com/PegasusWang/linux_config/blob/master/mac/tmux.conf)
 - a cool `.tmux.conf` to **learn but not copy** from: [gpakosz/.tmux](https://github.com/gpakosz/.tmux)

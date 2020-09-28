@@ -18,7 +18,9 @@ When I was learning about perceptron in the ML class, the first machine learning
 
 Here is the part I loved the most, at the end of the section <i>Rival</i>:
 
-> What, we asked, _wasn't_ the perceptron capable of? Dr. Rosenblatt threw up his hands, "Love," he said. "Hope. Despair. Human nature, in short. If we don't understand the human sex drive, why should we expect a machine to?"
+::: theorem
+What, we asked, _wasn't_ the perceptron capable of? Dr. Rosenblatt threw up his hands, "Love," he said. "Hope. Despair. Human nature, in short. If we don't understand the human sex drive, why should we expect a machine to?"
+:::
 
 It sounded quite funny to me at first, since perceptron is such a simple algorithm just to draw a line between the positve and the negative, and there are a million things that it could NOT do, such as image recognition ability mentioned in the blog. Later, however, I realized that the war on whether A.I. is able to understand human emotions is still ongoing and may not be over in a while.
 

@@ -28,9 +28,9 @@ sidebar: false
 - [lyrics](https://lyricstranslate.com/en/zwei-kleine-sterne-two-little-stars.html)
 
 ::: tip
-Zwei kleine Sterne stehen
-am großen Himmelszelt.
-Sie werden mit dir gehen
+Zwei kleine Sterne stehen  
+am großen Himmelszelt.  
+Sie werden mit dir gehen  
 wohl in die weite, weite Welt.
 :::
 
@@ -84,7 +84,7 @@ und werden diesen Ort zum ersten Mal erfassen.
 
 ::: tip 探索
 探索的重点也是探索的起点，  
-让我们重新开始探索吧！  
+让我们重新开始探索吧！
 :::
 
 ### Who Am I – Kein System ist sicher（我是谁 - 没有系统是安全的）

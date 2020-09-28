@@ -2,9 +2,9 @@
 title: About Algo
 date: 9999-12-29
 categories:
- - about
+  - about
 tags:
- - whoami
+  - whoami
 ---
 
 Recently, I created the [algo site](https://alog.franklinqin0.me) to record algorithm problems I've solved.
@@ -55,7 +55,7 @@ Gradually, I think having people from the globe discussing on a common topic is 
 
 I tried [Valine](https://valine.js.org/en) on this blog before b/c the [reco-theme][reco_theme] has a built-in plugin [@vuepress-reco/vuepress-plugin-comments](https://vuepress-theme-reco.recoluan.com/en/views/plugins/comments.html) for comments. The placeholders default to Chinese, though users could [choose English](https://valine.js.org/en/i18n.html). The main reason Valine didn't make me happy was b/c I had to go over the [extra steps](https://github.com/DesertsP/Valine-Admin) to **enable email notification** after a user responds. This took me half a day but still finally failed.
 
-Also, Valine is developed by LeanCloud, who is a *freemium* SaaS provider. Why do I need to watch for not being charged and going thru all the hassle to enable email responding system?
+Also, Valine is developed by LeanCloud, who is a _freemium_ SaaS provider. Why do I need to watch for not being charged and going thru all the hassle to enable email responding system?
 
 ### [Gitalk](https://gitalk.github.io)
 
@@ -65,7 +65,7 @@ I knew Gitalk recently and thought it's a cool idea to associate commenting w/ [
 
 These are the steps to initiate Gitalk on this blog:
 
-1. register an OAuth app on GitHub 
+1. register an OAuth app on GitHub
    - callback url is the home url
    - one app for only one site/url/repo
 2. add Gitalk according to your static site generator
@@ -78,27 +78,30 @@ These are the steps to initiate Gitalk on this blog:
 
 There are a few caveats to watch for when using Gitalk (could see my [`config.js`][config_js]):
 
-1. `id` should be unique and $<50$
+1. `id` should be unique and $<50$ chars
 2. `title` field is better not changed; o.w. have to the old comments on the post is lost
-3. better set `title` and `labels` distinct enough to not confuse *comment issues* w/ *real issues*
+3. better set `title` and `labels` distinct enough to not confuse _comment issues_ w/ _real issues_
 4. YOU have to go to the post **in prod** to initiate comments just on that page
 
 #### Hide Secrets, or Not
 
-After I made Gitalk work on my site, I was worry about leaking my `client ID` and `secret` in hardcoded in [`config.js`][config_js] to the public if I hard code them in [`config.js`][config_js]. So I found `dotenv` introduced [here](https://gist.github.com/derzorngottes/3b57edc1f996dddcab25) to hide env vars, but then Gitalk on my site doesn't work anymore!
+After I made Gitalk work on my site, I was worry about leaking my `client ID` and `secret` in hardcoded in [`config.js`][config_js] to the public if I hard code them in [`config.js`][config_js]. So I found `dotenv` introduced [here](https://gist.github.com/derzorngottes/3b57edc1f996dddcab25) to hide env vars, but then Gitalk on my site doesn't work anymore because Github servers don't have my local env vars in `.env`!
 
-Further, I actually read about it in [Gitment README](https://github.com/imsun/gitment#is-it-safe-to-make-my-client-secret-public):
+Further, I found the following in [Gitment README](https://github.com/imsun/gitment#is-it-safe-to-make-my-client-secret-public):
 
-> Although GitHub does't recommend to hard code client secret in the frontend, you can still do that because GitHub will verify your callback URL. In theory, no one else can use your secret except your site.
+::: theorem
+Although GitHub does't recommend to hard code client secret in the frontend, you can still do that because GitHub will verify your callback URL. In theory, no one else can use your secret except your site.
+:::
 
 Thus, at least in this case, hardcoding 2 env vars is alright, and I reverted back and uninstalled `dotenv`.
 
 ### Other Options for Comment Systems
 
-[Gitment](https://imsun.github.io/gitment) is quite similar to [Gitalk](https://gitalk.github.io) but supports *likes*.
+[Gitment](https://imsun.github.io/gitment) is quite similar to [Gitalk](https://gitalk.github.io) but supports _likes_.
 
 [Vssue](https://vssue.js.org) claims to work on more than GitHub but I haven't seen many usages.
 
 <!-- ref links -->
+
 [config_js]: https://github.com/franklinqin0/blog/blob/master/docs/.vuepress/config.js
 [reco_theme]: vuepress-theme-reco.recoluan.com/en

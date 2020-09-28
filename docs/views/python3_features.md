@@ -35,11 +35,15 @@ Following are from [_EPI in Python_](https://www.amazon.com/Elements-Programming
 
 Integers:
 
-> Integers in Python3 are **unbounded**-the _maximum integer_ representable is _a function of the available memory_. The constant `sys.maxsize` can be used to find the word-size; specifically, it's the maximum value integer that can be stored in the word, e.g., $2**63 - L$ on a `64`-bit machine. Bounds on floats are specified in `sys.float-info`.
+::: theorem
+Integers in Python3 are **unbounded**-the _maximum integer_ representable is _a function of the available memory_. The constant `sys.maxsize` can be used to find the word-size; specifically, it's the maximum value integer that can be stored in the word, e.g., $2**63 - L$ on a `64`-bit machine. Bounds on floats are specified in `sys.float-info`.
+:::
 
 Float:
 
-> Unlike integers, floats are not infinite precision, and it's convenient to refer to infinity as `float('inf ')` and `float('-inf ')`. These values are comparable to integers, and can be used to create pseudo max-int and pseudo min-int.
+::: theorem
+Unlike integers, floats are not infinite precision, and it's convenient to refer to infinity as `float('inf ')` and `float('-inf ')`. These values are comparable to integers, and can be used to create pseudo max-int and pseudo min-int.
+:::
 
 ### bin
 

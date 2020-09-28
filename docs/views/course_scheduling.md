@@ -133,9 +133,9 @@ And the _objective_ is basically to maximize sum of LHS of constraints.
 
 This formulation works theorectically, but it has nonlienar terms(product of 2 decision variables) in both constraints and objective. It is no longer standard IP, and so requires [AddMultiplicationEquality](https://developers.google.com/optimization/reference/python/sat/python/cp_model#addmultiplicationequality) from [CP-SAT solver](https://developers.google.com/optimization/cp/cp_solver) to create a new decision variable for each product of `x`.
 
-## More Algorithms
+## Heuristic Algorithms
 
-There are other possible ways to solve the course scheduling problem but do not work as well as IP.
+Following are some heuristic algorithms that I know of and may also solve the course scheduling problem but undoubtedly inferior to IP.
 
 ### Genetic Algorithm (GA)
 
@@ -160,7 +160,7 @@ In short, though intuitive, the algorithm does not go much further than manual s
 
 ## Timeline
 
-Following is the timeline of implementation of IP.
+Following is the timeline for implementation of algorithms: GA and IP.
 
 | Time                   | Description                                                                                                                                        |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -171,9 +171,11 @@ Following is the timeline of implementation of IP.
 | 9/17 3:35 a.m.         | converted from MIP to CP-SAT solver                                                                                                                |
 | 9/18 9:42 p.m.         | finished [consecutive schedules](#consecutive-schedules)                                                                                           |
 
+Other times I was doing backend and frontend development.
+
 ## Thanks
 
-My great thanks go to many of my friends, who listened to my vague ideas, challenged me with insightful questions, and inspired me to aim for excellence.
+My great thanks go to many of my friends, who listened to my vague ideas, challenged me with insightful questions, and inspired me to pursue excellence.
 
 My special thanks go to Professor [David Williamson](http://www.davidpwilliamson.net/work), who elegantly taught ORIE 3310 in spring 2017 at Cornell, patiently answered my ignorant questions in emails and suggested to me the vastly useful [Google OR-Tools](https://developers.google.com/optimization).
 
