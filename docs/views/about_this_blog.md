@@ -2,9 +2,9 @@
 title: About This Blog
 date: 9999-12-30
 categories:
- - about
+  - about
 tags:
- - whoami
+  - whoami
 prev: about
 next: about_algo
 sidebar: false
@@ -22,7 +22,7 @@ The Internet is becoming more stupid and arousing. Sexy pictures and funny video
 
 Why not just post WeChat moments w/ no more than 9 pictures and interact w/ friends thru a like click? I once seriously doubt the value of creating this site. But I made up my mind to continue this site after reading [this popular essay](https://vanschneider.com/a-love-letter-to-personal-websites), and I quote:
 
-::: tip
+::: theorem
 It’s a place where we can express, on our terms, who we are and what we offer.
 :::
 
@@ -36,7 +36,7 @@ In early 2018, I used Jekyll as the static site generator to construct a MVP.Gra
 
 In early 2020, while searching for alternatives, I was quite excited to discover [`*VuePress*`](https://vuepress.vuejs.org/), which is based on [`Vue.js`](https://vuejs.org/), a framework I've always been quite curious about, after having learned some [`Angular.js`](https://angular.io/) and [`React.js`](https://reactjs.org/). Using `VuePress`, bloggers can build a SPA (blazing fast when routing w/i the site) w/ **dynamic Vue components**, rather than a static site compiled by Jekyll.
 
-My passion faded a bit when I found that `VuePress` is not as supportive for blog as for documentation, but I searched "VuePress blog theme" on GitHub and found the blog theme [*reco*](https://vuepress-theme-reco.recoluan.com/en). I marvelled at its simplicity and elegance. It has most features I need, if not more! So I spent a few days during 2020 Spring Festival to make some changes most in structure and few in blog posts to transport my old blogs from Jekyll to `vuepress-theme-reco`.
+My passion faded a bit when I found that `VuePress` is not as supportive for blog as for documentation, but I searched "VuePress blog theme" on GitHub and found the blog theme [_reco_](https://vuepress-theme-reco.recoluan.com/en). I marvelled at its simplicity and elegance. It has most features I need, if not more! So I spent a few days during 2020 Spring Festival to make some changes most in structure and few in blog posts to transport my old blogs from Jekyll to `vuepress-theme-reco`.
 
 ## Guildline
 
