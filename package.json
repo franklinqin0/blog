@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "version": "1.0.0",
-  "description": "Recent thoughts and news of Franklin Qin.",
+  "description": "Franklin's blog",
   "main": "index.js",
   "repository": "http://franklinqin.github.io",
   "author": "franklinqin0",

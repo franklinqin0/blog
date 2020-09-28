@@ -485,7 +485,7 @@ Wir freuen uns auf dich!
 
 Liebe Grüße
 
-Franklin Qin
+Franklin
 :::
 
 ## 22. März
@@ -761,7 +761,7 @@ Danke für das Wochenende bei euch in Berlin! Der Besuch im Museum war so toll! 
 Ich hatte wirklich viel Spaß.
 
 LG
-Franklin Qin
+Franklin
 :::
 
 #### Australien

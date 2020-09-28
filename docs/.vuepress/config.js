@@ -1,7 +1,7 @@
 const themeConfig = require('./config/theme/')
 
 module.exports = {
-  title: "Franklin Qin",
+  title: "Franklin's blog",
   description: 'Alles Gute!',
   dest: 'docs/.vuepress/dist',
   head: [
