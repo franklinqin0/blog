@@ -1,8 +1,8 @@
 const themeConfig = require('./config/theme/')
 
 module.exports = {
-  title: "Franklin's blog",
-  description: 'Alles Gute!',
+  title: "Alles Gute",
+  description: ' ',
   dest: 'docs/.vuepress/dist',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],

@@ -37,7 +37,7 @@ Code should be designed around data instead of the other way around. Thus, build
 - room
 - `slot` (refers if assigned to the `slot`)
 
-## Algorithm - Integer Programming (IP)
+## Integer Programming (IP)
 
 Through careful review over ORIE 3310 course notes, and help of Cornell professors, I was able to realize the algorithm in code. In the following, I will restrict to the math formulations of IP rather than code.
 
