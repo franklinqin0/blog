@@ -203,13 +203,17 @@ Deutsch Notizen vom 9. bis 15. März.
 
 ### Hast du Zeit? / Haben Sie Zeit? (Do you have time?)
 
-Spielen wir am Wochenende zusammen Computerspiel. Hast du Zeit? (We will play computer game during weekend. Do you have time?)
+**Q:**
 
-Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play tennis?)
+- Spielen wir am Wochenende zusammen Computerspiel. Hast du Zeit?
+- Hast du am Montag Zeit, spielen wir Tennis?
 
-| Ja                                  | Nein                                                                  |
-| ----------------------------------- | --------------------------------------------------------------------- |
-| Ja, ich habe Zeit.<br>Ja, das geht. | Nein, ich habe (leider) keine Zeit.<br>Nein, das geht (leider) nicht. |
+**A:**
+
+- Ja, ich habe Zeit.
+- Ja, das geht.
+- Nein, ich habe (leider) keine Zeit.
+- Nein, das geht (leider) nicht.
 
 ### Sätze
 
@@ -355,20 +359,20 @@ Hast du am Montag Zeit, spielen wir Tennis? (Do you have time on Monday to play 
 ### <d type="as" text="Gespräch"/>
 
 ::: tip eins
-Kellner: Hier bitte, die Karte. Möchten Sie schon etwas trinken?
-Frau: Für mich ein Bier bitte.
+Kellner: Hier bitte, die Karte. Möchten Sie schon etwas trinken?  
+Frau: Für mich ein Bier bitte.  
 Mann: Ein Mineralwasser mit Zitrone.
 :::
 
 ::: tip zwei
-K: Das Mineralwasser für Sie. Das Mineralwasser für Sie. Und zum Essen?
-F: Ich nehme das Hähnchen mit Reis und einen Salat.
+K: Das Mineralwasser für Sie. Und zum Essen?  
+F: Ich nehme das Hähnchen mit Reis und einen Salat.  
 M: Ich möchte die Tagessuppe und den Grillteller.
 :::
 
 ::: tip drei
-K: Noch ein Dessert?
-F: Nein, danke.
+K: Noch ein Dessert?  
+F: Nein, danke.  
 M: Wir möchten dann zahlen.
 :::
 
@@ -404,28 +408,28 @@ M: Wir möchten dann zahlen.
 
 #### <d type="ie" text="Speise"/>
 
-| Speise                                                       | Detail                                                                        |
-| ------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| <d type="ie" text="Vorspeise"/>                              | der <d type="er" text="Salat"/><br>der Schinken mit Melone<br>die Gemüsesuppe |
-| <d type="ie" text="Hauptspeise"/>                            | das Hähnchen mit Pommes<br>das Omelette mit Gemüse<br>der Fisch mit Reis      |
-| <d type="ie" text="Nachspeise"/<d type="as" text="Dessert"/> | das Eis<br>der Apfelkuchen<br>der <d type="er" text="Obstsalat"/>             |
+| Speise                                                        | Detail                                                                                                                         |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| <d type="ie" text="Vorspeise"/>                               | <d type="er" text="Salat"/><br><d type="er" text="Schinken"/> mit Melone<br><d type="ie" text="Gemüsesuppe"/>                  |
+| <d type="ie" text="Hauptspeise"/>                             | <d type="as" text="Hähnchen"/> mit Pommes<br><d type="as" text="Omelette"/> mit Gemüse<br><d type="er" text="Fisch"/> mit Reis |
+| <d type="ie" text="Nachspeise"/><d type="as" text="Dessert"/> | <d type="as" text="Eis"/><br><d type="er" text="Apfelkuchen"/><br><d type="er" text="Obstsalat"/>                              |
 
 #### Verb
 
-| Person    | mochten  | nehmen | sein |
+| Person    | möchten  | nehmen | sein |
 | --------- | -------- | ------ | ---- |
-| ich       | mochte   | nehme  | bin  |
-| du        | mochtest | nimmst | bist |
-| er/sie/es | mochte   | nimmt  | ist  |
-| wir       | mochten  | nehmen | sind |
-| ihr       | mochtet  | nehmt  | seid |
-| sie/Sie   | mochten  | nehmen | sind |
+| ich       | möchte   | nehme  | bin  |
+| du        | möchtest | nimmst | bist |
+| er/sie/es | möchte   | nimmt  | ist  |
+| wir       | möchten  | nehmen | sind |
+| ihr       | möchtet  | nehmt  | seid |
+| sie/Sie   | möchten  | nehmen | sind |
 
 ### Sätze
 
 | Deutsch                         | Englisch                   |
 | ------------------------------- | -------------------------- |
-| Es gibt ... accusatik           | there be                   |
+| Es gibt ... akkusativ           | there be                   |
 | Und jetzt muss ich etwas essen. | And now I have to eat sth. |
 | Ich muss etwas essen.           | I must eat sth.            |
 | Ich essen etwas.                | I eat sth.                 |
