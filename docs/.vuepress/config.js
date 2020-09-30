@@ -73,7 +73,8 @@ module.exports = {
     ['container', {
       type: 'theorem',
       before: info => `<div class="custom-block theorem"><p class="title">${info}</p>`,
-      after: '</div>'
+      after: '</div>',
+      defaultTitle: ''
     }],
   ]
 }
