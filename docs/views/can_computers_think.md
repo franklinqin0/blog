@@ -6,7 +6,6 @@ categories:
 tags:
   - tech
   - paper
-publish: false
 ---
 
 ::: theorem
