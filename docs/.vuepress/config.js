@@ -76,5 +76,10 @@ module.exports = {
       after: '</div>',
       defaultTitle: ''
     }],
-  ]
+  ],
+  markdown: {
+    extendMarkdown: md => {
+      md.use(require('markdown-it-footnote'))
+    }
+  }
 }
