@@ -18,27 +18,27 @@ Deutsch Notizen vom 30. März bis 8. Mai.
 
 ### Wörter
 
-| Deutsch                                | Englisch    |
-| -------------------------------------- | ----------- |
-| fast                                   | almost      |
-| zuerst                                 | first       |
-| zuletzt                                | last        |
-| höflich                                | polite      |
-| offiziel                               | official    |
-| komisch                                | funny       |
-| sofort                                 | immediately |
-| manchmal                               | sometimes   |
-| hochladen                              | upload      |
-| schenken                               | give        |
-| recherchieren                          | investigate |
-| Verspätung                             | lateness    |
-| <d type="ie" text="Pflanze"/>          | plant       |
-| <d type="ie" text="Tastatur"/>         | keyboard    |
-| <d type="ie" text="Führung"/>          | guided tour |
-| <d type="er" text="Ordner"/>           | file        |
-| der/die Erwachsene                     | adult       |
-| <d type="ie" text="Krankenschwester"/> | nurse       |
-| <d type="as" text="Heimatland"/>       | homeland    |
+| Deutsch                                | Englisch      |
+| -------------------------------------- | ------------- |
+| fast                                   | almost        |
+| zuerst                                 | first         |
+| zuletzt                                | lastly 最后地 |
+| höflich                                | polite        |
+| offiziel                               | official      |
+| komisch                                | funny         |
+| sofort                                 | immediately   |
+| manchmal                               | sometimes     |
+| hochladen                              | upload        |
+| schenken                               | give          |
+| recherchieren                          | investigate   |
+| Verspätung                             | lateness      |
+| <d type="ie" text="Pflanze"/>          | plant         |
+| <d type="ie" text="Tastatur"/>         | keyboard      |
+| <d type="ie" text="Führung"/>          | guided tour   |
+| <d type="er" text="Ordner"/>           | file          |
+| der/die Erwachsene                     | adult         |
+| <d type="ie" text="Krankenschwester"/> | nurse         |
+| <d type="as" text="Heimatland"/>       | homeland      |
 
 | <d type="er" text="Platz"/>                | für                                                             |
 | ------------------------------------------ | --------------------------------------------------------------- |

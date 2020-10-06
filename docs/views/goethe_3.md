@@ -557,7 +557,7 @@ Ich freue mich auf einen tollen Abend mit euch!
 | praktisch                                   | practical                  |
 | bequem                                      | comfortable                |
 | glücklich                                   | fortunate                  |
-| letzter                                     | last                       |
+| letzter                                     | last 最后的                |
 | vorbei                                      | past by                    |
 | stimmen                                     | be right                   |
 | nun                                         | now                        |

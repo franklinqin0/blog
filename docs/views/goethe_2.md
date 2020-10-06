@@ -195,11 +195,13 @@ Deutsch Notizen vom 9. bis 15. März.
 
 | Deutsch                        | Englisch                    |
 | ------------------------------ | --------------------------- |
-| zehn Uhr dreißig               | 10:30                       |
+| zehn Uhr dreißig / halb elf    | 10:30                       |
 | von 14 Uhr bis 15 Uhr          | from 14:00 to 15:00         |
 | Am Donnerstag, um zehn Uhr.    | On Thursday, at 10 o'clock. |
 | Wann Spielen wir Fußball?      | When do you play football?  |
 | Wir spielen am Montag Fußball. | We play football on Monday. |
+
+<img src="/uhrzeit.png" alt="Uhrzeit" width=50% class="medium-zoom">
 
 ### Hast du Zeit? / Haben Sie Zeit? (Do you have time?)
 
@@ -304,7 +306,8 @@ Deutsch Notizen vom 9. bis 15. März.
 | hoffentlich                       | hopefully           |
 | schnell                           | quick(ly)           |
 | müssen                            | have to             |
-| mögen/möchte/möchten              | would like          |
+| mögen                             | like                |
+| möchten                           | would like          |
 | schon                             | already             |
 | dazu                              | with it             |
 | nehmen/nimmt                      | take                |
@@ -408,11 +411,11 @@ M: Wir möchten dann zahlen.
 
 #### <d type="ie" text="Speise"/>
 
-| Speise                                                        | Detail                                                                                                                         |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| <d type="ie" text="Vorspeise"/>                               | <d type="er" text="Salat"/><br><d type="er" text="Schinken"/> mit Melone<br><d type="ie" text="Gemüsesuppe"/>                  |
-| <d type="ie" text="Hauptspeise"/>                             | <d type="as" text="Hähnchen"/> mit Pommes<br><d type="as" text="Omelette"/> mit Gemüse<br><d type="er" text="Fisch"/> mit Reis |
-| <d type="ie" text="Nachspeise"/><d type="as" text="Dessert"/> | <d type="as" text="Eis"/><br><d type="er" text="Apfelkuchen"/><br><d type="er" text="Obstsalat"/>                              |
+| Speise                                                            | Detail                                                                                                                         |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| <d type="ie" text="Vorspeise"/>                                   | <d type="er" text="Salat"/><br><d type="er" text="Schinken"/> mit Melone<br><d type="ie" text="Gemüsesuppe"/>                  |
+| <d type="ie" text="Hauptspeise"/>                                 | <d type="as" text="Hähnchen"/> mit Pommes<br><d type="as" text="Omelette"/> mit Gemüse<br><d type="er" text="Fisch"/> mit Reis |
+| <d type="ie" text="Nachspeise"/><br><d type="as" text="Dessert"/> | <d type="as" text="Eis"/><br><d type="er" text="Apfelkuchen"/><br><d type="er" text="Obstsalat"/>                              |
 
 #### Verb
 
@@ -446,15 +449,17 @@ M: Wir möchten dann zahlen.
 
 | Deutsch                          | Englisch        |
 | -------------------------------- | --------------- |
-| Viertel                          | quarter         |
+| viertel                          | quarter         |
 | <d type="er" text="Einwohner"/>  | inhabitant      |
 | <d type="er" text="Fahrgast"/>   | passenger       |
+| <d type="er" text="Vorschlag" /> | suggestion      |
 | <d type="ie" text="Tageskasse"/> | box office      |
 | <d type="ie" text="Kneipe"/>     | pub             |
 | <d type="ie" text="Brücke"/>     | bridge          |
 | <d type="ie" text="Fläche"/>     | area            |
 | schade                           | pityful         |
 | kaufen                           | buy             |
+| dauern                           | last 持续       |
 | zwischen                         | between         |
 | zustimmen                        | agree           |
 | ablehnen                         | decline         |
@@ -566,7 +571,7 @@ Mir: Der Film kommt um Viertel nach sieben.
 Ben: Gut! Dann bis Samstag.
 :::
 
-### Vorschläge (suggestion)
+### Vorschläge (suggestions)
 
 | Fragen/Vorschläge                                                                                     | zustimmen                                | ablehnen                                                                                                             |
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
