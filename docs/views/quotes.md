@@ -18,6 +18,7 @@ This page documents good quotes I came across.
   - 时常觉得自己不够努力，实力不能配上幸运啊！
 - 文天祥《正气歌》：哲人日已远，典型在夙昔。风檐展书读，古道照颜色
   - 努力！奋斗！
+- Elon Musk: I think it is possible for ordinary people to choose to be extraordinary.
 
 ---
 
