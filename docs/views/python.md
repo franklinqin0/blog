@@ -1,5 +1,5 @@
 ---
-title: Python3 Features
+title: Python Notes
 date: 2020-03-10
 categories:
   - study
@@ -12,8 +12,18 @@ While studying for interview problems, I use `Python3` as the PL and feel like c
 
 <!-- more -->
 
+## Why Python
+
 - elegant and clear
 - high-readability
+
+## Pyenv
+
+[Intro to Pyenv](https://realpython.com/intro-to-pyenv)
+
+## Scopes
+
+[Python scopes](https://realpython.com/python-scope-legb-rule)
 
 ## Int
 

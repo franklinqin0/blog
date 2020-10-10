@@ -189,3 +189,9 @@ Grady Booch
 ::: right
 《论语·子张》
 :::
+
+::: tip
+Be fearful when others are greedy. Be greedy when others are fearful.
+::: right
+Warren Buffett
+:::

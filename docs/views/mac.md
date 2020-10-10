@@ -99,26 +99,12 @@ alias unagent="git config --global --unset http.proxy;git config --global --unse
 
 ```sh
 SET NO_PROXY=localhost
-yarn start (or npm run start)
-```
-
-### Save Credentials for Git
-
-Enable credentials storage in local Git repository:
-
-```sh
-$ git config credential.helper store
-```
-
-Enable credentials storage globally:
-
-```
-$ git config --global credential.helper store
+yarn start # or `npm run start`
 ```
 
 ### Fish
 
-```
+```sh
 # set path
 set PATH <newdir> $PATH
 ```
