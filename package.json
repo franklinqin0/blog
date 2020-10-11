@@ -13,20 +13,19 @@
     "push": "bash push.sh"
   },
   "dependencies": {
+    "vue-class-component": "^7.2.3"
+  },
+  "devDependencies": {
     "@vuepress-reco/vuepress-plugin-rss": "^1.0.2",
     "@vuepress/plugin-google-analytics": "^1.6.0",
     "@vuepress/plugin-medium-zoom": "1.6.0",
     "markdown-it-footnote": "^3.0.2",
-    "vue-class-component": "^7.2.6",
-    "vuepress": "1.6.0",
+    "vuepress": "1.5.4",
     "vuepress-plugin-comment": "^0.7.3",
     "vuepress-plugin-flowchart": "1.4.3",
     "vuepress-plugin-google-adsense": "^0.1.1",
     "vuepress-plugin-sitemap": "^2.3.1",
     "vuepress-theme-reco": "1.5.7",
-    "word2vec": "^1.1.4"
-  },
-  "devDependencies": {
     "@maginapp/vuepress-plugin-katex": "^1.0.7"
   }
 }

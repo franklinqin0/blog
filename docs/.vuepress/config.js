@@ -1,17 +1,89 @@
-const themeConfig = require('./config/theme/')
-
 module.exports = {
   title: "Alles Gute",
-  description: ' ',
+  description: " ",
   dest: 'docs/.vuepress/dist',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
+    [
+      "link",
+      {
+        rel: "icon",
+        href: "/favicon.ico"
+      }
+    ],
+    [
+      "meta",
+      {
+        name: "viewport",
+        content: "width=device-width,initial-scale=1,user-scalable=no"
+      }
+    ]
   ],
-  theme: 'reco',
-  themeConfig,
-  markdown: {
-    lineNumbers: false
+  theme: "reco",
+  themeConfig: {
+    nav: [
+      {
+        text: "Home",
+        link: "/",
+        icon: "reco-home"
+      },
+      {
+        text: "TimeLine",
+        link: "/timeline/",
+        icon: "reco-date"
+      },
+      {
+        text: "More",
+        icon: "reco-message",
+        items: [
+          {
+            text: "Algo",
+            link: "https://franklinqin0.github.io/algo"
+          },
+          {
+            text: "RSS",
+            link: "https://franklinqin0.github.io/blog/rss",
+            icon: "reco-rss"
+          },
+          {
+            text: "Email",
+            link: "mailto:1372978422@qq.com?subject=I read your blog and here is what I think",
+            icon: "reco-mail"
+          },
+          {
+            text: "GitHub",
+            link: "https://github.com/franklinqin0",
+            icon: "reco-github"
+          },
+          {
+            text: "LinkedIn",
+            link: "https://www.linkedin.com/in/franklinqin0/",
+            icon: "reco-linkedin"
+          },
+        ]
+      }
+    ],
+    "sidebar": "auto",
+    "type": "blog",
+    "blogConfig": {
+      // "category": {
+      //   "location": 2,
+      //   "text": "Category"
+      // },
+      "tag": {
+        "location": 3,
+        "text": "Tag"
+      }
+    },
+    "friendLink": [],
+    "logo": "/favicon.ico",
+    "search": true,
+    "searchMaxSuggestions": 10,
+    "lastUpdated": "Last Updated",
+    "author": "franklinqin0",
+    "authorAvatar": "/favicon.ico",
+    "record": "",
+    "startYear": "2020",
+    // "noFoundPageByTencent": false
   },
   plugins: [
     'flowchart',
@@ -78,6 +150,7 @@ module.exports = {
     }],
   ],
   markdown: {
+    lineNumbers: false,
     extendMarkdown: md => {
       md.use(require('markdown-it-footnote'))
     }
