@@ -1,8 +1,6 @@
 ---
 title: About This Blog
 date: 9999-12-30
-categories:
-  - about
 tags:
   - whoami
 prev: about

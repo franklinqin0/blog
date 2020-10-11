@@ -1,8 +1,6 @@
 ---
 title: Tower of Hanoi
 date: 2020-08-09
-categories:
-  - study
 tags:
   - tech
 sidebar: false

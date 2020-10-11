@@ -1,8 +1,6 @@
 ---
 title: Deutsch Lernen vom Goethe Institut - zwei
 date: 2020-03-12
-categories:
-  - study
 tags:
   - Deutsch
 prev: goethe_1

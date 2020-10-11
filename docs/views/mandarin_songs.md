@@ -1,8 +1,6 @@
 ---
 title: 国语歌曲
 date: 2020-05-14
-categories:
-  - play
 tags:
   - life
 sidebar: false

@@ -1,8 +1,6 @@
 ---
 title: Full Stack Engineer Interview Questions
 date: 2020-03-10
-categories:
-  - study
 tags:
   - tech
 publish: false

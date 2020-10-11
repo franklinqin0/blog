@@ -1,8 +1,6 @@
 ---
 title: 香港电影
 date: 2020-05-16
-categories:
-  - play
 tags:
   - life
 prev: cantonese_songs

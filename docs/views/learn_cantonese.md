@@ -1,8 +1,6 @@
 ---
 title: 学广东话
 date: 2019-11-30
-categories:
-  - study
 tags:
   - 粤语
 ---

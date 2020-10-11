@@ -1,8 +1,6 @@
 ---
 title: Mac Notes
 date: 2020-03-09
-categories:
-  - study
 tags:
   - tech
 ---

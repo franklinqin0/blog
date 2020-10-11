@@ -1,8 +1,6 @@
 ---
 title: Deutsch Lernen vom Goethe Institut - vier
 date: 2020-03-30
-categories:
-  - study
 tags:
   - Deutsch
 prev: goethe_3

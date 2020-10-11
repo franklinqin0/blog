@@ -1,8 +1,6 @@
 ---
 title: Why I Stopped Voluntary Teaching
 date: 2020-02-11
-categories:
-  - misc
 tags:
   - VT
 prev: ping_pong_coach

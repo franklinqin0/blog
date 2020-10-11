@@ -1,8 +1,6 @@
 ---
 title: 粤语歌曲
 date: 2020-05-15
-categories:
-  - play
 tags:
   - life
 prev: mandarin_songs

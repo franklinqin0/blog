@@ -1,8 +1,6 @@
 ---
 title: Can Computers Think?
 date: 2020-09-30
-categories:
-  - study
 tags:
   - tech
   - paper

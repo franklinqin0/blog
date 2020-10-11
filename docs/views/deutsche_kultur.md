@@ -1,8 +1,6 @@
 ---
 title: 德国文化
 date: 2020-05-08
-categories:
-  - play
 tags:
   - Deutsch
   - life

@@ -1,8 +1,6 @@
 ---
 title: Python Notes
 date: 2020-03-10
-categories:
-  - study
 tags:
   - tech
 publish: false

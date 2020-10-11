@@ -1,8 +1,6 @@
 ---
 title: Git Notes
 date: 2020-10-08
-categories:
-  - study
 tags:
   - tech
 publish: false

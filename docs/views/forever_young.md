@@ -1,8 +1,6 @@
 ---
 title: 《无问西东》观后感
 date: 2019-02-11
-categories:
-  - play
 tags:
   - life
 sidebar: false

@@ -1,11 +1,8 @@
 ---
 title: 乒乓球比赛
 date: 2019-11-29
-categories:
-  - misc
 tags:
   - VT
-  - ping pong
 prev: vt
 next: why_stopped_vt
 ---

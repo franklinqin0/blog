@@ -1,8 +1,6 @@
 ---
 title: Glossary
 date: 2020-02-13
-categories:
-  - about
 tags:
   - whoami
 sidebar: false

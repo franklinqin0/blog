@@ -1,8 +1,6 @@
 ---
 title: 厚积薄发
 date: 2014-10-01
-categories:
-  - misc
 tags:
   - college
 sidebar: false

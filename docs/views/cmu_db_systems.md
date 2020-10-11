@@ -1,10 +1,8 @@
 ---
 title: CMU DB Systems Notes
 date: 2020-03-12
-categories:
- - study
 tags:
- - tech
+  - tech
 publish: false
 ---
 
@@ -16,16 +14,16 @@ A general-purpose DBMS is designed to allow the definition, creation, querying, 
 
 ## Early DBMSs
 
-
 Tight coupling between
 
 ## Relational Model
 
-- Structure: 
+- Structure:
 
 A relation is unordered set that contain the relationship attributes that represent entities.
 
 A tuple is a set of attribute values (also known as its domain) in the relation.
+
 - values are (normally) atomic/scalar
 - the special <impt>NULL</impt> is a member of every domain
 
@@ -33,9 +31,8 @@ A tuple is a set of attribute values (also known as its domain) in the relation.
 
 A relation's **primary key** uniquely identifies a single tuple.
 
-Some DBMSs 
+Some DBMSs
 
 ---
 
 Non-aggregated values in SELECT output clause must appear in GROUP BY clause.
-

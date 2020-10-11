@@ -1,8 +1,6 @@
 ---
 title: 观《谜城》有感
 date: 2015-07-14
-categories:
-  - play
 tags:
   - life
 sidebar: false

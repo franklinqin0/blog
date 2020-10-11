@@ -1,8 +1,6 @@
 ---
 title: Functional Programming in Java
 date: 2020-02-22
-categories:
-  - study
 tags:
   - tech
 publish: false

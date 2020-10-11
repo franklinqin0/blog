@@ -1,8 +1,6 @@
 ---
 title: 支教
 date: 2019-12-20
-categories:
-  - misc
 tags:
   - VT
   - life

@@ -1,8 +1,6 @@
 ---
 title: Deutsch Lernen
 date: 2020-07-12
-categories:
-  - study
 tags:
   - Deutsch
 last: goethe_4

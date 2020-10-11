@@ -2,11 +2,9 @@
 title: 曼森家族
 date: 2020-05-22
 author: 李淼
-categories:
-  - play
 tags:
   - life
-  - copy
+#  - copy
 sidebar: false
 ---
 

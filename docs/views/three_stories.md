@@ -2,13 +2,10 @@
 title: 三个故事
 date: 2018-08-10
 author: FY学长
-categories:
-  - study
 tags:
   - life
-  - philosophy
-  - 中文
-  - copy
+  - chinese
+#  - copy
 sidebar: false
 ---
 

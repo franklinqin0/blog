@@ -2,8 +2,6 @@
 title: You and Your Research
 date: 2020-07-06
 author: Richard Hamming
-categories:
-  - misc
 tags:
   - tech
 sidebar: false

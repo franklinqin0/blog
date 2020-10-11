@@ -1,11 +1,9 @@
 ---
 title: Poems
 date: 1970-01-03
-categories:
-  - about
 tags:
   - life
-  - copy
+#  - copy
 ---
 
 This page documents good poems I came across.

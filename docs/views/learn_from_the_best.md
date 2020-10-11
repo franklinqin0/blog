@@ -1,10 +1,8 @@
 ---
 title: Learn from the Best
 date: 2019-03-07
-categories:
- - study
 tags:
- - life
+  - life
 sidebar: false
 ---
 
@@ -17,9 +15,11 @@ Today I met my mom's friend's brother, who is about to graduate and now internin
 Like me, he:
 
 - also studied computer science in college
+
   - but I got a versatile education that spans from liberal studies to math and various engineering courses
 
 - knows about data structures and basic algorithms
+
   - but I had the precious chance to be taught by great minds who expanded boundaries of human knowledge, went through the pain of thinking about homework problems for days, spent hours at office hours, and underwent the pressure to submit writeups before weekly deadline
 
 - also does Java Spring Boot development, probably even better than I

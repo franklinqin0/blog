@@ -1,19 +1,17 @@
 ---
 title: Youth
 date: 1970-01-01
-categories:
- - about
 tags:
- - youth
- - life
+  - youth
+  - life
 sidebar: false
 ---
 
 The title reminds me of following stuff I love:
 
-- favorite English song: [*Forever Young* by Alphaville](https://youtu.be/t1TcDHrkQYg)
-- [*Forever Young* by Bob Dylan](https://youtu.be/Frj2CLGldC4)
-- [*If* by Rudyard Kipling](https://www.poetryfoundation.org/poems/46473/if---)
+- favorite English song: [_Forever Young_ by Alphaville](https://youtu.be/t1TcDHrkQYg)
+- [_Forever Young_ by Bob Dylan](https://youtu.be/Frj2CLGldC4)
+- [_If_ by Rudyard Kipling](https://www.poetryfoundation.org/poems/46473/if---)
 
 <!-- more -->
 
@@ -31,7 +29,7 @@ Then what?
 
 Good question! "**Then what?**" I guess thinking about the meaning of life is a meaningless thing per se. I occassionally feel quite bored, lacking intellectual challenges. If we see ourselves as patients, we could cure ourselves rather than thinking about these far-fetching questions. You lack love? Love people surrounding you, and they will love you back. You lack challenges to solve and are buried in daily labor? Find some interesting math and coding problems! There are tons of them out there! You feel tired? Well, sleep, and wake up to lead an exciting life, rather than wasting time on stupid films!
 
-Of course, I didn't think of any of these back then, but told him, "Wow, this is deep! If I were to **build my own blog**, I will have the blog of *Youth* by Samuel Ullman."
+Of course, I didn't think of any of these back then, but told him, "Wow, this is deep! If I were to **build my own blog**, I will have the blog of _Youth_ by Samuel Ullman."
 
 So here it is:
 

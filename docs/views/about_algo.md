@@ -1,8 +1,6 @@
 ---
 title: About Algo
 date: 9999-12-29
-categories:
-  - about
 tags:
   - whoami
 ---

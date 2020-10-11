@@ -1,11 +1,9 @@
 ---
 title: Quotes
 date: 1970-01-02
-categories:
-  - about
 tags:
   - life
-  - copy
+#  - copy
 ---
 
 This page documents good quotes I came across.

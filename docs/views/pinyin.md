@@ -1,10 +1,8 @@
 ---
 title: 关于小鹤双拼
 date: 2020-02-13
-categories:
-  - misc
 tags:
-  - 中文
+  - chinese
 ---
 
 在这篇文章里，我想谈谈**小鹤双拼**。

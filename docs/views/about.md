@@ -1,8 +1,6 @@
 ---
 title: About Me
 date: 9999-12-31
-categories:
-  - about
 tags:
   - whoami
 prev: youth

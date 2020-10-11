@@ -1,8 +1,6 @@
 ---
 title: My Grassroot Hero Spiderman
 date: 2019-09-01
-categories:
-  - play
 tags:
   - life
 sidebar: false
