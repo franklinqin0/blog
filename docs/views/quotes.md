@@ -75,25 +75,25 @@ This page documents good quotes I came across.
 
 ## Quotes
 
-::: tip Love Oneself
+::: theorem
 To love oneself is the beginning of a lifelong romance.
 ::: right
 Oscar Wilde
 :::
 
-::: tip
+::: theorem
 The difference between stupidity and genius is that genius has it limits.
 ::: right
 Albert Einstein
 :::
 
-::: tip
+::: theorem
 At the heart of science is an essential balance between two seemingly contradictory attitudes--an openness to new ideas, no matter how bizarre or counterintuitive they may be, and the most ruthless skeptical scrutiny of all ideas, old and new. This is how deep truths are winnowed from deep nonsense.
 ::: right
 Carl Sagan
 :::
 
-::: tip
+::: theorem
 
 - Sometimes it is the people no one can imagine anything of who do the things no one can imagine.
 - We shall do a much better programming job, provided we approach the task with a full appreciation of its tremendous difficulty, provided that we respect the intrinsic limitations of the human mind and approach the task as very humble programmers.
@@ -102,19 +102,19 @@ Carl Sagan
 Alan Turing
 :::
 
-::: tip
+::: theorem
 I think that it’s extraordinarily important that we in computer science keep fun in computing. When it started out, it was an awful lot of fun…I hope the field of computer science never loses its sense of fun…What’s in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led up to it, that you can make it more.
 ::: right
 Alan J. Perlis
 :::
 
-::: tip
+::: theorem
 Information is the resolution of uncertainty.
 ::: right
 Claude Elwood Shannon
 :::
 
-::: tip
+::: theorem
 
 - Testing shows the presence, not the absence of bugs.
 - Elegance is not a dispensable luxury but a quality that decides between success and failure.
@@ -124,7 +124,7 @@ Claude Elwood Shannon
 Edsger Wybe Dijkstra
 :::
 
-::: tip
+::: theorem
 
 - Premature optimization is the root of all evil.
 - When I speak about computer programming as an art, I am thinking primarily of it as an art form, in an aesthetic sense. The chief goal of my work as an educator and author is to help people learn how to write beautiful programs ... My feeling is that when we prepare a program, the experience can be just like composing poetry or music ... Some programs are elegant, some are exquisite, some are sparkling. My claim is that it is possible to write grand programs, noble programs, truly magnificent ones! ... computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. Programmers who subconsciously view themselves as artists will enjoy what they do and will do it better.
@@ -133,19 +133,19 @@ Edsger Wybe Dijkstra
 Donal Knuth
 :::
 
-::: tip
+::: theorem
 There are two ways of constructing a software design. One way is to make it so simple that there are obviously no deficiencies. And the other way is to make it so complicated that there are no obvious deficiencies.
 ::: right
 Tony Hoare
 :::
 
-::: tip
+::: theorem
 The purpose of computation is insight, not numbers.
 ::: right
 Richard Hamming
 :::
 
-::: tip
+::: theorem
 
 - Software is like sex: It's better when it's free.
 - Talk is cheap. Show me the code.
@@ -158,19 +158,19 @@ Richard Hamming
 Linus Torvalds
 :::
 
-::: tip
+::: theorem
 Success is a lousy teacher. It seduces smart people into thinking they can't lose. And it's an unreliable guide to the future.
 ::: right
 Bill Gates
 :::
 
-::: tip
+::: theorem
 Now, it's my belief that Python is a lot easier than to teach to students programming and teach them C or C++ or Java at the same time because all the details of the languages are so much harder. Other scripting languages really don't work very well there either.
 ::: right
 Guido van Rossum
 :::
 
-::: tip
+::: theorem
 The function of good software is to make the complex appear to be simple.
 ::: right
 Grady Booch
@@ -178,19 +178,19 @@ Grady Booch
 
 即使除去所有的太阳、长眠不醒，也不愿与你分离。世人从这句话中体会到了爱人间的浪漫，但可曾痛苦于执着？Love is a sweet pain.
 
-::: tip
+::: theorem
 三千世界鸦杀尽，与君共寝至天明
 ::: right
 高杉晋作
 :::
 
-::: tip
+::: theorem
 子夏曰：“博学而笃志，切问而近思，仁在其中矣。”
 ::: right
 《论语·子张》
 :::
 
-::: tip
+::: theorem
 Be fearful when others are greedy. Be greedy when others are fearful.
 ::: right
 Warren Buffett
