@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Interview Algorithms | Alles Gute</title>
+    <meta name="generator" content="VuePress 1.6.0">
+    <link rel="icon" href="/favicon.ico">
+    <meta name="description" content=" ">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <link rel="preload" href="/assets/css/0.styles.ea29fce6.css" as="style"><link rel="preload" href="/assets/js/app.ed319baa.js" as="script"><link rel="preload" href="/assets/js/4.6ba7a5f8.js" as="script"><link rel="preload" href="/assets/js/1.02152e8f.js" as="script"><link rel="preload" href="/assets/js/40.0d042794.js" as="script"><link rel="prefetch" href="/assets/js/10.5ab42ec2.js"><link rel="prefetch" href="/assets/js/11.227d8d1a.js"><link rel="prefetch" href="/assets/js/12.7184535b.js"><link rel="prefetch" href="/assets/js/13.8c87db52.js"><link rel="prefetch" href="/assets/js/14.ce681066.js"><link rel="prefetch" href="/assets/js/15.5691b904.js"><link rel="prefetch" href="/assets/js/16.fbdf8024.js"><link rel="prefetch" href="/assets/js/17.f2763d2d.js"><link rel="prefetch" href="/assets/js/18.6d6e7d79.js"><link rel="prefetch" href="/assets/js/19.412b668e.js"><link rel="prefetch" href="/assets/js/20.8c97d0bb.js"><link rel="prefetch" href="/assets/js/21.0946ea8c.js"><link rel="prefetch" href="/assets/js/22.7a718643.js"><link rel="prefetch" href="/assets/js/23.395b38c1.js"><link rel="prefetch" href="/assets/js/24.1b7a900f.js"><link rel="prefetch" href="/assets/js/25.c7cf67b5.js"><link rel="prefetch" href="/assets/js/26.761455ff.js"><link rel="prefetch" href="/assets/js/27.1ed20472.js"><link rel="prefetch" href="/assets/js/28.7c6b2885.js"><link rel="prefetch" href="/assets/js/29.cf369f5e.js"><link rel="prefetch" href="/assets/js/30.79eecb44.js"><link rel="prefetch" href="/assets/js/31.a5ac1f7b.js"><link rel="prefetch" href="/assets/js/32.b9f83d7e.js"><link rel="prefetch" href="/assets/js/33.174358f9.js"><link rel="prefetch" href="/assets/js/34.cca9a111.js"><link rel="prefetch" href="/assets/js/35.33862ae7.js"><link rel="prefetch" href="/assets/js/36.8425f342.js"><link rel="prefetch" href="/assets/js/37.1ba9e554.js"><link rel="prefetch" href="/assets/js/38.dda39c79.js"><link rel="prefetch" href="/assets/js/39.90c26f0a.js"><link rel="prefetch" href="/assets/js/41.eef6ed9b.js"><link rel="prefetch" href="/assets/js/42.2ffb6543.js"><link rel="prefetch" href="/assets/js/43.b01fe7ec.js"><link rel="prefetch" href="/assets/js/44.011a28dd.js"><link rel="prefetch" href="/assets/js/45.e838bdec.js"><link rel="prefetch" href="/assets/js/46.08ecc45f.js"><link rel="prefetch" href="/assets/js/47.bf986a73.js"><link rel="prefetch" href="/assets/js/48.7c7caa8e.js"><link rel="prefetch" href="/assets/js/49.b36cb1c8.js"><link rel="prefetch" href="/assets/js/5.29b854e6.js"><link rel="prefetch" href="/assets/js/50.a14bc2be.js"><link rel="prefetch" href="/assets/js/51.43660c42.js"><link rel="prefetch" href="/assets/js/52.ce2183b4.js"><link rel="prefetch" href="/assets/js/53.142ea323.js"><link rel="prefetch" href="/assets/js/54.1e2fdcb4.js"><link rel="prefetch" href="/assets/js/55.52e5e7c9.js"><link rel="prefetch" href="/assets/js/56.58344ba5.js"><link rel="prefetch" href="/assets/js/57.e590efc1.js"><link rel="prefetch" href="/assets/js/58.0516c7f8.js"><link rel="prefetch" href="/assets/js/59.02719ba3.js"><link rel="prefetch" href="/assets/js/6.e0ab0459.js"><link rel="prefetch" href="/assets/js/60.6998c23b.js"><link rel="prefetch" href="/assets/js/61.6035f049.js"><link rel="prefetch" href="/assets/js/62.95e5d066.js"><link rel="prefetch" href="/assets/js/63.18945ffa.js"><link rel="prefetch" href="/assets/js/64.4e2a8f2b.js"><link rel="prefetch" href="/assets/js/65.f15b5a56.js"><link rel="prefetch" href="/assets/js/66.23a0a173.js"><link rel="prefetch" href="/assets/js/67.d1058f51.js"><link rel="prefetch" href="/assets/js/68.6c294ba2.js"><link rel="prefetch" href="/assets/js/69.fa189630.js"><link rel="prefetch" href="/assets/js/7.a4f14f31.js"><link rel="prefetch" href="/assets/js/70.b7268f30.js"><link rel="prefetch" href="/assets/js/71.6d984dc8.js"><link rel="prefetch" href="/assets/js/72.a91d1273.js"><link rel="prefetch" href="/assets/js/73.cd3b29fc.js"><link rel="prefetch" href="/assets/js/74.67f4a781.js"><link rel="prefetch" href="/assets/js/75.753c58a9.js"><link rel="prefetch" href="/assets/js/76.1ee6e94e.js"><link rel="prefetch" href="/assets/js/77.733551c2.js"><link rel="prefetch" href="/assets/js/78.a38956bf.js"><link rel="prefetch" href="/assets/js/79.d6188c9f.js"><link rel="prefetch" href="/assets/js/8.b8be4079.js"><link rel="prefetch" href="/assets/js/9.79bc9db2.js"><link rel="prefetch" href="/assets/js/vendors~flowchart.55516a48.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.ea29fce6.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container no-sidebar" data-v-2d5f533b><div data-v-2d5f533b><div id="loader-wrapper" class="loading-wrapper" data-v-d48f4d20 data-v-2d5f533b data-v-2d5f533b><div class="loader-main" data-v-d48f4d20><div data-v-d48f4d20></div><div data-v-d48f4d20></div><div data-v-d48f4d20></div><div data-v-d48f4d20></div></div> <!----> <!----></div> <div class="password-shadow password-wrapper-out" style="display:none;" data-v-64685f0e data-v-2d5f533b data-v-2d5f533b><h3 class="title" style="display:none;" data-v-64685f0e data-v-64685f0e>Alles Gute</h3> <!----> <label id="box" class="inputBox" style="display:none;" data-v-64685f0e data-v-64685f0e><input type="password" value="" data-v-64685f0e> <span data-v-64685f0e>Konck! Knock!</span> <button data-v-64685f0e>OK</button></label> <div class="footer" style="display:none;" data-v-64685f0e data-v-64685f0e><span data-v-64685f0e><i class="iconfont reco-theme" data-v-64685f0e></i> <a target="blank" href="https://vuepress-theme-reco.recoluan.com" data-v-64685f0e>vuePress-theme-reco</a></span> <span data-v-64685f0e><i class="iconfont reco-copyright" data-v-64685f0e></i> <a data-v-64685f0e><span data-v-64685f0e>franklinqin0</span>
+            
+          <!---->
+          2020
+        </a></span></div></div> <div class="hide" data-v-2d5f533b><header class="navbar" data-v-2d5f533b><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"><img src="/favicon.ico" alt="Alles Gute" class="logo"> <span class="site-name">Alles Gute</span></a> <div class="links"><div class="color-picker"><a class="color-button"><i class="iconfont reco-color"></i></a> <div class="color-picker-menu" style="display:none;"><div class="mode-options"><h4 class="title">Choose mode</h4> <ul class="color-mode-options"><li class="dark">dark</li><li class="auto active">auto</li><li class="light">light</li></ul></div></div></div> <div class="search-box"><i class="iconfont reco-search"></i> <input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="/" class="nav-link"><i class="iconfont reco-home"></i>
+  Home
+</a></div><div class="nav-item"><a href="/timeline/" class="nav-link"><i class="iconfont reco-date"></i>
+  TimeLine
+</a></div><div class="nav-item"><a href="/tag/" class="nav-link"><i class="iconfont reco-tag"></i>
+  Tag
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><a class="dropdown-title"><span class="title"><i class="iconfont reco-message"></i>
+      More
+    </span> <span class="arrow right"></span></a> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="https://franklinqin0.github.io/algo" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont undefined"></i>
+  Algo
+  <svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="outbound-link-title" role="img" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><title id="outbound-link-title">(opens new window)</title> <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://franklinqin0.github.io/blog/rss" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-rss"></i>
+  RSS
+  <svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="outbound-link-title" role="img" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><title id="outbound-link-title">(opens new window)</title> <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="mailto:1372978422@qq.com?subject=I read your blog and here is what I think" class="nav-link external"><i class="iconfont reco-mail"></i>
+  Email
+  <svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="outbound-link-title" role="img" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><title id="outbound-link-title">(opens new window)</title> <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://github.com/franklinqin0" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-github"></i>
+  GitHub
+  <svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="outbound-link-title" role="img" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><title id="outbound-link-title">(opens new window)</title> <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://www.linkedin.com/in/franklinqin0/" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-linkedin"></i>
+  LinkedIn
+  <svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="outbound-link-title" role="img" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><title id="outbound-link-title">(opens new window)</title> <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li></ul></div></div> <!----></nav></div></header> <div class="sidebar-mask" data-v-2d5f533b></div> <aside class="sidebar" data-v-2d5f533b><div class="personal-info-wrapper" data-v-ca798c94 data-v-2d5f533b><img src="/favicon.ico" alt="author-avatar" class="personal-img" data-v-ca798c94> <h3 class="name" data-v-ca798c94>
+    franklinqin0
+  </h3> <div class="num" data-v-ca798c94><div data-v-ca798c94><h3 data-v-ca798c94>49</h3> <h6 data-v-ca798c94>Article</h6></div> <div data-v-ca798c94><h3 data-v-ca798c94>18</h3> <h6 data-v-ca798c94>Tag</h6></div></div> <hr data-v-ca798c94></div> <nav class="nav-links"><div class="nav-item"><a href="/" class="nav-link"><i class="iconfont reco-home"></i>
+  Home
+</a></div><div class="nav-item"><a href="/timeline/" class="nav-link"><i class="iconfont reco-date"></i>
+  TimeLine
+</a></div><div class="nav-item"><a href="/tag/" class="nav-link"><i class="iconfont reco-tag"></i>
+  Tag
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><a class="dropdown-title"><span class="title"><i class="iconfont reco-message"></i>
+      More
+    </span> <span class="arrow right"></span></a> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="https://franklinqin0.github.io/algo" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont undefined"></i>
+  Algo
+  <svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="outbound-link-title" role="img" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><title id="outbound-link-title">(opens new window)</title> <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://franklinqin0.github.io/blog/rss" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-rss"></i>
+  RSS
+  <svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="outbound-link-title" role="img" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><title id="outbound-link-title">(opens new window)</title> <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="mailto:1372978422@qq.com?subject=I read your blog and here is what I think" class="nav-link external"><i class="iconfont reco-mail"></i>
+  Email
+  <svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="outbound-link-title" role="img" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><title id="outbound-link-title">(opens new window)</title> <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://github.com/franklinqin0" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-github"></i>
+  GitHub
+  <svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="outbound-link-title" role="img" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><title id="outbound-link-title">(opens new window)</title> <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li><li class="dropdown-item"><!----> <a href="https://www.linkedin.com/in/franklinqin0/" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="iconfont reco-linkedin"></i>
+  LinkedIn
+  <svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="outbound-link-title" role="img" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><title id="outbound-link-title">(opens new window)</title> <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></li></ul></div></div> <!----></nav> <!----> </aside> <div class="password-shadow password-wrapper-in" style="display:none;" data-v-64685f0e data-v-2d5f533b><h3 class="title" style="display:none;" data-v-64685f0e data-v-64685f0e>Interview Algorithms</h3> <!----> <label id="box" class="inputBox" style="display:none;" data-v-64685f0e data-v-64685f0e><input type="password" value="" data-v-64685f0e> <span data-v-64685f0e>Konck! Knock!</span> <button data-v-64685f0e>OK</button></label> <div class="footer" style="display:none;" data-v-64685f0e data-v-64685f0e><span data-v-64685f0e><i class="iconfont reco-theme" data-v-64685f0e></i> <a target="blank" href="https://vuepress-theme-reco.recoluan.com" data-v-64685f0e>vuePress-theme-reco</a></span> <span data-v-64685f0e><i class="iconfont reco-copyright" data-v-64685f0e></i> <a data-v-64685f0e><span data-v-64685f0e>franklinqin0</span>
+            
+          <!---->
+          2020
+        </a></span></div></div> <div data-v-2d5f533b><main class="page"><div class="page-title" style="display:none;"><h1 class="title">Interview Algorithms</h1> <div data-v-3b7f5bdf><i class="iconfont reco-account" data-v-3b7f5bdf><span data-v-3b7f5bdf>franklinqin0</span></i> <i class="iconfont reco-date" data-v-3b7f5bdf><span data-v-3b7f5bdf>2020-03-10</span></i> <!----> <i class="iconfont reco-tag tags" data-v-3b7f5bdf><span class="tag-item" data-v-3b7f5bdf>tech</span></i></div></div> <div class="theme-reco-content content__default" style="display:none;"><p>This blog features some of the most commonly used algorithms.</p> <p>Thanks to:</p> <ul><li>Walker M. White and Lillian Lee, teacher of CS1110: <em>Intro to Programming in Python</em></li> <li>David Gries, teacher of CS2110: <em>OOP in Java</em></li> <li>Michael Clarkson, teacher of CS3110: <em>FP in OCaml</em></li> <li>Eva Tardos, teacher of CS4820: <em>Intro to Algorithms</em></li></ul> <p>who taught me the core CS courses to help me write, categorize and understand the following algorithms.</p> <h2 id="import-libraries"><a href="#import-libraries" class="header-anchor">#</a> Import Libraries</h2> <div class="language-py extra-class"><pre class="language-py"><code><span class="token keyword">import</span> random
+</code></pre></div><h2 id="bfs"><a href="#bfs" class="header-anchor">#</a> BFS</h2> <h2 id="dfs"><a href="#dfs" class="header-anchor">#</a> DFS</h2> <h3 id="note"><a href="#note" class="header-anchor">#</a> Note</h3> <p>Consider what happens to the root, leaf, and other nodes respectively. Define the entrance and exit clearly.</p> <h3 id="why"><a href="#why" class="header-anchor">#</a> Why</h3> <p>Search for answers in a tree. Enumerate all the possibilities.</p> <h3 id="shortcomings"><a href="#shortcomings" class="header-anchor">#</a> Shortcomings</h3> <p>High time complexity(all nodes). Recursion can be hard to understand.</p> <h2 id="input-size-runtime-algorithm"><a href="#input-size-runtime-algorithm" class="header-anchor">#</a> Input Size, Runtime, Algorithm</h2> <p>We could guess the types of algorithms from given input size.</p> <p>A chip could run about <span class="vuepress-eq"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn><msup><mn>0</mn><mn>9</mn></msup></mrow><annotation encoding="application/x-tex">10^9</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">9</span></span></span></span></span></span></span></span></span></span></span></span> operations in a second. Given input size, we could deduce the runtime, and thus the algorithm:</p> <p><span class="vuepress-eq"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>=</mo><mn>1</mn><msup><mn>0</mn><mn>7</mn></msup></mrow><annotation encoding="application/x-tex">n = 10^7</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">7</span></span></span></span></span></span></span></span></span></span></span></span> <span class="vuepress-eq"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">→</span></span></span></span></span> <span class="vuepress-eq"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>O</mi><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">O(n)</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span><span class="mopen">(</span><span class="mord mathdefault">n</span><span class="mclose">)</span></span></span></span></span> <span class="vuepress-eq"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>=</mo><mn>1</mn><msup><mn>0</mn><mn>4</mn></msup><mtext></mtext><mn>1</mn><msup><mn>0</mn><mn>6</mn></msup></mrow><annotation encoding="application/x-tex">n = 10^4~10^6</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">4</span></span></span></span></span></span></span></span><span class="mspace nobreak"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">6</span></span></span></span></span></span></span></span></span></span></span></span> <span class="vuepress-eq"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">→</span></span></span></span></span> <span class="vuepress-eq"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>O</mi><mo stretchy="false">(</mo><mi>n</mi><mi>log</mi><mo>⁡</mo><mi>n</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">O(n\log n)</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span><span class="mopen">(</span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mop">lo<span style="margin-right:0.01389em;">g</span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault">n</span><span class="mclose">)</span></span></span></span></span> <span class="vuepress-eq"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>=</mo><mn>1</mn><msup><mn>0</mn><mn>3</mn></msup></mrow><annotation encoding="application/x-tex">n = 10^3</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span></span></span></span></span> <span class="vuepress-eq"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">→</span></span></span></span></span> <span class="vuepress-eq"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>O</mi><mo stretchy="false">(</mo><msup><mi>n</mi><mn>2</mn></msup><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">O(n^2)</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:1.064108em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span><span class="mopen">(</span><span class="mord"><span class="mord mathdefault">n</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mclose">)</span></span></span></span></span> <span class="vuepress-eq"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>&lt;</mo><mo>=</mo><mn>20</mn></mrow><annotation encoding="application/x-tex">n &lt;= 20</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:0.5782em;vertical-align:-0.0391em;"></span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&lt;</span></span><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span><span class="mord">0</span></span></span></span></span> <span class="vuepress-eq"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">→</span></span></span></span></span> <span class="vuepress-eq"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>O</mi><mo stretchy="false">(</mo><msup><mn>2</mn><mi>n</mi></msup><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">O(2^n)</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span><span class="mopen">(</span><span class="mord"><span class="mord">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">n</span></span></span></span></span></span></span></span><span class="mclose">)</span></span></span></span></span> (DFS)</p> <h2 id="dutch-national-flag"><a href="#dutch-national-flag" class="header-anchor">#</a> Dutch National Flag</h2> <div class="language-py extra-class"><pre class="language-py"><code><span class="token keyword">def</span> <span class="token function">dnf</span><span class="token punctuation">(</span>b<span class="token punctuation">,</span> h<span class="token punctuation">,</span> k<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token triple-quoted-string string">&quot;&quot;&quot;Returns: Partition points for the Dutch National Flag
+
+    The Dutch National Flag algorithm arranges the elements of b[h..k]
+    so that negatives are first, then 0s, then positives. It returns a
+    tuple (i,j)  representing the two partition points.
+
+    Parameter b: The list to rearrange
+    Precondition: b is a mutable sequence (e.g. a list).
+
+    Parameter h: The starting point to sort
+    Precondition: h is an int and a valid position in b
+
+    Parameter k: The ending poing to sort
+    Precondition: k is an int and a valid position in b
+    &quot;&quot;&quot;</span>
+    <span class="token keyword">assert</span> <span class="token builtin">type</span><span class="token punctuation">(</span>b<span class="token punctuation">)</span> <span class="token operator">==</span> <span class="token builtin">list</span><span class="token punctuation">,</span> `b`<span class="token operator">+</span><span class="token string">' is not a list'</span>
+    <span class="token keyword">assert</span> <span class="token number">0</span> <span class="token operator">&lt;=</span> h <span class="token keyword">and</span> h <span class="token operator">&lt;</span> <span class="token builtin">len</span><span class="token punctuation">(</span>b<span class="token punctuation">)</span><span class="token punctuation">,</span> `h`<span class="token operator">+</span><span class="token string">' is not a valid position in the list'</span>
+    <span class="token keyword">assert</span> <span class="token number">0</span> <span class="token operator">&lt;=</span> k <span class="token keyword">and</span> k <span class="token operator">&lt;</span> <span class="token builtin">len</span><span class="token punctuation">(</span>b<span class="token punctuation">)</span><span class="token punctuation">,</span> `k`<span class="token operator">+</span><span class="token string">' is not a valid position in the list'</span>
+
+    <span class="token comment"># Loop variables to satisfy the invariant</span>
+    t <span class="token operator">=</span> h
+    j <span class="token operator">=</span> k
+    i<span class="token operator">=</span> k<span class="token operator">+</span><span class="token number">1</span>
+
+    <span class="token comment"># inv: b[h..t-1] &lt; 0, b[t..i-1] unknown, b[i..j] = 0, and b[j+1..k] &gt; 0</span>
+    <span class="token keyword">while</span> t <span class="token operator">&lt;</span> i<span class="token punctuation">:</span>
+        <span class="token keyword">if</span> b<span class="token punctuation">[</span>i<span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">]</span> <span class="token operator">&lt;</span> <span class="token number">0</span><span class="token punctuation">:</span>
+            _swap<span class="token punctuation">(</span>b<span class="token punctuation">,</span>i<span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">,</span>t<span class="token punctuation">)</span>
+            t <span class="token operator">=</span> t<span class="token operator">+</span><span class="token number">1</span>
+        <span class="token keyword">elif</span> b<span class="token punctuation">[</span>i<span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">]</span> <span class="token operator">==</span> <span class="token number">0</span><span class="token punctuation">:</span>
+            i <span class="token operator">=</span> i<span class="token operator">-</span><span class="token number">1</span>
+        <span class="token keyword">else</span><span class="token punctuation">:</span>
+            _swap<span class="token punctuation">(</span>b<span class="token punctuation">,</span>i<span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">,</span>j<span class="token punctuation">)</span>
+            i <span class="token operator">=</span> i<span class="token operator">-</span><span class="token number">1</span>
+            j <span class="token operator">=</span> j<span class="token operator">-</span><span class="token number">1</span>
+
+    <span class="token comment"># post: b[h..i-1] &lt; 0, b[i..j] = 0, and b[j+1..k] &gt; 0</span>
+    <span class="token comment"># Return dividers as a tuple</span>
+    <span class="token keyword">return</span> <span class="token punctuation">(</span>i<span class="token punctuation">,</span> j<span class="token punctuation">)</span>
+</code></pre></div><h1 id="note-this-uses-a-different-invariant-than-the-lab"><a href="#note-this-uses-a-different-invariant-than-the-lab" class="header-anchor">#</a> NOTE: This uses a DIFFERENT invariant than the lab</h1> <p>def partition(b, h, k):
+&quot;&quot;&quot;Returns: The new position of pivot in partitioned list b[h..k].</p> <div class="language- extra-class"><pre><code>The pivot is the initial value x = b[h].  This function rearranges the
+list so that elements &lt;= x are before the pivot and elements &gt;= x are
+after the pivot.
+
+Parameter b: The list to rearrange
+Precondition: b is a mutable sequence (e.g. a list).
+
+Parameter h: The starting point to sort
+Precondition: h is an int and a valid position in b
+
+Parameter k: The ending poing to sort
+Precondition: k is an int and a valid position in b
+&quot;&quot;&quot;
+assert type(b) == list, `b`+' is not a list'
+assert 0 &lt;= h and h &lt; len(b), `h`+' is not a valid position in the list'
+assert 0 &lt;= k and k &lt; len(b), `k`+' is not a valid position in the list'
+
+# position i is end of first paritition range
+i = h
+# position j is BEFORE beginning of second partition range
+j = k
+
+# Find the first element in the list.
+x = b[h]
+
+# invariant: b[h..i-1] &lt; x, b[i] = x, b[i+1..j] unknown, and  b[j+1..k] &gt;= x
+while i &lt; j:
+    if b[i+1] &gt;= x:
+        # Move this to the end of the block.
+        _swap(b,i+1,j)
+        j = j - 1
+    else:   # b[i+1] &lt; x
+        _swap(b,i,i+1)
+        i = i + 1
+
+# post: b[h..i-1] &lt; x, b[i] is x, and b[i+1..k] &gt;= x
+return i
+</code></pre></div><h1 id="helper-function"><a href="#helper-function" class="header-anchor">#</a> HELPER FUNCTION</h1> <p>def _swap(b, h, k):
+&quot;&quot;&quot;Procedure swaps b[h] and b[k]</p> <div class="language- extra-class"><pre><code>Parameter b: The list to rearrange
+Precondition: b is a mutable sequence (e.g. a list).
+
+Parameter h: The first position to swap
+Precondition: h is an int and a valid position in b
+
+Parameter k: The second position to swap
+Precondition: k is an int and a valid position in b
+&quot;&quot;&quot;
+# We typically do not enforce preconditions on hidden helpers
+temp = b[h]
+b[h] = b[k]
+b[k] = temp
+</code></pre></div><h1 id="linear-search"><a href="#linear-search" class="header-anchor">#</a> Linear search</h1> <p>def linear_search(b,c):
+&quot;&quot;&quot;Returns: index of first occurrence of c in b; -1 if not found.</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to search
+Precondition: b is a sequence
+
+Parameter c: The value to search for
+Precondition: NONE (c can be any value)&quot;&quot;&quot;
+# Quick way to check if a sequence
+assert len(b) &gt;= 0, `b`+' is a not a sequence (list, string, or tuple)'
+
+# Store in i the index of the first c in b[0..]
+i = 0
+
+# invariant: c is not in b[0..i-1]
+while i &lt; len(b) and b[i] != c:
+    i = i + 1;
+
+# post: b[i] == c OR (i == len(b) and c is not in b[0..i-1])
+return i if i &lt; len(b) else -1
+</code></pre></div><h1 id="binary-search"><a href="#binary-search" class="header-anchor">#</a> Binary search</h1> <p>def binary_search(b,c):
+&quot;&quot;&quot;Returns: index of first occurrence of c in b; -1 if not found.</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to search
+Precondition: b is a SORTED sequence
+
+Parameter c: The value to search for
+Precondition: NONE (c can be any value)&quot;&quot;&quot;
+# Quick way to check if a sequence; CANNOT easily check sorted
+assert len(b) &gt;= 0, `b`+' is a not a sequence (list, string, or tuple)'
+
+# Store in i the value BEFORE beginning of range to search
+i = 0
+# Store in j the end of the range to search (element after)
+j = len(b)
+# The middle position of the range
+mid = (i+j)/2
+
+# invariant; b[0..i-1] &lt; c, b[i..j-1] unknown, b[j..] &gt;= c
+while j &gt; i:
+    if b[mid] &lt; c:
+        i = mid+1
+    else:     # b[mid] &gt;= c
+        j = mid
+
+    # Compute a new middle.
+    mid = (i+j)/2
+
+# post: i == j and b[0..i-1] &lt; c and b[j..] &gt;= c
+return i if (i &lt; len(b) and b[i] == c) else -1
+</code></pre></div><p>def isort(b):
+&quot;&quot;&quot;Insertion Sort: Sorts the array b in n^2 time</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to sort
+Precondition: b is a mutable sequence (e.g. a list).&quot;&quot;&quot;
+assert type(b) == list, `b`+' is not a list'
+
+# Start from beginning of list
+i = 0
+
+# inv: b[0..i-1] sorted
+while i  &lt; len(b):
+    _push_down(b,i)
+    i = i + 1
+
+# post: b[0..len(b)-1] sorted
+</code></pre></div><h1 id="helper-function-2"><a href="#helper-function-2" class="header-anchor">#</a> HELPER FUNCTION</h1> <p>def _push_down(b, k):
+&quot;&quot;&quot;Moves the value at position k into its sorted position in b[0.k-1].</p> <div class="language- extra-class"><pre><code>Parameter b: The list to rearrange
+Precondition: b is a list, with b[0..k-1] sorted
+
+Parameter k: The position to push down into b[0..k-1]
+Precondition: k is an int and a valid position in b&quot;&quot;&quot;
+# We typically do not enforce preconditions on hidden helpers
+
+# Start from position k
+j = k
+
+# inv: b[j..k] is sorted
+while j &gt; 0:
+    if b[j-1] &gt; b[j]:
+        _swap(b,j-1,j)
+    j = j - 1
+# post: b[0..k] is sorted
+</code></pre></div><p>def ssort(b):
+&quot;&quot;&quot;Selection Sort: Sorts the array b in n^2 time</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to sort
+Precondition: b is a mutable sequence (e.g. a list).&quot;&quot;&quot;
+assert type(b) == list, `b`+' is not a list'
+
+# Start from beginning of list
+i = 0
+
+# inv: b[0..i-1] sorted
+while i &lt; len(b):
+    index = _min_index(b,i);
+    _swap(b,i,index)
+    i = i+1
+# post: b[0..len(b)-1] sorted
+</code></pre></div><h1 id="helper-function-3"><a href="#helper-function-3" class="header-anchor">#</a> HELPER FUNCTION</h1> <p>def _min_index(b, h):
+&quot;&quot;&quot;Returns: The index of the minimum value in b[h..]</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to search
+Precondition: b is a mutable sequence (e.g. a list).&quot;&quot;&quot;
+# We typically do not enforce preconditions on hidden helpers
+
+# Start from position h
+i = h
+index = h;
+
+# inv: index position of min in b[h..i-1]
+while i &lt; len(b):
+    if b[i] &lt; b[index]:
+        index = i
+    i = i+1
+
+# post: index position of min in b[h..len(b)-1]
+return index
+</code></pre></div><p>def qsort(b):
+&quot;&quot;&quot;Quick Sort: Sorts the array b in n log n average time</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to sort
+Precondition: b is a mutable sequence (e.g. a list).&quot;&quot;&quot;
+assert type(b) == list, `b`+' is not a list'
+
+# Send everything to the recursive helper
+_qsort_helper(b,0,len(b)-1)
+</code></pre></div><p>def _qsort_helper(b, h, k):
+&quot;&quot;&quot;Quick Sort: Sorts the array b[h..k] in n log n average time</p> <div class="language- extra-class"><pre><code>Parameter b: The sequence to sort
+Precondition: b is a mutable sequence (e.g. a list).
+
+Parameter h: The starting point to sort
+Precondition: h is an int and a valid position in b
+
+Parameter k: The ending poing to sort
+Precondition: k is an int and a valid position in b
+&quot;&quot;&quot;
+# We typically do not enforce preconditions on hidden helpers
+if k-h &lt; 1:            # BASE CASE
+    return
+
+# RECURSIVE CASE
+j = partition(b, h, k)
+# b[h..j-1] &lt;= b[j] &lt;= b[j+1..k]
+# Sort b[h..j-1]  and  b[j+1..k]
+_qsort_helper(b, h, j-1)
+_qsort_helper(b, j+1, k)
+</code></pre></div><p>def roll(p):
+&quot;&quot;&quot;Returns: a random int in 0..len(p)-1; i returned with prob p[i].</p> <div class="language- extra-class"><pre><code>Parameter p: The die value distribution
+Precondition: p a list of positive floats that sum to at least 1.&quot;&quot;&quot;
+# Do not assert precondition; too complicated
+
+r = random.random()     # r in [0,1)
+# Think of interval [0,1] as divided into segments of size p[i]
+# Store into i the segment number in which r falls.
+i = 0
+sum_of = p[0]
+while r &gt;= sum_of:
+    sum_of = sum_of + p[i+1]
+    i = i + 1
+
+return i
+</code></pre></div><p>def scramble(b):
+&quot;&quot;&quot;Scrambles the list to resort again</p> <div class="language- extra-class"><pre><code>Parameter b: The list to scramble
+Precondition: b is a mutable sequence (e.g. a list).&quot;&quot;&quot;
+assert type(b) == list, `b`+' is not a list'
+
+# Start from the beginning
+i = 0
+
+# inv: b[0..i-1] is scrambled
+
+while i &lt; len(b):
+    size = len(b)-i
+    pos  = int(random.random()*size)
+    _swap(b,i,i+pos)
+    i = i+1
+# post: b[0..len(b)] is scrambled
+</code></pre></div></div> <footer class="page-edit" style="display:none;"><!----> <div class="last-updated"><span class="prefix">Last Updated: </span> <span class="time">10/11/2020, 10:52:24 AM</span></div></footer> <!----> <!----> <!----></main> <!----></div></div></div></div><div class="global-ui"><div class="back-to-ceiling" style="right:1rem;bottom:6rem;width:2.5rem;height:2.5rem;border-radius:.25rem;line-height:2.5rem;display:none;" data-v-c6073ba8 data-v-c6073ba8><svg t="1574745035067" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="5404" class="icon" data-v-c6073ba8><path d="M526.60727968 10.90185116a27.675 27.675 0 0 0-29.21455937 0c-131.36607665 82.28402758-218.69155461 228.01873535-218.69155402 394.07834331a462.20625001 462.20625001 0 0 0 5.36959153 69.94390903c1.00431239 6.55289093-0.34802892 13.13561351-3.76865779 18.80351572-32.63518765 54.11355614-51.75690182 118.55860487-51.7569018 187.94566865a371.06718723 371.06718723 0 0 0 11.50484808 91.98906777c6.53300375 25.50556257 41.68394495 28.14064038 52.69160883 4.22606766 17.37162448-37.73630017 42.14135425-72.50938081 72.80769204-103.21549295 2.18761121 3.04276886 4.15646224 6.24463696 6.40373557 9.22774369a1871.4375 1871.4375 0 0 0 140.04691725 5.34970492 1866.36093723 1866.36093723 0 0 0 140.04691723-5.34970492c2.24727335-2.98310674 4.21612437-6.18497483 6.3937923-9.2178004 30.66633723 30.70611158 55.4360664 65.4791928 72.80769147 103.21549355 11.00766384 23.91457269 46.15860503 21.27949489 52.69160879-4.22606768a371.15156223 371.15156223 0 0 0 11.514792-91.99901164c0-69.36717486-19.13165746-133.82216804-51.75690182-187.92578088-3.42062944-5.66790279-4.76302748-12.26056868-3.76865837-18.80351632a462.20625001 462.20625001 0 0 0 5.36959269-69.943909c-0.00994388-166.08943902-87.32547796-311.81420293-218.6915546-394.09823051zM605.93803103 357.87693858a93.93749974 93.93749974 0 1 1-187.89594924 6.1e-7 93.93749974 93.93749974 0 0 1 187.89594924-6.1e-7z" p-id="5405" data-v-c6073ba8></path><path d="M429.50777625 765.63860547C429.50777625 803.39355007 466.44236686 1000.39046097 512.00932183 1000.39046097c45.56695499 0 82.4922232-197.00623328 82.5015456-234.7518555 0-37.75494459-36.9345906-68.35043303-82.4922232-68.34111062-45.57627738-0.00932239-82.52019037 30.59548842-82.51086798 68.34111062z" p-id="5406" data-v-c6073ba8></path></svg></div><div></div><div class="vuepress-eqn"></div><span class="vuepress-eq"></span></div></div>
+    <script src="/assets/js/app.ed319baa.js" defer></script><script src="/assets/js/4.6ba7a5f8.js" defer></script><script src="/assets/js/1.02152e8f.js" defer></script><script src="/assets/js/40.0d042794.js" defer></script>
+  </body>
+</html>
