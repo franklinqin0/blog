@@ -27,7 +27,7 @@ If you have read anything **positive**, it's generally **true** :laughing:
 
 ## The Good Part
 
-First of all, I am very much grateful that I was lucky enough to have this priceless experience at such an early stage in my life. I have met so many interesting young souls who will better the future of China and the world. Their untainted eyes are as clear as crystal, and they don't have as many complex thoughts as grown-ups. I was really glad some of them desire to learn more about the outside world and I have left memorable, if not all positive, memories in their childhood.
+First of all, I am very grateful that I was lucky enough to have this priceless experience at such an early stage in my life. I have met so many interesting young souls who will better the future of China and the world. Their untainted eyes are as clear as crystal, and they don't have as many complex thoughts as grown-ups. I was really glad some of them desire to learn more about the outside world and I have left memorable, if not all positive, memories in their childhood.
 
 ## There is Little I Could Change
 
@@ -37,7 +37,7 @@ Some boys in 4th grade don't even understand mandarin, let alone English. Most s
 
 I was glad to find out quite a few smart and ambitious kids, most of whom are girls. Like countrysides in other developing countries such as India, girls are usually deemed inferior to boys and should marry asap. Here in CJ, the normal age for a girl to marry is 16 and similarly for a boy, if not older. When I met kids in 6th grade in a relationship or seeking for one, I was not sure how to persuade and if it could be called "puppy love". Worse yet, most girls post their feelings towards love on Qzone signifying maturity.
 
-In a few years, one would marry, go to Hangzhou or Guangzhou, and work on an assembly line in a sweatshop factory. One would then have offspring around 20, leave the kids to grandparents to breed and may divorce at 25. Before 30 one would come back home and open a store or farm and harvest. In the 40's, one would become grandparents. This life cycle then keeps going for another 20 years, very much like Sisyphus' tragedy.
+In a few years, one would marry, go to Hangzhou or Guangzhou, and work on an assembly line in a sweatshop factory. One would then have offspring around 20, leave the kids to grandparents to breed and may divorce at 25. Before 30 one would come back home and open a store or farm and harvest. In the 40's, one would become grandparents. This life cycle then keeps going for another 20 years, much like Sisyphus' tragedy.
 
 I have nothing against these conventions and I am not justified to tell people what's wrong with this way of living and what's right instead, b/c I myself am struggling to find out my niche in society.
 
@@ -49,9 +49,9 @@ I tried my best but achieved little of what I had desired.
 
 In retrospect, my act of eliminating trash burning inside school had more negative than positive consequences. In the past, used plastic bags are discarded and left unattended along the roads in Chinese countrysides. Nowadays, some countrysides have trash periodically collected and transported to waste treatment plants, but most still burned them at the spot. I abhor that almost everyone around me was ignorant of toxicity of the exhaust (hydrogen chloride, dioxin, etc.) from burning plastic. A local teacher literally told me, "Just bear with it for a moment and all is well afterwards."
 
-After I was nearly asphyxiated by the arising bluish gas when playing ping pong close to the trash burner inside school, I thought to myself: I will do whatever to stop it. I talked to the headmaster of DL central primary school. No response. Then I posted on the website of CJ county government. No response. The next day I posted again. In the following day, they called in an impatient voice, "We will handle this. Meanwhile, please stop sending anything anymore."
+After I was nearly asphyxiated by the arising bluish gas when playing ping pong close to the trash burner inside school, I thought to myself: I will do whatever to stop it. I talked to the headmaster of DL central primary school. No response. Then I posted on the website of CJ county government. Again, no response. The next day I posted again. In the following day, they called in an impatient voice, "We will handle this. Meanwhile, please stop sending anything anymore."
 
-Two days later, 4 government authorities to the school, interrupted my class, dragged me into office and claimed indisputably, "We saw your email and we feel obliged to talk about the current situation: since the waste treatment plants nearby are still under construction and there is no usable one within a reasonable distance, instead of burning inside school, starting from tomorrow we will send a truck every week to collect the trash and send them outside village to burn. Is that cool?" I could only nodded my head under their camera and despotic power. They then proclaimed in a serious commanding tone, "If you ever want to appeal to the county goverment again, please just talk to the village head rather than the county magistrate. Thanks!"
+Two days later, 4 government authorities to the school, interrupted my class, dragged me into office and claimed indisputably, "We saw your email and we feel obliged to talk about the current situation: since the waste treatment plants nearby are still under construction and there is no usable one within a reasonable distance, instead of burning inside school, starting from tomorrow we will send a truck every week to collect the trash and send them outside village to burn. Is that cool?" I could only nodded my head under their camera and despotic power. They then proclaimed in a serious commanding tone, "If you ever want to appeal to the county goverment again, please just talk to the village head rather than the county magistrate. Thank you."
 
 Trash was no longer burned at school any more and I never smelled dioxin ever since, but the local teachers held their silent grudge against me. They feared that their bonus might be deducted and the government will find faults deliberately. When I learned this fact weeks later from a close local teacher, I was pretty angry not because they had these selfish thoughts, but they weren't upright to sincerely talk to me about these worries.
 
@@ -81,7 +81,7 @@ The headmaster at the school taught for more than 2 decades. He even taught the 
 
 Maybe I should look less into the dark side. As LN told me, "it's a meaningful experience even if **only 1 student** gets more interested in studying (English)." In that vein, I am a successful teacher.
 
-During the time there, though I learned little new knowledge due to slow Internet speed, unreliable electricity supply, and most crucially was "infected" by the **lazy atmosphere and slow pace of life**, I understood the line untold under _with great power comes great responsiblity_: _great responsibility requires great power_.
+During the time there, though I learned little new knowledge due to slow Internet speed, unreliable electricity supply, and most crucially was "infected" by the **lazy atmosphere and slow pace of life**, I deeply understood that _great responsibility requires great power_.
 
 ## Let There Be Light
 
@@ -89,7 +89,7 @@ During the time there, though I learned little new knowledge due to slow Interne
 And God said, "Let there be light," and there was light.
 
 ::: right
-Genesis 1:3, ESV
+Genesis 1:3, New International Version
 :::
 
 This scripture reminds me of [_Sunrise Also sprach Zarathustra_ in _2001: A Space Odyssey_](https://youtu.be/e-QFj59PON4) by **Stanley Kubrik**, my favorite foreign film director.
@@ -105,10 +105,10 @@ If education is the light and students are a forrest, then initially light is un
 I will quote what's later dubbed as [_Matthew effect_](https://en.wikipedia.org/wiki/Matthew_effect) from the Bible to officially end the VT series:
 
 ::: tip
-For to every one who has will more be given, and he will have abundance; but from him who has not, even what he has will be taken away.
+Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them.
 
 ::: right
-Matthew 25:29, RSV
+Matthew 13:12, New International Version
 :::
 
 But do you _want_ to _have more_ in the first place?
