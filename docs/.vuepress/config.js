@@ -1,7 +1,7 @@
 module.exports = {
   title: "Alles Gute",
   description: " ",
-  dest: 'docs/.vuepress/dist',
+  dest: "docs/.vuepress/dist",
   head: [
     [
       "link",
@@ -27,6 +27,11 @@ module.exports = {
         icon: "reco-home"
       },
       {
+        text: "Algo",
+        link: "/algo/",
+        icon: "reco-document"
+      },
+      {
         text: "TimeLine",
         link: "/timeline/",
         icon: "reco-date"
@@ -36,12 +41,8 @@ module.exports = {
         icon: "reco-message",
         items: [
           {
-            text: "Algo",
-            link: "https://franklinqin0.github.io/algo"
-          },
-          {
             text: "RSS",
-            link: "https://franklinqin0.github.io/blog/rss",
+            link: "https://franklinqin0.me/rss",
             icon: "reco-rss"
           },
           {
@@ -62,7 +63,8 @@ module.exports = {
         ]
       }
     ],
-    "sidebar": "auto",
+    // "sidebar": "auto",
+    sidebar: require("./sidebar"),
     "type": "blog",
     "blogConfig": {
       // "category": {
@@ -86,21 +88,21 @@ module.exports = {
     // "noFoundPageByTencent": false
   },
   plugins: [
-    'flowchart',
+    "flowchart",
     [
-      'sitemap',
+      "sitemap",
       {
-        hostname: 'https://franklinqin0.me',
-        exclude: ['/404.html']
+        hostname: "https://franklinqin0.me",
+        exclude: ["/404.html"]
       }
     ],
     [
-      'vuepress-plugin-comment',
+      "vuepress-plugin-comment",
       {
-        choosen: 'gitalk',
+        choosen: "gitalk",
         options: {
-          clientID: '60994aaadda1cb23b737',
-          clientSecret: '17a720136175e289ac15e1bf613cf2887cdf1209',
+          clientID: "60994aaadda1cb23b737",
+          clientSecret: "17a720136175e289ac15e1bf613cf2887cdf1209",
           repo: "blog",
           owner: "franklinqin0",
           admin: ["franklinqin0"],
@@ -113,9 +115,9 @@ module.exports = {
       }
     ],
     [
-      '@vuepress/medium-zoom',
+      "@vuepress/medium-zoom",
       {
-        selector: 'img.medium-zoom',
+        selector: "img.medium-zoom",
         // medium-zoom options here
         // See: https://github.com/francoischalifour/medium-zoom#options
         options: {
@@ -124,35 +126,35 @@ module.exports = {
       }
     ],
     [
-      '@maginapp/vuepress-plugin-katex',
+      "@maginapp/vuepress-plugin-katex",
       {
-        delimiters: 'dollars'
+        delimiters: "dollars"
       }
     ],
     [
-      '@vuepress-reco/vuepress-plugin-rss',
+      "@vuepress-reco/vuepress-plugin-rss",
       {
-        site_url: 'https://franklinqin0.me',
+        site_url: "https://franklinqin0.me",
         count: 20
       }
     ],
     [
-      '@vuepress/google-analytics',
+      "@vuepress/google-analytics",
       {
-        'ga': 'UA-146843725-3'
+        "ga": "UA-146843725-3"
       }
     ],
-    ['container', {
-      type: 'theorem',
+    ["container", {
+      type: "theorem",
       before: info => `<div class="custom-block theorem"><p class="title">${info}</p>`,
-      after: '</div>',
-      defaultTitle: ''
+      after: "</div>",
+      defaultTitle: ""
     }],
   ],
   markdown: {
     lineNumbers: false,
     extendMarkdown: md => {
-      md.use(require('markdown-it-footnote'))
+      md.use(require("markdown-it-footnote"))
     }
   }
 }

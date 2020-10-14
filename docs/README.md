@@ -14,5 +14,5 @@ heroImageStyle:
   }
 isShowTitleInHome: true
 actionText: About Me
-actionLink: /views/youth
+actionLink: /blog/youth
 ---
