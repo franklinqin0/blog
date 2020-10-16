@@ -1,11 +1,9 @@
 ---
-title: Word Ladder
-source: LintCode
-diff: hard
+title: Word Search
+source: LeetCode
+diff: medium
 tags:
   - Backtracking
-related:
-  - sliding-puzzle-ii
 ---
 
 <img class="medium-zoom" src="/algo/word-search.png" alt="https://leetcode.com/problems/word-search">
