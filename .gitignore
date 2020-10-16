@@ -6,4 +6,3 @@ package-lock.json
 .vscode/
 node_modules/
 docs/.vuepress/dist/
-docs/algo/todo.md

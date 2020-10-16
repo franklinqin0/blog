@@ -16,7 +16,7 @@ Let $N$ be the number of cells in the board and $L$ be the length of the word to
 
 Complexity:
 
-- Time: $O(N 3^L)$
+- Time: $O(N \cdot 3^L)$
 - Space: $O(L)$
 
 ```py
