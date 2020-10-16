@@ -224,9 +224,9 @@ Kürzen du/ihr.
 | müde                                 | tired, sleepy     |
 | verboten                             | forbidden         |
 | treffen                              | hit, meet         |
-| verschiedene                         | different         |
+| verschieden                          | different         |
 | wollen                               | want              |
-| können                               | be able to        |
+| können                               | can               |
 | müssen                               | must              |
 | wichtig                              | important         |
 | klingeln                             | ring              |
@@ -238,13 +238,15 @@ Kürzen du/ihr.
 | aufstehen                            | get up            |
 | fernsehen                            | watch TV          |
 | organisieren                         | organize          |
+| kranken                              | suffer from sth.  |
 | <d type="er" text="Termin"/>         | date, appointment |
 | <d type="er" text="Felsen"/>         | cliff             |
 | <d type="er" text="Ausflug"/>        | outing            |
-| <d type="er" text="Krankenpfleger"/> | nurse             |
 | <d type="er" text="Spaß"/>           | fun               |
 | <d type="er" text="Ort"/>            | place             |
-| <d type="er" text="Kollegen"/>       | colleague         |
+| <d type="er" text="Kollege"/>        | colleague         |
+| <d type="er" text="Krankenpfleger"/> | nurse             |
+| <d type="ie" text="Pflege"/>         | care              |
 | <d type="ie" text="Ruhe"/>           | rest, silence     |
 | <d type="as" text="Gespräch"/>       | conversation      |
 | <d type="as" text="Krankenhaus"/>    | hospital          |
@@ -353,7 +355,7 @@ Heike Weber arbeitet bei Siemens in Erlangen. Sie ist dort Sekretärin. Heike sc
 | denken                              | think                |
 | bereiten                            | prepare              |
 | verkürzen                           | shorten              |
-| unseren                             | our                  |
+| unser                               | our                  |
 | früh                                | early                |
 | benötigten                          | require              |
 | <d type="er" text="Zahnarzt"/>      | dentist              |
@@ -372,10 +374,10 @@ Heike Weber arbeitet bei Siemens in Erlangen. Sie ist dort Sekretärin. Heike sc
 | Verb      | Englisch     | Trennbar Verb | Englisch      |
 | --------- | ------------ | ------------- | ------------- |
 | räumen    | clean        | aufräumen     | clean up      |
-| schreibe  | write        | aufschreiben  | write down    |
+| schreiben | write        | aufschreiben  | write down    |
 | laden     | charge, load | einladen      | invite        |
-| kauf      | buy          | einkaufen     | buy           |
-| schalten  | switch       | einschalten   | swtich on     |
+| kaufen    | buy          | einkaufen     | buy           |
+| schalten  | switch       | einschalten   | switch on     |
 | fangen    | start        | anfangen      | start on      |
 | sehen     | see          | ansehen       | look at       |
 | rufen     | call/shout   | anrufen       | call/shout to |
@@ -425,10 +427,10 @@ Heike Weber arbeitet bei Siemens in Erlangen. Sie ist dort Sekretärin. Heike sc
 
 #### Können, Kennen, Wissen (3 Know's)
 
-`Können` is a modal verb (know how to do sth). e.g.
+`können` is a modal verb (know how to do sth). e.g.
 
 - Ich kann in Ruhe lesen.
-- Ich kann Deutsch.
+- Ich kann Deutsch sprechen.
 
 `wissen` is used if seeing clauses (dass, wie, wann, wo, wer, warum); `kennen` is used if seeing nouns.
 

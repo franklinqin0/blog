@@ -11,7 +11,7 @@ tags:
 
 ## Solution
 
-### Convert to Int (Cheating)
+### Convert to Int (trivial)
 
 Use the built-in functions `int` to convert and `format`/[f-strings](https://realpython.com/python-f-strings/) to return a string.
 

@@ -15,7 +15,7 @@ related:
 
 The brute force solution doesn't sort and takes 3 nested for loops for cubic time.
 
-Sorting($O(n \log n)$) was not a good practice in linear time [two sum](two_sum) but should be used in this squared time problem.
+Sorting($O(n \log n)$) was not a good practice in linear time [two sum](two-sum) but should be used in this squared time problem.
 
 ### Vanilla Two Pointers
 

@@ -1,13 +1,12 @@
 ---
-title: Pen Box
+title: Course Schedule
 source: LintCode
 diff: medium
 tags:
-  - Array
-  - Two Pointers
-  - DP
+  - BFS
+  - DFS
+  - Topological Sort
 related:
-  - two-sum
   - best-time-to-buy-and-sell-stock
 ---
 
