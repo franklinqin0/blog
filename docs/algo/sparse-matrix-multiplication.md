@@ -18,9 +18,9 @@ The best time we could get is $O(n^2)$, assuming number of nonzeros on each row/
 
 ### Brute Force 1
 
-Utilize the following formula to calculate each value of `C`:
+Utilize the following formula to calculate each element of `C`:
 
-$C[i][t] += A[i][j]*B[j][t]$
+`C[i][t] += A[i][j] * B[j][t]`
 
 ```py
 def multiply(self, A: List[List[int]], B: List[List[int]]) -> List[List[int]]:
@@ -56,7 +56,7 @@ def multiply(self, A: List[List[int]], B: List[List[int]]) -> List[List[int]]:
     return C
 ```
 
-### Improve `A`
+### Improve on `A`
 
 Based on [bruce force 2](#brute-force-2), could improve time complexity(practical, not asymptotic) if `A[i][j]` is 0.
 
@@ -69,20 +69,17 @@ def multiply(self, A: List[List[int]], B: List[List[int]]) -> List[List[int]]:
 
     for i in range(n):
         for j in range(m):
-            if A[i][j]==0:
-                continue
-            for k in range(t):
-                C[i][k] += A[i][j]*B[j][k]
-            ### last 4 lines could also be: ###
-            # if A[i][j]!=0:
-            #     for k in range(t):
-            #         C[i][k] += A[i][j]*B[j][k]
+            if A[i][j] != 0:
+                for k in range(t):
+                    C[i][k] += A[i][j]*B[j][k]
     return C
 ```
 
 ### List Comprehension & Two Pointers
 
 Use Python's list comprehension feature to record the indices and nonzero values, then `multi` calculates vector product only if **two pointers** `idx1` and `idx2` have the same value.
+
+Time and space complexities are both squared.
 
 ```py
 def multiply(self, A: List[List[int]], B: List[List[int]]) -> List[List[int]]:
@@ -118,19 +115,20 @@ def multiply(self, A: List[List[int]], B: List[List[int]]) -> List[List[int]]:
 
     return C
 
+# returns value for C[i][j]
 def multi(self, row, col):
     i = 0
     j = 0
-    res = 0 # value for C[i][j]
-    while i<len(row) and j<len(col):
+    res = 0
+    while i < len(row) and j < len(col):
         idx1, val1 = row[i]
         idx2, val2 = col[j]
-        if idx1<idx2:
+        if idx1 < idx2:
             i += 1
-        elif idx2<idx1:
+        elif idx2 < idx1:
             j += 1
         else:
-            res += val1*val2
+            res += val1 * val2
             i += 1
             j += 1
     return res
@@ -140,7 +138,7 @@ def multi(self, row, col):
 
 We can also use a HashMap instead of list to store the mappings from indices to nonzero values.
 
-The time and space complexities are similar to [list comprehension & two pointers](#list-comprehension--two-pointers).
+The time and space complexities are also both squared.
 
 ```py
 def multiply(self, A: List[List[int]], B: List[List[int]]) -> List[List[int]]:
@@ -151,15 +149,15 @@ def multiply(self, A: List[List[int]], B: List[List[int]]) -> List[List[int]]:
     l = len(B[0])
     table_A, table_B = {}, {}
     for i, row in enumerate(A):
-        for j, ele in enumerate(row):
-            if ele:
+        for j, elt in enumerate(row):
+            if elt:
                 if i not in table_A: table_A[i] = {}
-                table_A[i][j] = ele
+                table_A[i][j] = elt
     for i, row in enumerate(B):
-        for j, ele in enumerate(row):
-            if ele:
+        for j, elt in enumerate(row):
+            if elt:
                 if i not in table_B: table_B[i] = {}
-                table_B[i][j] = ele
+                table_B[i][j] = elt
     C = [[0 for j in range(l)] for i in range(m)]
     for i in table_A:
         for k in table_A[i]:
@@ -171,7 +169,7 @@ def multiply(self, A: List[List[int]], B: List[List[int]]) -> List[List[int]]:
 
 ## Follow Up
 
-There are 2 sparse vectors w/ same dimension. Assume the number of non-zero elements is `n`, how do you calculate the vector product in $O(n)$ time?
+There are 2 sparse vectors w/ same dimension. Assume the number of non-zero eltments is `n`, how do you calculate the vector product in $O(n)$ time?
 
 The secret to do this lies in preprocessing the input. We can record the `(index, value)` pairs like this:
 

@@ -21,7 +21,7 @@ All solutions below have complexities of linear time and constant space.
 - `max profit`: the difference `price - prefix_min_price`.
 - `price`: current price
 
-If current `price` is min so far, update the `prefix_min price` to `price`. Else if the current `price` is a max so far, update `max_profit` to `price - prefix_min price`.
+If current `price` is min so far, update the `prefix_min_price` to `price`. Else if the current `price` is a max so far, update `max_profit` to `price - prefix_min_price`.
 
 ```py
 def maxProfit(self, prices: List[int]) -> int:
@@ -42,8 +42,8 @@ def maxProfit(self, prices: List[int]) -> int:
     prefix_min_price, max_profit = sys.maxsize, 0
 
     for price in prices:
-        max_profit = max(max_profit, price - prefix_min_price)
         prefix_min_price = min(price, prefix_min_price)
+        max_profit = max(max_profit, price - prefix_min_price)
     return max_profit
 ```
 
@@ -57,7 +57,7 @@ def maxProfit(self, prices: List[int]) -> int:
     n = len(prices)
 
     for i in reversed(range(n)):
-        max_profit = max(max_profit, suffix_max_price - prices[i])
         suffix_max_price = max(suffix_max_price, prices[i])
+        max_profit = max(max_profit, suffix_max_price - prices[i])
     return max_profit
 ```

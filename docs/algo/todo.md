@@ -19,6 +19,5 @@ https://leetcode.com/problems/3sum-smaller
 
 best-time-to-buy-and-sell-stock:
 
-docs/best-time-to-buy-and-sell-stock-ii.md
 docs/best-time-to-buy-and-sell-stock-iii.md
 docs/best-time-to-buy-and-sell-stock-iv.md
