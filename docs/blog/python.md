@@ -125,7 +125,7 @@ Dictionary associates values with immutable keys which means you cannot use list
 `[0]*2`
 `[[0 for j in range(num_cols)] for i in range(num_rows)]`
 Since `i` and `j` are not used, can simplify the above to:
-`[[0]*num_cols for _ in range(num_rows)]`
+`[[0] for _ in range(num_cols) for _ in range(num_rows)]`
 
 ### Stack
 

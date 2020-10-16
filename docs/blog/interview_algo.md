@@ -31,6 +31,10 @@ import random
 
 ## DFS
 
+## Backtracking
+
+a methodology where we mark the current path of exploration, if the path does not lead to a solution, we then revert the change (i.e. backtracking) and try another path.
+
 ### Note
 
 Consider what happens to the root, leaf, and other nodes respectively. Define the entrance and exit clearly.

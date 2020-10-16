@@ -24,16 +24,16 @@ Complexity:
 
 ```py
 def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-    def dfs(s, start_idx, dct):
-        if start_idx == len(s):
+    def dfs(s, start, dct):
+        if start == len(s):
             return True
         for word in dct:
             n = len(word)
-            if start_idx + n > len(s):
+            if start + n > len(s):
                 continue
-            if s[start_idx: start_idx + n] != word:
+            if s[start: start + n] != word:
                 continue
-            if dfs(s, start_idx + n, dct):
+            if dfs(s, start + n, dct):
                 return True
         return False
     return dfs(s, 0, wordDict)
@@ -48,21 +48,21 @@ Complexity:
 
 ```py
 def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-    def dfs(s, start_idx, dct, memo):
-        if start_idx == len(s):
+    def dfs(s, start, dct, memo):
+        if start == len(s):
             return True
-        if memo[start_idx] != None:
-            return memo[start_idx]
+        if memo[start] != None:
+            return memo[start]
         for word in dct:
             n = len(word)
-            if start_idx + n > len(s):
+            if start + n > len(s):
                 continue
-            if s[start_idx: start_idx + n] != word:
+            if s[start: start + n] != word:
                 continue
-            if dfs(s, start_idx + n, dct, memo):
-                memo[start_idx] = True
+            if dfs(s, start + n, dct, memo):
+                memo[start] = True
                 return True
-        memo[start_idx] = False
+        memo[start] = False
         return False
     memo = [None] * len(s)
     return dfs(s, 0, wordDict, memo)
