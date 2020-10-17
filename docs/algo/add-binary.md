@@ -35,8 +35,8 @@ We could DIY an RCA (ripple carry adder).
 
 Complexity:
 
-- Time: $O(\max(N,M))$
-- Space: $O(\max(N,M))$
+- time: $O(\max(N,M))$
+- space: $O(\max(N,M))$
 
 ```py
 def addBinary(self, a: str, b: str) -> str:
@@ -73,8 +73,8 @@ Use `x` to store the sum (XOR of 2 binaries) and `y` to store the carry (AND of 
 
 Complexity:
 
-- Time: $O(\max(N,M))$
-- Space: $O(\max(N,M))$
+- time: $O(\max(N,M))$
+- space: $O(\max(N,M))$
 
 ```py
 def addBinary(self, a: str, b: str) -> str:

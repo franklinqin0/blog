@@ -24,8 +24,8 @@ Create a nested function `reverseList`(similar as in [reverse linked list](rever
 
 Complexity:
 
-- Time: $O(m+n)$
-- Space: $O(1)$ due to no extra space
+- time: $O(m+n)$
+- space: $O(1)$ due to no extra space
 
 where `m` is the number of nodes in `l1` and `n` is the number of nodes in `l2`.
 
@@ -73,8 +73,8 @@ Initialize two stacks for `l1` and `l2` respectively: `l1_stack` and `l2_stack`.
 
 Complexity:
 
-- Time: $O(m+n)$
-- Space: $O(1)$ due to extra space of 2 stacks
+- time: $O(m+n)$
+- space: $O(1)$ due to extra space of 2 stacks
 
 ```py
 def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
@@ -120,8 +120,8 @@ Frankly, I copied most of the following code, as the recursive function `add_lis
 
 Complexity:
 
-- Time: $O(m+n)$
-- Space: $O(1)$ due to implicit stack space
+- time: $O(m+n)$
+- space: $O(1)$ due to implicit stack space
 
 ```py
 def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:

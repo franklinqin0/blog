@@ -44,8 +44,8 @@ Rather than doing the char comparison in a while loop, use `::-1` in Python to d
 
 Complexity:
 
-- Time: $O(\log n)$
-- Space: $O(\log n)$
+- time: $O(\log n)$
+- space: $O(\log n)$
 
 ```py
 def isPalindrome(self, x: int) -> bool:
@@ -68,8 +68,8 @@ If `x` is $1221$, at the end of the while loop we get `x` = 12, `ri` = 12, equal
 
 Complexity:
 
-- Time: $O(\log n)$ ($O(1)$ per digit)
-- Space: $O(1)$ (no string initialized)
+- time: $O(\log n)$ ($O(1)$ per digit)
+- space: $O(1)$ (no string initialized)
 
 ```py
 def isPalindrome(self, x: int) -> bool:

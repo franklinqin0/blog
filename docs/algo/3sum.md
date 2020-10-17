@@ -23,8 +23,8 @@ Sort and then use two pointers to search for satisfied result. Caveat is to look
 
 Complexity:
 
-- Time: $O(n^2)$
-- Space: $O(n^2)$
+- time: $O(n^2)$
+- space: $O(n^2)$
 
 ```py
 def threeSum(self, nums: List[int]) -> List[List[int]]:
@@ -68,8 +68,8 @@ To eliminate duplicates, [add tuple rather than list](/blog/python.html#list-can
 
 Complexity:
 
-- Time: $O(n^2)$
-- Space: $O(n^2)$
+- time: $O(n^2)$
+- space: $O(n^2)$
 
 ```py
 def threeSum(self, nums: List[int]) -> List[List[int]]:

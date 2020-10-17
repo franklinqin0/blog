@@ -22,10 +22,10 @@ The commented line handles the case when only 1 string is in list. Not needed fo
 
 Complexity:
 
-- Time: $O(S)$
+- time: $O(S)$
   - best case: there are at most $n \times minLen$ comparisons ($minLen$ is the length of the shortest string in the array)
   - worst case: all `n` strings are the same
-- Space: $O(1)$
+- space: $O(1)$
 
 ```py
 def longestCommonPrefix(self, strs: List[str]) -> str:
@@ -47,10 +47,10 @@ Similar to [horizontal scanning](#horizontal-scanning), vertical scanning has sa
 
 Complexity:
 
-- Time: $O(S)$
+- time: $O(S)$
   - best case: `strs[0] == ""`
   - worst case: all `n` strings are the same (same as that in [Horizontal Scanning](#horizontal-scanning))
-- Space: $O(1)$
+- space: $O(1)$
 
 ```py
 def longestCommonPrefix(self, strs: List[str]) -> str:
@@ -71,8 +71,8 @@ Sort `strs` s.t. elements are in alphabetical order. Then `zip` the 1st and last
 
 Complexity:
 
-- Time: $O(n \log n)$
-- Space: $O(1)$
+- time: $O(n \log n)$
+- space: $O(1)$
 
 ```py
 def longestCommonPrefix(self, strs: List[str]) -> str:

@@ -23,8 +23,8 @@ Since `ri` is positive, only need to check if $< 2^{31}$.
 
 Complexity:
 
-- Time: $O(\log n)$
-- Space: $O(\log n)$
+- time: $O(\log n)$
+- space: $O(\log n)$
 
 ```py
 def reverse(self, x: int) -> int:
@@ -39,8 +39,8 @@ Following is a standard way to reverse an int and should be remembered.
 
 Complexity:
 
-- Time: $O(\log n)$
-- Space: $O(1)$
+- time: $O(\log n)$
+- space: $O(1)$
 
 ```py
 def reverse(self, x: int) -> int:

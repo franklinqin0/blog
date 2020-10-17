@@ -18,8 +18,8 @@ Calculate `pow(a,n)`, or $a^n$. Could do in both recursion and iteration.
 
 Complexity:
 
-- Time: $O(\log n)$
-- Space: $O(\log n)$
+- time: $O(\log n)$
+- space: $O(\log n)$
 
 The following solution actually TLS b/c of highlighted lines, specifically on the following test case:
 
@@ -65,8 +65,8 @@ def myPow(self, a, b):
 
 Complexity:
 
-- Time: $O(\log n)$
-- Space: $O(1)$
+- time: $O(\log n)$
+- space: $O(1)$
 
 ```py
 def myPow(self, x: float, n: int) -> float:

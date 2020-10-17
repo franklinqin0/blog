@@ -1,5 +1,5 @@
 ---
-title: Longest Palindrome Substring
+title: Longest Palindromic Substring
 source: LeetCode
 diff: medium
 tags:
@@ -20,8 +20,8 @@ https://leetcode.com/articles/longest-palindromic-substring/
 
 Complexity:
 
-- Time: $O(n^3)$
-- Space: $O(1)$
+- time: $O(n^3)$
+- space: $O(1)$
 
 The `brute force` solution can be further optimized to `expand around center` by expanding one char at a time in left and right direction under odd and even cases.
 
@@ -63,8 +63,8 @@ public String longestPalindrome(String s) {
 
 Complexity:
 
-- Time: $O(n)$
-- Space: $O(n)$
+- time: $O(n)$
+- space: $O(n)$
 
 ```java
 public String longestPalindrome(String s) {

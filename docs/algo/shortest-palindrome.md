@@ -22,8 +22,8 @@ This problem is actually `hard` if trying to implement w/ KMP.
 
 Complexity:
 
-- Time: $O(n^2)$
-- Space: $O(n)$
+- time: $O(n^2)$
+- space: $O(n)$
 
 where `n` is the length of `s`.
 
@@ -53,8 +53,8 @@ public String shortestPalindrome(String s) {
 
 Complexity:
 
-- Time: $O(n)$
-- Space: $O(n)$
+- time: $O(n)$
+- space: $O(n)$
 
 where `n` is the length of `s`.
 
@@ -86,8 +86,8 @@ public String shortestPalindrome(String s) {
 
 Complexity:
 
-- Time: $O(n)$
-- Space: $O(n)$
+- time: $O(n)$
+- space: $O(n)$
 
 where `n` is the length of `s`.
 

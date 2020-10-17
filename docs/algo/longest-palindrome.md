@@ -14,7 +14,7 @@ The answer is the count of characters that has **even** number of appereances. F
 
 All the following three solutions have linear time and space.
 
-### Vanilla Hash Table
+### HashMap
 
 Store the counts of chars in hash table `hm`. For each char in `hm`, only plus an even count, then plus 1 if the char `hm[i]` is odd and `res` is even.
 
@@ -25,8 +25,8 @@ def longestPalindrome(self, s: str) -> int:
     for c in s:
         hm[c] = hm.get(c, 0) + 1
     for i in hm:
-        res += (hm[i]//2)*2
-        if hm[i]%2==1 and res%2==0:
+        res += (hm[i] // 2) * 2
+        if hm[i] % 2 == 1 and res % 2 == 0:
             res += 1
     return res
 ```
@@ -43,7 +43,7 @@ def longestPalindrome(self, s: str) -> int:
     return res
 ```
 
-### Improved Hash Table
+### HashSet
 
 Only store chars w/ odd counts in a HashSet `hs`. Calculate result by `len(s) - len(hs)`, and further subtract `1` if `len(hs)>0` (chars w/ odd counts).
 

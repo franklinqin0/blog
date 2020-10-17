@@ -28,8 +28,8 @@ We could use recursion w/ the memoized array to trade time.
 
 Complexity:
 
-- Time: $O(n)$
-- Space: $O(n)$
+- time: $O(n)$
+- space: $O(n)$
 
 ```py
 def climbStairs(self, n: int) -> int:
@@ -51,8 +51,8 @@ This is DP, the _iterative_ version.
 
 Complexity:
 
-- Time: $O(n)$
-- Space: $O(n)$
+- time: $O(n)$
+- space: $O(n)$
 
 Initialize `arr` to calculate current value based on the sum of previous two, stepwise towards `n`.
 
@@ -72,8 +72,8 @@ def climbStairs(self, n: int) -> int:
 
 Complexity:
 
-- Time: $O(n)$
-- Space: $O(1)$
+- time: $O(n)$
+- space: $O(1)$
 
 Then we realize we don't need any values except the previous two, so just keep `a` and `b`.
 
@@ -99,8 +99,8 @@ IMPT:
 
 Complexity:
 
-- Time: $O(\log n)$
-- Space: $O(1)$
+- time: $O(\log n)$
+- space: $O(1)$
 
 ```py
 def climbStairs(self, n: int) -> int:

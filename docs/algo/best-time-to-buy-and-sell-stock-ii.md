@@ -19,8 +19,8 @@ If today's price is higher than yesterday's, then transact. This may not guarant
 
 Complexity:
 
-- Time: $O(n)$
-- Space: $O(1)$
+- time: $O(n)$
+- space: $O(1)$
 
 ```py
 def maxProfit(self, prices: List[int]) -> int:

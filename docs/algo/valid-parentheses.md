@@ -19,8 +19,8 @@ Add `'('`, `'{'`, `'['` into `stack`, if the corresponding closing sign matches 
 
 Complexity:
 
-- Time: $O(n)$
-- Space: $O(n)$
+- time: $O(n)$
+- space: $O(n)$
 
 where `n` is the length of `s`.
 

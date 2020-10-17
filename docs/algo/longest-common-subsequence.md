@@ -50,8 +50,8 @@ As explained in [this video](https://youtu.be/NnD96abizww), I construct a matrix
 
 Complexity:
 
-- Time: $O(nm)$
-- Space: $O(nm)$
+- time: $O(nm)$
+- space: $O(nm)$
 
 ```py
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
@@ -75,8 +75,8 @@ Please note that the commented line `M[0],M[1] = M[1],M[0]` doesn't work because
 
 Complexity:
 
-- Time: $O(nm)$
-- Space: $O(\min(n,m))$
+- time: $O(nm)$
+- space: $O(\min(n,m))$
 
 ```py
 def longestCommonSubsequence(self, text1: str, text2: str) -> int:

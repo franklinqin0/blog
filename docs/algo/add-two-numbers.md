@@ -38,8 +38,8 @@ Please refer to the [next solution](#listnode-adder) for the dummy head approach
 
 Complexity:
 
-- Time: $O(\max(m,n))$
-- Space: $O(\max(m,n))$
+- time: $O(\max(m,n))$
+- space: $O(\max(m,n))$
 
 where `m` is the number of nodes in `l1` and `n` is the number of nodes in `l2`.
 

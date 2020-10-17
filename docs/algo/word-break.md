@@ -19,8 +19,8 @@ Let $n$ be the length of `s`, and $m$ be the number of words in `wordDict`.
 
 Complexity:
 
-- Time: $O(n^m)$
-- Space: $O(n)$
+- time: $O(n^m)$
+- space: $O(n)$
 
 ```py
 def wordBreak(self, s: str, wordDict: List[str]) -> bool:
@@ -43,8 +43,8 @@ def wordBreak(self, s: str, wordDict: List[str]) -> bool:
 
 Complexity:
 
-- Time: $O(nm)$
-- Space: $O(n)$
+- time: $O(nm)$
+- space: $O(n)$
 
 ```py
 def wordBreak(self, s: str, wordDict: List[str]) -> bool:

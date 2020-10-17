@@ -20,6 +20,8 @@ class TreeNode:
 
 ## Solution
 
+### Recursion
+
 For a BST, `root.left.val` < `root.val` < `root.right.val`, so right node updates before the root, which updates before the left.
 
 Complexity:
@@ -49,3 +51,30 @@ class Solution:
         # go to the left node
         self.helper(root.left)
 ```
+
+### Iteration w/ a Stack
+
+Complexity:
+
+- time: $O(n)$
+- space: $O(n)$
+
+```py
+    def convertBST(self, root: TreeNode) -> TreeNode:
+        stack = []
+        node = root
+        total = 0
+        while stack or node:
+            while node:
+                stack.append(node)
+                node = node.right
+
+            node = stack.pop()
+            total += node.val
+            node.val = total
+            node = node.left
+
+        return root
+```
+
+<!-- ### Reverse Morris In-order Traversal (REDO) -->
