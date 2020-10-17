@@ -1,6 +1,7 @@
 ---
 title: Can Computers Think?
 date: 2020-09-30
+sidebar: "auto"
 categories:
   - study
 tags:
@@ -42,7 +43,7 @@ Frank Rosenblatt, inventor of perceptron, the first AI algorithm
 
 Before we proceed with more counter-arguements, let us consider the **definition of "think"**. According to René Descartes, a "thinking thing" is "a thing that doubts, understands, affirms, denies, is willing, is unwilling, and also imagines and has sensory perceptions"[^3]. By his definition, a computer definitely cannot "think", and may never will, at least in the same way that humans do.
 
-When a computer "listens" to music, "sees" an image, or "drives" a car, it receives input signals in time domain, converts them to frequency domain, uses some clever algorithms such as neural network to classify or predict based on training data. And if the training data is lacking or computing power is insufficient, the model cannot reach an optimal state and produce effective results.
+When a computer "listens" to music, "sees" an image, or "drives" a car, it converts input from sensors into electric signals , uses some clever algorithms such as neural network to classify or predict based on training data. And if the training data is lacking or computing power is insufficient, the model cannot reach an optimal state and produce effective results.
 
 These flaws have happened in real world. In 2015, Google, a forerunner in commercial AI, was blamed for classifying some African Americans in a photo as gorillas[^4]. By 2018, the company still hasn’t fixed the algorithm, but simply blocked its image recognition algorithms from identifying gorillas altogether. Moreover, primates such as "gorilla", "chimp", "chimpanzee", and "monkey" remained blocked on Google Photos. Though there have been many impressive attempts on interpretablity[^5][^6], **no simple and quick fix** exists for AI algorithms with a black-box nature. Another example is Tesla's autopilot system, which has caused multiple accidents already[^7]. Yet Elon Musk boasted that Tesla engineers would "complete the basics of a completely autonomous driving system this year". Deep learning, the avant-garde algorithm most analogous to human intelligence, would **fail occasionally** and not necessarily be as flexible as a human being to make logical decision in a novel situation.
 

@@ -5,7 +5,6 @@ categories:
   - study
 tags:
   - life
-sidebar: false
 ---
 
 Learn from the best, and become the best.

@@ -6,7 +6,6 @@ categories:
 tags:
   - Deutsch
   - life
-sidebar: false
 ---
 
 一些十分喜爱的德国文化，包括音乐和电影。

@@ -7,7 +7,6 @@ tags:
   - Deutsch
 prev: goethe_1
 next: goethe_3
-sidebar: false
 ---
 
 Deutsch Notizen vom 9. bis 15. März.

@@ -5,7 +5,6 @@ categories:
   - play
 tags:
   - life
-sidebar: false
 ---
 
 无问西东，两小时的史诗，一部清华人的云图。

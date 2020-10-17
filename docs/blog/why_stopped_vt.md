@@ -1,6 +1,7 @@
 ---
 title: Why I Stopped Voluntary Teaching
 date: 2020-02-11
+sidebar: "auto"
 categories:
   - misc
 tags:
@@ -8,7 +9,7 @@ tags:
 prev: ping_pong_coach
 ---
 
-This blogs serves as an end to the `VT` (voluntary teaching) series:
+This blog serves as an end to the `VT` (voluntary teaching) series:
 
 - [Why VT](why_vt)
 - [My VT experience](vt)
@@ -59,7 +60,7 @@ Trash was no longer burned at school any more and I never smelled dioxin ever si
 
 In Wang Kar-wai's film _Ashes of Time_, there is a monologue that goes like this:
 
-::: tip
+::: theorem
 Beyond this mountain may be another mountain, and beyong this desert may be another desert. When you arrive there, you may find that there is not as good as here. However, you'd still choose to see it in person rather than stop and stay here. After all, that's your destiny.
 :::
 
@@ -85,9 +86,8 @@ During the time there, though I learned little new knowledge due to slow Interne
 
 ## Let There Be Light
 
-::: tip
+::: theorem
 And God said, "Let there be light," and there was light.
-
 ::: right
 Genesis 1:3, New International Version
 :::
@@ -104,9 +104,8 @@ If education is the light and students are a forrest, then initially light is un
 
 I will quote what's later dubbed as [_Matthew effect_](https://en.wikipedia.org/wiki/Matthew_effect) from the Bible to officially end the VT series:
 
-::: tip
+::: theorem
 Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them.
-
 ::: right
 Matthew 13:12, New International Version
 :::

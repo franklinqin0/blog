@@ -1,6 +1,7 @@
 ---
 title: 支教
 date: 2019-12-20
+sidebar: "auto"
 categories:
   - misc
 tags:

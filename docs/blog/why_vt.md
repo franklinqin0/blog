@@ -5,7 +5,6 @@ categories:
   - misc
 tags:
   - VT
-sidebar: false
 next: vt
 ---
 

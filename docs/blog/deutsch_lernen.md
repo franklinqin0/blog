@@ -6,7 +6,6 @@ categories:
 tags:
   - Deutsch
 last: goethe_4
-sidebar: false
 ---
 
 Studiennotizen zum Deutschlernen.

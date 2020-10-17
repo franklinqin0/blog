@@ -5,7 +5,6 @@ categories:
   - about
 tags:
   - whoami
-sidebar: false
 ---
 
 At GS, people like to use abbreviations w/i the company and teams. There is even a website to keep track of the mappings from abbrevations to full names and meanings in case confusions arise. Thus, I follow that practice and build the glossary below.

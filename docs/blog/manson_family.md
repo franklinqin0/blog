@@ -7,7 +7,6 @@ categories:
 tags:
   - life
   - copy
-sidebar: false
 ---
 
 一组描述“曼森家族”起起落落的文章。

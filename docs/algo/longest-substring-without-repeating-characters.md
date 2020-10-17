@@ -23,7 +23,7 @@ Complexity:
 - time: $O(n^3)$
   - a nested for loop for the sliding window and to check if unique takes $O(n)$ time
 - space: $O(\min(m,n))$
-  - $O(k)$ space for the sliding window, where $k$ is the size of the Set, which is upper bounded by $n$ and $m$
+  - $O(k)$ space for the sliding window, where $k$ is the size of the HashSet, which is upper bounded by $n$ and $m$
 
 ### Sliding Window Using HashSet
 

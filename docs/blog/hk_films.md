@@ -7,7 +7,6 @@ tags:
   - life
 prev: cantonese_songs
 next: mandarin_songs
-sidebar: false
 ---
 
 一些十分喜爱的香港电影。

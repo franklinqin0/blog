@@ -7,7 +7,6 @@ tags:
   - whoami
 prev: about
 next: about_algo
-sidebar: false
 ---
 
 In this blog I talk about how this blog was built, developed, and transformed to the current state.

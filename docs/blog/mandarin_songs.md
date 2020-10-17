@@ -5,7 +5,6 @@ categories:
   - play
 tags:
   - life
-sidebar: false
 ---
 
 一些十分喜爱的国语歌曲。

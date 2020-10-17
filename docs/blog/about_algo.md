@@ -7,7 +7,7 @@ tags:
   - whoami
 ---
 
-Recently, I created the [algo site](https://alog.franklinqin0.me) to record algorithm problems I've solved.
+Recently, I created the [algo site](/algo) to record algorithm problems I've solved.
 
 <!-- more -->
 
@@ -41,7 +41,7 @@ I've seen nice sites built w/ GitBook, but as I the [why not section](https://vu
 
 ### [Docusaurus](https://docusaurus.io)
 
-This doc tool is closely associated w/ [React](https://reactjs.org) and used by many of React related projects for doc. I haven't done a React project and really wanted to have a try, but gave up b/c I haven't found a plugin for math support.
+This doc tool is closely associated w/ [React.js](https://reactjs.org) and used by many of React related projects for doc. I love React but not so much this tool.
 
 ### Other Options for Doc Tool
 

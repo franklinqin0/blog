@@ -1,6 +1,7 @@
 ---
 title: John von Neumann(冯·诺伊曼)和Alan Turing(艾伦·图灵)
 date: 2014-07-14
+sidebar: "auto"
 author: 一起剥坚果
 categories:
   - misc

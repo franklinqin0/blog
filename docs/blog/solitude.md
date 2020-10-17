@@ -5,7 +5,6 @@ categories:
   - misc
 tags:
   - life
-sidebar: false
 ---
 
 以下文字大概是我在极度孤独时写的，有个人陪伴总好一些。

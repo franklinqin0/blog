@@ -1,6 +1,7 @@
 ---
 title: 与宁浩有关的日子
 date: 2020-08-02
+sidebar: "auto"
 author: 桥下有人
 categories:
   - misc

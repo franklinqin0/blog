@@ -1,6 +1,7 @@
 ---
 title: Course Scheduling Algorithm
 date: 2020-09-05
+sidebar: "auto"
 categories:
   - study
 tags:

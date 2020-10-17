@@ -7,7 +7,6 @@ tags:
   - Deutsch
 prev: goethe_3
 next: deutsche_kultur
-sidebar: false
 ---
 
 Deutsch Notizen vom 30. März bis 8. Mai.
