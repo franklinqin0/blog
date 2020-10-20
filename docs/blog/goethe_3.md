@@ -1,6 +1,7 @@
 ---
 title: Deutsch Lernen vom Goethe Institut - drei
 date: 2020-03-16
+sidebar: "auto"
 categories:
   - study
 tags:
@@ -496,16 +497,15 @@ Franklin
 | Deutsch                        | Englisch          |
 | ------------------------------ | ----------------- |
 | bald                           | soon              |
-| herzlich                       | warm(ly)          |
-| einfach                        | single            |
+| einfach                        | single, simple    |
 | zusagen                        | accept            |
-| absagen                        | reject            |
+| absagen                        | cancel            |
 | bedanken                       | thank             |
 | jemand                         | somebody, anybody |
 | niemand                        | nobody            |
 | <d type="ie" text="Suppe"/>    | soup              |
 | <d type="as" text="Gericht"/>  | dish              |
-| <d type="as" text="Bescheid"/> | reply             |
+| <d type="as" text="Bescheid"/> | reply, decision   |
 
 #### <d type="ie" text="Kneipe"/>, <d type="as" text="Restaurant"/>, <d type="as" text="Bistro"/>, <d type="as" text="Café"/>
 
@@ -531,7 +531,7 @@ Liebe Freunde,
 ich möchte meinen 50. Geburtstag mit euch feiern. Am Samstag, den 7. Oktober geben die Accousticals ein Konzert in der Stadt.
 
 Als Jazz-Fan möchte ich euch herzlich dazu einladen.
-Beginn ist um 20:00 Uhr im Cube. Nach dem Konzert feiern wir im Moe`s weiter - meine Lieblingskneipe. Ich reserviere einen großen Tisch. Könnt ihr kommen?
+Beginn ist um 20:00 Uhr im Cube. Nach dem Konzert feiern wir im Moe's weiter - meine Lieblingskneipe. Ich reserviere einen großen Tisch. Könnt ihr kommen?
 
 Bitte gebt bis 10.9. Bescheid. Ruft an oder schreibt eine E-Mail.
 
@@ -548,29 +548,29 @@ Ich freue mich auf einen tollen Abend mit euch!
 
 ### Wörter
 
-| Deutsch                                     | Englisch                   |
-| ------------------------------------------- | -------------------------- |
-| günstig                                     | favorable                  |
-| interessant                                 | interesting                |
-| fertig                                      | finished                   |
-| gesund                                      | healthy                    |
-| kaputt                                      | broken                     |
-| praktisch                                   | practical                  |
-| bequem                                      | comfortable                |
-| glücklich                                   | fortunate                  |
-| letzter                                     | last 最后的                |
-| vorbei                                      | past by                    |
-| stimmen                                     | be right                   |
-| nun                                         | now                        |
-| warum                                       | why                        |
-| zeigen                                      | show                       |
-| <d type="er" text="Flur"/>                  | floor                      |
-| <d type="er" text="Aufzug"/>                | lift                       |
-| <d type="er" text="Grundriss"/>             | ground plan                |
-| <d type="ie" text="Wohngemeinschaft"/> (WG) | group sharing an apartment |
-| <d type="ie" text="Sache"/>                 | thing                      |
-| <d type="as" text="Fenster"/>               | window                     |
-| <d type="as" text="Dach"/>                  | roof                       |
+| Deutsch                                     | Englisch         |
+| ------------------------------------------- | ---------------- |
+| günstig                                     | favorable        |
+| interessant                                 | interesting      |
+| fertig                                      | finished         |
+| gesund                                      | healthy          |
+| kaputt                                      | broken           |
+| praktisch                                   | practical        |
+| bequem                                      | comfortable      |
+| glücklich                                   | fortunate        |
+| letzter                                     | last 最后的      |
+| vorbei                                      | past by          |
+| stimmen                                     | be right         |
+| nun                                         | now              |
+| warum                                       | why              |
+| zeigen                                      | show             |
+| <d type="er" text="Flur"/>                  | floor            |
+| <d type="er" text="Aufzug"/>                | lift, elevator   |
+| <d type="er" text="Grundriss"/>             | layout           |
+| <d type="ie" text="Wohngemeinschaft"/> (WG) | shared apartment |
+| <d type="ie" text="Sache"/>                 | thing            |
+| <d type="as" text="Fenster"/>               | window           |
+| <d type="as" text="Dach"/>                  | roof             |
 
 #### <d type="as" text="Antonym"/>
 

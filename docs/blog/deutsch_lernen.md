@@ -20,10 +20,10 @@ Studiennotizen zum Deutschlernen.
 | kitzeln                            | tickle                |
 | rücken                             | move                  |
 | widmen                             | dedicate              |
+| <d type='er' text='Antrag'/>       | application, request  |
 | <d type='ie' text='Gesellschaft'/> | society               |
 | <d type='ie' text='Schreibung'/>   | spelling              |
 | <d type='ie' text='Beschreibung'/> | description           |
-| <d type='er' text='Antrag'/>       | application, request  |
 | <d type='ie' text='Schrift'/>      | writing, paper, text, |
 | <d type='ie' text='Unterschrift'/> | signature             |
 | <d type='ie' text='Welle'/>        | wave                  |

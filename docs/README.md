@@ -2,7 +2,6 @@
 home: true
 bgImage: /starry_night.jpg
 bgImageStyle: { height: "450px" }
-faceImage: /favicon.ico
 heroImage: /favicon.ico
 heroImageStyle:
   {
@@ -12,7 +11,5 @@ heroImageStyle:
     borderRadius: "50%",
     boxShadow: "0 5px 18px rgba(0,0,0,0.2)",
   }
-isShowTitleInHome: true
-actionText: About Me
-actionLink: /blog/youth
+isShowTitleInHome: false
 ---

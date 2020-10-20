@@ -20,16 +20,17 @@ module.exports = {
   ],
   theme: "reco",
   themeConfig: {
+    huawei: true,
     nav: [
       {
-        text: "Home",
+        text: "Blog",
         link: "/",
-        icon: "reco-home"
+        icon: "reco-blog"
       },
       {
         text: "Algo",
         link: "/algo/",
-        icon: "reco-document"
+        icon: "reco-api"
       },
       {
         text: "TimeLine",

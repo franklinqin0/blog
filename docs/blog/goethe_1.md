@@ -1,6 +1,7 @@
 ---
 title: Deutsch Lernen vom Goethe Institut - eins
 date: 2020-03-02
+sidebar: "auto"
 categories:
   - study
 tags:
@@ -267,8 +268,9 @@ Deutsch Notizen vom 2. bis 8. März.
 | Deutsch                                              | Englisch      |
 | ---------------------------------------------------- | ------------- |
 | Das ist dann alles.                                  | That's all.   |
-| Tschüs.                                              | Goodbye.      |
 | Auf Wiedersehen.                                     | Goodbye.      |
+| Tschüs.                                              | Goodbye.      |
+| Tschau(ciao).                                        | Goodbye.      |
 | Guten Tag.                                           | Good morning. |
 | Gute Nacht.                                          | Good night.   |
 | Wie geht's?<br>Wie geht's dir?<br>Wie geht es Ihnen? | How are you?  |
