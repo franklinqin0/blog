@@ -1,13 +1,11 @@
 ---
 title: Course Schedule
-source: LintCode
+source: LeetCode
 diff: medium
 tags:
   - BFS
   - DFS
   - Topological Sort
-related:
-  - best-time-to-buy-and-sell-stock
 ---
 
 <img class="medium-zoom" src="/algo/course-schedule-ii.png" alt="https://leetcode.com/problems/course-schedule-ii">

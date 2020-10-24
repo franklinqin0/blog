@@ -563,7 +563,7 @@ Ich freue mich auf einen tollen Abend mit euch!
 | stimmen                                     | be right         |
 | nun                                         | now              |
 | warum                                       | why              |
-| zeigen                                      | show             |
+| zeigen                                      | point, show      |
 | <d type="er" text="Flur"/>                  | floor            |
 | <d type="er" text="Aufzug"/>                | lift, elevator   |
 | <d type="er" text="Grundriss"/>             | layout           |
@@ -611,20 +611,22 @@ Ich wohne im ...
 | <d type="as" text="Schlafzimmer"/>  | bedroom         |
 | <d type="as" text="Kinderzimmer"/>  | children's room |
 
-#### <d type="as" text="Möbel"/>
+#### <d type="as" text="Möbel"/> (furniture)
 
-- <d type="er" text="Tisch"/>
-- <d type="er" text="Stuhl"/>
-- <d type="er" text="Schrank"/>
-- <d type="er" text="Kühlschrank"/>
-- <d type="er" text="Herd"/>
-- <d type="er" text="Fernseher"/>
-- <d type="ie" text="Lampe"/>
-- <d type="ie" text="Waschmaschine"/>
-- <d type="as" text="Sofa"/>
-- <d type="as" text="Bett"/>
-- <d type="as" text="Regal"/>
-- <d type="as" text="Ladegerät"/>
+| Deutsch                             | Englisch     |
+| ----------------------------------- | ------------ |
+| <d type="er" text="Tisch"/>         | desk         |
+| <d type="er" text="Stuhl"/>         | chair        |
+| <d type="er" text="Schrank"/>       | cupboard     |
+| <d type="er" text="Kühlschrank"/>   | fridge       |
+| <d type="er" text="Herd"/>          | stove        |
+| <d type="er" text="Fernseher"/>     | TV           |
+| <d type="ie" text="Lampe"/>         | lamp         |
+| <d type="ie" text="Waschmaschine"/> | wash machine |
+| <d type="as" text="Sofa"/>          | sofa         |
+| <d type="as" text="Bett"/>          | bed          |
+| <d type="as" text="Regal"/>         | shelf        |
+| <d type="as" text="Ladegerät"/>     | Ladegerät    |
 
 #### Verb
 
@@ -696,23 +698,23 @@ Wer wohnt in dem Haus? Viele Familien? Nein, nur im Erdgeschoss wohnt eine Famil
 
 ### Wörter
 
-| Deutsch                         | Englisch         |
-| ------------------------------- | ---------------- |
-| krank                           | ill              |
-| traurig                         | sad              |
-| chaotisch                       | chaotic          |
-| prima                           | great            |
-| preterite                       | past             |
-| wieder                          | again            |
-| endlich                         | at last          |
-| zwischen                        | between          |
-| melden                          | report, announce |
-| bewerten                        | assess           |
-| riechen                         | smell            |
-| spazieren                       | stroll           |
-| <d type="er" text="Strand"/>    | beach            |
-| <d type="as" text="Opernhaus"/> | opera house      |
-| <d type="as" text="Gepäck"/>    | luggage          |
+| Deutsch                         | Englisch    |
+| ------------------------------- | ----------- |
+| krank                           | ill         |
+| traurig                         | sad         |
+| chaotisch                       | chaotic     |
+| prima                           | great       |
+| preterite                       | past        |
+| wieder                          | again       |
+| endlich                         | at last     |
+| zwischen                        | between     |
+| melden                          | report      |
+| bewerten                        | assess      |
+| riechen                         | smell       |
+| spazieren                       | stroll      |
+| <d type="er" text="Strand"/>    | beach       |
+| <d type="as" text="Opernhaus"/> | opera house |
+| <d type="as" text="Gepäck"/>    | luggage     |
 
 #### Präsens / Präteritum
 
@@ -744,7 +746,7 @@ Wer wohnt in dem Haus? Viele Familien? Nein, nur im Erdgeschoss wohnt eine Famil
 #### Ein Kompliment Machen und Sich Bedanken
 
 - Du kannst ja/aber/wirklich/toll/sehr gut kochen!
-- Vielen Dank! / Oh, danke! / Danke sehr! / Danke!
+- Vielen Dank! / Oh, danke! / Danke sehr! / Danke! / Danke schön!
 
 #### Mein letzter Urlaub
 
@@ -874,12 +876,15 @@ Deine Mama
 | beispielsweise                     | for instance       |
 | nutzen                             | use                |
 | tragen                             | carry              |
-| schaffen                           | manage             |
+| schaffen                           | create, manage     |
 | werden                             | become             |
 | vergessen                          | forget             |
 | genießen                           | enjoy              |
 | empfehlen                          | recommend          |
+| drücken                            | press              |
 | ausdrücken                         | express            |
+| anbieten                           | offer              |
+| annehmen                           | accept             |
 | <d type="er" text="Glückwunsch"/>  | congratulations    |
 | <d type="er" text="Durchschnitt"/> | average            |
 | <d type="er" text="Tipp"/>         | tip                |
@@ -891,9 +896,9 @@ Deine Mama
 | <d type="ie" text="Umfrage"/>      | survey             |
 | <d type="ie" text="Zutat"/>        | ingredient         |
 | <d type="ie" text="Gelegenheit"/>  | opportunity        |
-| <d type="as" text="Netz            | net                |
+| <d type="as" text="Netz"/>         | net                |
 | <d type="as" text="Feuerwerk"/>    | firework           |
-| <d type="as" text="Rezepte"/>      | recipe             |
+| <d type="as" text="Rezept"/>       | recipe             |
 | <d type="as" text="Schwimmbad"/>   | swimming pool      |
 
 #### Dativ
@@ -943,7 +948,7 @@ _zu_:
 - ins Theater
 - in den Park
 - ins Schwimmbad
-- ins Café gehen
+- ins Café
 
 #### Zeit
 

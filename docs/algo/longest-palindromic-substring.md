@@ -13,9 +13,6 @@ Please don't confuse this problem w/ the [longest common substring problem](http
 
 ## Solution
 
-???
-https://leetcode.com/articles/longest-palindromic-substring/
-
 ### Brute Force
 
 Complexity:
@@ -55,9 +52,7 @@ public String longestPalindrome(String s) {
 }
 ```
 
-### DP
-
-???
+<!-- ### DP (REDO) -->
 
 ### Manacher's algorithm
 

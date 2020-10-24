@@ -17,8 +17,6 @@ related:
 
 ## Solution
 
-First 3 solutions below are from [LeetCode solution](https://leetcode.com/articles/single-number-ii/).
-
 ### HashSet
 
 Convert an input array into HashSet and then to compare the tripled sum of the set with the array sum:
@@ -91,4 +89,4 @@ def singleNumber(self, nums: List[int]) -> int:
     return res if res in nums else res - 2**32
 ```
 
-<!-- General algo: https://leetcode.com/problems/single-number-ii/discuss/43295/Detailed-explanation-and-generalization-of-the-bitwise-operation-method-for-single-numbers -->
+<!-- General algo (REDO): https://leetcode.com/problems/single-number-ii/discuss/43295/Detailed-explanation-and-generalization-of-the-bitwise-operation-method-for-single-numbers -->

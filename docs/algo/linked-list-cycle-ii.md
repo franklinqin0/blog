@@ -50,7 +50,7 @@ def detectCycle(self, head: ListNode) -> ListNode:
 
 ### Floyd's Cycle-Finding Algorithm
 
-<img class="medium-zoom" src="linked-list-cycle-ii-floyd.png" alt="solution at: https://leetcode.com/articles/linked-list-cycle-ii/#approach-2-floyds-tortoise-and-hare">
+<img class="medium-zoom" src="linked-list-cycle-ii-floyd.png">
 
 When `slow` and `fast` intersect, `fast` has traversed the cycle once and completed twice the distance of `slow`. So:
 

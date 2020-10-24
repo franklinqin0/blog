@@ -1,5 +1,5 @@
 ---
-title: Square of x
+title: Sqrt(x)
 tags:
   - Math
   - Binary Search
@@ -17,7 +17,7 @@ There are so many of them! Thanks to this question that I review Newton's method
 
 Based on the formula (hard to come up with if haven't seen before):
 
-$\sqrt{x} = e^{\log \frac{1}{2}x}$
+$\sqrt{x} = e^{\frac{1}{2}\log x}$
 
 Complexity:
 
@@ -68,13 +68,13 @@ def mySqrt(self, x):
 
 ### Recursion + Bit Shifts
 
-Recursion is based on the formula:
+Because $\sqrt{x} = 2 \times \sqrt{\frac{x}{4}}$, we can do a recursion:
 
-$mySqrt(x) = 2 \times mySqrt(x/4)$
+$$mySqrt(x) = 2 \times mySqrt(\frac{x}{4})$$
 
 Could continue to optimize by _bit shifts_:
 
-$mySqrt(x)=mySqrt(x> >2)< <1$
+$$mySqrt(x)=mySqrt(x> >2)< <1$$
 
 ```py
 def mySqrt(self, x):
@@ -88,11 +88,13 @@ def mySqrt(self, x):
 
 ### Newton's Method
 
-[Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method#Square_root_of_a_number) gives the [best runtime asymptotically](https://leetcode.com/articles/Figures/69/cp.png).
+[Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method#Square_root_of_a_number) gives the best runtime asymptotically:
+
+<img class="medium-zoom" src="https://leetcode.com/articles/Figures/69/cp.png">
 
 The math is deduced below:
 
-$x_{n+1}=x_{n}-\frac{f\left(x_{n}\right)}{f^{\prime}\left(x_{n}\right)}=x_{n}-\frac{x_{n}^{2}-a}{2 x_{n}}=\frac{1}{2}\left(2 x_{n}-\left(x_{n}-\frac{a}{x_{n}}\right)\right)=\frac{1}{2}\left(x_{n}+\frac{a}{x_{n}}\right)$
+$$x_{n+1}=x_{n}-\frac{f\left(x_{n}\right)}{f^{\prime}\left(x_{n}\right)}=x_{n}-\frac{x_{n}^{2}-a}{2 x_{n}}=\frac{1}{2}\left(x_{n}+\frac{a}{x_{n}}\right)$$
 
 The following 3 solutions all use Newton's method in different forms.
 
@@ -102,7 +104,6 @@ Given the fact in [binary search](#binary-search), return `x` if `x < 2`; o.w., 
 
 ```py
     def mySqrt(self, x: int) -> int:
-        # Newton's method
         if (x<2): return x
         sqrt = x//2
         while not (sqrt*sqrt<=x and (sqrt+1)**2>x):
@@ -116,7 +117,6 @@ In the while loop, `sqrt` _monotonically_ decreases in every iteration.
 
 ```py
     def mySqrt(self, x: int) -> int:
-        # Newton's method
         sqrt = x
         while sqrt**2>x:
             sqrt = (sqrt + x//sqrt)//2
@@ -129,7 +129,6 @@ The proof is sinuous and runtime is slower than the previous two solutions.
 
 ```py
     def mySqrt(self, x: int) -> int:
-        # Newton's method
         y = 1
         z = x
         while (z>y):

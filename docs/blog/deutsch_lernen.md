@@ -57,3 +57,23 @@ Studiennotizen zum Deutschlernen.
 | Deutsch                   | Englisch     |
 | ------------------------- | ------------ |
 | Keine Regel ohne Ausnahme | 规则总有例外 |
+
+## 22. Oktober
+
+### Sie
+
+- Wie geht es Ihnen?
+- Sehr gut, danke! Und Ihnen?
+- Nicht schlecht, danke schön!
+
+### Du
+
+- Wie geht es dir?
+- Sehr gut, danke! Und dir?
+- Auch nicht so gut, danke.
+
+### Wie heißen Sie?
+
+- Ich bin Albert Einstein.
+- Mein Name ist Albert Einstein.
+- Ich heiße Albert Einstein.
