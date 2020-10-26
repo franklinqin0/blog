@@ -5,6 +5,7 @@ categories:
   - study
 tags:
   - tech
+publish: false
 ---
 
 Define the generator functions `nats` and `sieve`.

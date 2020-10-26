@@ -168,46 +168,46 @@ Deutsch Notizen vom 2. bis 8. März.
 
 ### <d type="ie" text="Zahlen"/>
 
-| Zahl | Deutsch          |
-| ---- | ---------------- |
-| 0    | null             |
-| 1    | eins             |
-| 2    | zwei             |
-| 3    | drei             |
-| 4    | vier             |
-| 5    | fünf             |
-| 6    | sechs            |
-| 7    | sieben           |
-| 8    | acht             |
-| 9    | neun             |
-| 10   | zehn             |
-| 11   | elf              |
-| 12   | zwölf            |
-| 13   | dreizehn         |
-| 14   | vierzehn         |
-| 15   | fünfzehn         |
-| 16   | sechzehn         |
-| 17   | siebzehn         |
-| 18   | achtzehn         |
-| 19   | neunzehn         |
-| 20   | zwanzig          |
-| 21   | einundzwanzig    |
-| 22   | zweiundzwanzig   |
-| 23   | dreiundzwanzig   |
-| 24   | vierundzwanzig   |
-| 25   | fünfundzwanzig   |
-| 26   | sechsundzwanzig  |
-| 27   | siebenundzwanzig |
-| 28   | achtundzwanzig   |
-| 29   | neunundzwanzig   |
-| 30   | dreißig          |
-| 40   | vierzig          |
-| 50   | fünfzig          |
-| 60   | sechzig          |
-| 70   | siebzig          |
-| 80   | achtzig          |
-| 90   | neunzig          |
-| 100  | (ein)hundert     |
+| Zahl | Deutsch                               |
+| ---- | ------------------------------------- |
+| 0    | null                                  |
+| 1    | eins                                  |
+| 2    | zwei                                  |
+| 3    | drei                                  |
+| 4    | vier                                  |
+| 5    | fünf                                  |
+| 6    | sechs                                 |
+| 7    | sieben                                |
+| 8    | acht                                  |
+| 9    | neun                                  |
+| 10   | zehn                                  |
+| 11   | elf                                   |
+| 12   | zwölf                                 |
+| 13   | dreizehn                              |
+| 14   | vierzehn                              |
+| 15   | fünfzehn                              |
+| 16   | sechzehn                              |
+| 17   | siebzehn                              |
+| 18   | achtzehn                              |
+| 19   | neunzehn                              |
+| 20   | zw<d type="impt" text="an"/>zig       |
+| 21   | <d type="impt" text="ein"/>undzwanzig |
+| 22   | zweiundzwanzig                        |
+| 23   | dreiundzwanzig                        |
+| 24   | vierundzwanzig                        |
+| 25   | fünfundzwanzig                        |
+| 26   | sechsundzwanzig                       |
+| 27   | siebenundzwanzig                      |
+| 28   | achtundzwanzig                        |
+| 29   | neunundzwanzig                        |
+| 30   | drei<d type="impt" text="ß"/>ig       |
+| 40   | vierzig                               |
+| 50   | fünfzig                               |
+| 60   | sechzig                               |
+| 70   | siebzig                               |
+| 80   | achtzig                               |
+| 90   | neunzig                               |
+| 100  | (ein)hundert                          |
 
 ### Sätze
 

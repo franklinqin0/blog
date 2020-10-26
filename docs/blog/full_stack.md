@@ -216,3 +216,11 @@ NAT is the process where a network device, usually a firewall, assigns a public 
 CSS Modules is a method to add local scope and module dependencies into CSS.
 
 See more at: [https://github.com/ruanyf/css-modules-demos]().
+
+### Debounce vs. Throttle
+
+`debounce`: Grouping a sudden burst of events (like keystrokes) into a single one.
+`throttle`: Guaranteeing a constant flow of executions every X milliseconds. Like checking every 200ms your scroll position to trigger a CSS animation.
+`requestAnimationFrame`: a throttle alternative. When your function recalculates and renders elements on screen and you want to guarantee smooth changes or animations. Note: no IE9 support.
+
+[More by css-tricks](https://css-tricks.com/debouncing-throttling-explained-examples)

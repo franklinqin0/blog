@@ -60,20 +60,66 @@ Studiennotizen zum Deutschlernen.
 
 ## 22. Oktober
 
-### Sie
+### How are you
+
+Sie:
 
 - Wie geht es Ihnen?
 - Sehr gut, danke! Und Ihnen?
 - Nicht schlecht, danke schön!
 
-### Du
+Du:
 
 - Wie geht es dir?
 - Sehr gut, danke! Und dir?
 - Auch nicht so gut, danke.
 
-### Wie heißen Sie?
+### Name
+
+Fragen:
+
+- Wie heißen Sie?
+- Wie heißt du?
+
+Antworten:
 
 - Ich bin Albert Einstein.
 - Mein Name ist Albert Einstein.
 - Ich heiße Albert Einstein.
+
+### Are you... ?
+
+Sie:
+
+- Sind Sie Albert Einstein?
+
+Du:
+
+- Bist du Albert Einstein?
+
+Anworten:
+
+- Ja, ich bin.
+- Nein, ich bin nicht. Ich bin Issac Newton.
+
+### This is ...
+
+Das ist Albert Einstein.
+
+### What is your telophone number?
+
+Sie:
+
+- Wie ist Ihre Telefonnummer?
+
+Du:
+
+- Wie ist deine Telefonnummer?
+
+Antworten:
+
+- Meine Telefonnumer ist...
+
+### Numbers
+
+die Zahl(en)
