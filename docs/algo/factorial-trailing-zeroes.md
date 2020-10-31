@@ -20,7 +20,7 @@ Factor a number: $60 = 2 \times 2 \times 3 \times 5$. We can see $60$ only has 1
 
 For a factorial, the number of `2`'s is definitely more than that of `5`'s.
 
-Thus, the number of `5`'s is the number of trailing zeros.
+Thus, the number of `5`'s $=$ the number of `10`'s $=$ the number of trailing zeros.
 
 Complexity:
 
@@ -31,10 +31,7 @@ Complexity:
 def trailingZeroes(self, n: int) -> int:
     cnt = 0
     while n>0:
-        cnt += n//5
         n //= 5
-        # this also works
-        # n //= 5
-        # cnt += n
+        cnt += n
     return cnt
 ```

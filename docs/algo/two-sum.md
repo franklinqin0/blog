@@ -36,12 +36,12 @@ where $n$ is the length of `nums`.
 def twoSum(self, nums: List[int], target: int) -> List[int]:
     hm = {}
     # store val->idx in hm
-    for idx,val in enumerate(nums):
+    for idx, val in enumerate(nums):
         hm[val] = idx
     # for each num, check if target-num exists in hm
-    for idx,val in enumerate(nums):
+    for idx, val in enumerate(nums):
         complement = target-val
-        if complement in hm and idx!=hm[complement]:
+        if complement in hm and idx != hm[complement]:
             return [idx, hm[complement]]
     return [-1, -1]
 ```
@@ -63,8 +63,8 @@ Complexity:
 ```py
 def twoSum(self, nums: List[int], target: int) -> List[int]:
     hm = {}
-    for idx,val in enumerate(nums):
-        complement = target-val
+    for idx, val in enumerate(nums):
+        complement = target - val
         if complement in hm:
             return [hm[complement], idx]
         hm[val] = idx
@@ -84,13 +84,13 @@ Complexity:
 def twoSum(self, nums: List[int], target: int) -> List[int]:
     # store val->idx in List[(int, int)]
     nums_sorted = []
-    for idx,val in enumerate(nums):
+    for idx, val in enumerate(nums):
         nums_sorted.append((val,idx))
     # sort
     nums_sorted.sort(key=lambda elt: elt[0])
     # two pointers
     left, right = 0, len(nums)-1
-    while left<right:
+    while left < right:
         sm = nums_sorted[left][0] + nums_sorted[right][0]
         if sm < target:
             left += 1

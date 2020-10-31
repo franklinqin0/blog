@@ -123,3 +123,6 @@ Antworten:
 ### Numbers
 
 die Zahl(en)
+
+Wo wohnen Sie?
+Wo wohnst du?

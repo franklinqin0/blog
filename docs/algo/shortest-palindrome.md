@@ -42,9 +42,8 @@ public Boolean isPalindrome(String s) {
 public String shortestPalindrome(String s) {
     int right = s.length();
     // decrease `right` if not palindrome
-    while (!isPalindrome(s.substring(0,right))) {
+    while (!isPalindrome(s.substring(0,right)))
         right--;
-    }
     return new StringBuilder(s.substring(right)).reverse().toString() + s;
     }
 ```

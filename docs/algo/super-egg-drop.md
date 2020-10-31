@@ -17,11 +17,13 @@ This problem is equivalent to [Drop Eggs II at Lintcode](https://www.lintcode.co
 
 See [this video](https://youtu.be/mLV_vOet0ss) for perfect explanation on this problem and [the previous easier problem](drop_eggs).
 
+Let `i` be the one of `m` eggs, and `j` be one of the `n` floors.
+
 ### Iterative DP (TLE)
 
-Let `i` be the one of `m` eggs and `j` be one of the `n` floors. The recurrence relation is:
+The recurrence relation is:
 
-$dp(i, j) = \min_{1 \le k \le j}\left(\max(dp(i-1, k-1), dp(i, j-k)) \right)$
+$$dp(i, j) = \min_{1 \le k \le j}\left(\max(dp(i-1, k-1), dp(i, j-k)) \right)$$
 
 #### Explanation on Recurrence Relation
 
@@ -37,29 +39,23 @@ Note:
 
 Complexity:
 
-- time: $O(mn^2)$
-- space: $O(mn)$
+- time: $O(KN^2)$
+- space: $O(KN)$
 
 ```py
-class Solution:
-    """
-    @param m: the number of eggs
-    @param n: the number of floors
-    @return: the number of drops in the worst case
-    """
-    def dropEggs2(self, m, n):
-        res = [[sys.maxsize]*(n+1) for _ in range(m+1)]
+def superEggDrop(self, K, N):
+    res = [[sys.maxsize for + in range(N+1)] for _ in range(K+1)]
 
-        for i in range(1, m+1):
-            res[i][0] = 0
-            res[i][1] = 1
-        for j in range(1, n+1):
-            res[1][j] = j
-        for i in range(2, m+1):
-            for j in range(2, n+1):
-                for k in range(1, j+1):
-                    res[i][j] = min(res[i][j], 1 + max(res[i-1][k-1], res[i][j-k]))
-        return res[m][n]
+    for i in range(1, K+1):
+        res[i][0] = 0
+        res[i][1] = 1
+    for j in range(1, N+1):
+        res[1][j] = j
+    for i in range(2, K+1):
+        for j in range(2, N+1):
+            for k in range(1, j+1):
+                res[i][j] = min(res[i][j], 1 + max(res[i-1][k-1], res[i][j-k]))
+    return res[m][n]
 ```
 
 ### Recursive DP (TLE)
@@ -67,57 +63,47 @@ class Solution:
 The recursive DP w/ memoization also TLE.
 
 ```py
-    def superEggDrop(self, K, N):
-        if N == 0 or N == 1:
-            return N
-        if K == 1:
-            return N
-        min = sys.maxsize
+def superEggDrop(self, K, N):
+    if N == 0 or N == 1:
+        return N
+    if K == 1:
+        return N
+    min = sys.maxsize
 
-        # Consider all droppings from 1st
-        # floor to kth floor and return
-        # the minimum of these values plus 1.
-        for x in range(1, N + 1):
-
-            res = 1 + max(self.superEggDrop(K - 1, x - 1),
-                      self.superEggDrop(K, N - x))
-            if (res < min):
-                min = res
-
-        return min
+    # Consider all droppings from 1st floor to kth floor
+    # and return the minimum of these values plus 1
+    for x in range(1, N + 1):
+        res = 1 + max(self.superEggDrop(K - 1, x - 1), self.superEggDrop(K, N - x))
+        if (res < min):
+            min = res
+    return min
 ```
 
 ### DP w/ Optimality Criterion (REDO)
 
 ```py
-class Solution:
-    """
-    @param m: the number of eggs
-    @param n: the number of floors
-    @return: the number of drops in the worst case
-    """
-    def dropEggs2(self, m, n):
-        # Right now, dp[i] represents dp(1, i)
-        dp = range(N+1)
+def superEggDrop(self, K, N):
+    # Right now, dp[i] represents dp(1, i)
+    dp = range(N+1)
 
-        for k in range(2, K+1):
-            # Now, we will develop dp2[i] = dp(k, i)
-            dp2 = [0]
-            x = 1
-            for n in range(1, N+1):
-                # Let's find dp2[n] = dp(k, n)
-                # Increase our optimal x while we can make our answer better.
-                # Notice max(dp[x-1], dp2[n-x]) > max(dp[x], dp2[n-x-1])
-                # is simply max(T1(x-1), T2(x-1)) > max(T1(x), T2(x)).
-                while x < n and max(dp[x-1], dp2[n-x]) > max(dp[x], dp2[n-x-1]:
-                    x += 1
+    for k in range(2, K+1):
+        # Now, we will develop dp2[i] = dp(k, i)
+        dp2 = [0]
+        x = 1
+        for n in range(1, N+1):
+            # Let's find dp2[n] = dp(k, n)
+            # Increase our optimal x while we can make our answer better.
+            # Notice max(dp[x-1], dp2[n-x]) > max(dp[x], dp2[n-x-1])
+            # is simply max(T1(x-1), T2(x-1)) > max(T1(x), T2(x)).
+            while x < n and max(dp[x-1], dp2[n-x]) > max(dp[x], dp2[n-x-1]:
+                x += 1
 
-                # The final answer happens at this x.
-                dp2.append(1 + max(dp[x-1], dp2[n-x]))
+            # The final answer happens at this x.
+            dp2.append(1 + max(dp[x-1], dp2[n-x]))
 
-            dp = dp2
+        dp = dp2
 
-        return dp[-1]
+    return dp[-1]
 ```
 
 ### Math (REDO)

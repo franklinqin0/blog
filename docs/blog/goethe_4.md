@@ -120,7 +120,6 @@ Ich komme aus China. Pünktlichkeit ist in China in der Arbeit und bei offiziell
 
 | Deutsch                               | Englisch       |
 | ------------------------------------- | -------------- |
-| besonders                             | particularly   |
 | erklären                              | explain        |
 | bewegen                               | move           |
 | nehmen                                | take           |
@@ -148,16 +147,16 @@ Ich komme aus China. Pünktlichkeit ist in China in der Arbeit und bei offiziell
 | <d type="as" text="Lebensmittel"/>    | food           |
 | <d type="as" text="Gebäude"/>         | building       |
 
-| <d type="as" text="Geschenke"/> | present                         |
-| ------------------------------- | ------------------------------- |
-| <d type="er" text="Schuh"/>     | shoe                            |
-| <d type="er" text="Gürtel"/>    | belt                            |
-| <d type="er" text="Pullover"/>  | pullover sweater                |
-| <d type="er" text="Sekt"/>      | sparkling white wine, champagne |
-| <d type="ie" text="Kette"/>     | chain                           |
-| <d type="ie" text="Uhr"/>       | watch                           |
-| <d type="as" text="Hemd"/>      | shirt                           |
-| <d type="as" text="Kleid"/>     | dress                           |
+| <d type="as" text="Geschenk"/> | present                         |
+| ------------------------------ | ------------------------------- |
+| <d type="er" text="Schuh"/>    | shoe                            |
+| <d type="er" text="Gürtel"/>   | belt                            |
+| <d type="er" text="Pullover"/> | pullover sweater                |
+| <d type="er" text="Sekt"/>     | sparkling white wine, champagne |
+| <d type="ie" text="Kette"/>    | chain                           |
+| <d type="ie" text="Uhr"/>      | watch                           |
+| <d type="as" text="Hemd"/>     | shirt                           |
+| <d type="as" text="Kleid"/>    | dress                           |
 
 | Noun                                                         | Verb                          |
 | ------------------------------------------------------------ | ----------------------------- |
@@ -207,14 +206,14 @@ zuerst > dann/danach/später > zuletzt
 
 ### Sätze
 
-| Deutsch                     | Englisch               |
-| --------------------------- | ---------------------- |
-| ein paar                    | a few                  |
-| Man muss hier warten.       | You have to wait here. |
-| Man muss hier nicht warten. | don't have to          |
-| Was ist denn los?           | So what's going on?    |
-| Was kann ich für Sie tun?   | What can I do for you? |
-| Machen Sie vorher Notizen.  | Take notes beforehand. |
+| Deutsch                       | Englisch                       |
+| ----------------------------- | ------------------------------ |
+| ein paar                      | a few                          |
+| Man muss hier warten.         | You have to wait here.         |
+| Man muss hier _nicht_ warten. | You _don't_ have to wait here. |
+| Was ist denn los?             | So what's going on?            |
+| Was kann ich für Sie tun?     | What can I do for you?         |
+| Machen Sie vorher Notizen.    | Take notes beforehand.         |
 
 #### Helfen
 
@@ -252,14 +251,15 @@ Magdalena hat heute viel zu tun. **Zuerst** spricht sie mit Kollegen. Sie ruft *
 | einfach                           | single, easy |
 | ähnlich                           | similar      |
 | besonderer                        | special      |
+| besonders                         | especially   |
 | draußen                           | outside      |
 | <d type="er" text="Bescheid"/>    | reply        |
 | <d type="ie" text="Rückmeldung"/> | feedback     |
 | <d type="ie" text="Geschichte"/>  | history      |
 | <d type="ie" text="Jugend"/>      | youth        |
 | <d type="ie" text="Schulter"/>    | shoulder     |
-| <d type="as" text="Bein"/>        | leg          |
 | <d type="ie" text="Dame"/>        | lady         |
+| <d type="as" text="Bein"/>        | leg          |
 
 #### Familienmitglieder (members of family)
 
@@ -371,8 +371,8 @@ Franklin
 | backen                          | bake            |
 | wechseln                        | change          |
 | <d type="er" text="Konditor"/>  | confectioner    |
-| <d type="er" text="Hinweise"/>  | tip             |
-| <d type="ie" text="Anseige"/>   | report          |
+| <d type="er" text="Hinweis"/>   | hint            |
+| <d type="ie" text="Anzeige"/>   | report          |
 | <d type="ie" text="Redaktion"/> | editing         |
 | <d type="ie" text="Kleidung"/>  | clothes         |
 | <d type="ie" text="Kabine"/>    | cabin           |

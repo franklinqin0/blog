@@ -22,34 +22,26 @@ Complexity:
 
 The `brute force` solution can be further optimized to `expand around center` by expanding one char at a time in left and right direction under odd and even cases.
 
-```java
-private boolean isPalindrome(String s) {
-    int n = s.length();
-    int start = 0, end = n-1;
-    while(start < end) {
-        if (s.charAt(start) != s.charAt(end))
-            return false;
-        start++;
-        end--;
-    }
-    return true;
-}
+```py
+def longestPalindrome(self, s: str) -> str:
+    if not s: return ""
+    res = s[0]
+    for i in range(len(s)):
+        for j in range(i + 1, len(s)+1):
+            if self.isPalindrome(s[i:j]) and j - i + 1 > len(res):
+                res = s[i:j]
+    return res
 
-public String longestPalindrome(String s) {
-    int palindromeLongestLength = 1;
-    int n = s.length();
-    int start = 0, end = 0;
-
-    for (int i=0; i<n; i++) {
-        for (int j=n; j>-1 && j-i>end-start; j--) {
-            if (isPalindrome(s.substring(i,j))) {
-                start = i;
-                end = j;
-            }
-        }
-    }
-    return s.substring(start, end);
-}
+def isPalindrome(self, s: str) -> bool:
+    i = 0
+    j = len(s) - 1
+    while i<=j:
+        if s[i] == s[j]:
+            i += 1
+            j -= 1
+        else:
+            return False
+    return True
 ```
 
 <!-- ### DP (REDO) -->
