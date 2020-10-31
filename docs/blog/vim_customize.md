@@ -2,9 +2,9 @@
 title: How to Customize Vim
 date: 2020-01-02
 categories:
- - study
+  - study
 tags:
- - tech
+  - tech
 last: vim_commands
 next: tmux
 ---
@@ -28,16 +28,16 @@ There are basically 4 parts in a `.vimrc`:
 
 ## Mappings
 
-To map some key, say, `dd` to `\`, we could do `map \ dd`. We could then `\` to delete the current line.
+To map some key, say, `dd` to `\`, we could do `map \ dd`, so `\` deletes the current line.
 
 To map in **only one mode**, we could do:
 
-- `nm[ap]`: map in *normal* mode
-- `im[ap]`: map in *insert* mode
-- `vm[ap]`: map in *visual* mode
-- `cm[ap]`: map in *command* mode
+- `nm[ap]`: map in _normal_ mode
+- `im[ap]`: map in _insert_ mode
+- `vm[ap]`: map in _visual_ mode
+- `cm[ap]`: map in _command_ mode
 
-The following enables `<C-d>` to delete a line under both *normal* and *insert* modes:
+The following enables `\` to delete a line under both _normal_ and _insert_ modes:
 
 ```vim
 :nmap \ dd
@@ -57,15 +57,15 @@ Because Vim mapping is **recursive** by default, we could then `-` to delete the
 
 Because some plugins define new mappings, there are cases when recursive mappings bring in accidental conflicts. Thus, we should **always use non-recursive** over recursive mappings.
 
-To create a **no**n-**re**cursive mapping under **n***ormal* mode, do `nnoremap <space> zz`, after which pressing `Space` centers current line on the screen.
+To create a **no**n-**re**cursive mapping under **n\***ormal\* mode, do `nnoremap <space> zz`, after which pressing `Space` centers current line on the screen.
 
 To summarize, these are **non-recursive** mappings:
 
 - `no[remap]`: map in all modes
-- `nn[oremap]`: map in *normal* mode
-- `ino[remap]`: map in *insert* mode
-- `vn[oremap]`: map in *visual* mode
-- `cno[remap]`: map in *command* mode
+- `nn[oremap]`: map in _normal_ mode
+- `ino[remap]`: map in _insert_ mode
+- `vn[oremap]`: map in _visual_ mode
+- `cno[remap]`: map in _command_ mode
 
 ### Leader Key (See [explanation](https://learnvimscriptthehardway.stevelosh.com/chapters/06.html#leader) from [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com))
 
@@ -86,7 +86,7 @@ We can use a plugin manager to manage plugins which would make Vim more customiz
 
 ### Plugin Manager
 
-There are many plugin managers for Vim/NeoVim, I switched from singled-threaded [*Vundle*](https://github.com/VundleVim/Vundle.vim) to multi-threaded [*vim-plug*](https://github.com/junegunn/vim-plug) since installing and updating plugins in parallel save much time.
+There are many plugin managers for Vim/NeoVim, I switched from singled-threaded [_Vundle_](https://github.com/VundleVim/Vundle.vim) to multi-threaded [_vim-plug_](https://github.com/junegunn/vim-plug) since installing and updating plugins in parallel save much time.
 
 ### Plugin installation
 

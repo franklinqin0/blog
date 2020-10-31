@@ -37,7 +37,7 @@ Studiennotizen zum Deutschlernen.
 | Ich habe sie besucht, als ich in Berlin war.        | I once visited her in Berlin.                 |
 | Jedes Mal wenn sie kam, brachte sie die Blumen mit. | Every time she came, she brought the flowers. |
 
-## 17. Oktober
+## Oktober
 
 | Operation       | Beschreibung |
 | --------------- | ------------ |
@@ -58,9 +58,7 @@ Studiennotizen zum Deutschlernen.
 | ------------------------- | ------------ |
 | Keine Regel ohne Ausnahme | 规则总有例外 |
 
-## 22. Oktober
-
-### How are you
+### How are you?
 
 Sie:
 
@@ -76,12 +74,12 @@ Du:
 
 ### Name
 
-Fragen:
+Q:
 
 - Wie heißen Sie?
 - Wie heißt du?
 
-Antworten:
+A:
 
 - Ich bin Albert Einstein.
 - Mein Name ist Albert Einstein.
@@ -97,7 +95,7 @@ Du:
 
 - Bist du Albert Einstein?
 
-Anworten:
+A:
 
 - Ja, ich bin.
 - Nein, ich bin nicht. Ich bin Issac Newton.
@@ -116,13 +114,30 @@ Du:
 
 - Wie ist deine Telefonnummer?
 
-Antworten:
+A:
 
 - Meine Telefonnumer ist...
 
-### Numbers
+### Where do you live?
 
-die Zahl(en)
+Sie:
 
-Wo wohnen Sie?
-Wo wohnst du?
+- Wo wohnen Sie?
+
+Du:
+
+- Wo wohnst du?
+
+A:
+
+- Ich wohne in Köln.
+
+### Address
+
+Q:
+
+- Wie ist Ihre <d type="ie" text="Adresse"/>? / Wie ist deine <d type="ie" text="Adresse"/>?
+
+A:
+
+- Xueyuan Straße N. 3, Haidian Bezirk, Peking.
