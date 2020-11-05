@@ -187,7 +187,10 @@ Deutsch Notizen vom 16. bis 27. März.
 - Noch etwas?
 - Sonst noch etwas?
 
-- **A:** Nein, danke. / Das ist alles.
+**A:**
+
+- Nein, danke.
+- Das ist alles.
 
 Auf Wiedersehen:
 

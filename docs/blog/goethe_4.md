@@ -373,7 +373,7 @@ Franklin
 | <d type="er" text="Konditor"/>  | confectioner    |
 | <d type="er" text="Hinweis"/>   | hint            |
 | <d type="ie" text="Anzeige"/>   | report          |
-| <d type="ie" text="Redaktion"/> | editing         |
+| <d type="ie" text="Redaktion"/> | editor          |
 | <d type="ie" text="Kleidung"/>  | clothes         |
 | <d type="ie" text="Kabine"/>    | cabin           |
 | <d type="as" text="Ehepaar"/>   | married couple  |
