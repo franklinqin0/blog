@@ -23,6 +23,6 @@ I was a voluntary teacher in CJ, Guizhou, China from September to December 2019.
 
 I developed a course scheduling system for my high school during summer 2020.
 
-Now I am studying CS, OR, German and violin.
+I am now a cognitive science master student studying at TU Darmstadt.
 
 I love writing blogs in [Markdown](https://daringfireball.net/projects/markdown/syntax), b/c it's simple and down-to-earth, just like me.
