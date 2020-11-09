@@ -354,3 +354,54 @@ das Zentrum
 
 -ment  
 das Instrument
+
+## Singular 单数
+
+### 抽象名词
+
+Hitze, Kälte, Stress, Alter, Glück
+
+### 专有名词
+
+人: Anna, Neumann, Heinrich Böll  
+(die) Schmidts 施密特一家
+
+国家: China, Deutschland
+
+城市: Berlin, Dresden, München
+
+河流山脉: Main, Rhein
+
+## Plural 复数
+
+das Brot  
+(die) / keine Brot<d type="impt" text="e"/>
+
+der Bahnhof  
+(die) / keine Bahnh<d type="impt" text="öfe"/>
+
+die Kirche  
+(die) / keine Kirche<d type="impt" text="n"/>
+
+das Auto  
+(die) / keine Auto<d type="impt" text="s"/>
+
+das Haus  
+(die) / keine H<d type="impt" text="ä"/>us<d type="impt" text="er"/>
+
+der Wagen
+(die) / keine Wagen
+
+只有复数的单词: Eltern, Lebensmittel, Ferien
+
+## Doppelformen 双重形式
+
+die Bank
+
+- die Banken 银行
+- die Bänke 长凳
+
+das Wort
+
+- die Wörter 单词
+- die Worte 话语
