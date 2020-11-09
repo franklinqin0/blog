@@ -261,3 +261,96 @@ Die Schweiz liegt südlich von Deutschland.
 München liegt im Süden von Deustschland.  
 Dänemark liegt nördlich von Deutschland.  
 Berlin liegt im Nordosten von Deutschland.
+
+| Deutsch   | meaning       |
+| --------- | ------------- |
+| folgen    | follow        |
+| verteilen | distribute    |
+| hoch      | high          |
+| gesamt    | whole, entire |
+| genug     | enough        |
+| hinein    | in            |
+| innerer   | inside        |
+| warten    | wait          |
+| abwarten  | wait for      |
+
+## Einige Regeln 一些规律
+
+### der
+
+表示男性或雄性动物的名词（包括职业中男性从业者）  
+z.B.: der Mann, der Hahn, der Lehrer, der Maler
+
+表示时日的名词（月份、星期、实际、一天中各时段）  
+z.B.: der Montag, der Juli, der Winter, der Mai, der Nachmittag  
+特例：die Nacht
+
+表示天气和方向的名词  
+z.B.: der Regen, der Osten
+
+### die
+
+表示女性的名词（包括职业中女性从业者）  
+z.B.: die Frau, die Königin, die Lehrerin, die Malerin  
+特例：das Huhn, das Weib, das Mädchen
+
+### das
+
+名词化的动词和部分形容词  
+z.B.:  
+essen $\rightarrow$ das Essen  
+gut $\rightarrow$ das Gute
+
+### immer (always)
+
+#### der
+
+-ismus 主义  
+der Sozialismus  
+der Realismus
+
+-or  
+der Motor
+
+#### die
+
+-ung  
+die Zeitung  
+die Rechnung
+
+-heit  
+die Freiheit
+
+-keit  
+die Höflichkeit
+
+-schaft  
+die Landschaft
+
+-ion  
+die Nation
+
+#### das
+
+-chen  
+das Mädchen
+
+### meistens (mostly)
+
+#### der
+
+-er  
+der Koffer
+
+#### die
+
+-e  
+die Lampe
+
+#### das
+
+-um  
+das Zentrum
+
+-ment  
+das Instrument
