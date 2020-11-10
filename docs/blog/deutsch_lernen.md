@@ -355,13 +355,15 @@ das Zentrum
 -ment  
 das Instrument
 
-## Singular 单数
+## 名词的性
 
-### 抽象名词
+### Singular 单数
+
+#### 抽象名词
 
 Hitze, Kälte, Stress, Alter, Glück
 
-### 专有名词
+#### 专有名词
 
 人: Anna, Neumann, Heinrich Böll  
 (die) Schmidts 施密特一家
@@ -372,7 +374,7 @@ Hitze, Kälte, Stress, Alter, Glück
 
 河流山脉: Main, Rhein
 
-## Plural 复数
+### Plural 复数
 
 das Brot  
 (die) / keine Brot<d type="impt" text="e"/>
@@ -394,7 +396,7 @@ der Wagen
 
 只有复数的单词: Eltern, Lebensmittel, Ferien
 
-## Doppelformen 双重形式
+### Doppelformen 双重形式
 
 die Bank
 
@@ -405,3 +407,24 @@ das Wort
 
 - die Wörter 单词
 - die Worte 话语
+
+## Was ist das?
+
+die Kirche, -n  
+Das ist eine Kirche.
+
+das Rathaus, -häuser  
+Das ist ein Rathaus.
+
+der Platz, Plätze  
+Das ist ein Platz.
+
+das Theater, -
+Das ist ein Theater.
+
+der Bahnhof, -höfe
+Das ist ein Bahnhof.
+
+das Schiff, -e
+Das ist ein Schiff.  
+Das sind Schiffe.
