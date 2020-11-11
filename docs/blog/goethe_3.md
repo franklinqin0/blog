@@ -577,17 +577,19 @@ Ich freue mich auf einen tollen Abend mit euch!
 
 #### <d type="as" text="Antonym"/>
 
-| Wort          | Antonym            |
-| ------------- | ------------------ |
-| neu           | alt                |
-| schön, klasse | hässlich, schlecht |
-| laut          | ruhig, leise       |
-| teuer         | billig             |
-| schmal        | breit              |
-| groß          | klein              |
-| hell, sonnig  | dunkel             |
-| modern        | altmodisch         |
-| wohl          | krank              |
+| Wort          | Antonym               |
+| ------------- | --------------------- |
+| neu           | alt                   |
+| schön, klasse | hässlich, schlecht    |
+| laut          | ruhig, leise          |
+| teuer         | billig                |
+| schmal        | breit                 |
+| groß          | klein                 |
+| hoch          | klein 小 / niedrig 低 |
+| neu/jung      | alt                   |
+| hell, sonnig  | dunkel                |
+| modern        | altmodisch            |
+| wohl          | krank                 |
 
 #### Wo Man Wohnt
 

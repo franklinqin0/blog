@@ -13,6 +13,8 @@ Please don't confuse this problem w/ the [longest common substring problem](http
 
 ## Solution
 
+Let $n$ be the length of string `s`.
+
 ### Brute Force
 
 Complexity:
@@ -44,9 +46,69 @@ def isPalindrome(self, s: str) -> bool:
     return True
 ```
 
-<!-- ### DP (REDO) -->
+### DP
 
-### Manacher's algorithm
+Let `dp[i][j]` be true if `s[i:j+1]` is a palindrome and false otherwise.
+
+The recurrence relation is:  
+`dp[i][j] = s[i] == s[j] and dp[i+1][j-1]`
+
+The base cases are:  
+`dp[i][i] = True`  
+`dp[i][i+1] = s[i] == s[i+1]`
+
+Both the recurrence relation and base cases can be combined into `dp[i][j] = s[i] == s[j] and (j - i < 3 or dp[i+1][j-1])`.
+
+Complexity:
+
+- time: $O(n^2)$
+- space: $O(n^2)$
+
+```py
+def longestPalindrome(self, s: str) -> str:
+    n = len(s)
+    dp = [[False for _ in range(n)] for _ in range(n)]
+    res = ""
+    for i in reversed(range(n)):
+        for j in range(i, n):
+            dp[i][j] = s[i] == s[j] and (j - i < 3 or dp[i+1][j-1])
+            if dp[i][j] and j - i + 1 > len(res):
+                res = s[i:j+1]
+    return res
+```
+
+### Expand around Center
+
+A palindrome mirrors around its center. The center for odd-length palindrome is the central character. The center for even-length palindrome is between the central 2 characters. There are $2n - 1$ such centers and expanding around each center takes linear time.
+
+Complexity:
+
+- time: $O(n^2)$
+- space: $O(1)$
+
+```py
+def longestPalindrome(self, s: str) -> str:
+    n = len(s)
+    res = ""
+    for i in range(n):
+        # odd case
+        oddMax = self.expandAroundCenter(s, i, i)
+        if len(oddMax) > len(res):
+            res = oddMax
+        # even case
+        evenMax = self.expandAroundCenter(s, i, i+1)
+        if len(evenMax) > len(res):
+            res = evenMax
+    return res
+
+def expandAroundCenter(self, s: str, l, r):
+    while l >= 0 and r < len(s) and s[l] == s[r]:
+        l -= 1
+        r += 1
+    return s[l+1:r]
+```
+
+### Manacher's algorithm (REDO)
 
 Complexity:
 
