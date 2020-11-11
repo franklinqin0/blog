@@ -566,7 +566,8 @@ Präpositionen: an, auf, hinter, in, neben, über, unter, vor, zwischen
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Dann ruh dich aus!                                                           | Then rest!                                                            |
 | Gute Besserung!                                                              | Get well!                                                             |
-| im Moment                                                                    | at the moment                                                         |
+| jetzt / im Moment                                                            | at the moment                                                         |
+| Ich bin jetzt Lehrerin.<br> Im Moment bin ich Lehrerin.                      | I am a now a teacher.                                                 |
 | Mir hat die Lernplattform (nicht) gefallen, denn ich habe dort viel gelernt. | I (did not) like the learning platform because I learned a lot there. |
 
 ### Wohin: Präposition + Akkkusativ

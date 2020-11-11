@@ -38,7 +38,7 @@ def findWords(self, str, dict):
         for j in range(26):
         nextpos.setdefault(str[i], []).append(i)
             nextpos[i][j] = nextpos[i+1][j]
-            if ord(str[i])-ord('a')==j:
+            if ord(str[i]) - ord('a') == j:
                 nextpos[i][j] = i
     # `nextpos` can also be dict
     # nextpos = {}
@@ -50,12 +50,12 @@ def findWords(self, str, dict):
         # i points in str, j points in dict
         i, j, m = 0, 0, len(word)
         while i<n and j<m:
-            i = nextpos[i][ord(word[j])-ord('a')]
+            i = nextpos[i][ord(word[j]) - ord('a')]
             if i==n: # word not found in str
                 break
             i += 1
             j += 1
-        if j==m:
+        if j == m:
             res.append(word)
     return res
 ```

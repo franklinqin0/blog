@@ -298,6 +298,7 @@ Deutsch Notizen vom 2. bis 8. März.
 
 | Mann                              | Frau                                | Englisch                                                               |
 | --------------------------------- | ----------------------------------- | ---------------------------------------------------------------------- |
+| <d type="er" text="Arzt"/>        | <d type="ie" text="Ärztin"/>        | doctor                                                                 |
 | <d type="er" text="Architekt"/>   | <d type="ie" text="Architektin"/>   | architect                                                              |
 | <d type="er" text="Ingenieur"/>   | <d type="ie" text="Ingenieurin"/>   | engineer                                                               |
 | <d type="er" text="Elektriker"/>  | <d type="ie" text="Elektrikerin"/>  | electrician                                                            |
@@ -311,6 +312,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | <d type="er" text="Musiker"/>     | <d type="ie" text="Musikerin"/>     | musician                                                               |
 | <d type="er" text="Lehrer"/>      | <d type="ie" text="Lehrerin"/>      | teacher                                                                |
 | <d type="er" text="Briefträger"/> | <d type="ie" text="Briefträgerin"/> | postman                                                                |
+| <d type="er" text="Tierpfleger"/> | <d type="ie" text="Tierpflegerin"/> | animal keeper                                                          |
 | <d type="er" text="Polizist"/>    | <d type="ie" text="Polizistin"/>    | policeman                                                              |
 | <d type="er" text="Schüler"/>     | <d type="ie" text="Schülerin"/>     | pupil                                                                  |
 | <d type="er" text="Student"/>     | <d type="ie" text="Studentin"/>     | college student                                                        |
@@ -370,6 +372,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | ledig       | unmarried single |
 | verheiratet | married          |
 | geschieden  | divorced         |
+| verwitwet   | widowed          |
 
 ### Arbeitsplatz (workplace)
 
