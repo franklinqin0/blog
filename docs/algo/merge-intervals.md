@@ -1,6 +1,5 @@
 ---
 title: Merge Intervals
-source: LeetCode
 diff: medium
 tags:
   - Array

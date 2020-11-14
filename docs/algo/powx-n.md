@@ -1,6 +1,5 @@
 ---
 title: x to the n
-source: LeetCode
 diff: easy
 tags:
   - Math

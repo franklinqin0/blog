@@ -1,6 +1,5 @@
 ---
 title: Longest Palindrome
-source: LeetCode
 diff: easy
 tags:
   - Hash Table

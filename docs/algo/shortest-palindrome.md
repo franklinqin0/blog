@@ -1,6 +1,5 @@
 ---
 title: Shortest Palindrome
-source: LeetCode
 diff: hard
 tags:
   - String

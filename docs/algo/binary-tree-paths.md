@@ -1,6 +1,5 @@
 ---
 title: Binary Tree Paths
-source: LeetCode
 diff: easy
 tags:
   - Tree

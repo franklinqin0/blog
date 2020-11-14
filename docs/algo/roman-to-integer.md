@@ -1,6 +1,5 @@
 ---
 title: Roman to Integer
-source: LeetCode
 diff: easy
 tags:
   - Math

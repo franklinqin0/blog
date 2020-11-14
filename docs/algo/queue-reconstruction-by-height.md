@@ -1,6 +1,5 @@
 ---
 title: Queue Reconstruction by Height
-source: LeetCode
 diff: medium
 tags:
   - Greedy

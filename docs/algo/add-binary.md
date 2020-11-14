@@ -1,6 +1,5 @@
 ---
 title: Add Binary
-source: LeetCode
 diff: easy
 tags:
   - Math

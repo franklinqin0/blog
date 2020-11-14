@@ -1,6 +1,5 @@
 ---
 title: Word Ladder
-source: LintCode
 diff: hard
 tags:
   - BFS

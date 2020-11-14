@@ -1,6 +1,5 @@
 ---
 title: Longest Common Prefix
-source: LeetCode
 diff: easy
 tags:
   - String

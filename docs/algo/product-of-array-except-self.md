@@ -1,6 +1,5 @@
 ---
 title: Product of Array Except Self
-source: LeetCode
 diff: medium
 tags:
   - Array

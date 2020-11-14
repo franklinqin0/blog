@@ -1,6 +1,5 @@
 ---
 title: Single Number III
-source: LeetCode
 diff: medium
 tags:
   - Bit Manipulation

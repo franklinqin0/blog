@@ -1,6 +1,5 @@
 ---
 title: Flatten Binary Tree to Linked List
-source: LeetCode
 diff: medium
 tags:
   - Tree

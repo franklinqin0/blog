@@ -1,6 +1,5 @@
 ---
 title: Super Egg Drop
-source: LeetCode
 diff: hard
 tags:
   - Recursion

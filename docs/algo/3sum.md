@@ -1,6 +1,5 @@
 ---
 title: Three Sum
-source: LeetCode
 diff: medium
 tags:
   - Array

@@ -1,6 +1,5 @@
 ---
 title: Linked List Cycle II
-source: LeetCode
 diff: medium
 tags:
   - Hash Table

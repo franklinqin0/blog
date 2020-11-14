@@ -1,6 +1,5 @@
 ---
 title: Number of 1 Bits
-source: LeetCode
 diff: easy
 tags:
   - Math

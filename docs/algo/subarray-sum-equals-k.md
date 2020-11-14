@@ -1,6 +1,5 @@
 ---
 title: Subarray Sum Equals k
-source: LeetCode
 diff: medium
 tags:
   - Array

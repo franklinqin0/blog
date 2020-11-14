@@ -1,6 +1,5 @@
 ---
 title: Max Stack
-source: LeetCode
 diff: medium
 tags:
   - Design

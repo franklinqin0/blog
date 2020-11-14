@@ -1,6 +1,5 @@
 ---
 title: Word Search
-source: LeetCode
 diff: medium
 tags:
   - Backtracking

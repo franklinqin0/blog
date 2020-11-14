@@ -1,6 +1,5 @@
 ---
 title: Add Two Numbers
-source: LeetCode
 diff: medium
 tags:
   - Math

@@ -1,6 +1,5 @@
 ---
 title: Climbing Stairs
-source: LeetCode
 diff: easy
 tags:
   - DP

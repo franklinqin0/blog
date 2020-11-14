@@ -1,6 +1,5 @@
 ---
 title: Longest Substring Without Repeating Characters
-source: LeetCode
 diff: medium
 tags:
   - Hash Table

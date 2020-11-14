@@ -1,6 +1,5 @@
 ---
 title: Generate Parentheses
-source: LeetCode
 diff: medium
 tags:
   - String

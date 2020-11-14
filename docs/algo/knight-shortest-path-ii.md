@@ -1,6 +1,5 @@
 ---
 title: Knight Shortest Path II
-source: LintCode
 diff: medium
 tags:
   - BFS

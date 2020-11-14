@@ -1,6 +1,5 @@
 ---
 title: Implement strstr
-source: LeetCode
 diff: easy
 tags:
   - Two Pointers

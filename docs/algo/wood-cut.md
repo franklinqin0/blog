@@ -1,6 +1,5 @@
 ---
 title: Wood Cut
-source: LintCode
 diff: medium
 tags:
   - Binary Search

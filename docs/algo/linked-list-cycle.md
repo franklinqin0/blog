@@ -1,6 +1,5 @@
 ---
 title: Linked List Cycle
-source: LeetCode
 diff: easy
 tags:
   - Hash Table

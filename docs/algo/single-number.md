@@ -1,6 +1,5 @@
 ---
 title: Single Number
-source: LeetCode
 diff: easy
 tags:
   - Math

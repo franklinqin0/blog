@@ -1,6 +1,5 @@
 ---
 title: Happy Number
-source: LeetCode
 diff: easy
 tags:
   - Math

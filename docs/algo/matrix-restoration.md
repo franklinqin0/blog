@@ -1,6 +1,5 @@
 ---
 title: Matrix Restoration
-source: LintCode
 diff: medium
 tags:
   - Array

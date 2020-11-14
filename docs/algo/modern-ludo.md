@@ -1,6 +1,5 @@
 ---
 title: Modern Ludo
-source: LintCode
 diff: medium
 tags:
   - BFS

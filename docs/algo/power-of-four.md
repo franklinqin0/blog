@@ -1,6 +1,5 @@
 ---
 title: Power of Four
-source: LeetCode
 diff: easy
 tags:
   - Math

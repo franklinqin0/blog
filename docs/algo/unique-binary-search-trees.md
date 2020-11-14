@@ -1,6 +1,5 @@
 ---
 title: Unique Binary Search Trees
-source: LeetCode
 diff: medium
 tags:
   - DP

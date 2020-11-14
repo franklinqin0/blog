@@ -1,6 +1,5 @@
 ---
 title: Course Schedule II
-source: LeetCode
 diff: medium
 tags:
   - BFS

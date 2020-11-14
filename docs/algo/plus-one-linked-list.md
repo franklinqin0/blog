@@ -1,6 +1,5 @@
 ---
 title: Plus One Linked List
-source: LeetCode
 diff: medium
 tags:
   - Linked List

@@ -1,6 +1,5 @@
 ---
 title: Flatten List
-source: LintCode
 diff: easy
 tags:
   - Recursion

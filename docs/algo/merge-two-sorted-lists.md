@@ -1,6 +1,5 @@
 ---
 title: Merge Two Sorted Lists
-source: LeetCode
 diff: easy
 tags:
   - Linked List

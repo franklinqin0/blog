@@ -1,6 +1,5 @@
 ---
 title: Pen Box
-source: LintCode
 diff: medium
 tags:
   - Array

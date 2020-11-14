@@ -1,6 +1,5 @@
 ---
 title: Drop Eggs
-source: LintCode
 diff: easy
 tags:
   - Math

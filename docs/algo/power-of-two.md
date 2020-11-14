@@ -1,6 +1,5 @@
 ---
 title: Power of Two
-source: LeetCode
 diff: easy
 tags:
   - Math

@@ -1,6 +1,5 @@
 ---
 title: Binary Tree Inorder Traversal
-source: LeetCode
 diff: hard
 tags:
   - Hash Table

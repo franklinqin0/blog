@@ -1,6 +1,5 @@
 ---
 title: Two Sum II - Input Array Is Sorted
-source: LeetCode
 diff: easy
 tags:
   - Array

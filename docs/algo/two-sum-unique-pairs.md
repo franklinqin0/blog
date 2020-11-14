@@ -1,6 +1,5 @@
 ---
 title: Two Sum - Unique Pairs
-source: LintCode
 diff: medium
 tags:
   - Array

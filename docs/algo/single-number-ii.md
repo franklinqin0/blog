@@ -1,6 +1,5 @@
 ---
 title: Single Number II
-source: LeetCode
 diff: medium
 tags:
   - Math

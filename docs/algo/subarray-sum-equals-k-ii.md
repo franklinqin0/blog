@@ -1,6 +1,5 @@
 ---
 title: Subarray Sum Equals k II
-source: LintCode
 diff: medium
 tags:
   - Array

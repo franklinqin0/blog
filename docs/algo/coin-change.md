@@ -1,6 +1,5 @@
 ---
 title: Coin Change
-source: LeetCode
 diff: medium
 tags:
   - DP

@@ -1,6 +1,5 @@
 ---
 title: Container With Most Water
-source: LeetCode
 diff: medium
 tags:
   - Array

@@ -1,6 +1,5 @@
 ---
 title: Convert BST to Greater Tree
-source: LeetCode
 diff: easy
 tags:
   - Tree

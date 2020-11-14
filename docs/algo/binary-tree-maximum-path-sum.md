@@ -1,6 +1,5 @@
 ---
 title: Binary Tree Maximum Path Sum
-source: LeetCode
 diff: medium
 tags:
   - Recursion

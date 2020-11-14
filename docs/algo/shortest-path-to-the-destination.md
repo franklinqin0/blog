@@ -1,6 +1,5 @@
 ---
 title: Shortest Path to the Destination
-source: LintCode
 diff: easy
 tags:
   - BFS

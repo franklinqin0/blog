@@ -1,6 +1,5 @@
 ---
 title: Minimum Size Subarray Sum
-source: LeetCode
 diff: medium
 tags:
   - Array

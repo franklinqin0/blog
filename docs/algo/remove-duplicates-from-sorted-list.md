@@ -1,6 +1,5 @@
 ---
 title: Remove Duplicates from Sorted List
-source: LeetCode
 diff: easy
 tags:
   - Linked List

@@ -1,6 +1,5 @@
 ---
 title: Reverse Bits
-source: LeetCode
 diff: easy
 tags:
   - Bit Manipulation

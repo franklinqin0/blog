@@ -1,6 +1,5 @@
 ---
 title: Inorder Predecessor in BST
-source: LintCode
 diff: medium
 tags:
   - Tree

@@ -1,6 +1,5 @@
 ---
 title: Word Break
-source: LeetCode
 diff: medium
 tags:
   - DFS

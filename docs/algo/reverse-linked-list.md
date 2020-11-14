@@ -1,6 +1,5 @@
 ---
 title: Reverse Linked List
-source: LeetCode
 diff: easy
 tags:
   - Linked List

@@ -1,6 +1,5 @@
 ---
 title: Maximum Subarray
-source: LeetCode
 diff: easy
 tags:
   - Array

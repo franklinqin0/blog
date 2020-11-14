@@ -1,6 +1,5 @@
 ---
 title: Move Zeroes
-source: LeetCode
 diff: easy
 tags:
   - Array

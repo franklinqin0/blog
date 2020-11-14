@@ -1,6 +1,5 @@
 ---
 title: Best Time to Buy and Sell Stock
-source: LeetCode
 diff: easy
 tags:
   - Array

@@ -1,6 +1,5 @@
 ---
 title: Implement Queue using Stacks
-source: LeetCode
 diff: easy
 tags:
   - Design

@@ -1,6 +1,5 @@
 ---
 title: Factorial Trailing Zeroes
-source: LintCode
 diff: medium
 tags:
   - String

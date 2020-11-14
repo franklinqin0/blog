@@ -1,6 +1,5 @@
 ---
 title: Power of Three
-source: LeetCode
 diff: easy
 tags:
   - Math

@@ -1,6 +1,5 @@
 ---
 title: Sparse Matrix Multiplication
-source: LeetCode
 diff: medium
 tags:
   - Array

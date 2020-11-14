@@ -1,6 +1,5 @@
 ---
 title: Longest Common Subsequence
-source: LeetCode
 diff: medium
 tags:
   - DP

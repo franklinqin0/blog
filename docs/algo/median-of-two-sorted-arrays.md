@@ -1,6 +1,5 @@
 ---
 title: Median of Two Sorted Arrays
-source: LeetCode
 diff: hard
 tags:
   - Binary Search

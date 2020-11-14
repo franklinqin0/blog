@@ -1,6 +1,5 @@
 ---
 title: Subarray Product Less Than K
-source: LeetCode
 diff: medium
 tags:
   - Binary Search

@@ -1,6 +1,5 @@
 ---
 title: Inorder Successor in BST
-source: LeetCode
 diff: medium
 tags:
   - Tree

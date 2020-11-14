@@ -1,6 +1,5 @@
 ---
 title: Sliding Puzzle
-source: LintCode
 diff: hard
 tags:
   - BFS

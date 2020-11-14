@@ -1,6 +1,5 @@
 ---
 title: Palindrome Number
-source: LeetCode
 diff: easy
 tags:
   - Math

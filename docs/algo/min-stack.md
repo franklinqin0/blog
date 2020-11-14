@@ -1,6 +1,5 @@
 ---
 title: Min Stack
-source: LeetCode
 diff: easy
 tags:
   - Design

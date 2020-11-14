@@ -1,6 +1,5 @@
 ---
 title: Longest Palindromic Substring
-source: LeetCode
 diff: medium
 tags:
   - String

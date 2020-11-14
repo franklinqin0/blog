@@ -1,6 +1,5 @@
 ---
 title: Find the Celebrity
-source: LeetCode
 diff: medium
 tags:
   - Array

@@ -1,6 +1,5 @@
 ---
 title: Snakes and Ladders
-source: LeetCode
 diff: medium
 tags:
   - BFS

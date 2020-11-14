@@ -1,6 +1,5 @@
 ---
 title: Reverse Integer
-source: LeetCode
 diff: easy
 tags:
   - Math

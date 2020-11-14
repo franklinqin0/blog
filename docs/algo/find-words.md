@@ -1,6 +1,5 @@
 ---
 title: Find Words
-source: LintCode
 diff: medium
 tags:
   - String
