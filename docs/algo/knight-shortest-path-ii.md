@@ -158,21 +158,21 @@ class Solution:
             return 0
 
         queue_A = collections.deque()
-        visited_A = [[False for i in range(n)] for j in range(m)]
+        visited_A = [[False for _ in range(n)] for _ in range(m)]
         queue_A.append([0,0])
         visited_A[0][0] = True
 
         queue_B = collections.deque()
-        visited_B = [[False for i in range(n)] for j in range(m)]
+        visited_B = [[False for _ in range(n)] for _ in range(m)]
         queue_B.append([m - 1, n - 1])
         visited_B[m - 1][n - 1] = True
 
         queue = collections.deque()
-        visited_Curr = [[False for i in range(n)] for j in range(m)]
-        visited_Other_pos = [[False for i in range(n)] for j in range(m)]
+        visited_Curr = [[False for _ in range(n)] for _ in range(m)]
+        visited_Other_pos = [[False for _ in range(n)] for _ in range(m)]
 
         res = 0
-        sign = 0 # 从左到右 或 从右到左
+        sign = 0 # from left to right / from right to left
 
         dx = [-1, 1, -2, 2]
         dy = [2, 2, 1, 1]

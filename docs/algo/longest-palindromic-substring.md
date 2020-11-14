@@ -108,7 +108,11 @@ def expandAroundCenter(self, s: str, l, r):
     return s[l+1:r]
 ```
 
-### Manacher's algorithm (REDO)
+### Manacher's algorithm
+
+This algorithm basically inclues some smart improvements on [Expand around Center](#expand-around-center). Should be quite straightforward after watching [this video](https://youtu.be/nbTSfrEfo6M).
+
+As each element is traversed at most twice, the time complexity is linear.
 
 Complexity:
 
@@ -133,21 +137,25 @@ public String longestPalindrome(String s) {
     int[] table = new int[n];
     int center = 0, right = 0;
 
-    for (int i = 1; i<n-1; i++) {
+    for (int i = 1; i < n - 1; i++) {
+        // w/i right boundary, can save time by copying mirror length
         if (right > i) {
-            int mirror = 2*center - i;
-            table[i] = Math.min(table[mirror], right-i);
+            int mirror = 2 * center - i;
+            table[i] = Math.min(table[mirror], right - i);
         } else
             table[i] = 0;
 
+        // expand around `i` as much as possible
         while (new_s.charAt(i - table[i] - 1) == new_s.charAt(i + table[i] + 1))
             table[i]++;
 
+        // update the center & right
         if (i + table[i] > right) {
             center = i;
             right = i + table[i];
         }
 
+        // update the best result so far
         if (table[i] > lengthLPS) {
             centerLPS = i;
             lengthLPS = table[i];

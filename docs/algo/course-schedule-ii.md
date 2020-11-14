@@ -1,10 +1,9 @@
 ---
-title: Course Schedule
+title: Course Schedule II
 source: LeetCode
 diff: medium
 tags:
   - BFS
-  - DFS
   - Topological Sort
 ---
 
@@ -12,73 +11,49 @@ tags:
 
 ## Solution
 
+This problem is similar to the [previous problem](course-schedule), but returns the `order`ed list of courses to take rather than a boolean to decide if courses can be finished.
+
+Complexity:
+
+- time: $O(V + E)$
+- space: $O(V + E)$
+
 ```py
-import heapq
 def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-    # 入度 = （未学习的）前置课程的数量
-
-    # 1. 求出所有点的入度（求出前置课程的数量）
-    # 2. 从入度为0的点开始bfs
-    #     - 如果相邻点的前置课程已经学完，加入队列
-    #     - 加入队列的顺序 -> 拓扑序
-    # 3. 判断是否上完所有课程，return答案
-
-    # for all prerequisites:
-    #     if A -> B:
-    #         B的入度+1
-
-    # for 所有入度为0的课程：
-    #     加入队列
-
-    # 空的拓扑序的list：order
-
-    # while 队列非空：
-    #     弹出一个课程
-    #     将课程加入到order里
-    #     for 以该课程为前置课程的课now：
-    #         课程now所需的前置课程-=1
-    #         if 所需的前置课程 == 0：
-    #             加入队列
-
-    # 判断 order的长度和numcourses是否相等
-
+    # trivial case
     if numCourses == 0:
         return []
 
-    edges = {i : set() for i in range(numCourses)}  # 以每个课程为前置课程的课
-    indegrees = [0] * numCourses # 入度
+    edges = {i : set() for i in range(numCourses)}  # other courses that depend on course i
+    indegrees = [0] * numCourses # number of unlearned prereqs
 
-
+    # calc indegrees for each course
     for i, j in prerequisites:
+        # if A -> B, then B's indegrees + 1
         if i not in edges[j]:
             indegrees[i] += 1
             edges[j].add(i)
 
-
-
+    # add courses w/ 0 indegree to queue w/ topological order
     queue = []
-
     for i in range(numCourses):
         if indegrees[i] == 0:
-            heapq.heappush(queue, i)
+            queue.append(i)
 
+    # finish courses in queue & update indegrees
     order = []
-
     while queue:
-        now = heapq.heappop(queue)
+        now = queue.pop(0)
         order.append(now)
+        # all courses that have the finished `now` for prereq decrement indegrees by 1
         for i in edges[now]:
             indegrees[i] -= 1
+            # if course `i` has no prereq, add to queue
             if indegrees[i] == 0:
-                heapq.heappush(queue, i)
+                queue.append(i)
 
-    print (order)
+    # check if order has all the courses
     if len(order) != numCourses:
         return []
-
     return order
-
-    #节点数量：V
-    # 边数：E
-    # O（V*E)
 ```

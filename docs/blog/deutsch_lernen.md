@@ -435,3 +435,24 @@ der Name, -n
 der Vorname, -n  
 der Nachname, -n  
 der Familienname, -n
+
+## Sorry / Excuse me
+
+Entschuldigung  
+Entschuldigen Sie bitte  
+Verzeihung  
+Verzeihen Sie bitte
+
+## Hobbies
+
+Was machen Sie gern?  
+Was machst du gern?
+
+das Hobby, -s  
+der Bücherwurm
+
+immer > oft > manchmal > selten > nie  
+Ich singe oft.  
+Ich reise manchmal.  
+Ich male selten.  
+Ich koche nie.
