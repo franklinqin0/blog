@@ -483,3 +483,27 @@ Spielst du oft Fußball?
 Heute **sieht** er mit ihr **fern**.  
 Er **sieht** heute mit ihr **fern**.  
 Mit ihr **sieht** er heute **fern**.
+
+## Reisen in Deutschland
+
+Woher kommt der Zug?  
+Der Zug kommt aus ...
+
+Wo ist der Zug?  
+Der Zug ist in ...
+
+Wohin fährt der Zug?  
+Der Zug fährt nach ...
+
+### Fernverkehr 长途
+
+ICE Intercity-Express  
+IC Inter City  
+EC Euro City
+
+### Nahverkehr 中短途
+
+IRE Interregio-Express 跨区快车  
+RE Regional-Express 区域快车  
+RB Regionalbahn 区域火车  
+S-Bahn 城铁（市中心<->近郊）
