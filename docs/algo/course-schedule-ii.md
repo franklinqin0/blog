@@ -33,7 +33,7 @@ def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int
             indegrees[i] += 1
             edges[j].add(i)
 
-    # add courses w/ 0 indegree to queue w/ topological order
+    # add courses w/ 0 indegree to queue
     queue = []
     for i in range(numCourses):
         if indegrees[i] == 0:

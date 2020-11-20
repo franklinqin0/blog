@@ -140,6 +140,32 @@ More at [Queue in Python](https://www.geeksforgeeks.org/queue-in-python/).
 
 []
 
+### Shallow Flatten
+
+We could have nested for loops
+
+```py
+[val for sublist in list_of_lists for val in sublist]
+```
+
+Or use `reduce` from `functools`
+
+```py
+from functools import reduce
+reduce(lambda l1, l2: l1 + l2, list_of_lists)
+# or
+reduce(operator.concat, l)
+```
+
+Or use `chain` from `itertools`
+
+```py
+from itertools import chain
+list(chain(*list_of_lists))
+```
+
+There may be many other possible ways.
+
 ### Tuple (Immutable)
 
 ()
@@ -148,7 +174,7 @@ More at [Queue in Python](https://www.geeksforgeeks.org/queue-in-python/).
 
 A list adding to a set would cause error "list objects are unhashable" b/c **list is mutable** but elements in set are not supposed to change after being added and hashed. Instead of `list`, I could add a `tuple` to the set, as described in [this Stack Overflow answer](https://stackoverflow.com/a/1306653/6421652).
 
-### defaultdict of defaultdict
+### [defaultdict of defaultdict](https://stackoverflow.com/a/5029958/6421652)
 
 ```py
 defaultdict(lambda: defaultdict(int))

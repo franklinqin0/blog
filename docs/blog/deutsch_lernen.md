@@ -443,7 +443,7 @@ Entschuldigen Sie bitte
 Verzeihung  
 Verzeihen Sie bitte
 
-## Hobbies
+## Hobbys
 
 Was machen Sie gern?  
 Was machst du gern?
@@ -456,3 +456,30 @@ Ich singe oft.
 Ich reise manchmal.  
 Ich male selten.  
 Ich koche nie.
+
+Ich sehe gern fern.  
+Er sieht gern fern.  
+Siehst du gern fern?  
+Sehen Sie gern fern?
+
+### Modalverb
+
+Ich sehe heute fern.  
+Ich möchte heute fernsehen.  
+Sieht er heute fern?  
+Möchte er heute fernsehen?
+
+Möchten Sie noch etwas Tee?  
+Ich möchte Kaffee.  
+Er möchte nach Hause.  
+Möchtest du zum Einkaufen?
+
+### Satzklammer
+
+Ich möchte heute spielen.  
+Er sieht jetzt fern.  
+Spielst du oft Fußball?
+
+Heute **sieht** er mit ihr **fern**.  
+Er **sieht** heute mit ihr **fern**.  
+Mit ihr **sieht** er heute **fern**.

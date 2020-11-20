@@ -399,7 +399,7 @@ Franklin
 - reisen
 - schwimmen
 
-### Modelverb sollen (should)
+### Modalverb sollen (should)
 
 | Person    | sollen |
 | --------- | ------ |

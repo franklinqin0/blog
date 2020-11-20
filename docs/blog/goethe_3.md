@@ -631,7 +631,7 @@ Ich wohne im ...
 | <d type="as" text="Sofa"/>          | sofa         |
 | <d type="as" text="Bett"/>          | bed          |
 | <d type="as" text="Regal"/>         | shelf        |
-| <d type="as" text="Ladegerät"/>     | Ladegerät    |
+| <d type="as" text="Ladegerät"/>     | charger      |
 
 #### Verb
 
