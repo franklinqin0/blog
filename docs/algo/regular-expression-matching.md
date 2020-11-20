@@ -1,6 +1,6 @@
 ---
-title: Find Words
-diff: medium
+title: Regular Expression Matching
+diff: hard
 tags:
   - String
   - DP
@@ -22,7 +22,7 @@ def isMatch(self, s: str, p: str) -> bool:
     return pattern.match(s)
 ```
 
-### Recursion
+### Basic Recursion
 
 ```py
 def isMatch(self, s: str, p: str) -> bool:
