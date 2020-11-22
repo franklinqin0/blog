@@ -24,7 +24,7 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | REC           | recommended        | 推荐的          |
 | XREC          | not recommended    | 不推荐的        |
 | thru          | through            | 穿过，在...期间 |
-| o.w.          | otherwise          | 不然            |
+| otherwise     | otherwise          | 不然            |
 | w/            | with               | 和...一起       |
 | w/i           | within             | 在...里面       |
 | w/o           | without            | 没有和...一起   |

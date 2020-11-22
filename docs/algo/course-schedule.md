@@ -49,7 +49,7 @@ def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
             if indegrees[i] == 0:
                 queue.append(i)
 
-    # check if numFinished is all the courses; o.w., the graph is not a DAG
+    # check if numFinished is all the courses; otherwise, the graph is not a DAG
     if numFinished != numCourses:
         return False
     return True

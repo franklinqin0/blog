@@ -45,7 +45,7 @@ Thus, this problem should be solved by **DP** (iterative/recursive w/ memoizatio
 
 ### Iterative DP (squared space)
 
-As explained in [this video](https://youtu.be/NnD96abizww), I construct a matrix to store the _length of longest common subsequence_ seen so far. If the two chars match, `M[i][j]` is `M[i-1][j-1]+1` ; o.w., it's the max of `M[i-1][j]` and `M[i][j-1]`. At the end of for loop, return `M[-1][-1]`.
+As explained in [this video](https://youtu.be/NnD96abizww), I construct a matrix to store the _length of longest common subsequence_ seen so far. If the two chars match, `M[i][j]` is `M[i-1][j-1]+1` ; otherwise, it's the max of `M[i-1][j]` and `M[i][j-1]`. At the end of for loop, return `M[-1][-1]`.
 
 Complexity:
 

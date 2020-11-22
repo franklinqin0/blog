@@ -440,7 +440,7 @@ So we have to write `<String, List<String>>` twice! But now we could simply do:
 Map<String, List<String>> myMap = new HashMap<>();
 ```
 
-Note that we need `<>` b/c o.w. `HashMap()` refers to `HashMap` raw type, and we'd receive an _unchecked conversion warning_.
+Note that we need `<>` b/c otherwise `HashMap()` refers to `HashMap` raw type, and we'd receive an _unchecked conversion warning_.
 
 #### Type Checking vs. Type Inference
 

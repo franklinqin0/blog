@@ -100,7 +100,7 @@ The following 3 solutions all use Newton's method in different forms.
 
 #### initialize `sqrt` to `x//2`
 
-Given the fact in [binary search](#binary-search), return `x` if `x < 2`; o.w., `x//2` is an upper bound for $\texttt{int} \sqrt{x}$ and the in the while loop `sqrt` _monotonically_ decreases in every iteration.
+Given the fact in [binary search](#binary-search), return `x` if `x < 2`; otherwise, `x//2` is an upper bound for $\texttt{int} \sqrt{x}$ and the in the while loop `sqrt` _monotonically_ decreases in every iteration.
 
 ```py
     def mySqrt(self, x: int) -> int:

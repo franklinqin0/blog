@@ -41,7 +41,7 @@ def findCelebrity(self, n):
 
 ### Logical Deduction
 
-Let's ask this question: does A know B? If the answer is yes, then A is defo not a celebrity; o.w., B is not a celebrity. Thus, we could ask this question `n-1` times and get a `candidate` for celebrity.
+Does A know B? If the answer is yes, then A is definitely not a celebrity; otherwise, B is not a celebrity. Thus, we could ask this question `n-1` times and get a `candidate` for celebrity.
 
 We then check if everyone else knows the `candidate` and the `candidate` knows no one else.
 
@@ -56,8 +56,7 @@ def findCelebrity(self, n):
 
     for i in range(1,n):
         if not knows(i,candidate):
-        ### above line could also be: ###
-        # if knows(candidate,i):
+        # OR: if knows(candidate,i):
             candidate = i
     # check if candidate is a celebrity
     for i in range(n):

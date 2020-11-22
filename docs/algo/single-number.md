@@ -19,7 +19,7 @@ The [bit manipulation](#bit-manipulation) solution is most elegant.
 
 ### HashSet
 
-Add to `set` if `num` is not seen yet, o.w. remove it. At the end, `set` only has 1 element, so just `pop` it.
+Add to `set` if `num` is not seen yet, otherwise remove it. At the end, `set` only has 1 element, so just `pop` it.
 
 Complexity:
 

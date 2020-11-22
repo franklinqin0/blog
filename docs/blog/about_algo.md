@@ -79,7 +79,7 @@ These are the steps to initiate Gitalk on this blog:
 There are a few caveats to watch for when using Gitalk (could see my [`config.js`][config_js]):
 
 1. `id` should be unique and $<50$ chars
-2. `title` field is better not changed; o.w. have to the old comments on the post is lost
+2. `title` field is better not changed; otherwise have to the old comments on the post is lost
 3. better set `title` and `labels` distinct enough to not confuse _comment issues_ w/ _real issues_
 4. YOU have to go to the post **in prod** to initiate comments just on that page
 

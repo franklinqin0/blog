@@ -21,7 +21,7 @@ class TreeNode:
 
 ## Solution
 
-Once the values for whether robbing(or not) left/right subtree are known, we could calculate the values for whether robbing(or not) the root. If robbing the root, then both the left and right subtrees must not be robbed; o.w., sum up the max value of including(or not) the left subtree and max value of including(or not) the right subtree.
+Once the values for whether robbing(or not) left/right subtree are known, we could calculate the values for whether robbing(or not) the root. If robbing the root, then both the left and right subtrees must not be robbed; otherwise, sum up the max value of including(or not) the left subtree and max value of including(or not) the right subtree.
 
 Complexity:
 

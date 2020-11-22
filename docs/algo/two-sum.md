@@ -18,7 +18,7 @@ Using HashMap takes $O(n)$ time whereas sorting takes $O(\log n)$ time.
 
 The 1st for loop stores mappings from `val` to `idx` in HashMap `hm`, and the 2nd for loop checks if complement exists in for loop.
 
-Note: need to check `idx!=hm[complement]` in 2nd for loop; o.w. fail on text case:
+Note: need to check `idx!=hm[complement]` in 2nd for loop; otherwise fail on text case:
 
 ```py
 nums = [3,2,4]
