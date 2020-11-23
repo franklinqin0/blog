@@ -43,12 +43,15 @@ def findCelebrity(self, n):
 
 Does A know B? If the answer is yes, then A is definitely not a celebrity; otherwise, B is not a celebrity. Thus, we could ask this question `n-1` times and get a `candidate` for celebrity.
 
-We then check if everyone else knows the `candidate` and the `candidate` knows no one else.
+We then check if:
+
+1. everyone else knows the `candidate`
+2. the `candidate` knows no one else
 
 Complexity:
 
 - time: $O(n)$
-- space: \$O(1)
+- space: $O(1)$
 
 ```py
 def findCelebrity(self, n):
@@ -60,7 +63,7 @@ def findCelebrity(self, n):
             candidate = i
     # check if candidate is a celebrity
     for i in range(n):
-        if i==candidate:
+        if i == candidate:
             continue
         if knows(candidate, i) or not knows(i, candidate):
             return -1

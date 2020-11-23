@@ -14,6 +14,8 @@ First of all, that's a long title :joy:
 
 This problem is actually `hard` if done in DP, but DFS is easier.
 
+Let `n` be the number of `steps`.
+
 ### DFS
 
 ::: danger fail on LeetCode
@@ -30,7 +32,7 @@ If we don't have the condition `if pos>steps` to eliminate branches, would TLS o
 
 Complexity:
 
-- time: $O(3^n)$ where `n` is `steps`
+- time: $O(3^n)$
 - space: $O(3^n)$ (implicit stack space is the max width of tree)
 
 ```py
