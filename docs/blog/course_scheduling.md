@@ -93,8 +93,7 @@ It should be obvious that for a set of classes (usually a grade), compulsory and
 
 It is enforced that **each schedule can only belong to one parallel elective**.
 
-For the math formulation, I will start with an illustrative example. Say we have three courses, $A$, $B$, $C$, and each has $k$ weekly schedules (same _number of schedules_ is recommended but not required). Therefore, schedules $A_1$, ..., $A_k$, $B_1$, ..., $B_k$, $C_1$, ..., $C_k$ store the same id of a parallel elective. $A$, $B$, $C$ are then zipped and produced $k$ combinations: $[A_1, B_1, C_1]$, ..., $[A_k, B_k, C_k]$. For each combination in a parallel elective, the schedules are either all scheduled in a slot or not:
-
+For the math formulation, I will start with an illustrative example. Say we have three courses, $A$, $B$, $C$, and each has $k$ weekly schedules (same _number of schedules_ is recommended but not required). Therefore, schedules $A_1$, ..., $A_k$, $B_1$, ..., $B_k$, $C_1$, ..., $C_k$ store the same id of a parallel elective. $A$, $B$, $C$ are then zipped and produced $k$ combinations: $[A_1, B_1, C_1]$, ..., $[A_k, B_k, C_k]$. For each combination in a parallel elective, the schedules are either all scheduled in a slot or not:  
 $\sum_{j_1, j_2 \in \mathbf{P}, j_1 \ne j_2} x_{ij_1} = x_{ij_2}$  
 for each slot $i \in [1..m]$, where $P$ represents the $p$-th combination $[A_p, B_p, C_p]$ and $p \in [1..k]$
 
@@ -178,6 +177,6 @@ Other times I was doing backend and frontend development.
 
 My great thanks go to many of my friends, who listened to my vague ideas, challenged me with insightful questions, and inspired me to pursue excellence.
 
-My special thanks go to Professor [David Williamson](http://www.davidpwilliamson.net/work), who elegantly taught ORIE 3310 in spring 2017 at Cornell, patiently answered my ignorant questions in emails and suggested to me the vastly useful [Google OR-Tools](https://developers.google.com/optimization).
+My special thanks go to Professor [David Williamson](http://www.davidpwilliamson.net/work), who elegantly taught ORIE 3310 in spring 2017 at Cornell, patiently answered my ignorant questions in emails and suggested to me the extremely useful [Google OR-Tools](https://developers.google.com/optimization).
 
 My [very special thanks go to my mom](https://youtu.be/nBcJlo8QVHc), who helped find so many bugs in my initial system without grudges, and constantly inspired me to keep on refining it with support and encouragement.

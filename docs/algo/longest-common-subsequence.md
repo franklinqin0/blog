@@ -13,7 +13,7 @@ tags:
 
 Let $n$ and $m$ be lengths of `text1` and `text2`, respectively.
 
-::: details Initial Wrong Solution
+### Initial Wrong Solution
 
 Following is a wrong solution because I didn't consider the case that a subsequence later seen can be longer than a subsequence earlier seen.
 
@@ -33,13 +33,11 @@ def longestCommonSubsequence(self, text1: str, text2: str) -> int:
     for i in range(0, len(shorter)):
         # find the shorter ith elt in longer[l:]
         j = longer[l:].find(shorter[i])
-        if j!=-1:
-            l=j+1
-            lcs+=1
+        if j != -1:
+            l = j + 1
+            lcs += 1
     return lcs
 ```
-
-:::
 
 Thus, this problem should be solved by **DP** (iterative/recursive w/ memoization).
 
@@ -59,7 +57,7 @@ Complexity:
 
         for i in range(1, n+1):
             for j in range(1, m+1):
-                if text1[i-1]==text2[j-1]:
+                if text1[i-1] == text2[j-1]:
                     M[i][j] = M[i-1][j-1]+1
                 else:
                     M[i][j] = max(M[i-1][j], M[i][j-1])
