@@ -52,7 +52,7 @@ Let $h_n$ be the number of steps with $n$ disks. Here is the proof:
 $$h_n = 2h_{n-1} + 1$$
 $$h_1 = 1$$
 
-Solving the above two equations gives $h_n = 2^n - 1$, i.e., the [Mersenne primes](https://en.wikipedia.org/wiki/Mersenne_prime).
+Solving the above two equations gives $h_n = 2^n - 1$, i.e., the [Mersenne numbers](https://mathworld.wolfram.com/MersenneNumber.html).
 
 Now come back to [the legend](#origin). If the priests were able to move disks at a rate of one per second, using the smallest number of moves it would take them $2^{64} − 1$ seconds or roughly 585 billion years to finish, which is about 42 times the current age of the universe.
 
