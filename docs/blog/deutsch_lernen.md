@@ -242,8 +242,11 @@ A:
 
 ### 方位 die Himmelsrichtung
 
+<img src="/himmelsrichtung.png" alt="Himmelsrichtung" width=50% class="medium-zoom">
+
 | 名词           | 副词         |
 | -------------- | ------------ |
+| das Zentrum    | center       |
 | der Norden     | nördlich     |
 | der Süden      | südlich      |
 | der Westen     | westlich     |
@@ -252,6 +255,13 @@ A:
 | der Nordosten  | nordöstlich  |
 | der Südost     | südöstlich   |
 | der Südwest    | südwestlich  |
+
+Im Zentrum von der Stadt ist das Rathaus.  
+Im Nordwesten von der Stadt ist der Bahnhof.  
+Im Südosten von der Stadt is die Bank.
+
+Das Kino rechts ist das Ufa-Kino.  
+Das Hotel links ist das Bahnhof-Hotel.
 
 #### Wo liegt xxx?
 
@@ -507,3 +517,11 @@ IRE Interregio-Express 跨区快车
 RE Regional-Express 区域快车  
 RB Regionalbahn 区域火车  
 S-Bahn 城铁（市中心<->近郊）
+
+## 否定
+
+Er verreist nicht heute.  
+他不是今天出门。
+
+Er verreist heute nicht.  
+他今天不出门。

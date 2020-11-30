@@ -258,8 +258,8 @@ Deutsch Notizen vom 2. bis 8. März.
 | am morgen     | tomorrow     |
 | am Morgen     | morning      |
 | am Vormittag  | late morning |
-| am Nachmittag | afternoon    |
 | am Mittag     | noon         |
+| am Nachmittag | afternoon    |
 | am Abend      | evening      |
 | in der Nacht  | night        |
 
@@ -357,7 +357,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | Angebot                        | offer                    |
 | geben                          | give                     |
 | Bildung                        | education                |
-| keine                          | no                       |
+| kein(e)                        | no                       |
 | kosten                         | cost                     |
 | <d type="ie" text="Rechnung"/> | calculation/bill invoice |
 | Kugel                          | ball                     |
@@ -422,8 +422,6 @@ Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules f
 | braun   | brown    |
 | pink    | pink     |
 | orange  | orange   |
-
-### Himmelsrichtungen
 
 ### Sätze
 

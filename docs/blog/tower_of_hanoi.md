@@ -68,6 +68,6 @@ Following are interesting ways to go deeper but I am good for now.
 
 The [Chinese wikipedia explanation](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%BA%E5%A1%94) is more terse and insightful than the [English one](https://en.wikipedia.org/wiki/Tower_of_Hanoi).
 
-[This geeksforgeeks post](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi) offers the [recursive solution](#recursion) code above, and a pretty good descriptive video.
+[This geeksforgeeks post](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi) offers the [recursive solution](#recursion) code above with a pretty good descriptive video.
 
-[Wolfram Mathworld](https://mathworld.wolfram.com/TowerofHanoi.html) gives more math insights.
+[Wolfram Mathworld](https://mathworld.wolfram.com/TowerofHanoi.html) gives some math insights about the proof.

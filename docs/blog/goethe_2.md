@@ -435,7 +435,7 @@ M: Wir möchten dann zahlen.
 | Es gibt ... akkusativ           | there be                   |
 | Und jetzt muss ich etwas essen. | And now I have to eat sth. |
 | Ich muss etwas essen.           | I must eat sth.            |
-| Ich essen etwas.                | I eat sth.                 |
+| Ich esse etwas.                 | I eat sth.                 |
 
 | Fragen                       | Antworten                                                                                 |
 | ---------------------------- | ----------------------------------------------------------------------------------------- |
@@ -513,10 +513,14 @@ M: Wir möchten dann zahlen.
 | Deutsch                                 | Englisch          |
 | --------------------------------------- | ----------------- |
 | <d type="er" text="Zoo"/>               | zoo               |
-| <d type="er" text="Park"/>              | park              |
+| <d type="er" text="Park(s)"/>           | park              |
 | <d type="er" text="Flughafen"/>         | airport           |
 | <d type="er" text="Bahnhof(Bahnhöfe)"/> | railway station   |
 | <d type="er" text="Hafen"/>             | harbor            |
+| <d type="er" text="Marktplatz"/>        | market place      |
+| <d type="ie" text="Bank(en)"/>          | bank              |
+| <d type="ie" text="Buchhandlung(en)"/>  | bookshop          |
+| <d type="ie" text="Post(en)"/>          | post office       |
 | <d type="ie" text="Oper"/>              | opera             |
 | <d type="ie" text="Kirche"/>            | church            |
 | <d type="ie" text="Bibliothek"/>        | library           |
@@ -524,9 +528,10 @@ M: Wir möchten dann zahlen.
 | <d type="as" text="Kaufhaus"/>          | department store  |
 | <d type="as" text="Restaurant"/>        | restaurant        |
 | <d type="as" text="Museum"/>            | museum            |
-| <d type="as" text="Kino"/>              | cinema            |
+| <d type="as" text="Kino(s)"/>           | cinema            |
 | <d type="as" text="Theater"/>           | theater           |
 | <d type="as" text="Stadion"/>           | stadium           |
+| <d type="as" text="Rathaus"/>           | town hall         |
 
 ### Sätze
 
