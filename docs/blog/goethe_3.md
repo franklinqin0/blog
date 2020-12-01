@@ -1,5 +1,5 @@
 ---
-title: Deutsch Lernen vom Goethe Institut - drei
+title: Deutsch Lernen vom Goethe Institut - A1 drei
 date: 2020-03-16
 sidebar: "auto"
 categories:

@@ -1,14 +1,13 @@
 ---
-title: Deutsch Lernen
+title: Deutsch Lernen vom Wanmen Basic
 date: 2020-07-12
 categories:
   - study
 tags:
   - Deutsch
-last: goethe_4
 ---
 
-Studiennotizen zum Deutschlernen.
+Notes taken from Wanmen University's free [basic German](https://www.wanmen.org/courses/586d23485f07127674135d14) course.
 
 <!-- more -->
 
@@ -18,7 +17,6 @@ Studiennotizen zum Deutschlernen.
 | ---------------------------------- | --------------------- |
 | verfolgen                          | track, pursue         |
 | kitzeln                            | tickle                |
-| rücken                             | move                  |
 | widmen                             | dedicate              |
 | bezeichnen                         | denote                |
 | geshehen                           | happen                |

@@ -1,5 +1,5 @@
 ---
-title: Deutsch Lernen vom Goethe Institut - vier
+title: Deutsch Lernen vom Goethe Institut - A1 vier
 date: 2020-03-30
 sidebar: "auto"
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - Deutsch
 prev: goethe_3
-next: deutsche_kultur
+next: goethe_5
 ---
 
 Deutsch Notizen vom 30. März bis 8. Mai.
@@ -586,6 +586,7 @@ Wohin fahren Timo und Julia? Sie haben sich entschieden, nach München zu fahren
 | <d type="er" text="Kopf"/>       | head           |
 | <d type="er" text="Mund"/>       | mouth          |
 | <d type="er" text="Hals"/>       | neck           |
+| rücken                           | move           |
 | <d type="er" text="Rücken"/>     | back           |
 | <d type="er" text="Bauch"/>      | belly, stomach |
 | <d type="er" text="Arm"/>        | arm            |
