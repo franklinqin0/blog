@@ -26,9 +26,9 @@ Base conditions for DFS recursion:
 
 - `pos` out of array, return `0`
 - `steps` is 0 and return `pos==0` (could further be simplified to: `if pos==steps: return 1`)
-- `pos>steps`, not enough steps to go back to starting point, return `0` (this condition prunes some branches and would avoid TLS at input `steps=15`, `arrLen=8`)
+- `pos > steps`, not enough steps to go back to starting point, return `0` (this condition prunes some branches and would avoid TLS at input `steps=15`, `arrLen=8`)
 
-If we don't have the condition `if pos>steps` to eliminate branches, would TLS on input `steps=15`, `arrLen=8`.
+If we don't have the condition `if pos>steps` to eliminate branches, would TLS on input `steps = 15`, `arrLen = 8`.
 
 Complexity:
 

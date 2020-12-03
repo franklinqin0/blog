@@ -8,11 +8,11 @@ tags:
 last: goethe_4
 ---
 
-Notes taken from Wanmen University's free [basic German](https://www.wanmen.org/courses/586d23485f07127674135d14) course.
+Deutsch Notizen vom Goethe Institut - A2 eins.
 
 <!-- more -->
 
-## 1 Dez.
+## Kapitel 1
 
 | Deutsch          | Englisch     |
 | ---------------- | ------------ |
