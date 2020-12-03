@@ -412,8 +412,8 @@ numbers.limit(5).forEach(x->System.out.println(x)); // set a limit
 #### Example: Print Out the Strings Starting w/ "J"
 
 ```scala
-Arrays.asList("Hello","Java8","Java7").stream()
-    .map(s ->s.toUpperCase())
+Arrays.asList("Hello", "Java8", "Java7").stream()
+    .map(s -> s.toUpperCase())
     .filter(s -> s.startsWith("J"))
     .forEach(s -> System.out.println(s));
 ```

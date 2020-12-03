@@ -1,6 +1,18 @@
-# FAQ
+---
+title: Tech Q&A
+date: 2020-03-10
+categories:
+  - study
+tags:
+  - tech
+publish: false
+---
 
-### Concurrency and Parallelism
+Some technical questions and answers.
+
+<!-- more -->
+
+## Concurrency and Parallelism
 
 | Parallel programming   | Execute programs faster on parallel hardware   |
 | :--------------------- | :--------------------------------------------- |
@@ -10,11 +22,11 @@ non-determinism = parallel processing + mutable state
 
 to avoid mutable state, use functional programming!
 
-### Literals
+## Literals
 
 a notation for representing a **fixed value in source code**. Almost all programming languages have notations for atomic values such as _integers_, _floating-point numbers_, and _strings_, and usually for _booleans_ and _characters_; some also have notations for elements of enumerated types and compound values such as _arrays_, _records_, and _objects_. An _anonymous function_ is a literal for the _function type_.
 
-### Macro vs. Function
+## Macro vs. Function
 
 | \                          | Macro                                  | Function                         |
 | :------------------------- | :------------------------------------- | :------------------------------- |
@@ -28,3 +40,9 @@ a notation for representing a **fixed value in source code**. Almost all program
 | Checks Compile-Time Errors | No                                     | Yes                              |
 
 https://www.quickprogrammingtips.com/mongodb/mongodb-history.html
+
+## Discriminative vs. Generative Model
+
+A discriminative model learns the conditional probability distribution `p(y | x)`, which is the natural distribution for classifying a given example `x` into a class `y`. A generative model learns the joint probability distribution `p(x, y)`, which could be used to generate likely `(x, y)` pairs.
+
+https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-a-discriminative-algorithm

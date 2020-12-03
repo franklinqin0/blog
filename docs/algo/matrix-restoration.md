@@ -30,15 +30,15 @@ def matrixRestoration(self, n, m, prefix_sum):
     @param after: the matrix
     @return: restore the matrix
     """
-    grid = [[0]*m for _ in range(n)]
+    grid = [[0 for _ in range(m)] for _ in range(n)]
     for i in range(n):
         for j in range(m):
             grid[i][j] = prefix_sum[i][j]
-            if i>0:
+            if i > 0:
                 grid[i][j] -= prefix_sum[i-1][j]
-            if j>0:
+            if j > 0:
                 grid[i][j] -= prefix_sum[i][j-1]
-            if i>0 and j>0:
+            if i > 0 and j > 0:
                 grid[i][j] += prefix_sum[i-1][j-1]
     return grid
 ```
