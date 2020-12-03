@@ -23,7 +23,7 @@ This is DP, the _recursive_ version.
 
 We could use recursion w/ the memoized array to trade time.
 
-`memo` corresponds to Fibonacci series: 1, 1, 2, 3, 5, 8, 13, 21, ...
+`memo` corresponds to Fibonacci series: $1, 1, 2, 3, 5, 8, 13, 21, \cdots$
 
 Complexity:
 
@@ -34,12 +34,12 @@ Complexity:
 def climbStairs(self, n: int) -> int:
 
     def cs(i: int, memo) -> int:
-        if (memo[i]>0): return memo[i]
+        if memo[i] > 0: return memo[i]
         else:
             memo[i] = cs(i-1, memo) + cs(i-2, memo)
             return memo[i]
 
-    memo = [0] * (n+1)
+    memo = [0 for _ in range(n+1)]
     memo[0] = memo[1] = 1
     return cs(n, memo)
 ```
@@ -61,7 +61,7 @@ def climbStairs(self, n: int) -> int:
     arr = []
     arr.append(1)
     arr.append(1)
-    for i in range(2,n+1):
+    for i in range(2, n+1):
         arr.append(arr[i-1] + arr[i-2])
 
     return arr[n]
@@ -80,7 +80,7 @@ This is basically calculating the `n`th Fibonacci number.
 
 ```py
 def climbStairs(self, n: int) -> int:
-    if (n==1): return 1
+    if n == 1: return 1
     a, b = 1, 1
     for i in range(2,n):
         a, b = b, a+b
@@ -89,12 +89,7 @@ def climbStairs(self, n: int) -> int:
 
 ### Matrix Multiplication
 
-Note how to initialize a Python `m` $\times$ `n` matrix: `[[0 for i in range(m)] for j in range(n)]`.
-
-IMPT:
-
-1. Should not do `[[0]*m]*n` since `*` is shallow, not deep, copy
-2. Exponentials should remind us of $\log$ runtime
+Exponentials should remind us of $\log$ runtime.
 
 Complexity:
 
@@ -119,7 +114,7 @@ def climbStairs(self, n: int) -> int:
                 c[i][j] = a[i][0] * b[0][j] + a[i][1] * b[1][j]
         return c
 
-    A = [[1,1], [1,0]]
+    A = [[1, 1], [1, 0]]
     return pow(A,n)[0][0]
 ```
 
@@ -127,7 +122,7 @@ def climbStairs(self, n: int) -> int:
 
 Using Fibonacci formula involving _golden ratio_ is not recommended as the math formula is hard to remember or deduce.
 
-$fib_{n}=\frac{1}{\sqrt{5}}\left(\left(\frac{1+\sqrt{5}}{2}\right)^{n+1}-\left(\frac{1-\sqrt{5}}{2}\right)^{n+1}\right)$
+$$fib_{n}=\frac{1}{\sqrt{5}}\left(\left(\frac{1+\sqrt{5}}{2}\right)^{n+1}-\left(\frac{1-\sqrt{5}}{2}\right)^{n+1}\right)$$
 
 Then take the `int` part of this floating number.
 

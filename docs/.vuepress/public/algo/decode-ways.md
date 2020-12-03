@@ -29,3 +29,27 @@ def numDecodings(self, s: str) -> int:
             dp[i] += dp[i-2]
     return dp[len(s)]
 ```
+
+### Iterative DP (constant space)
+
+```py
+def numDecodings(self, s: str) -> int:
+    if not s:
+        return 0
+
+    fst, snd = 1, 0
+    if s[0] != '0':
+        snd = 1
+
+    for i in range(2, len(s) + 1):
+        temp = snd
+        if s[i-1] == '0':
+            snd = 0
+        two_digits = int(s[i-2:i])
+        if two_digits >= 10 and two_digits <= 26:
+            snd += fst
+        fst = temp
+    return snd
+```
+
+<!-- ### Recursive DP (REDO) -->

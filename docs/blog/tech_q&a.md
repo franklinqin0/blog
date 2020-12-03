@@ -41,8 +41,6 @@ a notation for representing a **fixed value in source code**. Almost all program
 
 https://www.quickprogrammingtips.com/mongodb/mongodb-history.html
 
-## Discriminative vs. Generative Model
+## [Discriminative vs. Generative Model](https://stackoverflow.com/a/879591/6421652)
 
 A discriminative model learns the conditional probability distribution `p(y | x)`, which is the natural distribution for classifying a given example `x` into a class `y`. A generative model learns the joint probability distribution `p(x, y)`, which could be used to generate likely `(x, y)` pairs.
-
-https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-a-discriminative-algorithm
