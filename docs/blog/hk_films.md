@@ -63,13 +63,17 @@ next: mandarin_songs
 Empty your mind, be formless, shapeless — like water. Now you put water in a cup, it becomes the cup; You put water into a bottle it becomes the bottle; You put it in a teapot it becomes the teapot. Now water can flow or it can crash. Be water, my friend!
 :::
 
-和
-
 ::: tip
 The key to immortality is first living a life worth remembering.
 :::
 
-有一次在美国，和一些练摔跤的朋友出去玩，在路上不知为啥就比划起来。许久没压腿，但随便踢了两腿，他们便怕了，互相说，"Come on, don't mess with him. He's Chinese. Remember Bruce Lee?"
+来自[龙争虎斗](https://youtu.be/4O9o4CKTGzQ)的标月之指：
+
+::: tip
+Don't concentrate on the finger or you will miss all that heavenly glory!
+:::
+
+有一次在美国，和一群刚认识的练摔跤的朋友出去玩，在路上不知为啥就比划起来。许久没压腿，但随便踢了两腿，他们便怕了，互相说，"Come on, don't mess with him. He's Chinese. Remember Bruce Lee?"
 
 感谢龙哥，让中国人昂首挺胸地走向世界。更重要的是，龙不止属于中国，更属于世界。
 
