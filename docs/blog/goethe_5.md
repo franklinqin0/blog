@@ -47,22 +47,21 @@ Komparativ: Adjektiv + Endung $\cdots$ + _als_
 (Achtung: ä, ö, ü)
 :::
 
-gern, lieber, am liebsten  
-viel, mehr, am meisten  
-gut, besser, am besten
-
-| 原型          | 比较级                        |
-| ------------- | ----------------------------- |
-| fantasiereich | fantasiereicher               |
-| spät          | später                        |
-| alt           | älter                         |
-| kalt          | kälter                        |
-| lang          | länger                        |
-| jung          | jünger                        |
-| hoch          | <d type="impt" text="höher"/> |
-| groß          | größer                        |
-| gesund        | gesünder                      |
-| oft           | öfter                         |
+| 原型          | 比较级                        | 最高级            |
+| ------------- | ----------------------------- | ----------------- |
+| gern          | lieber                        | liebsten          |
+| viel          | mehr                          | meisten           |
+| gut           | besser                        | besten            |
+| fantasiereich | fantasiereicher               | fantasiereichsten |
+| spät          | später                        | spätersten        |
+| alt           | älter                         | ältesten          |
+| kalt          | kälter                        | kältesten         |
+| lang          | länger                        | längsten          |
+| jung          | jünger                        | jüngsten          |
+| hoch          | <d type="impt" text="höher"/> | höchsten          |
+| groß          | größer                        | größten           |
+| gesund        | gesünder                      | gesündesten       |
+| oft           | öfter                         | öftesten          |
 
 Magst du lieber Tee oder lieber Kaffee?  
 Lieber Tee.

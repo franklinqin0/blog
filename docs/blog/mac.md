@@ -102,9 +102,18 @@ SET NO_PROXY=localhost
 yarn start # or `npm run start`
 ```
 
-### Fish
+### Mute Startup Chime
 
 ```sh
+# mute
+sudo nvram StartupMute=%01
+# unmute
+sudo nvram StartupMute=%00
+```
+
+### Fish Set Path
+
+```fish
 # set path
 set PATH <newdir> $PATH
 ```
