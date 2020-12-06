@@ -446,8 +446,16 @@ der Familienname, -n
 
 ## Sorry / Excuse me
 
-Entschuldigung  
-Entschuldigen Sie bitte  
+询问  
+Entschuldigung / Entschuldigen Sie bitte, wo ist der Bahnhof?
+
+请求帮助  
+Entschuldigung / Entschuldigen Sie bitte, könnten Sie mir helfen?
+
+道歉  
+Entschuldigung Sie bitte für meine Verspätung.  
+Entschuldigung, ich bin verspätet.
+
 Verzeihung  
 Verzeihen Sie bitte
 
