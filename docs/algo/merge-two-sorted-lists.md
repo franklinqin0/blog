@@ -23,7 +23,7 @@ Complexity:
 
 ```py
 def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
-    dummy = ListNode(-1e9)
+    dummy = ListNode(-1)
     curr = dummy
     while l1 or l2:
         if not l1:
@@ -53,7 +53,7 @@ Complexity:
 
 ```py
 def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
-    dummy = ListNode(-1e9)
+    dummy = ListNode(-1)
     curr = dummy
     while l1 and l2:
         if l1.val < l2.val:
@@ -69,7 +69,7 @@ def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
     return dummy.next
 ```
 
-### Recursion (REDO)
+### Recursion
 
 If either `l1` or `l2` is initially `None`, can simply return the non-`None` list. O.w., determine which of `l1` and `l2` has a smaller head, and recursively set the `next` value for that head to the next merge result.
 
@@ -86,7 +86,7 @@ def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
         return l2
     elif not l2:
         return l1
-    elif l1.val<l2.val:
+    elif l1.val < l2.val:
         l1.next = self.mergeTwoLists(l1.next,l2)
         return l1
     else:
