@@ -42,11 +42,6 @@ module.exports = {
         icon: "reco-message",
         items: [
           {
-            text: "RSS",
-            link: "https://franklinqin0.me/rss",
-            icon: "reco-rss"
-          },
-          {
             text: "Email",
             link: "mailto:1372978422@qq.com?subject=I read your blog and here is what I think",
             icon: "reco-mail"
@@ -130,13 +125,6 @@ module.exports = {
       "@maginapp/vuepress-plugin-katex",
       {
         delimiters: "dollars"
-      }
-    ],
-    [
-      "@vuepress-reco/vuepress-plugin-rss",
-      {
-        site_url: "https://franklinqin0.me",
-        count: 20
       }
     ],
     [
