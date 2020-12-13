@@ -12,64 +12,72 @@ Deutsch Notizen vom Goethe Institut - A2 eins.
 
 <!-- more -->
 
-## Kapitel 1
+## Kapitel 1 - Leben und lernen in Europa
 
-| Deutsch          | Englisch     |
-| ---------------- | ------------ |
-| Arbeitslosigkeit | unemployment |
-| zurückgehen      | go back      |
-| wenig            | little       |
-| das Ziel         | destination  |
-| verdienen        | earn         |
-| fantasiereich    | imaginative  |
+### Wörter
 
-| Deutsch                                               | Englisch                                      |
-| ----------------------------------------------------- | --------------------------------------------- |
-| Geld für die Familie verdienen und dann zurückgehen.  | Make money for the family and then go back.   |
-| Die deutsche Sprache hat mich schon immer fasziniert. | The German language has always fascinated me. |
+| Deutsch        | Englisch           |
+| -------------- | ------------------ |
+| laufen         | run                |
+| nennen         | call               |
+| lauten         | pronounce          |
+| erinnern       | remember           |
+| verdienen      | earn               |
+| segeln         | sail               |
+| vorstellen     | introduce          |
+| zurückgehen    | go back            |
+| wenig          | little             |
+| fantasiereich  | imaginative        |
+| herrlich       | marvelous          |
+| darüber        | above              |
+| aufmerksam     | attentive          |
+| der Geruch     | smell, odor        |
+| der Vorteil    | advantage          |
+| der Staat      | state              |
+| der Spiegel    | mirror             |
+| der Grund      | ground, reason     |
+| der Austausch  | exchange           |
+| der Ausbildung | training           |
+| das Ziel       | destination        |
+| das Prost      | 干杯               |
+| die Aussprache | pronunciation      |
+| die Karriere   | career             |
+| die Tatsache   | fact               |
+| die Achtung    | respect, attention |
+| die Verwaltung | government         |
+| die Fabrik     | factory            |
+| wie heute      | as today           |
 
-- Arbeitsplatz
-- Auslandssemester
-- Berufsziel
-- intensivkurs
-- Kooperationspartner
-- Maschinenbau
-- Masterstudium
+#### Wörter zu Studium und Beruf
 
-::: theorem
-Sebastian ist 28 Jahre alt und aus Spanien. Er hat in der Schule Deutsch gelernt, weil er später einen Arbeitsplatz in Deutschland finden möchte. Er hat Marketing studiert und war ein Auslandssemester in München. Dort hat er einen intensivkurs besucht. Jetzt macht er ein Praktikum bei der Firma Henkel. Henkel hat 250 Mitarbeiter. Die wichtigsten Kooperationspartner sind in Linz und in Düsseldorf. Seine Freundin, Gabriella studiert gerade Maschinenbau. Für das Studium dort ist Deutsch ein „Muss”. Sie will später noch ein Masterstudium schaffen.
-:::
+- der Arbeitsplatz
+- der Deutschkurs
+- der Chemiekonzern
+- der gastarbeiter
+- der Intensivkurs
+- der Kooperationspartner
+- der Lebenspartner
+- der Maschinenbau
+- das Auslandssemester
+- das Austauschprogramm
+- das Berufsziel
+- das Masterstudium
+- die Sprachschule
+- die Arbeitslosigkeit
+- die Krisenzeit
+- die Herausforderung
+- die Fremdsprache
 
-### Komparative
+### Sätze
 
-::: theorem Regel
-Komparativ: Adjektiv + Endung $\cdots$ + _als_  
-(Achtung: ä, ö, ü)
-:::
+| Deutsch                                                                            | Englisch                                                              |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| In der Krisenzeit gab es keine Arbeitsplätze für Marketing-Experten.               | In times of crisis there were no jobs for marketing experts.          |
+| In China lernen die meisten Menschen Englisch, weil es wichtig für die Arbeit ist. | In China, most people learn English because it is important for work. |
+| Geld für die Familie verdienen und dann zurückgehen.                               | Make money for the family and then go back.                           |
+| Die deutsche Sprache hat mich schon immer fasziniert.                              | The German language has always fascinated me.                         |
 
-| 原型          | 比较级                        | 最高级            |
-| ------------- | ----------------------------- | ----------------- |
-| gern          | lieber                        | liebsten          |
-| viel          | mehr                          | meisten           |
-| gut           | besser                        | besten            |
-| fantasiereich | fantasiereicher               | fantasiereichsten |
-| spät          | später                        | spätersten        |
-| alt           | älter                         | ältesten          |
-| kalt          | kälter                        | kältesten         |
-| lang          | länger                        | längsten          |
-| jung          | jünger                        | jüngsten          |
-| hoch          | <d type="impt" text="höher"/> | höchsten          |
-| groß          | größer                        | größten           |
-| gesund        | gesünder                      | gesündesten       |
-| oft           | öfter                         | öftesten          |
-
-Magst du lieber Tee oder lieber Kaffee?  
-Lieber Tee.
-
-Trinkst du mehr Cola als Wasser?  
-Ich trinke mehr Wasser.
-
-### Warum - Weil
+#### Warum - Weil
 
 | Warum                                     | Weil                                          |
 | ----------------------------------------- | --------------------------------------------- |
@@ -87,3 +95,59 @@ Ich trinke mehr Wasser.
 | Warum spielst du gern Basketball? | Weil Basketball mir gefällt. |
 | Warum kochst du gern?             | Weil Kochen interessant ist. |
 | Warum magst du kochen?            | Weil Kochen mir Spaß macht.  |
+
+#### Nebensätze mit weil
+
+- Ich habe tanzen gelernt, weil meine Frau gern tanzt.
+- Ich habe Gitarre spielen gelernt, weil ich gern Musik gemacht habe.
+- Ich habe Deutsch gelernt, weil ich in Berlin arbeiten will.
+- Ich spreche oft Deutsch, weil ich es interessant finde.
+
+weil $\cdots$
+
+- es lecker schmeckt.
+- es einfach so lustig ist.
+- es mir gefällt.
+- es mir Spaß macht.
+- ich nicht Rachen mag.
+
+#### lernen vs. suchen
+
+Ich habe Deutsch gelernt.  
+Ich habe Deutschkurs gesucht.
+
+::: theorem
+Sebastian ist 28 Jahre alt und aus Spanien. Er hat in der Schule Deutsch gelernt, weil er später einen Arbeitsplatz in Deutschland finden möchte. Er hat Marketing studiert und war ein Auslandssemester in München. Dort hat er einen intensivkurs besucht. Jetzt macht er ein Praktikum bei der Firma Henkel. Henkel hat 250 Mitarbeiter. Die wichtigsten Kooperationspartner sind in Linz und in Düsseldorf. Seine Freundin, Gabriella studiert gerade Maschinenbau. Für das Studium dort ist Deutsch ein „Muss”. Sie will später noch ein Masterstudium schaffen.
+:::
+
+### Komparativ & Superlativ
+
+::: theorem Regel
+Komparativ: Adjektiv + **er** + _als_  
+Superlativ: am Adjektiv + **sten** | der/das/die Adjektiv + **ste**  
+(Achtung: ä, ö, ü)
+:::
+
+| Grundform     | Komparativ      | Superlativ                                    |
+| ------------- | --------------- | --------------------------------------------- |
+| gern          | lieber          | am liebsten                                   |
+| viel          | mehr            | am meisten, **die meisten**(大多数，默认复数) |
+| gut           | besser          | am besten                                     |
+| fantasiereich | fantasiereicher | am fantasiereichsten                          |
+| spät          | später          | am spätersten                                 |
+| teuer         | **teurer**      | am teuersten                                  |
+| alt           | älter           | am **ältesten**                               |
+| kalt          | kälter          | am **kältesten**                              |
+| lang          | länger          | am längsten                                   |
+| jung          | jünger          | am jüngsten                                   |
+| hoch          | **höher**       | am höchsten                                   |
+| groß          | größer          | am größten                                    |
+| gesund        | gesünder        | am **gesündesten**                            |
+| oft           | öfter           | am öftesten                                   |
+| kurz          | kürzer          | am kürzesten                                  |
+
+Magst du lieber Tee oder lieber Kaffee?  
+Lieber Tee.
+
+Trinkst du mehr Cola als Wasser?  
+Ich trinke mehr Wasser.
