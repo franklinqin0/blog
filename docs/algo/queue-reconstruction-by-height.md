@@ -5,7 +5,7 @@ tags:
   - Greedy
 ---
 
-<img class="medium-zoom" src="/algo/queue-reconstruction-by-height.png" alt="https://www.leetcode.com/problems/queue-reconstruction-by-height">
+<img class="medium-zoom" src="/algo/queue-reconstruction-by-height.png" alt="https://leetcode.com/problems/queue-reconstruction-by-height">
 
 ## Solution
 

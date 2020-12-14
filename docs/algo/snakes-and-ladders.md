@@ -5,7 +5,7 @@ tags:
   - BFS
 ---
 
-<img class="medium-zoom" src="/algo/snakes-and-ladders.png" alt="https://www.leetcode.com/problems/snakes-and-ladders">
+<img class="medium-zoom" src="/algo/snakes-and-ladders.png" alt="https://leetcode.com/problems/snakes-and-ladders">
 
 ## Solution
 
