@@ -55,26 +55,24 @@ def maxSubArray(self, nums: List[int]) -> int:
 
 DP logic:
 
-- if `nums[i-1]>0`, include `i-1`th element
-- if `nums[i-1]<=0`, start a new array from `i`th element
+- if `nums[i-1] > 0`, include `i-1`th element
+- if `nums[i-1] <= 0`, start a new array from `i`th element
 
 Modify the array to track the **current local max sum**, then update the global max sum `res`.
+
+Complexity:
+
+- time: $O(n)$
+- space: $O(1)$
 
 ```py
 def maxSubArray(self, nums: List[int]) -> int:
     n = len(nums)
     res = nums[0]
 
-    for i in range(1,n):
-        if nums[i-1]>0:
+    for i in range(1, n):
+        if nums[i-1] > 0:
             nums[i] += nums[i-1]
         res = max(res, nums[i])
     return res
 ```
-
-### Divide & Conquer (REDO)
-
-Complexity:
-
-- time: $O(n \log n)$
-- space: $O(\log n)$

@@ -26,7 +26,7 @@ def highFive(self, items: List[List[int]]) -> List[List[int]]:
     # transform the nested list into a dict
     dct = defaultdict(list)
     for ID, score in items:
-        # push in topological order
+        # push in lexicographic order
         heappush(dct[ID], score)
         if len(dct[ID]) > 5:
             # pop the smallest item

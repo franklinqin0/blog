@@ -151,3 +151,20 @@ Lieber Tee.
 
 Trinkst du mehr Cola als Wasser?  
 Ich trinke mehr Wasser.
+
+## Kapitel 2 - Familiengeschichten
+
+### Wörter
+
+Hinten ist ein Stift.  
+Hinte dem Stuhl ist ein Stift.
+
+Zu meiner Familie gehören zwei Teile. Ich bin Enizelkind. Meine
+
+## Kapitel 3 - Unterwegs
+
+### Wörter
+
+| Deutsch | Englisch |
+| ------- | -------- |
+| Ankunft | arrival  |
