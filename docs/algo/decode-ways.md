@@ -10,6 +10,8 @@ tags:
 
 ## Solution
 
+Both solutions take linear runtime.
+
 ### Iterative DP (linear space)
 
 ```py
