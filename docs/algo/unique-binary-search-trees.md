@@ -28,7 +28,7 @@ All following solutions use some formula to calculate `n`th Catalan number.
 
 #### Recursive Formula 1 (squared time)
 
-$C_{n}=\sum_{i=1}^n C_{i-1} C_{n-i}$
+$$C_{n}=\sum_{i=1}^n C_{i-1} C_{n-i}$$
 
 ```py
 def numTrees(self, n: int) -> int:
@@ -42,7 +42,7 @@ def numTrees(self, n: int) -> int:
 
 #### Recursive Formula 2 (linear time)
 
-$C_{n}=\frac{2(2n-1)}{n+1} C_{n-1}$
+$$C_{n}=\frac{2(2n-1)}{n+1} C_{n-1}$$
 
 ```py
 def numTrees(self, n: int) -> int:
@@ -54,7 +54,7 @@ def numTrees(self, n: int) -> int:
 
 #### Binomial Coefficients (linear time)
 
-$C_{n}=\frac{1}{n+1} \binom{2n}{n}=\frac{(2n)!}{(n+1)! n!}=\prod_{k=2}^{n} \frac{n+k}{k}$
+$$C_{n}=\frac{1}{n+1} \binom{2n}{n}=\frac{(2n)!}{(n+1)! n!}=\prod_{k=2}^{n} \frac{n+k}{k}$$
 
 ```py
 def numTrees(self, n: int) -> int:

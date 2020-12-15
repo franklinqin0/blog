@@ -20,8 +20,7 @@ Let `i` be the one of `m` eggs, and `j` be one of the `n` floors.
 
 ### Iterative DP (TLE)
 
-The recurrence relation is:
-
+The recurrence relation is:  
 $$dp(i, j) = \min_{1 \le k \le j}\left(\max(dp(i-1, k-1), dp(i, j-k)) \right)$$
 
 #### Explanation on Recurrence Relation
