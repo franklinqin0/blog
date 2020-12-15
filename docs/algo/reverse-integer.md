@@ -20,10 +20,10 @@ Convert to a `str`, reverse the string, and finally convert back to `int`.
 
 Since `ri` is positive, only need to check if $< 2^{31}$.
 
-Complexity:
-
-- time: $O(\log n)$
-- space: $O(\log n)$
+::: theorem Complexity
+time: $O(\log n)$  
+space: $O(\log n)$
+:::
 
 ```py
 def reverse(self, x: int) -> int:
@@ -36,10 +36,10 @@ def reverse(self, x: int) -> int:
 
 Following is a standard way to reverse an int and should be remembered.
 
-Complexity:
-
-- time: $O(\log n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(\log n)$  
+space: $O(1)$
+:::
 
 ```py
 def reverse(self, x: int) -> int:

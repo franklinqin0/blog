@@ -11,18 +11,16 @@ tags:
 
 ## Solution
 
-Let $n$ be size of the string, $m$ the size of the charset/alphabet.
+Let $n$ be size of the string, $m$ the size of the charset/alphabet, and $k$ the size of the HashSet, which is upper bounded by $n$ and $m$.
 
 ### Brute Force
 
 The brute force solution is not shown.
 
-Complexity:
-
-- time: $O(n^3)$
-  - a nested for loop for the sliding window and to check if unique takes $O(n)$ time
-- space: $O(\min(m,n))$
-  - $O(k)$ space for the sliding window, where $k$ is the size of the HashSet, which is upper bounded by $n$ and $m$
+::: theorem Complexity
+time: $O(n^3)$ (a nested for loop for the sliding window and to check if unique takes $O(n)$ time)  
+space: $O(\min(m,n))$ ($O(k)$ space for the sliding window)
+:::
 
 ### Sliding Window Using HashSet
 
@@ -32,11 +30,10 @@ Sliding window logic: `i` is the left boundary and `j` the right boundary. Incre
 
 Invariant: `i`<=`j`
 
-Complexity:
-
-- time: $O(n)$
-  - worst case $O(2n)$: all characters are the same and each will be visited by both $i$ and $j$
-- space: $O(\min(m,n))$
+::: theorem Complexity
+time: $O(n)$ (worst case $O(2n)$: all characters are the same and each will be visited by both $i$ and $j$)  
+space: $O(\min(m,n))$
+:::
 
 ```py
 def lengthOfLongestSubstring(self, s: str) -> int:
@@ -66,10 +63,10 @@ Several optimizations:
 2. `enumerate` `idx` and `val`
 3. `dct` to store the mapping from `val` to `idx`
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(\min(m,n))$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(\min(m,n))$
+:::
 
 ```py
 def lengthOfLongestSubstring(self, s: str) -> int:

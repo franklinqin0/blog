@@ -23,10 +23,10 @@ class TreeNode:
 
 Let $h$ be the height of tree.
 
-Complexity:
-
-- time: $O(h)$
-- space: $O(h)$
+::: theorem Complexity
+time: $O(h)$  
+space: $O(h)$
+:::
 
 ### Iteration I
 

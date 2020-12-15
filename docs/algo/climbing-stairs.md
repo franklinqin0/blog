@@ -25,10 +25,10 @@ We could use recursion w/ the memoized array to trade time.
 
 `memo` corresponds to Fibonacci series: $1, 1, 2, 3, 5, 8, 13, 21, \cdots$
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```py
 def climbStairs(self, n: int) -> int:
@@ -48,10 +48,10 @@ def climbStairs(self, n: int) -> int:
 
 This is DP, the _iterative_ version.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 Initialize `arr` to calculate current value based on the sum of previous two, stepwise towards `n`.
 
@@ -69,10 +69,10 @@ def climbStairs(self, n: int) -> int:
 
 ### Fibonacci Number
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 Then we realize we don't need any values except the previous two, so just keep `a` and `b`.
 
@@ -91,10 +91,10 @@ def climbStairs(self, n: int) -> int:
 
 Exponentials should remind us of $\log$ runtime.
 
-Complexity:
-
-- time: $O(\log n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(\log n)$  
+space: $O(1)$
+:::
 
 ```py
 def climbStairs(self, n: int) -> int:
@@ -126,9 +126,9 @@ $$fib_{n}=\frac{1}{\sqrt{5}}\left(\left(\frac{1+\sqrt{5}}{2}\right)^{n+1}-\left(
 
 Then take the `int` part of this floating number.
 
-Complexity:
-
-- time: $O(\log n)$ due to `pow` method
-- space: $O(1)$
+::: theorem Complexity
+time: $O(\log n)$ (due to `pow` method)  
+space: $O(1)$
+:::
 
 Code is omitted.

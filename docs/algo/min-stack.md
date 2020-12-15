@@ -20,10 +20,10 @@ Note the requirement in the prompt: `constant time`. So need to come up w/ `getM
 
 Since `current_min` is only the minimum seen below current elt and never above, we could store the value/minimum pair into the stack. Note the `not self.stack` base case.
 
-Complexity:
-
-- time: $O(1)$ for all operations
-- space: $O(n)$
+::: theorem Complexity
+time: $O(1)$ for all operations  
+space: $O(n)$
+:::
 
 ```py
 class MinStack:
@@ -58,10 +58,10 @@ Since the minimums would have many duplicates, we could instead use the `self.mi
 
 Note that we should also store when x equals current min. Consider this case: `self.stack` is `[2,1,1]`. If we don't store the 2nd `1` to `self.min_stack`, `getMin` on `[2,1]` would be `2`.
 
-Complexity:
-
-- time: $O(1)$ for all operations
-- space: $O(n)$
+::: theorem Complexity
+time: $O(1)$ for all operations  
+space: $O(n)$
+:::
 
 ```py
 class MinStack:

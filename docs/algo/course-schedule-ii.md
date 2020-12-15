@@ -12,10 +12,10 @@ tags:
 
 This problem is similar to the [previous problem](course-schedule), but returns the `order`ed list of courses to take rather than a boolean to decide if courses can be finished.
 
-Complexity:
-
-- time: $O(V + E)$
-- space: $O(V + E)$
+::: theorem Complexity
+time: $O(V + E)$  
+space: $O(V + E)$
+:::
 
 ```py
 def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:

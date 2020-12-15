@@ -36,10 +36,10 @@ Note:
 - `max` takes into account the _worst case_
 - `min` takes the number of drops for the best way to drop `i`th egg at optimal `k`th floor
 
-Complexity:
-
-- time: $O(KN^2)$
-- space: $O(KN)$
+::: theorem Complexity
+time: $O(KN^2)$  
+space: $O(KN)$
+:::
 
 ```py
 def superEggDrop(self, K, N):

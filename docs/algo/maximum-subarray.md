@@ -35,10 +35,10 @@ Iterate over the array and update at each step:
 - current local maximum sum (at this given point)
 - global maximum sum seen so far
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 ```py
 def maxSubArray(self, nums: List[int]) -> int:
@@ -60,10 +60,10 @@ DP logic:
 
 Modify the array to track the **current local max sum**, then update the global max sum `res`.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 ```py
 def maxSubArray(self, nums: List[int]) -> int:

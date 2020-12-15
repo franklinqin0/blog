@@ -17,10 +17,10 @@ Note:
 2. var `DIRECTIONS` moves `x` or `y` by $1$
 3. method `is_valid` checks if a position `(x,y)` is valid
 
-Complexity:
-
-- time: $O(mn)$ ($O(V+E)$ for BFS)
-- space: $O(mn)$
+::: theorem Complexity
+time: $O(mn)$ ($O(V+E)$ for BFS)  
+space: $O(mn)$
+:::
 
 ```py
 WALL = 1

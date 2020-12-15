@@ -18,10 +18,10 @@ related:
 1. states are like nodes in implicit graph, while `getNext` helps find the neighbor nodes
 2. convert state from matrix to string
 
-Complexity:
-
-- time: $O(V+E)$
-- space: $O(V+E)$
+::: theorem Complexity
+time: $O(V+E)$  
+space: $O(V+E)$
+:::
 
 where $V < E$ and $V$ is at most $9!$.
 

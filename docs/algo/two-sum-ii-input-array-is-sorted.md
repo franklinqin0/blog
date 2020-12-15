@@ -15,10 +15,10 @@ tags:
 
 This is the best and most straightforward solution.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 ```py
 def twoSum(self, nums: List[int], target: int) -> List[int]:
@@ -38,10 +38,10 @@ def twoSum(self, nums: List[int], target: int) -> List[int]:
 
 Like [one-pass HashMap in Two Sum](two-sum.md#one-pass-hashmap), a dictionary is used to store mappings from `val` to `idx`.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```py
 def twoSum(self, nums: List[int], target: int) -> List[int]:
@@ -57,10 +57,10 @@ def twoSum(self, nums: List[int], target: int) -> List[int]:
 
 For each `nums[i]`, use binary search to find `target-nums[i]`.
 
-Complexity:
-
-- time: $O(n \log n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n \log n)$  
+space: $O(1)$
+:::
 
 Note that this solution has slower runtime than previous ones.
 

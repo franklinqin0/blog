@@ -16,10 +16,10 @@ The brute-force solution represents graph as adjacency list.
 
 Note the use of `lamdba` function to sort by **start** time in `sorted` method.
 
-Complexity:
-
-- time: $O(n\log n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n\log n)$  
+space: $O(1)$
+:::
 
 ```py
 def merge(self, intervals: List[List[int]]) -> List[List[int]]:

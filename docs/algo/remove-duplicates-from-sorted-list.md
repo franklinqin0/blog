@@ -15,10 +15,10 @@ related:
 
 As the input list is sorted, we can compare `curr.va` w/ `curr.next.val`. If same, skip the duplicate; otherwise, go to `curr.next`.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 ```py
 def deleteDuplicates(self, head: ListNode) -> ListNode:
@@ -32,6 +32,11 @@ def deleteDuplicates(self, head: ListNode) -> ListNode:
 ```
 
 ### Recursion
+
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$ (due to implicit stack space)
+:::
 
 ```py
 def deleteDuplicates(self, head: ListNode) -> ListNode:

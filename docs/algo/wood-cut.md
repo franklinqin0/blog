@@ -15,10 +15,10 @@ Let $n$ be the length of `L`.
 
 Initialize `start` and `end` of binary search to be `1` and `max(L)`, respectively. Then do binary search and cut search space in half. Caveat is to choose btw `start` and `end` that returns `k` pieces cut.
 
-Complexity:
-
-- time: $O(n\log n)$ (binary search has $O(\log n)$ iterations, `piece` takes )
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n\log n)$ (binary search has $O(\log n)$ iterations, `piece` takes )  
+space: $O(1)$
+:::
 
 ```py
 def woodCut(self, L, k):

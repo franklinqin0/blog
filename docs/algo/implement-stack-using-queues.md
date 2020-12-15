@@ -17,10 +17,10 @@ There is no need to implement using 2 queues, as a queue does not change the ord
 
 There are 2 similar implementations w/ similar runtime: built-in list `[]` or `collections.deque`.
 
-Complexity:
-
-- time: push $O(1)$, pop $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: push $O(1)$, pop $O(n)$  
+space: $O(1)$
+:::
 
 #### Built-in List
 

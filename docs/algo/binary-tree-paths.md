@@ -23,10 +23,10 @@ class TreeNode(object):
 
 ## Solution
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$ due to implicit stack space
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$ due to implicit stack space
+:::
 
 ```py
 def binaryTreePaths(self, root: TreeNode) -> List[str]:

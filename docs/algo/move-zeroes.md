@@ -18,10 +18,10 @@ In the 1st for loop, set `nums[non_zero]` as `nums[i]` if non-zero. In the 2nd f
 
 This method is good if `nums` does not have many zeros.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 ```py
 def moveZeroes(self, nums: List[int]) -> None:

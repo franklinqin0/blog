@@ -13,10 +13,10 @@ Let $N$ be the number of cells in the board and $L$ be the length of the word to
 
 ### Backtracking
 
-Complexity:
-
-- time: $O(N \cdot 3^L)$
-- space: $O(L)$
+::: theorem Complexity
+time: $O(N \cdot 3^L)$  
+space: $O(L)$
+:::
 
 ```py
 def exist(self, board: List[List[str]], word: str) -> bool:

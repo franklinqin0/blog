@@ -1,5 +1,6 @@
 ---
 title: Add to Array-Form of Integer
+diff: easy
 tags:
   - Array
 ---
@@ -14,10 +15,10 @@ There are solutions to append the carry to result and reverse before return but 
 
 Add `K` to last element in `A`, do bitwise addition, then handle the carry.
 
-Complexity:
-
-- time: $O(max(n,\log K))$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(max(n,\log K))$  
+space: $O(1)$
+:::
 
 where `n` is length of `A`.
 

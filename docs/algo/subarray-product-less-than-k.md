@@ -16,10 +16,10 @@ tags:
 
 Every step `right` goes 1 step to the right. `left` is the smallest value so that the product in the window `prod = nums[left] * nums[left + 1] * ... * nums[right]` is less than `k`. The number of subarrays w/ `right` boundary is `right - left + 1` and added to `res`.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 ```py
     def numSubarrayProductLessThanK(self, nums: List[int], k: int) -> int:

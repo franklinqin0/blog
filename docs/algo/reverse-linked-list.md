@@ -27,10 +27,10 @@ This problem is very basic yet IMPT. It can be solved both **iteratively** or **
 
 It's quite IMPT to understand and remember the steps in while loop.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 ```py
 def reverseList(self, head: ListNode) -> ListNode:
@@ -69,10 +69,10 @@ Also avoid the cycle by setting $n_k$'s `next` to `None`: $n_k$`.next` = `None`
 
 Note that I set `head` to `curr` to avoid confusion. `hd` is the actual head of reversed linked list.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$ due to implicit stack space
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$ due to implicit stack space
+:::
 
 ```py
 def reverseList(self, head: ListNode) -> ListNode:

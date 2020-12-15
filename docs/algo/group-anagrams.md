@@ -16,10 +16,10 @@ Let $n$ be the length of `strs`, and $k$ the maximum length of a string in `strs
 
 Sorting each string takes $O(k \log k)$ time. The for loop does it $n$ times.
 
-Complexity:
-
-- time: $O(nk \log k)$
-- space: $O(nk)$
+::: theorem Complexity
+time: $O(nk \log k)$  
+space: $O(nk)$
+:::
 
 ```py
 from collections import defaultdict
@@ -35,10 +35,10 @@ def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
 
 Counting each string is $O(k)$. The for loop does it $n$ times.
 
-Complexity:
-
-- time: $O(nk)$
-- space: $O(nk)$
+::: theorem Complexity
+time: $O(nk)$  
+space: $O(nk)$
+:::
 
 ```py
 from collections import defaultdict

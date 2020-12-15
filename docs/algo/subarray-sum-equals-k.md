@@ -32,10 +32,10 @@ The following two $O(n^2)$ time solutions would TLE in Python but might pass in 
 
 Calculate prefix sum in $O(n)$ time beforehand, so that `csum` can be obtained in $O(1)$ time.
 
-Complexity:
-
-- time: $O(n^2)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n^2)$  
+space: $O(n)$
+:::
 
 ```py
 def subarraySum(self, nums: List[int], k: int) -> int:
@@ -62,10 +62,10 @@ def subarraySum(self, nums: List[int], k: int) -> int:
 
 Calculate `csum` cumulatively.
 
-Complexity:
-
-- time: $O(n^2)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n^2)$  
+space: $O(1)$
+:::
 
 ```py
 def subarraySum(self, nums: List[int], k: int) -> int:
@@ -88,10 +88,10 @@ If `nums[i]` summing to `nums[j]` equals `k`, `prefix_sum[i] == prefix_sum[j] - 
 
 The following three solutions are all from [this post](https://leetcode.com/problems/subarray-sum-equals-k/discuss/102111/Python-Simple-with-Explanation). The last two using `Counter` are a bit of overhaul and [vanilla HashMap](#vanilla-hashmap) is good enough.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 #### Vanilla HashMap
 

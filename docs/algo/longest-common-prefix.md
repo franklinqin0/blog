@@ -19,12 +19,14 @@ Initialize `lcp` as `strs[0]`, then iterate thru `strs[1:]` and truncate `lcp` b
 
 The commented line handles the case when only 1 string is in list. Not needed for this solution, but important for following ones.
 
-Complexity:
+::: theorem Complexity
+time: $O(S)$
 
-- time: $O(S)$
-  - best case: there are at most $n \times minLen$ comparisons ($minLen$ is the length of the shortest string in the array)
-  - worst case: all `n` strings are the same
-- space: $O(1)$
+- best case: there are at most $n \times minLen$ comparisons ($minLen$ is the length of the shortest string in the array)
+- worst case: all `n` strings are the same
+
+space: $O(1)$
+:::
 
 ```py
 def longestCommonPrefix(self, strs: List[str]) -> str:
@@ -44,12 +46,14 @@ Vertically scan thru `strs[1:]` to see if each string has the `i`th char is the 
 
 Similar to [horizontal scanning](#horizontal-scanning), vertical scanning has same time & space complexity.
 
-Complexity:
+::: theorem Complexity
+time: $O(S)$
 
-- time: $O(S)$
-  - best case: `strs[0] == ""`
-  - worst case: all `n` strings are the same (same as that in [Horizontal Scanning](#horizontal-scanning))
-- space: $O(1)$
+- best case: `strs[0] == ""`
+- worst case: all `n` strings are the same (same as that in [Horizontal Scanning](#horizontal-scanning))
+
+space: $O(1)$
+:::
 
 ```py
 def longestCommonPrefix(self, strs: List[str]) -> str:
@@ -68,10 +72,10 @@ def longestCommonPrefix(self, strs: List[str]) -> str:
 
 Sort `strs` s.t. elements are in alphabetical order. Then `zip` the 1st and last strings to extract the `lcp`. Very elegant solution!
 
-Complexity:
-
-- time: $O(n \log n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n \log n)$  
+space: $O(1)$
+:::
 
 ```py
 def longestCommonPrefix(self, strs: List[str]) -> str:

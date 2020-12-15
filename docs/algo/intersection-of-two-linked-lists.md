@@ -25,10 +25,10 @@ The brute force solution of squared time complexity is omitted.
 
 ### HashSet
 
-Complexity:
-
-- time: $O(m + n)$
-- space: $O(m)$
+::: theorem Complexity
+time: $O(m + n)$  
+space: $O(m)$
+:::
 
 ```py
 def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> ListNode:
@@ -47,10 +47,10 @@ def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> ListNode:
 
 ### Two Pointers
 
-Complexity:
-
-- time: $O(m + n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(m + n)$  
+space: $O(1)$
+:::
 
 If you switch head, the possible difference between length would be counted. On the second traversal, `pA` and `pB` either hit or miss. If they meet, either node can be returned. Otherwise, they will hit at the end in the 2nd iteration, `pA == pB == None`, and return either one of them is the same: `None`.
 

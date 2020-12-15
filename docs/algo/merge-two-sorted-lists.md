@@ -16,10 +16,10 @@ This problem can be solved in either **iteration** or **recursion**.
 
 Do all the appending in while loop, and return `dummy.next` at the end.
 
-Complexity:
-
-- time: $O(n+m)$
-- complexity: $O(1)$
+::: theorem Complexity
+time: $O(n + m)$  
+space: $O(1)$
+:::
 
 ```py
 def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
@@ -46,10 +46,10 @@ def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
 
 Once either `l1` or `l2` is `None`, exit while loop, append the non-`None` list and return `dummy.next`.
 
-Complexity:
-
-- time: $O(n+m)$
-- complexity: $O(1)$
+::: theorem Complexity
+time: $O(n + m)$  
+space: $O(1)$
+:::
 
 ```py
 def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
@@ -75,10 +75,10 @@ If either `l1` or `l2` is initially `None`, can simply return the non-`None` lis
 
 The recursion will eventually terminate b/c each time the input is smaller and end at base case of 1 of 2 lists being `None`.
 
-Complexity:
-
-- time: $O(n+m)$
-- complexity: $O(n+m)$ due to implicit stack space
+::: theorem Complexity
+time: $O(n+m)$
+space: $O(n+m)$ (due to implicit stack space)
+:::
 
 ```py
 def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:

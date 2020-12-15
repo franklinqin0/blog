@@ -16,10 +16,10 @@ Let $n$ be the length of `s`, and $m$ be the number of words in `wordDict`.
 
 ### DFS (TLE)
 
-Complexity:
-
-- time: $O(n^m)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n^m)$  
+space: $O(n)$
+:::
 
 ```py
 def wordBreak(self, s: str, wordDict: List[str]) -> bool:
@@ -40,10 +40,10 @@ def wordBreak(self, s: str, wordDict: List[str]) -> bool:
 
 ### DFS w/ Memoization
 
-Complexity:
-
-- time: $O(nm)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(nm)$  
+space: $O(n)$
+:::
 
 ```py
 def wordBreak(self, s: str, wordDict: List[str]) -> bool:

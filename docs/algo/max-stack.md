@@ -20,10 +20,10 @@ See the easier related problem [Min Stack](min_stack.md).
 
 It's actually **not that straightforward** to generalize from the [vanilla min stack solution](min_stack#stack-of-val-min-pairs), as the additional function `popMax` requires storing elements above the max into `tmp` and pushing back after popping the max.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```py
 class MaxStack:

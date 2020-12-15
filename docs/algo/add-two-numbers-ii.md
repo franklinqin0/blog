@@ -21,10 +21,10 @@ Among the following solutions, [1st](#reverse-linked-list-diy-listnode-adder) so
 
 Create a nested function `reverseList`(similar as in [reverse linked list](reverse-linked-list)) to reverse the two input linked list and then construct a ListNode adder(similar as in [add two numbers](add-two-numbers)).
 
-Complexity:
-
-- time: $O(m+n)$
-- space: $O(1)$ due to no extra space
+::: theorem Complexity
+time: $O(m + n)$  
+space: $O(1)$ due to no extra space
+:::
 
 where `m` is the number of nodes in `l1` and `n` is the number of nodes in `l2`.
 
@@ -70,10 +70,10 @@ There are two ways: **stack** and **recursion**.
 
 Initialize two stacks for `l1` and `l2` respectively: `l1_stack` and `l2_stack`. After appending, I then pop each stack and calculate the sum. Note that now sum is also reversed, so the way to construct is different from previous question.
 
-Complexity:
-
-- time: $O(m+n)$
-- space: $O(1)$ due to extra space of 2 stacks
+::: theorem Complexity
+time: $O(m+n)$  
+space: $O(1)$ due to extra space of 2 stacks
+:::
 
 ```py
 def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
@@ -95,10 +95,10 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
     carry = 0
 
     while i<l1_len or j<l2_len or carry:
-        if i<l1_len:
+        if i < l1_len:
             carry += l1_stack.pop()
             i += 1
-        if j<l2_len:
+        if j < l2_len:
             carry += l2_stack.pop()
             j += 1
         temp = ListNode(carry%10)
@@ -117,10 +117,10 @@ Frankly, I copied most of the following code, as the recursive function `add_lis
 2. **IMPT**: recursively add two lists and return `head` and `new_carry`. Note that `diff` decreases only when `ln1` is longer than `ln2`
 3. if there is a leftmost carry, make it head and return
 
-Complexity:
-
-- time: $O(m+n)$
-- space: $O(1)$ due to implicit stack space
+::: theorem Complexity
+time: $O(m+n)$  
+space: $O(1)$ due to implicit stack space
+:::
 
 ```py
 def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
@@ -134,7 +134,7 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
     def add_lists(ln1: ListNode, ln2: ListNode, diff: int) -> (ListNode, int):
         if ln1 is None and ln2 is None:
             return None, 0
-        if diff>0:
+        if diff > 0:
             # currently ln1 is longer than ln2
             # move the pointer at list1 to n1.next, don't move the pointer at list2
             next_node, carry = add_lists(ln1.next, ln2, diff-1)

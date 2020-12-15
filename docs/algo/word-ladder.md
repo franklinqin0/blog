@@ -34,10 +34,11 @@ Note that `dict` should be a HashSet; otherwise the `next_word not in dict` chec
 
 Helper method `get_next_words` outputs an array of all possible `next_words` of current `word`. Its time complexity is $O(26*L^2) = O(L^2)$ b/c there are $O(L)$ iterations, slicing a string causes $O(L)$ time, and the size of English alphabet is $26$. The space complexity is $O(25*L)$.
 
-Complexity:
+<!-- TODO: ::: theorem Complexity
+time: ??? 4/5
 
-- time: ??? 4/5
-- space:
+space:
+::: -->
 
 ### Layered BFS w/ HashSet
 

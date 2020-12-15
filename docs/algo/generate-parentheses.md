@@ -14,9 +14,9 @@ related:
 ## Solution
 
 Complexity (bounded by the `n`-th Catalan number $\frac{1}{n+1} \binom{2n}{n} \le \frac{4^n}{\sqrt{n}}$):
-
-- time: $O(\frac{4^n}{\sqrt{n}})$
-- space: $O(\frac{4^n}{\sqrt{n}})$ due to implicit stack space
+time: $O(\frac{4^n}{\sqrt{n}})$  
+space: $O(\frac{4^n}{\sqrt{n}})$ (due to implicit stack space)
+:::
 
 ```py
 def generateParenthesis(self, n: int) -> List[str]:

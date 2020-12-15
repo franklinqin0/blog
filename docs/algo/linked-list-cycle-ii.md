@@ -25,10 +25,10 @@ This problem follows [Linked List Cycle](linked_list_cycle), which asks if there
 
 Use HashSet `st` to store mappings from `ListNode` to index.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```py
 def detectCycle(self, head: ListNode) -> ListNode:
@@ -58,10 +58,10 @@ $$2(F+a) = F+a+b+a$$
 $$2F+2a = F+2a+b$$
 $$F = b$$
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 ```py
 def detectCycle(self, head: ListNode) -> ListNode:

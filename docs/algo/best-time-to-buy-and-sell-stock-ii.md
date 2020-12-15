@@ -16,10 +16,10 @@ Note that the number of transactions is not limited.
 
 If today's price is higher than yesterday's, then transact. This may not guarantee the least number of transactions, but can for the maximum profit.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 ```py
 def maxProfit(self, prices: List[int]) -> int:

@@ -25,10 +25,10 @@ nums = [3,2,4]
 target = 6
 ```
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 where $n$ is the length of `nums`.
 
@@ -55,10 +55,10 @@ Note:
 - the `return` order is reversed, as the `complement` is later seen than `val`
 - `idx!=hm[complement]` condition to return is no longer needed because it's **always true** in a single for loop
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```py
 def twoSum(self, nums: List[int], target: int) -> List[int]:
@@ -75,10 +75,10 @@ def twoSum(self, nums: List[int], target: int) -> List[int]:
 
 Create `nums_sorted` to sort `nums` and store mappings from `val` to `idx` in `List[(int, int)]` format. Then use two pointers to search for matching indices.
 
-Complexity:
-
-- time: $O(n\log n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n\log n)$  
+space: $O(n)$
+:::
 
 ```py
 def twoSum(self, nums: List[int], target: int) -> List[int]:

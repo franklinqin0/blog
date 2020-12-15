@@ -30,10 +30,10 @@ Base conditions for DFS recursion:
 
 If we don't have the condition `if pos>steps` to eliminate branches, would TLS on input `steps = 15`, `arrLen = 8`.
 
-Complexity:
-
-- time: $O(3^n)$
-- space: $O(3^n)$ (implicit stack space is the max width of tree)
+::: theorem Complexity
+time: $O(3^n)$  
+space: $O(3^n)$ (implicit stack space is the max width of tree)
+:::
 
 ```py
 def numWays(self, steps: int, arrLen: int) -> int:

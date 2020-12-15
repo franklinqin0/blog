@@ -17,10 +17,10 @@ In Python, stack is `[]` and dictionary is `{}`.
 
 Add `'('`, `'{'`, `'['` into `stack`, if the corresponding closing sign matches with stack top, pop the stack. Finally, check if stack is empty.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 where `n` is the length of `s`.
 

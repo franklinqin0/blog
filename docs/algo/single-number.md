@@ -21,10 +21,10 @@ The [bit manipulation](#bit-manipulation) solution is most elegant.
 
 Add to `set` if `num` is not seen yet, otherwise remove it. At the end, `set` only has 1 element, so just `pop` it.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$ b/c of `set`
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$ (due to `set`)
+:::
 
 ```py
 def singleNumber(self, nums: List[int]) -> int:
@@ -41,10 +41,10 @@ def singleNumber(self, nums: List[int]) -> int:
 
 Say `c` is the single number while `a` and `b` appear twice. Then $2*(a+b+c)−(a+a+b+b+c)=c$.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$ b/c of `set`
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$ (due to `set`)
+:::
 
 ```py
 def singleNumber(self, nums: List[int]) -> int:
@@ -59,10 +59,10 @@ def singleNumber(self, nums: List[int]) -> int:
 - `a^a = 0`
 - `a^b^a = (a^a)^b = 0^b = b`
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 ```py
 def singleNumber(self, nums: List[int]) -> int:

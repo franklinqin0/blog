@@ -22,10 +22,10 @@ Convert an input array into HashSet and then to compare the tripled sum of the s
 
 $3 \times (a + b + c) - (a + a + a + b + b + b + c) = 2c$
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```py
 def singleNumber(self, nums):

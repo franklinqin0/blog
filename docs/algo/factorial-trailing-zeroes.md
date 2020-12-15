@@ -21,10 +21,10 @@ For a factorial, the number of `2`'s is definitely more than that of `5`'s.
 
 Thus, the number of `5`'s $=$ the number of `10`'s $=$ the number of trailing zeros.
 
-Complexity:
-
-- time: $O(\log n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(\log n)$  
+space: $O(1)$
+:::
 
 ```py
 def trailingZeroes(self, n: int) -> int:

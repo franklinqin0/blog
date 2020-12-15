@@ -12,8 +12,10 @@ tags:
 
 All the following 3 solutions have the same complexities:
 
-- time: $O(n-L) = O(n)$ for $L=10$
-- space: $O(n-L) = O(n)$ for $L=10$
+::: theorem Complexity
+time: $O(n-L) = O(n)$ for $L=10$  
+space: $O(n-L) = O(n)$ for $L=10$
+:::
 
 ### Sliding Window & HashSet
 

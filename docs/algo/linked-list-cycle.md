@@ -25,10 +25,10 @@ The next problem is [Linked List Cycle II](linked_list_cycle_ii), which asks for
 
 Use the HashSet `st` to see if `curr` has been visited before.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```py
 def hasCycle(self, head: ListNode) -> bool:
@@ -51,10 +51,10 @@ def hasCycle(self, head: ListNode) -> bool:
 
 Use two pointers, `slow` and `fast`, to traverse the linked list and see if they eventually meet.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 #### `slow is not fast`
 

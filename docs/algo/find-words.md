@@ -21,10 +21,10 @@ The first method is best among the following three.
 
 Go from back to front, `nextpos[i][j]` is the next position of char `j` after `str[i]`. If `str[i]==j`, then `nextpos[i][j] = i`.
 
-Complexity:
-
-- time: $O(\max(n,m))$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(\max(n, m))$  
+space: $O(n)$
+:::
 
 ```py
 def findWords(self, str, dict):
@@ -63,10 +63,10 @@ def findWords(self, str, dict):
 
 `index` records the matched position of words in `dict`. Search across `str`, if `index[j]` is at least as long as length of current word, then word is already matched. Else if char `str[i]` is equal to next char of word `j`, increment `index[j]` by 1. Note that we can't just append word to `res` as soon as `index[j] >= len(dict[j])`, as the problem requires `res` to be in dictionary order.
 
-Complexity:
-
-- time: $O(n*m)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n * m)$  
+space: $O(n)$
+:::
 
 ```py
 def findWords(self, str, dict):
@@ -91,10 +91,10 @@ Helper function `binary_search` searches for `cur_index` in sorted `char_list` a
 
 `mapping` stores mappings from char in `str` to char position. For each word in `dict`, binary searches for `char` in `char_list`.
 
-Complexity:
-
-- time: $O(n*m)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n * m)$  
+space: $O(n)$
+:::
 
 ```py
 def findWords(self, str, dict):

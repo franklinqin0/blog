@@ -128,16 +128,14 @@ class Solution:
         return path
 ```
 
-::: details Bidirectional BFS
-
 ### Bidirectional BFS (REDO)
 
 Instead of doing BFS in 1 direction, we can start from source and destination. A path is found when these 2 searches meet.
 
-Complexity:
-
-- time: $O(V + E)$
-- space: $O(V + E)$
+::: theorem Complexity
+time: $O(V + E)$  
+space: $O(V + E)$
+:::
 
 ```py
 class Solution:
@@ -216,8 +214,6 @@ class Solution:
 
         return True
 ```
-
-:::
 
 ### DP
 

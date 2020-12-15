@@ -15,10 +15,10 @@ Calculate `pow(a,n)`, or $a^n$. Could do in both recursion and iteration.
 
 ### Recursion
 
-Complexity:
-
-- time: $O(\log n)$
-- space: $O(\log n)$
+::: theorem Complexity
+time: $O(\log n)$  
+space: $O(\log n)$
+:::
 
 The following solution actually TLS b/c of highlighted lines, specifically on the following test case:
 
@@ -62,10 +62,10 @@ def myPow(self, a, b):
 
 ### Iteration
 
-Complexity:
-
-- time: $O(\log n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(\log n)$  
+space: $O(1)$
+:::
 
 ```py
 def myPow(self, x: float, n: int) -> float:

@@ -13,10 +13,10 @@ Do not return anything, modify matrix in-place instead.
 
 ### Transpose & Reverse
 
-Complexity:
-
-- time: $O(n^2)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n^2)$  
+space: $O(1)$
+:::
 
 ```py
 def rotate(self, matrix: List[List[int]]) -> None:
@@ -35,10 +35,10 @@ def rotate(self, matrix: List[List[int]]) -> None:
 
 Rotate 4 rectangles in a single loop. Should be quite clear once drawing on scratch paper.
 
-Complexity:
-
-- time: $O(n^2)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n^2)$  
+space: $O(1)$
+:::
 
 ```py
 def rotate(self, matrix: List[List[int]]) -> None:

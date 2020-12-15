@@ -23,10 +23,10 @@ class TreeNode:
 
 For a BST, `root.left.val` < `root.val` < `root.right.val`, so right node updates before the root, which updates before the left.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```py
 class Solution:
@@ -53,10 +53,10 @@ class Solution:
 
 ### Iteration w/ a Stack
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```py
     def convertBST(self, root: TreeNode) -> TreeNode:

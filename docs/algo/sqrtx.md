@@ -19,10 +19,10 @@ Based on the formula (hard to come up with if haven't seen before):
 
 $\sqrt{x} = e^{\frac{1}{2}\log x}$
 
-Complexity:
-
-- time: $O(1)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(1)$  
+space: $O(1)$
+:::
 
 ```py
 from math import e, log
@@ -41,10 +41,10 @@ If $x < 2$, return $x$.
 
 For $x \ge 2$, $\sqrt{x}$ is always smaller than $\frac{x}{2}$ and larger than 0: $0 < a < \frac{x}{2}$.
 
-Complexity:
-
-- time: $O(\log N)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(\log N)$  
+space: $O(1)$
+:::
 
 ```py
 def mySqrt(self, x):

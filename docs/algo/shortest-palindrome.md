@@ -19,10 +19,10 @@ This problem is actually `hard` if trying to implement w/ KMP.
 
 `isPalindrome` takes $O(n)$ time.
 
-Complexity:
-
-- time: $O(n^2)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n^2)$  
+space: $O(n)$
+:::
 
 where `n` is the length of `s`.
 
@@ -49,10 +49,10 @@ public String shortestPalindrome(String s) {
 
 ### RK
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 where `n` is the length of `s`.
 
@@ -82,10 +82,10 @@ public String shortestPalindrome(String s) {
 
 ### KMP (REDO)
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 where `n` is the length of `s`.
 

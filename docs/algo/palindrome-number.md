@@ -15,10 +15,10 @@ Let $n$ be `x`. So there are $O(\log n)$ digits in total.
 
 ### Convert to String & Compare Chars
 
-Complexity:
-
-- time: $O(\log n)$ ($O(1)$ per digit)
-- space: $O(\log n)$ (int `x` is converted to string `s`)
+::: theorem Complexity
+time: $O(\log n)$ ($O(1)$ per digit)  
+space: $O(\log n)$ (int `x` is converted to string `s`)
+:::
 
 ```py
 def isPalindrome(self, x: int) -> bool:
@@ -41,10 +41,10 @@ def isPalindrome(self, x: int) -> bool:
 
 Rather than doing the char comparison in a while loop, use `::-1` in Python to do string reversion and compare w/ `==` operator.
 
-Complexity:
-
-- time: $O(\log n)$
-- space: $O(\log n)$
+::: theorem Complexity
+time: $O(\log n)$  
+space: $O(\log n)$
+:::
 
 ```py
 def isPalindrome(self, x: int) -> bool:
@@ -65,10 +65,10 @@ If `x` is $12321$, at the end of the while loop we get `x` = 12, `ri` = 123. `ri
 
 If `x` is $1221$, at the end of the while loop we get `x` = 12, `ri` = 12, equal to `x`, so returns `True`.
 
-Complexity:
-
-- time: $O(\log n)$ ($O(1)$ per digit)
-- space: $O(1)$ (no string initialized)
+::: theorem Complexity
+time: $O(\log n)$ ($O(1)$ per digit)  
+space: $O(1)$ (no string initialized)
+:::
 
 ```py
 def isPalindrome(self, x: int) -> bool:

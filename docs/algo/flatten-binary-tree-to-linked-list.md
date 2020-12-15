@@ -14,10 +14,10 @@ Let $N$ be the number of nodes in the tree.
 
 ### Recursion
 
-Complexity:
-
-- time: $O(N)$
-- space: $O(N)$
+::: theorem Complexity
+time: $O(N)$  
+space: $O(N)$
+:::
 
 ```py
 def flatten(self, root: TreeNode) -> None:

@@ -56,10 +56,10 @@ def isPowerOfFour(self, n: int) -> bool:
 
 If `n` is a power of 4: $n = 4^x$, then $x = \log_4 n = \frac{1}{2}\log_2 n$. So we simply check if $\log_2 n$ is even.
 
-Complexity:
-
-- time: $O(\log n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(\log n)$  
+space: $O(1)$
+:::
 
 ```py
 def isPowerOfFour(self, n: int) -> bool:
@@ -70,10 +70,10 @@ def isPowerOfFour(self, n: int) -> bool:
 
 First check if `n` is a power of 2 (necessary condition). Further, `n` would have `1` at an even position, such as `0001` or `0100`. So `n & 1010...10` would yield a 0. Note that 32-bit `1010...10` would be `aaaaaaaa` in hex.
 
-Complexity:
-
-- time: $O(\log n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(\log n)$  
+space: $O(1)$
+:::
 
 ```py
 def isPowerOfFour(self, n: int) -> bool:

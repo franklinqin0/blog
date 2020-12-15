@@ -20,10 +20,10 @@ Sorting($O(n \log n)$) was not a good practice in linear time [two sum](two-sum)
 
 Sort and then use two pointers to search for satisfied result. Caveat is to look out for duplicates.
 
-Complexity:
-
-- time: $O(n^2)$
-- space: $O(n^2)$
+::: theorem Complexity
+time: $O(n^2)$  
+space: $O(n^2)$
+:::
 
 ```py
 def threeSum(self, nums: List[int]) -> List[List[int]]:
@@ -65,10 +65,10 @@ Also sort and then use two pointers, but the difference is returning a `set` rat
 
 To eliminate duplicates, [add tuple rather than list](/blog/python.html#list-cannot-be-hashed) to `res` as a HashSet.
 
-Complexity:
-
-- time: $O(n^2)$
-- space: $O(n^2)$
+::: theorem Complexity
+time: $O(n^2)$  
+space: $O(n^2)$
+:::
 
 ```py
 def threeSum(self, nums: List[int]) -> List[List[int]]:

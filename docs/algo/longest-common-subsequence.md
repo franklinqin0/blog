@@ -45,10 +45,10 @@ Thus, this problem should be solved by **DP** (iterative/recursive w/ memoizatio
 
 As explained in [this video](https://youtu.be/NnD96abizww), I construct a matrix to store the _length of longest common subsequence_ seen so far. If the two chars match, `M[i][j]` is `M[i-1][j-1]+1` ; otherwise, it's the max of `M[i-1][j]` and `M[i][j-1]`. At the end of for loop, return `M[-1][-1]`.
 
-Complexity:
-
-- time: $O(nm)$
-- space: $O(nm)$
+::: theorem Complexity
+time: $O(nm)$  
+space: $O(nm)$
+:::
 
 ```py
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
@@ -66,14 +66,14 @@ Complexity:
 
 ### Iterative DP (linear space)
 
-This is similar to [iterative DP](#iterative-dp), but has less space complexity: smaller matrix **only needs previous row** to calculate current row, so only 2 rows are needed.
+This is similar to [iterative DP](#iterative-dp), but has less space ::: theorem Complexity smaller matrix **only needs previous row** to calculate current row, so only 2 rows are needed.
 
 Please note that the commented line `M[0],M[1] = M[1],M[0]` doesn't work because Python list is copy **by reference**, not **by value**.
 
-Complexity:
-
-- time: $O(nm)$
-- space: $O(\min(n,m))$
+::: theorem Complexity
+time: $O(nm)$  
+space: $O(\min(n, m))$
+:::
 
 ```py
 def longestCommonSubsequence(self, text1: str, text2: str) -> int:

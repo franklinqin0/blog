@@ -16,10 +16,10 @@ Let $n$ be the length of string `s`.
 
 ### Brute Force
 
-Complexity:
-
-- time: $O(n^3)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n^3)$  
+space: $O(1)$
+:::
 
 The `brute force` solution can be further optimized to `expand around center` by expanding one char at a time in left and right direction under odd and even cases.
 
@@ -58,10 +58,10 @@ The base cases are:
 
 Both the recurrence relation and base cases can be combined into `dp[i][j] = s[i] == s[j] and (j - i < 3 or dp[i+1][j-1])`.
 
-Complexity:
-
-- time: $O(n^2)$
-- space: $O(n^2)$
+::: theorem Complexity
+time: $O(n^2)$  
+space: $O(n^2)$
+:::
 
 ```py
 def longestPalindrome(self, s: str) -> str:
@@ -80,10 +80,10 @@ def longestPalindrome(self, s: str) -> str:
 
 A palindrome mirrors around its center. The center for odd-length palindrome is the central character. The center for even-length palindrome is between the central 2 characters. There are $2n - 1$ such centers and expanding around each center takes linear time.
 
-Complexity:
-
-- time: $O(n^2)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n^2)$  
+space: $O(1)$
+:::
 
 ```py
 def longestPalindrome(self, s: str) -> str:
@@ -113,10 +113,10 @@ This algorithm basically inclues some smart improvements on [Expand around Cente
 
 As each element is traversed at most twice, the time complexity is linear.
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```java
 public String longestPalindrome(String s) {

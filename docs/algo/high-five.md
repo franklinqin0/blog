@@ -13,10 +13,10 @@ tags:
 
 ### Priority Queue
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(n)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```py
 from collections import defaultdict

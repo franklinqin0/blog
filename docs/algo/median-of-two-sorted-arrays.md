@@ -15,10 +15,10 @@ Let $m$ be the length of `nums1` and $n$ be the length of `nums2`.
 
 Merge `nums1` and `nums2` into sorted `nums`, and find the median.
 
-Complexity:
-
-- time: $O(m + n)$
-- space: $O(m + n)$
+::: theorem Complexity
+time: $O(m + n)$  
+space: $O(m + n)$
+:::
 
 ```py
 def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
@@ -42,12 +42,12 @@ def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
 
 ### Binary Search
 
-<!-- Complexity: -->
-
 [This video](https://youtu.be/LPFhl65R7ww) explains well.
 
-- time: $O(\log(\min(m, n)))$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(\log(\min(m, n)))$  
+space: $O(1)$
+:::
 
 ```py
 def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:

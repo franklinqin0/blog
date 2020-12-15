@@ -35,10 +35,10 @@ Please note that one modulus is calculated before 2nd while loop because Python 
 
 Please refer to the [next solution](#listnode-adder) for the dummy head approach to avoid the `do` part before while loop.
 
-Complexity:
-
-- time: $O(\max(m,n))$
-- space: $O(\max(m,n))$
+::: theorem Complexity
+time: $O(\max(m,n))$  
+space: $O(\max(m,n))$
+:::
 
 where `m` is the number of nodes in `l1` and `n` is the number of nodes in `l2`.
 
@@ -92,7 +92,7 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
 
 ### While Loop (REDO)
 
-The `if {foo}!=None then {bar}` thing looks quite ugly. A while loop with 2 if statements is cleaner.
+The `if {foo} != None then {bar}` thing looks quite ugly. A while loop with 2 if statements is cleaner.
 
 ```py
 def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:

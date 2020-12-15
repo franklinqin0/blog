@@ -21,10 +21,10 @@ Note that it takes $O(n)$ time to check if a person is a celebrity.
 
 Check if each person is a celebrity.
 
-Complexity:
-
-- time: $O(n^2)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n^2)$  
+space: $O(1)$
+:::
 
 ```py
 def findCelebrity(self, n):
@@ -48,10 +48,10 @@ We then check if:
 1. everyone else knows the `candidate`
 2. the `candidate` knows no one else
 
-Complexity:
-
-- time: $O(n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 ```py
 def findCelebrity(self, n):

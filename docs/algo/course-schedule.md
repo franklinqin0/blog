@@ -11,10 +11,10 @@ tags:
 
 ## Solution
 
-Complexity:
-
-- time: $O(V + E)$
-- space: $O(V + E)$
+::: theorem Complexity
+time: $O(V + E)$  
+space: $O(V + E)$
+:::
 
 ```py
 def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:

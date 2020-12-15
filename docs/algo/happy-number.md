@@ -25,10 +25,10 @@ So we need to detect if there is a cycle.
 
 ### Detect Cycles w/ HashSet
 
-Complexity:
-
-- time: $O(\log n)$
-- space: $O(\log n)$ due to the HashSet
+::: theorem Complexity
+time: $O(\log n)$  
+space: $O(\log n)$ due to the HashSet
+:::
 
 ```py
 def isHappy(self, n: int) -> bool:
@@ -54,10 +54,10 @@ Floyd's Cycle-Finding Algorithm has _2 runners_: `slow` and `fast`. For each ste
 
 If `n` is a happy number, `fast` will eventually get to `1`. Else, `slow` and `fast` will equal.
 
-Complexity:
-
-- time: $O(\log n)$
-- space: $O(1)$
+::: theorem Complexity
+time: $O(\log n)$  
+space: $O(1)$
+:::
 
 ```py
 def isHappy(self, n: int) -> bool:
