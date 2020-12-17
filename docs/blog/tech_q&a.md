@@ -44,3 +44,9 @@ https://www.quickprogrammingtips.com/mongodb/mongodb-history.html
 ## [Discriminative vs. Generative Model](https://stackoverflow.com/a/879591/6421652)
 
 A discriminative model learns the conditional probability distribution `p(y | x)`, which is the natural distribution for classifying a given example `x` into a class `y`. A generative model learns the joint probability distribution `p(x, y)`, which could be used to generate likely `(x, y)` pairs.
+
+## [difference between fit and fit_transform in scikit-learn models](https://datascience.stackexchange.com/a/12346)
+
+#very sklearn's transform's `fit()` just calculates the parameters and saves them as an internal object's state. Afterwards, you can call its `transform()` method to apply the transformation to any particular set of examples.
+
+`fit_transform()` joins these two steps and is used for the initial fitting of parameters on the training set $x$, while also returning the transformed $x'$. Internally, the transformer object just calls first `fit()` and then `transform()` on the same data.

@@ -102,7 +102,7 @@ SET NO_PROXY=localhost
 yarn start # or `npm run start`
 ```
 
-### Mute Startup Chime
+### Mute/Unmute Startup Chime
 
 ```sh
 # mute
