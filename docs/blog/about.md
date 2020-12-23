@@ -25,4 +25,6 @@ I developed a course scheduling system for my high school during summer 2020.
 
 I am now a cognitive science master student studying at TU Darmstadt.
 
+I will transfer to TU München doing the Informatik master in summer 2021.
+
 I love writing blogs in [Markdown](https://daringfireball.net/projects/markdown/syntax), b/c it's simple and down-to-earth, just like me.
