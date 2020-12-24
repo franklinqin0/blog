@@ -6,6 +6,7 @@ categories:
 tags:
   - Deutsch
 last: goethe_4
+next: goethe_6
 ---
 
 Deutsch Notizen vom Goethe Institut - A2 eins.
@@ -171,20 +172,20 @@ Zu meiner Familie gehören zwei Teile. Ich bin Enizelkind. Meine
 
 ## Einhalt 4
 
-Seite 57: eine Reise planen und buchen
-
-V: Guten Tag.  
-K: Guten Tag. Ich brauche zwei Flugtickets nach Amsterdam.  
-V: **Fliegen** Sie him und zurück?  
-K: Ja, wir **fliegen** am 03. Mai hin und am 05. Mai zurück. Geht das?  
-V: Ja, das geht. **Abflug** am 03. Mai um 11:45 von Frankfurt. Dann sind Sie um 12.55 Uhr in Amsterdam. Der **Rückflug** ist am 05. Mai um 18:50 von Amsterdam mit **Ankunft** in Frankfurt um 20 Uhr.  
-K: Was kosten die Flugtickets?  
-V: 129,18 Euro pro Person. Soll ich den Flug reservieren?  
-K: Ja, bitte.  
-V: Zahlen Sie mit Kreditkarte oder bar?  
-K: Mit Kreditkarte. Bitte.  
-V: hier sind ihre Flugtickets.  
-K: Danke schön.
+::: theorem eine Reise planen und buchen
+**V:** Guten Tag.  
+**K:** Guten Tag. Ich brauche zwei Flugtickets nach Amsterdam.  
+**V:** **Fliegen** Sie hin und zurück?  
+**K:** Ja, wir **fliegen** am 03. Mai hin und am 05. Mai zurück. Geht das?  
+**V:** Ja, das geht. **Abflug** am 03. Mai um 11.45 von Frankfurt. Dann sind Sie um 12.55 Uhr in Amsterdam. Der **Rückflug** ist am 05. Mai um 18.50 von Amsterdam mit Ankunft** in Frankfurt um 20 Uhr.  
+**K:** Was kosten die Flugtickets?  
+**V:** 129,18 Euro pro Person. Soll ich den Flug reservieren?  
+**K:** Ja, bitte.  
+**V:** Zahlen Sie mit Kreditkarte oder bar?  
+**K:** Mit Kreditkarte, bitte.  
+**V:** Hier sind ihre Flugtickets.  
+**K:\*\* Danke schön.
+:::
 
 Wohin war der Urlaub / die Reise?  
 Es war super, aber zu kurz.
@@ -220,19 +221,19 @@ A: Worauf hast du Lust?
 B: Ich habe Lust auf...
 
 A: Was würdest du gern machen?  
-B: Ich würde gern $cdots$
+B: Ich würde gern $\cdots$
 
 A: Wollen wir heute Abend etwas zusammen machen?  
 B: Ja, gerne. Worauf hast du Lust?  
-A: Ich habe Lust auf $cdots$  
+A: Ich habe Lust auf $\cdots$  
 B: Das finde ich super. / Gute Idee.  
 A: Dann machen wir das so. Bis dann.
 
 A: Wollen wir heute Abend etwas zusammen machen?  
 B: Ja, gerne. Worauf hast du Lust?  
-A: Ich habe Lust auf $cdots$  
-B: Ach nee, darauf habe ich keine Lust. Ich würde lieber $cdots$  
-A: Wir können zuerst $cdots$, dann $cdots$  
+A: Ich habe Lust auf $\cdots$  
+B: Ach nee, darauf habe ich keine Lust. Ich würde lieber $\cdots$  
+A: Wir können zuerst $\cdots$, dann $\cdots$  
 B: Dann machen wir das so. Bis dann.
 
 #### Adjektivendungen
@@ -297,7 +298,7 @@ sich interessieren für + A.
 sich ärgern über + A.  
 sich verabreden mit + D.  
 sich entspannen mit + D.  
-sich freuen über(为$cdots$开心)/auf(期待) + A.  
+sich freuen über(为$\cdots$开心)/auf(期待) + A.  
 sich entscheiden für + A.  
 sich aufregen über + A.
 
@@ -326,3 +327,22 @@ Zu viele E-Mails ärgern mich.
 
 Ich freue mich oft über Hilfe von Kollegen.  
 Auf Partys ärgere ich mich über zu viel Alkohol.
+
+#### Reflexive Verben (reflexivpronomen im Akkusativ)
+
+| Personalpronomen (N.) | Personalpronomen (A.) | Reflexivpronomen (A.) |
+| --------------------- | --------------------- | --------------------- |
+| ich                   | mich                  | mich                  |
+| du                    | dich                  | dich                  |
+| er/es/sie             | ihn/es/sie            | **sich**              |
+| wir                   | uns                   | uns                   |
+| ihr                   | euch                  | euch                  |
+| sie/Sie               | sie/Sie               | **sich**              |
+
+第三人称反身代词单复数都用 sich  
+Nur die 3. Person hat im Singular und Plural eine eigene Form: sich.
+
+| N.  | v.   | A.            |
+| --- | ---- | ------------- |
+| Ich | bade | meine Kinder. |
+| Ich | bade | mich.         |

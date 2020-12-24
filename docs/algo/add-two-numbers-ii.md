@@ -15,7 +15,7 @@ See the easier related problem [Add Two Numbers](add_two_numbers).
 
 ## Solution
 
-Among the following solutions, [1st](#reverse-linked-list-diy-listnode-adder) solution is easiest to think of but need to know how to reverse a singly linked list by heart. [2nd](#stack) solution could be thought of when **LIFO** rings a bell. [last](#recursion) solution could be thought of but takes time to implement.
+Let $m$ be the length of `l1`, and $n$ be the length of `l2`.
 
 ### Reverse Linked List & DIY ListNode Adder
 
@@ -23,7 +23,7 @@ Create a nested function `reverseList`(similar as in [reverse linked list](rever
 
 ::: theorem Complexity
 time: $O(m + n)$  
-space: $O(1)$ due to no extra space
+space: $O(1)$
 :::
 
 where `m` is the number of nodes in `l1` and `n` is the number of nodes in `l2`.
@@ -71,8 +71,8 @@ There are two ways: **stack** and **recursion**.
 Initialize two stacks for `l1` and `l2` respectively: `l1_stack` and `l2_stack`. After appending, I then pop each stack and calculate the sum. Note that now sum is also reversed, so the way to construct is different from previous question.
 
 ::: theorem Complexity
-time: $O(m+n)$  
-space: $O(1)$ due to extra space of 2 stacks
+time: $O(m + n)$  
+space: $O(m + n)$ due to extra space of 2 stacks
 :::
 
 ```py
@@ -111,7 +111,7 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
 
 ### Recursion (REDO!)
 
-Frankly, I copied most of the following code, as the recursive function `add_list` is not easy to write(especially what vars to return). The idea is:
+The recursive function `add_list` is not easy to write(especially what vars to return). The idea is:
 
 1. get the difference in length of `l1` and `l2`
 2. **IMPT**: recursively add two lists and return `head` and `new_carry`. Note that `diff` decreases only when `ln1` is longer than `ln2`
@@ -148,7 +148,7 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         return head, new_carry
 
     l1_len, l2_len = get_len(l1), get_len(l2)
-    # always keep len(ln1) > len(ln2)
+    # always keep len(ln1) >= len(ln2)
     if l1_len < l2_len:
         l1_len, l2_len = l2_len, l1_len
         l1, l2 = l2, l1

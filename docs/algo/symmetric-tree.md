@@ -57,8 +57,8 @@ def isSymmetric(self, root: TreeNode) -> bool:
     queue.append(root)
     queue.append(root)
     while queue:
-        t1 = queue.pop(0) #
-        t2 = queue.pop(0) # queue.pop() also works
+        t1 = queue.pop(0)
+        t2 = queue.pop(0)
         if not t1 and not t2:
             continue
         elif not t1 or not t2:
