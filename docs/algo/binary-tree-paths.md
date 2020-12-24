@@ -25,7 +25,7 @@ class TreeNode(object):
 
 ::: theorem Complexity
 time: $O(n)$  
-space: $O(n)$ due to implicit stack space
+space: $O(n)$ (due to implicit stack space)
 :::
 
 ```py

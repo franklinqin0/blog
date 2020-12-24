@@ -25,7 +25,7 @@ Once the values for whether robbing(or not) left/right subtree are known, we cou
 
 ::: theorem Complexity
 time: $O(n)$  
-space: $O(n)$ due to implicit stack space
+space: $O(n)$ (due to implicit stack space)
 :::
 
 ```py

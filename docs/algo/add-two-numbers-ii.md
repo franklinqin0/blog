@@ -119,7 +119,7 @@ Frankly, I copied most of the following code, as the recursive function `add_lis
 
 ::: theorem Complexity
 time: $O(m+n)$  
-space: $O(1)$ due to implicit stack space
+space: $O(?)$ (due to implicit stack space)
 :::
 
 ```py

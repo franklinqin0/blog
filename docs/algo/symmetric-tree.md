@@ -3,6 +3,7 @@ title: Symmetric Tree
 diff: easy
 tags:
   - Tree
+  - Recursion
   - DFS
   - BFS
 ---
@@ -21,17 +22,14 @@ class TreeNode:
 
 ## Solution
 
+Both solutions take linear time and space.
+
 ### Recursion
 
 Two trees are mirrors of each other if:
 
 - the two roots have the same value
 - the right subtree of each tree is a mirror reflection of the left subtree of the other tree
-
-::: theorem Complexity
-time: $O(n)$  
-space: $O(n)$
-:::
 
 ```py
 class Solution:
@@ -52,11 +50,6 @@ class Solution:
 ### Iteration
 
 The following code follows a BFS order to traverse the binary tree, but `queue.pop()` (DFS order) also works.
-
-::: theorem Complexity
-time: $O(n)$  
-space: $O(n)$
-:::
 
 ```py
 def isSymmetric(self, root: TreeNode) -> bool:

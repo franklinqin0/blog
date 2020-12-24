@@ -71,7 +71,7 @@ Note that I set `head` to `curr` to avoid confusion. `hd` is the actual head of 
 
 ::: theorem Complexity
 time: $O(n)$  
-space: $O(n)$ due to implicit stack space
+space: $O(n)$ (due to implicit stack space)
 :::
 
 ```py
