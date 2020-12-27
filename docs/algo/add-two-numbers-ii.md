@@ -109,7 +109,7 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
     return head
 ```
 
-### Recursion (REDO!)
+### Recursion
 
 The recursive function `add_list` is not easy to write(especially what vars to return). The idea is:
 
@@ -118,8 +118,8 @@ The recursive function `add_list` is not easy to write(especially what vars to r
 3. if there is a leftmost carry, make it head and return
 
 ::: theorem Complexity
-time: $O(m+n)$  
-space: $O(?)$ (due to implicit stack space)
+time: $O(m + n)$  
+space: $O(m + n)$ (due to implicit stack space)
 :::
 
 ```py
