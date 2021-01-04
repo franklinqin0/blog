@@ -6,7 +6,6 @@ categories:
 tags:
   - Deutsch
 last: goethe_5
-publish: false
 ---
 
 Deutsch Notizen vom Goethe Institut - A2 zwei.
@@ -100,6 +99,7 @@ Ich möchte wissen, wo der Frühstücksraum ist.
 
 #### Schnäppchenjagd im Internet
 
+::: theorem
 A: Ich kaufe heute ein Fahrrad im Internet.  
 B: Wie bitte? Im Internet?  
 A: Ja. Das ist ganz einfach. Und das Angebot ist groß.  
@@ -108,6 +108,9 @@ A: Doch, es gibt ein Foto.
 B: Aber, du kannst es nicht testen.  
 A: Das stimmt. Aber es geht ganz schnell. In fünf Minuten habe ich das Rad bestellt. Und drei Tage später steht es bei mir zu Hause.  
 B: Das ist sehr unsicher. Ich brauche einen guten Verkäufer für alle meine Fragen.
+:::
+
+##### Vorteile vs. Nachteile
 
 Ich finde Einkaufen im Internet gut, **weil** das Angebot groß ist.  
 Das finde ich auch/nicht.
@@ -258,7 +261,7 @@ Nur die 3. Person hat im Singular und Plural eine eigene Form: sich.
 | die Etage                  | floor, storey          |
 | mindestens                 | at least               |
 
-der Geschmack (flavor):
+#### der Geschmack (flavor):
 
 - sauer
 - scharf
@@ -385,7 +388,7 @@ Deutschlernen macht mir Spaß.
 
 ### Moldalverben im Präteritum
 
-::: thereom Regeln
+::: theorem Regeln
 ohne Umlaut  
 immer ein _t_
 :::
@@ -399,7 +402,7 @@ immer ein _t_
 | ihr           | musstet  | durftet  | konntet  | wolltet  |
 | sie/Sie       | mussten  | durften  | konnten  | wollten  |
 
-Musstet du mit 3 Jahren in den Kindergarten gehen?
+Musstet du mit 3 Jahren in den Kindergarten gehen?  
 Ich musste nicht. / Leider ja.
 
 ## Einhalt 8 - Kultur erleben
