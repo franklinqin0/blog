@@ -23,8 +23,17 @@ Notes on NLP.
 
 Information retrieval (IR) is **finding** material (usually **documents**) of an **unstructured** nature (usually text) that satisfies an **information need** from within **large collections** (usually stored on computers).
 
-- **Information Need:** State (of a person) of requiring information for solving an actual problem (e.g.: get rid of mice without hurting them). Also called intent
-- **Query:** Textual representation of the information need, e.g. as entered into a search engine
-- **Relevance:** Property of a document with respect to a particular information need. The task of IR is to retrieve relevant documents
-- **Relevance Feedback:** Information about the actual relevance of retrieved documents given by the user of an IR system to the system
-- **IR Evaluation:** Measuring the quality of an IR system’s performance
+- **information need:** State (of a person) of requiring information for solving an actual problem (e.g.: get rid of mice without hurting them). Also called intent
+- **query:** Textual representation of the information need, e.g. as entered into a search engine
+- **relevance:** Property of a document with respect to a particular information need. The task of IR is to retrieve relevant documents
+- **relevance feedback:** Information about the actual relevance of retrieved documents given by the user of an IR system to the system
+- **IR evaluation:** Measuring the quality of an IR system’s performance
+- **parts of speech:** word classes or lexical categories
+- **part-of-speech tagging:** The process of classifying words into their parts of speech (POS)
+- **tagset:** the collection of part of speech tags used
+
+There are different linguistic clues for determining word classes and categories in general:
+
+- morphological clues: the internal structure of a word, e.g., _-ness_ and _-ment_
+- syntactic clues: the syntactic relation of a word to other words within a sentence
+- semantic clues: the meaning of a word
