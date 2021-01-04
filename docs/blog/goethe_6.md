@@ -17,15 +17,31 @@ Deutsch Notizen vom Goethe Institut - A2 zwei.
 
 ### Wörter
 
-| Deutsch          | Englisch          |
-| ---------------- | ----------------- |
-| höflich          | polite            |
-| gebrauchte Sache | second-hand goods |
-| der Vorteil      | advantage         |
-| der Nachteil     | disadvantage      |
-| der Anschluss    | cable             |
-| das Schnäppchen  | bargains          |
-| die Ware(n)      | goods             |
+| Deutsch          | Englisch                     |
+| ---------------- | ---------------------------- |
+| höflich          | polite                       |
+| gebrauchte Sache | second-hand goods            |
+| der Vorteil      | advantage                    |
+| der Nachteil     | disadvantage                 |
+| der Anschluss    | cable                        |
+| das Schnäppchen  | bargains                     |
+| die Ware(n)      | goods                        |
+| die Stiftung     | foundation                   |
+| hektisch         | hectic                       |
+| überraschen      | surprise, astonish           |
+| Erholung         | recreation                   |
+| Leiter           | leader                       |
+| regelmäßig       | regular(ly)                  |
+| anziehen         | attract                      |
+| schminken        | put on makeup                |
+| rasieren         | shave oneself                |
+| umziehen         | change clothes               |
+| abtrocknen       | dry                          |
+| kämmen           | comb one's hair              |
+| verabreden       | arrange, make an appointment |
+| aufregen         | annoy, get excited           |
+| Amt              | office                       |
+| wütend           | angry, furious               |
 
 ### Sätze
 
@@ -166,6 +182,90 @@ Nur die 3. Person hat im Singular und Plural eine eigene Form: sich.
 
 ## Einhalt 6
 
+| Reklamation | complaint |
+| Anschluss | port |
+| Schmuck | jewellery |
+| Schnäppchen | bargain(s) |
+| der Wecker | alarm |
+| die Waren | goods |
+| simsen | to send a text message |
+| günstig | favorable, cheap |
+| antike | ancient |
+| Flohmarkt | flea market |
+| Kassen | cash registers |
+| Kassenzettel | receipt |
+| untauschen | exchange 退换 |
+| wertvoll | valuable |
+| Zeitungsanzeige | ad |
+| Mitteilung | message |
+| Vorschlag | proposal |
+| Abschied | farewell |
+| Schal | scarf |
+| gucken | look |
+| würden | would |
+| Sichuan-Küche | Sichuan food |
+| die Speise | food |
+| das Gericht | dish |
+| die Sahne | cream |
+| die Haube | hood |
+| das Bauernbrot | farmer's bread |
+| das Gemisch | mixture |
+| die Gabel | fork |
+| beschweren | weight, complain |
+| das Messer | knife |
+| der Löffel | spoon |
+| der Pfeffer | pepper |
+| die Rolle | role |
+| Aufgabe | task |
+| Ablauf, Abläufe | procedure(s) |
+| bekannt | known, famous |
+| beraten | advise, counsel |
+| bedienen | serve |
+| bestehen | consist of |
+| die Rundschau | review |
+| der Ober | waiter |
+| Soße | sauce |
+| passen zu | match with |
+| ziemlich | quite |
+| Nüsse | nuts |
+| bestehen aus | consist of |
+| das Holz | wood |
+| Kuss | kiss |
+| nichts für mich | not for me |
+| stattfinden | take place |
+| Freude | joy |
+| der Blick | view |
+| Liebe auf den ersten Blick | love at first sight |
+| anmelden | register, enroll |
+| Börse | exchange |
+| selbständig | independent |
+| das Ergebnis | result |
+| eindeutig | clear |
+| dagegen | against it |
+| Jugendliche | young people |
+| fleißig | hard-working |
+| die Anzeige | advertisement |
+| das Wannenbad | bath |
+| die Kammer | chamber |
+| die Fliese | tile |
+| der Anschluss | connection, port |
+| die Fläche | area |
+| der Keller | cellar |
+| die Etage | floor, storey |
+| mindestens | at least |
+
+der Geschmack (flavor):
+
+- sauer
+- scharf
+- bitter
+- schwer/fett
+- süß
+- salzig
+- nicht genug gewürzt
+
+### Wortfeld Brief (S.95 - 5)
+
 - einen Brief schreiben
 - eine Briefmarke aufkleben
 - die Adresse und den Absender auf den Umschlag schreiben
@@ -214,7 +314,108 @@ Deutschlernen macht mir Spaß.
 **K:** Sie war leider etwas zu salzig.  
 **V:** Oh, das tut mir leid. Darf ich lhnen noch ein Wasser bringen? Das müssen Sie natürlich nicht bezahlen.
 
+## Einhalt 7:
+
+| Deutsch                 | Englisch                  |
+| ----------------------- | ------------------------- |
+| die Heizung             | heating                   |
+| der Strom               | electricity               |
+| möbliert                | with furniture            |
+| vollmöbliert            | fully furnished           |
+| die Lage                | position                  |
+| abstellen               | park                      |
+| nämlich                 | namely                    |
+| betragen                | be                        |
+| der Stellplatz          | parking space             |
+| vermieten               | rent                      |
+| besorgen                | get, provide              |
+| Umzugskartons besorgen  | get moving boxes          |
+| der LKW                 | truck                     |
+| LKW reservieren/mieten  | book truck                |
+| Freunde um Hilfe bitten | ask for help from friends |
+| Hausrat einpacken       | pack house goods          |
+| der Bedarf              | need, demand              |
+| beschriften             | label, inscribe, annotate |
+| die Verpflegung         | catering                  |
+| erledigen               | complete                  |
+| kühlen                  | cool                      |
+| reinigen                | clean, refine             |
+| die Wunde               | wound                     |
+| das Pflaster            | plaster, Band-Aid         |
+| der Notarzt             | emergency doctor          |
+| die Salbe(n)            | ointment                  |
+| der Daumen              | thumb                     |
+| witzig                  | funny                     |
+| der Rasen               | lawn                      |
+| der Wald                | forest                    |
+| der Stau                | traffic jam               |
+| die Ziege               | goat                      |
+| der Traktor             | tractor                   |
+| das Gras                | grass                     |
+| das Hochhaus            | high-rise building        |
+| der Waldweg             | forest path               |
+| füttern                 | feed                      |
+| bummeln                 | stroll, wander            |
+| erleben                 | experience                |
+| der Umzug               | move                      |
+| zahlreich               | numerous                  |
+| insgesamt               | all things considered     |
+| entfernen               | remove                    |
+| die Grenze              | border                    |
+| der Lärm                | noise                     |
+| das Benzin              | gasoline                  |
+| die Angst               | fear and anxiety          |
+| reden                   | talk                      |
+| ätzend                  | awful                     |
+| nervig                  | annoying                  |
+| der Dreck               | filth                     |
+| fast                    | almost                    |
+| die Umgebung            | surroundings, environment |
+| angenehm                | pleasant                  |
+| nah                     | near                      |
+| niedrig                 | low                       |
+| die Aussicht            | view, prospect 发展前景   |
+| das Niveau              | standard                  |
+
+### Moldalverben im Präteritum
+
+::: thereom Regeln
+ohne Umlaut  
+immer ein _t_
+:::
+
+|               | müssen   | dürfen   | können   | wollen   |
+| ------------- | -------- | -------- | -------- | -------- |
+| ich           | musste   | durfte   | konnte   | wollte   |
+| du            | musstest | durftest | konntest | wolltest |
+| er/sie/es/man | musste   | durfte   | konnte   | wollte   |
+| wir           | mussten  | durften  | konnten  | wollten  |
+| ihr           | musstet  | durftet  | konntet  | wolltet  |
+| sie/Sie       | mussten  | durften  | konnten  | wollten  |
+
 ## Einhalt 8: Kultur erleben
+
+| Deutsch                     | Englisch           |
+| --------------------------- | ------------------ |
+| variieren                   | vary               |
+| sperren                     | lock, block, close |
+| aufführen                   | perform music      |
+| europäisch                  | European           |
+| haltbar                     | durable            |
+| berühmt                     | famous, popular    |
+| sogar                       | even               |
+| neugierig                   | curious            |
+| billig/günstig/preisgünstig | cheap              |
+| der Tod                     | death              |
+| der Rang                    | rank               |
+| das Bürger                  | citizen            |
+| das Denkmal                 | monument, memorial |
+| die Haltesteller            | (bus, tram) stop   |
+| die Fahne                   | flag               |
+| die Strecke                 | route              |
+| die Ermäßigung              | discount           |
+| die Lesung                  | reading            |
+| die Bühne                   | stage              |
 
 ### Früher und heute (S.154 - 12b)
 
@@ -222,3 +423,6 @@ Früher hatte Judith Scheffel viel Zeit für Hobbys. Heute haben sie zu tun.
 Früher hat Hans Meinecke viel Sport gemacht. Heute lauft er ein Mal pro Woche.  
 Früher war Sven Lippold nicht verheiratet. Heute hat er Familie und drei Kinder.  
 Früher hatte Anette Rudolph ein kleines Auto. Heute fährt sie ein großes Auto.
+
+Was möchtest du in Weimar besuchen?  
+Ich bin neugierig auf ...
