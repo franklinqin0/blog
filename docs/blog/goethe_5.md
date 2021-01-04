@@ -180,7 +180,7 @@ Zu meiner Familie gehören zwei Teile. Meine Großeltern wohnen jetzt in der Hei
 | ------- | -------- |
 | Ankunft | arrival  |
 
-## Einhalt 4
+## Einhalt 4 - Freizeit und Hobbys
 
 ::: theorem eine Reise planen und buchen
 **V:** Guten Tag.  

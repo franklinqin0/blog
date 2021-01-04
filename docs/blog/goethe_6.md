@@ -13,7 +13,7 @@ Deutsch Notizen vom Goethe Institut - A2 zwei.
 
 <!-- more -->
 
-## Einhalt 5
+## Einhalt 5 - Medien in Alltag
 
 ### Wörter
 
@@ -180,79 +180,83 @@ Nur die 3. Person hat im Singular und Plural eine eigene Form: sich.
 | Ich | bade | meine Kinder. |
 | Ich | bade | mich.         |
 
-## Einhalt 6
+## Einhalt 6 - Ausgehen, Leute treffen
 
-| Reklamation | complaint |
-| Anschluss | port |
-| Schmuck | jewellery |
-| Schnäppchen | bargain(s) |
-| der Wecker | alarm |
-| die Waren | goods |
-| simsen | to send a text message |
-| günstig | favorable, cheap |
-| antike | ancient |
-| Flohmarkt | flea market |
-| Kassen | cash registers |
-| Kassenzettel | receipt |
-| untauschen | exchange 退换 |
-| wertvoll | valuable |
-| Zeitungsanzeige | ad |
-| Mitteilung | message |
-| Vorschlag | proposal |
-| Abschied | farewell |
-| Schal | scarf |
-| gucken | look |
-| würden | would |
-| Sichuan-Küche | Sichuan food |
-| die Speise | food |
-| das Gericht | dish |
-| die Sahne | cream |
-| die Haube | hood |
-| das Bauernbrot | farmer's bread |
-| das Gemisch | mixture |
-| die Gabel | fork |
-| beschweren | weight, complain |
-| das Messer | knife |
-| der Löffel | spoon |
-| der Pfeffer | pepper |
-| die Rolle | role |
-| Aufgabe | task |
-| Ablauf, Abläufe | procedure(s) |
-| bekannt | known, famous |
-| beraten | advise, counsel |
-| bedienen | serve |
-| bestehen | consist of |
-| die Rundschau | review |
-| der Ober | waiter |
-| Soße | sauce |
-| passen zu | match with |
-| ziemlich | quite |
-| Nüsse | nuts |
-| bestehen aus | consist of |
-| das Holz | wood |
-| Kuss | kiss |
-| nichts für mich | not for me |
-| stattfinden | take place |
-| Freude | joy |
-| der Blick | view |
-| Liebe auf den ersten Blick | love at first sight |
-| anmelden | register, enroll |
-| Börse | exchange |
-| selbständig | independent |
-| das Ergebnis | result |
-| eindeutig | clear |
-| dagegen | against it |
-| Jugendliche | young people |
-| fleißig | hard-working |
-| die Anzeige | advertisement |
-| das Wannenbad | bath |
-| die Kammer | chamber |
-| die Fliese | tile |
-| der Anschluss | connection, port |
-| die Fläche | area |
-| der Keller | cellar |
-| die Etage | floor, storey |
-| mindestens | at least |
+### Wörter
+
+| Deutsch                    | Englisch               |
+| -------------------------- | ---------------------- |
+| Reklamation                | complaint              |
+| Anschluss                  | port                   |
+| Schmuck                    | jewellery              |
+| Schnäppchen                | bargain(s)             |
+| der Wecker                 | alarm                  |
+| die Waren                  | goods                  |
+| simsen                     | to send a text message |
+| günstig                    | favorable, cheap       |
+| antike                     | ancient                |
+| Flohmarkt                  | flea market            |
+| Kassen                     | cash registers         |
+| Kassenzettel               | receipt                |
+| untauschen                 | exchange 退换          |
+| wertvoll                   | valuable               |
+| Zeitungsanzeige            | ad                     |
+| Mitteilung                 | message                |
+| Vorschlag                  | proposal               |
+| Abschied                   | farewell               |
+| Schal                      | scarf                  |
+| gucken                     | look                   |
+| würden                     | would                  |
+| Sichuan-Küche              | Sichuan food           |
+| die Speise                 | food                   |
+| das Gericht                | dish                   |
+| die Sahne                  | cream                  |
+| die Haube                  | hood                   |
+| das Bauernbrot             | farmer's bread         |
+| das Gemisch                | mixture                |
+| die Gabel                  | fork                   |
+| beschweren                 | weight, complain       |
+| das Messer                 | knife                  |
+| der Löffel                 | spoon                  |
+| der Pfeffer                | pepper                 |
+| die Rolle                  | role                   |
+| Aufgabe                    | task                   |
+| Ablauf, Abläufe            | procedure(s)           |
+| bekannt                    | known, famous          |
+| beraten                    | advise, counsel        |
+| bedienen                   | serve                  |
+| bestehen                   | consist of             |
+| die Rundschau              | review                 |
+| der Ober                   | waiter                 |
+| Soße                       | sauce                  |
+| passen zu                  | match with             |
+| ziemlich                   | quite                  |
+| Nüsse                      | nuts                   |
+| bestehen aus               | consist of             |
+| das Holz                   | wood                   |
+| Kuss                       | kiss                   |
+| nichts für mich            | not for me             |
+| stattfinden                | take place             |
+| Freude                     | joy                    |
+| der Blick                  | view                   |
+| Liebe auf den ersten Blick | love at first sight    |
+| anmelden                   | register, enroll       |
+| Börse                      | exchange               |
+| selbständig                | independent            |
+| das Ergebnis               | result                 |
+| eindeutig                  | clear                  |
+| dagegen                    | against it             |
+| Jugendliche                | young people           |
+| fleißig                    | hard-working           |
+| die Anzeige                | advertisement          |
+| das Wannenbad              | bath                   |
+| die Kammer                 | chamber                |
+| die Fliese                 | tile                   |
+| der Anschluss              | connection, port       |
+| die Fläche                 | area                   |
+| der Keller                 | cellar                 |
+| die Etage                  | floor, storey          |
+| mindestens                 | at least               |
 
 der Geschmack (flavor):
 
@@ -314,7 +318,9 @@ Deutschlernen macht mir Spaß.
 **K:** Sie war leider etwas zu salzig.  
 **V:** Oh, das tut mir leid. Darf ich lhnen noch ein Wasser bringen? Das müssen Sie natürlich nicht bezahlen.
 
-## Einhalt 7:
+## Einhalt 7 - Vom Land in die Stadt
+
+### Wörter
 
 | Deutsch                 | Englisch                  |
 | ----------------------- | ------------------------- |
@@ -393,7 +399,12 @@ immer ein _t_
 | ihr           | musstet  | durftet  | konntet  | wolltet  |
 | sie/Sie       | mussten  | durften  | konnten  | wollten  |
 
-## Einhalt 8: Kultur erleben
+Musstet du mit 3 Jahren in den Kindergarten gehen?
+Ich musste nicht. / Leider ja.
+
+## Einhalt 8 - Kultur erleben
+
+## Wörter
 
 | Deutsch                     | Englisch           |
 | --------------------------- | ------------------ |
