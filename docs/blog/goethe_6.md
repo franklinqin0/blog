@@ -213,3 +213,12 @@ Deutschlernen macht mir Spaß.
 **V:** Und hier kommt die Ofenkartoffel. Hat Ihnen die Suppe geschmeckt?  
 **K:** Sie war leider etwas zu salzig.  
 **V:** Oh, das tut mir leid. Darf ich lhnen noch ein Wasser bringen? Das müssen Sie natürlich nicht bezahlen.
+
+## Einhalt 8: Kultur erleben
+
+### Früher und heute (S.154 - 12b)
+
+Früher hatte Judith Scheffel viel Zeit für Hobbys. Heute haben sie zu tun.  
+Früher hat Hans Meinecke viel Sport gemacht. Heute lauft er ein Mal pro Woche.  
+Früher war Sven Lippold nicht verheiratet. Heute hat er Familie und drei Kinder.  
+Früher hatte Anette Rudolph ein kleines Auto. Heute fährt sie ein großes Auto.
