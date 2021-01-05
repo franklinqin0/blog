@@ -430,6 +430,17 @@ Ich musste nicht. / Leider ja.
 | die Ermäßigung              | discount           |
 | die Lesung                  | reading            |
 | die Bühne                   | stage              |
+| arm                         | poor               |
+| reich                       | rich               |
+| faul                        | lazy               |
+| fleißig                     | diligent           |
+| der Anwalt                  | lawyer             |
+| das Gedicht                 | poem               |
+| der Schriftsteller          | writer, author     |
+| verloben                    | get engaged        |
+| bewundern                   | admire             |
+| tot                         | dead               |
+| sich kümmern                | look after         |
 
 ### Früher und heute (S.154 - 12b)
 
