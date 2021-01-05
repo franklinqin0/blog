@@ -123,7 +123,7 @@ Sebastian ist 28 Jahre alt und aus Spanien. Er hat in der Schule Deutsch gelernt
 
 ### Komparativ & Superlativ
 
-::: theorem Regel
+::: theorem
 Komparativ: Adjektiv + **er** + _als_  
 Superlativ: am Adjektiv + **sten** | der/das/die Adjektiv + **ste**  
 (Achtung: ä, ö, ü)

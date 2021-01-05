@@ -76,7 +76,7 @@ space: $O(1)$
 
 Then we realize we don't need any values except the previous two, so just keep `a` and `b`.
 
-This is basically calculating the `n`th Fibonacci number.
+This is basically calculating the $n$-th Fibonacci number.
 
 ```py
 def climbStairs(self, n: int) -> int:
@@ -84,12 +84,18 @@ def climbStairs(self, n: int) -> int:
     a, b = 1, 1
     for i in range(2,n):
         a, b = b, a+b
-    return a+b
+    return a + b
 ```
 
 ### Matrix Multiplication
 
-Exponentials should remind us of $\log$ runtime.
+As $F_{k+1} = F_{k} + F_{k-1}$, we can deduct the recurrence relation between $F_{k}$, $F_{k-1}$ and $F_{k+1}$, $F_{k}$:
+
+$$\begin{bmatrix}1 & 1\\1 & 0\end{bmatrix} \begin{bmatrix}F_{k}\\F_{k-1}\end{bmatrix} = \begin{bmatrix}F_{k} + F_{k-1}\\F_{k}\end{bmatrix} = \begin{bmatrix}F_{k+1}\\F_{k}\end{bmatrix}$$
+
+so we can use matrix multiplication to calculate the $n$-th Fibonacci number in log time:
+
+$$\begin{bmatrix}1 & 1\\1 & 0\end{bmatrix}^n \begin{bmatrix}F_1\\F_0\end{bmatrix} = \begin{bmatrix}1 & 1\\1 & 0\end{bmatrix}^n \begin{bmatrix}1\\1\end{bmatrix} = \begin{bmatrix}F_{n}\\F_{n-1}\end{bmatrix}$$
 
 ::: theorem Complexity
 time: $O(\log n)$  
@@ -132,3 +138,6 @@ space: $O(1)$
 :::
 
 Code is omitted.
+
+$$
+$$

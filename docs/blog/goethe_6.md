@@ -99,7 +99,7 @@ Ich möchte wissen, wo der Frühstücksraum ist.
 
 #### Schnäppchenjagd im Internet
 
-::: theorem
+::: tip
 A: Ich kaufe heute ein Fahrrad im Internet.  
 B: Wie bitte? Im Internet?  
 A: Ja. Das ist ganz einfach. Und das Angebot ist groß.  
@@ -153,7 +153,7 @@ Ich freue mich über Musik.
 我觉得无聊  
 Mir ist langweilig. / Ich fühle mich gelangweilt.
 
-::: theorem ärgern
+::: tip ärgern
 sich ärgern über + A.  
 Ich ärgere mich über zu viele E-Mails.
 
@@ -284,7 +284,7 @@ Danach wirft er den Brief ein.
 
 ### Reklamation
 
-::: theorem Ein T-Shirt reklamieren
+::: tip Ein T-Shirt reklamieren
 **V:** Guten Tag. Was kann ich für Sie tun?  
 **K:** Guten Tag. Ich heiße Franklin. Ich habe vor drei Tagen das T-Shirt gekauft. Es ist zu groß. Ich möchte das umtauschen.  
 **V:** Haben Sie den Kassenzettel?  
@@ -388,7 +388,7 @@ Deutschlernen macht mir Spaß.
 
 ### Moldalverben im Präteritum
 
-::: theorem Regeln
+::: theorem
 ohne Umlaut  
 immer ein _t_
 :::
@@ -422,7 +422,7 @@ Ich musste nicht. / Leider ja.
 | billig/günstig/preisgünstig | cheap              |
 | der Tod                     | death              |
 | der Rang                    | rank               |
-| das Bürger                  | citizen            |
+| der Bürger                  | citizen            |
 | das Denkmal                 | monument, memorial |
 | die Haltesteller            | (bus, tram) stop   |
 | die Fahne                   | flag               |
@@ -433,10 +433,76 @@ Ich musste nicht. / Leider ja.
 
 ### Früher und heute (S.154 - 12b)
 
-Früher hatte Judith Scheffel viel Zeit für Hobbys. Heute haben sie zu tun.  
+Früher hatte Judith Scheffel viel Zeit für Hobbys. Heute hat sie zu tun.  
 Früher hat Hans Meinecke viel Sport gemacht. Heute lauft er ein Mal pro Woche.  
 Früher war Sven Lippold nicht verheiratet. Heute hat er Familie und drei Kinder.  
 Früher hatte Anette Rudolph ein kleines Auto. Heute fährt sie ein großes Auto.
 
 Was möchtest du in Weimar besuchen?  
 Ich bin neugierig auf ...
+
+### Verben im Perfekt
+
+::: theorem
+Zustandsänderung 位置/状态改变: sein, 一般用 haben  
+现在分词规则变化：-t, 不规则变化：-en  
+原型重音在后（如 besuchen, studieren, ver-），不加 ge-
+:::
+
+| Infinitiv   | Perfekt (ich)     |
+| ----------- | ----------------- |
+| kommen      | bin gekommt       |
+| einschlafen | bin eingeschlafen |
+| aufstehen   | bin aufgestanden  |
+| bleiben     | bin gebleiben     |
+| sterben     | bin gestorben     |
+| reisen      | bin gereist       |
+| gehen       | bin gegangen      |
+| fahren      | bin gefahren      |
+| lesen       | habe gelesen      |
+| trinken     | habe getrunken    |
+| essen       | habe gegessen     |
+| fernsehen   | habe ferngesehen  |
+| anrufen     | habe angerufen    |
+| schwimmen   | habe geschwimmen  |
+| kochen      | habe gekocht      |
+| schreiben   | habe geschreibt   |
+| spilen      | habe gespielt     |
+| wohnen      | habe gewohnt      |
+| einkaufen   | habe eingekauft   |
+| rauchen     | habe geraucht     |
+| besuchen    | habe besucht      |
+| baden       | habe gebadet      |
+| kaufen      | habe gekauft      |
+
+### Regelmäßige Verben im Präteritum
+
+::: theorem
+Singular (ich/er/sie): Infinitivstamm + _te_  
+Plural (wir/sie): Infinitivstamm + _ten_
+:::
+
+|               | machen   | wohnen   | verfassen   | arbeiten    |
+| ------------- | -------- | -------- | ----------- | ----------- |
+| ich           | machte   | wohnte   | verfasste   | arbeitete   |
+| du            | machtest | wohntest | verfasstest | arbeitetest |
+| er/sie/es/man | machte   | wohnte   | verfasste   | arbeitete   |
+| wir           | machten  | wohnten  | verfassten  | arbeiteten  |
+| ihr           | machtet  | wohntet  | verfasstet  | arbeitetet  |
+| sie/Sie       | machten  | wohnten  | verfassten  | arbeiteten  |
+
+### Präteritum vs. Perfekt
+
+| Präteritum | Perfekt (er)   |
+| ---------- | -------------- |
+| studierte  | hat studiert   |
+| eröffnete  | hat eröffnet   |
+| heiratete  | hat geheiratet |
+| gründete   | hat gegründet  |
+| baute      | hat gebaut     |
+| lebte      | hat gelebt     |
+| arbeitete  | hat gearbeitet |
+| starb      | ist gestorben  |
+
+Walter Gropius starb 1969 in Boston.  
+Walter Gropius ist 1969 in Boston gestorben.

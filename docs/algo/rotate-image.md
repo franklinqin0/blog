@@ -43,6 +43,7 @@ space: $O(1)$
 ```py
 def rotate(self, matrix: List[List[int]]) -> None:
     n = len(matrix)
+    # traverse only a quarter of the whole matrix
     for i in range(n//2 + n%2):
         for j in range(n//2):
             tmp = matrix[n-j-1][i]
