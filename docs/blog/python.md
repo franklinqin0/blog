@@ -140,6 +140,21 @@ More at [Queue in Python](https://www.geeksforgeeks.org/queue-in-python/).
 
 []
 
+#### Reverse
+
+```py
+def reverseList(self, head: ListNode) -> ListNode:
+    last = None
+    while head:
+        # keep the next node
+        tmp = head.next
+        # reverse the link
+        head.next = last
+        # update the last node and the current node
+        last = head
+        head = tmp
+```
+
 ### Shallow Flatten
 
 We could have nested for loops
