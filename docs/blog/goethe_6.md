@@ -442,6 +442,41 @@ Ich musste nicht. / Leider ja.
 | tot                         | dead               |
 | sich kümmern                | look after         |
 
+sich verlieben in
+
+### Karten reservieren
+
+::: tip Deutsches Nationaltheater Weimar
+**V:** Was kann ich für Sie tun?
+**K:** Ich möchte gerne wissen, ob sie für _Faust_ noch 2 Kinokarten haben.
+**V:** Wann reservieren Sie die Kinokarten?
+**K:** Am Dienstagabend.
+**V:** Es gibt freie Plätze für 17.30 oder 20.45.
+**K:** Ich möchte gerne um 20.45 besuchen.
+**V:** Wo möchten Sie sitzen?
+**K:** Am liebsten in der Mitte oder hintin. Was kosten sie?
+**V:** Kein Problem. Es gibt 2 freie Kinokarten hintin, im Parkett, Rang 3. Bekommen Sie eine Ermäßigung?
+**K:** Nein, für mich ohne Ermäßigung. Auf welchen Namen soll/darf ich (die Karten) reservieren? Franklin?
+**V:** Ja, das geht. Gern geschehen. Einen schönen Abend und auf Wiederhören!
+**K:** Danke sehr!
+:::
+
+### Was man (nicht) unternehmen möchte
+
+Was möchtest du in Weimar besuchen?
+
+Ich bin neugierig auf _A._.  
+_N._ lohnt sich (nihct).  
+Besonders interessiert mich _N._.  
+Auf jeden/keinen Fall möchte ich _A._ sehen/besuchen.  
+Mich interessiert _N._ (nicht), weil _V._ in die/ins $\cdots$ will ich unbedingt.
+
+### Weimar zu Fuß (S.145 - 2)
+
+::: tip Kulturreise in Weimar
+Alexandr startet den Rundgang am Hotel Elefant. **Zuerst** geht er nach rechts in die Frauentorstraße. **Danach** geht er an der Kreuzung nach links in die Puschkinstraße. **Dann** geht er an der Hochschule für Musik vorbei zur Anna Amalia Biliothek. Danach geht er an dem Haus der Frau von Stein vorbei zum Shakespeare-Denkmal. Dann läuft er zum Beethovenplatz bis zum Goethehaus. Zum Schluss geht er ins Schillerhaus.
+:::
+
 ### Früher und heute (S.154 - 12b)
 
 Früher hatte Judith Scheffel viel Zeit für Hobbys. Heute hat sie zu tun.  
