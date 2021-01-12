@@ -6,6 +6,7 @@ categories:
 tags:
   - Deutsch
 last: goethe_5
+next: goethe_7
 ---
 
 Deutsch Notizen vom Goethe Institut - A2 zwei.
