@@ -1,6 +1,7 @@
 ---
 title: 粤语歌曲
 date: 2020-05-15
+sidebar: "auto"
 categories:
   - play
 tags:
@@ -55,13 +56,13 @@ next: hk_films
 梦里辗转吉凶  
 寻乐不堪苦困  
 未识苦与乐同  
-天造之材皆有其用  
-振翅高飞无须在梦中  
-南柯长梦梦去不知所踪  
-醉翁他朝醒觉是否跨凤乘龙  
-天造之材皆有其用  
-振翅高飞无须在梦中  
-何必寻梦梦里甘苦皆空  
+天造之材 皆有其用  
+振翅高飞 无须在梦中  
+南柯长梦 梦去不知所踪  
+醉翁他朝醒觉 是否跨凤乘龙  
+天造之材 皆有其用  
+振翅高飞 无须在梦中  
+何必寻梦 梦里甘苦皆空  
 劝君珍惜此际  
 自当欣慰无穷  
 何必寻梦
@@ -244,6 +245,8 @@ Beyond 是殿堂级的 HK 乐队，他们的歌我喜欢的实在真的太多了
 ::: theorem
 不管世事变化多快 在音乐的世界里 一切海阔天空
 :::
+
+副歌如下：
 
 ::: tip
 仍然自由自我  
@@ -441,7 +444,7 @@ Danny 的歌声纯净清亮，能带来温暖和希望。歌词很有古典的�
 
 ### 彩云追月
 
-Save the best for the last! 比起有歌词的版本https://youtu.be/pLoaeBBMkso，[李云迪的版本](https://www.bilibili.com/video/BV1yb411C7D8?p=2)轻盈灵动，大爱！
+Save the best for the last! 比起[有歌词的版本](https://youtu.be/pLoaeBBMkso)，[李云迪的钢琴](https://www.bilibili.com/video/BV1yb411C7D8?p=2)演奏得轻盈灵动、使人身临其境，大爱！
 
 ::: tip
 如立明月旁 如上天堂  
