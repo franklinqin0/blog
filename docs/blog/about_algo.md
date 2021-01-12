@@ -1,6 +1,6 @@
 ---
 title: About Algo
-date: 9999-12-29
+date: 2020-02-23
 categories:
   - about
 tags:
