@@ -43,4 +43,4 @@ In case you don't get some abbreviation, please read [this glossary](glossary).
 
 ## Comments Always Welcomed
 
-I fear that I might have expressed inappropriate words or incurred bad influence in this blog. After all, we should be responsible for what we say. If so, please tell me by comment/mail/etc. and I will fix it.
+I fear that I might have expressed inappropriate words or incurred bad influence in this blog. After all, we should be responsible for what we say. If so, please inform me by comment/mail/etc. and I will fix it.
