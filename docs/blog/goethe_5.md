@@ -179,34 +179,3 @@ Zu meiner Familie gehören zwei Teile. Meine Großeltern wohnen jetzt in der Hei
 | Deutsch | Englisch |
 | ------- | -------- |
 | Ankunft | arrival  |
-
-## Einhalt 4 - Freizeit und Hobbys
-
-::: theorem eine Reise planen und buchen
-**V:** Guten Tag.  
-**K:** Guten Tag. Ich brauche zwei Flugtickets nach Amsterdam.  
-**V:** **Fliegen** Sie hin und zurück?  
-**K:** Ja, wir **fliegen** am 03. Mai hin und am 05. Mai zurück. Geht das?  
-**V:** Ja, das geht. **Abflug** am 03. Mai um 11.45 von Frankfurt. Dann sind Sie um 12.55 Uhr in Amsterdam. Der **Rückflug** ist am 05. Mai um 18.50 von Amsterdam mit **Ankunft** in Frankfurt um 20 Uhr.  
-**K:** Was kosten die Flugtickets?  
-**V:** 129,18 Euro pro Person. Soll ich den Flug reservieren?  
-**K:** Ja, bitte.  
-**V:** Zahlen Sie mit Kreditkarte oder bar?  
-**K:** Mit Kreditkarte, bitte.  
-:::
-
-Wohin war der Urlaub / die Reise?  
-Es war super, aber zu kurz.
-
-Wohin seid ihr gefahren?  
-Wir sind nach Rom gefahren. / Wir waren zusammen in Rom.
-
-Was habt ihr gemacht?  
-Wir haben die Altstadt besichtigt, Pizza gegessen, und das Kolosseum besucht.
-
-Der Kuchen besteht aus Zucker und Mehl.  
-Der Man macht den Kuchen aus Zucker und Mehl.
-
-Die Bäckerin: Sie hat gerade ihre Ausbildung beendet. Sie arbeitet jetzt in einer Bäckerei.  
-Die Bäckerin, die gerade ihre Ausbildung beendet hat, arbeitet jetzt in einer Bäckerei.  
-Die Bäckerin, die jetzt in einer Bäckerei arbeitet, hat gerade ihre Ausbildung beendet.

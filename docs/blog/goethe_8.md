@@ -6,16 +6,17 @@ categories:
 tags:
   - Deutsch
 last: goethe_7
+publish: false
 ---
 
 Deutsch Notizen vom Goethe Institut - A2 drei.
 
 <!-- more -->
 
-## Einhalt 9 - Abeitswelten
+## Einhalt 10 - ???
 
 ## Wörter
 
-| Deutsch    | Englisch |
-| ---------- | -------- |
-| bestätigen | confirm  |
+| Deutsch | Englisch |
+| ------- | -------- |
+
