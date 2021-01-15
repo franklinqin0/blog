@@ -5,6 +5,7 @@ tags:
   - Math
   - Linked List
 related:
+  - add-strings
   - add-two-numbers
   - reverse-linked-list
 ---
@@ -64,11 +65,9 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
 
 > What if you **cannot modify the input lists**? In other words, reversing the lists is not allowed.
 
-There are two ways: **stack** and **recursion**.
-
 ### Stack
 
-Initialize two stacks for `l1` and `l2` respectively: `l1_stack` and `l2_stack`. After appending, I then pop each stack and calculate the sum. Note that now sum is also reversed, so the way to construct is different from previous question.
+Initialize two stacks for `l1` and `l2` respectively: `s1` and `s2`. After appending, pop each stack, calculate the sum, and create the calculated sum as new head.
 
 ::: theorem Complexity
 time: $O(m + n)$  
@@ -77,36 +76,29 @@ space: $O(m + n)$ due to extra space of 2 stacks
 
 ```py
 def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-    l1_stack = []
-    l2_stack = []
+        s1 = []
+        s2 = []
+        while l1:
+            s1.append(l1.val)
+            l1 = l1.next
 
-    while l1:
-        l1_stack.append(l1.val)
-        l1 = l1.next
-    while l2:
-        l2_stack.append(l2.val)
-        l2 = l2.next
+        while l2:
+            s2.append(l2.val)
+            l2 = l2.next
 
-    l1_len = len(l1_stack)
-    l2_len = len(l2_stack)
+        carry = 0
+        head = None
 
-    head = temp = None
-    i = j = 0
-    carry = 0
+        while s1 or s2 or carry:
+            a = s1.pop() if s1 else 0
+            b = s2.pop() if s2 else 0
+            sum = a + b + carry
+            carry, sum = divmod(sum, 10)
+            curr = ListNode(sum)
+            curr.next = head
+            head = curr
 
-    while i<l1_len or j<l2_len or carry:
-        if i < l1_len:
-            carry += l1_stack.pop()
-            i += 1
-        if j < l2_len:
-            carry += l2_stack.pop()
-            j += 1
-        temp = ListNode(carry%10)
-        temp.next = head
-        head = temp
-        carry //= 10
-
-    return head
+        return head
 ```
 
 ### Recursion
@@ -136,7 +128,7 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
             return None, 0
         if diff > 0:
             # currently ln1 is longer than ln2
-            # move the pointer at list1 to n1.next, don't move the pointer at list2
+            # move the pointer at list1 to ln1.next, don't move the pointer at list2
             next_node, carry = add_lists(ln1.next, ln2, diff-1)
             carry += ln1.val
         else:
