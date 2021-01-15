@@ -187,14 +187,12 @@ Zu meiner Familie gehören zwei Teile. Meine Großeltern wohnen jetzt in der Hei
 **K:** Guten Tag. Ich brauche zwei Flugtickets nach Amsterdam.  
 **V:** **Fliegen** Sie hin und zurück?  
 **K:** Ja, wir **fliegen** am 03. Mai hin und am 05. Mai zurück. Geht das?  
-**V:** Ja, das geht. **Abflug** am 03. Mai um 11.45 von Frankfurt. Dann sind Sie um 12.55 Uhr in Amsterdam. Der **Rückflug** ist am 05. Mai um 18.50 von Amsterdam mit Ankunft** in Frankfurt um 20 Uhr.  
+**V:** Ja, das geht. **Abflug** am 03. Mai um 11.45 von Frankfurt. Dann sind Sie um 12.55 Uhr in Amsterdam. Der **Rückflug** ist am 05. Mai um 18.50 von Amsterdam mit **Ankunft** in Frankfurt um 20 Uhr.  
 **K:** Was kosten die Flugtickets?  
 **V:** 129,18 Euro pro Person. Soll ich den Flug reservieren?  
 **K:** Ja, bitte.  
 **V:** Zahlen Sie mit Kreditkarte oder bar?  
 **K:** Mit Kreditkarte, bitte.  
-**V:** Hier sind ihre Flugtickets.  
-**K:\*\* Danke schön.
 :::
 
 Wohin war der Urlaub / die Reise?  
