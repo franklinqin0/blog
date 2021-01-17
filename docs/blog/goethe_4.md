@@ -82,19 +82,20 @@ Deutsch Notizen vom 30. März bis 8. Mai.
 - Ich empfehle Ihnen ...
 - Ich kann Ihnen einen Plan mit (den Abfahrtszeiten / den Preisen geben).
 
-#### Personalpronomen (静三动四)
+#### Personalpronomen
 
-| Nominativ | Akkusativ | Dativ |
-| --------- | --------- | ----- |
-| ich       | mich      | mir   |
-| du        | dich      | dir   |
-| er        | ihn       | ihm   |
-| es        | es        | ihm   |
-| sie       | sie       | ihr   |
-| wir       | uns       | uns   |
-| ihr       | euch      | euch  |
-| sie       | sie       | ihnen |
-| Sie       | Sie       | Ihnen |
+静三动四
+
+| Nominativ | Akkusativ | Dativ       |
+| --------- | --------- | ----------- |
+| ich       | mich      | mir         |
+| du        | dich      | dir         |
+| er        | ihn       | ihm         |
+| es        | es        | ihm         |
+| sie       | sie       | ihr         |
+| wir       | uns       | uns         |
+| ihr       | euch      | euch        |
+| sie/Sie   | sie/Sie   | ihnen/Ihnen |
 
 #### Dativ
 
