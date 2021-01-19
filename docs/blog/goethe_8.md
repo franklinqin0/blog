@@ -6,6 +6,7 @@ categories:
 tags:
   - Deutsch
 last: goethe_7
+next: goethe_9
 ---
 
 Deutsch Notizen vom Goethe Institut - A2 drei.
@@ -34,16 +35,42 @@ Deutsch Notizen vom Goethe Institut - A2 drei.
 Man soll den Baum nie allein lassen.
 
 Was sind für dich wichtige Feste?  
-Wann feierst du $\cdots$?  
+Wann feierst du den Valentinstag (A.)?  
 Wie feierst du $\cdots$?  
 Mit wem feierst du $\cdots$?  
 Wo feierst du $\cdots$?
+
+gehen reisen  
+gehen ins/zum Krankenhaus
+
+im Restaurant essen  
+zum Restaurant gehen
+
+### Redemittel
+
+Wann feiert man Valentinstag? $\rightarrow$ am 14. Februar
+Wann feiert man Halloween? $\rightarrow$ am 31. Oktober
+Wann feiert man Weihnachten? $\rightarrow$ von 24. bis 26. Dezember
+Wann feiert man Silvester? $\rightarrow$ am 31. Dezember
+Wann feiert man Karneval? $\rightarrow$ Im März oder April
+Wann feiert man Ostern? $\rightarrow$ im Februar oder März
+Was macht man an Weihnachten? $\rightarrow$ Einen Weihnachtsbaum aufstellen
+Was macht man an Silvester? $\rightarrow$ Eine Silvesterparty feiern & Ein Feuerwerk machen
+Was macht man an Ostern? $\rightarrow$ Ostereier verstecken
+Was sagt man an Silvester? $\rightarrow$ Frohes neues Jahr! / Prosit Neujahr!
+Was sagt man an Weihnachten? $\rightarrow$ Frohe Weihnachten!
+
+::: tip Weihnachten
+Weihnachten ist von 24. bis 26. Dezember. Das wichtig Fest ist ein Exporthit und wandert um den Globus. Man feiert mit Familien, Freunden, und Nachbarn zu Hause. Von einem Tannenbaum findet man unterschiedlich Geschenke (Äpfeln, Nüssen, Papierblummen), die der Weihnachtsmann oder das Christkind bringen.
+:::
 
 ### 三四格
 
 schenken + D.(jm) + A.(etw.)
 z.B.: Ich schenke meiner Mutter ein Buch.
 Ich kaufe meinem Sohn einen Bär.
+
+`schenken` `bringen` `geben` `leihen` `schreiben` `zeigen` `wünschen`
 
 [三四格人称对比](goethe_4#personalpronomen)
 
@@ -59,26 +86,69 @@ Ich schenke es meiner Schwester.
 Was ist für deine Eltern?  
 Ich schenke ihnen die DVDs.
 
-### Wechselpräpositionen
+### 介词
 
-`vor` `in` `auf` `über` `an` `zwischen` `neben` `hinter` `unter`
+#### Dativ
 
-Mit wem gehst du gern zur(+ f.) Oper?  
-Seit Wann kannst du schwimmen?  
-Was machtst du nach der Schule?  
-Wohin gehst du nach dem Urlaub?  
-Von wem bekommst du die Krawatte als Geschenk?  
-Wo warst du im Urlaub? Bei ihren Eltern?  
-Mit wem feierst du Silvester?
+`ab` `aus` `bei` `mit` `nach` `seit` `von` `zu`
+
+**Mit** wem gehst du gern zur(+ f.) Oper?  
+**Seit** wann kannst du schwimmen?  
+Was machtst du **nach** der Schule?  
+Wohin gehst du **nach** dem Urlaub?  
+**Von** wem bekommst du die Krawatte als Geschenk?  
+Wo warst du im Urlaub? **Bei** ihren Eltern?  
+**Mit** wem feierst du Silvester?
+
+#### Wechselpräpositionen + D./A.
+
+`in` `auf` `an` `neben` `vor` `hinter` `über` `unter` `zwischen`
+
+#### Akkusativ
+
+`bis` `durch` `für` `gegen` `ohne` `um`
 
 ## Einhalt 11 - Mit allen Sinnen
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
+| Deutsch       | Englisch       |
+| ------------- | -------------- |
+| drehen        | film           |
+| der Regisseur | director       |
+| der Teppich   | carpet         |
+| die Hoffnung  | hope           |
+| des Namens    | $\cdots$的名字 |
+|               |                |
 
+Der Teppich, über den die Stars zur Premiere laufen, ist der rote **Teppich**.  
+Ein Festival, auf dem man Filme sehen kann, ist ein **Filmfestival**.  
+Der Preis, den man für eine tolle Leistung im Film gewinnen kann, ist ein **Filmpreis**.  
+Menschen, die ein Theaterstück oder einen Film ausehen, nennt man **Zuschauer**.
 
+### Relativsatz: in/mit + D.
+
+Der Kurs besteht aus funf Migranten. Frau Stramel arbeitet im Moment in dem Kurs.  
+Der Kurs, in dem Frau Stramel im Moment arbeitet, besteht aus fünf Migranten.
+
+Louis Braille ist der Erfinder der Brailleschrift, mit **der** Blinde lesen und schreiben können.  
+Schon 1200 benutzt Franco von Köln Noten, mit **denen** er Musik aufschreibt.  
+BASIC ist eine Comptersprache, mit der Programmierer arbeiten.  
+Der Morsecode ist ein System, mit dem man Nachrichten schicken kann, aus Strichen und Punkten.  
+Die Körpersprache ist für den Menschen sehr wichtig, mit der man zeigen kann.
+
+### Filmgenres
+
+der Actionfilm  
+die Komödie  
+der Thriller  
+der Horrorfilm  
+die Tragödie  
+die Tragiekomödie
+
+### Phrasen
+
+es geht um  
 schuld sein an + D.  
 verzweifelt sein  
 etw. an den Nagel hängen  
@@ -91,12 +161,16 @@ sich etw. vor/stellen
 ### Sätze
 
 Das wissen wir auch: Die Gesischtsausdrücke, die man aus der eigenen Kultur kennt, versteht man am besten.  
-We also know that: the facial expressions that one knows from one's own culture are best understood.
+$\rightarrow$ We also know that: the facial expressions that one knows from one's own culture are best understood.
 
 Musik macht mich glücklich. Meine Lieblingslied ist Ode an die Freude, bei Beethoven, den freue ich mich sehr. Musiken in unterschiedliche Zeiten vermitteln einzigartig Gefühle.
 
 Er bekam den Preis.  
 Er hat den Preis bekommen.
+
+::: tip mein letzter Kinobesuch
+Ich habe zuletzt den Film „die Großmeister” (一代宗师) im Kino gesehen. Das ist ein Actionfilm von WKW. In dem Film geht es um die Geschichte von Yip Man und vielen anderen Großmeister. Der Ort der Handlung ist Foshan und Hong Kong, und die Zeit der Handlung ist von Qing-Dynastie bis PRC. Die Schauspieler sind Tony Leung, Ziyi Zhang und Zhen Zhang. Ich denke, das ist mein Lieblingsfilm von WKW.
+:::
 
 ### Verben mit A. & D.
 
@@ -154,6 +228,25 @@ Der Name (von) der Rose
 2. von + D.: das Auto von David
 3. Genitiv mit s: Davids Auto (nur bei Namen)
 
+:::
+
+::: tip Beispiel
+der Hund des Mädchens  
+die Katze der Nachbarn  
+das Fahrrad des Bruders  
+das Maskottchen der Fußballmannschaft  
+der Bleistift der Lehrerin  
+die Hitze des Sommers  
+die Häuser der Stadt  
+das Auto des Schauspielers  
+das Atelier des Künstlers  
+die Speisekarte des Restaurants  
+der neue Film der Regisseurin  
+die Farbe der Schuhe  
+das Rezept des Kochs  
+der Erfinder der Kontaktlinse  
+der Schrei des Monsters  
+der Motorroller der Frau
 :::
 
 ### Seinen 祈使句

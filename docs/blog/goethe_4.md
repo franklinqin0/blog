@@ -362,7 +362,7 @@ Franklin
 | entscheiden                     | decide          |
 | versprechen                     | promise         |
 | abfahren                        | depart          |
-| umsteigen                       | change          |
+| umsteigen                       | change 换车     |
 | einsteigen                      | get on          |
 | aussteigen                      | get off         |
 | fliegen                         | fly             |

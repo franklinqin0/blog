@@ -249,6 +249,35 @@ Plural (wir/sie): Infinitivstamm + _ten_
 Walter Gropius starb 1969 in Boston.  
 Walter Gropius ist 1969 in Boston gestorben.
 
+<!-- Ich mag/liebe $\cdots$
+Ich gehe gern $\cdots$
+Ich interessiere mich für $\cdots$
+Das interessiert mich (sehr).
+Ich bin ein/kein großer Fan von $\cdots$
+
+Ich bin neugierig auf A.
+Ich möchte gern A. besuchen.
+N. lohnt sich (nicht).
+Besonders interessiert mich N.
+Auf jeden/keinen Fall möchte ich A. sehen/besichen.
+Mich interessiert N., weil $\cdots$
+
+Weil ich finde/denke,
+dass das Schloss fantastisch ist/
+das Schloss ist fantastisch. -->
+
+::: tip Es gibt A.
+**Präteritum**  
+Was gab es/war früher in gz?  
+Früher gab es A.  
+Früher war hier N.
+
+**Präsens**  
+Was gibt es heute in gz?  
+Heute gibt es A.  
+Heute ist hier N.
+:::
+
 ## Einhalt 9 - Abeitswelten
 
 ## Wörter
@@ -259,6 +288,7 @@ Walter Gropius ist 1969 in Boston gestorben.
 | föhnen     | blow-dry |
 | die Kasse  | cashier  |
 | bestätigen | confirm  |
+| Ach was?   | Really?  |
 
 ## Beruf & Tätigkeit
 
@@ -286,3 +316,32 @@ Norbert repräsentiert Kriminelle vor Gericht; er ist **Anwalt**/**Rechtsanwalt*
 Lena hilft Passagieren im Flugzeug; sie ist **Stewardess**/**Flugbegleiterin**.  
 Florian spielt viele Rollen im Theater; er ist **Schauspieler**.  
 Margot arbeitet an der Kasse im Supermarkt; sie ist **Verkäuferin**.
+
+::: CV
+Ich habe gute Compterkenntnisse und spreche flüssiges Chinesisch und Englisch, auch ein bisschen Deutsch. Ich bin höflich, teamfähig, und flexibel. Spannende Aufgaben kann ich übernehmen und Termine kann ich organisieren und koordinieren.
+:::
+
+### Sätze
+
+::: tip Als
+Ich konnte mit 18 Auto fahren.  
+Ich konnte Auto fahren, als ich 18 war.  
+Als ich 18 war, konnte ich Auto fahren.
+
+Goethe war erst 16 Jahre alt, als er 1765 in Leipzig studierte.  
+Als er 1765 in Leipzig studierte, war Goethe erst 16 Jahre alt.
+
+Werther verliebte sich sofort in Lotte, als er sie auf einem Ball kennenlernte.  
+Als er sie auf einem Ball kennenlernt, verliebte Werther sich sofort in Lotte.
+
+Alexandr hat sich sofort in Weimar verliebt, als er 1999 zum ersten Mal die Stadt besucht.  
+Als er 1999 zum ersten Mal die Stadt besuchte, hat Alexandr sich sofort in Weimar verliebt.
+:::
+
+::: tip Lüge oder Wahrheit
+Als ich 13 war, wurde ich ein Wissenschaftler.  
+Ach was!  
+Doch, als ich 14 war, konnte ich Flugzeug fahren.  
+Ach was!  
+Mit 15 Jahren bin ich zur Universität gegangen.
+:::

@@ -37,3 +37,5 @@ There are different linguistic clues for determining word classes and categories
 - morphological clues: the internal structure of a word, e.g., _-ness_ and _-ment_
 - syntactic clues: the syntactic relation of a word to other words within a sentence
 - semantic clues: the meaning of a word
+
+Reasoning is **defeasible** when the corresponding argument is **rationally compelling** but **not deductively valid**. The truth of the premises of a good defeasible argument provide support for the conclusion, even though it is possible for the **premises** to be **true** and the **conclusion false**.

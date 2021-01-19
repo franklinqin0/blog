@@ -34,6 +34,9 @@ Es war super, aber zu kurz.
 Wohin seid ihr gefahren?  
 Wir sind nach Rom gefahren. / Wir waren zusammen in Rom.
 
+Womit reisen Sie am liebsten? 您最喜爱的交通工具是什么  
+Zu Fuß.
+
 Was habt ihr gemacht?  
 Wir haben die Altstadt besichtigt, Pizza gegessen, und das Kolosseum besucht.
 
@@ -43,6 +46,8 @@ Der Man macht den Kuchen aus Zucker und Mehl.
 Die Bäckerin: Sie hat gerade ihre Ausbildung beendet. Sie arbeitet jetzt in einer Bäckerei.  
 Die Bäckerin, die gerade ihre Ausbildung beendet hat, arbeitet jetzt in einer Bäckerei.  
 Die Bäckerin, die jetzt in einer Bäckerei arbeitet, hat gerade ihre Ausbildung beendet.
+
+Ich wohne lieber {in der Stadt / auf dem Land}, weil es Gute Angebote und mehr Freizeitmöglichkeiten gibt.
 
 ## Einhalt 5 - Medien in Alltag
 
@@ -77,72 +82,77 @@ Die Bäckerin, die jetzt in einer Bäckerei arbeitet, hat gerade ihre Ausbildung
 ### Sätze
 
 Hast du einen Internetanschluss?  
-Hattest du schon mal Probleme beim Einkaufen im Internet?
+Hattest du schon mal Probleme beim Einkaufen im Internet?  
+Kannst du zu Hause am Computer arbeiten?
 
-#### Einladung
+::: tip Social Media-Nutzung
+Mit dem Handy surfe ich im Internet. Oder ich höre oft Musik. Ich benutze auch täglich Wechat. Mit Wechat verschicke ich viele Nachrichten, aber wenige Fotos. Ich bekomme Newsletter und schaue ich kurze Videos an. Ich liebe diese App sehr, denn Wechat informiert mich über die große weite Welt.
+:::
 
-A: Worauf hast du Lust?  
-B: Ich habe Lust auf...
+::: tip Einladung
+**A:** Worauf hast du Lust?  
+**B:** Ich habe Lust auf...
 
-A: Was würdest du gern machen?  
-B: Ich würde gern $\cdots$
+**A:** Was würdest du gern machen?  
+**B:** Ich würde gern $\cdots$
 
-A: Wollen wir heute Abend etwas zusammen machen?  
-B: Ja, gerne. Worauf hast du Lust?  
-A: Ich habe Lust auf $\cdots$  
-B: Das finde ich super. / Gute Idee.  
-A: Dann machen wir das so. Bis dann.
+**A:** Wollen wir heute Abend etwas zusammen machen?  
+**B:** Ja, gerne. Worauf hast du Lust?  
+**A:** Ich habe Lust auf $\cdots$  
+**B:** Das finde ich super. / Gute Idee.  
+**A:** Dann machen wir das so. Bis dann.
 
-A: Wollen wir heute Abend etwas zusammen machen?  
-B: Ja, gerne. Worauf hast du Lust?  
-A: Ich habe Lust auf $\cdots$  
-B: Ach nee, darauf habe ich keine Lust. Ich würde lieber $\cdots$  
-A: Wir können zuerst $\cdots$, dann $\cdots$  
-B: Dann machen wir das so. Bis dann.
+**A:** Wollen wir heute Abend etwas zusammen machen?  
+**B:** Ja, gerne. Worauf hast du Lust?  
+**A:** Ich habe Lust auf $\cdots$  
+**B:** Ach nee, darauf habe ich keine Lust. Ich würde lieber $\cdots$  
+**A:** Wir können zuerst $\cdots$, dann $\cdots$  
+**B:** Dann machen wir das so. Bis dann.
+:::
 
-#### Adjektivendungen
+### Adjektivendungen
 
 <!-- a pic here -->
 
-Dialog 1
+::: tip Dialog 1
+**A:** Guten Tag! Ich habe bei Ihnen ein Notebook gekauft. Das möchte ich reklamieren.  
+**B:** Was ist denn das Problem?  
+**A:** Das Notebook funktioniert nicht.  
+**B:** Wann haben Sie das Notebook deen gekauft?  
+**A:** Vor einem Jahr. Ich habe noch Garantie. Können Sie das Notebook reparieren?  
+**B:** Klar. Kein Problem.
+:::
 
-A: Guten Tag! Ich habe bei Ihnen ein Notebook gekauft. Das möchte ich reklamieren.  
-B: Was ist denn das Problem?  
-A: Das Notebook funktioniert nicht.  
-B: Wann haben Sie das Notebook deen gekauft?  
-A: Vor einem Jahr. Ich habe noch Garantie. Können Sie das Notebook reparieren?  
-B: Klar. Kein Problem.
+::: tip Dialog 2
+**A:** Hallo! Ich habe bei Ihnen einen Pullover gekauft. Den möchte ich zurückgeben.  
+**B:** Warum denn? Gefällt er Ihnen nicht mehr?  
+**A:** Nein, er gefällt mir gut, aber er ist zu klein.  
+**B:** Ach so. Haben Sie den Kassenzettel?  
+**A:** Ja, ich habe den Kassenzettel hier. Können Sie mir mein Geld zurückgeben?  
+**B:** Ja, natürlich.
+:::
 
-Dialog 2
-
-A: Hallo! Ich habe bei Ihnen einen Pullover gekauft. Den möchte ich zurückgeben.  
-B: Warum denn? Gefällt er Ihnen nicht mehr?  
-A: Nein, er gefällt mir gut, aber er ist zu klein.  
-B: Ach so. Haben Sie den Kassenzettel?  
-A: Ja, ich habe den Kassenzettel hier. Können Sie mir mein Geld zurückgeben?  
-B: Ja, natürlich.
-
-#### Indirekte Fragen
+### Indirekte Fragen
 
 <!-- a pic -->
 
 Wo ist der Frühstücksraum?  
 Ich möchte wissen, wo der Frühstücksraum ist.
 
-#### Schnäppchenjagd im Internet
+### Schnäppchenjagd im Internet
 
 ::: tip
-A: Ich kaufe heute ein Fahrrad im Internet.  
-B: Wie bitte? Im Internet?  
-A: Ja. Das ist ganz einfach. Und das Angebot ist groß.  
-B: Aber, du kannst dir das Fahrrad doch gar nicht genau ansehen.  
-A: Doch, es gibt ein Foto.  
-B: Aber, du kannst es nicht testen.  
-A: Das stimmt. Aber es geht ganz schnell. In fünf Minuten habe ich das Rad bestellt. Und drei Tage später steht es bei mir zu Hause.  
-B: Das ist sehr unsicher. Ich brauche einen guten Verkäufer für alle meine Fragen.
+**A:** Ich kaufe heute ein Fahrrad im Internet.  
+**B:** Wie bitte? Im Internet?  
+**A:** Ja. Das ist ganz einfach. Und das Angebot ist groß.  
+**B:** Aber, du kannst dir das Fahrrad doch gar nicht genau ansehen.  
+**A:** Doch, es gibt ein Foto.  
+**B:** Aber, du kannst es nicht testen.  
+**A:** Das stimmt. Aber es geht ganz schnell. In fünf Minuten habe ich das Rad bestellt. Und drei Tage später steht es bei mir zu Hause.  
+**B:** Das ist sehr unsicher. Ich brauche einen guten Verkäufer für alle meine Fragen.
 :::
 
-##### Vorteile vs. Nachteile
+#### Vorteile vs. Nachteile
 
 Ich finde Einkaufen im Internet gut, **weil** das Angebot groß ist.  
 Das finde ich auch/nicht.
@@ -150,7 +160,7 @@ Das finde ich auch/nicht.
 Ein Vorteil beim online-Shopping ist, **dass** es ganz schnell geht.  
 Das glaube ich auch, aber ein Nachteil ist, dass Man nicht testen kann.
 
-#### Sich
+### Sich
 
 sich auf das Wochenende freuen  
 sich über schlechtes Wetter ärgern  
@@ -196,7 +206,7 @@ Zu viele E-Mails ärgern mich.
 Ich freue mich oft über Hilfe von Kollegen.  
 Auf Partys ärgere ich mich über zu viel Alkohol.
 
-#### Reflexive Verben (reflexivpronomen im Akkusativ)
+### Reflexive Verben (reflexivpronomen im A.)
 
 | Personalpronomen (N.) | Personalpronomen (A.) | Reflexivpronomen (A.) |
 | --------------------- | --------------------- | --------------------- |
@@ -207,8 +217,10 @@ Auf Partys ärgere ich mich über zu viel Alkohol.
 | ihr                   | euch                  | euch                  |
 | sie/Sie               | sie/Sie               | **sich**              |
 
+::: theorem
 第三人称反身代词单复数都用 sich  
 Nur die 3. Person hat im Singular und Plural eine eigene Form: sich.
+:::
 
 | N.  | v.   | A.            |
 | --- | ---- | ------------- |

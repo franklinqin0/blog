@@ -45,7 +45,7 @@ Deutsch Notizen vom Goethe Institut - A2 eins.
 | die Karriere   | career             |
 | die Tatsache   | fact               |
 | die Achtung    | respect, attention |
-| die Verwaltung | government         |
+| die Verwaltung | administration     |
 | die Fabrik     | factory            |
 | wie heute      | as today           |
 
