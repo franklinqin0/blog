@@ -23,11 +23,15 @@ Ich war schon in Berlin.
 Wo liegt denn Berlin?  
 Berlin liegt in Deutschland.
 
+Ich bin Student/Studentin.  
+Ich bin ein(e) Lehrer/Lehrerin.  
+Seit einem Jahr lerne ich Deutsch.
+
 ## Einhalt 1
 
 ### Wörter
 
-| Deutsch                    | Englisch                |
+| Deutsch                    | Sinn                    |
 | -------------------------- | ----------------------- |
 | die Eigenschaft            | characteristic property |
 | vermuten                   | suspect                 |
@@ -36,7 +40,7 @@ Berlin liegt in Deutschland.
 | Akk. unterstützen          | Dat. helfen             |
 | überhaupt nicht            | not at all              |
 | überlegen                  | consider                |
-| geizig                     | mean                    |
+| geizig                     | kein Geld ausgeben      |
 | klug                       | intelligent             |
 | streng                     | strict                  |
 | mutig                      | brave                   |
@@ -45,10 +49,23 @@ Berlin liegt in Deutschland.
 | verstärken                 | strengthen              |
 | abschwächen                | moderate                |
 | gegenseitig                | mutual                  |
+| die Ecke                   | corner                  |
+| Gibt gas!                  | 加油！                  |
+| ehrlich gesagt             | to be honest            |
+| beitreten                  | join                    |
+| widersprechen              | contradict              |
+| deshalb                    | thus                    |
+| beeinflussen               | influence               |
+| der Spruch                 | adage                   |
+| erlauben                   | arrow                   |
 
 Also meine Lieben ihr wundert euch sicher, warum ich gerade euch eingeladen habe, ihr kennt euch ja noch nicht mal, aber ich fahre ja jetzt für zwei Jahre nach Bulgarien und da wollte ich gern die Menschen einladen, die mir bei der Bulgarien Entscheidung geholfen haben, da wart ihr alle in den letzten Monaten besonders wichtig für mich.
 
 Was ist der Unterschied zwischen A und B?
+
+ebenso A wie B
+
+Charaktereigenschaften
 
 intelligent
 fair
@@ -66,8 +83,16 @@ mutig
 ernst 严肃的（不笑）
 frech
 nervös
-chaotisch - ordentlich
+chaotisch/durcheinander - ordentlich
+| offen | open |
 
 | ++                           | +        | -        | --                           |
 | ---------------------------- | -------- | -------- | ---------------------------- |
 | wahnsinnig<br>total<br> echt | ziemlich | nicht so | überhaupt nicht<br>gar nicht |
+
+Auf dich!
+Auf die Uni!
+Zum Wohl! Prost!
+
+der Junge
+das Mädchen

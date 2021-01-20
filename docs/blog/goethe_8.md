@@ -48,16 +48,16 @@ zum Restaurant gehen
 
 ### Redemittel
 
-Wann feiert man Valentinstag? $\rightarrow$ am 14. Februar
-Wann feiert man Halloween? $\rightarrow$ am 31. Oktober
-Wann feiert man Weihnachten? $\rightarrow$ von 24. bis 26. Dezember
-Wann feiert man Silvester? $\rightarrow$ am 31. Dezember
-Wann feiert man Karneval? $\rightarrow$ Im März oder April
-Wann feiert man Ostern? $\rightarrow$ im Februar oder März
-Was macht man an Weihnachten? $\rightarrow$ Einen Weihnachtsbaum aufstellen
-Was macht man an Silvester? $\rightarrow$ Eine Silvesterparty feiern & Ein Feuerwerk machen
-Was macht man an Ostern? $\rightarrow$ Ostereier verstecken
-Was sagt man an Silvester? $\rightarrow$ Frohes neues Jahr! / Prosit Neujahr!
+Wann feiert man Valentinstag? $\rightarrow$ am 14. Februar  
+Wann feiert man Halloween? $\rightarrow$ am 31. Oktober  
+Wann feiert man Weihnachten? $\rightarrow$ von 24. bis 26. Dezember  
+Wann feiert man Silvester? $\rightarrow$ am 31. Dezember  
+Wann feiert man Karneval? $\rightarrow$ Im März oder April  
+Wann feiert man Ostern? $\rightarrow$ im Februar oder März  
+Was macht man an Weihnachten? $\rightarrow$ Einen Weihnachtsbaum aufstellen  
+Was macht man an Silvester? $\rightarrow$ Eine Silvesterparty feiern & Ein Feuerwerk machen  
+Was macht man an Ostern? $\rightarrow$ Ostereier verstecken  
+Was sagt man an Silvester? $\rightarrow$ Frohes neues Jahr! / Prosit Neujahr!  
 Was sagt man an Weihnachten? $\rightarrow$ Frohe Weihnachten!
 
 ::: tip Weihnachten
