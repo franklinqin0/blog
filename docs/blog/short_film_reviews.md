@@ -66,6 +66,54 @@ p.s. 这部电影有三首好听的歌：陈百强的《喝采》、杨千嬅的
 
 现实的骨感烘托出小说的戏剧和超现实，古板正经的巴赫却写出了小步舞曲这样的情歌给他的夫人，真是部浪漫至极的电影，一个让人久久回味的梦幻世界。
 
+## 1917
+
+这部关于一战的战争片像一部爷爷讲给孙子听的睡前故事，遥远、传奇但真实。1917 年 4 月 6 日，因德国军队撤退时切断电话线，两名英国士兵被命令去步行相隔 8 小时的另一个英军军营传达第二天凌晨停止进攻以避免落入德军陷阱的消息。全片看起来一镜到底，但其实是由 10 多个最长 9 分钟的短片连接而成，带给了观众完美的浸入式体验。尽管如此，第一遍看时我没有发觉有任何剪接点，第二遍才看出些端倪。通过主角的视角，我也和他一起经过了德军战壕、樱桃农场、痛失战友、法国城镇、顺流而下、战火中狂奔等等的历险旅程。一部原本剧情平淡无奇的战争片在导演高超的场面调度和各部门万无一失的配合下让我在两小时中身临其境，沉浸战争的残忍、路途的遥远、完成任务的喜悦中。故事起于树下小憩，也终于树下小憩，只是开始是与最亲密的战友，结束时却只能在夕阳的余晖下独自看着妻儿的相片，憧憬归乡。画面中的人物内敛而自制，观众却不由自主地热泪盈眶。
+
+有几个场景让我感动得落泪：
+
+::: tip Schofield comforts Blake as he dies
+**LCpl Blake:** Will you write to my mum for me?  
+**LCpl Schofield:** I will.  
+**LCpl Blake:** Tell her I wasn’t scared.  
+**LCpl Schofield:** Anything else?  
+**LCpl Blake:** I love them. Talk to me. Tell me you know the way.  
+**LCpl Schofield:** I know the way. I'm going to head southeast until I get to Écoust. I'll pass through the town and out to the east, all the way to Croisilles Wood. I'll find the 2nd. I'll give them the message. And then I'll find your brother. Just like you, a little older.
+:::
+
+::: tip last lines, after Schofield gives Joseph some of Blake’s belongings
+**Lieutenant Joseph Blake:** What’s your name?  
+**LCpl Schofield:** Schofield, sir.  
+[Joseph is visibly emotional as he holds Blake’s belongings]  
+**Lieutenant Joseph Blake:** I’m sorry, what?  
+**LCpl Schofield:** It’s Schofield, sir. William Schofield. Will.  
+**Lieutenant Joseph Blake:** Well, you need some food. Get yourself to the mess tent.  
+[Schofield turns to go but stops and turns back]  
+**LCpl Schofield:** If I may, I’d like to write to your mother. Tell her that Tom wasn’t alone.  
+**Lieutenant Joseph Blake:** Of course.  
+**LCpl Schofield:** He was a good man. Always telling funny stories. He saved my life.  
+**Lieutenant Joseph Blake:** Well, I am glad you were with him.  
+[Josepsh shakes his hand]  
+**Lieutenant Joseph Blake:** Thank you, Will.  
+[Schofield finds a tree to sit under, looks at photos of his wife and children, one with the message “Come back to us” written on the back, and then closes his eyes]
+:::
+
+还有以下的台词：
+
+::: tip
+
+- "Down to Gehenna, or up to the Throne, He travels the fastest who travels alone." - General Erinmore
+- "Age before beauty." - LCpl Schofield
+- "I hated going home. I hated it. When I knew I couldn't stay. When I knew I had to leave, and they might never see me." - Lance Corporal Schofield
+- "I hoped today might be a good day. Hope is a dangerous thing." - Colonel MacKenzie
+- "There is only one way this war ends. Last man standing." - Colonel MacKenzie
+
+:::
+
+战争如此无情，分割了家庭。因为领袖一声令下，听话的士兵们在外国的土地上进行罪恶深重且毫无意义的屠杀。
+
+谢谢「1917」，我再次感到电影是个 immersive fantastic fantasy!
+
 <!-- 《缝纫机乐队》
 再见理想
 都选C

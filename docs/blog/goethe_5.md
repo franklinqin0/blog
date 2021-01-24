@@ -1,5 +1,5 @@
 ---
-title: Deutsch Lernen vom Goethe Institut - A2 eins
+title: Deutsch Notizen - A2 eins
 date: 2020-12-01
 categories:
   - study
@@ -9,11 +9,11 @@ last: goethe_4
 next: goethe_6
 ---
 
-Deutsch Notizen vom Goethe Institut - A2 eins.
+Deutsch Notizen für das Goethe Institut - A2 eins
 
 <!-- more -->
 
-## Einhalt 1 - Leben und lernen in Europa
+## Einheit 1 - Leben und lernen in Europa
 
 ### Wörter
 
@@ -153,7 +153,7 @@ Lieber Tee.
 Trinkst du mehr Cola als Wasser?  
 Ich trinke mehr Wasser.
 
-## Einhalt 2 - Familiengeschichten
+## Einheit 2 - Familiengeschichten
 
 ### Wörter
 
@@ -172,7 +172,7 @@ Meinen Freund liebe ich.
 
 Zu meiner Familie gehören zwei Teile. Meine Großeltern wohnen jetzt in der Heimatstadt in Hubei, aber ich lebe bei meinen Eltern in Guangzhou seit 2001. Ich bin Enzelkind und Single.
 
-## Einhalt 3 - Unterwegs
+## Einheit 3 - Unterwegs
 
 ### Wörter
 

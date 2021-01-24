@@ -1,5 +1,5 @@
 ---
-title: Deutsch Lernen vom Wanmen Basic
+title: Wanmen Basic
 date: 2020-07-12
 categories:
   - study
@@ -57,9 +57,10 @@ Notes taken from Wanmen University's free [basic German](https://www.wanmen.org/
 | $4 \times 4 = 16$                | Vier mals vier ist gleich sechzehn.         |
 | $10 \div 5 = 2$                  | Zehn (geteilt) durch fuenf ist gleich zwei. |
 
-| Deutsch                   | Englisch     |
-| ------------------------- | ------------ |
-| Keine Regel ohne Ausnahme | 规则总有例外 |
+| Deutsch                           | Englisch                       |
+| --------------------------------- | ------------------------------ |
+| Keine Regel ohne Ausnahme         | 规则总有例外                   |
+| Die Ausnahme bestätigt die Regel. | The exception proves the rule. |
 
 ### How are you?
 

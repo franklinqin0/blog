@@ -1,5 +1,5 @@
 ---
-title: Deutsch Lernen vom Goethe Institut - A1 vier
+title: Deutsch Notizen - A1 vier
 date: 2020-03-30
 sidebar: "auto"
 categories:

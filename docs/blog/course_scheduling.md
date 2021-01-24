@@ -179,4 +179,4 @@ My great thanks go to many of my friends, who listened to my vague ideas, challe
 
 My special thanks go to Professor [David Williamson](http://www.davidpwilliamson.net/work), who elegantly taught ORIE 3310 in spring 2017 at Cornell, patiently answered my ignorant questions in emails and suggested to me the extremely useful [Google OR-Tools](https://developers.google.com/optimization).
 
-My [very special thanks go to my mom](https://youtu.be/nBcJlo8QVHc), who helped find so many bugs in my initial system without grudges, and constantly inspired me to keep on refining it with support and encouragement.
+My [very special thanks go to my mom](https://youtu.be/nBcJlo8QVHc), who persistently helped find so many bugs in my initial system without grudges, and constantly encouraged me to keep on refining it.

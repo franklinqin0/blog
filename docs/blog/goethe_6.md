@@ -1,5 +1,5 @@
 ---
-title: Deutsch Lernen vom Goethe Institut - A2 zwei
+title: Deutsch Notizen - A2 zwei
 date: 2020-12-24
 categories:
   - study
@@ -9,11 +9,11 @@ last: goethe_5
 next: goethe_7
 ---
 
-Deutsch Notizen vom Goethe Institut - A2 zwei.
+Deutsch Notizen für das Goethe Institut - A2 zwei
 
 <!-- more -->
 
-## Einhalt 4 - Freizeit und Hobbys
+## Einheit 4 - Freizeit und Hobbys
 
 ::: theorem eine Reise planen und buchen
 **V:** Guten Tag.  
@@ -49,7 +49,7 @@ Die Bäckerin, die jetzt in einer Bäckerei arbeitet, hat gerade ihre Ausbildung
 
 Ich wohne lieber {in der Stadt / auf dem Land}, weil es Gute Angebote und mehr Freizeitmöglichkeiten gibt.
 
-## Einhalt 5 - Medien in Alltag
+## Einheit 5 - Medien in Alltag
 
 ### Wörter
 
@@ -227,7 +227,7 @@ Nur die 3. Person hat im Singular und Plural eine eigene Form: sich.
 | Ich | bade | meine Kinder. |
 | Ich | bade | mich.         |
 
-## Einhalt 6 - Ausgehen, Leute treffen
+## Einheit 6 - Ausgehen, Leute treffen
 
 ### Wörter
 

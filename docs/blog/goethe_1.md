@@ -1,5 +1,5 @@
 ---
-title: Deutsch Lernen vom Goethe Institut - A1 eins
+title: Deutsch Notizen - A1 eins
 date: 2020-03-02
 sidebar: "auto"
 categories:

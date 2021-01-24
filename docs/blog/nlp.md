@@ -32,6 +32,34 @@ Information retrieval (IR) is **finding** material (usually **documents**) of an
 - **part-of-speech tagging:** The process of classifying words into their parts of speech (POS)
 - **tagset:** the collection of part of speech tags used
 
+The **term frequency** $tf_{t,d}$ of term $t$ in document $d$ is defined as the number of times that $t$ occurs in $d$.
+
+large number of times in a single document $\rightarrow$ more relevant
+
+Relevance does not increase proportionally with term frequency
+
+$$
+td_{t, d}=\left\{\begin{array}{ll}
+1+\log _{10} tf_{t, d} & \text { if } tf_{t, d}>0 \\
+0 & \text { otherwise }
+\end{array}\right.
+$$
+
+**Document frequency** $df_{t}$ is the number of documents that $t$ occurs in.
+
+rare terms that occurs in one document but not others make it informative
+
+$$
+idf_{t}=\log _{10}\left(\frac{N}{df_{t}}\right)
+$$
+
+log transformation for both term frequency and document frequency
+
+|               | Relevant             | Non-relevant         |
+| ------------- | -------------------- | -------------------- |
+| Retrieved     | true positives (TP)  | false positives (FP) |
+| Not retrieved | false negatives (FN) | true negatives (TN)  |
+
 There are different linguistic clues for determining word classes and categories in general:
 
 - morphological clues: the internal structure of a word, e.g., _-ness_ and _-ment_

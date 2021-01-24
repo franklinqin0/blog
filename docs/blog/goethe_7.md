@@ -1,5 +1,5 @@
 ---
-title: Deutsch Lernen vom Goethe Institut - A2 drei
+title: Deutsch Notizen - A2 drei
 date: 2021-01-12
 categories:
   - study
@@ -9,11 +9,11 @@ last: goethe_6
 next: goethe_8
 ---
 
-Deutsch Notizen vom Goethe Institut - A2 drei.
+Deutsch Notizen für das Goethe Institut - A2 drei
 
 <!-- more -->
 
-## Einhalt 7 - Vom Land in die Stadt
+## Einheit 7 - Vom Land in die Stadt
 
 ### Wörter
 
@@ -97,7 +97,7 @@ immer ein _t_
 Musstet du mit 3 Jahren in den Kindergarten gehen?  
 Ich musste nicht. / Leider ja.
 
-## Einhalt 8 - Kultur erleben
+## Einheit 8 - Kultur erleben
 
 ## Wörter
 
@@ -188,12 +188,12 @@ Ich bin neugierig auf ...
 ::: theorem
 Zustandsänderung 位置/状态改变: sein, 一般用 haben  
 现在分词规则变化：-t, 不规则变化：-en  
-原型重音在后（如 besuchen, studieren, ver-），不加 ge-
+原型重音在后（如 be-, ver-, ent-, -ieren），不加 ge-
 :::
 
 | Infinitiv   | Perfekt (ich)     |
 | ----------- | ----------------- |
-| kommen      | bin gekommt       |
+| kommen      | bin gekommen      |
 | einschlafen | bin eingeschlafen |
 | aufstehen   | bin aufgestanden  |
 | bleiben     | bin gebleiben     |
@@ -207,6 +207,7 @@ Zustandsänderung 位置/状态改变: sein, 一般用 haben
 | fernsehen   | habe ferngesehen  |
 | anrufen     | habe angerufen    |
 | schwimmen   | habe geschwimmen  |
+| bringen     | habe gebracht     |
 | kochen      | habe gekocht      |
 | schreiben   | habe geschreibt   |
 | spilen      | habe gespielt     |
@@ -216,6 +217,10 @@ Zustandsänderung 位置/状态改变: sein, 一般用 haben
 | besuchen    | habe besucht      |
 | baden       | habe gebadet      |
 | kaufen      | habe gekauft      |
+| feiern      | habe gefeiert     |
+| abholen     | habe abgeholt     |
+| schneiden   | habe geschnitten  |
+| verpassen   | habe verpasst     |
 
 ### Regelmäßige Verben im Präteritum
 
@@ -278,7 +283,7 @@ Heute gibt es A.
 Heute ist hier N.
 :::
 
-## Einhalt 9 - Abeitswelten
+## Einheit 9 - Abeitswelten
 
 ## Wörter
 

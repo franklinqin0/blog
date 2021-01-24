@@ -20,16 +20,12 @@ This page documents good quotes I came across.
   - 努力！奋斗！
 - Elon Musk: I think it is possible for ordinary people to choose to be extraordinary.
 
----
-
 ## 2014 年 8 月 16 日
 
 由 HK 坐飞机去美国念书。晚上的飞机，白天无事，便凭着一股热情和少年无知一人在手机无网的情况下在 HK 乱逛。好在 MTR 的工作人员和 HK 的路人都十分热情礼貌，告知我路线。去了李小龙的住址（当时成为一家酒店）和黄家驹的墓。也许因不常去 HK，机会难得，当天的情景都历历在目，仿佛发生在昨日。在家驹的墓前，有一本石书，左右分别写：
 
 - 生命不在乎得到什么，只在乎做过什么
 - 摇滚精神，永垂不朽
-
----
 
 ## 2019 年 9 月
 
@@ -43,8 +39,6 @@ This page documents good quotes I came across.
 - Chastity is a wealth that comes from abundance of love
 - Let life be beautiful like **summer flowers** and death like **autumn leaves** (生如夏花之绚烂，死如秋叶之静美)
 - The grass seeks her crowd in the earth. The tree seeks his solitude of the sky
-
----
 
 ## 2019 年 11 月 30 日
 
@@ -67,8 +61,6 @@ This page documents good quotes I came across.
 
 当你选择不听不看，你确实比别人更快地找到“真理”，但你也一辈子站在原地。
 
----
-
 ## 2019 年 12 月 1 日
 
 最近又道听途说了以下的话，对未来的打算似乎清楚了些：
@@ -83,8 +75,6 @@ This page documents good quotes I came across.
 - 你知道应该在什么场合承认**自己的渺小**？在**智慧**面前，在**美**面前，在**大自然**面前，但**不是在人群面前**。在人群中，应该意识到**自己的尊严**
 - 叶卡捷琳娜二世：我时常告诉自己，幸福或是悲痛都取决于内心。如果遇见不幸，那就鼓起勇气去超越。即便眼前都是惨淡，人也可以快乐勇敢
 
----
-
 ## 2020 年 11 月 17 日
 
 1. 找到最拿手的事物，把它做到极致，无论做什么没有不成功的
@@ -92,29 +82,35 @@ This page documents good quotes I came across.
 3. 身心合一、排除一切
 4. 人生的秘密：完成事物不是工作，而是享受
 
----
+## 2021 年 1 月 20 日
+
+根据 HK 环保署的减废统计数据，回收业界转变营运模式，塑胶物料本地循环再造量由 2018 年的 55,800 公吨上升至 2019 年的 74,400 公吨，然而只是由 7％上升至 8％的分别。不过，回收只是处理废物最后的“守门员”。有研究指出，自 1950 年以来，人类制造的塑胶只有 9%被回收再造，而塑胶的特性是难以分解，落入自然环境中只会碎成塑胶微粒，并经由风、河流和雨水，污染每寸土地、海洋和冰川。以香港为例，我们于 2018 年已发现塑胶垃圾会经由大小河流，冲出吐露港污染海洋。因此，除了守好最后防线，我们亦须**从源头着手，减少塑胶污染**。
+
+## 2021 年 1 月 24 日
+
+人生基本上就是两件事，选题和解题。最好的人生是在每个关键点上，既选对题，又解好题。人生最大的痛苦在于解对了题，但选错了题，而且还不知道自己选错了题。正如人生最大的遗憾就是，不是你不行，而是你本可以。
 
 ## Quotes
 
-::: theorem
+::: tip
 To love oneself is the beginning of a lifelong romance.
 ::: right
 Oscar Wilde
 :::
 
-::: theorem
+::: tip
 The difference between stupidity and genius is that genius has it limits.
 ::: right
 Albert Einstein
 :::
 
-::: theorem
+::: tip
 At the heart of science is an essential balance between two seemingly contradictory attitudes--an openness to new ideas, no matter how bizarre or counterintuitive they may be, and the most ruthless skeptical scrutiny of all ideas, old and new. This is how deep truths are winnowed from deep nonsense.
 ::: right
 Carl Sagan
 :::
 
-::: theorem
+::: tip
 
 - Sometimes it is the people no one can imagine anything of who do the things no one can imagine.
 - We shall do a much better programming job, provided we approach the task with a full appreciation of its tremendous difficulty, provided that we respect the intrinsic limitations of the human mind and approach the task as very humble programmers.
@@ -123,19 +119,19 @@ Carl Sagan
 Alan Turing
 :::
 
-::: theorem
+::: tip
 I think that it’s extraordinarily important that we in computer science keep fun in computing. When it started out, it was an awful lot of fun…I hope the field of computer science never loses its sense of fun…What’s in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led up to it, that you can make it more.
 ::: right
 Alan J. Perlis
 :::
 
-::: theorem
+::: tip
 Information is the resolution of uncertainty.
 ::: right
 Claude Elwood Shannon
 :::
 
-::: theorem
+::: tip
 
 - Testing shows the presence, not the absence of bugs.
 - Elegance is not a dispensable luxury but a quality that decides between success and failure.
@@ -145,7 +141,7 @@ Claude Elwood Shannon
 Edsger Wybe Dijkstra
 :::
 
-::: theorem
+::: tip
 
 - Premature optimization is the root of all evil.
 - When I speak about computer programming as an art, I am thinking primarily of it as an art form, in an aesthetic sense. The chief goal of my work as an educator and author is to help people learn how to write beautiful programs ... My feeling is that when we prepare a program, the experience can be just like composing poetry or music ... Some programs are elegant, some are exquisite, some are sparkling. My claim is that it is possible to write grand programs, noble programs, truly magnificent ones! ... computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. Programmers who subconsciously view themselves as artists will enjoy what they do and will do it better.
@@ -154,19 +150,19 @@ Edsger Wybe Dijkstra
 Donal Knuth
 :::
 
-::: theorem
+::: tip
 There are two ways of constructing a software design. One way is to make it so simple that there are obviously no deficiencies. And the other way is to make it so complicated that there are no obvious deficiencies.
 ::: right
 Tony Hoare
 :::
 
-::: theorem
+::: tip
 The purpose of computation is insight, not numbers.
 ::: right
 Richard Hamming
 :::
 
-::: theorem
+::: tip
 
 - Software is like sex: It's better when it's free.
 - Talk is cheap. Show me the code.
@@ -179,19 +175,19 @@ Richard Hamming
 Linus Torvalds
 :::
 
-::: theorem
+::: tip
 Success is a lousy teacher. It seduces smart people into thinking they can't lose. And it's an unreliable guide to the future.
 ::: right
 Bill Gates
 :::
 
-::: theorem
+::: tip
 Now, it's my belief that Python is a lot easier than to teach to students programming and teach them C or C++ or Java at the same time because all the details of the languages are so much harder. Other scripting languages really don't work very well there either.
 ::: right
 Guido van Rossum
 :::
 
-::: theorem
+::: tip
 The function of good software is to make the complex appear to be simple.
 ::: right
 Grady Booch
@@ -199,19 +195,19 @@ Grady Booch
 
 即使除去所有的太阳、长眠不醒，也不愿与你分离。世人从这句话中体会到了爱人间的浪漫，但可曾痛苦于执着？Love is a sweet pain.
 
-::: theorem
+::: tip
 三千世界鸦杀尽，与君共寝至天明
 ::: right
 高杉晋作
 :::
 
-::: theorem
+::: tip
 子夏曰：“博学而笃志，切问而近思，仁在其中矣。”
 ::: right
 《论语·子张》
 :::
 
-::: theorem
+::: tip
 Be fearful when others are greedy. Be greedy when others are fearful.
 ::: right
 Warren Buffett

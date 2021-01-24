@@ -1,5 +1,5 @@
 ---
-title: Deutsch Lernen vom Goethe Institut - A2 vier
+title: Deutsch Notizen - A2 vier
 date: 2021-01-14
 categories:
   - study
@@ -9,11 +9,11 @@ last: goethe_7
 next: goethe_9
 ---
 
-Deutsch Notizen vom Goethe Institut - A2 drei.
+Deutsch Notizen für das Goethe Institut - A2 vier
 
 <!-- more -->
 
-## Einhalt 10 - Feste und Feiern
+## Einheit 10 - Feste und Feiern
 
 ### Wörter
 
@@ -108,7 +108,7 @@ Wo warst du im Urlaub? **Bei** ihren Eltern?
 
 `bis` `durch` `für` `gegen` `ohne` `um`
 
-## Einhalt 11 - Mit allen Sinnen
+## Einheit 11 - Mit allen Sinnen
 
 ### Wörter
 
@@ -174,7 +174,10 @@ Ich habe zuletzt den Film „die Großmeister” (一代宗师) im Kino gesehen.
 
 ### Verben mit A. & D.
 
-静三动四
+::: theorem
+静三动四  
+stecken & hängen 动和静是同样的词
+:::
 
 | Richtung/Bewegung + **A.** | Ort + **D.** |
 | -------------------------- | ------------ |
@@ -190,8 +193,6 @@ Ich bin in der Schule.
 
 Ich lege(legen) das Buch auf den(A.) Tisch.  
 Das Buch liegt(liegen) auf dem Tisch.
-
-stecken & hängen 动和静是同样的词
 
 Sie hängt die Lampe an die Decke.  
 Die Lampe hängt an der Decke.
@@ -262,10 +263,54 @@ ekeln 第一人称：ekle
 
 ### Verben + D.
 
-`gefallen` `schmecken` `fehlen`
+`gefallen` `gehören` `antworten` `passen` `helfen` `danken` `gratulieren` `schmecken` `fehlen` `es geht`
 
 Der Schmuck gefällt mir (sehr). $=$ Ich mag den Schmuck.  
 Was magst du? $=$ Was gefällt dir/Ihnen?
 
 Ich helfe dir.  
 Anna hilft ihrem Bruder.
+
+Du fehlst mir. $=$ Ich vermisse dich.
+
+Wir sprechen über einen wichtigen Menschen.
+
+## Einheit 12 - Ideen und Erfindungen
+
+::: man, Mann, Menschen
+man 接第三人称单数动词
+Mann 与 Frau 对应
+Menschen 与 Tiere 对应
+:::
+
+Die Suppe wird gakocht.  
+Die Schokolade wird warm gemacht.  
+Die Prüfung wird kontroliert.  
+Die Berliner Mauer wurde im Jahr 1961 gebaut.  
+Ein/Die Laptop wird gekauft.
+
+backen + A  
+mischen + A (+ mit)  
+unter/heben + A  
+überziehen + A  
+hinzu/geben + A
+
+### Passiv: Präsens & Präteritum
+
+|           | Präsens   | Präteritum |
+| --------- | --------- | ---------- |
+| ich       | werde     | wurde      |
+| du        | w**i**rst | wurdest    |
+| er/es/sie | w**i**rd  | wurde      |
+| wir       | werden    | wurden     |
+| ihr       | werdet    | wurdet     |
+| sie/Sie   | werden    | wurden     |
+
+### an 和 in 接时间时用 Dativ
+
+in der letzten Woche  
+an dem ersten Tag  
+am Morgan, am Freitag
+
+Bei uns/mir/dir/ihm gibt es immer Feuerwerk am Silvester.  
+Leztes Jahr sind wir nach Spanien grfahren.
