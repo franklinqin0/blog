@@ -27,7 +27,7 @@ Ich bin Student/Studentin.
 Ich bin ein(e) Lehrer/Lehrerin.  
 Seit einem Jahr lerne ich Deutsch.
 
-## Einheit 1
+## Lektion 1
 
 ### Wörter
 
@@ -62,11 +62,16 @@ Seit einem Jahr lerne ich Deutsch.
 | schüchtern                 | shy                     |
 | morgen früh                | tomorrow morning        |
 | schwach                    | weak                    |
-| erledigen                  | close                   |
+| erledigen                  | fertig machen           |
 | sich bewegen               | behave                  |
 | Energie tanken             | recharge energy         |
 | schlank                    | slim                    |
 | anwenden                   | apply                   |
+| abgeben                    | deliver                 |
+| Nachhilfe                  | tutoring                |
+| beeinflussen               | influence               |
+
+Ich habe meine Aufgaben erledigt.
 
 Also meine Lieben ihr wundert euch sicher, warum ich gerade euch eingeladen habe, ihr kennt euch ja noch nicht mal, aber ich fahre ja jetzt für zwei Jahre nach Bulgarien und da wollte ich gern die Menschen einladen, die mir bei der Bulgarien Entscheidung geholfen haben, da wart ihr alle in den letzten Monaten besonders wichtig für mich.
 
@@ -110,7 +115,7 @@ Schwache Nomen
 
 n-Deklination
 
-## Einheit 2
+## Lektion 2
 
 Ich habe Respekt vor ihrer Eltern.
 
@@ -168,3 +173,60 @@ umgehen mit
 Mein Vater kann nicht mit dem Computer umgehen.
 
 auswendig lernen
+
+## Lektion 3
+
+| Deutsch                                 | Bedeutung                                                |
+| --------------------------------------- | -------------------------------------------------------- |
+| die Leidenschaft                        | passion                                                  |
+| der Makler                              | estate agent                                             |
+| der Hausmeister                         | caretaker                                                |
+| die Innenstadt                          | city center                                              |
+| der Vorort                              | suburb                                                   |
+| das Reihenhaus                          | 联排别墅                                                 |
+| der Wohnblock                           | residential block                                        |
+| das Einfamilienhaus                     | house                                                    |
+| das Apartment                           | apartment                                                |
+| die Wohnfläche                          | living space                                             |
+| Grundstück                              | plot of land                                             |
+| der Innenhof                            | courtyard, patio                                         |
+| vergraben                               | bury                                                     |
+| der Ofen                                | oven, furnace                                            |
+| der Fahrstuhl<br>der Lift<br>der Aufzug | elevator                                                 |
+| die Dachterrasse                        | roof terrace                                             |
+| die Klobürste                           | toilet brush                                             |
+| aufs Klo/auf Toillette gehen            | go to the toilet                                         |
+| das Stockwerk                           | floor storey                                             |
+| die Eigentumswohnung                    | owner-occupied flat                                      |
+| einrichten                              | furnish                                                  |
+| der Mangel                              | shortage                                                 |
+| herrschen                               | rule, prevail                                            |
+| weit entfernt                           | far away                                                 |
+| der Besitz                              | property                                                 |
+| begegnen, die Begegnung                 | encounter                                                |
+| ankommen                                | arrive                                                   |
+| weihen                                  | unveil                                                   |
+| der Zugang                              | access                                                   |
+| erben                                   | inherit                                                  |
+| das Quartier                            | accommodation                                            |
+| der Anspruch                            | demand                                                   |
+| schließlich                             | at last                                                  |
+| vorhin                                  | a short time ago                                         |
+| der Abstand                             | distance                                                 |
+| erscheinen                              | appear                                                   |
+| beschweren                              | complain                                                 |
+| der Eintritt                            | entrance                                                 |
+| eine Rolle spielen                      | wichtig sein                                             |
+| keine Rolle spielen                     | nicht wichtig sein                                       |
+| Worauf achten Sie bei der Wohnungwahl?  | What do you pay attention to when choosing an apartment? |
+
+eine Villa am Meer
+im Vorort wohnen
+in den Vorort umziehen
+
+zentrale Lage = central location
+
+Mein Beruf ist meine Leidenschaft.
+
+saß
+sitzen
