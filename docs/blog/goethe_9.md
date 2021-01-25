@@ -6,6 +6,7 @@ categories:
 tags:
   - Deutsch
 last: goethe_8
+publish: false
 ---
 
 Deutsch Notizen für das Goethe Institut - B1.1 eins
@@ -79,26 +80,29 @@ Was ist der Unterschied zwischen A und B?
 
 ebenso A wie B
 
-Charaktereigenschaften
+## Charaktereigenschaften
 
-intelligent
-fair
-realistisch
-| großzügig | generous |
-| vernünftig | sensible |
-| sparsam | thrifty |
-| treu | loyal |
-| aufmerksam | attentive |
-kreativ
-ordentlich
-streng 严厉的（纪律）
-kritisch
-mutig
-ernst 严肃的（不笑）
-frech
-nervös
-chaotisch/durcheinander - ordentlich
-| offen | open |
+| Deutsch                 | Bedeutung         |
+| ----------------------- | ----------------- |
+| intelligent             | intelligent       |
+| fair                    | fair              |
+| realistisch             | realistic         |
+| großzügig               | generous          |
+| vernünftig              | sensible          |
+| sparsam                 | thrifty           |
+| treu                    | loyal             |
+| zuverlässig             | reliable          |
+| aufmerksam              | attentive         |
+| kreativ                 | creative          |
+| ordentlich              | tidy, orderly     |
+| streng                  | 严厉的（纪律）    |
+| kritisch                | critical          |
+| mutig                   | brave             |
+| ernst                   | 严肃的（不笑）    |
+| frech                   | impertinent       |
+| nervös                  | nervous           |
+| chaotisch/durcheinander | $\neg$ ordentlich |
+| offen                   | open              |
 
 | ++                           | +        | -        | --                           |
 | ---------------------------- | -------- | -------- | ---------------------------- |
@@ -111,9 +115,7 @@ Zum Wohl! Prost!
 der Junge
 das Mädchen
 
-Schwache Nomen
-
-n-Deklination
+### Schwache Nomen / n-Deklination
 
 ## Lektion 2
 
@@ -176,49 +178,55 @@ auswendig lernen
 
 ## Lektion 3
 
-| Deutsch                                 | Bedeutung                                                |
-| --------------------------------------- | -------------------------------------------------------- |
-| die Leidenschaft                        | passion                                                  |
-| der Makler                              | estate agent                                             |
-| der Hausmeister                         | caretaker                                                |
-| die Innenstadt                          | city center                                              |
-| der Vorort                              | suburb                                                   |
-| das Reihenhaus                          | 联排别墅                                                 |
-| der Wohnblock                           | residential block                                        |
-| das Einfamilienhaus                     | house                                                    |
-| das Apartment                           | apartment                                                |
-| die Wohnfläche                          | living space                                             |
-| Grundstück                              | plot of land                                             |
-| der Innenhof                            | courtyard, patio                                         |
-| vergraben                               | bury                                                     |
-| der Ofen                                | oven, furnace                                            |
-| der Fahrstuhl<br>der Lift<br>der Aufzug | elevator                                                 |
-| die Dachterrasse                        | roof terrace                                             |
-| die Klobürste                           | toilet brush                                             |
-| aufs Klo/auf Toillette gehen            | go to the toilet                                         |
-| das Stockwerk                           | floor storey                                             |
-| die Eigentumswohnung                    | owner-occupied flat                                      |
-| einrichten                              | furnish                                                  |
-| der Mangel                              | shortage                                                 |
-| herrschen                               | rule, prevail                                            |
-| weit entfernt                           | far away                                                 |
-| der Besitz                              | property                                                 |
-| begegnen, die Begegnung                 | encounter                                                |
-| ankommen                                | arrive                                                   |
-| weihen                                  | unveil                                                   |
-| der Zugang                              | access                                                   |
-| erben                                   | inherit                                                  |
-| das Quartier                            | accommodation                                            |
-| der Anspruch                            | demand                                                   |
-| schließlich                             | at last                                                  |
-| vorhin                                  | a short time ago                                         |
-| der Abstand                             | distance                                                 |
-| erscheinen                              | appear                                                   |
-| beschweren                              | complain                                                 |
-| der Eintritt                            | entrance                                                 |
-| eine Rolle spielen                      | wichtig sein                                             |
-| keine Rolle spielen                     | nicht wichtig sein                                       |
-| Worauf achten Sie bei der Wohnungwahl?  | What do you pay attention to when choosing an apartment? |
+| Deutsch                                 | Bedeutung           |
+| --------------------------------------- | ------------------- |
+| die Leidenschaft                        | passion             |
+| der Makler                              | estate agent        |
+| der Hausmeister                         | caretaker           |
+| die Innenstadt                          | city center         |
+| der Vorort                              | suburb              |
+| das Reihenhaus                          | 联排别墅            |
+| der Wohnblock                           | residential block   |
+| das Einfamilienhaus                     | house               |
+| das Apartment                           | apartment           |
+| die Wohnfläche                          | living space        |
+| Grundstück                              | plot of land        |
+| der Innenhof                            | courtyard, patio    |
+| vergraben                               | bury                |
+| der Ofen                                | oven, furnace       |
+| der Fahrstuhl<br>der Lift<br>der Aufzug | elevator            |
+| die Dachterrasse                        | roof terrace        |
+| die Klobürste                           | toilet brush        |
+| aufs Klo/auf Toillette gehen            | go to the toilet    |
+| das Stockwerk                           | floor storey        |
+| die Eigentumswohnung                    | owner-occupied flat |
+| einrichten                              | furnish             |
+| der Mangel                              | shortage            |
+| herrschen                               | rule, prevail       |
+| weit entfernt                           | far away            |
+| der Besitz                              | property            |
+| begegnen, die Begegnung                 | encounter           |
+| ankommen                                | arrive              |
+| weihen                                  | unveil              |
+| der Zugang                              | access              |
+| erben                                   | inherit             |
+| das Quartier/die Unterkunft             | accommodation       |
+| der Anspruch                            | demand              |
+| schließlich                             | at last             |
+| vorhin                                  | a short time ago    |
+| der Abstand                             | distance            |
+| erscheinen                              | appear              |
+| beschweren                              | complain            |
+| der Eintritt                            | entrance            |
+| zurzeit                                 | at the present      |
+
+### Sätze
+
+| Deutsch                                | Bedeutung                                                |
+| -------------------------------------- | -------------------------------------------------------- |
+| eine Rolle spielen                     | wichtig sein                                             |
+| keine Rolle spielen                    | nicht wichtig sein                                       |
+| Worauf achten Sie bei der Wohnungwahl? | What do you pay attention to when choosing an apartment? |
 
 eine Villa am Meer
 im Vorort wohnen
