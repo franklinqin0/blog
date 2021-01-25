@@ -114,6 +114,8 @@ p.s. 这部电影有三首好听的歌：陈百强的《喝采》、杨千嬅的
 
 谢谢「1917」，我再次感到电影是个 immersive fantastic fantasy!
 
+p.s. [电影配乐](https://youtu.be/iNhu4KmR2bI)真的太好听了 😭
+
 <!-- 《缝纫机乐队》
 再见理想
 都选C
