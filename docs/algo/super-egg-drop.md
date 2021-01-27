@@ -10,17 +10,16 @@ related:
 
 <img class="medium-zoom" src="/algo/super-egg-drop.png" alt="https://leetcode.com/problems/super-egg-drop">
 
-This problem is equivalent to [Drop Eggs II at Lintcode](https://www.lintcode.com/problem/drop-eggs-ii) but harder to pass.
-
 ## Solution
 
 See [this video](https://youtu.be/mLV_vOet0ss) for perfect explanation on this problem and [the previous easier problem](drop_eggs).
 
-Let `i` be the one of `m` eggs, and `j` be one of the `n` floors.
+Let `i` be the one of `K` eggs, and `j` be one of the `N` floors.
 
 ### Iterative DP (TLE)
 
-The recurrence relation is:  
+The recurrence relation is:
+
 $$dp(i, j) = \min_{1 \le k \le j}\left(\max(dp(i-1, k-1), dp(i, j-k)) \right)$$
 
 #### Explanation on Recurrence Relation

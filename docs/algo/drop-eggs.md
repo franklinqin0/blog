@@ -12,7 +12,7 @@ related:
 
 ## Solution
 
-See [this video](https://youtu.be/mLV_vOet0ss) for perfect explanation on this problem and [the next harder problem](super-egg-drop).
+See [this video](https://youtu.be/mLV_vOet0ss) for perfect explanation on this problem and [the following harder problem](super-egg-drop).
 
 ### Math
 
@@ -23,7 +23,7 @@ import math
 
 def dropEggs(self, n):
     x = int(math.sqrt(2 * n))
-    while x * (x + 1) / 2 < n:
+    while x * (x+1) / 2 < n:
         x += 1
     return x
 ```

@@ -9,11 +9,9 @@ tags:
 
 ## Solution
 
-Both solutions take $O(len(coins) * amount)$ time and $O(amount)$ space.
+Both solutions take $O(len(\text{coins}) * \text{amount})$ time and $O(\text{amount})$ space.
 
 ### Recursive DP - Top down (TLE)
-
-Doesn't work for Python but is good for other PL's.
 
 ```py
 def coinChange(self, coins: List[int], amount: int) -> int:

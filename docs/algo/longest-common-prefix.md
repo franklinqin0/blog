@@ -22,7 +22,7 @@ The commented line handles the case when only 1 string is in list. Not needed fo
 ::: theorem Complexity
 time: $O(S)$
 
-- best case: there are at most $n \times minLen$ comparisons ($minLen$ is the length of the shortest string in the array)
+- best case: there are at most $n \cdot minLen$ comparisons ($minLen$ is the length of the shortest string in the array)
 - worst case: all `n` strings are the same
 
 space: $O(1)$

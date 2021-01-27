@@ -7,15 +7,9 @@ tags:
 
 <img class="medium-zoom" src="/algo/find-the-celebrity.png" alt="https://leetcode.com/problems/find-the-celebrity">
 
-## Knows API already defined
-
-```py
-def knows(a: int, b: int) -> bool:
-```
-
 ## Solution
 
-Note that it takes $O(n)$ time to check if a person is a celebrity.
+Note that `knows(a: int, b: int)` returns a `bool`, and it takes $O(n)$ time to check if a person is a celebrity.
 
 ### Brute Force
 

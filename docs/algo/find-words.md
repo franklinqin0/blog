@@ -64,7 +64,7 @@ def findWords(self, str, dict):
 `index` records the matched position of words in `dict`. Search across `str`, if `index[j]` is at least as long as length of current word, then word is already matched. Else if char `str[i]` is equal to next char of word `j`, increment `index[j]` by 1. Note that we can't just append word to `res` as soon as `index[j] >= len(dict[j])`, as the problem requires `res` to be in dictionary order.
 
 ::: theorem Complexity
-time: $O(n * m)$  
+time: $O(n \cdot m)$  
 space: $O(n)$
 :::
 
@@ -92,7 +92,7 @@ Helper function `binary_search` searches for `cur_index` in sorted `char_list` a
 `mapping` stores mappings from char in `str` to char position. For each word in `dict`, binary searches for `char` in `char_list`.
 
 ::: theorem Complexity
-time: $O(n * m)$  
+time: $O(n \cdot m)$  
 space: $O(n)$
 :::
 

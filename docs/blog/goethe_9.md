@@ -180,6 +180,8 @@ auswendig lernen
 
 ## Lektion 3
 
+### Wörter
+
 | Deutsch                                 | Bedeutung           |
 | --------------------------------------- | ------------------- |
 | die Leidenschaft                        | passion             |
@@ -262,38 +264,44 @@ sich um A. kümmern
 
 ## Lektion 4
 
-| Deutsch                   | Bedeutung                |
-| ------------------------- | ------------------------ |
-| mehrfach                  | multiple                 |
-| die Werbung               | advertising              |
-| das Rätselheft            | puzzle magazine          |
-| der Verlag                | publisher                |
-| beschweren                | complain                 |
-| Reklamation               | complaint                |
-| obwohl                    | trotzdem                 |
-| zuständig                 | appropriate, proper      |
-| kündigen                  | cancel                   |
-| durchwählen               | direct dial              |
-| ansagen                   | announce                 |
-| erhalten                  | receive                  |
-| die Auskunft              | information              |
-| einleiten                 | start, introduce         |
-| die Abteilung             | department               |
-| ausrichten                | tell sb sth              |
-| besetzt                   | occupied                 |
-| außer Haus                | outside of the house     |
-| zu Tisch gehen            | eine Mittagspause machen |
-| Das kann passieren.       | Das ist ok.              |
-| Schönen Tag noch.         | Danke, ebenso!           |
-| wegen                     | b/c of                   |
-| verderben                 | go bad                   |
-| feststellen               | realize                  |
-| merken                    | notice                   |
-| solch                     | such                     |
-| die Kiste                 | box                      |
-| unverschämt               | impertinent, inpudent    |
-| sich bei jmdm. beschweren | complain to sb.          |
+### Wörter
+
+| Deutsch                  | Bedeutung             |
+| ------------------------ | --------------------- |
+| mehrfach                 | multiple              |
+| die Werbung              | advertising           |
+| das Rätselheft           | puzzle magazine       |
+| der Verlag               | publisher             |
+| beschweren               | complain              |
+| Reklamation              | complaint             |
+| obwohl                   | trotzdem              |
+| zuständig                | appropriate, proper   |
+| kündigen                 | cancel                |
+| durchwählen              | direct dial           |
+| ansagen                  | announce              |
+| erhalten                 | receive               |
+| die Auskunft             | information           |
+| einleiten                | start, introduce      |
+| die Abteilung            | department            |
+| ausrichten               | tell sb sth           |
+| besetzt                  | occupied              |
+| wegen                    | b/c of                |
+| verderben                | go bad                |
+| feststellen              | realize               |
+| merken                   | notice                |
+| solch                    | such                  |
+| die Kiste                | box                   |
+| die Anrede               | form of address       |
+| unverschämt              | impertinent, inpudent |
+| sich bei jdm. beschweren | complain to sb.       |
+
+## Sätze
+
+| Deutsch             | Bedeutung                |
+| ------------------- | ------------------------ |
+| außer Haus          | outside of the house     |
+| zu Tisch gehen      | eine Mittagspause machen |
+| Das kann passieren. | Das ist ok.              |
+| Schönen Tag noch.   | Danke, ebenso!           |
 
 Können Sie mir helfen? Ich suche ein Deutschbuch für einen Jugendlichen.
-
-Anrede

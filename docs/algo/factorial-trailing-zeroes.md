@@ -15,7 +15,7 @@ Brute force solution is to calculate $n!$ and keep dividing by and count number 
 
 ### Number of 5's
 
-Factor a number: $60 = 2 \times 2 \times 3 \times 5$. We can see $60$ only has 1 trailing zero b/c the number of pair of $2$ and $5$ is 1.
+Factor a number: $60 = 2 \cdot 2 \cdot 3 \cdot 5$. We can see $60$ only has 1 trailing zero b/c the number of pair of $2$ and $5$ is 1.
 
 For a factorial, the number of `2`'s is definitely more than that of `5`'s.
 

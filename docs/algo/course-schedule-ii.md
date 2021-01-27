@@ -10,6 +10,8 @@ tags:
 
 ## Solution
 
+### BFS
+
 This problem is similar to the [previous problem](course-schedule), but returns the `order`ed list of courses to take rather than a boolean to decide if courses can be finished.
 
 ::: theorem Complexity
@@ -29,9 +31,8 @@ def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int
     # calc indegrees for each course
     for i, j in prerequisites:
         # if A -> B, then B's indegrees + 1
-        if i not in edges[j]:
-            indegrees[i] += 1
-            edges[j].add(i)
+        indegrees[i] += 1
+        edges[j].add(i)
 
     # add courses w/ 0 indegree to queue
     queue = []

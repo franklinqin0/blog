@@ -81,7 +81,6 @@ def intToRoman(self, num: int) -> str:
         for _ in range(times):
             res += symbols[digit]
         digit += 1
-    print(res)
     return res
 ```
 

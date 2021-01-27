@@ -17,9 +17,7 @@ Brute-force approach would be to recurse by reducing `cs[n]` to `cs[n-1] + cs[n-
 
 We will just start from the memoized recursion.
 
-### Recursion w/ Memoization
-
-This is DP, the _recursive_ version.
+### Recursive DP
 
 We could use recursion w/ the memoized array to trade time.
 
@@ -44,9 +42,7 @@ def climbStairs(self, n: int) -> int:
     return cs(n, memo)
 ```
 
-### Iteration & Build Up Array
-
-This is DP, the _iterative_ version.
+### Iterative DP
 
 ::: theorem Complexity
 time: $O(n)$  
@@ -63,7 +59,6 @@ def climbStairs(self, n: int) -> int:
     arr.append(1)
     for i in range(2, n+1):
         arr.append(arr[i-1] + arr[i-2])
-
     return arr[n]
 ```
 
@@ -89,7 +84,7 @@ def climbStairs(self, n: int) -> int:
 
 ### Matrix Multiplication
 
-As $F_{k+1} = F_{k} + F_{k-1}$, we can deduct the recurrence relation between $F_{k}$, $F_{k-1}$ and $F_{k+1}$, $F_{k}$:
+As $F_{k+1} = F_{k} + F_{k-1}$, we can deduce the recurrence relation between $F_{k}$, $F_{k-1}$ and $F_{k+1}$, $F_{k}$:
 
 $$\begin{bmatrix}1 & 1\\1 & 0\end{bmatrix} \begin{bmatrix}F_{k}\\F_{k-1}\end{bmatrix} = \begin{bmatrix}F_{k} + F_{k-1}\\F_{k}\end{bmatrix} = \begin{bmatrix}F_{k+1}\\F_{k}\end{bmatrix}$$
 
@@ -105,15 +100,17 @@ space: $O(1)$
 ```py
 def climbStairs(self, n: int) -> int:
     def pow(a:List[List[int]], n: int) -> int:
+        """Return matrix `a` to the `n`"""
         ret = [[1, 0], [0, 1]]
-        while (n > 0):
-            if ((n & 1) == 1):
+        while n > 0:
+            if (n & 1) == 1:
                 ret = multiply(ret, a)
             n >>= 1
             a = multiply(a, a)
         return ret
 
     def multiply(a:List[List[int]], b:List[List[int]]) -> List[List[int]]:
+        """Return the multiplied matrix of `a` and `b`."""
         c = [[0, 0], [0, 0]]
         for i in range(2):
             for j in range(2):
@@ -138,6 +135,3 @@ space: $O(1)$
 :::
 
 Code is omitted.
-
-$$
-$$

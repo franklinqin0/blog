@@ -51,7 +51,7 @@ $$
 \text{maximize} & \mathbf{c}^{\mathrm{T}} \mathbf{x} \\
 \text{subject to} & A \mathbf{x} \le \mathbf{b} \\
 & \mathbf{x} \ge \mathbf{0} \\
-\text {and} & \mathbf{x} \in \mathbb{Z}^{n}
+\text{and} & \mathbf{x} \in \mathbb{Z}^{n}
 \end{array}
 $$
 

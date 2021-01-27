@@ -47,7 +47,6 @@ class Solution:
                     last_pt[(nx, ny)] = (x, y)
         if (n-1, m-1) in dist:
             path = self.find_path(n, m, grid, last_pt)
-            print(path)
             return dist[(n-1, m-1)]
         return -1
 
@@ -109,7 +108,6 @@ class Solution:
                     last_pt[(nx, ny)] = (x, y)
         if (n-1, m-1) in dist:
             path = self.find_path(n, m, grid, last_pt)
-            print(path)
             return dist[(n-1, m-1)]
         return -1
 
