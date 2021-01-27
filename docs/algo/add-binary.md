@@ -30,9 +30,7 @@ def addBinary(self, a: str, b: str) -> str:
     return f'{int(a,2)+int(b,2):b}'
 ```
 
-### DIY RCA
-
-We could DIY an RCA (ripple carry adder).
+### RCA (Ripple Carry Adder)
 
 ::: theorem Complexity
 time: $O(\max(m, n))$  

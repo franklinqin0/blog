@@ -25,6 +25,10 @@ While studying for interview problems, I use `Python3` as the PL and feel like c
 
 [Python scopes](https://realpython.com/python-scope-legb-rule)
 
+## For, While Loops
+
+As Python does not have a do-while loop, here are [some workarounds](https://stackoverflow.com/a/743186).
+
 ## Int
 
 The # bits of number `n` is $\log n$.

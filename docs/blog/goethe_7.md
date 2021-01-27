@@ -271,6 +271,8 @@ Weil ich finde/denke,
 dass das Schloss fantastisch ist/
 das Schloss ist fantastisch. -->
 
+haben, geben, sein, Modalverben, 一般用过去式，其他动词用现在分词
+
 ::: tip Es gibt A.
 **Präteritum**  
 Was gab es/war früher in gz?  

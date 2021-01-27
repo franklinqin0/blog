@@ -179,6 +179,7 @@ sich entspannen mit + D.
 sich freuen über(为$\cdots$开心)/auf(期待) + A.  
 sich entscheiden für + A.  
 sich aufregen über + A.
+sich treffen mit + D. / jn. treffen
 
 Wie geht es deiner Schwester? Hat sie meinen Brief bekommen?  
 Ja, sie hat gesagt, dass sie sich über den Brief freut.

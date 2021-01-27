@@ -117,6 +117,8 @@ das Mädchen
 
 ### Schwache Nomen / n-Deklination
 
+-ent, -ant, -ist, -oge, -ad, -at, -f, -ph 结尾的阳性名词
+
 ## Lektion 2
 
 Ich habe Respekt vor ihrer Eltern.
@@ -219,6 +221,11 @@ auswendig lernen
 | beschweren                              | complain            |
 | der Eintritt                            | entrance            |
 | zurzeit                                 | at the present      |
+| merkwürdig                              | strange             |
+| eng                                     | narrow              |
+| gemütlich                               | comfortable         |
+| der Bevölkerung                         | population          |
+| besiedeln                               | settle              |
 
 ### Sätze
 
@@ -238,3 +245,55 @@ Mein Beruf ist meine Leidenschaft.
 
 saß
 sitzen
+
+Makler ist eine Person, die beim Verkauf von Häusern hilft.
+
+## Relativpronomen
+
+|     | Nominativ | Akkusativ | Dativ     |
+| --- | --------- | --------- | --------- |
+| m.  | der       | den       | dem       |
+| n.  | das       | das       | dem       |
+| f.  | die       | die       | der       |
+| Pl. | die       | die       | **denen** |
+
+träumen von D.
+sich um A. kümmern
+
+## Lektion 4
+
+| Deutsch                   | Bedeutung                |
+| ------------------------- | ------------------------ |
+| mehrfach                  | multiple                 |
+| die Werbung               | advertising              |
+| das Rätselheft            | puzzle magazine          |
+| der Verlag                | publisher                |
+| beschweren                | complain                 |
+| Reklamation               | complaint                |
+| obwohl                    | trotzdem                 |
+| zuständig                 | appropriate, proper      |
+| kündigen                  | cancel                   |
+| durchwählen               | direct dial              |
+| ansagen                   | announce                 |
+| erhalten                  | receive                  |
+| die Auskunft              | information              |
+| einleiten                 | start, introduce         |
+| die Abteilung             | department               |
+| ausrichten                | tell sb sth              |
+| besetzt                   | occupied                 |
+| außer Haus                | outside of the house     |
+| zu Tisch gehen            | eine Mittagspause machen |
+| Das kann passieren.       | Das ist ok.              |
+| Schönen Tag noch.         | Danke, ebenso!           |
+| wegen                     | b/c of                   |
+| verderben                 | go bad                   |
+| feststellen               | realize                  |
+| merken                    | notice                   |
+| solch                     | such                     |
+| die Kiste                 | box                      |
+| unverschämt               | impertinent, inpudent    |
+| sich bei jmdm. beschweren | complain to sb.          |
+
+Können Sie mir helfen? Ich suche ein Deutschbuch für einen Jugendlichen.
+
+Anrede

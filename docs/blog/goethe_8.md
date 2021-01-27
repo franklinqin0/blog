@@ -252,7 +252,7 @@ der Motorroller der Frau
 
 ### Seinen 祈使句
 
-Seinen **Sie** bitte ruhig. $\rightarrow$ **Sie**  
+Seien **Sie** bitte ruhig. $\rightarrow$ **Sie**  
 Sei bitte ruhig. $\rightarrow$ **du**  
 Seid bitte ruhig. $\rightarrow$ **ihr**
 

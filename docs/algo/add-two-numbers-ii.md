@@ -34,8 +34,8 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
     def reverseList(l: ListNode) -> ListNode:
         prev = None
         curr = l
+        # IMPT: reverse a singly linked list
         while curr:
-            # IMPT: remember the steps to reverse a singly linked list!!!
             nxt = curr.next
             curr.next = prev
             prev = curr

@@ -9,8 +9,6 @@ tags:
 
 ## Solution
 
-There are solutions to append the carry to result and reverse before return but not really necessary.
-
 ### Schoolbook Addition
 
 Add `K` to last element in `A`, do bitwise addition, then handle the carry.

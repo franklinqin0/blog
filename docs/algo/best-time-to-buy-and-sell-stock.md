@@ -53,9 +53,8 @@ Updating `suffix_max_price` rather than the `prefix_min_price` also works in thi
 ```py
 def maxProfit(self, prices: List[int]) -> int:
     suffix_max_price, max_profit = -sys.maxsize, 0
-    n = len(prices)
 
-    for i in reversed(range(n)):
+    for i in reversed(range(len(prices))):
         suffix_max_price = max(suffix_max_price, prices[i])
         max_profit = max(max_profit, suffix_max_price - prices[i])
     return max_profit
