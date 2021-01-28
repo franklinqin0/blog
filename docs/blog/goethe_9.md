@@ -32,45 +32,45 @@ Seit einem Jahr lerne ich Deutsch.
 
 ### Wörter
 
-| Deutsch                    | Bedeutung               |
-| -------------------------- | ----------------------- |
-| die Eigenschaft            | characteristic property |
-| vermuten                   | suspect                 |
-| der Abschied               | farewell                |
-| sich von jn. verabschieden | say goodbye to          |
-| Akk. unterstützen          | Dat. helfen             |
-| überhaupt nicht            | not at all              |
-| überlegen                  | consider                |
-| geizig                     | kein Geld ausgeben      |
-| klug                       | intelligent             |
-| streng                     | strict                  |
-| mutig                      | brave                   |
-| frech                      | impatient               |
-| wahnsinnig                 | insane                  |
-| verstärken                 | strengthen              |
-| abschwächen                | moderate                |
-| gegenseitig                | mutual                  |
-| die Ecke                   | corner                  |
-| Gibt gas!                  | 加油！                  |
-| ehrlich gesagt             | to be honest            |
-| beitreten                  | join                    |
-| widersprechen              | contradict              |
-| deshalb                    | thus                    |
-| beeinflussen               | influence               |
-| der Spruch                 | adage                   |
-| erlauben                   | arrow                   |
-| der Feuertopf              | hot pot                 |
-| schüchtern                 | shy                     |
-| morgen früh                | tomorrow morning        |
-| schwach                    | weak                    |
-| erledigen                  | fertig machen           |
-| sich bewegen               | behave                  |
-| Energie tanken             | recharge energy         |
-| schlank                    | slim                    |
-| anwenden                   | apply                   |
-| abgeben                    | deliver                 |
-| Nachhilfe                  | tutoring                |
-| beeinflussen               | influence               |
+| Deutsch                       | Bedeutung               |
+| ----------------------------- | ----------------------- |
+| die Eigenschaft               | characteristic property |
+| vermuten                      | suspect                 |
+| der Abschied                  | farewell                |
+| sich (von jdm.) verabschieden | say goodbye to          |
+| Akk. unterstützen             | Dat. helfen             |
+| überhaupt nicht               | not at all              |
+| überlegen                     | consider                |
+| geizig                        | kein Geld ausgeben      |
+| klug                          | intelligent             |
+| streng                        | strict                  |
+| mutig                         | brave                   |
+| frech                         | impatient               |
+| wahnsinnig                    | insane                  |
+| verstärken                    | strengthen              |
+| abschwächen                   | diminish                |
+| gegenseitig                   | mutual                  |
+| die Ecke                      | corner                  |
+| Gibt gas!                     | 加油！                  |
+| ehrlich gesagt                | to be honest            |
+| beitreten                     | join                    |
+| widersprechen                 | contradict              |
+| deshalb                       | thus                    |
+| beeinflussen                  | influence               |
+| der Spruch                    | adage                   |
+| erlauben                      | arrow                   |
+| der Feuertopf                 | hot pot                 |
+| schüchtern                    | shy                     |
+| morgen früh                   | tomorrow morning        |
+| schwach                       | weak                    |
+| erledigen                     | fertig machen           |
+| sich bewegen                  | behave                  |
+| Energie tanken                | recharge energy         |
+| schlank                       | slim                    |
+| anwenden                      | apply                   |
+| abgeben                       | deliver                 |
+| Nachhilfe                     | tutoring                |
+| beeinflussen                  | influence               |
 
 Ich habe meine Aufgaben erledigt.
 
@@ -266,34 +266,39 @@ sich um A. kümmern
 
 ### Wörter
 
-| Deutsch                  | Bedeutung             |
-| ------------------------ | --------------------- |
-| mehrfach                 | multiple              |
-| die Werbung              | advertising           |
-| das Rätselheft           | puzzle magazine       |
-| der Verlag               | publisher             |
-| beschweren               | complain              |
-| Reklamation              | complaint             |
-| obwohl                   | trotzdem              |
-| zuständig                | appropriate, proper   |
-| kündigen                 | cancel                |
-| durchwählen              | direct dial           |
-| ansagen                  | announce              |
-| erhalten                 | receive               |
-| die Auskunft             | information           |
-| einleiten                | start, introduce      |
-| die Abteilung            | department            |
-| ausrichten               | tell sb sth           |
-| besetzt                  | occupied              |
-| wegen                    | b/c of                |
-| verderben                | go bad                |
-| feststellen              | realize               |
-| merken                   | notice                |
-| solch                    | such                  |
-| die Kiste                | box                   |
-| die Anrede               | form of address       |
-| unverschämt              | impertinent, inpudent |
-| sich bei jdm. beschweren | complain to sb.       |
+| Deutsch                        | Bedeutung             |
+| ------------------------------ | --------------------- |
+| mehrfach                       | multiple              |
+| die Werbung                    | advertising           |
+| das Rätselheft                 | puzzle magazine       |
+| der Verlag                     | publisher             |
+| beschweren                     | complain              |
+| Reklamation                    | complaint             |
+| obwohl                         | trotzdem              |
+| zuständig                      | appropriate, proper   |
+| kündigen                       | cancel                |
+| durchwählen                    | direct dial           |
+| ansagen                        | announce              |
+| erhalten                       | receive               |
+| die Auskunft                   | information           |
+| einleiten                      | start, introduce      |
+| die Abteilung                  | department            |
+| ausrichten                     | tell sb sth           |
+| besetzt                        | occupied              |
+| wegen                          | b/c of                |
+| verderben                      | go bad                |
+| feststellen                    | realize               |
+| merken                         | notice                |
+| solch                          | such                  |
+| die Kiste                      | box                   |
+| die Anrede                     | form of address       |
+| unverschämt                    | impertinent, inpudent |
+| sich bei jdm. beschweren       | complain to sb.       |
+| bedienen                       | serve                 |
+| würfeln                        | throw the dice        |
+| das Gerät                      | tool                  |
+| der Kassenzetel / die Quittung | receipt               |
+| die Rechnung                   | bill invoice          |
 
 ## Sätze
 
@@ -305,3 +310,16 @@ sich um A. kümmern
 | Schönen Tag noch.   | Danke, ebenso!           |
 
 Können Sie mir helfen? Ich suche ein Deutschbuch für einen Jugendlichen.
+
+Ich kaufe den Pullover, obwohl er mir nicht richtig passt, weil er mir sehr gut gefällt.
+
+## Lektion 5
+
+### Wörter
+
+| Deutsch      | Bedeutung         |
+| ------------ | ----------------- |
+| vergehen     | pass by           |
+| einerseits   | on the one hand   |
+| andererseits | on the other hand |
+| staubsaugen  | vacuum            |

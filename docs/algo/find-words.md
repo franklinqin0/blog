@@ -31,11 +31,10 @@ def findWords(self, str, dict):
     if not str or not dict:
         return []
     n, res = len(str), []
-    nextpos = [[n]*26 for _ in range(n+1)]
+    nextpos = [[n for _ in range(26)] for _ in range(n+1)]
     # preprocessing
     for i in reversed(range(n)):
         for j in range(26):
-        nextpos.setdefault(str[i], []).append(i)
             nextpos[i][j] = nextpos[i+1][j]
             if ord(str[i]) - ord('a') == j:
                 nextpos[i][j] = i
@@ -64,18 +63,21 @@ def findWords(self, str, dict):
 `index` records the matched position of words in `dict`. Search across `str`, if `index[j]` is at least as long as length of current word, then word is already matched. Else if char `str[i]` is equal to next char of word `j`, increment `index[j]` by 1. Note that we can't just append word to `res` as soon as `index[j] >= len(dict[j])`, as the problem requires `res` to be in dictionary order.
 
 ::: theorem Complexity
-time: $O(n \cdot m)$  
+time: $O(nm)$  
 space: $O(n)$
 :::
 
 ```py
 def findWords(self, str, dict):
     n = len(dict)
-    index = [0]*n
+    index = [0 for _ in range(n)]
     for i in range(len(str)):
         for j in range(n):
+            # finished matching already
             if index[j] >= len(dict[j]):
                 continue
+            # if index[j]-th char in j-th word in `dict` matches w/ `str[i]`
+            # then move index[j] to the right by 1
             if dict[j][index[j]] == str[i]:
                 index[j] += 1
     res = []
@@ -92,7 +94,7 @@ Helper function `binary_search` searches for `cur_index` in sorted `char_list` a
 `mapping` stores mappings from char in `str` to char position. For each word in `dict`, binary searches for `char` in `char_list`.
 
 ::: theorem Complexity
-time: $O(n \cdot m)$  
+time: $O(nm)$  
 space: $O(n)$
 :::
 

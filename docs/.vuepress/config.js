@@ -77,7 +77,7 @@ module.exports = {
     logo: "/favicon.ico",
     search: true,
     searchMaxSuggestions: 10,
-    lastUpdated: "Last Updated",
+    lastUpdated: null,
     author: "franklinqin0",
     authorAvatar: "/favicon.ico",
     record: "",
