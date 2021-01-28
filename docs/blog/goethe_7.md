@@ -99,7 +99,7 @@ Ich musste nicht. / Leider ja.
 
 ## Einheit 8 - Kultur erleben
 
-## Wörter
+### Wörter
 
 | Deutsch                     | Englisch           |
 | --------------------------- | ------------------ |
@@ -287,7 +287,7 @@ Heute ist hier N.
 
 ## Einheit 9 - Abeitswelten
 
-## Wörter
+### Wörter
 
 | Deutsch    | Englisch |
 | ---------- | -------- |
@@ -297,7 +297,48 @@ Heute ist hier N.
 | bestätigen | confirm  |
 | Ach was?   | Really?  |
 
-## Beruf & Tätigkeit
+### Sätze
+
+::: tip Als 的语序
+Ich konnte mit 18 Auto fahren.  
+Ich konnte Auto fahren, als ich 18 war.  
+Als ich 18 war, konnte ich Auto fahren.
+
+Goethe war erst 16 Jahre alt, als er 1765 in Leipzig studierte.  
+Als er 1765 in Leipzig studierte, war Goethe erst 16 Jahre alt.
+
+Werther verliebte sich sofort in Lotte, als er sie auf einem Ball kennenlernte.  
+Als er sie auf einem Ball kennenlernt, verliebte Werther sich sofort in Lotte.
+
+Alexandr hat sich sofort in Weimar verliebt, als er 1999 zum ersten Mal die Stadt besucht.  
+Als er 1999 zum ersten Mal die Stadt besuchte, hat Alexandr sich sofort in Weimar verliebt.
+:::
+
+::: tip Lüge oder Wahrheit
+Als ich 13 war, wurde ich ein Wissenschaftler.  
+Ach was!  
+Doch, als ich 14 war, konnte ich Flugzeug fahren.  
+Ach was!  
+Mit 15 Jahren bin ich zur Universität gegangen.
+:::
+
+### wenn vs. als
+
+::: theorem
+wenn: 现在、将来、或过去重复的事件
+als: 过去的事情
+:::
+
+**Wenn** sie morgen Zeit hat, will sie shoppen gehen.  
+**Als** sie gestern Zeit hatte, hat sie die Wohnung aufgeräumt.  
+**Wenn** ich nächste Woche nach Madrid komme, besuche ich dich.  
+**Als** ich letzte Woche in Madrid war, habe ich ein tolle Fußballspiel gesehen.  
+**Als** er letztes Jahr in unsere Stadt kam, kannte er keinen Menschen.  
+**Wenn** er jetzt in der Stadt spazieren geht, trifft er immer Bekannte.  
+**Als** ich vor einer Stunde nach Hause kam, hatte Marlen schon ein Essen gekocht.  
+**Wenn** ich nächste Woche nach Hause komme, bin ich alleine und muss selbst kochen.
+
+### Beruf & Tätigkeit
 
 Manfred arbeitet mit Katzen und Hunden; er is **Tierarzt**.  
 Ingrid bereitet das Essen im Restaurant vor; sie ist **Köchin**.  
@@ -326,29 +367,4 @@ Margot arbeitet an der Kasse im Supermarkt; sie ist **Verkäuferin**.
 
 ::: CV
 Ich habe gute Compterkenntnisse und spreche flüssiges Chinesisch und Englisch, auch ein bisschen Deutsch. Ich bin höflich, teamfähig, und flexibel. Spannende Aufgaben kann ich übernehmen und Termine kann ich organisieren und koordinieren.
-:::
-
-### Sätze
-
-::: tip Als
-Ich konnte mit 18 Auto fahren.  
-Ich konnte Auto fahren, als ich 18 war.  
-Als ich 18 war, konnte ich Auto fahren.
-
-Goethe war erst 16 Jahre alt, als er 1765 in Leipzig studierte.  
-Als er 1765 in Leipzig studierte, war Goethe erst 16 Jahre alt.
-
-Werther verliebte sich sofort in Lotte, als er sie auf einem Ball kennenlernte.  
-Als er sie auf einem Ball kennenlernt, verliebte Werther sich sofort in Lotte.
-
-Alexandr hat sich sofort in Weimar verliebt, als er 1999 zum ersten Mal die Stadt besucht.  
-Als er 1999 zum ersten Mal die Stadt besuchte, hat Alexandr sich sofort in Weimar verliebt.
-:::
-
-::: tip Lüge oder Wahrheit
-Als ich 13 war, wurde ich ein Wissenschaftler.  
-Ach was!  
-Doch, als ich 14 war, konnte ich Flugzeug fahren.  
-Ach was!  
-Mit 15 Jahren bin ich zur Universität gegangen.
 :::

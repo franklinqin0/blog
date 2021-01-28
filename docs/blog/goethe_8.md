@@ -314,3 +314,17 @@ am Morgan, am Freitag
 
 Bei uns/mir/dir/ihm gibt es immer Feuerwerk am Silvester.  
 Leztes Jahr sind wir nach Spanien grfahren.
+
+### Schokolade
+
+Bitter-Schokolade  
+weiße Schokolade  
+heiße Schokolade  
+Schokoladen-torte  
+Schokolade mit Pfeffer  
+Schokolade mit Chili  
+Schokoladeneis  
+Nutella  
+Schokomuffin  
+Schokoladenkeks  
+Schokoladensoße
