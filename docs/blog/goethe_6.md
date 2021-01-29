@@ -7,6 +7,7 @@ tags:
   - Deutsch
 last: goethe_5
 next: goethe_7
+publish: false
 ---
 
 Deutsch Notizen für das Goethe Institut - A2 zwei
@@ -249,7 +250,7 @@ Nur die 3. Person hat im Singular und Plural eine eigene Form: sich.
 | untauschen                 | exchange 退换          |
 | wertvoll                   | valuable               |
 | Zeitungsanzeige            | ad                     |
-| Mitteilung                 | message                |
+| Mitteilung                 | communication          |
 | Vorschlag                  | proposal               |
 | Abschied                   | farewell               |
 | Schal                      | scarf                  |

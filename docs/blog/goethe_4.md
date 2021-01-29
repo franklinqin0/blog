@@ -8,6 +8,7 @@ tags:
   - Deutsch
 prev: goethe_3
 next: goethe_5
+publish: false
 ---
 
 Deutsch Notizen vom 30. März bis 8. Mai.

@@ -7,6 +7,7 @@ tags:
   - Deutsch
 last: goethe_4
 next: goethe_6
+publish: false
 ---
 
 Deutsch Notizen für das Goethe Institut - A2 eins

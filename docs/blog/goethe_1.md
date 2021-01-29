@@ -7,6 +7,7 @@ categories:
 tags:
   - Deutsch
 next: goethe_2
+publish: false
 ---
 
 Deutsch Notizen vom 2. bis 8. März.

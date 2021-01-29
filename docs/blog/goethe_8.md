@@ -7,6 +7,7 @@ tags:
   - Deutsch
 last: goethe_7
 next: goethe_9
+publish: false
 ---
 
 Deutsch Notizen für das Goethe Institut - A2 vier
@@ -112,14 +113,25 @@ Wo warst du im Urlaub? **Bei** ihren Eltern?
 
 ### Wörter
 
-| Deutsch       | Englisch       |
-| ------------- | -------------- |
-| drehen        | film           |
-| der Regisseur | director       |
-| der Teppich   | carpet         |
-| die Hoffnung  | hope           |
-| des Namens    | $\cdots$的名字 |
-|               |                |
+| Deutsch         | Englisch           |
+| --------------- | ------------------ |
+| drehen          | film               |
+| der Regisseur   | director           |
+| der Teppich     | carpet             |
+| die Hoffnung    | hope               |
+| des Namens      | $\cdots$的名字     |
+| das Drehbuch    | script, screenplay |
+| drehen          | film               |
+| der Teppich     | rug, carpet        |
+| behindern       | obstruct           |
+| der Dolmetscher | interpreter        |
+| die Gebärde     | gesture            |
+| die Sendlung    | broadcast          |
+| einander        | each other         |
+| sehende         | sighted            |
+| festlegen       | determine          |
+| der Beutel      | bag, pouch         |
+| verschließen    | close, seal        |
 
 Der Teppich, über den die Stars zur Premiere laufen, ist der rote **Teppich**.  
 Ein Festival, auf dem man Filme sehen kann, ist ein **Filmfestival**.  
@@ -276,6 +288,14 @@ Du fehlst mir. $=$ Ich vermisse dich.
 Wir sprechen über einen wichtigen Menschen.
 
 ## Einheit 12 - Ideen und Erfindungen
+
+### Wörter
+
+| Deutsch                | Englisch     |
+| ---------------------- | ------------ |
+| schneien, der Schnee   | snow         |
+| gestalten              | create, make |
+| die Tasche, der Koffer | suitcase     |
 
 ::: man, Mann, Menschen
 man 接第三人称单数动词

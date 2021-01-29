@@ -8,6 +8,7 @@ tags:
   - Deutsch
 prev: goethe_2
 next: goethe_4
+publish: false
 ---
 
 Deutsch Notizen vom 16. bis 27. März.

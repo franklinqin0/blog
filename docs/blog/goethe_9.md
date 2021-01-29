@@ -317,9 +317,55 @@ Ich kaufe den Pullover, obwohl er mir nicht richtig passt, weil er mir sehr gut 
 
 ### Wörter
 
-| Deutsch      | Bedeutung         |
-| ------------ | ----------------- |
-| vergehen     | pass by           |
-| einerseits   | on the one hand   |
-| andererseits | on the other hand |
-| staubsaugen  | vacuum            |
+| Deutsch                              | Bedeutung             |
+| ------------------------------------ | --------------------- |
+| vergehen                             | pass by               |
+| einerseits                           | on the one hand       |
+| andererseits                         | on the other hand     |
+| staubsaugen                          | vacuum                |
+| der Begriff                          | concept               |
+| die Ansicht                          | opinion               |
+| behaupten                            | maintain, assert      |
+| überzeugen                           | convince              |
+| steuern                              | control, steer        |
+| in ferner Zukunft                    | in the distant future |
+| seither                              | ever since            |
+| einnehmen                            | occupy                |
+| fürchten                             | fear                  |
+| anhand                               | by means of           |
+| die Zeitangabe                       | date                  |
+| die Wettervorhersage                 | weather forcast       |
+| die Vorhersage/die Vermutung         | forcast               |
+| der Vorsatz/das Versprechen/der Plan | purpose               |
+| die Aufforderung/die Warnung         | request               |
+| aufhören/aufgeben                    | stop                  |
+| die gleiche wie                      | the same as           |
+| überfordern                          | overwhelm             |
+| die Angestellte                      | employee              |
+
+Ich finde es unmöglich, dass $\cdots$
+
+in eine Wohnung einziehen/umziehen  
+aus der Wohnung ausziehen
+Einweihnungsparty nach dem Umzug
+
+### Zukunft I
+
+::: theorem
+Zukunft I: werden + Infinitiv
+:::
+
+1. Morgen wird es an einigen Orten bewölkt sein.
+2. Ich werde dich für immer lieben.
+3. Ich werde mir Ihren Führerschein ansehen.
+4. Es wird immer schlechter werden.
+5. Du wirst jetzt zur Schule gehen.
+6. Ich werde im Sommer durch Europa reisen.
+7. Ich werde ein besserer Mann sein.
+
+Ich weiß nicht, was im nächsten Jahr passieren wird.  
+An deiner Stelle würde ich keine Antwort haben.  
+Ich werde nächstes Jahr mehr Geld sparen/zurücklegen.
+
+Ich vermute, dass wir nicht mehr rund um die Uhr erreichbar sein werden, weil uns das zu sehr anstrengt.  
+I suspect that we won't be available 24/7 anymore because it's too much of a hassle for us.
