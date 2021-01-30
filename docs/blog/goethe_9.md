@@ -70,7 +70,6 @@ Seit einem Jahr lerne ich Deutsch.
 | anwenden                      | apply                   |
 | abgeben                       | deliver                 |
 | Nachhilfe                     | tutoring                |
-| beeinflussen                  | influence               |
 
 Ich habe meine Aufgaben erledigt.
 
@@ -137,7 +136,8 @@ Seine Arbeit macht dem Mann Spaß.
 | der Erzieher / die Erzieherin | educator                    |
 | streiten                      | quarrel                     |
 | übrig                         | remaining                   |
-| aufwachen/aufbleiben          | wake up                     |
+| aufwachen                     | wake up                     |
+| aufbleiben                    | stay up                     |
 | beschäftigt                   | occupied                    |
 | brutto mit Steuer             | gross w/ tax                |
 | netto ohne Steuer             | net w/o tax                 |
@@ -161,19 +161,19 @@ Seine Arbeit macht dem Mann Spaß.
 | die Ansprache                 | speech                      |
 | vereinfachen                  | simplify                    |
 
-durch das Hotel führen
-zusammen zu Mittag essen
-sich unterhalten mit den Kollegen
-in der Bar arbeiten
-an der Rezeption arbeiten
-nach Hause fahren
-(k)eine Ansprache halten
-nur anschauen / nicht arbeiten dürfen
+durch das Hotel führen  
+zusammen zu Mittag essen  
+sich unterhalten mit den Kollegen  
+in der Bar arbeiten  
+an der Rezeption arbeiten  
+nach Hause fahren  
+(k)eine Ansprache halten  
+nur anschauen / nicht arbeiten dürfen  
 traurig/enttschäuscht anch Hause
 
 weit/nah von $\cdots$ 离某地远/近
 
-umgehen mit
+umgehen mit 熟悉  
 Mein Vater kann nicht mit dem Computer umgehen.
 
 auswendig lernen

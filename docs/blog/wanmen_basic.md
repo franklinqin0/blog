@@ -5,6 +5,7 @@ categories:
   - study
 tags:
   - Deutsch
+publish: false
 ---
 
 Notes taken from Wanmen University's free [basic German](https://www.wanmen.org/courses/586d23485f07127674135d14) course.
