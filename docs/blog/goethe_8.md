@@ -41,6 +41,9 @@ Wie feierst du $\cdots$?
 Mit wem feierst du $\cdots$?  
 Wo feierst du $\cdots$?
 
+Welche Feste gibt es erst seit kurzer Zeit wieder?  
+Valentinstag und Holloween.
+
 gehen reisen  
 gehen ins/zum Krankenhaus
 
@@ -113,25 +116,52 @@ Wo warst du im Urlaub? **Bei** ihren Eltern?
 
 ### Wörter
 
-| Deutsch         | Englisch           |
-| --------------- | ------------------ |
-| drehen          | film               |
-| der Regisseur   | director           |
-| der Teppich     | carpet             |
-| die Hoffnung    | hope               |
-| des Namens      | $\cdots$的名字     |
-| das Drehbuch    | script, screenplay |
-| drehen          | film               |
-| der Teppich     | rug, carpet        |
-| behindern       | obstruct           |
-| der Dolmetscher | interpreter        |
-| die Gebärde     | gesture            |
-| die Sendlung    | broadcast          |
-| einander        | each other         |
-| sehende         | sighted            |
-| festlegen       | determine          |
-| der Beutel      | bag, pouch         |
-| verschließen    | close, seal        |
+| Deutsch          | Englisch           |
+| ---------------- | ------------------ |
+| drehen           | film               |
+| der Regisseur    | director           |
+| der Teppich      | carpet             |
+| die Hoffnung     | hope               |
+| des Namens       | $\cdots$的名字     |
+| das Drehbuch     | script, screenplay |
+| drehen           | film               |
+| der Teppich      | rug, carpet        |
+| behindern        | obstruct           |
+| der Dolmetscher  | interpreter        |
+| die Gebärde      | gesture            |
+| die Sendlung     | broadcast          |
+| einander         | each other         |
+| sehende          | sighted            |
+| festlegen        | determine          |
+| der Beutel       | bag, pouch         |
+| verschließen     | close, seal        |
+| weinen           | cry                |
+| eklig            | disgusting         |
+| wundern          | surprise           |
+| erschrecken      | scare, frighten    |
+| der Gesicht      | face               |
+| erkennen         | recognize; admit   |
+| die Geste        | gesture            |
+| fehlen           | miss               |
+| Du fehlst mir.   | I miss you.        |
+| die Überraschung | surprise           |
+| der Ekel         | disgust            |
+| die Wut          | anger              |
+| die Angst        | fear               |
+| die Verachtung   | contempt, scorn    |
+| der Neid         | jealousy, envy     |
+| gierig           | greedy             |
+| ärgerlich        | annoying, angry    |
+| lachen           | laugh              |
+| lacheln          | smile              |
+| der Wahn         | mania, craze       |
+| sich fühlen      | feel               |
+| der Sinn         | sense, meaning     |
+| stinksauer       | furious            |
+| der Mist         | crap               |
+| mitreißend       | thrilling          |
+| beschäftigen     | employ, occupy     |
+| sich widmen      | dedicate oneself   |
 
 Der Teppich, über den die Stars zur Premiere laufen, ist der rote **Teppich**.  
 Ein Festival, auf dem man Filme sehen kann, ist ein **Filmfestival**.  
@@ -291,11 +321,18 @@ Wir sprechen über einen wichtigen Menschen.
 
 ### Wörter
 
-| Deutsch                | Englisch     |
-| ---------------------- | ------------ |
-| schneien, der Schnee   | snow         |
-| gestalten              | create, make |
-| die Tasche, der Koffer | suitcase     |
+| Deutsch                | Englisch             |
+| ---------------------- | -------------------- |
+| schneien, der Schnee   | snow                 |
+| gestalten              | create, make         |
+| die Tasche, der Koffer | suitcase             |
+| schrauben              | screw                |
+| die Schiffsschraube    | propeller            |
+| frisch                 | fresh                |
+| verbessern             | improve              |
+| verwenden              | use                  |
+| untersuchen            | investigate, examine |
+| gebären                | give birth to        |
 
 ::: man, Mann, Menschen
 man 接第三人称单数动词

@@ -13,3 +13,7 @@ Classification is the task of choosing the correct class label for a given input
   - each instance may be assigned one vs. multiple class labels
 - sequence classification
   - a sequence of instances are jointly classified
+
+## READ
+
+[https://lionbridge.ai/articles/6-types-of-neural-networks-every-data-scientist-must-know/]()

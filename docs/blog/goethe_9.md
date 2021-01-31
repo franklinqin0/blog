@@ -70,6 +70,16 @@ Seit einem Jahr lerne ich Deutsch.
 | anwenden                      | apply                   |
 | abgeben                       | deliver                 |
 | Nachhilfe                     | tutoring                |
+| stören                        | dusturb                 |
+| vorsichtig                    | cautious, careful       |
+| verletzen                     | hurt, violate           |
+| wirken                        | appear, seem            |
+| nötig                         | needed, necessary       |
+| gescheit                      | klug                    |
+| lebendig                      | alive, lively           |
+| auszeichnen                   | distinguish             |
+| ausgezeichnet                 | excellent               |
+| vergrößern                    | increase                |
 
 Ich habe meine Aufgaben erledigt.
 
@@ -126,40 +136,59 @@ Seine Arbeit macht dem Mann Spaß.
 
 ### Wörter
 
-| Deutsch                       | Bedeutung                   |
-| ----------------------------- | --------------------------- |
-| der Lärm                      | noise                       |
-| angenehm                      | agreeable                   |
-| die Geduld                    | patience                    |
-| aufpassen                     | look out                    |
-| erziehen                      | educate                     |
-| der Erzieher / die Erzieherin | educator                    |
-| streiten                      | quarrel                     |
-| übrig                         | remaining                   |
-| aufwachen                     | wake up                     |
-| aufbleiben                    | stay up                     |
-| beschäftigt                   | occupied                    |
-| brutto mit Steuer             | gross w/ tax                |
-| netto ohne Steuer             | net w/o tax                 |
-| der Abzug                     | deduction                   |
-| die Teambesprechung           | team meeting                |
-| die Überstunde                | overtime                    |
-| der/die Auszubildende         | trainee, apprentice         |
-| der Tagesablauf               | daily routine               |
-| die Aussprache                | pronunciation               |
-| das Vertrauen                 | confidence                  |
-| der Arbeitgeber               | employer                    |
-| der Arbeitnehmer              | employee                    |
-| bestätigen                    | confirm endorse acknowledge |
-| der Bereich                   | area                        |
-| das Betriebsklima             | working atmosphere          |
-| bereits                       | already                     |
-| irgendwie                     | somehow/other               |
-| sich schämen                  | be ashamed                  |
-| das Fazit                     | result                      |
-| die Kindheit                  | childhood                   |
-| die Ansprache                 | speech                      |
-| vereinfachen                  | simplify                    |
+| Deutsch                       | Bedeutung                |
+| ----------------------------- | ------------------------ |
+| der Lärm                      | noise                    |
+| angenehm                      | agreeable                |
+| die Geduld                    | patience                 |
+| auf jdn. aufpassen            | take care                |
+| erziehen                      | educate                  |
+| der Erzieher / die Erzieherin | educator                 |
+| streiten                      | quarrel                  |
+| übrig                         | remaining                |
+| aufwachen                     | wake up                  |
+| aufbleiben                    | stay up                  |
+| beschäftigt                   | occupied                 |
+| brutto mit Steuer             | gross w/ tax             |
+| netto ohne Steuer             | net w/o tax              |
+| der Abzug                     | deduction                |
+| die Teambesprechung           | team meeting             |
+| die Überstunde                | overtime                 |
+| der/die Auszubildende         | trainee, apprentice      |
+| der Ablauf                    | routine, procedure       |
+| der Tagesablauf               | daily routine            |
+| die Aussprache                | pronunciation            |
+| das Vertrauen                 | confidence, trust        |
+| der Arbeitgeber               | employer                 |
+| der Arbeitnehmer              | employee                 |
+| bestätigen                    | confirm                  |
+| der Bereich                   | area                     |
+| das Betriebsklima             | working atmosphere       |
+| bereits                       | already                  |
+| irgendwie                     | somehow                  |
+| egal                          | no matter, regardless    |
+| sich schämen                  | be ashamed               |
+| das Fazit                     | result                   |
+| die Kindheit                  | childhood                |
+| die Ansprache                 | speech                   |
+| vereinfachen                  | simplify                 |
+| die Anleitung                 | instruction, guidance    |
+| Verantwortung übernehmen      | take over responsibility |
+| mit jdm zurechtkommen         | get along w/ sb.         |
+| die Gegenwart                 | present, presence        |
+| drinnen                       | indoors                  |
+| wahren                        | keep                     |
+| unglaublich                   | incredible(ly)           |
+| anschließend                  | subsequently             |
+| allerdings                    | however, certainly       |
+| abschrecken                   | daunt                    |
+| das Einkommen/das Gehalt      | income                   |
+| hilfsbereit                   | helpful                  |
+| der Urwald                    | jungle                   |
+| auffallen                     | attract attention        |
+| kaum                          | hardly; scarcely         |
+| todmüde                       | dead tired               |
+| auswendig lernen              | memorize sth.            |
 
 durch das Hotel führen  
 zusammen zu Mittag essen  
@@ -176,58 +205,72 @@ weit/nah von $\cdots$ 离某地远/近
 umgehen mit 熟悉  
 Mein Vater kann nicht mit dem Computer umgehen.
 
-auswendig lernen
+Das ist mir(für mich) egal/langweilig/wichtig/heiß/peinlich  
+Mir ist egal.
+
+Die Menschen glauben fest an das, was sie wünschen.
 
 ## Lektion 3
 
 ### Wörter
 
-| Deutsch                                 | Bedeutung           |
-| --------------------------------------- | ------------------- |
-| die Leidenschaft                        | passion             |
-| der Makler                              | estate agent        |
-| der Hausmeister                         | caretaker           |
-| die Innenstadt                          | city center         |
-| der Vorort                              | suburb              |
-| das Reihenhaus                          | 联排别墅            |
-| der Wohnblock                           | residential block   |
-| das Einfamilienhaus                     | house               |
-| das Apartment                           | apartment           |
-| die Wohnfläche                          | living space        |
-| Grundstück                              | plot of land        |
-| der Innenhof                            | courtyard, patio    |
-| vergraben                               | bury                |
-| der Ofen                                | oven, furnace       |
-| der Fahrstuhl<br>der Lift<br>der Aufzug | elevator            |
-| die Dachterrasse                        | roof terrace        |
-| die Klobürste                           | toilet brush        |
-| aufs Klo/auf Toillette gehen            | go to the toilet    |
-| das Stockwerk                           | floor storey        |
-| die Eigentumswohnung                    | owner-occupied flat |
-| einrichten                              | furnish             |
-| der Mangel                              | shortage            |
-| herrschen                               | rule, prevail       |
-| weit entfernt                           | far away            |
-| der Besitz                              | property            |
-| begegnen, die Begegnung                 | encounter           |
-| ankommen                                | arrive              |
-| weihen                                  | unveil              |
-| der Zugang                              | access              |
-| erben                                   | inherit             |
-| das Quartier/die Unterkunft             | accommodation       |
-| der Anspruch                            | demand              |
-| schließlich                             | at last             |
-| vorhin                                  | a short time ago    |
-| der Abstand                             | distance            |
-| erscheinen                              | appear              |
-| beschweren                              | complain            |
-| der Eintritt                            | entrance            |
-| zurzeit                                 | at the present      |
-| merkwürdig                              | strange             |
-| eng                                     | narrow              |
-| gemütlich                               | comfortable         |
-| der Bevölkerung                         | population          |
-| besiedeln                               | settle              |
+| Deutsch                                 | Bedeutung                |
+| --------------------------------------- | ------------------------ |
+| die Leidenschaft                        | passion                  |
+| der Makler                              | estate agent             |
+| der Hausmeister                         | caretaker                |
+| die Innenstadt                          | city center              |
+| der Vorort                              | suburb                   |
+| das Reihenhaus                          | 联排别墅                 |
+| der Wohnblock                           | residential block        |
+| das Einfamilienhaus                     | house                    |
+| das Apartment                           | apartment                |
+| die Wohnfläche                          | living space             |
+| das Grundstück                          | plot of land             |
+| der Innenhof                            | courtyard, patio         |
+| vergraben                               | bury                     |
+| der Ofen                                | oven, furnace            |
+| der Fahrstuhl<br>der Lift<br>der Aufzug | elevator                 |
+| die Dachterrasse                        | roof terrace             |
+| die Klobürste                           | toilet brush             |
+| aufs Klo/auf Toillette gehen            | go to the toilet         |
+| das Stockwerk                           | floor storey             |
+| die Eigentumswohnung                    | owner-occupied flat      |
+| einrichten                              | furnish                  |
+| der Mangel                              | shortage                 |
+| herrschen                               | rule, prevail            |
+| weit entfernt                           | far away                 |
+| der Besitz                              | property                 |
+| begegnen, die Begegnung                 | encounter                |
+| ankommen                                | arrive                   |
+| weihen                                  | unveil                   |
+| der Zugang                              | access                   |
+| erben                                   | inherit                  |
+| das Quartier/die Unterkunft             | accommodation            |
+| der Anspruch                            | demand                   |
+| schließlich                             | at last                  |
+| vorhin                                  | a short time ago         |
+| der Abstand                             | distance                 |
+| erscheinen                              | appear                   |
+| beschweren                              | complain                 |
+| der Eintritt                            | entrance                 |
+| zurzeit                                 | at the present           |
+| merkwürdig                              | strange                  |
+| eng                                     | narrow                   |
+| gemütlich                               | comfortable              |
+| der Bevölkerung                         | population               |
+| besiedeln                               | settle                   |
+| steigen                                 | increase                 |
+| die Entwicklung                         | growth                   |
+| betreffen                               | affect                   |
+| knapp                                   | short                    |
+| aus einem Land stammen                  | originate from a country |
+| dicht                                   | dense                    |
+| besiedeln                               | settle                   |
+| ländlich                                | rural                    |
+| die Gegend, das Gebiet                  | area                     |
+| vor allem                               | especially               |
+| der Anteil                              | proportion               |
 
 ### Sätze
 

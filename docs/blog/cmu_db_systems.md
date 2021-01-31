@@ -130,3 +130,16 @@ Syntax: $(R \bowtie S)$
 Example: `SELECT * FROM R NATURAL JOIN S;`
 
 [difference between CROSS JOIN and FULL OUTER JOIN?](https://stackoverflow.com/a/3228910/6421652)
+
+## Advanced SQL
+
+### Relational Languages
+
+User only needs to specify the answer that they want, not how to compute it.
+
+The DBMS is responsible for efficient evaluation of the query.  
+$\rightarrow$ Query optimizer: re-orders operations and generates query plan
+
+SQL is based on **bags** (duplicates) nots sets (not duplicates).
+
+SQL Join: https://en.wikipedia.org/wiki/Join_(SQL)
