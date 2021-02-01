@@ -150,6 +150,7 @@ Wo warst du im Urlaub? **Bei** ihren Eltern?
 | die Angst        | fear               |
 | die Verachtung   | contempt, scorn    |
 | der Neid         | jealousy, envy     |
+| neidisch         | jealous            |
 | gierig           | greedy             |
 | ärgerlich        | annoying, angry    |
 | lachen           | laugh              |

@@ -28,58 +28,58 @@ Ich bin Student/Studentin.
 Ich bin ein(e) Lehrer/Lehrerin.  
 Seit einem Jahr lerne ich Deutsch.
 
-## Lektion 1
+## Lektion 1 - Charaktereigenschaften
 
 ### Wörter
 
-| Deutsch                       | Bedeutung               |
-| ----------------------------- | ----------------------- |
-| die Eigenschaft               | characteristic property |
-| vermuten                      | suspect                 |
-| der Abschied                  | farewell                |
-| sich (von jdm.) verabschieden | say goodbye to          |
-| Akk. unterstützen             | Dat. helfen             |
-| überhaupt nicht               | not at all              |
-| überlegen                     | consider                |
-| geizig                        | kein Geld ausgeben      |
-| klug                          | intelligent             |
-| streng                        | strict                  |
-| mutig                         | brave                   |
-| frech                         | impatient               |
-| wahnsinnig                    | insane                  |
-| verstärken                    | strengthen              |
-| abschwächen                   | diminish                |
-| gegenseitig                   | mutual                  |
-| die Ecke                      | corner                  |
-| Gibt gas!                     | 加油！                  |
-| ehrlich gesagt                | to be honest            |
-| beitreten                     | join                    |
-| widersprechen                 | contradict              |
-| deshalb                       | thus                    |
-| beeinflussen                  | influence               |
-| der Spruch                    | adage                   |
-| erlauben                      | arrow                   |
-| der Feuertopf                 | hot pot                 |
-| schüchtern                    | shy                     |
-| morgen früh                   | tomorrow morning        |
-| schwach                       | weak                    |
-| erledigen                     | fertig machen           |
-| sich bewegen                  | behave                  |
-| Energie tanken                | recharge energy         |
-| schlank                       | slim                    |
-| anwenden                      | apply                   |
-| abgeben                       | deliver                 |
-| Nachhilfe                     | tutoring                |
-| stören                        | dusturb                 |
-| vorsichtig                    | cautious, careful       |
-| verletzen                     | hurt, violate           |
-| wirken                        | appear, seem            |
-| nötig                         | needed, necessary       |
-| gescheit                      | klug                    |
-| lebendig                      | alive, lively           |
-| auszeichnen                   | distinguish             |
-| ausgezeichnet                 | excellent               |
-| vergrößern                    | increase                |
+| Deutsch                      | Bedeutung               |
+| ---------------------------- | ----------------------- |
+| die Eigenschaft              | characteristic property |
+| vermuten                     | suspect                 |
+| der Abschied                 | farewell                |
+| sich (von jm.) verabschieden | say goodbye to          |
+| Akk. unterstützen            | Dat. helfen             |
+| überhaupt nicht              | not at all              |
+| überlegen                    | consider                |
+| geizig                       | kein Geld ausgeben      |
+| klug                         | intelligent             |
+| streng                       | strict                  |
+| mutig                        | brave                   |
+| frech                        | impatient               |
+| wahnsinnig                   | insane                  |
+| verstärken                   | strengthen              |
+| abschwächen                  | diminish                |
+| gegenseitig                  | mutual                  |
+| die Ecke                     | corner                  |
+| Gibt gas!                    | 加油！                  |
+| ehrlich gesagt               | to be honest            |
+| beitreten                    | join                    |
+| widersprechen                | contradict              |
+| deshalb                      | thus                    |
+| beeinflussen                 | influence               |
+| der Spruch                   | adage                   |
+| erlauben                     | arrow                   |
+| der Feuertopf                | hot pot                 |
+| schüchtern                   | shy                     |
+| morgen früh                  | tomorrow morning        |
+| schwach                      | weak                    |
+| erledigen                    | fertig machen           |
+| sich bewegen                 | behave                  |
+| Energie tanken               | recharge energy         |
+| schlank                      | slim                    |
+| anwenden                     | apply                   |
+| abgeben                      | deliver                 |
+| Nachhilfe                    | tutoring                |
+| stören                       | dusturb                 |
+| vorsichtig                   | cautious, careful       |
+| verletzen                    | hurt, violate           |
+| wirken                       | appear, seem            |
+| nötig                        | needed, necessary       |
+| gescheit                     | klug                    |
+| lebendig                     | alive, lively           |
+| auszeichnen                  | distinguish             |
+| ausgezeichnet                | excellent               |
+| vergrößern                   | increase                |
 
 Ich habe meine Aufgaben erledigt.
 
@@ -128,7 +128,7 @@ das Mädchen
 
 -ent, -ant, -ist, -oge, -ad, -at, -f, -ph 结尾的阳性名词
 
-## Lektion 2
+## Lektion 2 - Arbeit
 
 Ich habe Respekt vor ihrer Eltern.
 
@@ -141,7 +141,7 @@ Seine Arbeit macht dem Mann Spaß.
 | der Lärm                      | noise                    |
 | angenehm                      | agreeable                |
 | die Geduld                    | patience                 |
-| auf jdn. aufpassen            | take care                |
+| auf jn. aufpassen             | take care                |
 | erziehen                      | educate                  |
 | der Erzieher / die Erzieherin | educator                 |
 | streiten                      | quarrel                  |
@@ -210,7 +210,7 @@ Mir ist egal.
 
 Die Menschen glauben fest an das, was sie wünschen.
 
-## Lektion 3
+## Lektion 3 - Wohnen
 
 ### Wörter
 
@@ -305,7 +305,7 @@ Makler ist eine Person, die beim Verkauf von Häusern hilft.
 träumen von D.
 sich um A. kümmern
 
-## Lektion 4
+## Lektion 4 - Kundenservice
 
 ### Wörter
 
@@ -336,7 +336,7 @@ sich um A. kümmern
 | die Kiste                      | box                   |
 | die Anrede                     | form of address       |
 | unverschämt                    | impertinent, inpudent |
-| sich bei jdm. beschweren       | complain to sb.       |
+| sich bei jm. beschweren        | complain to sb.       |
 | bedienen                       | serve                 |
 | würfeln                        | throw the dice        |
 | das Gerät                      | tool                  |
@@ -356,7 +356,7 @@ Können Sie mir helfen? Ich suche ein Deutschbuch für einen Jugendlichen.
 
 Ich kaufe den Pullover, obwohl er mir nicht richtig passt, weil er mir sehr gut gefällt.
 
-## Lektion 5
+## Lektion 5 - Medien und Technik
 
 ### Wörter
 
@@ -412,3 +412,78 @@ Ich werde nächstes Jahr mehr Geld sparen/zurücklegen.
 
 Ich vermute, dass wir nicht mehr rund um die Uhr erreichbar sein werden, weil uns das zu sehr anstrengt.  
 I suspect that we won't be available 24/7 anymore because it's too much of a hassle for us.
+
+## Lektion 6 - Essenseinladung
+
+Fühlen Sie sich wie zu Hause.  
+Make yourself at home.
+
+| Deutsch              | Bedeutung     |
+| -------------------- | ------------- |
+| die Begrüßung        | greeting      |
+| das Gastgeschenk     | present       |
+| der Aperitif         | aperitif      |
+| die Gastfreundschaft | hospitality   |
+| der Gastgeber        | host          |
+| der Rinderbraten     | roast beef    |
+| der Vegetarier       | vegetarian    |
+| schieflaufen         | go wrong      |
+| vergiften            | poison        |
+| vergiftet            | poisoned      |
+| der Weizen           | wheat         |
+| das Verständnis      | understanding |
+| ablehnen             | reject        |
+| verhalten            | cautious      |
+| das Verhalten        | behavior      |
+| die Gewohnheit       | habit         |
+| umgehen              | circumvent    |
+| nachschlagen         | look up       |
+| satt                 | full          |
+| das Gedächtnis       | memory        |
+| geschehen            | happen        |
+| äußern               | express       |
+| nachschenken         | top up        |
+| erfreut              | pleased       |
+| die Kleinigkeit      | trifle        |
+
+jn. begrüßen  
+eine Flasche Wein als Gastgeschenk mitbringen  
+Setzen Sie sich bitte! / Setze dich bitte!  
+Nehmen Sie bitte Platz! / Nimm bitte Platz!  
+einen Platz anbieten  
+Aperitif trinken/anbieten
+
+die Vorspeise  
+die Hauptspeise  
+der Nachtisch/die Nachspeise/das Dessert
+
+offzielle Einladung  
+Abchied und Dank  
+sich verabschieden von jm.  
+jm. danken
+
+Vielen Dank für Ihre Gastfreundschaft.
+
+eine Allergie gegen A. haben
+
+allergisch gegen A. sein
+
+A. ernst nehmen  
+take A. seriously
+
+Sonderwünsche erfüllen  
+fulfill special requests
+
+den Gast nach seinen Sonderwünsche fragen
+
+Sie haben recht.
+You're right.
+
+Gern geschehen.
+Gerne, bitte schön.
+
+Ich muss langsam gehen.  
+I must go slowly.
+
+Konjunktiv II (höflich)
+würden/hätten + Infinitiv
