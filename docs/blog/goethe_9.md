@@ -42,7 +42,7 @@ Seit einem Jahr lerne ich Deutsch.
 | überhaupt nicht              | not at all              |
 | überlegen                    | consider                |
 | geizig                       | kein Geld ausgeben      |
-| klug                         | intelligent             |
+| klug, gescheit               | intelligent             |
 | streng                       | strict                  |
 | mutig                        | brave                   |
 | frech                        | impatient               |
@@ -75,19 +75,17 @@ Seit einem Jahr lerne ich Deutsch.
 | verletzen                    | hurt, violate           |
 | wirken                       | appear, seem            |
 | nötig                        | needed, necessary       |
-| gescheit                     | klug                    |
 | lebendig                     | alive, lively           |
-| auszeichnen                  | distinguish             |
+| auszeichnen                  | distinguish, mark up    |
 | ausgezeichnet                | excellent               |
 | vergrößern                   | increase                |
 
-Ich habe meine Aufgaben erledigt.
-
 Also meine Lieben ihr wundert euch sicher, warum ich gerade euch eingeladen habe, ihr kennt euch ja noch nicht mal, aber ich fahre ja jetzt für zwei Jahre nach Bulgarien und da wollte ich gern die Menschen einladen, die mir bei der Bulgarien Entscheidung geholfen haben, da wart ihr alle in den letzten Monaten besonders wichtig für mich.
 
-Was ist der Unterschied zwischen A und B?
+Ich habe meine Aufgaben erledigt.
 
-ebenso A wie B
+Was ist der Unterschied zwischen A und B?  
+Ich mag Pasta ebenso wie Reis. I like pasta as well as rice.
 
 ## Charaktereigenschaften
 
@@ -342,6 +340,8 @@ sich um A. kümmern
 | das Gerät                      | tool                  |
 | der Kassenzetel / die Quittung | receipt               |
 | die Rechnung                   | bill invoice          |
+| zuschicken                     | send                  |
+| ab sofort                      | immediately           |
 
 ## Sätze
 
@@ -418,45 +418,71 @@ I suspect that we won't be available 24/7 anymore because it's too much of a has
 Fühlen Sie sich wie zu Hause.  
 Make yourself at home.
 
-| Deutsch              | Bedeutung     |
-| -------------------- | ------------- |
-| die Begrüßung        | greeting      |
-| das Gastgeschenk     | present       |
-| der Aperitif         | aperitif      |
-| die Gastfreundschaft | hospitality   |
-| der Gastgeber        | host          |
-| der Rinderbraten     | roast beef    |
-| der Vegetarier       | vegetarian    |
-| schieflaufen         | go wrong      |
-| vergiften            | poison        |
-| vergiftet            | poisoned      |
-| der Weizen           | wheat         |
-| das Verständnis      | understanding |
-| ablehnen             | reject        |
-| verhalten            | cautious      |
-| das Verhalten        | behavior      |
-| die Gewohnheit       | habit         |
-| umgehen              | circumvent    |
-| nachschlagen         | look up       |
-| satt                 | full          |
-| das Gedächtnis       | memory        |
-| geschehen            | happen        |
-| äußern               | express       |
-| nachschenken         | top up        |
-| erfreut              | pleased       |
-| die Kleinigkeit      | trifle        |
+| Deutsch                | Bedeutung                     |
+| ---------------------- | ----------------------------- |
+| die Begrüßung          | greeting                      |
+| das Gastgeschenk       | present                       |
+| der Aperitif           | aperitif                      |
+| die Gastfreundschaft   | hospitality                   |
+| der Gastgeber          | host                          |
+| der Rinderbraten       | roast beef                    |
+| der Vegetarier         | vegetarian                    |
+| schieflaufen           | go wrong                      |
+| vergiften              | poison                        |
+| vergiftet              | poisoned                      |
+| der Weizen             | wheat                         |
+| das Verständnis        | understanding                 |
+| ablehnen               | reject                        |
+| verhalten              | cautious                      |
+| das Verhalten          | behavior                      |
+| die Gewohnheit         | habit                         |
+| umgehen                | circumvent                    |
+| nachschlagen           | look up                       |
+| satt                   | full                          |
+| das Gedächtnis         | memory                        |
+| geschehen              | happen                        |
+| äußern                 | express                       |
+| nachschenken           | top up                        |
+| erfreut                | pleased                       |
+| die Kleinigkeit        | trifle                        |
+| meinerseits            | for my part                   |
+| riechen                | smell                         |
+| klappen                | work                          |
+| die Pfanne             | pan                           |
+| das Besteck            | cutlery                       |
+| nachwürzen             | add some seasoning            |
+| der Schoß              | lap 大腿                      |
+| der Schweiß            | sweat                         |
+| die Serviette          | napkin                        |
+| A. in A. hineinstopfen | cram sth. into sth.           |
+| abschneiden            | cut                           |
+| gestikulieren          | gesticulate                   |
+| Stirn                  | brow, forehead                |
+| wischen                | wipe                          |
+| der Kragen             | collar                        |
+| der Hemdkragen         | shirt collar                  |
+| hungrig                | hungry                        |
+| der Gang               | course                        |
+| herum                  | around                        |
+| unterbrechen           | interrupt, break off          |
+| sich vorarbeiten       | mit langer Arbeit vorankommen |
+| die Gebrauchsanweisung | instructions                  |
+| beobachten             | observe                       |
+| schnupfen              | sniff                         |
+| beurteilen             | judge, assess                 |
+| die Manier             | manner                        |
+
+## Phrasen
 
 jn. begrüßen  
 eine Flasche Wein als Gastgeschenk mitbringen  
 Setzen Sie sich bitte! / Setze dich bitte!  
 Nehmen Sie bitte Platz! / Nimm bitte Platz!  
 einen Platz anbieten  
-Aperitif trinken/anbieten
-
+Aperitif trinken/anbieten  
 die Vorspeise  
 die Hauptspeise  
-der Nachtisch/die Nachspeise/das Dessert
-
+der Nachtisch/die Nachspeise/das Dessert  
 offzielle Einladung  
 Abchied und Dank  
 sich verabschieden von jm.  
@@ -464,8 +490,7 @@ jm. danken
 
 Vielen Dank für Ihre Gastfreundschaft.
 
-eine Allergie gegen A. haben
-
+eine Allergie gegen A. haben  
 allergisch gegen A. sein
 
 A. ernst nehmen  
@@ -476,14 +501,47 @@ fulfill special requests
 
 den Gast nach seinen Sonderwünsche fragen
 
-Sie haben recht.
-You're right.
+Kommen Sie rein.  
+Come in.
 
-Gern geschehen.
-Gerne, bitte schön.
+Es hat geklappt.  
+It worked.
+
+Er riecht den Braten.  
+He smells a rat. (Wendung)
+
+Sie haben recht.  
+You're right.
 
 Ich muss langsam gehen.  
 I must go slowly.
 
+Kommen Sie gut nach Hause.  
+Get home safely.
+
+Gern geschehen.  
+Gerne, bitte schön.
+
 Konjunktiv II (höflich)
 würden/hätten + Infinitiv
+
+Ganz meinerseits  
+(Pleasure is) all mine.
+
+kulturelle Unterschiede
+
+jm. Bescheid sagen/geben
+
+offzielle Einladung  
+Abchied und Dank  
+sich verabschieden von jm.  
+jm. danken
+
+## Sätze
+
+| Deutsch                                             | Bedeutung                                                                                                  |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Das Abendessen besteht aus fünf Gängen.             | The dinner consists of five courses.                                                                       |
+| Lass dir die Zeit.                                  | Take your time.                                                                                            |
+| Sie unterhalten sich gern beim Essen.               | They like to talk while eating.                                                                            |
+| Arbeiten Sie sich zum Besteck, das innen liegt, vor | Nicht gleich das Besteck innen benutzen, sondern zuerst das Besteck außen, dann langsam das Besteck innen. |
