@@ -73,12 +73,14 @@ Ich kann mir nicht vorstellen, allein in Deutschland zu leben.
 Dann kommt das Angebot für mich nicht infrage.
 Then the offer is out of the question for me.
 
-infrage kommen
+infrage kommen  
 be possible
 
 Ich gucke nur.
 
 Das passt zu mir.
+
+Sie kommen recht.
 
 ## Infinitiv + zu steht nach
 
@@ -132,15 +134,60 @@ Lust haben auf A.
 Worauf hast du Lust?  
 Ich habe Lust (darauf), Deutsch zu lernen.
 
+::: tip
 Das Thema der Statistik zeigt den Anteil von alleinlebenden Personen in Deutschland. Fast ein Fünftel der Gesamtbevölkerung lebt allein. Von den alleinlebenden Personen ist knapp ein Viertel zwischen 18 und 34 Jahren und fast ein Fünftel von 35 bis 64. Jeder dritte ältere Menschen über 65 hingegen lebt allein. Ich denke, dass die Jungen gern allein leben, während die Alten keine Wahl haben. Da mehr Menschen nach 35 Jahren heiraten, leben die Jungen weniger allein.
+:::
 
+::: tip
 Die Umfrage wird zu dem Thema des Anteils der in Großstädten lebenden Personen durchgeführt. Die Großstädte bezeichnet man als die Städte mit 500.000 und mehr Einwohnern. Mehr als 16% von allen Deutschen leben in Großstädten. In Großstädten lebt rund ein Fünftel Einwohner, die zwischen 18 und 34 Jahren sind. Der Anteil der 35- bis 64-Jährigen ist fast genauso hoch wie der von Menschen über 65 - das ist rund 15% und überrascht mich. Ich glaube, dass sich de Familien und auch die Älteren nach 35 Jahren entscheiden, aufs Land zu ziehen, aber die Jungen ziehen in die Städte. In der Großstadt gibt es gute Angebote und mehr Freizeitmöglichkeiten, die von den jungen Leuten geliebt werden.
+:::
 
 ## Lektion - ???
 
-| Deutsch        | Bedeutung    |
-| -------------- | ------------ |
-| die Murmel     | marble       |
-| das Uhrwerk    | clockwork    |
-| der Wasserhahn | water faucet |
-| das Hundebaby  | puppy        |
+| Deutsch         | Bedeutung            |
+| --------------- | -------------------- |
+| die Murmel      | marble               |
+| das Uhrwerk     | clockwork            |
+| der Wasserhahn  | water faucet         |
+| das Hundebaby   | puppy                |
+| die Auswertung  | evaluation, analysis |
+| bellen          | bark                 |
+| ehrgeizig       | ambitious            |
+| vereinbart      | agreed               |
+| eignen          | suit                 |
+| geeignet        | suitable             |
+| die Abwechslung | variety, distraction |
+| bloß            | only                 |
+| entsprechen     | correspond to        |
+| gleichzeitig    | simultaneous(ly)     |
+| schreinern      | make                 |
+
+gerade eben  
+just now
+
+männlich  
+weiblich
+
+Rasen mähen
+
+::: da vs. weil
+da: den Gund kennen die anderen  
+weil: einen Grund nenne, den Grund kennen die anderen nicht
+:::
+
+noch nicht ganz fertig
+
+::: vor vs. bevor vs. während
+vor: Aktivität/Zeitangabe Präposition
+bevor: Handlung A findet vor Handlung B statt  
+während: Die Handlungen A und B finden gleichzeitig statt
+
+vor dem Sport/Essen/Unterricht  
+Ich frühstücke, **bevor**/**während** ich zur Arbeit fahre.
+:::
+
+Seit 4 Wochen lerne ich Deutsch.  
+Vor 4 Wochen habe ich Deutsch gelernt.
+
+Lieber nehme ich einen Freund mit, der sonst allein zu Hause ist.
+I'd rather take a friend with me who is otherwise alone at home

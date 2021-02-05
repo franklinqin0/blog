@@ -39,15 +39,12 @@ Seit einem Jahr lerne ich Deutsch.
 | vermuten                     | suspect                 |
 | der Abschied                 | farewell                |
 | sich (von jm.) verabschieden | say goodbye to          |
-| Akk. unterstützen            | Dat. helfen             |
+| A. unterstützen              | D. helfen               |
 | überhaupt nicht              | not at all              |
 | überlegen                    | consider                |
 | geizig                       | kein Geld ausgeben      |
 | klug, gescheit               | intelligent             |
-| streng                       | strict                  |
-| mutig                        | brave                   |
-| frech                        | impatient               |
-| wahnsinnig                   | insane                  |
+| wahnsinnig, verrückt         | crazy, insane           |
 | verstärken                   | strengthen              |
 | abschwächen                  | diminish                |
 | gegenseitig                  | mutual                  |
@@ -81,12 +78,12 @@ Seit einem Jahr lerne ich Deutsch.
 | ausgezeichnet                | excellent               |
 | vergrößern                   | increase                |
 
-Also meine Lieben ihr wundert euch sicher, warum ich gerade euch eingeladen habe, ihr kennt euch ja noch nicht mal, aber ich fahre ja jetzt für zwei Jahre nach Bulgarien und da wollte ich gern die Menschen einladen, die mir bei der Bulgarien Entscheidung geholfen haben, da wart ihr alle in den letzten Monaten besonders wichtig für mich.
+<!-- 听力完成填空 -->
 
 Ich habe meine Aufgaben erledigt.
 
-Was ist der Unterschied zwischen A und B?  
-Ich mag Pasta ebenso wie Reis. I like pasta as well as rice.
+Was ist der **Unterschied** **zwischen** A **und** B?  
+Ich mag Pasta **ebenso wie** Reis. I like pasta as well as rice.
 
 ## Charaktereigenschaften
 
@@ -441,6 +438,7 @@ Make yourself at home.
 | der Weizen             | wheat                          |
 | das Verständnis        | understanding                  |
 | ablehnen               | reject                         |
+| sich verhalten         | behave                         |
 | verhalten              | cautious                       |
 | das Verhalten          | behavior                       |
 | die Gewohnheit         | habit                          |
