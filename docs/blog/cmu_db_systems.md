@@ -143,3 +143,7 @@ $\rightarrow$ Query optimizer: re-orders operations and generates query plan
 SQL is based on **bags** (duplicates) nots sets (not duplicates).
 
 SQL Join: https://en.wikipedia.org/wiki/Join_(SQL)
+
+`Row_Number`: the position of tuple within the window defined by the APRTITION BY clause
+
+`Rank`: position in the sorting order

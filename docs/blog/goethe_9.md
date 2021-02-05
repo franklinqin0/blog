@@ -6,6 +6,7 @@ categories:
 tags:
   - Deutsch
 last: goethe_8
+next: goethe_10
 publish: false
 ---
 
@@ -58,7 +59,7 @@ Seit einem Jahr lerne ich Deutsch.
 | deshalb                      | thus                    |
 | beeinflussen                 | influence               |
 | der Spruch                   | adage                   |
-| erlauben                     | arrow                   |
+| erlauben, zulassen           | arrow                   |
 | der Feuertopf                | hot pot                 |
 | schüchtern                   | shy                     |
 | morgen früh                  | tomorrow morning        |
@@ -142,7 +143,7 @@ Seine Arbeit macht dem Mann Spaß.
 | auf jn. aufpassen             | take care                |
 | erziehen                      | educate                  |
 | der Erzieher / die Erzieherin | educator                 |
-| streiten                      | quarrel                  |
+| streiten                      | argue, quarrel           |
 | übrig                         | remaining                |
 | aufwachen                     | wake up                  |
 | aufbleiben                    | stay up                  |
@@ -162,6 +163,7 @@ Seine Arbeit macht dem Mann Spaß.
 | bestätigen                    | confirm                  |
 | der Bereich                   | area                     |
 | das Betriebsklima             | working atmosphere       |
+| bereit                        | ready                    |
 | bereits                       | already                  |
 | irgendwie                     | somehow                  |
 | egal                          | no matter, regardless    |
@@ -184,8 +186,10 @@ Seine Arbeit macht dem Mann Spaß.
 | hilfsbereit                   | helpful                  |
 | der Urwald                    | jungle                   |
 | auffallen                     | attract attention        |
-| kaum                          | hardly; scarcely         |
+| kaum                          | hardly, scarcely         |
 | todmüde                       | dead tired               |
+| enttäuschen                   | disappoint               |
+| enttäuschend                  | disappointed             |
 | auswendig lernen              | memorize sth.            |
 
 durch das Hotel führen  
@@ -321,6 +325,8 @@ sich um A. kümmern
 | durchwählen                    | direct dial           |
 | ansagen                        | announce              |
 | erhalten                       | receive               |
+| behalten                       | keep                  |
+| bereithalten                   | keep ready            |
 | die Auskunft                   | information           |
 | einleiten                      | start, introduce      |
 | die Abteilung                  | department            |
@@ -342,6 +348,8 @@ sich um A. kümmern
 | die Rechnung                   | bill invoice          |
 | zuschicken                     | send                  |
 | ab sofort                      | immediately           |
+| selbstverständlich             | natural(ly)           |
+| seltsam                        | strange(ly)           |
 
 ## Sätze
 
@@ -418,59 +426,59 @@ I suspect that we won't be available 24/7 anymore because it's too much of a has
 Fühlen Sie sich wie zu Hause.  
 Make yourself at home.
 
-| Deutsch                | Bedeutung                     |
-| ---------------------- | ----------------------------- |
-| die Begrüßung          | greeting                      |
-| das Gastgeschenk       | present                       |
-| der Aperitif           | aperitif                      |
-| die Gastfreundschaft   | hospitality                   |
-| der Gastgeber          | host                          |
-| der Rinderbraten       | roast beef                    |
-| der Vegetarier         | vegetarian                    |
-| schieflaufen           | go wrong                      |
-| vergiften              | poison                        |
-| vergiftet              | poisoned                      |
-| der Weizen             | wheat                         |
-| das Verständnis        | understanding                 |
-| ablehnen               | reject                        |
-| verhalten              | cautious                      |
-| das Verhalten          | behavior                      |
-| die Gewohnheit         | habit                         |
-| umgehen                | circumvent                    |
-| nachschlagen           | look up                       |
-| satt                   | full                          |
-| das Gedächtnis         | memory                        |
-| geschehen              | happen                        |
-| äußern                 | express                       |
-| nachschenken           | top up                        |
-| erfreut                | pleased                       |
-| die Kleinigkeit        | trifle                        |
-| meinerseits            | for my part                   |
-| riechen                | smell                         |
-| klappen                | work                          |
-| die Pfanne             | pan                           |
-| das Besteck            | cutlery                       |
-| nachwürzen             | add some seasoning            |
-| der Schoß              | lap 大腿                      |
-| der Schweiß            | sweat                         |
-| die Serviette          | napkin                        |
-| A. in A. hineinstopfen | cram sth. into sth.           |
-| abschneiden            | cut                           |
-| gestikulieren          | gesticulate                   |
-| Stirn                  | brow, forehead                |
-| wischen                | wipe                          |
-| der Kragen             | collar                        |
-| der Hemdkragen         | shirt collar                  |
-| hungrig                | hungry                        |
-| der Gang               | course                        |
-| herum                  | around                        |
-| unterbrechen           | interrupt, break off          |
-| sich vorarbeiten       | mit langer Arbeit vorankommen |
-| die Gebrauchsanweisung | instructions                  |
-| beobachten             | observe                       |
-| schnupfen              | sniff                         |
-| beurteilen             | judge, assess                 |
-| die Manier             | manner                        |
+| Deutsch                | Bedeutung                      |
+| ---------------------- | ------------------------------ |
+| die Begrüßung          | greeting                       |
+| das Gastgeschenk       | present                        |
+| der Aperitif           | aperitif                       |
+| die Gastfreundschaft   | hospitality                    |
+| der Gastgeber          | host                           |
+| der Rinderbraten       | roast beef                     |
+| der Vegetarier         | vegetarian                     |
+| schieflaufen           | go wrong                       |
+| vergiften              | poison                         |
+| vergiftet              | poisoned                       |
+| der Weizen             | wheat                          |
+| das Verständnis        | understanding                  |
+| ablehnen               | reject                         |
+| verhalten              | cautious                       |
+| das Verhalten          | behavior                       |
+| die Gewohnheit         | habit                          |
+| umgehen                | circumvent                     |
+| nachschlagen           | look up                        |
+| satt                   | full                           |
+| das Gedächtnis         | memory                         |
+| geschehen              | happen                         |
+| äußern                 | express                        |
+| nachschenken           | top up                         |
+| erfreut                | pleased                        |
+| die Kleinigkeit        | trifle                         |
+| meinerseits            | for my part                    |
+| riechen                | smell                          |
+| klappen                | work                           |
+| die Pfanne             | pan                            |
+| das Besteck            | cutlery                        |
+| nachwürzen             | add some seasoning             |
+| der Schoß              | lap 大腿                       |
+| der Schweiß, schwitzen | sweat                          |
+| die Serviette          | napkin                         |
+| A. in A. hineinstopfen | cram sth. into sth.            |
+| abschneiden            | cut                            |
+| gestikulieren          | gesticulate                    |
+| Stirn                  | brow, forehead                 |
+| wischen                | wipe                           |
+| der Kragen             | collar                         |
+| der Hemdkragen         | shirt collar                   |
+| hungrig                | hungry                         |
+| der Gang               | course                         |
+| herum                  | around                         |
+| unterbrechen           | interrupt, break off           |
+| sich vorarbeiten       | durch harte Arbeit vorankommen |
+| die Gebrauchsanweisung | instructions                   |
+| beobachten             | observe                        |
+| schnupfen              | sniff                          |
+| beurteilen             | judge, assess                  |
+| die Manier             | manner                         |
 
 ## Phrasen
 
