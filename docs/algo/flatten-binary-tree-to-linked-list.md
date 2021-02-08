@@ -12,7 +12,7 @@ tags:
 
 Let $N$ be the number of nodes in the tree.
 
-### Recursion
+### Recursive DFS
 
 ::: theorem Complexity
 time: $O(N)$  
@@ -24,7 +24,7 @@ def flatten(self, root: TreeNode) -> None:
     """
     Do not return anything, modify root in-place instead.
     """
-    return self.helper(root)
+    self.helper(root)
 
 def helper(self, node):
     if not node:
@@ -45,4 +45,34 @@ def helper(self, node):
     return rightTail if rightTail else leftTail
 ```
 
-<!-- ### Iterative Solution using Stack (REDO) -->
+### Iterative Morris Traversal
+
+```py
+def flatten(self, root: TreeNode) -> None:
+    """
+    Do not return anything, modify root in-place instead.
+    """
+
+    # Handle the null scenario
+    if not root:
+        return None
+
+    node = root
+    while node:
+
+        # If the node has a left child
+        if node.left:
+
+            # Find the rightmost node
+            rightmost = node.left
+            while rightmost.right:
+                rightmost = rightmost.right
+
+            # rewire the connections
+            rightmost.right = node.right
+            node.right = node.left
+            node.left = None
+
+        # move on to the right side of the tree
+        node = node.right
+```

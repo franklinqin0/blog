@@ -368,3 +368,9 @@ def scramble(b):
         _swap(b,i,i+pos)
         i = i+1
     # post: b[0..len(b)] is scrambled
+
+## Morris Traversal
+
+```py
+
+```

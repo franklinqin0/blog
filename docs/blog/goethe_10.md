@@ -13,7 +13,7 @@ Deutsch Notizen für das Goethe Institut - B1.1 zwei
 
 <!-- more -->
 
-## Lektion 7
+## Lektion 7 - ???
 
 ### Wörter
 
@@ -70,7 +70,7 @@ etwas Futter, das Kaninchen gerne fressen
 
 Ich kann mir nicht vorstellen, allein in Deutschland zu leben.
 
-Dann kommt das Angebot für mich nicht infrage.
+Dann kommt das Angebot für mich nicht infrage.  
 Then the offer is out of the question for me.
 
 infrage kommen  
@@ -142,7 +142,9 @@ Das Thema der Statistik zeigt den Anteil von alleinlebenden Personen in Deutschl
 Die Umfrage wird zu dem Thema des Anteils der in Großstädten lebenden Personen durchgeführt. Die Großstädte bezeichnet man als die Städte mit 500.000 und mehr Einwohnern. Mehr als 16% von allen Deutschen leben in Großstädten. In Großstädten lebt rund ein Fünftel Einwohner, die zwischen 18 und 34 Jahren sind. Der Anteil der 35- bis 64-Jährigen ist fast genauso hoch wie der von Menschen über 65 - das ist rund 15% und überrascht mich. Ich glaube, dass sich de Familien und auch die Älteren nach 35 Jahren entscheiden, aufs Land zu ziehen, aber die Jungen ziehen in die Städte. In der Großstadt gibt es gute Angebote und mehr Freizeitmöglichkeiten, die von den jungen Leuten geliebt werden.
 :::
 
-## Lektion - ???
+## Lektion 8 - ???
+
+### Wörter
 
 | Deutsch         | Bedeutung            |
 | --------------- | -------------------- |
@@ -178,7 +180,7 @@ weil: einen Grund nenne, den Grund kennen die anderen nicht
 noch nicht ganz fertig
 
 ::: vor vs. bevor vs. während
-vor: Aktivität/Zeitangabe Präposition
+vor: Aktivität/Zeitangabe Präposition  
 bevor: Handlung A findet vor Handlung B statt  
 während: Die Handlungen A und B finden gleichzeitig statt
 
@@ -191,3 +193,49 @@ Vor 4 Wochen habe ich Deutsch gelernt.
 
 Lieber nehme ich einen Freund mit, der sonst allein zu Hause ist.
 I'd rather take a friend with me who is otherwise alone at home
+
+## Lektion 9 - ???
+
+### Wörter
+
+| Deutsch                         | Bedeutung                                                   |
+| ------------------------------- | ----------------------------------------------------------- |
+| das Wohlbefinden                | well-being                                                  |
+| aufladen                        | recharge                                                    |
+| der Zeichentrick                | cartoon                                                     |
+| die Nahrung, das Nahrungsmittel | food                                                        |
+| Abwehrkraft                     | power of resistance 抵抗力                                  |
+| das Genussmittel                | o. Ä. genossen wird(tea, coffee, alcoholic drinks, tobacco) |
+| zu A. beitragen                 | contribute                                                  |
+| ernähren, die Ernährung         | feed, diet                                                  |
+| das Bedürfnis                   | need                                                        |
+| versorgen                       | supply                                                      |
+| zusammenstellen                 |                                                             |
+
+### Sätze
+
+das Aerobic machen  
+gesunde Nahrungsmittel (gesunde Lebensmittel außer Genussmitteln wie Alkohol))  
+regelmäßige Mahlzeiten einnehmen  
+der Sauerstoff, die frische Luft  
+das Tageslicht  
+gute Abwehrkräfte stärken/schwächen  
+die Bewegung  
+die Entspannung  
+wenig Stress (Stress abbauen/reduzieren)  
+die Fitness  
+der Vegetarier, die Vegetarierin  
+der Allergiker  
+die Pause
+
+Was kann ein Unternehmen für die Gesundheit der Mitarbeiter tun?
+
+- Fitnessraum aubiten
+- viel Obst anbieten
+- keine Überstunden gewährleisten
+- viele Urlaubstage anbieten
+- viel Geld für eine Reise anbieten
+- regelmäßige Pause einsetzen
+- gute Möbel kaufen: Stuhl(keine Schmerzen im Wirbel haben), Sofa
+- den Mitarbeitern E-Mails über Gesundheitstipps schicken
+- Möglichkeit für jährlichen Gesundheitstest anbieten

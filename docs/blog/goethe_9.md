@@ -56,7 +56,7 @@ Seit einem Jahr lerne ich Deutsch.
 | deshalb                      | thus                    |
 | beeinflussen                 | influence               |
 | der Spruch                   | adage                   |
-| erlauben, zulassen           | arrow                   |
+| erlauben, zulassen           | allow                   |
 | der Feuertopf                | hot pot                 |
 | schüchtern                   | shy                     |
 | morgen früh                  | tomorrow morning        |
@@ -71,7 +71,7 @@ Seit einem Jahr lerne ich Deutsch.
 | stören                       | dusturb                 |
 | vorsichtig                   | cautious, careful       |
 | verletzen                    | hurt, violate           |
-| wirken                       | appear, seem            |
+| wirken, erscheinen           | appear, seem            |
 | nötig                        | needed, necessary       |
 | lebendig                     | alive, lively           |
 | auszeichnen                  | distinguish, mark up    |
@@ -132,62 +132,63 @@ Seine Arbeit macht dem Mann Spaß.
 
 ### Wörter
 
-| Deutsch                       | Bedeutung                |
-| ----------------------------- | ------------------------ |
-| der Lärm                      | noise                    |
-| angenehm                      | agreeable                |
-| die Geduld                    | patience                 |
-| auf jn. aufpassen             | take care                |
-| erziehen                      | educate                  |
-| der Erzieher / die Erzieherin | educator                 |
-| streiten                      | argue, quarrel           |
-| übrig                         | remaining                |
-| aufwachen                     | wake up                  |
-| aufbleiben                    | stay up                  |
-| beschäftigt                   | occupied                 |
-| brutto mit Steuer             | gross w/ tax             |
-| netto ohne Steuer             | net w/o tax              |
-| der Abzug                     | deduction                |
-| die Teambesprechung           | team meeting             |
-| die Überstunde                | overtime                 |
-| der/die Auszubildende         | trainee, apprentice      |
-| der Ablauf                    | routine, procedure       |
-| der Tagesablauf               | daily routine            |
-| die Aussprache                | pronunciation            |
-| das Vertrauen                 | confidence, trust        |
-| der Arbeitgeber               | employer                 |
-| der Arbeitnehmer              | employee                 |
-| bestätigen                    | confirm                  |
-| der Bereich                   | area                     |
-| das Betriebsklima             | working atmosphere       |
-| bereit                        | ready                    |
-| bereits                       | already                  |
-| irgendwie                     | somehow                  |
-| egal                          | no matter, regardless    |
-| sich schämen                  | be ashamed               |
-| das Fazit                     | result                   |
-| die Kindheit                  | childhood                |
-| die Ansprache                 | speech                   |
-| vereinfachen                  | simplify                 |
-| die Anleitung                 | instruction, guidance    |
-| Verantwortung übernehmen      | take over responsibility |
-| mit jdm zurechtkommen         | get along w/ sb.         |
-| die Gegenwart                 | present, presence        |
-| drinnen                       | indoors                  |
-| wahren                        | keep                     |
-| unglaublich                   | incredible(ly)           |
-| anschließend                  | subsequently             |
-| allerdings                    | however, certainly       |
-| abschrecken                   | daunt                    |
-| das Einkommen/das Gehalt      | income                   |
-| hilfsbereit                   | helpful                  |
-| der Urwald                    | jungle                   |
-| auffallen                     | attract attention        |
-| kaum                          | hardly, scarcely         |
-| todmüde                       | dead tired               |
-| enttäuschen                   | disappoint               |
-| enttäuschend                  | disappointed             |
-| auswendig lernen              | memorize sth.            |
+| Deutsch                          | Bedeutung                |
+| -------------------------------- | ------------------------ |
+| der Lärm                         | noise                    |
+| angenehm                         | agreeable                |
+| die Geduld                       | patience                 |
+| auf jn. aufpassen                | take care                |
+| erziehen                         | educate                  |
+| der Erzieher / die Erzieherin    | educator                 |
+| streiten                         | argue, quarrel           |
+| übrig                            | remaining                |
+| aufwachen                        | wake up                  |
+| aufbleiben                       | stay up                  |
+| beschäftigt                      | occupied                 |
+| brutto mit Steuer                | gross w/ tax             |
+| netto ohne Steuer                | net w/o tax              |
+| der Abzug                        | deduction                |
+| die Teambesprechung              | team meeting             |
+| die Überstunde                   | overtime                 |
+| der/die Auszubildende            | trainee, apprentice      |
+| der Ablauf                       | routine, procedure       |
+| der Tagesablauf                  | daily routine            |
+| die Aussprache                   | pronunciation            |
+| das Vertrauen                    | confidence, trust        |
+| der Arbeitgeber, der Unternehmer | employer                 |
+| der Arbeitnehmer                 | employee                 |
+| bestätigen                       | confirm                  |
+| der Bereich                      | area                     |
+| das Betriebsklima                | working atmosphere       |
+| bereit                           | ready                    |
+| bereits                          | already                  |
+| irgendwie                        | somehow                  |
+| egal                             | no matter, regardless    |
+| sich schämen                     | be ashamed               |
+| das Fazit                        | result                   |
+| die Kindheit                     | childhood                |
+| die Ansprache                    | speech                   |
+| vereinfachen                     | simplify                 |
+| anleiten                         | instruct, teach          |
+| die Anleitung                    | instruction, guidance    |
+| Verantwortung übernehmen         | take over responsibility |
+| mit jdm zurechtkommen            | get along w/ sb.         |
+| die Gegenwart                    | present, presence        |
+| drinnen                          | indoors                  |
+| wahren                           | keep                     |
+| unglaublich                      | incredible(ly)           |
+| anschließend                     | subsequently             |
+| allerdings                       | however, certainly       |
+| abschrecken                      | daunt                    |
+| das Einkommen/das Gehalt         | income                   |
+| hilfsbereit                      | helpful                  |
+| der Urwald                       | jungle                   |
+| auffallen                        | attract attention        |
+| kaum                             | hardly, scarcely         |
+| todmüde                          | dead tired               |
+| enttäuschen                      | disappoint               |
+| enttäuschend                     | disappointed             |
+| auswendig lernen                 | memorize sth.            |
 
 durch das Hotel führen  
 zusammen zu Mittag essen  
@@ -197,7 +198,7 @@ an der Rezeption arbeiten
 nach Hause fahren  
 (k)eine Ansprache halten  
 nur anschauen / nicht arbeiten dürfen  
-traurig/enttschäuscht anch Hause
+traurig/enttschäuscht nach Hause
 
 weit/nah von $\cdots$ 离某地远/近
 
@@ -240,7 +241,7 @@ Die Menschen glauben fest an das, was sie wünschen.
 | herrschen                               | rule, prevail            |
 | weit entfernt                           | far away                 |
 | der Besitz                              | property                 |
-| begegnen, die Begegnung                 | encounter                |
+| jm. begegnen, die Begegnung             | encounter                |
 | ankommen                                | arrive                   |
 | weihen                                  | unveil                   |
 | der Zugang                              | access                   |
@@ -250,8 +251,6 @@ Die Menschen glauben fest an das, was sie wünschen.
 | schließlich                             | at last                  |
 | vorhin                                  | a short time ago         |
 | der Abstand                             | distance                 |
-| erscheinen                              | appear                   |
-| beschweren                              | complain                 |
 | der Eintritt                            | entrance                 |
 | zurzeit                                 | at the present           |
 | merkwürdig                              | strange                  |
@@ -265,7 +264,6 @@ Die Menschen glauben fest an das, was sie wünschen.
 | knapp                                   | short                    |
 | aus einem Land stammen                  | originate from a country |
 | dicht                                   | dense                    |
-| besiedeln                               | settle                   |
 | ländlich                                | rural                    |
 | die Gegend, das Gebiet                  | area                     |
 | vor allem                               | especially               |
@@ -273,14 +271,13 @@ Die Menschen glauben fest an das, was sie wünschen.
 
 ### Sätze
 
-| Deutsch                                | Bedeutung                                                |
-| -------------------------------------- | -------------------------------------------------------- |
-| eine Rolle spielen                     | wichtig sein                                             |
-| keine Rolle spielen                    | nicht wichtig sein                                       |
-| Worauf achten Sie bei der Wohnungwahl? | What do you pay attention to when choosing an apartment? |
+| Deutsch                                 | Bedeutung                                                |
+| --------------------------------------- | -------------------------------------------------------- |
+| (k)eine Rolle spielen                   | (nicht) wichtig sein                                     |
+| Worauf achten Sie bei der Wohnungswahl? | What do you pay attention to when choosing an apartment? |
 
-eine Villa am Meer
-im Vorort wohnen
+eine Villa am Meer  
+im Vorort wohnen  
 in den Vorort umziehen
 
 zentrale Lage = central location
@@ -301,7 +298,7 @@ Makler ist eine Person, die beim Verkauf von Häusern hilft.
 | f.  | die       | die       | der       |
 | Pl. | die       | die       | **denen** |
 
-träumen von D.
+träumen von D.  
 sich um A. kümmern
 
 ## Lektion 4 - Kundenservice
@@ -311,10 +308,11 @@ sich um A. kümmern
 | Deutsch                        | Bedeutung             |
 | ------------------------------ | --------------------- |
 | mehrfach                       | multiple              |
+| die Wendung                    | expression            |
 | die Werbung                    | advertising           |
 | das Rätselheft                 | puzzle magazine       |
 | der Verlag                     | publisher             |
-| beschweren                     | complain              |
+| sich bei jm. beschweren        | complain to sb.       |
 | Reklamation                    | complaint             |
 | obwohl                         | trotzdem              |
 | zuständig                      | appropriate, proper   |
@@ -333,11 +331,10 @@ sich um A. kümmern
 | verderben                      | go bad                |
 | feststellen                    | realize               |
 | merken                         | notice                |
-| solch                          | such                  |
+| solch                          | ähnlich               |
 | die Kiste                      | box                   |
 | die Anrede                     | form of address       |
 | unverschämt                    | impertinent, inpudent |
-| sich bei jm. beschweren        | complain to sb.       |
 | bedienen                       | serve                 |
 | würfeln                        | throw the dice        |
 | das Gerät                      | tool                  |
@@ -357,9 +354,13 @@ sich um A. kümmern
 | Das kann passieren. | Das ist ok.              |
 | Schönen Tag noch.   | Danke, ebenso!           |
 
-Können Sie mir helfen? Ich suche ein Deutschbuch für einen Jugendlichen.
+Können Sie mir helfen?  
+Ich suche ein Deutschbuch für einen Jugendlichen.
 
 Ich kaufe den Pullover, obwohl er mir nicht richtig passt, weil er mir sehr gut gefällt.
+
+so seltsam es klingen mag  
+strange as it may sound
 
 ## Lektion 5 - Medien und Technik
 
@@ -423,60 +424,61 @@ I suspect that we won't be available 24/7 anymore because it's too much of a has
 Fühlen Sie sich wie zu Hause.  
 Make yourself at home.
 
-| Deutsch                | Bedeutung                      |
-| ---------------------- | ------------------------------ |
-| die Begrüßung          | greeting                       |
-| das Gastgeschenk       | present                        |
-| der Aperitif           | aperitif                       |
-| die Gastfreundschaft   | hospitality                    |
-| der Gastgeber          | host                           |
-| der Rinderbraten       | roast beef                     |
-| der Vegetarier         | vegetarian                     |
-| schieflaufen           | go wrong                       |
-| vergiften              | poison                         |
-| vergiftet              | poisoned                       |
-| der Weizen             | wheat                          |
-| das Verständnis        | understanding                  |
-| ablehnen               | reject                         |
-| sich verhalten         | behave                         |
-| verhalten              | cautious                       |
-| das Verhalten          | behavior                       |
-| die Gewohnheit         | habit                          |
-| umgehen                | circumvent                     |
-| nachschlagen           | look up                        |
-| satt                   | full                           |
-| das Gedächtnis         | memory                         |
-| geschehen              | happen                         |
-| äußern                 | express                        |
-| nachschenken           | top up                         |
-| erfreut                | pleased                        |
-| die Kleinigkeit        | trifle                         |
-| meinerseits            | for my part                    |
-| riechen                | smell                          |
-| klappen                | work                           |
-| die Pfanne             | pan                            |
-| das Besteck            | cutlery                        |
-| nachwürzen             | add some seasoning             |
-| der Schoß              | lap 大腿                       |
-| der Schweiß, schwitzen | sweat                          |
-| die Serviette          | napkin                         |
-| A. in A. hineinstopfen | cram sth. into sth.            |
-| abschneiden            | cut                            |
-| gestikulieren          | gesticulate                    |
-| Stirn                  | brow, forehead                 |
-| wischen                | wipe                           |
-| der Kragen             | collar                         |
-| der Hemdkragen         | shirt collar                   |
-| hungrig                | hungry                         |
-| der Gang               | course                         |
-| herum                  | around                         |
-| unterbrechen           | interrupt, break off           |
-| sich vorarbeiten       | durch harte Arbeit vorankommen |
-| die Gebrauchsanweisung | instructions                   |
-| beobachten             | observe                        |
-| schnupfen              | sniff                          |
-| beurteilen             | judge, assess                  |
-| die Manier             | manner                         |
+| Deutsch                  | Bedeutung                      |
+| ------------------------ | ------------------------------ |
+| die Begrüßung            | greeting                       |
+| das Gastgeschenk         | present                        |
+| der Aperitif             | aperitif                       |
+| die Gastfreundschaft     | hospitality                    |
+| der Gastgeber            | host                           |
+| der Rinderbraten         | roast beef                     |
+| der Vegetarier           | vegetarian                     |
+| schieflaufen             | go wrong                       |
+| vergiften                | poison                         |
+| vergiftet                | poisoned                       |
+| der Weizen               | wheat                          |
+| das Verständnis          | understanding                  |
+| ablehnen                 | reject                         |
+| sich verhalten           | behave                         |
+| verhalten                | cautious                       |
+| das Verhalten            | behavior                       |
+| die Gewohnheit           | habit                          |
+| umgehen                  | circumvent                     |
+| neue Wörter nachschlagen | look up new words              |
+| satt                     | full                           |
+| das Gedächtnis           | memory                         |
+| geschehen                | happen                         |
+| äußern                   | express                        |
+| nachschenken             | top up                         |
+| erfreut                  | pleased                        |
+| die Kleinigkeit          | trifle                         |
+| meinerseits              | for my part                    |
+| riechen                  | smell                          |
+| klappen                  | work                           |
+| die Pfanne               | pan                            |
+| das Besteck              | cutlery                        |
+| nachwürzen               | add some seasoning             |
+| der Schoß                | lap 大腿                       |
+| der Schweiß, schwitzen   | sweat                          |
+| die Serviette            | napkin                         |
+| A. in A. hineinstopfen   | cram sth. into sth.            |
+| abschneiden              | cut                            |
+| gestikulieren            | gesticulate                    |
+| Stirn                    | brow, forehead                 |
+| wischen                  | wipe                           |
+| der Kragen               | collar                         |
+| der Hemdkragen           | shirt collar                   |
+| hungrig                  | hungry                         |
+| der Gang                 | course                         |
+| herum                    | around                         |
+| unterbrechen             | interrupt, break off           |
+| sich vorarbeiten         | durch harte Arbeit vorankommen |
+| die Anweisung            | instruction                    |
+| die Gebrauchsanweisung   | instructions for use           |
+| beobachten               | observe                        |
+| schnupfen                | sniff                          |
+| beurteilen               | judge, assess                  |
+| die Manier               | manner                         |
 
 ## Phrasen
 

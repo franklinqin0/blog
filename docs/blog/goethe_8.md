@@ -336,8 +336,8 @@ Wir sprechen über einen wichtigen Menschen.
 | gebären                | give birth to        |
 
 ::: man, Mann, Menschen
-man 接第三人称单数动词
-Mann 与 Frau 对应
+man 接第三人称单数动词  
+Mann 与 Frau 对应  
 Menschen 与 Tiere 对应
 :::
 

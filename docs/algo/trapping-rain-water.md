@@ -51,7 +51,7 @@ def trap(self, height: List[int]) -> int:
     if not height: return 0
     res = 0
     n = len(height)
-    left_max, right_max = [0]*n, [0]*n
+    left_max, right_max = [0 for _ in range(n)], [0 for _ in range(n)]
     # calc the max height to the left
     left_max[0] = height[0]
     for i in range(1, n):

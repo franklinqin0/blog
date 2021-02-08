@@ -53,7 +53,7 @@ def find_min_len(self, boxes, target, n):
     """
     returns an array in which each element records min length of subarray whose sum equals target
     """
-    left_min = [sys.maxsize]*n
+    left_min = [sys.maxsize for _ in range(n)]
     # sum in current sliding window
     csum = 0
     left = 0

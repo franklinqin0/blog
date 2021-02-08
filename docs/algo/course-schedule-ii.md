@@ -26,7 +26,7 @@ def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int
         return []
 
     edges = {i : set() for i in range(numCourses)}  # other courses that depend on course i
-    indegrees = [0] * numCourses # number of unlearned prereqs
+    indegrees = [0 for _ in range(numCourses)] # number of unlearned prereqs
 
     # calc indegrees for each course
     for i, j in prerequisites:

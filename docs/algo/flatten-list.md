@@ -40,7 +40,3 @@ def flatten(self, nestedList):
             res.append(top)
     return res
 ```
-
-<!-- ## Follow Up
-
-https://leetcode.com/problems/flatten-nested-list-iterator -->
