@@ -167,26 +167,6 @@ A window function is an SQL function where the input values are taken from a "wi
 
 Window functions are distinguished from other SQL functions by the presence of an OVER clause. If a function has an OVER clause, then it is a window function. If it lacks an OVER clause, then it is an ordinary aggregate or scalar function. Window functions might also have a FILTER clause in between the function and the OVER clause.
 
-### Armstrong's Axioms
-
-Reflexivity:  
-$X \supseteq Y \Rightarrow X \rightarrow Y$
-
-Union:  
-$(X \rightarrow Y) \wedge (X \rightarrow Z) \Rightarrow X \rightarrow YZ$
-
-Augmentation:  
-$X \rightarrow Y \Rightarrow XZ \rightarrow YZ$
-
-Decomposition:  
-$X \rightarrow YZ \Rightarrow (X \rightarrow Y) \wedge (X \rightarrow Z)$
-
-Transitivity:  
-$(X \rightarrow Y) \wedge (Y \rightarrow Z) \Rightarrow X \rightarrow Z$
-
-Pseudo-transitivity:  
-$(X \rightarrow Y) \wedge (YW \rightarrow Z) \Rightarrow XW \rightarrow Z$
-
 ## Functional Dependency (FD)
 
 A FD is a form of a constraint and part of a relation's schema to define a valid instance.
@@ -196,6 +176,46 @@ If two tuples ($t_1$, $t_2$) agree on the $X$ attribute, then they must agree on
 $\rightarrow$ The value of $X$ functionally defines the value of $Y$.
 
 Two FDs $X \rightarrow Y$ and $X \rightarrow Z$ can be written in shorthand as $X \rightarrow YZ$, but $XY \rightarrow Z$ is not the same as $X \rightarrow Z$ and $Y \rightarrow Z$.
+
+Given a set $F$ of FDs ${f_1, \cdots, f_n}$, compute the closure $F+$ (set of all implied FDs) using Armstrong's Axioms.
+
+### Armstrong's Axioms
+
+Reflexivity:  
+$Y \subseteq X \Rightarrow X \rightarrow Y$
+
+Augmentation:  
+$X \rightarrow Y \Rightarrow XZ \rightarrow YZ$
+
+Transitivity:  
+$(X \rightarrow Y) \wedge (Y \rightarrow Z) \Rightarrow X \rightarrow Z$
+
+Decomposition:  
+$X \rightarrow YZ \Rightarrow (X \rightarrow Y) \wedge (X \rightarrow Z)$
+
+Composition:  
+$X \rightarrow Y \wedge A \rightarrow B \Rightarrow XA \rightarrow YB$
+
+Union:  
+$(X \rightarrow Y) \wedge (X \rightarrow Z) \Rightarrow X \rightarrow YZ$
+
+Pseudo-transitivity:  
+$(X \rightarrow Y) \wedge (YW \rightarrow Z) \Rightarrow XW \rightarrow Z$
+
+### Canonical Cover
+
+Given a set $F$ of FDs ${f_1, \cdots, f_n}$, canonical cover $F_c$ is the minimal set of all FDs.
+
+Definitions:
+
+1. the **RHS** of every FD is a **single attribute**
+2. the closure of $F_c$ is **identical** to the closure of $F$ (i.e., $F_c = F$ are equivalent)
+3. the $F_c$ is **minimal** (i.e., if we eliminate any attribute from the LHS or RHS of a FD, property #2 is violated)
+
+Computation:
+
+- drop extraneous LHS or RHS attributes or **redundant FDs**
+- split FDs to have a **single attribute** in RHS
 
 ## Lossless Joins
 

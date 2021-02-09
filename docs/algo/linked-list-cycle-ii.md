@@ -12,11 +12,6 @@ related:
 
 <img class="medium-zoom" src="/algo/linked-list-cycle-ii.png" alt="https://leetcode.com/problems/linked-list-cycle-ii">
 
-`pos` variable is used to:
-
-1. convert input array into linked list
-2. run unit test faster
-
 This problem follows [Linked List Cycle](linked_list_cycle), which asks if there exists a cycle.
 
 ## Solution
@@ -53,10 +48,14 @@ def detectCycle(self, head: ListNode) -> ListNode:
 
 When `slow` and `fast` intersect, `fast` has traversed the cycle once and completed twice the distance of `slow`. So:
 
-$$2⋅distance(slow) = distance(fast)$$
-$$2(F+a) = F+a+b+a$$
-$$2F+2a = F+2a+b$$
-$$F = b$$
+$$
+\begin{aligned}
+2 \cdot \text{distance(slow)} &= \text{distance(fast)} \\
+2(F+a) &= F+a+b+a \\
+2F+2a &= F+2a+b \\
+F &= b
+\end{aligned}
+$$
 
 ::: theorem Complexity
 time: $O(n)$  

@@ -12,11 +12,6 @@ related:
 
 <img class="medium-zoom" src="/algo/linked-list-cycle.png" alt="https://leetcode.com/problems/linked-list-cycle">
 
-`pos` variable is used to:
-
-1. convert input array into linked list
-2. run unit test faster
-
 The next problem is [Linked List Cycle II](linked_list_cycle_ii), which asks for the cycle start.
 
 ## Solution
@@ -56,7 +51,7 @@ time: $O(n)$
 space: $O(1)$
 :::
 
-#### `slow is not fast`
+#### Check False
 
 If statement is at **beginning** of while loop.
 
@@ -72,7 +67,7 @@ def hasCycle(self, head: ListNode) -> bool:
     return True
 ```
 
-#### `fast and fast.next`
+#### Check True
 
 ```py
 def hasCycle(self, head: ListNode) -> bool:
@@ -89,7 +84,7 @@ def hasCycle(self, head: ListNode) -> bool:
 
 #### Try / Except
 
-When `fast` or `fast.next` is `None`, an error would throw on the while check. To avoid the hassle, return `True` at the end of `try` and `False` at the end of `except`.
+When `fast` or `fast.next` is `None`, an error would throw on the while check. To avoid the check, return `True` at the end of `try` and `False` at the end of `except`.
 
 ```py
 def hasCycle(self, head: ListNode) -> bool:

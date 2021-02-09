@@ -9,9 +9,7 @@ tags:
 
 ## Solution
 
-`lcp` means "longest common prefix".
-
-Let `S` be the summed length of all strings.
+Let `lcp` mean "longest common prefix" and $S$ be the summed length of all strings.
 
 ### Horizontal Scanning
 
