@@ -14,7 +14,7 @@ related:
 
 See [this video](https://youtu.be/mLV_vOet0ss) for perfect explanation on this problem and [the previous easier problem](drop_eggs).
 
-Let `i` be the one of `K` eggs, and `j` be one of the `N` floors.
+Let $i$ be the one of `K` eggs, and $j$ be one of the `N` floors.
 
 ### Iterative DP (TLE)
 

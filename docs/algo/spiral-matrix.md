@@ -9,7 +9,7 @@ tags:
 
 ## Solution
 
-Let `N` be the number of total elements in the matrix.
+Let $N$ be the number of total elements in the matrix.
 
 ### Simulation
 

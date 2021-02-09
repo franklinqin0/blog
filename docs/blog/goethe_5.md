@@ -127,26 +127,29 @@ Sebastian ist 28 Jahre alt und aus Spanien. Er hat in der Schule Deutsch gelernt
 ::: theorem
 Komparativ: Adjektiv + **er** + _als_  
 Superlativ: am Adjektiv + **sten** | der/das/die Adjektiv + **ste**  
-(Achtung: ä, ö, ü)
+bei einsilbigen Adjektiven gibt es oft einen Umlaut: ä, ö, ü  
+Adjektive auf _-t_, _-d_, _-s_, _-z_, _-sch_ und _-ß_ + **esten** (! am größ**ten**)
 :::
 
-| Grundform     | Komparativ      | Superlativ                                    |
-| ------------- | --------------- | --------------------------------------------- |
-| gern          | lieber          | am liebsten                                   |
-| viel          | mehr            | am meisten, **die meisten**(大多数，默认复数) |
-| gut           | besser          | am besten                                     |
-| fantasiereich | fantasiereicher | am fantasiereichsten                          |
-| spät          | später          | am spätersten                                 |
-| teuer         | **teurer**      | am teuersten                                  |
-| alt           | älter           | am **ältesten**                               |
-| kalt          | kälter          | am **kältesten**                              |
-| lang          | länger          | am längsten                                   |
-| jung          | jünger          | am jüngsten                                   |
-| hoch          | **höher**       | am höchsten                                   |
-| groß          | größer          | am größten                                    |
-| gesund        | gesünder        | am **gesündesten**                            |
-| oft           | öfter           | am öftesten                                   |
-| kurz          | kürzer          | am kürzesten                                  |
+| Grundform | Komparativ            | Superlativ                                    |
+| --------- | --------------------- | --------------------------------------------- |
+| **gern**  | lieber                | am liebsten                                   |
+| **viel**  | mehr                  | am meisten, **die meisten**(大多数，默认复数) |
+| **gut**   | besser                | am besten                                     |
+| spät      | später                | am spätersten                                 |
+| teuer     | **teurer**            | am teuersten                                  |
+| alt       | **ä**lter             | am ältesten                                   |
+| kalt      | k**ä**lter            | am kältesten                                  |
+| lang      | l**ä**nger            | am längsten                                   |
+| jung      | j**ü**nger            | am jüngsten                                   |
+| hoch      | h**öh**er             | am höchsten                                   |
+| groß      | größer                | am größten                                    |
+| gesund    | ges**ü**nder/gesunder | am gesünd**esten**/gesundesten                |
+| oft       | öfter                 | am öftesten                                   |
+| kurz      | kürzer                | am kürzesten                                  |
+| dunkel    | **dunkler**           | am dunkelsten                                 |
+| neu       | neuer                 | am neuesten                                   |
+| bekannt   | bekannter             | am bekannt**esten**                           |
 
 Magst du lieber Tee oder lieber Kaffee?  
 Lieber Tee.

@@ -3,16 +3,18 @@ title: Group Anagrams
 diff: medium
 tags:
   - String
-  - DP
+  - Hash Table
 ---
 
 <img class="medium-zoom" src="/algo/group-anagrams.png" alt="https://leetcode.com/problems/group-anagrams">
 
 ## Solution
 
-Let $n$ be the length of `strs`, and $k$ the maximum length of a string in `strs`.
+Let n\$ be the length of `strs`, and $k$ the maximum length of a string in `strs`.
 
 ### Categorize by Sorted String
+
+Use the sorted string as dictionary key.
 
 Sorting each string takes $O(k \log k)$ time. The for loop does it $n$ times.
 
@@ -32,6 +34,8 @@ def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
 ```
 
 ### Categorize by Count
+
+Use the char count as dictionary key.
 
 Counting each string is $O(k)$. The for loop does it $n$ times.
 

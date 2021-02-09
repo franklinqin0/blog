@@ -132,63 +132,63 @@ Seine Arbeit macht dem Mann Spaß.
 
 ### Wörter
 
-| Deutsch                          | Bedeutung                |
-| -------------------------------- | ------------------------ |
-| der Lärm                         | noise                    |
-| angenehm                         | agreeable                |
-| die Geduld                       | patience                 |
-| auf jn. aufpassen                | take care                |
-| erziehen                         | educate                  |
-| der Erzieher / die Erzieherin    | educator                 |
-| streiten                         | argue, quarrel           |
-| übrig                            | remaining                |
-| aufwachen                        | wake up                  |
-| aufbleiben                       | stay up                  |
-| beschäftigt                      | occupied                 |
-| brutto mit Steuer                | gross w/ tax             |
-| netto ohne Steuer                | net w/o tax              |
-| der Abzug                        | deduction                |
-| die Teambesprechung              | team meeting             |
-| die Überstunde                   | overtime                 |
-| der/die Auszubildende            | trainee, apprentice      |
-| der Ablauf                       | routine, procedure       |
-| der Tagesablauf                  | daily routine            |
-| die Aussprache                   | pronunciation            |
-| das Vertrauen                    | confidence, trust        |
-| der Arbeitgeber, der Unternehmer | employer                 |
-| der Arbeitnehmer                 | employee                 |
-| bestätigen                       | confirm                  |
-| der Bereich                      | area                     |
-| das Betriebsklima                | working atmosphere       |
-| bereit                           | ready                    |
-| bereits                          | already                  |
-| irgendwie                        | somehow                  |
-| egal                             | no matter, regardless    |
-| sich schämen                     | be ashamed               |
-| das Fazit                        | result                   |
-| die Kindheit                     | childhood                |
-| die Ansprache                    | speech                   |
-| vereinfachen                     | simplify                 |
-| anleiten                         | instruct, teach          |
-| die Anleitung                    | instruction, guidance    |
-| Verantwortung übernehmen         | take over responsibility |
-| mit jdm zurechtkommen            | get along w/ sb.         |
-| die Gegenwart                    | present, presence        |
-| drinnen                          | indoors                  |
-| wahren                           | keep                     |
-| unglaublich                      | incredible(ly)           |
-| anschließend                     | subsequently             |
-| allerdings                       | however, certainly       |
-| abschrecken                      | daunt                    |
-| das Einkommen/das Gehalt         | income                   |
-| hilfsbereit                      | helpful                  |
-| der Urwald                       | jungle                   |
-| auffallen                        | attract attention        |
-| kaum                             | hardly, scarcely         |
-| todmüde                          | dead tired               |
-| enttäuschen                      | disappoint               |
-| enttäuschend                     | disappointed             |
-| auswendig lernen                 | memorize sth.            |
+| Deutsch                                           | Bedeutung                |
+| ------------------------------------------------- | ------------------------ |
+| der Lärm                                          | noise                    |
+| angenehm                                          | agreeable                |
+| die Geduld                                        | patience                 |
+| auf A. aufpassen, sich um A. kümmern, A. betreuen | take care                |
+| erziehen                                          | educate                  |
+| der Erzieher / die Erzieherin                     | educator                 |
+| streiten                                          | argue, quarrel           |
+| übrig                                             | remaining                |
+| aufwachen                                         | wake up                  |
+| aufbleiben                                        | stay up                  |
+| beschäftigt                                       | occupied                 |
+| brutto mit Steuer                                 | gross w/ tax             |
+| netto ohne Steuer                                 | net w/o tax              |
+| der Abzug                                         | deduction                |
+| die Teambesprechung                               | team meeting             |
+| die Überstunde                                    | overtime                 |
+| der/die Auszubildende                             | trainee, apprentice      |
+| der Ablauf                                        | routine, procedure       |
+| der Tagesablauf                                   | daily routine            |
+| die Aussprache                                    | pronunciation            |
+| das Vertrauen                                     | confidence, trust        |
+| der Arbeitgeber, der Unternehmer                  | employer                 |
+| der Arbeitnehmer, der/die Angestellte             | employee                 |
+| bestätigen                                        | confirm                  |
+| der Bereich                                       | area                     |
+| das Betriebsklima                                 | working atmosphere       |
+| bereit                                            | ready                    |
+| bereits                                           | already                  |
+| irgendwie                                         | somehow                  |
+| egal                                              | no matter, regardless    |
+| sich schämen                                      | be ashamed               |
+| das Fazit                                         | result                   |
+| die Kindheit                                      | childhood                |
+| die Ansprache                                     | speech                   |
+| vereinfachen                                      | simplify                 |
+| anleiten                                          | instruct, teach          |
+| die Anleitung                                     | instruction, guidance    |
+| Verantwortung übernehmen                          | take over responsibility |
+| mit jdm zurechtkommen                             | get along w/ sb.         |
+| die Gegenwart                                     | present, presence        |
+| drinnen                                           | indoors                  |
+| wahren                                            | keep                     |
+| unglaublich                                       | incredible(ly)           |
+| anschließend                                      | subsequently             |
+| allerdings                                        | however, certainly       |
+| abschrecken                                       | daunt                    |
+| das Einkommen/das Gehalt                          | income                   |
+| hilfsbereit                                       | helpful                  |
+| der Urwald                                        | jungle                   |
+| auffallen                                         | attract attention        |
+| kaum                                              | hardly, scarcely         |
+| todmüde                                           | dead tired               |
+| enttäuschen                                       | disappoint               |
+| enttäuschend                                      | disappointed             |
+| auswendig lernen                                  | memorize sth.            |
 
 durch das Hotel führen  
 zusammen zu Mittag essen  
@@ -211,6 +211,8 @@ Mir ist egal.
 Die Menschen glauben fest an das, was sie wünschen.
 
 ## Lektion 3 - Wohnen
+
+Mein Beruf ist meine Leidenschaft.
 
 ### Wörter
 
@@ -268,21 +270,21 @@ Die Menschen glauben fest an das, was sie wünschen.
 | die Gegend, das Gebiet                  | area                     |
 | vor allem                               | especially               |
 | der Anteil                              | proportion               |
+| träumen von D.                          | dream of sth.            |
 
 ### Sätze
 
-| Deutsch                                 | Bedeutung                                                |
-| --------------------------------------- | -------------------------------------------------------- |
-| (k)eine Rolle spielen                   | (nicht) wichtig sein                                     |
-| Worauf achten Sie bei der Wohnungswahl? | What do you pay attention to when choosing an apartment? |
+(k)eine Rolle spielen  
+(nicht) wichtig sein
+
+Worauf achten Sie bei der Wohnungswahl?  
+What do you pay attention to when choosing an apartment?
 
 eine Villa am Meer  
 im Vorort wohnen  
 in den Vorort umziehen
 
 zentrale Lage = central location
-
-Mein Beruf ist meine Leidenschaft.
 
 saß
 sitzen
@@ -298,52 +300,49 @@ Makler ist eine Person, die beim Verkauf von Häusern hilft.
 | f.  | die       | die       | der       |
 | Pl. | die       | die       | **denen** |
 
-träumen von D.  
-sich um A. kümmern
-
 ## Lektion 4 - Kundenservice
 
 ### Wörter
 
-| Deutsch                        | Bedeutung             |
-| ------------------------------ | --------------------- |
-| mehrfach                       | multiple              |
-| die Wendung                    | expression            |
-| die Werbung                    | advertising           |
-| das Rätselheft                 | puzzle magazine       |
-| der Verlag                     | publisher             |
-| sich bei jm. beschweren        | complain to sb.       |
-| Reklamation                    | complaint             |
-| obwohl                         | trotzdem              |
-| zuständig                      | appropriate, proper   |
-| kündigen                       | cancel                |
-| durchwählen                    | direct dial           |
-| ansagen                        | announce              |
-| erhalten                       | receive               |
-| behalten                       | keep                  |
-| bereithalten                   | keep ready            |
-| die Auskunft                   | information           |
-| einleiten                      | start, introduce      |
-| die Abteilung                  | department            |
-| ausrichten                     | tell sb sth           |
-| besetzt                        | occupied              |
-| wegen                          | b/c of                |
-| verderben                      | go bad                |
-| feststellen                    | realize               |
-| merken                         | notice                |
-| solch                          | ähnlich               |
-| die Kiste                      | box                   |
-| die Anrede                     | form of address       |
-| unverschämt                    | impertinent, inpudent |
-| bedienen                       | serve                 |
-| würfeln                        | throw the dice        |
-| das Gerät                      | tool                  |
-| der Kassenzetel / die Quittung | receipt               |
-| die Rechnung                   | bill invoice          |
-| zuschicken                     | send                  |
-| ab sofort                      | immediately           |
-| selbstverständlich             | natural(ly)           |
-| seltsam                        | strange(ly)           |
+| Deutsch                         | Bedeutung             |
+| ------------------------------- | --------------------- |
+| mehrfach                        | multiple              |
+| die Wendung                     | expression            |
+| die Werbung                     | advertising           |
+| das Rätselheft                  | puzzle magazine       |
+| der Verlag                      | publisher             |
+| sich bei jm. beschweren         | complain to sb.       |
+| Reklamation                     | complaint             |
+| obwohl                          | trotzdem              |
+| zuständig                       | appropriate, proper   |
+| kündigen                        | cancel                |
+| durchwählen                     | direct dial           |
+| ansagen                         | announce              |
+| erhalten                        | receive               |
+| behalten                        | keep                  |
+| bereithalten                    | keep ready            |
+| die Auskunft                    | information           |
+| einleiten                       | start, introduce      |
+| die Abteilung                   | department            |
+| ausrichten                      | tell sb sth           |
+| besetzt                         | occupied              |
+| wegen                           | b/c of                |
+| verderben                       | go bad                |
+| feststellen                     | find, realize         |
+| merken                          | notice                |
+| solch                           | ähnlich               |
+| die Kiste                       | box                   |
+| die Anrede                      | form of address       |
+| unverschämt                     | impertinent, inpudent |
+| bedienen                        | serve                 |
+| würfeln                         | throw the dice        |
+| das Gerät                       | tool                  |
+| der Kassenzettel / die Quittung | receipt               |
+| die Rechnung                    | bill invoice          |
+| zuschicken                      | send                  |
+| ab sofort                       | immediately           |
+| selbstverständlich              | natural(ly)           |
+| seltsam                         | strange(ly)           |
 
 ## Sätze
 
@@ -373,7 +372,7 @@ strange as it may sound
 | andererseits                         | on the other hand     |
 | staubsaugen                          | vacuum                |
 | der Begriff                          | concept               |
-| die Ansicht                          | opinion               |
+| die Ansicht                          | view, opinion         |
 | behaupten                            | maintain, assert      |
 | überzeugen                           | convince              |
 | steuern                              | control, steer        |
@@ -390,7 +389,6 @@ strange as it may sound
 | aufhören/aufgeben                    | stop                  |
 | die gleiche wie                      | the same as           |
 | überfordern                          | overwhelm             |
-| die Angestellte                      | employee              |
 
 Ich finde es unmöglich, dass $\cdots$
 

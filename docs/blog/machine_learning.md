@@ -17,3 +17,7 @@ Classification is the task of choosing the correct class label for a given input
 ## READ
 
 [https://lionbridge.ai/articles/6-types-of-neural-networks-every-data-scientist-must-know/]()
+
+[Alibaba Redis](https://developer.aliyun.com/learning/course/15/detail/39)
+
+[Alibaba RL](https://tianchi.aliyun.com/specials/promotion/aicamprl?spm=5176.14154004.J_1266466330.4.31fe5699pG0gvu)

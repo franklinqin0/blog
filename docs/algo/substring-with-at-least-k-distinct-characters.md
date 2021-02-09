@@ -10,7 +10,7 @@ tags:
 
 ## Solution
 
-Let `n` be the length of `s`.
+Let $n$ be the length of `s`.
 
 ### Two Pointers
 

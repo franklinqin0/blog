@@ -12,7 +12,7 @@ related:
 
 ## Solution
 
-All following solutions take $O(V + E)$ time and space.
+Let $n$ be the number of rows and $m$ be the number of columns. All following solutions take $O(V + E) = O(nm)$ time and space.
 
 ### BFS w/ HashMap
 

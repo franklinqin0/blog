@@ -1,5 +1,5 @@
 ---
-title: Implement strstr
+title: Implement strStr
 diff: easy
 tags:
   - Two Pointers
@@ -37,7 +37,7 @@ def strStr(self, haystack: str, needle: str) -> int:
         return -1
 
     base = 26
-    mod = 1000000007
+    mod = 10**9 + 7
     hash_h, hash_n = 0, 0
 
     haystack_to_int = lambda i: ord(haystack[i])-ord('a')
@@ -46,7 +46,9 @@ def strStr(self, haystack: str, needle: str) -> int:
     for i in range(n):
         hash_n = (base*hash_n + needle_to_int(i)) % mod
         hash_h = (base*hash_h + haystack_to_int(i)) % mod
-    if hash_n==hash_h and needle == haystack[:n]:
+
+    # early exit if needle is the prefix of haystack
+    if hash_n == hash_h and needle == haystack[:n]:
         return 0
 
     power = pow(base, n, mod)
@@ -57,8 +59,8 @@ def strStr(self, haystack: str, needle: str) -> int:
     return -1
 ```
 
-### KMP (REDO)
+<!-- ### KMP (REDO)
 
-### Z-algo
+### Z-algo (REDO)
 
-https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/
+https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/ -->

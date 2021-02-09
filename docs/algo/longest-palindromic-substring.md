@@ -107,7 +107,7 @@ def expandAroundCenter(self, s: str, l, r):
     return s[l+1:r]
 ```
 
-### Manacher's algorithm
+### Manacher's algorithm (REDO in Python)
 
 This algorithm basically inclues some smart improvements on [Expand around Center](#expand-around-center). Should be quite straightforward after watching [this video](https://youtu.be/nbTSfrEfo6M).
 

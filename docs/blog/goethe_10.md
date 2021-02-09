@@ -196,21 +196,49 @@ I'd rather take a friend with me who is otherwise alone at home
 
 ## Lektion 9 - ???
 
+Sport trägt zu einem größeren Wohlbefinden bei.
+
 ### Wörter
 
-| Deutsch                         | Bedeutung                                                   |
-| ------------------------------- | ----------------------------------------------------------- |
-| das Wohlbefinden                | well-being                                                  |
-| aufladen                        | recharge                                                    |
-| der Zeichentrick                | cartoon                                                     |
-| die Nahrung, das Nahrungsmittel | food                                                        |
-| Abwehrkraft                     | power of resistance 抵抗力                                  |
-| das Genussmittel                | o. Ä. genossen wird(tea, coffee, alcoholic drinks, tobacco) |
-| zu A. beitragen                 | contribute                                                  |
-| ernähren, die Ernährung         | feed, diet                                                  |
-| das Bedürfnis                   | need                                                        |
-| versorgen                       | supply                                                      |
-| zusammenstellen                 |                                                             |
+| Deutsch                                 | Bedeutung                                                   |
+| --------------------------------------- | ----------------------------------------------------------- |
+| das Wohlbefinden                        | well-being                                                  |
+| aufladen                                | recharge                                                    |
+| der Zeichentrick                        | cartoon                                                     |
+| die Nahrung, das Nahrungsmittel         | food                                                        |
+| Abwehrkraft                             | power of resistance 抵抗力                                  |
+| das Genussmittel                        | o. Ä. genossen wird(tea, coffee, alcoholic drinks, tobacco) |
+| zu A. beitragen                         | contribute                                                  |
+| ernähren, die Ernährung                 | feed, diet                                                  |
+| das Bedürfnis                           | need                                                        |
+| versorgen                               | supply                                                      |
+| im Freien                               | draußen                                                     |
+| das Risiko                              | risk, danger                                                |
+| die Tatsache                            | fact                                                        |
+| der Kreislauf                           | circle, circulation                                         |
+| munter                                  | jolly, cheerful                                             |
+| tief                                    | deep, low                                                   |
+| die Schachtel                           | box                                                         |
+| schaden                                 | damage                                                      |
+| selbstbewusst                           | confident                                                   |
+| anfällig                                | vulnerable, prone                                           |
+| die Weiterbildung                       | die Fortbildung                                             |
+| die Beziehung                           | relations                                                   |
+| verteilen                               | distribute                                                  |
+| die Müdigkeit                           | tiredness                                                   |
+| die Verspannung                         | der Stress                                                  |
+| entgegen                                | towards                                                     |
+| die Krankversicherung, die Krankenkasse | health insurance                                            |
+| der Aufenthalt                          | residence, stay                                             |
+| verleihen                               | geben                                                       |
+| verursachen                             | cause, Grund von etwas sein                                 |
+| vorbildlich                             | exemplary, kann als Vorbild sein                            |
+| der Leitsatz                            | guiding principle                                           |
+| erläutern                               | erklären                                                    |
+| umsetzen, die Umsetzung                 | move, implement                                             |
+| rechnen                                 | überlegen, erwarten                                         |
+| das Gegenteil, der Gegensatz            | opposite                                                    |
+| züchten                                 | breed, cultivate                                            |
 
 ### Sätze
 
@@ -230,7 +258,7 @@ die Pause
 
 Was kann ein Unternehmen für die Gesundheit der Mitarbeiter tun?
 
-- Fitnessraum aubiten
+- Fitnessraum anbieten
 - viel Obst anbieten
 - keine Überstunden gewährleisten
 - viele Urlaubstage anbieten
@@ -239,3 +267,53 @@ Was kann ein Unternehmen für die Gesundheit der Mitarbeiter tun?
 - gute Möbel kaufen: Stuhl(keine Schmerzen im Wirbel haben), Sofa
 - den Mitarbeitern E-Mails über Gesundheitstipps schicken
 - Möglichkeit für jährlichen Gesundheitstest anbieten
+
+verschiedene gesunde Nahrungsmittel einnehmen
+
+Menschen, die positiv und selbstbewusst im Leben stehen, sind weniger anfällig für Stress.
+
+Sie werden bald merken: verteilen Sie kürzere Pausen über den Tag.  
+Machen Sie mehr Aerobic und setzen Sie sich ans Tageslicht.  
+Das Leben liegt in mehr Bewegung, gesünderen Mahlzeiten, hellerem Sonnenschein, und frischerem Sauerstoff.
+
+Meine Krankenkasse übernimmt die Kosten für meinen Krankenhausaufenthalt. My medical insurance covers the cost of my hospital stay.
+
+A. in die Praxis umsetzen  
+Die Regeln werden von den Mitarbeitern schon in die Praxis umgesetzt.  
+The rules are already being put into practice by the employees.
+
+Das Unternehmen rechnet damit, dass das Durchschnittsalter von den Mitarbeitern in wenigen Jahren steigen wird.  
+The company expects the average age of its employees to increase in a few years.
+
+Meiner Meinung nach ist es sehr einfach.  
+Ich meine, dass $\cdots$  
+Meine Meinung ist, dass $\cdots$  
+Meiner Meinung nach gehört die Zigarette nach einem guten Essen einfach dazu.  
+In my opinion, the cigarette is simply part of the process after a good meal.
+
+::: details Notizen über Tipps für ein besseres Leben
+
+Man sollte/könnte $\cdots$
+
+1. regelmäßige Mahlzeiten einnehmen
+2. immer bessere Nahrungsmittel essen
+3. jeden Tag gesünderes Essen kochen
+4. weniger frittierte Lebensmittel essen
+5. abends weniger essen
+6. mehr Wasser trinken
+7. mehr Pflanzen zu Hause züchten
+8. kürzere Pausen über den Tag machen
+9. der beste Tipp für die Augen: längere Entspannung in der Pause
+10. mehr Aerobic machen und sich öfter ens Tageslicht setzen
+11. früher ins Bett gehen
+12. mindestens 7 Stunden täglich schlafen
+13. weniger arbeiten
+14. nach der Arbeit: mehr Bewegung machen
+15. mehr Versicherungen bei verschiedenen Krankenkassen kaufen
+16. mehr interessantere Bücher lesen
+17. eine positivere Einstellung zum Leben und eine tolerantere Einstellung zu den anderen Personen haben
+18. die süßeste Katze haben
+19. So kann man ein glücklicheres Leben führen
+20. Ein besseres Leben liegt in mehr Bewegung, gesünderen Mahlzeiten, hellerem Sonnenschein, und frischerem Sauerstoff
+
+:::

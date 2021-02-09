@@ -14,7 +14,7 @@ First of all, that's a long title :joy:
 
 This problem is actually `hard` if done in DP, but DFS is easier.
 
-Let `n` be the number of `steps`.
+Let $n$ be the number of `steps`.
 
 ### DFS
 

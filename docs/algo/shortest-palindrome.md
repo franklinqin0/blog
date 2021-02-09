@@ -47,7 +47,7 @@ public String shortestPalindrome(String s) {
     }
 ```
 
-### RK
+### RK Algo
 
 ::: theorem Complexity
 time: $O(n)$  

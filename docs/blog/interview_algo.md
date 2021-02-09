@@ -374,3 +374,13 @@ def scramble(b):
 ```py
 
 ```
+
+## Rabin Karp (RK) Algorithm
+
+```py
+
+```
+
+## KMP
+
+## Manacher's algorithm

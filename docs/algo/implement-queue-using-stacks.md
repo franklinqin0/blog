@@ -35,12 +35,12 @@ space: $O(n)$ due to additional space taken by `s2`
 The new element is always pushed to `s1`. Pop elements from `s2`. If `s2` is empty, `_move` all elements from `s1` to `s2`.
 
 ::: theorem Complexity for `pop`
-time: amortized $O(1)$, worst case $O(n)$
+time: amortized $O(1)$, worst case $O(n)$  
+space: $O(n)$ due to additional space taken by `s2`
 :::
 
 - normal case: if `s2` is not empty, `pop` from `s2`
 - worst case: if `s2` is empty, `_move` doesn't pop `s1` and append to `s2`
-  space: $O(n)$ due to additional space taken by `s2`
 
 All other operations are quite straightforward and have constant time and space complexities.
 

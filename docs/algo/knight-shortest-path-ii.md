@@ -12,7 +12,7 @@ related:
 
 ## Solution
 
-All following solutions take $O(V + E)$ time and space.
+Let $n$ be the number of rows and $m$ be the number of columns. All following solutions take $O(V + E) = O(nm)$ time and space.
 
 ### BFS w/ HashMap
 
@@ -65,19 +65,23 @@ class Solution:
         return path
 ```
 
-#### Follow Up 1: output any shortest path
+#### Follow Up 1
+
+> output any shortest path
 
 To output a path, we need to store the last point for each current point. We can't do the reverse b/c there might be multiple next points for each current point.
 
 The added code is highlighted in [BFS w/ HashMap](#bfs-w-hashmap) code above.
 
-#### Follow Up 2: output a shortest path in alphabetical order
+#### Follow Up 2
+
+> output a shortest path in alphabetical order
 
 To follow alphabetical order, we need to use `heapq` to replace the original `queue` w/ a priority queue. Added or changed lines are highlighted.
 
 In `is_valid`, if the old way of visiting, `dist[(x, y)]`, has smaller distance than that of the new way of visiting, `last_dist + 1`, then new way doesn't shorten the path, and we don't want to visit `(nx, ny)` again.
 
-```py {2,14,21,26,38}
+```py {2,14,21,26,37}
 DIRECTIONS = [(1,2), (-1, 2), (2,1), (-2, 1)]
 import heapq
 class Solution:
@@ -126,14 +130,9 @@ class Solution:
         return path
 ```
 
-### Bidirectional BFS (REDO)
+### Bidirectional BFS
 
 Instead of doing BFS in 1 direction, we can start from source and destination. A path is found when these 2 searches meet.
-
-::: theorem Complexity
-time: $O(V + E)$  
-space: $O(V + E)$
-:::
 
 ```py
 class Solution:
@@ -167,7 +166,7 @@ class Solution:
         visited_Other_pos = [[False for _ in range(n)] for _ in range(m)]
 
         res = 0
-        sign = 0 # from left to right / from right to left
+        sign = 0 # 1 if from left to right / -1 if from right to left
 
         dx = [-1, 1, -2, 2]
         dy = [2, 2, 1, 1]
@@ -180,7 +179,7 @@ class Solution:
                 visited_Curr = visited_A
                 visited_Other_pos = visited_B
                 sign = 1
-            else :
+            else:
                 queue = queue_B
                 visited_Curr = visited_B
                 visited_Other_pos = visited_A
@@ -204,7 +203,7 @@ class Solution:
         return -1
 
     def isValid(self, x, m, y, n, grid):
-        if x < 0 or x >= m or y < 0 or y >= n:
+        if 0<=x<m and 0<=y<n:
             return False
 
         if grid[x][y] == 1:
@@ -217,7 +216,7 @@ class Solution:
 
 The array `dist` stores the shortest distance to get to a point, so initialize `dist[0][0]` to be $0$ and the rest to be `sys.maxsize`.
 
-Note that we should **iterate column before row**, b/c knight could only go from left to right. O.w., some `dist` element may be calculated while its dependent elements are still `sys.maxsize`. Example: `dist[0][j]` depends on `dist[2][j-1]` and `dist[1][j-2]`, both of which are visited afterwards.
+Note that we should **iterate column before row**, b/c knight could only go from left to right. O.w., some `dist` element may be calculated while its dependent elements are still `sys.maxsize`. Example: `dist[0][j]` depends on `dist[2][j-1]` and `dist[1][j-2]`, and should be visited first.
 
 ```py
 DIRECTIONS = [(-1, -2), (1, -2), (-2, -1), (2, -1)]
@@ -231,7 +230,7 @@ class Solution:
         m = len(grid[0])
 
         if not n or not m: return -1
-        dist = [[sys.maxsize]*m for _ in range(n)]
+        dist = [[sys.maxsize for _ in range(m)] for _ in range(n)]
         dist[0][0] = 0
 
         for j in range(m):
@@ -240,7 +239,6 @@ class Solution:
                     continue
                 for dx, dy in DIRECTIONS:
                     nx, ny = i + dx, j + dy
-
                     if 0<=nx<n and 0<=ny<m:
                         dist[i][j] = min(dist[i][j], dist[nx][ny] + 1)
 

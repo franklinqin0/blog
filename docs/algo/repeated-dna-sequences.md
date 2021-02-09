@@ -48,7 +48,7 @@ def findRepeatedDnaSequences(self, s: str) -> List[str]:
     hash_s = 0
     s_to_int = lambda i: dct[s[i]]
     base = 4
-    mod = 1000000007
+    mod = 10**9 + 7
     power = pow(base, L, mod)
 
     # compute hash of s[0:L] and add to seen
