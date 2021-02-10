@@ -78,6 +78,8 @@ Seit einem Jahr lerne ich Deutsch.
 | ausgezeichnet                | excellent               |
 | vergrößern                   | increase                |
 
+???
+
 <!-- 听力完成填空 -->
 
 Ich habe meine Aufgaben erledigt.
@@ -85,7 +87,7 @@ Ich habe meine Aufgaben erledigt.
 Was ist der **Unterschied** **zwischen** A **und** B?  
 Ich mag Pasta **ebenso wie** Reis. I like pasta as well as rice.
 
-## Charaktereigenschaften
+### Charaktereigenschaften
 
 | Deutsch                 | Bedeutung         |
 | ----------------------- | ----------------- |
@@ -109,7 +111,8 @@ Ich mag Pasta **ebenso wie** Reis. I like pasta as well as rice.
 | chaotisch/durcheinander | $\neg$ ordentlich |
 | offen                   | open              |
 
-| ++                           | +        | -        | --                           |
+???
+| ++ | + | - | -- |
 | ---------------------------- | -------- | -------- | ---------------------------- |
 | wahnsinnig<br>total<br> echt | ziemlich | nicht so | überhaupt nicht<br>gar nicht |
 
@@ -122,7 +125,14 @@ das Mädchen
 
 ### Schwache Nomen / n-Deklination
 
+???
 -ent, -ant, -ist, -oge, -ad, -at, -f, -ph 结尾的阳性名词
+
+### Schreibaufgabe
+
+::: tip
+Ein wichtiger Mensch in meinem Leben ist CX. Als ich in der Grundschule war, kannte ich ihn. Er ist klug, vernünftig und fair. Wir haben zusammen Tischtennis gespielt, gleiche Bücher gelesen und auch in der Schule zusammen Mathe gemacht. Obwohl wir in den unterschiedliche Schulen waren, spielten wir oft Tischtennis, wenn wir uns traffen. Ich fühle mich bei ihm ziemlich glücklich.
+:::
 
 ## Lektion 2 - Arbeit
 
@@ -209,6 +219,12 @@ Das ist mir(für mich) egal/langweilig/wichtig/heiß/peinlich
 Mir ist egal.
 
 Die Menschen glauben fest an das, was sie wünschen.
+
+## Schreibaufgabe
+
+::: tip
+Ich bin nicht gern in die Schule gegangen, aber in der Freizeit las ich viel und spiele oft Geige, weil die klassische Musik mich beruhigen konnte. Als ich 13 Jahre alt war, wohnte ich in meiner eigenen Wohnung. Ich bin Einzelkind und habe keine Geschwister, aber ich hatte viele Freunde vom Sport. Um ehrlich zu sein, kannte ich meine erste Liebe vom Tischtennis, aber am Ende hat die romantische Beziehung nicht geklappt. Jetzt habe ich Angst vor meinem schlechten Deutsch, denn ich werde im April nach Deutschland für Masterstudium gehen.
+:::
 
 ## Lektion 3 - Wohnen
 
@@ -528,7 +544,8 @@ Get home safely.
 Gern geschehen.  
 Gerne, bitte schön.
 
-Konjunktiv II (höflich)
+???
+Konjunktiv II (höflich)  
 würden/hätten + Infinitiv
 
 Ganz meinerseits  
@@ -551,3 +568,8 @@ jm. danken
 | Lass dir die Zeit.                                  | Take your time.                                                                                            |
 | Sie unterhalten sich gern beim Essen.               | They like to talk while eating.                                                                            |
 | Arbeiten Sie sich zum Besteck, das innen liegt, vor | Nicht gleich das Besteck innen benutzen, sondern zuerst das Besteck außen, dann langsam das Besteck innen. |
+
+### Falls
+
+Falls Sie das Essen bereits beendet haben, legen Sie die Serviette neben den Teller.  
+Legen Sie die Serviette neben den Teller, falls Sie das Essen bereits beendet haben.

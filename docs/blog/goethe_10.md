@@ -317,3 +317,42 @@ Man sollte/könnte $\cdots$
 20. Ein besseres Leben liegt in mehr Bewegung, gesünderen Mahlzeiten, hellerem Sonnenschein, und frischerem Sauerstoff
 
 :::
+
+## Lektion 10
+
+Hätte ich das bloß anders gemacht.  
+I wish I had done it differently.
+
+### Wörter
+
+| Deutsch                                  | Bedeutung                              |
+| ---------------------------------------- | -------------------------------------- |
+| vertonen                                 | eine Musik unterlegen, in Musik setzen |
+| die Stimme                               | voice                                  |
+| der Zuhörer                              | listener                               |
+| nass, naß                                | wet                                    |
+| der Trauzeuge, -n / die Trauzeugin, -nen | best man, maid of honor                |
+| strömen                                  | storm                                  |
+| die Frisur                               | haircut                                |
+| zufällig                                 | by chance, ungeplant                   |
+| die Vergangenheit                        | past                                   |
+| bemerken                                 | entdecken                              |
+| weshalb                                  | aus diesem Grund                       |
+| dummes Zeug reden                        | unsinn, etwas Dummes erzählen          |
+| der Ratschlag                            | advice, tip                            |
+| der Laden                                | shop                                   |
+| dabeihaben                               | mitnehmen                              |
+
+sich die Zeit vertreiben  
+Zeit totschlagen  
+kill time
+
+Dumm gelaufen!  
+Shit happens.  
+Dumm gelaufen! Aber mach dir nichts draus.  
+Shit happens. But don't worry about it!
+
+Im Gespräch bemerkt Iris, dass er nur dummes Zeug redet, und ärgert sich nur noch darüber, dass sie einen Monat an ihn gedacht hat.  
+In conversation, Iris realizes that he is just talking stupid, and is just annoyed that she has been thinking about him for a month.
+
+### Irreale Wünsche
