@@ -98,6 +98,7 @@ This page documents good quotes I came across.
 这其中只有少数人  
 能得到真心的原谅
 :::
+
 ## Quotes
 
 ::: tip

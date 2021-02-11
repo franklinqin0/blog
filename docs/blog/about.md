@@ -23,8 +23,8 @@ I was a voluntary teacher in CJ, Guizhou, China from September to December 2019.
 
 I developed a course scheduling system for my high school during summer 2020.
 
-I am now a cognitive science master student studying at TU Darmstadt.
+I am now learning Deutsch and studying computer science.
 
-I will transfer to TUM studying Informatik master in summer 2021.
+<!-- I will be a master student in Informatik at TUM in April 2021. -->
 
 I love writing blogs in [Markdown](https://daringfireball.net/projects/markdown/syntax), b/c it's simple and down-to-earth, just like me.

@@ -6,7 +6,7 @@ tags:
   - Two Pointers
 ---
 
-<img class="medium-zoom" src="/algo/substring-with-at-least-k-distinct-characters.png" alt="https://www.lintcode.com/problem/1375">
+<img class="medium-zoom" src="/algo/substring-with-at-least-k-distinct-characters.png" alt="https://www.lintcode.com/problem/substring-with-at-least-k-distinct-characters">
 
 ## Solution
 
@@ -31,7 +31,6 @@ class Solution:
     @return: the number of substrings there are that contain at least k distinct characters
     """
     def kDistinctCharacters(self, s, k):
-        # Write your code here
         n = len(s)
         hm = defaultdict(int)
         left = 0
