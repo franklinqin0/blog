@@ -31,24 +31,24 @@ space: $O(n)$
 ```py
 class Solution:
     def convertBST(self, root: TreeNode) -> TreeNode:
-        self.sum = 0
-        self.helper(root)
+        self.total = 0
+        self.traverse(root)
         return root
 
-    def helper(self, root: TreeNode):
+    def traverse(self, root: TreeNode):
         if not root:
             return
 
-        # recursively going to the right node
+        # traverse the right node recursively
         if root.right:
-            self.helper(root.right)
+            self.traverse(root.right)
 
-        # update current root.val
-        self.sum += root.val
-        root.val = self.sum
+        # update `total` and `root.val`
+        self.total += root.val
+        root.val = self.total
 
-        # go to the left node
-        self.helper(root.left)
+        # traverse the left node
+        self.traverse(root.left)
 ```
 
 ### Iteration w/ a Stack
@@ -65,12 +65,15 @@ space: $O(n)$
         total = 0
         while stack or node:
             while node:
+                # add the node and right subtree to stack
                 stack.append(node)
                 node = node.right
 
+            # update node vals
             node = stack.pop()
             total += node.val
             node.val = total
+            # at last, traverse the left node
             node = node.left
 
         return root

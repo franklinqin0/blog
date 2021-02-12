@@ -22,6 +22,8 @@ class TreeNode:
 
 Let $h$ be the height of tree.
 
+Brute force would be to traverse all nodes and then search for the node before `p`, but that's obviously inefficient.
+
 ::: theorem Complexity
 time: $O(h)$  
 space: $O(h)$
@@ -35,7 +37,7 @@ def inorderPredecessor(self, root, p):
         return None
     lowest_left_father = None
     # find lowest left father, if any
-    while root!=p:
+    while root != p:
         if root.val < p.val:
             lowest_left_father = root
             root = root.right

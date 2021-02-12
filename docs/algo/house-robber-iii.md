@@ -1,10 +1,11 @@
 ---
-title: Hourse Robber III
+title: House Robber III
 diff: medium
 tags:
   - Recursion
   - Tree
   - DFS
+  - DP
 ---
 
 <img class="medium-zoom" src="/algo/house-robber-iii.png" alt="https://leetcode.com/problems/house-robber-iii">
@@ -21,7 +22,11 @@ class TreeNode:
 
 ## Solution
 
-Once the values for whether robbing(or not) left/right subtree are known, we could calculate the values for whether robbing(or not) the root. If robbing the root, then both the left and right subtrees must not be robbed; otherwise, sum up the max value of including(or not) the left subtree and max value of including(or not) the right subtree.
+### DP
+
+If robbing the `node`, the max value is the sum of `node.val`, max value of NOT robbing the left subtree and NOT robbing the right subtree.
+
+If not robbing the `node`, the max value is the sum of max of robbing or NOT robbing the left subtree and the max of robbing or NOT robbing the right subtree.
 
 ::: theorem Complexity
 time: $O(n)$  
@@ -30,17 +35,18 @@ space: $O(n)$ (due to implicit stack space)
 
 ```py
 class Solution:
-    def rob(self, root: TreeNode) -> int:
-        return max(self.dfs(root))
+    def houseRobber3(self, root):
+        root_in, root_not_in = self.dfs(root)
+        return max(root_in, root_not_in)
 
-    def dfs(self, root: TreeNode):
-        """Returns root in/not in values."""
-        if not root:
+    def dfs(self, node):
+        if not node:
             return (0, 0)
-        left_in, left_not_in = self.dfs(root.left)
-        right_in, right_not_in = self.dfs(root.right)
-        # calculate values of robbing root
-        root_in = root.val + left_not_in + right_not_in
-        root_not_in = max(left_in, left_not_in) + max(right_in, right_not_in)
-        return (root_in, root_not_in)
+        left_in, left_not_in = self.dfs(node.left)
+        right_in, right_not_in = self.dfs(node.right)
+        # calculate the values of robbing node
+        node_in = node.val + left_not_in + right_not_in
+        node_not_in = max(left_in, left_not_in) + max(right_in, right_not_in)
+
+        return (node_in, node_not_in)
 ```

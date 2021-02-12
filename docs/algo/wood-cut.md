@@ -13,7 +13,7 @@ Let $n$ be the length of `L`.
 
 ### Binary Search
 
-Initialize `start` and `end` of binary search to be `1` and `max(L)`, respectively. Then do binary search and cut search space in half. Caveat is to choose btw `start` and `end` that returns `k` pieces cut.
+Initialize `start` and `end` of binary search to be `1` and `max(L)`, respectively. Then do binary search and cut search space in half. Caveat is to choose either `start` or `end` that returns `k` pieces cut.
 
 ::: theorem Complexity
 time: $O(n\log n)$ (binary search has $O(\log n)$ iterations, `piece` takes )  

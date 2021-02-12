@@ -1,15 +1,15 @@
 ---
-title: Zombie in Matrix
-diff: medium
+title: Build Post Office II
+diff: hard
 tags:
   - BFS
 related:
   - course-schedule-ii
   - number-of-big-islands
-  - build-post-office-ii
+  - zombie-in-matrix
 ---
 
-<img class="medium-zoom" src="/algo/number-of-big-islands.png" alt="https://www.lintcode.com/problem/zombie-in-matrix">
+<img class="medium-zoom" src="/algo/build-post-office-ii.png" alt="https://www.lintcode.com/problem/build-post-office-ii">
 
 ## Solution
 
@@ -17,15 +17,14 @@ Let $n$ be the number of rows and $m$ be the number of columns. BFS takes $O(V +
 
 ### Layered BFS
 
-首次遍历网格统计房屋数量，visit_numi 统计当前位置能够联通的房屋数量，只能 visit_numi=house_num 时，该处才可以设置邮局。
-针对每个空地，采用朴素的 bfs 搜索即可，disnx = disnx + now.dis + 1;实现(nx,ny)点距离和的更新。
-now.dis+1 每次实现当前两点间距离的更新
+Rather than positioning the post office from empty spaces, we find it from houses.
 
-只不过只有一个 zombie 即 post office 但此题难点在于需要逆向考虑 逆向思维从 house 开始 BFS 否则从 empty 开始会 TLE 还是有点费脑子的 这个题告诉我们 当 TLE 时候 去集合中找找其他部分数量少的 来进行操作 尤其对这种单一操作 BFS 时间消耗大的题目
+For every empty space, we record:
 
-对每个 house 做 BFS， 记录每个 empty： 1. 能被多少个 house 触及 2. 这些能触及的 house 到达这个 empty 的总步数之和
+1. how many houses can reach the position (`counts` incremented by $1$ if position is in range)
+2. sum of steps to reach the position (`dist`)
 
-如果最后每个 empty 都无法被所有 house 触及 (即不等于 house 个数)，则返回 -1 如果有能被所有 house 触及的 empty，取其最小的返回
+If every space cannot be reached by all houses (`counts[i][j]!=num_houses`), then return $-1$; otherwise, there exists some space that can be reached by all houses, return the min summed distance.
 
 ```py
 DIRECTIONS = [(1, 0), (-1, 0), (0, 1), (0, -1)]
@@ -52,15 +51,18 @@ class Solution:
 
                     if dist[x][y] == sys.maxsize:
                         dist[x][y] = 0
+                    # dist incremented by # of layers
                     dist[x][y] += step
 
                     for dx, dy in DIRECTIONS:
                         nx, ny = x+dx, y+dy
+                        # if position is in range, not visited, and a space
                         if 0<=nx<n and 0<=ny<m and visited[nx][ny]==False and grid[nx][ny]==0:
                             visited[nx][ny] = True
+                            # `counts` incremented by 1
                             counts[nx][ny] += 1
-                            # dist[nx][ny] += step
                             queue.append((nx, ny))
+
                 # step increments by 1
                 step += 1
 
@@ -74,6 +76,7 @@ class Solution:
 
         for i in range(n):
             for j in range(m):
+                # if every house can reach
                 if counts[i][j]==num_houses and dist[i][j]<res:
                     res = dist[i][j]
 
