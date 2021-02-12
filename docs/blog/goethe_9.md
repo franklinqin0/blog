@@ -375,7 +375,7 @@ Ich suche ein Deutschbuch für einen Jugendlichen.
 Ich kaufe den Pullover, obwohl er mir nicht richtig passt, weil er mir sehr gut gefällt.
 
 so seltsam es klingen mag  
-strange as it may sound
+strange to say
 
 ## Lektion 5 - Medien und Technik
 
