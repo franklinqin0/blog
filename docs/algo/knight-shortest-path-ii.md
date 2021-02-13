@@ -225,7 +225,7 @@ class Solution:
 
 The array `dist` stores the shortest distance to get to a point, so initialize `dist[0][0]` to be $0$ and the rest to be `sys.maxsize`.
 
-Note that we should **iterate column before row**, b/c knight could only go **from left to right**. Otherwise, some `dist` element may be calculated while its dependent elements are still `sys.maxsize`. Example: `dist[0][j]` depends on `dist[2][j-1]` and `dist[1][j-2]`, and should be visited first.
+Note that we should **iterate column before row**, b/c knight could only go **from left to right**. Otherwise, some `dist` element may be calculated while its dependent elements are still `sys.maxsize`.
 
 ```py
 DIRECTIONS = [(-1, -2), (1, -2), (-2, -1), (2, -1)]
