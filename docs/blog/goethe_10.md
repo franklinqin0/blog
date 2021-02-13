@@ -342,6 +342,7 @@ I wish I had done it differently.
 | der Ratschlag                            | advice, tip                            |
 | der Laden                                | shop                                   |
 | dabeihaben                               | mitnehmen                              |
+| übermitteln                              | submit, send                           |
 
 sich die Zeit vertreiben  
 Zeit totschlagen  

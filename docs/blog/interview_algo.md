@@ -31,6 +31,13 @@ import random
 
 ## DFS
 
+When to use BFS instead of DFS?
+
+- when key words like **shortest path** or **least times** show up
+- traverse in a matrix
+- layered traverse
+- exponential complexity requires bidirectional BFS to reduce complexity
+
 ## Backtracking
 
 a methodology where we mark the current path of exploration, if the path does not lead to a solution, we then revert the change (i.e. backtracking) and try another path.

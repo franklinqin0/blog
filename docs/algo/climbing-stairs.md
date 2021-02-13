@@ -134,4 +134,9 @@ time: $O(\log n)$ (due to `pow` method)
 space: $O(1)$
 :::
 
-Code is omitted.
+```py
+def climbStairs(self, n: int) -> int:
+    sqrt5 = math.sqrt(5)
+    fib_n = pow((1+sqrt5)/2, n+1) - pow((1-sqrt5)/2, n+1)
+    return int(fib_n/sqrt5)
+```

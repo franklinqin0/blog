@@ -3,11 +3,18 @@ title: Snakes and Ladders
 diff: medium
 tags:
   - BFS
+related:
+  - modern-ludo
 ---
 
 <img class="medium-zoom" src="/algo/snakes-and-ladders.png" alt="https://leetcode.com/problems/snakes-and-ladders">
 
 ## Solution
+
+### Implicit Graph
+
+::: theorem Complexity
+:::
 
 ```py
 def snakesAndLadders(self, board: List[List[int]]) -> int:

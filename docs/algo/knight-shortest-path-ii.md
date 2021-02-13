@@ -18,7 +18,7 @@ Let $n$ be the number of rows and $m$ be the number of columns. All following so
 
 Use `queue` to visit nodes and `dist`(could also be an array or HashSet instead of HashMap) to store the distance of reaching a point.
 
-```py {16,17,26,28,29,38,39,40,41,42,43,44,45}
+```py {16,17,26,28,29,41}
 DIRECTIONS = [(1,2), (-1, 2), (2,1), (-2, 1)]
 class Solution:
     """
@@ -53,7 +53,11 @@ class Solution:
     def is_valid(self, x, y, grid, dist):
         if not 0<=x<len(grid) or not 0<=y<len(grid[0]):
             return False
-        return (x, y) not in dist and grid[x][y] != 1
+        if grid[x][y] == 1:
+            return False
+        if (x, y) in dist:
+            return False
+        return True
 
     def find_path(self, n, m, grid, last_pt):
         pt = (n-1, m-1)
@@ -81,7 +85,7 @@ To follow alphabetical order, we need to use `heapq` to replace the original `qu
 
 In `is_valid`, if the old way of visiting, `dist[(x, y)]`, has smaller distance than that of the new way of visiting, `last_dist + 1`, then new way doesn't shorten the path, and we don't want to visit `(nx, ny)` again.
 
-```py {2,14,21,26,37}
+```py {2,14,21,26,40}
 DIRECTIONS = [(1,2), (-1, 2), (2,1), (-2, 1)]
 import heapq
 class Solution:
@@ -118,7 +122,12 @@ class Solution:
     def is_valid(self, x, y, grid, dist, last_dist):
         if not 0<=x<len(grid) or not 0<=y<len(grid[0]):
             return False
-        return ((x, y) not in dist or dist[(x, y)]>last_dist+1) and grid[x][y] != 1
+        if grid[x][y] == 1:
+            return False
+        # if the old ways exists and is shorter than the new way
+        if (x, y) in dist and dist[(x, y)] <= last_dist+1:
+            return False
+        return True
 
     def find_path(self, n, m, grid, last_pt):
         pt = (n-1, m-1)
@@ -216,7 +225,7 @@ class Solution:
 
 The array `dist` stores the shortest distance to get to a point, so initialize `dist[0][0]` to be $0$ and the rest to be `sys.maxsize`.
 
-Note that we should **iterate column before row**, b/c knight could only go from left to right. O.w., some `dist` element may be calculated while its dependent elements are still `sys.maxsize`. Example: `dist[0][j]` depends on `dist[2][j-1]` and `dist[1][j-2]`, and should be visited first.
+Note that we should **iterate column before row**, b/c knight could only go **from left to right**. Otherwise, some `dist` element may be calculated while its dependent elements are still `sys.maxsize`. Example: `dist[0][j]` depends on `dist[2][j-1]` and `dist[1][j-2]`, and should be visited first.
 
 ```py
 DIRECTIONS = [(-1, -2), (1, -2), (-2, -1), (2, -1)]

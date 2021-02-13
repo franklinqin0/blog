@@ -1,8 +1,10 @@
 ---
-title: Modern Ludo
+title: Modern Ludo I
 diff: medium
 tags:
   - BFS
+related:
+  - snakes-and-ladders
 ---
 
 <img class="medium-zoom" src="/algo/modern-ludo.png" alt="https://www.lintcode.com/problem/modern-ludo-i">
@@ -12,9 +14,9 @@ tags:
 Note:
 
 1. The dice enables positions `2` to `7` to be reached in 1 step from position `1`. It is a bit misleading as the dice has nothing to do w/ probability
-2. For each starting point in `connections`, there might be multiple destinations $\rightarrow$ choose a smaller value to store in `dist`
+2. For each starting point in `connections`, there might be multiple destinations $\rightarrow$ choose the smallest `dist`
 3. A position can reach from `1` to `10` by two connections: `[1, 5]` and `[5, 10]`
-4. A node will be revisited and `dist` would update if the new value is smaller. So it's not a traditional BFS requiring a `visited` set.
+4. A node might be revisited and `dist` might update $\rightarrow$ it's not a traditional BFS requiring a `visited` set.
 
 ```py
 class Solution:
@@ -26,6 +28,7 @@ class Solution:
     def modernLudo(self, length, connections):
         queue = [1]
         dist = {1: 0}
+        # initialize dist
         for d in range(2, length+1):
             dist[d] = sys.maxsize
 

@@ -14,18 +14,20 @@ related:
 
 Let $n$ be the number of rows and $m$ be the number of columns. All following solutions take $O(V + E) = O(nm)$ time and space.
 
+### Definition for a point
+
+```py
+class Point:
+    def __init__(self, a=0, b=0):
+        self.x = a
+        self.y = b
+```
+
 ### BFS w/ HashMap
 
 Use `queue` to visit nodes and `dist`(could also be an array or HashSet instead of HashMap) to store the distance of reaching a point.
 
 ```py
-"""
-Definition for a point.
-class Point:
-    def __init__(self, a=0, b=0):
-        self.x = a
-        self.y = b
-"""
 DIRECTIONS = [(-1, -2), (-1, 2), (1, -2), (1, 2), (-2, -1), (-2, 1), (2, -1), (2, 1)]
 class Solution:
     """
