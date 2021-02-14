@@ -1,5 +1,5 @@
 ---
-title: Modern Ludo I
+title: Modern Ludo
 diff: medium
 tags:
   - BFS
@@ -18,6 +18,11 @@ Note:
 3. A position can reach from `1` to `10` by two connections: `[1, 5]` and `[5, 10]`
 4. A node might be revisited and `dist` might update $\rightarrow$ it's not a traditional BFS requiring a `visited` set.
 
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
+
 ```py
 class Solution:
     """
@@ -34,8 +39,8 @@ class Solution:
 
         while queue:
             head = queue.pop(0)
-            for dx in range(1, 7):
-                npos = head + dx
+            for d in range(1, 7):
+                npos = head + d
                 if npos <= length and dist[npos] > dist[head] + 1:
                     dist[npos] = dist[head] + 1
                     queue.append(npos)

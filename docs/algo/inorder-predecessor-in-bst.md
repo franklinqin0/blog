@@ -31,6 +31,8 @@ space: $O(h)$
 
 ### Iteration I
 
+Return the rightmost node of left subtree, if any; otherwise, return the lowest left father instead.
+
 ```py
 def inorderPredecessor(self, root, p):
     if not root:
@@ -54,7 +56,9 @@ def inorderPredecessor(self, root, p):
     return res
 ```
 
-### Iteration II
+### DFS
+
+#### Iteration
 
 ```py
 def inorderPredecessor(self, root, p):
@@ -67,6 +71,24 @@ def inorderPredecessor(self, root, p):
                 res = root
             root = root.right
     return res
+```
+
+#### Recursion
+
+```py
+pre = None
+def inorderPredecessor(self, root, p):
+    def dfs(root, p):
+        if not root:
+            return
+        if root.val >= p.val:
+            dfs(root.left, p)
+        else:
+            self.pre = root
+            dfs(root.right, p)
+
+    dfs(root, p)
+    return self.pre
 ```
 
 <!-- TODO: recursive solution

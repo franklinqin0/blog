@@ -3,8 +3,6 @@ title: Climbing Stairs
 diff: easy
 tags:
   - DP
-related:
-  - fibonacci
 ---
 
 <img class="medium-zoom" src="/algo/climbing-stairs.png" alt="https://leetcode.com/problems/climbing-stairs">
@@ -15,7 +13,7 @@ First we need to realize that "each time you can climb 1 or 2 steps" means the r
 
 Brute-force approach would be to recurse by reducing `cs[n]` to `cs[n-1] + cs[n-2]`.
 
-We will just start from the memoized recursion.
+This problem is then equivalent to finding $n$-th **fibonacci number**.
 
 ### Recursive DP
 

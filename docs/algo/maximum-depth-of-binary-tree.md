@@ -23,7 +23,9 @@ class TreeNode:
 
 Both solutions take linear time and space.
 
-### Recursion
+### DFS
+
+#### Recursion
 
 Traverses the tree in DFS order.
 
@@ -35,7 +37,7 @@ def maxDepth(self, root: TreeNode) -> int:
         return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
 ```
 
-### Iteration
+#### Iteration
 
 `stack` keeps track of nodes to visit next. `maxDepth` is updated when a node is visited.
 

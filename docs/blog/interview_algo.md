@@ -29,6 +29,18 @@ import random
 
 ## BFS
 
+## Dijkstra's Algorithm
+
+## A\* Algorithm
+
+[A video explanation](https://youtu.be/mZfyt03LDH4)
+
+[A detailed comparison btw BFS, Dijkstra, and A\*](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+
+[A clear implementation](https://towardsdatascience.com/a-star-a-search-algorithm-eb495fb156bb)
+
+$F = G + H$, where $F$ is the estimated distance (priority), $G$ is the actual distance travelled from source (depth), and $H$ is the heuristic distance to the target.
+
 ## DFS
 
 When to use BFS instead of DFS?

@@ -11,40 +11,44 @@ related:
 
 ## Solution
 
+Let $n$ be the length of `board`.
+
 ### Implicit Graph
 
 ::: theorem Complexity
+time: $O(n^2)$  
+space: $O(n^2)$
 :::
 
 ```py
 def snakesAndLadders(self, board: List[List[int]]) -> int:
-    N = len(board)
+    n = len(board)
 
     # flatten 2D board to 1D board_line
     board_line = [-1]
-    for i in reversed(range(N)):
-        if (N-i) % 2:
-            col_range = range(N)
+    for i in reversed(range(n)):
+        if (n-i) % 2:
+            col_range = range(n)
         else:
-            col_range = reversed(range(N))
+            col_range = reversed(range(n))
         for j in col_range:
             board_line.append(board[i][j])
 
     dist = {1:0}
-    for i in range(2, N**2+1):
+    for i in range(2, n**2+1):
         dist[i] = sys.maxsize
     queue = [1]
 
     while queue:
         head = queue.pop(0)
-        if head == N**2: return dist[head]
+        if head == n**2: return dist[head]
         for i in range(1, 7):
-            npos = min(head + i, N**2)
+            npos = min(head + i, n**2)
             # fly once if snake & ladder exist
             if board_line[npos] != -1:
                 npos = board_line[npos]
             # update dist & queue
-            if npos <= N**2 and dist[npos] > dist[head] + 1:
+            if npos <= n**2 and dist[npos] > dist[head] + 1:
                 dist[npos] = dist[head] + 1
                 queue.append(npos)
     return -1
