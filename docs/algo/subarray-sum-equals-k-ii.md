@@ -14,9 +14,9 @@ related:
 
 ## Solution
 
-Different from previous problem [subarray sum equals k](subarray_sum_equals_k) which asks for **total number**, this problems asks for **min size**.
+While the previous problem [subarray sum equals k](subarray-sum-equals-k) asks for **total number**, this problems asks for **min size**.
 
-Similar as previous problem [subarray sum equals k](subarray_sum_equals_k) which fails for squared time, we will just explore the linear time solution.
+Similar as previous problem [subarray sum equals k](subarray-sum-equals-k) which TLE for squared time, we will just explore the linear time solution.
 
 ### HashMap (linear time)
 

@@ -5,7 +5,7 @@ tags:
   - BFS
   - Implicit Graph
 related:
-  - sliding-puzzle-i
+  - sliding-puzzle
   - word-ladder
 ---
 
@@ -15,7 +15,7 @@ related:
 
 Let $n$ be the number of rows and $m$ be the number of columns.
 
-See the [previous easier problem](sliding-puzzle-i) for **complexity analysis** and **A\* algorithm** solution.
+See the [previous easier problem](sliding-puzzle) for **complexity analysis** and **A\* algorithm** solution.
 
 ### Layered BFS
 

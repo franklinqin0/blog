@@ -1,5 +1,5 @@
 ---
-title: Sliding Puzzle I
+title: Sliding Puzzle
 diff: hard
 tags:
   - BFS
@@ -111,7 +111,7 @@ class Solution:
 
 ### A\* Algorithm
 
-$f = g + h$, where $f$ is the estimated distance (priority), $g$ is the actual distance travelled from `start` node (depth), and $h$ is the heuristic distance to the `end` node.
+$f = g + h$, where $f$ is the estimated distance (priority), $g$ is the actual distance travelled from `start` node (depth), and $h$ is the `heuristic` distance to the `end` node.
 
 ```py
 from heapq import heappush, heappop

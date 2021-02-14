@@ -7,7 +7,7 @@ tags:
   - DP
   - D&C
 related:
-  - maximum-subarray
+  - subarray-sum-equals-k
   - subarray-sum-equals-k-ii
 ---
 
@@ -31,9 +31,9 @@ Pick the **locally optimal move** at each step, and that will lead to the **glob
 
 Iterate over the array and update at each step:
 
-- current element
-- current local maximum sum (at this given point)
-- global maximum sum seen so far
+- current element `num`
+- current local maximum sum `num` (whether start a new array $\rightarrow$ `num`, or continue the old array $\rightarrow$ `curr_sum + num`)
+- global maximum sum `max_sum`
 
 ::: theorem Complexity
 time: $O(n)$  
@@ -46,8 +46,8 @@ def maxSubArray(self, nums: List[int]) -> int:
     curr_sum = max_sum = nums[0]
 
     for num in nums[1:]:
-        curr_sum = max(num, curr_sum+num)
-        max_sum = max(curr_sum,max_sum)
+        curr_sum = max(num, curr_sum + num)
+        max_sum = max(max_sum, curr_sum)
     return max_sum
 ```
 
