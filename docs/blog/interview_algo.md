@@ -390,6 +390,17 @@ def scramble(b):
 
 ## Morris Traversal
 
+[Algorithm](https://stackoverflow.com/a/5506601/6421652):
+
+- Initialize current as root
+- While current is not NULL
+  - If current does not have left child
+    1. Add current’s value
+    2. Go to the right, i.e., current = current.right
+  - Else
+    1. In current's left subtree, make current the right child of the rightmost node
+    2. Go to this left child, i.e., current = current.left
+
 ```py
 
 ```

@@ -29,7 +29,7 @@ time: $O(h)$
 space: $O(h)$
 :::
 
-### Iteration I
+### Vanilla Iteration
 
 Return the rightmost node of left subtree, if any; otherwise, return the lowest left father instead.
 
@@ -45,6 +45,7 @@ def inorderPredecessor(self, root, p):
             root = root.right
         else:
             root = root.left
+
     # find rightmost node of left subtree, if any
     son = p.left
     res = son

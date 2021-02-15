@@ -11,12 +11,12 @@ prev: ping_pong_coach
 
 This blog serves as an end to the `VT` (voluntary teaching) series:
 
+<!-- more -->
+
 - [Why VT](why_vt)
 - [My VT experience](vt)
 - [Ping Pong Coach](ping_pong_coach)
 - this blog
-
-<!-- more -->
 
 As the reasons for VT are stated in [Why I became a Voluntary Teacher](why_vt), I feel obliged to explain the reason why I don't want to be a voluntary teacher anymore in a Chinese countryside after 4 months.
 

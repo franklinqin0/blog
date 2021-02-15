@@ -13,7 +13,7 @@ related:
 
 ## Solution
 
-Let $n$ be the number of rows and $m$ be the number of columns. BFS takes $O(V + E) = O(nm)$ time and space.
+Let $n$ be the number of rows and $m$ be the number of columns.
 
 ### Layered BFS
 
@@ -25,6 +25,11 @@ For every empty space, we record:
 2. sum of steps to reach the position (`dist`)
 
 If every space cannot be reached by all houses (`counts[i][j]!=num_houses`), then return $-1$; otherwise, there exists some space that can be reached by all houses, return the min summed distance.
+
+::: theorem Complexity
+time: $O(V + E) = O(nm)$  
+space: $O(V + E) = O(nm)$
+:::
 
 ```py
 DIRECTIONS = [(1, 0), (-1, 0), (0, 1), (0, -1)]

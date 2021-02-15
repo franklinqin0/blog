@@ -274,7 +274,7 @@ Mein Beruf ist meine Leidenschaft.
 | merkwürdig                              | strange                  |
 | eng                                     | narrow                   |
 | gemütlich                               | comfortable              |
-| der Bevölkerung                         | population               |
+| die Bevölkerung                         | population               |
 | besiedeln                               | settle                   |
 | steigen                                 | increase                 |
 | die Entwicklung                         | growth                   |
@@ -402,14 +402,14 @@ strange to say
 | die Vorhersage/die Vermutung         | forcast               |
 | der Vorsatz/das Versprechen/der Plan | purpose               |
 | die Aufforderung/die Warnung         | request               |
-| aufhören/aufgeben                    | stop                  |
-| die gleiche wie                      | the same as           |
+| aufhören/aufgeben                    | stop, give up         |
+| gleiche wie                          | same as               |
 | überfordern                          | overwhelm             |
 
 Ich finde es unmöglich, dass $\cdots$
 
 in eine Wohnung einziehen/umziehen  
-aus der Wohnung ausziehen
+aus der Wohnung ausziehen  
 Einweihnungsparty nach dem Umzug
 
 ### Zukunft I
@@ -461,7 +461,7 @@ Make yourself at home.
 | neue Wörter nachschlagen | look up new words              |
 | satt                     | full                           |
 | das Gedächtnis           | memory                         |
-| geschehen                | happen                         |
+| geschehen                | passieren                      |
 | äußern                   | express                        |
 | nachschenken             | top up                         |
 | erfreut                  | pleased                        |

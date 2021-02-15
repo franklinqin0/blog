@@ -13,9 +13,14 @@ related:
 
 ## Solution
 
-Let $n$ be the number of rows and $m$ be the number of columns. BFS takes $O(V + E) = O(nm)$ time and space.
+Let $n$ be the number of rows and $m$ be the number of columns.
 
 ### BFS
+
+::: theorem Complexity
+time: $O(V + E) = O(nm)$  
+space: $O(V + E) = O(nm)$
+:::
 
 ```py
 DIRECTIONS = [(1, 0), (-1, 0), (0, 1), (0, -1)]

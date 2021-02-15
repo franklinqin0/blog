@@ -27,7 +27,7 @@ class TreeNode:
 
 Return 2 values in `dfs`:
 
-1. `max_sum` is the sum of tree of current node as highest node
+1. `max_sum` is the sum of a whole tree (left, right, or current)
 2. `max_chain` is sum of current node plus either the left or the right sub-tree
 
 At the end, return the `max_sum` of `root`, as `root` must be included.

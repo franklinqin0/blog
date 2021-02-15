@@ -39,7 +39,7 @@ def inorderTraversal(self, root: TreeNode) -> List[int]:
 
 > Recursive solution is trivial, could you do it iteratively?
 
-### Interation
+### Iteration
 
 ```py
 def inorderTraversal(self, root: TreeNode) -> List[int]:

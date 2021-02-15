@@ -136,3 +136,30 @@ The proof is sinuous and runtime is slower than the previous two solutions.
             y = x//z
         return z
 ```
+
+## Fast Approximations for Floating Sqrt
+
+According to [this video](https://youtu.be/NXexkJyPoQs), the floating sqrt can be approximated by the following methods.
+
+### Continued Fraction
+
+First approximate $x$ as $a^2 + b$, where $a^2 \gg b$. Then:
+
+$$x = a + \frac{b}{2a + \frac{b}{2a + \frac{b}{2a + \cdots}}}$$
+
+#### Proof
+
+$$
+\begin{aligned}
+s &= a^2 + b \\
+s - a^2 &= b \\
+(\sqrt{s} + a)(\sqrt{s} - a) &= b \\
+\sqrt{s} - a &= \frac{b}{\sqrt{s} + a} \\
+\sqrt{s} &= a + \frac{b}{a + \sqrt{s}} \\
+\text{recursively plug in } s \rightarrow \sqrt{s} &= a + \frac{b}{a + a + \frac{b}{a + \sqrt{s}}} = a + \frac{b}{2a + \frac{b}{a + \sqrt{s}}}
+\end{aligned}
+$$
+
+### Long Division
+
+[Starting from 4:50](https://youtu.be/NXexkJyPoQs?t=350), the method is presented.
