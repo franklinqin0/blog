@@ -45,4 +45,4 @@ def backtrack(self, board, word, i, j, visited):
     return res
 ```
 
-See more at [Python backtrack](https://leetcode.com/problems/word-search/discuss/27660/Python-backtrack-solution-with-comments)
+See more at: [Python backtrack](https://leetcode.com/problems/word-search/discuss/27660/Python-backtrack-solution-with-comments)

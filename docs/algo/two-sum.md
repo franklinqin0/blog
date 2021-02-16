@@ -16,9 +16,9 @@ Using HashMap takes $O(n)$ time whereas sorting takes $O(\log n)$ time.
 
 ### Two-pass HashMap
 
-The 1st for loop stores mappings from `val` to `idx` in HashMap `hm`, and the 2nd for loop checks if complement exists in for loop.
+The 1st for loop stores mappings from `val` to `idx` in HashMap `hashmap`, and the 2nd for loop checks if complement exists in for loop.
 
-Note: need to check `idx!=hm[complement]` in 2nd for loop; otherwise fail on text case:
+Note: need to check `idx!=hashmap[complement]` in 2nd for loop; otherwise fail on text case:
 
 ```py
 nums = [3,2,4]
@@ -34,26 +34,26 @@ where $n$ is the length of `nums`.
 
 ```py
 def twoSum(self, nums: List[int], target: int) -> List[int]:
-    hm = {}
-    # store val->idx in hm
+    hashmap = {}
+    # store val->idx in hashmap
     for idx, val in enumerate(nums):
-        hm[val] = idx
-    # for each num, check if target-num exists in hm
+        hashmap[val] = idx
+    # for each num, check if target-num exists in hashmap
     for idx, val in enumerate(nums):
         complement = target-val
-        if complement in hm and idx != hm[complement]:
-            return [idx, hm[complement]]
+        if complement in hashmap and idx != hashmap[complement]:
+            return [idx, hashmap[complement]]
     return [-1, -1]
 ```
 
 ### One-pass HashMap
 
-Compared w/ [two-pass HashMap](#two-pass-hashmap), this solution omits the 1st for loop to store all mappings on `hm`.
+Compared w/ [two-pass HashMap](#two-pass-hashmap), this solution omits the 1st for loop to store all mappings on `hashmap`.
 
 Note:
 
 - the `return` order is reversed, as the `complement` is later seen than `val`
-- `idx!=hm[complement]` condition to return is no longer needed because it's **always true** in a single for loop
+- `idx!=hashmap[complement]` condition to return is no longer needed because it's **always true** in a single for loop
 
 ::: theorem Complexity
 time: $O(n)$  
@@ -62,12 +62,12 @@ space: $O(n)$
 
 ```py
 def twoSum(self, nums: List[int], target: int) -> List[int]:
-    hm = {}
+    hashmap = {}
     for idx, val in enumerate(nums):
         complement = target - val
-        if complement in hm:
-            return [hm[complement], idx]
-        hm[val] = idx
+        if complement in hashmap:
+            return [hashmap[complement], idx]
+        hashmap[val] = idx
     return [-1, -1]
 ```
 

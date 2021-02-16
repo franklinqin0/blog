@@ -28,11 +28,9 @@ time: $O(h)$
 space: $O(h)$
 :::
 
-### Iteration I
+### Vanilla Iteration
 
-If current node has right child, then successor is the leftmost node in right subtree.
-
-Else if current node does not have right child, then successor is the lowest ancestor's left subtree. Thus, before we go into left subtree, store current node in `lowest_right_father`.
+Return the leftmost node of right subtree, if any; otherwise, return the lowest right father instead.
 
 ```py
 def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
@@ -57,70 +55,49 @@ def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
     return res
 ```
 
-### Iteration II
+### DFS
 
-Neatly combines both cases.
+#### Iteration
+
+Algorithm:
+
+- if current `node`'s value is less than or equal to `p`'s value, we know our answer must be in the right subtree
+- if current `node`'s value is greater than `p`'s value, current node is a candidate. Go to its left subtree to see if we can find a smaller one
+- if we reach null, our search is over, just return the candidate
 
 ```py
-def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
-    if not root:
-        return None
+class Solution:
+    def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
+        res = None
+        node = root
+        while node:
+            if node.val <= p.val:
+                node = node.right
+            else:
+                res = node
+                node = node.left
+        return res
+```
+
+#### Recursion
+
+```py
+class Solution:
     res = None
-    while root:
-        if root.val <= p.val:
-            root = root.right
-        else:
-            if res is None or res.val > root.val:
-                res = root
-            root = root.left
-    return res
+    def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
+
+        def dfs(root, p):
+
+            if not root:
+                return
+            if root.val <= p.val:
+                dfs(root.right, p)
+            else:
+                self.res = root
+                dfs(root.left, p)
+
+        dfs(root, p)
+        return self.res
 ```
 
-### Iteration III
-
-```py
-def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
-        # the successor is somewhere lower in the right subtree
-        # successor: one step right and then left till you can
-        if p.right:
-            p = p.right
-            while p.left:
-                p = p.left
-            return p
-
-        # the successor is somewhere upper in the tree
-        stack, inorder = [], float('-inf')
-
-        # inorder traversal : left -> node -> right
-        while stack or root:
-            # 1. go left till you can
-            while root:
-                stack.append(root)
-                root = root.left
-
-            # 2. all logic around the node
-            root = stack.pop()
-            if inorder == p.val:    # if the previous node was equal to p
-                return root         # then the current node is its successor
-            inorder = root.val
-
-            # 3. go one step right
-            root = root.right
-
-        # there is no successor
-        return None
-```
-
-### Recursion
-
-```py
-def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
-    if not root:
-        return None
-    if root.val <= p.val:
-        return self.inorderSuccessor(root.right, p)
-    left = self.inorderSuccessor(root.left, p)
-    return left if left else root
-```
-
-<!-- Morris traversal -->
+<!-- Morris traversal (REDO) -->

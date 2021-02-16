@@ -32,19 +32,19 @@ class Solution:
     """
     def kDistinctCharacters(self, s, k):
         n = len(s)
-        hm = defaultdict(int)
+        hashmap = defaultdict(int)
         left = 0
         res = 0
 
         for right in range(n):
             right_char = s[right]
-            hm[right_char] += 1
-            while len(hm) >= k:
+            hashmap[right_char] += 1
+            while len(hashmap) >= k:
                 res += n - right
                 left_char = s[left]
-                hm[left_char] -= 1
-                if hm[left_char] == 0:
-                    hm.pop(left_char)
+                hashmap[left_char] -= 1
+                if hashmap[left_char] == 0:
+                    hashmap.pop(left_char)
                 left += 1
 
         return res

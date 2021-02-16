@@ -414,3 +414,205 @@ def scramble(b):
 ## KMP
 
 ## Manacher's algorithm
+
+## Union Find
+
+The data structure is also called Disjoint Set and consists of two operations: `find` and `union`:
+
+- `find` the root of that component by following the parent nodes until a self loop is reached (a node whose parent is itself)
+- `union` two elements: if the root nodes are different make one of the root nodes the parent of the other
+
+### Array
+
+From William Fiset's [code](https://github.com/williamfiset/Algorithms/blob/master/src/main/java/com/williamfiset/algorithms/datastructures/unionfind/UnionFind.java) and [video](https://youtu.be/KbFlZYCpONw):
+
+```java
+public class UnionFind {
+
+  // The number of elements in this union find
+  private int size;
+
+  // Used to track the size of each of the component
+  private int[] sz;
+
+  // id[i] points to the parent of i, if id[i] = i then i is a root node
+  private int[] id;
+
+  // Tracks the number of components in the union find
+  private int numComponents;
+
+  public UnionFind(int size) {
+
+    if (size <= 0) throw new IllegalArgumentException("Size <= 0 is not allowed");
+
+    this.size = numComponents = size;
+    sz = new int[size];
+    id = new int[size];
+
+    for (int i = 0; i < size; i++) {
+      id[i] = i; // Link to itself (self root)
+      sz[i] = 1; // Each component is originally of size one
+    }
+  }
+
+  // Find which component/set 'p' belongs to, takes amortized constant time.
+  public int find(int p) {
+
+    // Find the root of the component/set
+    int root = p;
+    while (root != id[root]) root = id[root];
+
+    // Compress the path leading back to the root.
+    // Doing this operation is called "path compression"
+    // and is what gives us amortized time complexity.
+    while (p != root) {
+      int next = id[p];
+      id[p] = root;
+      p = next;
+    }
+
+    return root;
+  }
+
+  // This is an alternative recursive formulation for the find method
+  // public int find(int p) {
+  //   if (p == id[p]) return p;
+  //   return id[p] = find(id[p]);
+  // }
+
+  // Return whether or not the elements 'p' and
+  // 'q' are in the same components/set.
+  public boolean connected(int p, int q) {
+    return find(p) == find(q);
+  }
+
+  // Return the size of the components/set 'p' belongs to
+  public int componentSize(int p) {
+    return sz[find(p)];
+  }
+
+  // Return the number of elements in this UnionFind/Disjoint set
+  public int size() {
+    return size;
+  }
+
+  // Returns the number of remaining components/sets
+  public int components() {
+    return numComponents;
+  }
+
+  // Unify the components/sets containing elements 'p' and 'q'
+  public void unify(int p, int q) {
+
+    // These elements are already in the same group!
+    if (connected(p, q)) return;
+
+    int root1 = find(p);
+    int root2 = find(q);
+
+    // Merge smaller component/set into the larger one.
+    if (sz[root1] < sz[root2]) {
+      sz[root2] += sz[root1];
+      id[root1] = root2;
+    } else {
+      sz[root1] += sz[root2];
+      id[root2] = root1;
+    }
+
+    // Since the roots found are different we know that the
+    // number of components/sets has decreased by one
+    numComponents--;
+  }
+}
+```
+
+### Pointer
+
+From Tushar Roy's [code](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/DisjointSet.java) and [video](https://youtu.be/ID00PMy0-vE):
+
+```java
+import java.util.HashMap;
+import java.util.Map;
+
+/**
+ * Disjoint sets using path compression and union by rank
+ * Supports 3 operations
+ * 1) makeSet
+ * 2) union
+ * 3) findSet
+ *
+ * For m operations and total n elements time complexity is O(m*f(n)) where f(n) is
+ * very slowly growing function. For most cases f(n) <= 4 so effectively
+ * total time will be O(m). Proof in Coreman book.
+ */
+public class DisjointSet {
+
+    private Map<Long, Node> map = new HashMap<>();
+
+    class Node {
+        long data;
+        Node parent;
+        int rank;
+    }
+
+    /**
+     * Create a set with only one element.
+     */
+    public void makeSet(long data) {
+        Node node = new Node();
+        node.data = data;
+        node.parent = node;
+        node.rank = 0;
+        map.put(data, node);
+    }
+
+    /**
+     * Combines two sets together to one.
+     * Does union by rank
+     *
+     * @return true if data1 and data2 are in different set before union else false.
+     */
+    public boolean union(long data1, long data2) {
+        Node node1 = map.get(data1);
+        Node node2 = map.get(data2);
+
+        Node parent1 = findSet(node1);
+        Node parent2 = findSet(node2);
+
+        // if they are part of same set do nothing
+        if (parent1.data == parent2.data) {
+            return false;
+        }
+
+        // else whoever's rank is higher becomes parent of other
+        if (parent1.rank >= parent2.rank) {
+            //increment rank only if both sets have same rank
+            parent1.rank = (parent1.rank == parent2.rank) ? parent1.rank + 1 : parent1.rank;
+            parent2.parent = parent1;
+        } else {
+            parent1.parent = parent2;
+        }
+        return true;
+    }
+
+    /**
+     * Finds the representative of this set
+     */
+    public long findSet(long data) {
+        return findSet(map.get(data)).data;
+    }
+
+    /**
+     * Find the representative recursively and does path
+     * compression as well.
+     */
+    private Node findSet(Node node) {
+        Node parent = node.parent;
+        if (parent == node) {
+            return parent;
+        }
+        node.parent = findSet(node.parent);
+        return node.parent;
+    }
+}
+```

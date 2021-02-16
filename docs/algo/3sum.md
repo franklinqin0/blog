@@ -63,7 +63,7 @@ def threeSum(self, nums: List[int]) -> List[List[int]]:
 
 Also sort and then use two pointers, but the difference is returning a `set` rather than `list`.
 
-To eliminate duplicates, [add tuple rather than list](/blog/python.md#list-cannot-be-hashed) to `res` as a HashSet.
+To eliminate duplicates, [use tuple rather than list](/blog/python.md#list-cannot-be-hashed) for HashSet `res`.
 
 ::: theorem Complexity
 time: $O(n^2)$  

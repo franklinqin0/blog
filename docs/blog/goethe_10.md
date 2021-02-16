@@ -343,6 +343,7 @@ I wish I had done it differently.
 | der Laden                                | shop                                   |
 | dabeihaben                               | mitnehmen                              |
 | übermitteln                              | submit, send                           |
+| verwalten                                | manage, administer                     |
 
 sich die Zeit vertreiben  
 Zeit totschlagen  

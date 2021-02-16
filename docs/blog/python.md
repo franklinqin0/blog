@@ -25,6 +25,11 @@ While studying for interview problems, I use `Python3` as the PL and feel like c
 
 [Python scopes](https://realpython.com/python-scope-legb-rule)
 
+### Local, Global, Nonlocal
+
+[Python Local and Global Variables
+](https://www.programiz.com/python-programming/global-local-nonlocal-variables)
+
 ## For, While Loops
 
 As Python does not have a do-while loop, here are [some workarounds](https://stackoverflow.com/a/743186).
@@ -211,6 +216,10 @@ for _, courses in schedulesByPECourses.items():
     for _, sc in courses.items():
         pe.append(sc)
 ```
+
+### Heap
+
+Python implements heap in its internal library `heapq`. See more at [doc](https://docs.python.org/3/library/heapq.html) and [examples](https://www.geeksforgeeks.org/heap-queue-or-heapq-in-python).
 
 ## Algorithms
 

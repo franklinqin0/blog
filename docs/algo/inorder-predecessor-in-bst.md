@@ -20,18 +20,25 @@ class TreeNode:
 
 ## Solution
 
-Let $h$ be the height of tree.
+Let $h$ be the height and $n$ be the number of nodes of tree.
+
+### Brute Force
 
 Brute force would be to traverse all nodes and then search for the node before `p`, but that's obviously inefficient.
 
 ::: theorem Complexity
-time: $O(h)$  
-space: $O(h)$
+time: $O(n)$  
+space: $O(n)$
 :::
 
 ### Vanilla Iteration
 
 Return the rightmost node of left subtree, if any; otherwise, return the lowest left father instead.
+
+::: theorem Complexity
+time: $O(h)$  
+space: $O(1)$
+:::
 
 ```py
 def inorderPredecessor(self, root, p):
@@ -59,37 +66,47 @@ def inorderPredecessor(self, root, p):
 
 ### DFS
 
+The algorithms of iteration and recursion are similar and both take $O(h)$ time:
+
+- if current `node`'s value is larger than or equal to `p`'s value, we know our answer must be in the left subtree
+- if current `node`'s value is less than `p`'s value, current node is a candidate. Go to its right subtree to see if we can find a larger one
+- if we reach null, our search is over, just return the candidate
+
+but recursion would require $O(h)$ implicit stack space.
+
 #### Iteration
 
 ```py
 def inorderPredecessor(self, root, p):
     res = None
-    while root:
-        if p.val <= root.val:
-            root = root.left
+    node = root
+
+    while node:
+        if node.val >= p.val:
+            node = node.left
         else:
-            if res is None or root.val > res.val:
-                res = root
-            root = root.right
+            res = node
+            node = node.right
     return res
 ```
 
 #### Recursion
 
 ```py
-pre = None
-def inorderPredecessor(self, root, p):
-    def dfs(root, p):
-        if not root:
-            return
-        if root.val >= p.val:
-            dfs(root.left, p)
-        else:
-            self.pre = root
-            dfs(root.right, p)
+class Solution:
+    pre = None
+    def inorderPredecessor(self, root, p):
+        def dfs(root, p):
+            if not root:
+                return
+            if root.val >= p.val:
+                dfs(root.left, p)
+            else:
+                self.pre = root
+                dfs(root.right, p)
 
-    dfs(root, p)
-    return self.pre
+        dfs(root, p)
+        return self.pre
 ```
 
 <!-- TODO: recursive solution

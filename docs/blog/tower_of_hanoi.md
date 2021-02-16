@@ -7,7 +7,7 @@ tags:
   - tech
 ---
 
-A few weeks ago, I was invited to a friend's house. On the table I saw the **Tower of Hanoi** game. I immediately realized with intuition that the total number of steps to move should be exponential to the number of disks, but I could not think of a proof at the time. Thus, I write this blog to explain this interesting ancient problem.
+A few weeks ago, I was invited to a friend's house. On the table I saw the **Tower of Hanoi** game. I immediately realized with intuition that the total number of steps to move should be _exponential_ to the number of disks, but I could not think of a proof at the time. Thus, I write this blog about this interesting ancient problem.
 
 <!-- more -->
 
@@ -47,14 +47,25 @@ TowerOfHanoi(n, 'A', 'C', 'B')
 
 ## Proof for Exponential Number of Steps
 
-Let $h_n$ be the number of steps with $n$ disks. Here is the proof:
+Let $h_n$ be the number of steps with $n$ disks. Given the recursive function and initial condition:
 
 $$h_n = 2h_{n-1} + 1$$
 $$h_1 = 1$$
 
-Solving the above two equations gives $h_n = 2^n - 1$, i.e., the [Mersenne numbers](https://mathworld.wolfram.com/MersenneNumber.html).
+the above two equations give $h_n = 2^n - 1$, i.e., the [Mersenne numbers](https://mathworld.wolfram.com/MersenneNumber.html).
 
-Now come back to [the legend](#origin). If the priests were able to move disks at a rate of one per second, using the smallest number of moves it would take them $2^{64} − 1$ seconds or roughly 585 billion years to finish, which is about 42 times the current age of the universe.
+$$
+\begin{aligned}
+h_n &= 2h_{n-1} + 1 \\
+&= 2(2h_{n-2} + 1) + 1 \\
+\text{substitute the above 2 equations} \rightarrow &= 2^{n-1} + \cdots + 2^0 \\
+&= 2^n -1
+\end{aligned}
+$$
+
+The result can also be proofed by induction.
+
+Now come back to [the legend](#origin). If the priests were able to move disks at a rate of one per second, using the smallest number of moves it would take them $2^{64} − 1$ seconds, or roughly 585 billion years, to finish, which is about 42 times the current age of the universe.
 
 ## Further
 
@@ -66,7 +77,7 @@ Following are interesting ways to go deeper but I am good for now.
 
 ## References
 
-The [Chinese wikipedia explanation](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%BA%E5%A1%94) is more terse and insightful than the [English one](https://en.wikipedia.org/wiki/Tower_of_Hanoi).
+The [Chinese wikipedia explanation](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%BA%E5%A1%94) is more succinct and insightful than the [English one](https://en.wikipedia.org/wiki/Tower_of_Hanoi).
 
 [This geeksforgeeks post](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi) offers the [recursive solution](#recursion) code above with a pretty good descriptive video.
 
