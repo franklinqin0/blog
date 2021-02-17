@@ -1,3 +1,18 @@
+---
+title: Balanced Binary Tree
+diff: easy
+tags:
+  - Tree
+  - DFS
+  - Recursion
+related:
+  - maximum-depth-of-binary-tree
+---
+
+<img class="medium-zoom" src="/algo/balanced-binary-tree.png" alt="https://leetcode.com/problems/balanced-binary-tree">
+
+## Solution
+
 ### Top Down
 
 ::: theorem Complexity
@@ -23,7 +38,12 @@ def isBalanced(self, root: TreeNode) -> bool:
 
 ### Bottom Up
 
-Return whether or not the tree at root is balanced while also returning the tree's height
+Return whether or not the tree at `root` is balanced while also returning the tree's height.
+
+::: theorem Complexity
+time: $O(n)$  
+space: $O(h)$ (worst case: $O(n)$)
+:::
 
 ```py
 def isBalanced(self, root: TreeNode) -> bool:
