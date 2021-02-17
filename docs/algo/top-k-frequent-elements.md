@@ -1,8 +1,21 @@
+---
+title: Top K Frequent Elements
+diff: medium
+tags:
+  - Heap
+  - Hash Map
+---
+
+<img class="medium-zoom" src="/algo/top-k-frequent-elements.png" alt="https://www.lintcode.com/problem/top-k-frequent-elements">
+
+## Solution
+
 ### Heap
 
 ::: theorem Complexity
 time: $O(n\log k)$ ($O(n)$ to build `Counter` and $O(n\log k)$ to push $n$ elts into the heap of size $k$)  
 space: $O(k + n)$ (hashmap w/ $\le$ $n$ elts and heap w/ $k$ elts)
+:::
 
 ```py
 def topKFrequent(self, nums: List[int], k: int) -> List[int]:
@@ -19,6 +32,11 @@ def topKFrequent(self, nums: List[int], k: int) -> List[int]:
 ```
 
 ### Quick Select
+
+::: theorem Complexity
+time: $O(n)$ (worst case: $O(n^2)$)  
+space: $O(n)$
+:::
 
 ```py
 from collections import Counter

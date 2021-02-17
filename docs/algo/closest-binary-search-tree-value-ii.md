@@ -133,7 +133,7 @@ def closestKValues(self, root: TreeNode, target: float, k: int) -> List[int]:
 
 The following `partition` uses Lomuto's scheme.
 
-<!-- REDO in Hoare's scheme. -->
+<!-- REDO in Hoare's scheme ??? -->
 
 ::: theorem Complexity
 time: $O(n)$ (worst case: $O(n^2)$)  
