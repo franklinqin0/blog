@@ -4,8 +4,6 @@ diff: easy
 tags:
   - Tree
   - DFS
-related:
-  -
 ---
 
 <img class="medium-zoom" src="/algo/binary-tree-paths.png" alt="https://leetcode.com/problems/binary-tree-paths">

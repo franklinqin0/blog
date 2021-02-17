@@ -32,6 +32,8 @@ While studying for interview problems, I use `Python3` as the PL and feel like c
 
 ## For, While Loops
 
+### Do-While Loop
+
 As Python does not have a do-while loop, here are [some workarounds](https://stackoverflow.com/a/743186).
 
 ## Int

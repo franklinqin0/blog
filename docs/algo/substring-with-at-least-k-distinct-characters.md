@@ -14,7 +14,7 @@ Let $n$ be the length of `s`.
 
 ### Two Pointers
 
-If the window `s[left:right]` satisfy the loop invariant: has at least `k` distinct characters, then add `n - right` to `res` (b/c these substrings definitely count), increment `left` by $1$, and see if the loop invariant still holds. If not, increment `right` by 1.
+If the window `s[left:right]` satisfy the loop invariant: has at least `k` distinct characters, then add `n - right` to `res` (b/c these substrings definitely count), increment `left` by $1$, and see if the loop invariant still holds. If not, increment `right` by $1$.
 
 ::: theorem Complexity
 time: $O(n)$  

@@ -26,13 +26,24 @@ class TreeNode:
 ```py
 def inorderTraversal(self, root: TreeNode) -> List[int]:
     res = []
-    def helper(node: TreeNode):
+    def inorder(node: TreeNode):
         if node:
-            helper(node.left)
+            inorder(node.left)
             res.append(node.val)
-            helper(node.right)
-    helper(root)
+            inorder(node.right)
+
+    inorder(root)
     return res
+```
+
+or even simpler:
+
+```py
+def inorderTraversal(self, root: TreeNode) -> List[int]:
+    def inorder(root: TreeNode):
+        return inorder(root.left) + [root.val] + inorder(root.right) if root else []
+
+    return inorder(root)
 ```
 
 ## Follow Up

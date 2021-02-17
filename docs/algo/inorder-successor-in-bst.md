@@ -87,7 +87,6 @@ class Solution:
     def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
 
         def dfs(root, p):
-
             if not root:
                 return
             if root.val <= p.val:

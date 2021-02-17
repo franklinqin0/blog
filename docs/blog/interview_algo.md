@@ -12,19 +12,11 @@ This blog features some of the most commonly used algorithms.
 
 <!-- more -->
 
-Thanks to:
-
-- Walker M. White and Lillian Lee, teacher of CS1110: _Intro to Programming in Python_
-- David Gries, teacher of CS2110: _OOP in Java_
-- Michael Clarkson, teacher of CS3110: _FP in OCaml_
-- Eva Tardos, teacher of CS4820: _Intro to Algorithms_
-
-who taught me the core CS courses to help me write, categorize and understand the following algorithms.
-
 ## Import Libraries
 
 ```py
 import random
+from heapq improt heappush, heappop
 ```
 
 ## BFS
@@ -77,316 +69,264 @@ $n = 10^4~10^6$ $\rightarrow$ $O(n\log n)$
 $n = 10^3$ $\rightarrow$ $O(n^2)$
 $n <= 20$ $\rightarrow$ $O(2^n)$ (DFS)
 
-## Dutch National Flag
+### Partition
 
 ```py
-def dnf(b, h, k):
-    """Returns: Partition points for the Dutch National Flag
-
-    The Dutch National Flag algorithm arranges the elements of b[h..k]
-    so that negatives are first, then 0s, then positives. It returns a
-    tuple (i,j)  representing the two partition points.
-
-    Parameter b: The list to rearrange
-    Precondition: b is a mutable sequence (e.g. a list).
-
-    Parameter h: The starting point to sort
-    Precondition: h is an int and a valid position in b
-
-    Parameter k: The ending poing to sort
-    Precondition: k is an int and a valid position in b
+def partition(arr, left, right):
     """
-    assert type(b) == list, `b`+' is not a list'
-    assert 0 <= h and h < len(b), `h`+' is not a valid position in the list'
-    assert 0 <= k and k < len(b), `k`+' is not a valid position in the list'
+    Returns: The new position of pivot in partitioned list arr[left..right].
 
-    # Loop variables to satisfy the invariant
-    t = h
-    j = k
-    i= k+1
-
-    # inv: b[h..t-1] < 0, b[t..i-1] unknown, b[i..j] = 0, and b[j+1..k] > 0
-    while t < i:
-        if b[i-1] < 0:
-            _swap(b,i-1,t)
-            t = t+1
-        elif b[i-1] == 0:
-            i = i-1
-        else:
-            _swap(b,i-1,j)
-            i = i-1
-            j = j-1
-
-    # post: b[h..i-1] < 0, b[i..j] = 0, and b[j+1..k] > 0
-    # Return dividers as a tuple
-    return (i, j)
-```
-
-# NOTE: This uses a DIFFERENT invariant than the lab
-
-def partition(b, h, k):
-"""Returns: The new position of pivot in partitioned list b[h..k].
-
-    The pivot is the initial value x = b[h].  This function rearranges the
+    The pivot is the initial value x = arr[h].  This function rearranges the
     list so that elements <= x are before the pivot and elements >= x are
     after the pivot.
-
-    Parameter b: The list to rearrange
-    Precondition: b is a mutable sequence (e.g. a list).
-
-    Parameter h: The starting point to sort
-    Precondition: h is an int and a valid position in b
-
-    Parameter k: The ending poing to sort
-    Precondition: k is an int and a valid position in b
     """
-    assert type(b) == list, `b`+' is not a list'
-    assert 0 <= h and h < len(b), `h`+' is not a valid position in the list'
-    assert 0 <= k and k < len(b), `k`+' is not a valid position in the list'
-
     # position i is end of first paritition range
-    i = h
+    i = left
     # position j is BEFORE beginning of second partition range
-    j = k
+    j = right
 
-    # Find the first element in the list.
-    x = b[h]
+    # find the first element in the list.
+    x = arr[h]
 
-    # invariant: b[h..i-1] < x, b[i] = x, b[i+1..j] unknown, and  b[j+1..k] >= x
+    # inv: arr[left..i-1] < x, arr[i] = x, arr[i+1..j] unknown, and  arr[j+1..right] >= x
     while i < j:
-        if b[i+1] >= x:
-            # Move this to the end of the block.
-            _swap(b,i+1,j)
-            j = j - 1
-        else:   # b[i+1] < x
-            _swap(b,i,i+1)
-            i = i + 1
+        if arr[i+1] >= x:
+            # move this to the end of the block
+            arr[i+1], arr[j] = arr[j], arr[i+1]
+            j -= 1
+        else: # arr[i+1] < x
+            arr[i], arr[i+1] = arr[i+1], arr[i]
+            i += 1
+    # post: arr[left..i-1] < x, arr[i] is x, and arr[i+1..right] >= x
 
-    # post: b[h..i-1] < x, b[i] is x, and b[i+1..k] >= x
     return i
+```
 
-# HELPER FUNCTION
+## Search
 
-def \_swap(b, h, k):
-"""Procedure swaps b[h] and b[k]
+### Linear search
 
-    Parameter b: The list to rearrange
-    Precondition: b is a mutable sequence (e.g. a list).
-
-    Parameter h: The first position to swap
-    Precondition: h is an int and a valid position in b
-
-    Parameter k: The second position to swap
-    Precondition: k is an int and a valid position in b
-    """
-    # We typically do not enforce preconditions on hidden helpers
-    temp = b[h]
-    b[h] = b[k]
-    b[k] = temp
-
-# Linear search
-
-def linear_search(b,c):
-"""Returns: index of first occurrence of c in b; -1 if not found.
-
-    Parameter b: The sequence to search
-    Precondition: b is a sequence
-
-    Parameter c: The value to search for
-    Precondition: NONE (c can be any value)"""
-    # Quick way to check if a sequence
-    assert len(b) >= 0, `b`+' is a not a sequence (list, string, or tuple)'
-
-    # Store in i the index of the first c in b[0..]
+```py
+def linear_search(arr, c):
+    """Returns: index of first occurrence of c in b; -1 if not found."""
+    # Store in i the index of the first c in arr[0..]
     i = 0
 
-    # invariant: c is not in b[0..i-1]
-    while i < len(b) and b[i] != c:
+    # inv: c is not in arr[0..i-1]
+    while i < len(arr) and arr[i] != c:
         i = i + 1;
+    # post: arr[i] == c OR (i == len(arr) and c is not in arr[0..i-1])
 
-    # post: b[i] == c OR (i == len(b) and c is not in b[0..i-1])
-    return i if i < len(b) else -1
+    return i if i < len(arr) else -1
+```
 
-# Binary search
+### Binary Search
 
-def binary_search(b,c):
-"""Returns: index of first occurrence of c in b; -1 if not found.
-
-    Parameter b: The sequence to search
-    Precondition: b is a SORTED sequence
-
-    Parameter c: The value to search for
-    Precondition: NONE (c can be any value)"""
-    # Quick way to check if a sequence; CANNOT easily check sorted
-    assert len(b) >= 0, `b`+' is a not a sequence (list, string, or tuple)'
-
+```py
+def binary_search(arr, c):
+    """Returns: index of first occurrence of c in b; -1 if not found."""
     # Store in i the value BEFORE beginning of range to search
     i = 0
     # Store in j the end of the range to search (element after)
-    j = len(b)
+    j = len(arr)
     # The middle position of the range
-    mid = (i+j)/2
+    mid = (i+j)//2
 
-    # invariant; b[0..i-1] < c, b[i..j-1] unknown, b[j..] >= c
+    # invariant; arr[0..i-1] < c, arr[i..j-1] unknown, arr[j..] >= c
     while j > i:
-        if b[mid] < c:
+        if arr[mid] < c:
             i = mid+1
-        else:     # b[mid] >= c
+        else: # arr[mid] >= c
             j = mid
 
         # Compute a new middle.
-        mid = (i+j)/2
+        mid = (i+j)//2
+    # post: i == j and arr[0..i-1] < c and arr[j..] >= c
 
-    # post: i == j and b[0..i-1] < c and b[j..] >= c
-    return i if (i < len(b) and b[i] == c) else -1
+    return i if (i < len(arr) and arr[i] == c) else -1
+```
 
-def isort(b):
-"""Insertion Sort: Sorts the array b in n^2 time
+## Sorting Algorithms
 
-    Parameter b: The sequence to sort
-    Precondition: b is a mutable sequence (e.g. a list)."""
-    assert type(b) == list, `b`+' is not a list'
+### Dutch National Flag
 
-    # Start from beginning of list
-    i = 0
+The Dutch National Flag algorithm arranges the elements of `arr[left..right]` so that negatives are first, then $0$s, then positives. It returns a tuple `(i, j)` representing the two partition points.
 
-    # inv: b[0..i-1] sorted
-    while i  < len(b):
-        _push_down(b,i)
-        i = i + 1
+```py
+def dnf(arr, left, right):
+    """Returns: Partition points for the Dutch National Flag."""
+    # Loop variables to satisfy the invariant
+    t = left
+    j = right
+    i= right+1
 
-    # post: b[0..len(b)-1] sorted
+    # inv: arr[left..t-1] < 0, arr[t..i-1] unknown, arr[i..j] = 0, and arr[j+1..right] > 0
+    while t < i:
+        if arr[i-1] < 0:
+            arr[i-1], arr[t] = arr[t], arr[i-1]
+            t = t+1
+        elif arr[i-1] == 0:
+            i = i-1
+        else:
+            arr[i-1], arr[j] = arr[j], arr[i-1]
+            i = i-1
+            j = j-1
+    # post: arr[left..i-1] < 0, arr[i..j] = 0, and arr[j+1..right] > 0
 
-# HELPER FUNCTION
+    return (i, j)
+```
 
-def \_push_down(b, k):
-"""Moves the value at position k into its sorted position in b[0.k-1].
+### Partition
 
-    Parameter b: The list to rearrange
-    Precondition: b is a list, with b[0..k-1] sorted
+There are many existing partition schemes. Apart from the one similar to DNF, the two usual ones used in [quick sort](#quick-sort) and [quick select](#quick-select) are **Lomuto** and **Hoare**. Lomuto's method is simple and easier to implement, but takes thrice as many swap as Hoare's.
 
-    Parameter k: The position to push down into b[0..k-1]
-    Precondition: k is an int and a valid position in b"""
-    # We typically do not enforce preconditions on hidden helpers
+#### Lomuto Partition
 
-    # Start from position k
-    j = k
+```py
+def partition(arr, left, right):
+    pivot = arr[r]
+    i = left
+    for j in range(left, right):
+        if arr[j] <= pivot:
+            arr[i], arr[j] = arr[j], arr[i]
+            i += 1
 
-    # inv: b[j..k] is sorted
-    while j > 0:
-        if b[j-1] > b[j]:
-            _swap(b,j-1,j)
-        j = j - 1
-    # post: b[0..k] is sorted
+    arr[i], arr[right] = arr[right], arr[i]
+    return i
+```
 
-def ssort(b):
-"""Selection Sort: Sorts the array b in n^2 time
+#### Hoare Partition
 
-    Parameter b: The sequence to sort
-    Precondition: b is a mutable sequence (e.g. a list)."""
-    assert type(b) == list, `b`+' is not a list'
+Algorithm:
 
-    # Start from beginning of list
-    i = 0
+- takes first element as pivot (can be any random element)
+- places all the elements $\lt$ pivot on the left side and all the elements $\gt$ pivot on the right side
+- returns the index of the last element on the smaller side
 
-    # inv: b[0..i-1] sorted
-    while i < len(b):
-        index = _min_index(b,i);
-        _swap(b,i,index)
-        i = i+1
-    # post: b[0..len(b)-1] sorted
+```py
+def partition(arr, left, right):
+    pivot = arr[left]
+    i, j = left - 1, right + 1
 
-# HELPER FUNCTION
+    while True:
+        # find leftmost element >= pivot
+        while True:
+            i += 1
+            if arr[i] >= pivot:
+                break
+        # find rightmost element <= pivot
+        while True:
+            j -= 1
+            if arr[j] <= pivot:
+                break
+        # if two pointers meet
+        if i >= j:
+            return j
+        # o.w., swap arr[i] and arr[j]
+        arr[i], arr[j] = arr[j], arr[i]
+```
 
-def \_min_index(b, h):
-"""Returns: The index of the minimum value in b[h..]
+### Quick Sort
 
-    Parameter b: The sequence to search
-    Precondition: b is a mutable sequence (e.g. a list)."""
-    # We typically do not enforce preconditions on hidden helpers
-
-    # Start from position h
-    i = h
-    index = h;
-
-    # inv: index position of min in b[h..i-1]
-    while i < len(b):
-        if b[i] < b[index]:
-            index = i
-        i = i+1
-
-    # post: index position of min in b[h..len(b)-1]
-    return index
-
-def qsort(b):
-"""Quick Sort: Sorts the array b in n log n average time
-
-    Parameter b: The sequence to sort
-    Precondition: b is a mutable sequence (e.g. a list)."""
-    assert type(b) == list, `b`+' is not a list'
-
-    # Send everything to the recursive helper
-    _qsort_helper(b,0,len(b)-1)
-
-def \_qsort_helper(b, h, k):
-"""Quick Sort: Sorts the array b[h..k] in n log n average time
-
-    Parameter b: The sequence to sort
-    Precondition: b is a mutable sequence (e.g. a list).
-
-    Parameter h: The starting point to sort
-    Precondition: h is an int and a valid position in b
-
-    Parameter k: The ending poing to sort
-    Precondition: k is an int and a valid position in b
-    """
-    # We typically do not enforce preconditions on hidden helpers
-    if k-h < 1:            # BASE CASE
+```py
+def qsort(arr, left, right):
+"""Quick Sort: Sorts the array arr[left..right] in n log n average time."""
+    # base case
+    if left >= right:
         return
 
-    # RECURSIVE CASE
-    j = partition(b, h, k)
-    # b[h..j-1] <= b[j] <= b[j+1..k]
-    # Sort b[h..j-1]  and  b[j+1..k]
-    _qsort_helper(b, h, j-1)
-    _qsort_helper(b, j+1, k)
+    # arr[left..pivot-1] <= arr[pivot] <= arr[pivot+1..right]
+    pivot = partition(arr, left, right)
+    # sort arr[left..pivot-1]
+    qsort(arr, left, j-1)
+    # sort arr[pivot+1..right]
+    qsort(arr, j+1, right)
+```
 
-def roll(p):
-"""Returns: a random int in 0..len(p)-1; i returned with prob p[i].
+### Quick Select
 
-    Parameter p: The die value distribution
-    Precondition: p a list of positive floats that sum to at least 1."""
-    # Do not assert precondition; too complicated
+`quickSelect` finds the kth largest element in a given unsorted array.
 
-    r = random.random()     # r in [0,1)
-    # Think of interval [0,1] as divided into segments of size p[i]
-    # Store into i the segment number in which r falls.
+```py
+def quickSelect(arr, left, right, right):
+    # if the list contains only one element, return that element
+    if left == right:
+        return arr[left]
+
+    # find the pivot position in a sorted list
+    pivot_idx = partition(arr, left, right)
+
+    # if the pivot is in its final sorted position
+    if k == pivot_idx:
+        return arr[k]
+
+    # if `k` is less than the pivot index, go left
+    if k < pivot_idx:
+        return quickSelect(arr, left, pivot_idx-1, right)
+    # if `k` is more than the pivot index, go right
+    else:
+        return quickSelect(arr, pivot_idx+1, right, right)
+```
+
+### Selection Sort
+
+Selection Sort sorts the array arr in $O(n^2)$ time.
+
+```py
+def ssort(arr):
+    # start from beginning of list
     i = 0
-    sum_of = p[0]
-    while r >= sum_of:
-        sum_of = sum_of + p[i+1]
-        i = i + 1
 
-    return i
-
-def scramble(b):
-"""Scrambles the list to resort again
-
-    Parameter b: The list to scramble
-    Precondition: b is a mutable sequence (e.g. a list)."""
-    assert type(b) == list, `b`+' is not a list'
-
-    # Start from the beginning
-    i = 0
-
-    # inv: b[0..i-1] is scrambled
-
-    while i < len(b):
-        size = len(b)-i
-        pos  = int(random.random()*size)
-        _swap(b,i,i+pos)
+    # inv: arr[0..i-1] sorted
+    while i < len(arr):
+        mi = _min_index(arr,i)
+        arr[i], arr[index] = arr[index], arr[i]
         i = i+1
-    # post: b[0..len(b)] is scrambled
+    # post: arr[0..len(arr)-1] sorted
+
+# returns the index of the minimum value in arr[left..]
+def _min_index(arr, left):
+    # start from position h
+    i = left
+    index = left
+
+    # inv: index position of min in arr[left..i-1]
+    while i < len(arr):
+        if arr[i] < arr[index]:
+            index = i
+        i += 1
+    # post: index position of min in arr[left..len(arr)-1]
+
+    return index
+```
+
+### Insertion Sort
+
+Insertion Sort sorts the array in $O(n^2)$ time.
+
+```py
+def isort(arr):
+    # start from beginning of list
+    i = 0
+
+    # inv: arr[0..i-1] sorted
+    while i  < len(arr):
+        _push_down(arr, i)
+        i = i + 1
+    # post: arr[0..len(arr)-1] sorted
+
+# moves element at position k into its sorted position in arr[0..right-1]
+def _push_down(arr, k):
+    # start from position k
+    j = k
+
+    # inv: arr[j..k] is sorted
+    while j > 0:
+        if arr[j-1] > arr[j]:
+            arr[j-1], arr[j] = arr[j], arr[j-1]
+        j = j - 1
+    # post: arr[0..k] is sorted
+```
 
 ## Morris Traversal
 
@@ -616,3 +556,14 @@ public class DisjointSet {
     }
 }
 ```
+
+## Thanks
+
+My thanks go to:
+
+- Walker M. White and Lillian Lee, teacher of CS1110: _Intro to Programming in Python_
+- David Gries, teacher of CS2110: _OOP in Java_
+- Michael Clarkson, teacher of CS3110: _FP in OCaml_
+- Eva Tardos, teacher of CS4820: _Intro to Algorithms_
+
+and in general, all of my great friends at Cornell.

@@ -179,6 +179,8 @@ Two FDs $X \rightarrow Y$ and $X \rightarrow Z$ can be written in shorthand as $
 
 Given a set $F$ of FDs ${f_1, \cdots, f_n}$, compute the closure $F+$ (set of all implied FDs) using Armstrong's Axioms.
 
+Significance: decide if database design is correct
+
 ### Armstrong's Axioms
 
 Reflexivity:  
@@ -202,37 +204,103 @@ $(X \rightarrow Y) \wedge (X \rightarrow Z) \Rightarrow X \rightarrow YZ$
 Pseudo-transitivity:  
 $(X \rightarrow Y) \wedge (YW \rightarrow Z) \Rightarrow XW \rightarrow Z$
 
+### Closure
+
+Given a set of FDs $f_1, \cdots, f_n$ we deﬁne the Closure $F+$ as the set of all implied FDs using Armstrong’s axioms.
+
+Significance:
+
+- checking closure at runtime is expensive
+- $\rightarrow$ minimal set of FDs to ensure correctness
+
 ### Canonical Cover
 
-Given a set $F$ of FDs ${f_1, \cdots, f_n}$, canonical cover $F_c$ is the minimal set of all FDs.
+Given a set $F$ of FDs ${f_1, \cdots, f_n}$, canonical cover $F_c$ is the **minimal set of all FDs**.
 
 Definitions:
 
 1. the **RHS** of every FD is a **single attribute**
 2. the closure of $F_c$ is **identical** to the closure of $F$ (i.e., $F_c = F$ are equivalent)
-3. the $F_c$ is **minimal** (i.e., if we eliminate any attribute from the LHS or RHS of a FD, property #2 is violated)
+3. the $F_c$ is **minimal** (i.e., eliminating any attribute from the LHS or RHS of an FD violates property #2)
 
 Computation:
 
-- drop extraneous LHS or RHS attributes or **redundant FDs**
 - split FDs to have a **single attribute** in RHS
+- drop extraneous LHS or RHS attributes or **redundant FDs**
 
-## Lossless Joins
+Significance:
 
-Information is not lost or bad information is not created when joining
+- canonical cover is the **minimum number of assertions** to implement to ensure database integrity
+- find the _super key_ for a relation
+
+## Keys
+
+### Super Key
+
+- any set of attributes in a relation that functionally determines all attributes in the relation
+- set of attributes where no distinct tuples have the same values for these attributes
+- a set of attributes that uniquely identifies a tuple
+
+Significance:
+
+- help determine if able to **decompose** a table into multiple sub-tables
+- super keys ensure that we are able to recreate the original relation thru joins
+
+### Candidate Key
+
+- any super key s.t. the removal of any attribute leaves a set that does not functionally determine all attributes
+- set of attributes that uniquely identifies a tuple according to a key constraint
+- a minimal set of attributes that uniquely identifies a tuple
+
+$\rightarrow$ a candidate key is a super key, but not all super keys are candidates
+
+### Primary Key
+
+Usually just the candidate key.
+
+## Schema Decompositions
+
+Objective: split a single relation $R$ into a set of relations ${R_1, \cdots, R_n}$
+
+Goals:  
+Mandatory: Lossless Joins  
+Nice to have, but not required: Dependency Preservation, Redundancy Avoidance
+
+### Lossless Joins
+
+<!-- Information is not lost or bad information is not created when natural joining -->
+
+Motivation: avoid information loss  
+Goal: no noise introduced when reconstituting universal relation via natural join  
+Test: at each decomposition $R = (R_1 \cup R_2)$, check whether $(R_1 \cap R_2) \rightarrow R_1$ or $(R_1 \cap R_2) \rightarrow R_2$
 
 ### Dependency Preservation
 
-FDs are not split across relations
+<!-- FDs are not split across relations -->
 
-## Redundancy avoidance
+Motivation: efficient FD assertions  
+Goal: a schema preserves dependencies if its original FDs do not span multiple tables  
+$\rightarrow$ would be expensive to check (assuming that our DBMS supports ASSERTIONS)
+
+Test whether the decomposition $R = {R_1, \cdots, R_n}$ preserves the FD set $F$:
+
+- compute $F+$
+- compute $G$ as the union of the set of FDs in $F+$ covered by ${R_1, \cdots, R_n}$
+- compute $G+$
+- if $F+ = G+$, then ${R_1, \cdots, R_n}$ is Dependency Preserving
+
+### Redundancy Avoidance
 
 No repeated attributes in tuples
 
-Goals for deisng of the logical scheme:
+Goals for design of the logical scheme:
 
 - avoid data inconsistency
 - able to construct query easily
 - able to access data efficiently
 
 [Denormalization vs. Normal Form](http://www.ayqy.net/blog/database-denormalization)
+
+## Normal Forms
+
+## NoSQL Denormalization

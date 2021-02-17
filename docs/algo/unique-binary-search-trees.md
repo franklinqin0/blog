@@ -5,9 +5,8 @@ tags:
   - DP
   - Tree
   - Catalan Number
-#  - Hash Table
 related:
-  - valid-parenthesis ???
+  - valid-parenthesis
 ---
 
 <img class="medium-zoom" src="/algo/unique-binary-search-trees.png" alt="https://leetcode.com/problems/unique-binary-search-trees">

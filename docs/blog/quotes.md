@@ -102,6 +102,13 @@ This page documents good quotes I came across.
 ## Quotes
 
 ::: tip
+Things which matter most must never be at the mercy of things which matter less.  
+Wichtige Dinge dürfen nie den unwichtigen untergeordnet werden.
+::: right
+Johann Wolfgang von Goethe
+:::
+
+::: tip
 To love oneself is the beginning of a lifelong romance.
 ::: right
 Oscar Wilde

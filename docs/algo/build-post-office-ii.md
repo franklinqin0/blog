@@ -64,11 +64,11 @@ class Solution:
                         # if position is in range, not visited, and a space
                         if 0<=nx<n and 0<=ny<m and visited[nx][ny]==False and grid[nx][ny]==0:
                             visited[nx][ny] = True
-                            # `counts` incremented by 1
+                            # `counts` increments
                             counts[nx][ny] += 1
                             queue.append((nx, ny))
 
-                # step increments by 1
+                # step increments
                 step += 1
 
         # BFS from houses

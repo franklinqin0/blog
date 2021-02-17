@@ -80,7 +80,6 @@ but recursion would require $O(h)$ implicit stack space.
 def inorderPredecessor(self, root, p):
     res = None
     node = root
-
     while node:
         if node.val >= p.val:
             node = node.left
@@ -96,6 +95,7 @@ def inorderPredecessor(self, root, p):
 class Solution:
     pre = None
     def inorderPredecessor(self, root, p):
+
         def dfs(root, p):
             if not root:
                 return

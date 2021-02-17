@@ -19,8 +19,6 @@ class TreeNode:
         self.left, self.right = None, None
 ```
 
-<!-- https://leetcode.com/problems/binary-tree-maximum-path-sum/solution/ -->
-
 ## Solution
 
 ### Recursive DFS
