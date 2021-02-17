@@ -134,6 +134,16 @@ Ich musste nicht. / Leider ja.
 | bewundern                   | admire             |
 | tot                         | dead               |
 | sich kümmern                | look after         |
+| verfassen                   | schreiben          |
+| erforschen                  | explore, research  |
+| das Recht, das Jura         | law                |
+| das Märchen                 | fairy tale         |
+| der Ratgeber                | advisor            |
+| eröffnen                    | open, inaugurate   |
+| erzählen                    | tell, narrate      |
+| erstellen                   | create             |
+| der Spruch, die Sprüche     | saying(s)          |
+| die Lektion                 | lesson             |
 
 ### lieben vs. verlieben
 
@@ -290,13 +300,65 @@ Heute ist hier N.
 
 ### Wörter
 
-| Deutsch    | Englisch |
-| ---------- | -------- |
-| sauber     | clean    |
-| föhnen     | blow-dry |
-| die Kasse  | cashier  |
-| bestätigen | confirm  |
-| Ach was?   | Really?  |
+| Deutsch                       | Englisch                   |
+| ----------------------------- | -------------------------- |
+| sauber                        | clean                      |
+| föhnen                        | blow-dry                   |
+| die Kasse                     | cashier                    |
+| bestätigen                    | confirm                    |
+| arm                           | poor                       |
+| reich                         | rich                       |
+| faul                          | lazy                       |
+| fleißig                       | diligent                   |
+| der Anwalt                    | lawyer                     |
+| leiden                        | suffer                     |
+| das Dreieck                   | triangle                   |
+| die Hauptrolle, der Romanheld | main role                  |
+| die Lüge                      | lie                        |
+| die Wahrheit                  | truth                      |
+| besteigen, bestiegen          | climb, climbed             |
+| Ach was!                      | nonsense                   |
+| leer                          | empty                      |
+| die Praxis                    | doctor's office            |
+| ohne Erfolg                   | without success            |
+| die Kenntnis(se)              | knowledge                  |
+| fähig                         | capable, competent         |
+| die Schicht                   | shift                      |
+| die Leistung                  | performance, payment       |
+| der Handel                    | trade                      |
+| der Wehrmann                  | soldier                    |
+| föhnen                        | blow/dry hair              |
+| begleiten                     | accompany, escort          |
+| der Makler                    | agent, broker              |
+| vorkommen                     | occur, appear              |
+| die Verwaltung                | administration, management |
+| ordentlich                    | proper                     |
+| der Lebenslauf                | CV                         |
+| außerdem                      | furthermore                |
+| die Anschrift                 | address                    |
+| unterstützen                  | support, assist            |
+| entwickeln                    | develop, evolve            |
+| veröffentlichen               | publish                    |
+| die Veröffentlichung          | publication                |
+| abonnieren                    | subscribe                  |
+| verwenden                     | utilize                    |
+| der Anhang                    | attachment                 |
+| das Stück                     | slice, piece               |
+| betreten                      | enter, access              |
+| der Entdecker                 | explorer                   |
+| erfinden                      | to invent                  |
+| der Redakteur                 | editor                     |
+| der Pfarrer                   | priest                     |
+| schaffen                      | create, accomplish         |
+| So ist das Leben eben.        | Cest la vie.               |
+| betonen                       | emphasize                  |
+| leise                         | quiet, soft                |
+| die Klimaanlage               | air conditioning           |
+| bitten                        | ask for                    |
+| dringend                      | urgent                     |
+| die Auskunft                  | information                |
+| sich verabschieden            | say goodbye                |
+| unterbrechen                  | interrupt                  |
 
 ### Sätze
 
@@ -314,6 +376,9 @@ Als er sie auf einem Ball kennenlernt, verliebte Werther sich sofort in Lotte.
 Alexandr hat sich sofort in Weimar verliebt, als er 1999 zum ersten Mal die Stadt besucht.  
 Als er 1999 zum ersten Mal die Stadt besuchte, hat Alexandr sich sofort in Weimar verliebt.
 :::
+
+Ach was?  
+Really?
 
 ::: tip Lüge oder Wahrheit
 Als ich 13 war, wurde ich ein Wissenschaftler.  

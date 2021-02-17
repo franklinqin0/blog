@@ -18,18 +18,74 @@ Deutsch Notizen für das Goethe Institut - A2 vier
 
 ### Wörter
 
-| Deutsch        | Englisch   |
-| -------------- | ---------- |
-| der Gutschein  | coupon     |
-| das Geschirr   | 餐具       |
-| der Badeschaum | 沐浴露     |
-| die Krawatte   | tie        |
-| der Kuss       | kiss       |
-| die Socken     | socks      |
-| der Schmuck    | jewellery  |
-| der Gummibaum  | 橡胶树     |
-| glühen         | glow       |
-| die Glühbirne  | light bulb |
+| Deutsch                | Englisch           |
+| ---------------------- | ------------------ |
+| der Gutschein          | coupon             |
+| das Geschirr           | 餐具               |
+| der Badeschaum         | 沐浴露             |
+| die Krawatte           | tie                |
+| der Kuss               | kiss               |
+| die Socken             | socks              |
+| der Schmuck            | jewellery          |
+| der Gummibaum          | 橡胶树             |
+| glühen                 | glow               |
+| die Glühbirne          | light bulb         |
+| der Baum               | tree               |
+| der Schatz             | treasure, darling  |
+| der Wortschatz         | vocabulary         |
+| die Osterei(er)        | Easter eggs        |
+| verstecken             | hide               |
+| aufstellen             | establish          |
+| der Geist, die Geister | ghost(s)           |
+| heilig                 | holy, sacred       |
+| der Heiligabend        | Christmas Eve      |
+| anschauen              | look at            |
+| schrecklich            | terrible           |
+| lachen                 | laugh              |
+| gemütlich              | comfortable        |
+| klopfen                | knock              |
+| werfen                 | throw              |
+| das Bonbon             | sweet, candy       |
+| die Ernte              | crop, harvest      |
+| die Wiese              | meadow, pasture    |
+| anstoßen               | toast              |
+| unterschiedlich        | different, various |
+| bunt                   | colorful           |
+| die Matratze           | mattress           |
+| weich                  | soft, smooth       |
+| der Stoff              | material           |
+| ernst                  | serious            |
+| witzig                 | funny, witty       |
+| weglaufen              | run away           |
+| die Krawatte           | tie                |
+| das Parfüm             | perfume            |
+| leihen                 | lend, borrow       |
+| der Bär                | bear               |
+| das Stück              | slice, piece       |
+| brennen                | burn               |
+| löschen                | extinguish         |
+| die Gardine            | curtain            |
+| trocken                | dry                |
+| das Ereignis           | event              |
+| schmücken              | decorate           |
+| prächtig               | splendid           |
+| der Ausflug            | excursion          |
+| der Schirm             | screen, umbrella   |
+| der Sieg               | victory            |
+| die Schlange           | snake              |
+| das Geschäft           | business           |
+| entfallen              | omit               |
+| das Maskottchen        | mascot             |
+| die Hitze              | heat               |
+| das Atelier            | studio             |
+| der Schrei             | cry, scream        |
+| A. verschenken         | give away          |
+| zuhören                | listen to          |
+| anstupsen              | poke               |
+| die Richtung           | direction          |
+| die Bewerbung          | application        |
+| stecken                | plug               |
+| der Boden              | floor              |
 
 ### Sätze
 
