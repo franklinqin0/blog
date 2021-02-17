@@ -50,6 +50,7 @@ space: $O(k + h)$ (heap of $k$ elements and recursion stack of tree height $h$)
 :::
 
 ```py
+from heapq import heappush, heappop
 class Solution:
     def closestKValues(self, root: TreeNode, target: float, k: int) -> List[int]:
         def inorder(root: TreeNode):
@@ -127,14 +128,14 @@ def closestKValues(self, root: TreeNode, target: float, k: int) -> List[int]:
     return res
 ```
 
-### QuickSelect
+### Quick Select
 
 The following `partition` uses Lomuto's scheme.
 
 <!-- REDO in Hoare's scheme. -->
 
 ::: theorem Complexity
-time: $O(n)$, $O(n^2)$ in the worst case  
+time: $O(n)$ (worst case: $O(n^2)$)  
 space: $O(n)$
 :::
 

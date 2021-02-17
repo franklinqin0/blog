@@ -34,10 +34,10 @@ def generateParenthesis(self, n: int) -> List[str]:
         # error if # of ')' more than # of '('
         if r < l:
             return
-        # Use a left parenthesis
+        # use a left parenthesis
         if l > 0:
             dfs(l - 1, r, path + '(')
-        # Use a right parenthesis
+        # use a right parenthesis
         if r > 0:
             dfs(l, r - 1, path + ')')
 

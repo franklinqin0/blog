@@ -31,7 +31,7 @@ Sliding window logic: `i` is the left boundary and `j` the right boundary. Incre
 Invariant: `i`<=`j`
 
 ::: theorem Complexity
-time: $O(n)$ (worst case $O(2n)$: all characters are the same and each will be visited by both $i$ and $j$)  
+time: $O(n)$ (worst case: $O(2n)$, all characters are the same and each will be visited by both $i$ and $j$)  
 space: $O(\min(m,n))$
 :::
 

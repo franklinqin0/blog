@@ -1,5 +1,6 @@
 ---
 title: Next Permutation
+diff: medium
 tags:
   - Array
 ---
@@ -11,7 +12,7 @@ tags:
 <img src="https://assets.leetcode.com/static_assets/media/original_images/31_Next_Permutation.gif" alt="Next Permutation animation" width=100% class="medium-zoom">
 
 ::: theorem Complexity
-time: $O(n)$ (in worst case, only two scans of the whole array are needed)  
+time: $O(n)$ (worst case: only two scans of the whole array are needed)  
 space: $O(1)$ (all operations are in place)
 :::
 
