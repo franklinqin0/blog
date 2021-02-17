@@ -1,0 +1,76 @@
+### Heap
+
+::: theorem Complexity
+time: $O(n\log k)$ ($O(n)$ to build `Counter` and $O(n\log k)$ to push $n$ elts into the heap of size $k$)  
+space: $O(k + n)$ (hashmap w/ $\le$ $n$ elts and heap w/ $k$ elts)
+
+```py
+def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+    if k == len(nums):
+        return nums
+
+    cnt = Counter(nums)
+    heap = []
+    for i in cnt.keys():
+        heappush(heap, (cnt[i], i))
+        if len(heap) > k: heappop(heap)
+    return [v for _, v in heap]
+    # OR replace the last 5 lines with:
+```
+
+### Quick Select
+
+```py
+from collections import Counter
+from random import randint
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        cnt = Counter(nums)
+        uniq = list(cnt.keys())
+
+        def partition(left, right) -> int:
+            # select a random pivot_idx
+            pivot_idx = randint(left, right)
+            pivot_frequency = cnt[uniq[pivot_idx]]
+            # 1. move pivot to end
+            uniq[pivot_idx], uniq[right] = uniq[right], uniq[pivot_idx]
+
+            # 2. move all less frequent elements to the left
+            i = left
+            for j in range(left, right):
+                if cnt[uniq[i]] < pivot_frequency:
+                    uniq[i], uniq[j] = uniq[j], uniq[i]
+                    i += 1
+
+            # 3. move pivot to its final place
+            uniq[right], uniq[i] = uniq[i], uniq[right]
+
+            return i
+
+        def quickSelect(left, right, k) -> None:
+            """
+            Sort a list within left..right till kth less frequent element
+            takes its place.
+            """
+            # base case: the list contains only one element
+            if left == right:
+                return
+
+            # find the pivot position in a sorted list
+            pivot_idx = partition(left, right)
+
+            # if the pivot is in its final sorted position
+            if k == pivot_idx:
+                 return
+            # go left
+            elif k < pivot_idx:
+                quickSelect(left, pivot_idx - 1, k)
+            # go right
+            else:
+                quickSelect(pivot_idx+1, right, k)
+
+        n = len(uniq)
+        quickSelect(0, n-1, n-k)
+        # Return top k frequent elements
+        return uniq[n-k:]
+```

@@ -69,39 +69,6 @@ $n = 10^4~10^6$ $\rightarrow$ $O(n\log n)$
 $n = 10^3$ $\rightarrow$ $O(n^2)$
 $n <= 20$ $\rightarrow$ $O(2^n)$ (DFS)
 
-### Partition
-
-```py
-def partition(arr, left, right):
-    """
-    Returns: The new position of pivot in partitioned list arr[left..right].
-
-    The pivot is the initial value x = arr[h].  This function rearranges the
-    list so that elements <= x are before the pivot and elements >= x are
-    after the pivot.
-    """
-    # position i is end of first paritition range
-    i = left
-    # position j is BEFORE beginning of second partition range
-    j = right
-
-    # find the first element in the list.
-    x = arr[h]
-
-    # inv: arr[left..i-1] < x, arr[i] = x, arr[i+1..j] unknown, and  arr[j+1..right] >= x
-    while i < j:
-        if arr[i+1] >= x:
-            # move this to the end of the block
-            arr[i+1], arr[j] = arr[j], arr[i+1]
-            j -= 1
-        else: # arr[i+1] < x
-            arr[i], arr[i+1] = arr[i+1], arr[i]
-            i += 1
-    # post: arr[left..i-1] < x, arr[i] is x, and arr[i+1..right] >= x
-
-    return i
-```
-
 ## Search
 
 ### Linear search
@@ -178,12 +145,53 @@ def dnf(arr, left, right):
 
 ### Partition
 
-There are many existing partition schemes. Apart from the one similar to DNF, the two usual ones used in [quick sort](#quick-sort) and [quick select](#quick-select) are **Lomuto** and **Hoare**. Lomuto's method is simple and easier to implement, but takes thrice as many swap as Hoare's.
+There are many existing partition schemes. Apart from the one similar to DNF, the two usual ones used in [quick sort](#quick-sort) and [quick select](#quick-select) are **Lomuto** and **Hoare**.
 
-#### Lomuto Partition
+The drawback of Lomuto's partition is it fails with duplicates.
+
+Hoare's partition is more efficient than Lomuto's partition because it does three times fewer swaps on average, and creates efficient partitions even when all values are equal.
+
+#### DNF Partition
+
+Returns the new position of pivot in partitioned list `arr[left..right]`.
+
+The pivot is the initial value `x = arr[left]`. This function rearranges the list so that elements $\le$ x are before the pivot and elements $\ge$ `x` are after the pivot.
 
 ```py
 def partition(arr, left, right):
+    # position i is end of first paritition range
+    i = left
+    # position j is BEFORE beginning of second partition range
+    j = right
+
+    # find the first element in the list.
+    x = arr[left]
+
+    # inv: arr[left..i-1] < x, arr[i] = x, arr[i+1..j] unknown, and  arr[j+1..right] >= x
+    while i < j:
+        if arr[i+1] >= x:
+            # move this to the end of the block
+            arr[i+1], arr[j] = arr[j], arr[i+1]
+            j -= 1
+        else: # arr[i+1] < x
+            arr[i], arr[i+1] = arr[i+1], arr[i]
+            i += 1
+    # post: arr[left..i-1] < x, arr[i] is x, and arr[i+1..right] >= x
+
+    return i
+```
+
+#### Lomuto Partition
+
+Algorithm:
+
+- move pivot at the end of the array using swap
+- set the pointer at the beginning of the array `i = left`
+- iterate over the array and move all elements $\le$ `pivot` to the left. Move `i` one step to the right after each swap.
+- move the pivot to its final place, and return this index
+
+```py
+def partition(arr, left, right) -> int:
     pivot = arr[r]
     i = left
     for j in range(left, right):
@@ -204,7 +212,7 @@ Algorithm:
 - returns the index of the last element on the smaller side
 
 ```py
-def partition(arr, left, right):
+def partition(arr, left, right) -> int:
     pivot = arr[left]
     i, j = left - 1, right + 1
 

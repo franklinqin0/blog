@@ -18,7 +18,7 @@ The next problem is [Linked List Cycle II](linked_list_cycle_ii), which asks for
 
 ### HashSet
 
-Use the HashSet `st` to see if `curr` has been visited before.
+Use the `hashset` to see if `curr` has been visited before.
 
 ::: theorem Complexity
 time: $O(n)$  
@@ -27,13 +27,13 @@ space: $O(n)$
 
 ```py
 def hasCycle(self, head: ListNode) -> bool:
-    st = set()
+    hashset = set()
     curr = head
     while curr:
-        if curr in st:
+        if curr in hashset:
             return True
         else:
-            st.add(curr)
+            hashset.add(curr)
             curr = curr.next
     return False
 ```

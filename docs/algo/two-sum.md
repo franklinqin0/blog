@@ -12,7 +12,7 @@ related:
 
 ## Solution
 
-Using HashMap takes $O(n)$ time whereas sorting takes $O(\log n)$ time.
+Using hashmap takes $O(n)$ time whereas sorting takes $O(\log n)$ time.
 
 ### Two-pass HashMap
 

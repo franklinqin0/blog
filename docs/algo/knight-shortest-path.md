@@ -25,7 +25,7 @@ class Point:
 
 ### BFS w/ HashMap
 
-Use `queue` to visit nodes and `dist`(could also be an array or HashSet instead of HashMap) to store the distance of reaching a point.
+Use `queue` to visit nodes and `dist`(could also be an array or hashset instead of hashmap) to store the distance of reaching a point.
 
 ```py
 DIRECTIONS = [(-1, -2), (-1, 2), (1, -2), (1, 2), (-2, -1), (-2, 1), (2, -1), (2, 1)]

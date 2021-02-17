@@ -11,7 +11,7 @@ tags:
 
 ## Solution
 
-Let $n$ be size of the string, $m$ the size of the charset/alphabet, and $k$ the size of the HashSet, which is upper bounded by $n$ and $m$.
+Let $n$ be size of the string, $m$ the size of the charset/alphabet, and $k$ the size of the hashset, which is upper bounded by $n$ and $m$.
 
 ### Brute Force
 
@@ -24,7 +24,7 @@ space: $O(\min(m,n))$ ($O(k)$ space for the sliding window)
 
 ### Sliding Window Using HashSet
 
-The idea is to use a sliding window to locate a substring, and a HashSet `st` to see if the new char is already seen previously.
+The idea is to use a sliding window to locate a substring, and a `hashset` to see if the new char is already seen previously.
 
 Sliding window logic: `i` is the left boundary and `j` the right boundary. Increase `j` by 1 if `s[j]` has not occurred in the current subarray. Increase `i` if `s[j]` has occurred.
 
@@ -39,16 +39,16 @@ space: $O(\min(m,n))$
 def lengthOfLongestSubstring(self, s: str) -> int:
     if not s: return 0
     n = len(s)
-    st = set()
+    hashset = set()
     i = j = 0
     res = 1
     while i<n and j<n:
-        if s[j] not in st:
-            st.add(s[j])
+        if s[j] not in hashset:
+            hashset.add(s[j])
             j += 1
             res = max(res, j-i)
         else:
-            st.remove(s[i])
+            hashset.remove(s[i])
             i += 1
     return res
 ```

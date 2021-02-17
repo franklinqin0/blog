@@ -118,7 +118,12 @@ Equivalently, could do `bin(6)[2:].zfill(8)`, where `zfill` added the `0`'s padd
 
 ### HashSet
 
-set()
+```py
+hashset = set()
+hashset.add(1)
+# OR
+hashset = {1}
+```
 
 ### HashMap
 

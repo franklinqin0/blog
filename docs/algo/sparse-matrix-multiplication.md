@@ -135,7 +135,7 @@ def multi(self, row, col):
 
 ### HashMap (REDO)
 
-We can also use a HashMap instead of list to store the mappings from indices to nonzero values.
+We can also use a hashmap instead of list to store the mappings from indices to nonzero values.
 
 The time and space complexities are also both squared.
 

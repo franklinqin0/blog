@@ -27,7 +27,7 @@ So we need to detect if there is a cycle.
 
 ::: theorem Complexity
 time: $O(\log n)$  
-space: $O(\log n)$ due to the HashSet
+space: $O(\log n)$ (due to the HashSet)
 :::
 
 ```py
@@ -39,9 +39,9 @@ def isHappy(self, n: int) -> bool:
             csum += digit**2
         return csum
 
-    st = set()
-    while n != 1 and n not in st:
-        st.add(n)
+    hashset = set()
+    while n != 1 and n not in hashset:
+        hashset.add(n)
         n = get_next(n)
     return n==1
 ```

@@ -18,7 +18,7 @@ This problem follows [Linked List Cycle](linked_list_cycle), which asks if there
 
 ### HashSet
 
-Use HashSet `st` to store mappings from `ListNode` to index.
+Use `hashset` to store mappings from `ListNode` to index.
 
 ::: theorem Complexity
 time: $O(n)$  
@@ -27,13 +27,13 @@ space: $O(n)$
 
 ```py
 def detectCycle(self, head: ListNode) -> ListNode:
-    st = set()
+    hashset = set()
     curr = head
     while curr:
-        if curr in st:
+        if curr in hashset:
             return curr
         else:
-            st.add(curr)
+            hashset.add(curr)
             curr = curr.next
     return None
 ```

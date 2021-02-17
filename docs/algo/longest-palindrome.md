@@ -44,17 +44,17 @@ def longestPalindrome(self, s: str) -> int:
 
 ### HashSet
 
-Only store chars w/ odd counts in a HashSet `hs`. Calculate result by `len(s) - len(hs)`, and further subtract `1` if `len(hs)>0` (chars w/ odd counts).
+Only store chars w/ odd counts in a HashSet `hashset`. Calculate result by `len(s) - len(hashset)`, and further subtract `1` if `len(hashset)>0` (chars w/ odd counts).
 
 ```py
 def longestPalindrome(self, s: str) -> int:
-    hs = set()
+    hashset = set()
     for c in s:
-        if c in hs:
-            hs.remove(c)
+        if c in hashset:
+            hashset.remove(c)
         else:
-            hs.add(c)
-    remove = len(hs)
+            hashset.add(c)
+    remove = len(hashset)
     if remove > 0:
         remove -= 1
     return len(s) - remove

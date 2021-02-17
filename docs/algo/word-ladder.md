@@ -36,7 +36,7 @@ Helper method `get_next_words` outputs an array of all possible `next_words` of 
 
 ### Layered BFS w/ HashSet
 
-<!-- Complexity -->
+<!-- Complexity ??? -->
 
 For each layer of BFS, we increment `res` by $1$.
 
@@ -80,7 +80,7 @@ class Solution:
 
 ### BFS w/ HashMap
 
-Now BFS is no longer layered, but turn `vis` into a HashMap to store number of transformations.
+Now BFS is no longer layered, but turn `vis` into a hashmap to store number of transformations.
 
 ```py {11,17,22}
 class Solution:

@@ -86,7 +86,7 @@ def subarraySum(self, nums: List[int], k: int) -> int:
 
 If `nums[i]` summing to `nums[j]` equals `k`, `prefix_sum[i] == prefix_sum[j] - k`, then we just need to find if satisfying `prefix_sum[i]` has occurred. If so, increase count by occurrences of `prefix_sum[i]`. Use a HashMap to store **mappings from prefix sum to occurrence**.
 
-The following three solutions are all from [this post](https://leetcode.com/problems/subarray-sum-equals-k/discuss/102111/Python-Simple-with-Explanation). The last two using `Counter` are a bit of overhaul and [vanilla HashMap](#vanilla-hashmap) is good enough.
+The following three solutions are all from [this post](https://leetcode.com/problems/subarray-sum-equals-k/discuss/102111/Python-Simple-with-Explanation). The last two using `Counter` are a bit of overhaul and [Vanilla HashMap](#vanilla-hashmap) is good enough.
 
 ::: theorem Complexity
 time: $O(n)$  

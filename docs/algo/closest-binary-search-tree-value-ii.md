@@ -7,6 +7,7 @@ tags:
 related:
   #   - closest-binary-search-tree-value
   - binary-tree-inorder-traversal
+  - top-k-frequent-elements
 ---
 
 <img class="medium-zoom" src="/algo/closest-binary-search-tree-value-ii.png" alt="https://leetcode.com/problems/closest-binary-search-tree-value-ii">
@@ -29,7 +30,7 @@ Let $h$ be the height and $n$ be the number of nodes of tree.
 
 ::: theorem Complexity
 time: $O(n\log n)$ ($O(n)$ to build inorder traversal and $O(n\log n)$ to sort it)  
-space: $O(n)$
+space: $O(n)$ (store `nums`)
 :::
 
 ```py
@@ -37,15 +38,15 @@ def closestKValues(self, root: TreeNode, target: float, k: int) -> List[int]:
     def inorder(root: TreeNode):
         return inorder(root.left) + [root.val] + inorder(root.right) if root else []
 
-    nodes = inorder(root)
-    nodes.sort(key=lambda x: abs(x-target))
-    return nodes[:k]
+    nums = inorder(root)
+    nums.sort(key=lambda x: abs(x-target))
+    return nums[:k]
 ```
 
 ### Heap
 
 ::: theorem Complexity
-time: $O(n\log k)$ ($O(n)$ to build inorder traversal and $O(n\log n)$ to sort it)  
+time: $O(n\log k)$ (push $n$ elts into the heap of size $k$)  
 space: $O(k + h)$ (heap of $k$ elements and recursion stack of tree height $h$)
 :::
 

@@ -16,7 +16,7 @@ Let $n$ be the number of rows and $m$ be the number of columns. All following so
 
 ### BFS w/ HashMap
 
-Use `queue` to visit nodes and `dist`(could also be an array or HashSet instead of HashMap) to store the distance of reaching a point.
+Use `queue` to visit nodes and `dist`(could also be an array or hashset instead of hashmap) to store the distance of reaching a point.
 
 ```py {16,17,26,28,29,41}
 DIRECTIONS = [(1,2), (-1, 2), (2,1), (-2, 1)]

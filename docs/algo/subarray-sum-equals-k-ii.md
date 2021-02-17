@@ -20,9 +20,9 @@ Similar as previous problem [subarray sum equals k](subarray-sum-equals-k) which
 
 ### HashMap (linear time)
 
-Different from [vanilla HashMap](subarray-sum-equals-k.md#vanilla-hashmap) which stores mappings from prefix sum to count, here we need to store prefix sum to index instead.
+Different from [Vanilla HashMap](subarray-sum-equals-k.md#vanilla-hashmap) which stores mappings from prefix sum to count, here we need to store prefix sum to index instead.
 
-Note that HashMap `hashmap` is initialized w/ `{0:-1}` to handle the `sum(nums)==k` case.
+Note that `hashmap` is initialized w/ `{0:-1}` to handle the `sum(nums)==k` case.
 
 ```py
 def subarraySumEqualsKII(self, nums, k):

@@ -13,7 +13,7 @@ tags:
 
 Let $n$ be length of `str` and $m$ length of `dict`. There are two pointers, `i` in `str` and `j` in `dict`.
 
-Brute force solution is to compare 2 pointers until `i` gets to end of `str`. This is not time efficient especially when `str` is long. So we need to preprocess w/ data structures such as matrix or HashMap.
+Brute force solution is to compare 2 pointers until `i` gets to end of `str`. This is not time efficient especially when `str` is long. So we need to preprocess w/ data structures such as matrix or hashmap.
 
 The first method is best among the following three.
 
