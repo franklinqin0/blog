@@ -45,8 +45,8 @@ def closestKValues(self, root: TreeNode, target: float, k: int) -> List[int]:
 ### Heap
 
 ::: theorem Complexity
-time: $O(k\log n)$ ($O(n)$ to build inorder traversal and $O(n\log n)$ to sort it)  
-space: $O(k)$
+time: $O(n\log k)$ ($O(n)$ to build inorder traversal and $O(n\log n)$ to sort it)  
+space: $O(k + h)$ (heap of $k$ elements and recursion stack of tree height $h$)
 :::
 
 ```py

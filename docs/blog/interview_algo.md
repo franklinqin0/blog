@@ -248,7 +248,7 @@ def qsort(arr, left, right):
 `quickSelect` finds the kth largest element in a given unsorted array.
 
 ```py
-def quickSelect(arr, left, right, right):
+def quickSelect(arr, left, right, k):
     # if the list contains only one element, return that element
     if left == right:
         return arr[left]
@@ -262,10 +262,10 @@ def quickSelect(arr, left, right, right):
 
     # if `k` is less than the pivot index, go left
     if k < pivot_idx:
-        return quickSelect(arr, left, pivot_idx-1, right)
+        return quickSelect(arr, left, pivot_idx-1, k)
     # if `k` is more than the pivot index, go right
     else:
-        return quickSelect(arr, pivot_idx+1, right, right)
+        return quickSelect(arr, pivot_idx+1, right, k)
 ```
 
 ### Selection Sort

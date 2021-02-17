@@ -77,7 +77,7 @@ module.exports = {
     logo: "/favicon.ico",
     search: true,
     searchMaxSuggestions: 10,
-    lastUpdated: "xxx",
+    // lastUpdated: "xxx",
     author: "franklinqin0",
     authorAvatar: "/favicon.ico",
     record: "",
@@ -135,7 +135,7 @@ module.exports = {
         ga: "UA-146843725-3",
       },
     ],
-    ["@vuepress/last-updated", false],
+    // ["@vuepress/last-updated", false],
   ],
   markdown: {
     lineNumbers: false,
