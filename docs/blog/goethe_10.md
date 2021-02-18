@@ -27,7 +27,7 @@ Deutsch Notizen für das Goethe Institut - B1.1 zwei
 | rechnen                   | pay                                                     |
 | tauchen                   | dive                                                    |
 | tanken                    | fill up                                                 |
-| ansprechen                | ein Gespräch beginnen                                   |
+| ansprechen                | speak to                                                |
 | berücksichtigen           | consider                                                |
 | sich vertippen            | make a typo                                             |
 | sich(D.) vorstellen       | imagine                                                 |
@@ -159,7 +159,7 @@ Die Umfrage wird zu dem Thema des Anteils der in Großstädten lebenden Personen
 | eignen          | suit                 |
 | geeignet        | suitable             |
 | die Abwechslung | variety, distraction |
-| bloß            | only                 |
+| bloß            | only (Konjunktiv II) |
 | entsprechen     | correspond to        |
 | gleichzeitig    | simultaneous(ly)     |
 | schreinern      | make                 |
@@ -325,25 +325,53 @@ I wish I had done it differently.
 
 ### Wörter
 
-| Deutsch                                  | Bedeutung                              |
-| ---------------------------------------- | -------------------------------------- |
-| vertonen                                 | eine Musik unterlegen, in Musik setzen |
-| die Stimme                               | voice                                  |
-| der Zuhörer                              | listener                               |
-| nass, naß                                | wet                                    |
-| der Trauzeuge, -n / die Trauzeugin, -nen | best man, maid of honor                |
-| strömen                                  | storm                                  |
-| die Frisur                               | haircut                                |
-| zufällig                                 | by chance, ungeplant                   |
-| die Vergangenheit                        | past                                   |
-| bemerken                                 | entdecken                              |
-| weshalb                                  | aus diesem Grund                       |
-| dummes Zeug reden                        | unsinn, etwas Dummes erzählen          |
-| der Ratschlag                            | advice, tip                            |
-| der Laden                                | shop                                   |
-| dabeihaben                               | mitnehmen                              |
-| übermitteln                              | submit, send                           |
-| verwalten                                | manage, administer                     |
+| Deutsch                                         | Bedeutung                              |
+| ----------------------------------------------- | -------------------------------------- |
+| vertonen                                        | eine Musik unterlegen, in Musik setzen |
+| die Stimme                                      | voice                                  |
+| der Zuhörer                                     | listener                               |
+| nass, naß                                       | wet                                    |
+| der Trauzeuge, -n / die Trauzeugin, -nen        | best man, maid of honor                |
+| strömen                                         | storm                                  |
+| die Frisur                                      | haircut                                |
+| zufällig                                        | by chance, ungeplant                   |
+| die Vergangenheit                               | past                                   |
+| bemerken                                        | entdecken                              |
+| weshalb                                         | aus diesem Grund                       |
+| dummes Zeug reden                               | unsinn, etwas Dummes erzählen          |
+| der Ratschlag                                   | advice, tip                            |
+| der Laden                                       | shop                                   |
+| dabeihaben                                      | mitnehmen                              |
+| übermitteln                                     | submit, send                           |
+| verwalten                                       | manage, administer                     |
+| bewässern                                       | irrigate, water                        |
+| die Bushaltestelle                              | bus stop                               |
+| das Portemonnaie, der Geldbeutel, die Geldbörse | wallet                                 |
+| verschlafen                                     | oversleep                              |
+| reichlich                                       | abundant                               |
+| braten, der Braten                              | roast                                  |
+| schieflaufen                                    | go wrong                               |
+| gelingen                                        | succeed                                |
+| gelungen                                        | successful                             |
+| zornig                                          | furious                                |
+
+### Wendungen
+
+Bus verpassen  
+Portemonnaie vergessen  
+Schlüssel stecken lassen  
+Benzintank ist leer  
+Batterie ist leer/Motor startet nicht  
+Pullover zu heiß waschen  
+im Stau stehen  
+geblitzt werden: to be caught speeding (by a speed camera)
+
+Hast du den Schlüssel dabei/mitgenommen?
+
+Energie tanken  
+etwas essen
+
+an der Tankstelle tanken
 
 sich die Zeit vertreiben  
 Zeit totschlagen  
@@ -354,7 +382,48 @@ Shit happens.
 Dumm gelaufen! Aber mach dir nichts draus.  
 Shit happens. But don't worry about it!
 
+Keine Sorge!  
+Don't worry!
+
+Boden wischen  
+wipe the floor
+
+in Ordnung bringen  
+bring to order
+
 Im Gespräch bemerkt Iris, dass er nur dummes Zeug redet, und ärgert sich nur noch darüber, dass sie einen Monat an ihn gedacht hat.  
 In conversation, Iris realizes that he is just talking stupid, and is just annoyed that she has been thinking about him for a month.
 
 ### Irreale Wünsche
+
+Konjunktiv II Vergangenkeit: hätte/wäre + Partizip Perfekt
+
+Hätten wir doch bloß gleich die erste Wohnung genommen.  
+Hätte ich es doch wenigstens probiert.  
+Wäre ich doch nur etwas mutiger gewesen.  
+Wäre sie doch nur rechtzeitig losgegangen.
+Hättest du deinen Traummann doch angesprochen!
+Wäre ich doch schenller zur Bushaltstelle gelaufen.  
+Wäre ich heute doch ein bisschen früher aufgestanden.  
+Hätte ich heute doch nicht verschlafen.
+
+::: tip Enttäuschung ausdrücken
+Also das nächste Mal würde ich es ganz anders machen.  
+Hätte ich (doch) bloß $\cdots$!
+Ich war so zornig auf mich!  
+Das war vielleicht blöd!  
+Ich habe mich so (über mich) geärgert.  
+Hätte ich nur $\cdots$, (dann) wäre das alles nicht passiert.
+:::
+
+### auf Enttäuschung reagieren
+
+Oh je, das ist ja wirklich dumm gelaufen.  
+Nicht zu glauben!  
+Das ist wirklich sehr ärgerlich.  
+Oh, das ist wirklich schade.  
+Das verstehe ich.  
+Alles im Leben hat einen Sinn.  
+Man weiß nie, ob es nicht sogar besser ist, wie es ist.  
+Vielleicht klappt es ja ein anderes Mal.  
+Aber da kann man wohl nichts mehr machen.

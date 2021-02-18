@@ -54,31 +54,54 @@ Ich wohne lieber {in der Stadt / auf dem Land}, weil es Gute Angebote und mehr F
 
 ### Wörter
 
-| Deutsch          | Englisch                     |
-| ---------------- | ---------------------------- |
-| höflich          | polite                       |
-| gebrauchte Sache | second-hand goods            |
-| der Vorteil      | advantage                    |
-| der Nachteil     | disadvantage                 |
-| der Anschluss    | cable                        |
-| das Schnäppchen  | bargains                     |
-| die Ware(n)      | goods                        |
-| die Stiftung     | foundation                   |
-| hektisch         | hectic                       |
-| überraschen      | surprise, astonish           |
-| Erholung         | recreation                   |
-| Leiter           | leader                       |
-| regelmäßig       | regular(ly)                  |
-| anziehen         | attract                      |
-| schminken        | put on makeup                |
-| rasieren         | shave oneself                |
-| umziehen         | change clothes               |
-| abtrocknen       | dry                          |
-| kämmen           | comb one's hair              |
-| verabreden       | arrange, make an appointment |
-| aufregen         | annoy, get excited           |
-| Amt              | office                       |
-| wütend           | angry, furious               |
+| Deutsch                        | Englisch                     |
+| ------------------------------ | ---------------------------- |
+| höflich                        | polite                       |
+| gebrauchte Sache               | second-hand goods            |
+| der Vorteil                    | advantage                    |
+| der Nachteil                   | disadvantage                 |
+| der Anschluss                  | cable                        |
+| das Schnäppchen                | bargains                     |
+| die Ware(n)                    | goods                        |
+| die Stiftung                   | foundation                   |
+| hektisch                       | hectic                       |
+| überraschen                    | surprise, astonish           |
+| Erholung                       | recreation                   |
+| Leiter                         | leader                       |
+| regelmäßig                     | regular(ly)                  |
+| anziehen                       | attract                      |
+| schminken                      | put on makeup                |
+| rasieren                       | shave oneself                |
+| anziehen                       | get dressed                  |
+| ausziehen                      | take off clothes             |
+| umziehen                       | change clothes               |
+| abtrocknen                     | dry                          |
+| kämmen                         | comb one's hair              |
+| verabreden                     | arrange, make an appointment |
+| aufregen                       | annoy, get excited           |
+| Amt                            | office                       |
+| wütend                         | angry, furious               |
+| erinnern (erinnere mich daran) | remind (remind me of it)     |
+| zufrieden                      | satisfied                    |
+| der Schall                     | sound                        |
+| verschicken                    | send out                     |
+| ausleihen                      | borrow                       |
+| abonnieren                     | subscribe                    |
+| TV-Serien                      | tv series                    |
+| Leistung                       | performance                  |
+| abrufen                        | use some software            |
+| Empfänger                      | recipient                    |
+| Umschlag                       | envelope                     |
+| roter Umschlag                 | red packet                   |
+| Päckchen                       | parcel                       |
+| Vermutungen                    | assumptions                  |
+| einwerfen                      | post, mail                   |
+| stecken                        | put, stick                   |
+| kleben                         | stick, glue                  |
+| Mantel                         | coat                         |
+| Dinge                          | stuff                        |
+| Gehirn                         | brain                        |
+| Ratgeber                       | guidebook                    |
 
 ### Sätze
 
@@ -233,79 +256,80 @@ Nur die 3. Person hat im Singular und Plural eine eigene Form: sich.
 
 ### Wörter
 
-| Deutsch                    | Englisch               |
-| -------------------------- | ---------------------- |
-| Reklamation                | complaint              |
-| Anschluss                  | port                   |
-| Schmuck                    | jewellery              |
-| Schnäppchen                | bargain(s)             |
-| der Wecker                 | alarm                  |
-| die Waren                  | goods                  |
-| simsen                     | to send a text message |
-| günstig                    | favorable, cheap       |
-| antike                     | ancient                |
-| Flohmarkt                  | flea market            |
-| Kassen                     | cash registers         |
-| Kassenzettel               | receipt                |
-| untauschen                 | exchange 退换          |
-| wertvoll                   | valuable               |
-| Zeitungsanzeige            | ad                     |
-| Mitteilung                 | communication          |
-| Vorschlag                  | proposal               |
-| Abschied                   | farewell               |
-| Schal                      | scarf                  |
-| gucken                     | look                   |
-| würden                     | would                  |
-| Sichuan-Küche              | Sichuan food           |
-| die Speise                 | food                   |
-| das Gericht                | dish                   |
-| die Sahne                  | cream                  |
-| die Haube                  | hood                   |
-| das Bauernbrot             | farmer's bread         |
-| das Gemisch                | mixture                |
-| die Gabel                  | fork                   |
-| beschweren                 | weight, complain       |
-| das Messer                 | knife                  |
-| der Löffel                 | spoon                  |
-| der Pfeffer                | pepper                 |
-| die Rolle                  | role                   |
-| Aufgabe                    | task                   |
-| Ablauf, Abläufe            | procedure(s)           |
-| bekannt                    | known, famous          |
-| beraten                    | advise, counsel        |
-| bedienen                   | serve                  |
-| bestehen                   | consist of             |
-| die Rundschau              | review                 |
-| der Ober                   | waiter                 |
-| Soße                       | sauce                  |
-| passen zu                  | match with             |
-| ziemlich                   | quite                  |
-| Nüsse                      | nuts                   |
-| bestehen aus               | consist of             |
-| das Holz                   | wood                   |
-| Kuss                       | kiss                   |
-| nichts für mich            | not for me             |
-| stattfinden                | take place             |
-| Freude                     | joy                    |
-| der Blick                  | view                   |
-| Liebe auf den ersten Blick | love at first sight    |
-| anmelden                   | register, enroll       |
-| Börse                      | exchange               |
-| selbständig                | independent            |
-| das Ergebnis               | result                 |
-| eindeutig                  | clear                  |
-| dagegen                    | against it             |
-| Jugendliche                | young people           |
-| fleißig                    | hard-working           |
-| die Anzeige                | advertisement          |
-| das Wannenbad              | bath                   |
-| die Kammer                 | chamber                |
-| die Fliese                 | tile                   |
-| der Anschluss              | connection, port       |
-| die Fläche                 | area                   |
-| der Keller                 | cellar                 |
-| die Etage                  | floor, storey          |
-| mindestens                 | at least               |
+| Deutsch                    | Englisch                   |
+| -------------------------- | -------------------------- |
+| Reklamation                | complaint                  |
+| Anschluss                  | port                       |
+| Schmuck                    | jewellery                  |
+| Schnäppchen                | bargain(s)                 |
+| der Wecker                 | alarm                      |
+| die Waren                  | goods                      |
+| simsen                     | send a text message        |
+| günstig                    | favorable, cheap           |
+| antike                     | ancient                    |
+| Flohmarkt                  | flea market                |
+| die Kasse                  | cash register              |
+| der Kassenzettel           | receipt                    |
+| untauschen                 | exchange 退换              |
+| wertvoll                   | valuable                   |
+| die Zeitungsanzeige        | newspaper ad               |
+| mitteilen, die Mitteilung  | communicate, communication |
+| der Vorschlag              | proposal                   |
+| der Abschied               | farewell                   |
+| der Schal                  | scarf                      |
+| gucken                     | look                       |
+| würden                     | would                      |
+| Sichuan-Küche              | Sichuan food               |
+| die Speise                 | food                       |
+| das Gericht                | dish                       |
+| die Sahne                  | cream                      |
+| die Haube                  | hood                       |
+| das Bauernbrot             | farmer's bread             |
+| das Gemisch                | mixture                    |
+| die Gabel                  | fork                       |
+| beschweren                 | weight, complain           |
+| das Messer                 | knife                      |
+| der Löffel                 | spoon                      |
+| der Pfeffer                | pepper                     |
+| die Rolle                  | role                       |
+| Aufgabe                    | task                       |
+| Ablauf, Abläufe            | procedure(s)               |
+| bekannt                    | known, famous              |
+| beraten                    | advise, counsel            |
+| bedienen                   | serve                      |
+| bestehen                   | consist of                 |
+| die Rundschau              | review                     |
+| der Ober                   | waiter                     |
+| die Soße                   | sauce                      |
+| passen zu                  | match with                 |
+| ziemlich                   | quite                      |
+| Nüsse                      | nuts                       |
+| bestehen aus               | consist of                 |
+| das Holz                   | wood                       |
+| nichts für mich            | not for me                 |
+| stattfinden                | take place                 |
+| die Freude                 | joy                        |
+| der Blick                  | view                       |
+| Liebe auf den ersten Blick | love at first sight        |
+| anmelden                   | register, enroll           |
+| der Beutel                 | bag, purse                 |
+| die Börse                  | bag, purse, stock exchange |
+| selbständig                | independent                |
+| erleben, das Erlebnis      | experience                 |
+| ergeben, das Ergebnis      | result                     |
+| eindeutig                  | clear, unambiguous         |
+| dagegen                    | against it                 |
+| der/die Jugendliche        | young people               |
+| fleißig                    | hard-working               |
+| die Anzeige                | advertisement              |
+| das Wannenbad              | bath                       |
+| die Kammer                 | chamber                    |
+| die Fliese                 | tile                       |
+| der Anschluss              | connection, port           |
+| die Fläche                 | area                       |
+| der Keller                 | cellar                     |
+| die Etage                  | floor, storey              |
+| mindestens                 | at least                   |
 
 #### der Geschmack (flavor):
 

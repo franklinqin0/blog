@@ -341,37 +341,37 @@ Heike Weber arbeitet bei Siemens in Erlangen. Sie ist dort Sekretärin. Heike sc
 
 ### Wörter
 
-| Deutsch                             | Englisch             |
-| ----------------------------------- | -------------------- |
-| dort                                | there                |
-| dabei                               | with it, at the time |
-| trennbar                            | separate             |
-| klassisch                           | classical            |
-| sicher                              | certainly            |
-| langweilig                          | boring               |
-| wunderbar                           | wonderful            |
-| freuen                              | be happy             |
-| kennen                              | know                 |
-| wissen                              | know                 |
-| besprechen                          | discuss              |
-| schauen                             | look                 |
-| warten                              | wait                 |
-| denken                              | think                |
-| bereiten                            | prepare              |
-| verkürzen                           | shorten              |
-| unser                               | our                  |
-| früh                                | early                |
-| benötigten                          | require              |
-| <d type="er" text="Zahnarzt"/>      | dentist              |
-| <d type="er" text="Monat"/>         | month                |
-| <d type="er" text="Friseur"/>(in)   | hairdresser          |
-| <d type="er" text="Nachbar"/>(in)   | neighbour            |
-| <d type="er" text="Traum"/>         | dream                |
-| <d type="ie" text="Bühne"/>         | stage, theatre       |
-| <d type="ie" text="Torte"/>         | cake                 |
-| <d type="ie" text="Veranstaltung"/> | event                |
-| <d type="ie" text="Schwester"/>     | sister               |
-| <d type="as" text="Gefängnis"/>     | prison               |
+| Deutsch                             | Englisch                      |
+| ----------------------------------- | ----------------------------- |
+| dort                                | there                         |
+| dabei                               | with it, at the time, thereby |
+| trennbar                            | separate                      |
+| klassisch                           | classical                     |
+| sicher                              | certainly                     |
+| langweilig                          | boring                        |
+| wunderbar                           | wonderful                     |
+| freuen                              | be happy                      |
+| kennen                              | know                          |
+| wissen                              | know                          |
+| besprechen                          | discuss                       |
+| schauen                             | look                          |
+| warten                              | wait                          |
+| denken                              | think                         |
+| bereiten                            | prepare                       |
+| verkürzen                           | shorten                       |
+| unser                               | our                           |
+| früh                                | early                         |
+| benötigten                          | require                       |
+| <d type="er" text="Zahnarzt"/>      | dentist                       |
+| <d type="er" text="Monat"/>         | month                         |
+| <d type="er" text="Friseur"/>(in)   | hairdresser                   |
+| <d type="er" text="Nachbar"/>(in)   | neighbour                     |
+| <d type="er" text="Traum"/>         | dream                         |
+| <d type="ie" text="Bühne"/>         | stage, theatre                |
+| <d type="ie" text="Torte"/>         | cake                          |
+| <d type="ie" text="Veranstaltung"/> | event                         |
+| <d type="ie" text="Schwester"/>     | sister                        |
+| <d type="as" text="Gefängnis"/>     | prison                        |
 
 #### Trennbare Verben （前缀介词 + 动词）
 

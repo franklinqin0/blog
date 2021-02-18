@@ -83,6 +83,7 @@ Deutsch Notizen für das Goethe Institut - A2 vier
 | zuhören                | listen to          |
 | anstupsen              | poke               |
 | die Richtung           | direction          |
+| sich bewerben (+um)    | apply              |
 | die Bewerbung          | application        |
 | stecken                | plug               |
 | der Boden              | floor              |
@@ -172,53 +173,52 @@ Wo warst du im Urlaub? **Bei** ihren Eltern?
 
 ### Wörter
 
-| Deutsch          | Englisch           |
-| ---------------- | ------------------ |
-| drehen           | film               |
-| der Regisseur    | director           |
-| der Teppich      | carpet             |
-| die Hoffnung     | hope               |
-| des Namens       | $\cdots$的名字     |
-| das Drehbuch     | script, screenplay |
-| drehen           | film               |
-| der Teppich      | rug, carpet        |
-| behindern        | obstruct           |
-| der Dolmetscher  | interpreter        |
-| die Gebärde      | gesture            |
-| die Sendlung     | broadcast          |
-| einander         | each other         |
-| sehende          | sighted            |
-| festlegen        | determine          |
-| der Beutel       | bag, pouch         |
-| verschließen     | close, seal        |
-| weinen           | cry                |
-| eklig            | disgusting         |
-| wundern          | surprise           |
-| erschrecken      | scare, frighten    |
-| der Gesicht      | face               |
-| erkennen         | recognize; admit   |
-| die Geste        | gesture            |
-| fehlen           | miss               |
-| Du fehlst mir.   | I miss you.        |
-| die Überraschung | surprise           |
-| der Ekel         | disgust            |
-| die Wut          | anger              |
-| die Angst        | fear               |
-| die Verachtung   | contempt, scorn    |
-| der Neid         | jealousy, envy     |
-| neidisch         | jealous            |
-| gierig           | greedy             |
-| ärgerlich        | annoying, angry    |
-| lachen           | laugh              |
-| lacheln          | smile              |
-| der Wahn         | mania, craze       |
-| sich fühlen      | feel               |
-| der Sinn         | sense, meaning     |
-| stinksauer       | furious            |
-| der Mist         | crap               |
-| mitreißend       | thrilling          |
-| beschäftigen     | employ, occupy     |
-| sich widmen      | dedicate oneself   |
+| Deutsch                       | Englisch           |
+| ----------------------------- | ------------------ |
+| drehen                        | film               |
+| der Regisseur                 | director           |
+| der Teppich                   | carpet             |
+| die Hoffnung                  | hope               |
+| des Namens                    | $\cdots$的名字     |
+| das Drehbuch                  | script, screenplay |
+| drehen                        | film               |
+| der Teppich                   | rug, carpet        |
+| behindern                     | obstruct           |
+| der Dolmetscher               | interpreter        |
+| die Gebärde                   | gesture            |
+| die Sendlung                  | broadcast          |
+| einander                      | each other         |
+| sehende                       | sighted            |
+| festlegen                     | determine          |
+| der Beutel                    | bag, pouch         |
+| verschließen                  | close, seal        |
+| weinen                        | cry                |
+| eklig                         | disgusting         |
+| wundern                       | surprise           |
+| erschrecken                   | scare, frighten    |
+| der Gesicht                   | face               |
+| erkennen                      | recognize; admit   |
+| die Geste                     | gesture            |
+| fehlen                        | miss               |
+| überraschen, die Überraschung | surprise           |
+| ekeln, der Ekel               | disgust            |
+| die Wut                       | anger              |
+| die Angst                     | fear               |
+| die Verachtung                | contempt, scorn    |
+| der Neid                      | jealousy, envy     |
+| neidisch                      | jealous            |
+| gierig                        | greedy             |
+| ärgerlich                     | annoying, angry    |
+| lachen                        | laugh              |
+| lacheln                       | smile              |
+| der Wahn                      | mania, craze       |
+| sich fühlen                   | feel               |
+| der Sinn                      | sense, meaning     |
+| stinksauer                    | furious            |
+| der Mist                      | crap               |
+| mitreißend                    | thrilling          |
+| sich beschäftigen mit         | employ, occupy     |
+| sich widmen                   | dedicate oneself   |
 
 Der Teppich, über den die Stars zur Premiere laufen, ist der rote **Teppich**.  
 Ein Festival, auf dem man Filme sehen kann, ist ein **Filmfestival**.  
@@ -247,14 +247,22 @@ die Tragiekomödie
 
 ### Phrasen
 
+Du fehlst mir.  
+I miss you.
+
+<!-- ??? -->
+
 es geht um  
 schuld sein an + D.  
 verzweifelt sein  
 etw. an den Nagel hängen  
 sich trennen von + D.  
 von Geburt an  
-sich auf den Weg machen  
+sich auf den Weg machen
+
 sich verändern  
+change oneself
+
 sich etw. vor/stellen
 
 ### Sätze

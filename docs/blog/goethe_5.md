@@ -18,37 +18,83 @@ Deutsch Notizen für das Goethe Institut - A2 eins
 
 ### Wörter
 
-| Deutsch        | Englisch           |
-| -------------- | ------------------ |
-| laufen         | run                |
-| nennen         | call               |
-| lauten         | pronounce          |
-| erinnern       | remember           |
-| verdienen      | earn               |
-| segeln         | sail               |
-| vorstellen     | introduce          |
-| zurückgehen    | go back            |
-| wenig          | little             |
-| fantasiereich  | imaginative        |
-| herrlich       | marvelous          |
-| darüber        | above              |
-| aufmerksam     | attentive          |
-| der Geruch     | smell, odor        |
-| der Vorteil    | advantage          |
-| der Staat      | state              |
-| der Spiegel    | mirror             |
-| der Grund      | ground, reason     |
-| der Austausch  | exchange           |
-| der Ausbildung | training           |
-| das Ziel       | destination        |
-| das Prost      | 干杯               |
-| die Aussprache | pronunciation      |
-| die Karriere   | career             |
-| die Tatsache   | fact               |
-| die Achtung    | respect, attention |
-| die Verwaltung | administration     |
-| die Fabrik     | factory            |
-| wie heute      | as today           |
+| Deutsch                 | Bedeutung              |
+| ----------------------- | ---------------------- |
+| laufen                  | run                    |
+| nennen                  | call                   |
+| lauten                  | pronounce              |
+| erinnern                | remember               |
+| verdienen               | earn                   |
+| segeln                  | sail                   |
+| vorstellen              | introduce              |
+| zurückgehen             | go back                |
+| wenig                   | little                 |
+| fantasiereich           | imaginative            |
+| herrlich                | marvelous              |
+| darüber                 | above                  |
+| aufmerksam              | attentive              |
+| der Geruch              | smell, odor            |
+| der Vorteil             | advantage              |
+| der Staat               | state                  |
+| der Spiegel             | mirror                 |
+| der Grund               | ground, reason         |
+| der Austausch           | exchange               |
+| der Ausbildung          | training               |
+| das Ziel                | destination            |
+| das Prost               | 干杯                   |
+| die Aussprache          | pronunciation          |
+| die Karriere            | career                 |
+| die Tatsache            | fact                   |
+| die Achtung             | respect, attention     |
+| die Verwaltung          | administration         |
+| die Fabrik              | factory                |
+| wie heute               | as today               |
+| die Fortbildung         | training               |
+| die Job-Chancen         | job prospects          |
+| die Wiederholung        | repetition             |
+| der Arbeitsplatz        | workplace              |
+| der Gastarbeiter        | foreign worker         |
+| der Marketingexperte    | marketing expert       |
+| die Arbeitskooperation  | job cooperation        |
+| der Kooperationspartner | partner in cooperation |
+| die Sprachschule        | language school        |
+| das Auslandssemester    | semester abroad        |
+| der Sprachkurs          | language course        |
+| der Intensivkurs, -e    | intensive course       |
+| weil                    | because                |
+| dort                    | there                  |
+| Firma                   | company                |
+| der Maschinenbau        | mechanical engineering |
+| verbinden               | connect, link          |
+| bemalen                 | paint, color           |
+| das Gesicht             | face                   |
+| die Note                | note, grade, mark      |
+| froh                    | happy                  |
+| besorgt                 | concerned              |
+| im Alltag               | everyday life          |
+| berichten               | report                 |
+| unterhaltsam            | entertaining           |
+| scharf                  | spicy, hot             |
+| der Käse                | cheese                 |
+| die Geschichte          | history                |
+| meisten(s)              | most(ly)               |
+| fremd                   | foreign                |
+| die Umgangssprache      | colloquial language    |
+| schwer                  | difficult              |
+| leicht                  | easy                   |
+| gegangen                | gone                   |
+| der Döner               | kebab                  |
+| dünn                    | thin, skinny           |
+| anstrengend             | exhausting             |
+| beliebt                 | popular                |
+| der Krankenpfleger      | nurse                  |
+| das Krankenhaus         | hospital               |
+| dort                    | there                  |
+| völlig                  | complete(ly)           |
+| anderer                 | other                  |
+| echt                    | real(ly)               |
+| unbedingt               | absolute(ly)           |
+| abmachen                | agree                  |
 
 #### Wörter zu Studium und Beruf
 
@@ -72,12 +118,12 @@ Deutsch Notizen für das Goethe Institut - A2 eins
 
 ### Sätze
 
-| Deutsch                                                                            | Englisch                                                              |
-| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| In der Krisenzeit gab es keine Arbeitsplätze für Marketing-Experten.               | In times of crisis there were no jobs for marketing experts.          |
-| In China lernen die meisten Menschen Englisch, weil es wichtig für die Arbeit ist. | In China, most people learn English because it is important for work. |
-| Geld für die Familie verdienen und dann zurückgehen.                               | Make money for the family and then go back.                           |
-| Die deutsche Sprache hat mich schon immer fasziniert.                              | The German language has always fascinated me.                         |
+| Deutsch                                                                             | Bedeutung                                                             |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| In der Krisenzeit gab es keine Arbeitsplätze für Marketing-Experten.                | In times of crisis there were no jobs for marketing experts.          |
+| In China lernen die meisten Menschen Bedeutung, weil es wichtig für die Arbeit ist. | In China, most people learn English because it is important for work. |
+| Geld für die Familie verdienen und dann zurückgehen.                                | Make money for the family and then go back.                           |
+| Die deutsche Sprache hat mich schon immer fasziniert.                               | The German language has always fascinated me.                         |
 
 #### Warum - Weil
 
@@ -159,7 +205,132 @@ Ich trinke mehr Wasser.
 
 ## Einheit 2 - Familiengeschichten
 
-### Wörter
+| Deutsch                               | Bedeutung                       |
+| ------------------------------------- | ------------------------------- |
+| Flugzeug                              | plane                           |
+| Krebs                                 | cancer                          |
+| verlieren, verloren                   | lose, lost                      |
+| abschließen, Abschluss, abgeschlossen | complete, conclusion, completed |
+| umziehen, umgezogen                   | move, moved                     |
+| süß                                   | sweet                           |
+| Verhalten                             | behaviour                       |
+| Fluss                                 | river                           |
+| lebend                                | alive, living                   |
+| entwerfen, entworfen                  | design, designed                |
+| wiegen                                | weigh                           |
+| Erde                                  | earth                           |
+| Vogel                                 | bird                            |
+| Hai                                   | shark                           |
+| erfolgen, Erfolg                      | occur, success                  |
+| erlauben, Erlaubnis                   | allow, permission               |
+| Gefühl                                | feeling                         |
+| Losüng                                | solution                        |
+| lassen, verlassen                     | leave                           |
+| das Haar, -e                          | hair                            |
+| Federball                             | badminton                       |
+| das Geschwister                       | siblings                        |
+| taufen                                | christen, baptize               |
+| der Schwager / die Schwägerin         | brother-in-law / sister-in-law  |
+| daneben                               | next to it                      |
+| das Geschenk                          | gift                            |
+| die Kleidung                          | clothes                         |
+| geschieden                            | divorced                        |
+| alleinerziehend                       | single                          |
+| Urgroßvater                           | great grandfather               |
+| Süßigkeiten                           | sweets                          |
+| Redemittel                            | expression, phrases             |
+| einzeln                               | single                          |
+| Einzelkind                            | only child                      |
+| Seite                                 | page                            |
+| ergänzen                              | complete                        |
+| Neffe                                 | nephew                          |
+| Nichte                                | niece                           |
+| verbessern                            | improve                         |
+| manchmal                              | sometimes                       |
+| gehören                               | belong to                       |
+| unterstreichen                        | underline, emphasize            |
+| die Gaststätte                        | das Restaurant                  |
+| Statt                                 | place                           |
+| die Laune                             | mood                            |
+| einlaufen                             | arrive                          |
+| der Strauß                            | bouquet                         |
+| betreiben                             | operate, pursue                 |
+| renovieren                            | renovate                        |
+| die Werkstatt                         | workshop                        |
+| Schutz                                | shelter                         |
+| gründen                               | found, establish                |
+| Gesang                                | singing                         |
+| schützen                              | protect, guard                  |
+| verrückt                              | crazy                           |
+| verbringen                            | spend time                      |
+| mindestens                            | at least                        |
+| peinlich                              | embarrassing                    |
+| gegen                                 | against, versus                 |
+| das Lotto                             | lottery                         |
+| schmerzhaft                           | painful                         |
+| erstaunt                              | astonished                      |
+| erfreut                               | delighted                       |
+| durstig                               | thirsty                         |
+| erholen                               | rest, relax                     |
+| erstellen                             | create, construct               |
+| der/die Verwandte                     | relation, relative              |
+| der Zwilling, -e                      | twin(s)                         |
+| Grippe                                | flu                             |
+| sterben                               | die                             |
+| Beileid                               | condolence                      |
+| bestehen                              | pass a test                     |
+| Patchworkfamilie                      | patchwork family                |
+| unverheiratet                         | unmarried                       |
+| einsam                                | lonely                          |
+| beide                                 | both                            |
+| Schock                                | shock                           |
+| gegenseitig                           | mutual                          |
+| ziehen, gezogen                       | pull                            |
+| das Hemd                              | shirt                           |
+| das gibt's gar nicht                  | there is no such thing          |
+| mehr als                              | more than                       |
+| basteln                               | do crafts                       |
+| sonstig                               | other, miscellaneous            |
+| versichern, Versicherung              | insure, insurance               |
+| anderthalb                            | one half                        |
+| die Unterkunft                        | accommodation                   |
+| die Verpflegung                       | catering                        |
+| das Heimweh                           | homesickness                    |
+| vermitteln, Vermittlung               | mediate, mediation 中介         |
+| die Agentur                           | agency                          |
+| die Sorge                             | concern                         |
+| wohl                                  | probably                        |
+| Rätsel                                | mystery                         |
+| der Kuli                              | pen                             |
+| die Kommode                           | commode, chest of drawers       |
+| Sessel                                | chair                           |
+| Pfote                                 | paw                             |
+| Hemd                                  | shirt                           |
+| Meinung                               | opinion                         |
+| gefährlich                            | dangerous                       |
+| äußern                                | express                         |
+| blöd                                  | stupid                          |
+| verschieden                           | different                       |
+| ärgern                                | annoy, irritate                 |
+| das Portemonnaie                      | wallet                          |
+| der Radiergummi                       | eraser                          |
+| die Messe                             | fair                            |
+| der Koffer                            | suitcase                        |
+| der Führer                            | guide                           |
+| Rabatt                                | discount                        |
+| erreichen                             | reach, achieve                  |
+| Jacke                                 | jacket                          |
+
+### Wendungen
+
+Rückkehr nach Hause  
+go home
+
+stolz auf sein  
+be proud of
+
+Süßes sonst gibt's Saures!  
+trick or treat
 
 Hinten ist ein Stift.  
 Hinter dem Stuhl ist ein Stift.
@@ -180,6 +351,59 @@ Zu meiner Familie gehören zwei Teile. Meine Großeltern wohnen jetzt in der Hei
 
 ### Wörter
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| Ankunft | arrival  |
+| Deutsch                       | Bedeutung            |
+| ----------------------------- | -------------------- |
+| die Ankunft                   | arrival              |
+| der Senior, en                | senior(s)            |
+| der/die Erwachsene            | adult, grown-up      |
+| die Ermäßigung                | discount             |
+| einschließlich                | including            |
+| der Keks, -e                  | biscuit(s)           |
+| der/die Reisende              | traveller            |
+| übernachten                   | stay overnight       |
+| die Rente                     | pension, retirement  |
+| der Schein                    | light, certificate   |
+| das Gleis                     | platform             |
+| dürfen                        | be allowed to, may   |
+| wechseln                      | change, exchange     |
+| bestellen                     | order, reserve       |
+| wahrscheinlich                | vielleicht           |
+| die Ameise                    | ant                  |
+| das Bein                      | leg                  |
+| verzichten                    | renounce             |
+| senkrecht                     | vertical             |
+| aussteigen                    | get off              |
+| die Treppe                    | stairs               |
+| ausmachen                     | turn off             |
+| das Heimwerken                | DIY                  |
+| das Geräusch                  | sound / quiet noise  |
+| das Schach                    | chess                |
+| der Schirm                    | umbrella             |
+| vermuten                      | guess                |
+| im Schnitt                    | average              |
+| vorbereiten, die Vorbereitung | prepare, preparation |
+| abnehmen                      | lose weight          |
+| fit halten                    | keep fit             |
+| merken                        | notice, realize      |
+| entdecken                     | discover, find out   |
+| entspannen                    | relax                |
+| decken                        | cover                |
+| spannen                       | tighten              |
+| besorgen                      | get, provide         |
+| ziemlich                      | quite                |
+| der Schauspieler              | actor                |
+| treiben                       | do                   |
+| die Zeitschrift               | magazine             |
+| der Roman                     | novel                |
+| bedeuten                      | mean                 |
+| strecken                      | stretch, extend      |
+| der Verband                   | association          |
+| der Körper                    | body                 |
+| Gegenstand                    | object               |
+| Taucherbrille                 | goggles              |
+| Querflöte                     | flute                |
+| Schläger                      | racket               |
+| informieren                   | inform               |
+| Erholung                      | recreation           |
+| ausschlafen                   | sleep late           |
+| ausruhen                      | rest, relax          |

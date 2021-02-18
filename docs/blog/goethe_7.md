@@ -102,48 +102,50 @@ Ich musste nicht. / Leider ja.
 
 ### Wörter
 
-| Deutsch                     | Englisch           |
-| --------------------------- | ------------------ |
-| variieren                   | vary               |
-| sperren                     | lock, block, close |
-| aufführen                   | perform music      |
-| europäisch                  | European           |
-| haltbar                     | durable            |
-| berühmt                     | famous, popular    |
-| sogar                       | even               |
-| neugierig                   | curious            |
-| billig/günstig/preisgünstig | cheap              |
-| der Tod                     | death              |
-| der Rang                    | rank               |
-| der Bürger                  | citizen            |
-| das Denkmal                 | monument, memorial |
-| die Haltesteller            | (bus, tram) stop   |
-| die Fahne                   | flag               |
-| die Strecke                 | route              |
-| die Ermäßigung              | discount           |
-| die Lesung                  | reading            |
-| die Bühne                   | stage              |
-| arm                         | poor               |
-| reich                       | rich               |
-| faul                        | lazy               |
-| fleißig                     | diligent           |
-| der Anwalt                  | lawyer             |
-| das Gedicht                 | poem               |
-| der Schriftsteller          | writer, author     |
-| verloben                    | get engaged        |
-| bewundern                   | admire             |
-| tot                         | dead               |
-| sich kümmern                | look after         |
-| verfassen                   | schreiben          |
-| erforschen                  | explore, research  |
-| das Recht, das Jura         | law                |
-| das Märchen                 | fairy tale         |
-| der Ratgeber                | advisor            |
-| eröffnen                    | open, inaugurate   |
-| erzählen                    | tell, narrate      |
-| erstellen                   | create             |
-| der Spruch, die Sprüche     | saying(s)          |
-| die Lektion                 | lesson             |
+| Deutsch                     | Englisch             |
+| --------------------------- | -------------------- |
+| variieren                   | vary                 |
+| sperren                     | lock, block, close   |
+| aufführen                   | perform music        |
+| europäisch                  | European             |
+| haltbar                     | durable              |
+| berühmt                     | famous, popular      |
+| sogar                       | even                 |
+| neugierig                   | curious              |
+| billig/günstig/preisgünstig | cheap                |
+| der Tod                     | death                |
+| der Rang                    | rank                 |
+| der Bürger                  | citizen              |
+| das Denkmal                 | monument, memorial   |
+| die Haltesteller            | (bus, tram) stop     |
+| die Fahne                   | flag                 |
+| die Strecke                 | route                |
+| die Ermäßigung              | discount             |
+| die Lesung                  | reading              |
+| die Bühne                   | stage                |
+| arm                         | poor                 |
+| reich                       | rich                 |
+| faul                        | lazy                 |
+| fleißig                     | diligent             |
+| der Anwalt                  | lawyer               |
+| das Gedicht                 | poem                 |
+| der Schriftsteller          | writer, author       |
+| verloben mit                | get engaged w/       |
+| bewundern                   | admire               |
+| tot                         | dead                 |
+| sich kümmern                | look after           |
+| verfassen                   | schreiben            |
+| erforschen                  | explore, research    |
+| das Recht, das Jura         | law                  |
+| das Märchen                 | fairy tale           |
+| der Ratgeber                | advisor              |
+| eröffnen                    | open, inaugurate     |
+| erzählen                    | tell, narrate        |
+| erstellen                   | create               |
+| der Spruch, die Sprüche     | saying(s)            |
+| die Lektion                 | lesson               |
+| feststehen                  | festliegen, 决定     |
+| der Vertreter               | representative, 代表 |
 
 ### lieben vs. verlieben
 
@@ -346,7 +348,7 @@ Heute ist hier N.
 | das Stück                     | slice, piece               |
 | betreten                      | enter, access              |
 | der Entdecker                 | explorer                   |
-| erfinden                      | to invent                  |
+| erfinden                      | invent                     |
 | der Redakteur                 | editor                     |
 | der Pfarrer                   | priest                     |
 | schaffen                      | create, accomplish         |

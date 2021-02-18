@@ -648,3 +648,79 @@ Wohin fahren Timo und Julia? Sie haben sich entschieden, nach München zu fahren
 | <d type="er" text="Schein"/>    | light         |
 | Es schneit.                     | It's snowing. |
 | Die Sonne scheint.              | It's sunny.   |
+
+## Weiter
+
+| übersetzen | translate |
+| Schiff | ship |
+| Quadrat | quarter |
+| Rathaus | town hall |
+| zeigen | show |
+| erteilen | give |
+| teilen | divide |
+| Tafel | board, bar |
+| werden | become |
+| Weise | way |
+| unterrichten | teach |
+| niedrig | short |
+| Dose | bowl |
+| Flasche | bottle |
+| Becher | cup |
+| Felsen | cliff |
+| benötigten | require |
+| Zahn | tooth |
+| Traum | dream (M) |
+| Gefängnis | prison |
+| Veranstaltung | event |
+| bald | soon |
+| zusagen |accept, agree to |
+| absagen |cancel, call off |
+| Bescheid | notice |
+| Wissenschaft | science |
+| vermessen | measure |
+| Ladegerät | charger |
+| bewerten | evaluate, judge |
+| werten | grade, classify |
+| riechen | smell |
+| Gepäck | luggage, baggage |
+| vorbei | past by |
+| günstig | cheap, favorable |
+| bequem | comfortable |
+| Aufzug | lift, elevator |
+| melden | report |
+| lustig | funny |
+| genug | enough |
+| gespannt | curious, eager |
+| begeistert | excited |
+| schaffen | create, manage |
+| vergessen | forget |
+| genießen | enjoy |
+| drücken | press |
+| ausdrücken | express, say |
+| anbieten | offer; provide; supply |
+| annehmen | accept, assume |
+| der Glückwunsch | congratulations |
+|der Durchschnitt | average |
+| der Fortschritt | progress |
+| die Zutat | ingredient |
+| die Gelegnheit | opportunity |
+| licht | bright, light |
+| draußen | outside |
+| Herbst | autumn |
+| erziehen | educate, nurture |
+| ernst | serious, earnest |
+| schlank | slim |
+| klug | clever |
+| dick | thick, fat |
+| verreisen | travel |
+| verschwenden | waste |
+| dumm | dumb |
+| malen | paint, draw |
+| sonstig | other |
+| Sicherheit | safety; security |
+| Fachschaft | student body |
+| Bau | building, construction |
+| Unwelt | environment |
+| Vermessung | measurement |
+| Insel | island |
+| Affe | monkey |
