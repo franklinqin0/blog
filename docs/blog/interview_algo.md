@@ -191,16 +191,24 @@ Algorithm:
 - move the pivot to its final place, and return this index
 
 ```py
-def partition(arr, left, right) -> int:
-    pivot = arr[r]
-    i = left
-    for j in range(left, right):
-        if arr[j] <= pivot:
-            arr[i], arr[j] = arr[j], arr[i]
-            i += 1
+def partition(arr, left, right):
+    pivot_idx = randint(left, right)
+    pivot = arr[pivot_idx]
 
-    arr[i], arr[right] = arr[right], arr[i]
-    return i
+    # move pivot to end
+    nums[right], nums[pivot_idx] = nums[pivot_idx], nums[right]
+    store_idx = left
+
+    # move more close elements to the left
+    for i in range(left, right):
+        if arr[i] < pivot:
+            nums[i], nums[store_idx] = nums[store_idx], nums[i]
+            store_idx += 1
+
+    # move pivot to its final place
+    nums[right], nums[store_idx] = nums[store_idx], nums[right]
+
+    return store_idx
 ```
 
 #### Hoare Partition
@@ -275,6 +283,8 @@ def quickSelect(arr, left, right, k):
     else:
         return quickSelect(arr, pivot_idx+1, right, k)
 ```
+
+See a well implemented `quickSelect` [here](https://www.techiedelight.com/quickselect-algorithm).
 
 ### Selection Sort
 

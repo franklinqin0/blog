@@ -464,6 +464,8 @@ Make yourself at home.
 | geschehen                | passieren                      |
 | äußern                   | express                        |
 | nachschenken             | top up                         |
+| tatsächlich              | actually                       |
+| vorzeitig                | premature                      |
 | erfreut                  | pleased                        |
 | die Kleinigkeit          | trifle                         |
 | meinerseits              | for my part                    |
@@ -471,6 +473,7 @@ Make yourself at home.
 | klappen                  | work                           |
 | die Pfanne               | pan                            |
 | das Besteck              | cutlery                        |
+| würzen                   | season                         |
 | nachwürzen               | add some seasoning             |
 | der Schoß                | lap 大腿                       |
 | der Schweiß, schwitzen   | sweat                          |
@@ -573,3 +576,12 @@ jm. danken
 
 Falls Sie das Essen bereits beendet haben, legen Sie die Serviette neben den Teller.  
 Legen Sie die Serviette neben den Teller, falls Sie das Essen bereits beendet haben.
+
+???
+
+### Einladung
+
+::: Halboffizielle Einladungen von Gastgeber
+Herzlich willkommen, Frau/Herr $\cdots$! kommen Sie rein. Schön, dass es geklappt hat.  
+Darf
+:::

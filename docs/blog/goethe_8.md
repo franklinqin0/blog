@@ -107,6 +107,9 @@ gehen ins/zum Krankenhaus
 im Restaurant essen  
 zum Restaurant gehen
 
+Schöne Feiertage!  
+Feiert gut!
+
 ### Redemittel
 
 Wann feiert man Valentinstag? $\rightarrow$ am 14. Februar  

@@ -159,7 +159,7 @@ Die Umfrage wird zu dem Thema des Anteils der in Großstädten lebenden Personen
 | eignen          | suit                 |
 | geeignet        | suitable             |
 | die Abwechslung | variety, distraction |
-| bloß            | only (Konjunktiv II) |
+| bloß, doch      | nur (Konjunktiv II)  |
 | entsprechen     | correspond to        |
 | gleichzeitig    | simultaneous(ly)     |
 | schreinern      | make                 |
@@ -353,7 +353,13 @@ I wish I had done it differently.
 | schieflaufen                                    | go wrong                               |
 | gelingen                                        | succeed                                |
 | gelungen                                        | successful                             |
-| zornig                                          | furious                                |
+| zornig                                          | verärgert, sauer                       |
+| zickzack                                        | zigzag                                 |
+| von D. begeistert sein                          | enthusiastic                           |
+| die Notlüge                                     | white lie                              |
+| zufällig                                        | accidental                             |
+| der Geschmack                                   | taste 品味                             |
+| heimlich                                        | secret(ly)                             |
 
 ### Wendungen
 
@@ -372,6 +378,22 @@ Energie tanken
 etwas essen
 
 an der Tankstelle tanken
+
+Sie ist krank, sogar schwer krank.  
+She is ill, in fact/indeed seriously ill.
+
+Jeder hat eigenen Geschmack.  
+Das ist Geschmackssache.
+
+男/女性普通朋友  
+eine Freundin/ein Freund von mir  
+mein guter/bester Freund  
+meine gute/beste Freundin
+
+男/女朋友  
+mein Bekannte  
+mein Freund  
+meine Freundin
 
 sich die Zeit vertreiben  
 Zeit totschlagen  
@@ -427,3 +449,55 @@ Alles im Leben hat einen Sinn.
 Man weiß nie, ob es nicht sogar besser ist, wie es ist.  
 Vielleicht klappt es ja ein anderes Mal.  
 Aber da kann man wohl nichts mehr machen.
+
+Als ich dort ankam, war niemand da.  
+When I got there, no one was there.
+
+Alles im Leben hat einen Sinn.  
+Everything in life has a meaning.
+
+::: tip Vielleicht war es besser so.
+M: Gestern war ich bei meinem Freund Tom eingeladen. Als ich dort ankam, war niemand da. Das war vielleicht blöd!  
+F: Oh, das ist ja wirklich schade.  
+M: Ja. Ich habe dann noch einmal auf die Einladung geschaut und gesehen, dass die Party schon am Tag davor war. Ich habe mich so über mich geärgert!  
+F: Oh je, das ist ja total ärgerlich.  
+M: Stimmt. Hätte ich doch früher nachgesehen, wann genau das Fest stattfindet. Dann wäre mir das nicht passiert.  
+F: Na ja, da kann man wohl nichts mehr machen. Dann klappt es bestimmt beim nächsten Mal.  
+M: Ja. Und weißt du, was ich gehört habe? das ist echt nicht zu glauben! Plötzlich stand die Polizei vor Thoms Haus. Die Nachbarn hatten sie gerufen, weil es so laut war. Es gab richtig Ärger.  
+F: Oh je. Das ist für deinen Freund ja wirklich dumm gelaufen.  
+M: Ja. Vielleicht war es für mich sogar besser, dass ich nicht dabei war. Toms Nachbarn sind nämlich die besten Freunde meiner Eltern.  
+F: Genau. Alles im Leben hat einen Sinn.
+:::
+
+Wäre ich bloß schneller zur Bushaltestelle gelaufen!
+
+Wenn ich schneller zur Bushaltestelle gelaufen wäre, hätte ich den Bus nicht verpasst.
+
+Wäre ich schneller zur Bushaltestelle gelaufen, hätte ich den Bus nicht verpasst.
+
+## Lektion 11 - ???
+
+### Wörter
+
+| jubeln | cheer |
+| das Turnier | tournament |
+| durchschlafen | sleep thru, w/o waking |
+| die Finsternis | darkness, eclipse |
+| die Sonnenfinsternis | solar eclipse |
+| Sternenhimmel | starry sky 星空 |
+| anlächeln | smile at |
+| der Pilz | fungus |
+| vergangen | past, former |
+| empfinden | feel |
+| rennen | run |
+| erfüllen, die Erfülung | fulfill(ment) |
+| schieben | push |
+| platt | flat |
+| der Reifen | tyre |
+| entlang | along |
+
+Was würde dich glücklich machen?
+
+- durchschlafen
+- Turnier gewinnen
+- viele

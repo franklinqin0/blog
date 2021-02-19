@@ -425,7 +425,7 @@ Franklin
 - kochen
 - den Tisch decken
 
-### Partizip (participle, 分词)
+### Partizip II (participle, 分词)
 
 #### z.B.
 
@@ -447,7 +447,7 @@ Franklin
 - trainieren $\rightarrow$ trainiert
 - telefonieren $\rightarrow$ telefoniert
 
-| Verb         | Partizip       |
+| Verb         | Partizip II    |
 | ------------ | -------------- |
 | gehen        | gegangen       |
 | geben        | gegeben        |
@@ -470,6 +470,7 @@ Franklin
 | einkaufen    | eingekauft     |
 | mitbringen   | mitgebracht    |
 | entscheiden  | entschieden    |
+| erhalten     | erhalten       |
 
 #### Perfekt mit <d type="impt" text="sein"/>
 

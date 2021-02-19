@@ -26,7 +26,7 @@ Deutsch Notizen für das Goethe Institut - A2 drei
 | vollmöbliert            | fully furnished           |
 | die Lage                | position                  |
 | abstellen               | park                      |
-| nämlich                 | namely                    |
+| nämlich                 | namely, actually          |
 | betragen                | be                        |
 | der Stellplatz          | parking space             |
 | vermieten               | rent                      |
@@ -196,12 +196,12 @@ Früher hatte Anette Rudolph ein kleines Auto. Heute fährt sie ein großes Auto
 Was möchtest du in Weimar besuchen?  
 Ich bin neugierig auf ...
 
-### Verben im Perfekt
+### Partizip Perfekt
 
 ::: theorem
 Zustandsänderung 位置/状态改变: sein, 一般用 haben  
 现在分词规则变化：-t, 不规则变化：-en  
-原型重音在后（如 be-, ver-, ent-, -ieren），不加 ge-
+原型重音在后（如 be-, er-, ver-, ent-, -ieren），不加 ge-
 :::
 
 | Infinitiv   | Perfekt (ich)     |

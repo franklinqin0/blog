@@ -6,7 +6,7 @@ tags:
   - Hash Map
 ---
 
-<img class="medium-zoom" src="/algo/top-k-frequent-elements.png" alt="https://www.lintcode.com/problem/top-k-frequent-elements">
+<img class="medium-zoom" src="/algo/top-k-frequent-elements.png" alt="https://www.leetcode.com/problems/top-k-frequent-elements">
 
 ## Solution
 
