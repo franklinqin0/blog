@@ -245,7 +245,7 @@ def partition(arr, left, right) -> int:
 ### Quick Sort
 
 ```py
-def qsort(arr, left, right):
+def quickSort(arr, left, right):
 """Quick Sort: Sorts the array arr[left..right] in n log n average time."""
     # base case
     if left >= right:
@@ -254,10 +254,12 @@ def qsort(arr, left, right):
     # arr[left..pivot-1] <= arr[pivot] <= arr[pivot+1..right]
     pivot = partition(arr, left, right)
     # sort arr[left..pivot-1]
-    qsort(arr, left, j-1)
+    quickSort(arr, left, j-1)
     # sort arr[pivot+1..right]
-    qsort(arr, j+1, right)
+    quickSort(arr, j+1, right)
 ```
+
+See a well implemented `quickSort` [here](https://www.techiedelight.com/quick-sort-using-hoares-partitioning-scheme/).
 
 ### Quick Select
 
