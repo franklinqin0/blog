@@ -259,7 +259,7 @@ def quickSort(arr, left, right):
     quickSort(arr, j+1, right)
 ```
 
-See a well implemented `quickSort` [here](https://www.techiedelight.com/quick-sort-using-hoares-partitioning-scheme/).
+See a well implemented `quickSort` [here](https://www.techiedelight.com/quick-sort-using-hoares-partitioning-scheme).
 
 ### Quick Select
 

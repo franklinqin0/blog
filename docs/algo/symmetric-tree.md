@@ -22,7 +22,7 @@ class TreeNode:
 
 ## Solution
 
-Both solutions take linear time and space.
+Both solutions take **linear** time and space.
 
 ### Recursion
 

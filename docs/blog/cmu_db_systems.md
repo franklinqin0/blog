@@ -238,7 +238,7 @@ Significance:
 ### Super Key
 
 - any set of attributes in a relation that functionally determines all attributes in the relation
-- set of attributes where no distinct tuples have the same values for these attributes
+- a set of attributes where no distinct tuples have the same values for these attributes
 - a set of attributes that uniquely identifies a tuple
 
 Significance:
@@ -252,7 +252,7 @@ Significance:
 - set of attributes that uniquely identifies a tuple according to a key constraint
 - a minimal set of attributes that uniquely identifies a tuple
 
-$\rightarrow$ a candidate key is a super key, but not all super keys are candidates
+$\rightarrow$ a candidate key is a super key, but not all super keys are candidate keys
 
 ### Primary Key
 
@@ -291,7 +291,7 @@ Test whether the decomposition $R = {R_1, \cdots, R_n}$ preserves the FD set $F$
 
 ### Redundancy Avoidance
 
-No repeated attributes in tuples
+No repeated attributes in tuples.
 
 Goals for design of the logical scheme:
 
@@ -302,5 +302,49 @@ Goals for design of the logical scheme:
 [Denormalization vs. Normal Form](http://www.ayqy.net/blog/database-denormalization)
 
 ## Normal Forms
+
+A normal form is a characterization of a decomposition in terms of the properties that satisfies when putting the relationas back together.  
+$\rightarrow$ also called the "universal relation".
+
+### 1st Normal Form (1NF)
+
+- all types must be atomic (no arrays)
+- no repeating groups.
+
+### 2nd Normal Form (2NF)
+
+- 1NF
+- any non-key attributes fully depend on the candidate key
+
+If the proper subset of candidate key determines non-prime attribute, it is called partial dependency.
+
+If a partial dependency exists, we remove the partially dependent attribute(s) from the relation by placing them in a new relation along with a copy of their determinant.
+
+### 3rd Normal Form (3NF)
+
+A relation is in 3NF if **at least one** of the following condition holds in every non-trivial function dependency $X \rightarrow Y$:
+
+- $X$ is a super key
+- each element of $Y$ is part of some candidate key
+
+Property:
+
+- always preserves dependencies (unlike BCNF) but may have some anomalies
+
+In other words, a relation is in 3NF if it is in 1NF and 2NF and in which no non-primary-key attribute is transitively dependent on the primary key.
+
+### Boyce-Codd Normal Form (BCNF)
+
+Definition:
+
+- every determinant is a super key
+
+Property:
+
+- no redundancies and no lossless joins
+- some BCNF decompositions may lose dependencies when decomposed relations are joined back together
+
+A relation $R$ w/ FD set $F$ is in BCNF if for all non-trivial $X \rightarrow Y$ in $F+$:  
+$X \rightarrow R$ (i.e. $X$ is a super key)
 
 ## NoSQL Denormalization

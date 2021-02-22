@@ -38,7 +38,7 @@ Deutsch Notizen für das Goethe Institut - B1.1 zwei
 | der Hamster               | hamster                                                 |
 | die Schlange              | snake                                                   |
 | streicheln                | caress                                                  |
-| fressen                   | eat, feed                                               |
+| fressen                   | eat                                                     |
 | der (Wasser-/Futter-)Napf | bowl (for animal)                                       |
 | die Schüssel              | bowl (for human)                                        |
 | der Teller                | plate                                                   |
@@ -48,13 +48,12 @@ Deutsch Notizen für das Goethe Institut - B1.1 zwei
 | der Goldfisch             | goldfish                                                |
 | das Pferd                 | horse                                                   |
 | streicheln                | caress                                                  |
-| bürsten                   | brush                                                   |
 | das Kaninchen / der Hase  | rabbit                                                  |
 | das Gehege / der Käfig    | cage                                                    |
 | der Unterschlupf          | shelter                                                 |
 | die Bürste, bürsten       | brush                                                   |
 | das Futter, füttern       | feed                                                    |
-| das Fell                  | dicht behaarte Haut, thick hairy skin                   |
+| das Fell                  | fur                                                     |
 | das Heu                   | hay                                                     |
 | die Tierhandlung          | Geschäft, in dem meist kleinere Tiere verkauft werden   |
 | das Tierheim              | Heim für herrenlose Kleintiere, besonders Hunde, Katzen |
@@ -77,6 +76,7 @@ infrage kommen
 be possible
 
 Ich gucke nur.
+I'm just looking.
 
 Das passt zu mir.
 
@@ -479,22 +479,25 @@ Wäre ich schneller zur Bushaltestelle gelaufen, hätte ich den Bus nicht verpas
 
 ### Wörter
 
-| jubeln | cheer |
-| das Turnier | tournament |
-| durchschlafen | sleep thru, w/o waking |
-| die Finsternis | darkness, eclipse |
-| die Sonnenfinsternis | solar eclipse |
-| Sternenhimmel | starry sky 星空 |
-| anlächeln | smile at |
-| der Pilz | fungus |
-| vergangen | past, former |
-| empfinden | feel |
-| rennen | run |
-| erfüllen, die Erfülung | fulfill(ment) |
-| schieben | push |
-| platt | flat |
-| der Reifen | tyre |
-| entlang | along |
+| Deutsch                | Bedeutung              |
+| ---------------------- | ---------------------- |
+| jubeln                 | cheer                  |
+| das Turnier            | tournament             |
+| durchschlafen          | sleep thru, w/o waking |
+| die Finsternis         | darkness, eclipse      |
+| die Sonnenfinsternis   | solar eclipse          |
+| Sternenhimmel          | starry sky 星空        |
+| anlächeln              | smile at               |
+| der Pilz               | fungus                 |
+| vergangen              | past, former           |
+| empfinden              | feel                   |
+| rennen                 | run                    |
+| erfüllen, die Erfülung | fulfill(ment)          |
+| schieben               | push                   |
+| platt                  | flat                   |
+| der Reifen             | tyre                   |
+| entlang                | along                  |
+| unterscheiden          | distinguish            |
 
 Was würde dich glücklich machen?
 

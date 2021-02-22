@@ -220,7 +220,7 @@ Mir ist egal.
 
 Die Menschen glauben fest an das, was sie wünschen.
 
-## Schreibaufgabe
+### Schreibaufgabe
 
 ::: tip
 Ich bin nicht gern in die Schule gegangen, aber in der Freizeit las ich viel und spiele oft Geige, weil die klassische Musik mich beruhigen konnte. Als ich 13 Jahre alt war, wohnte ich in meiner eigenen Wohnung. Ich bin Einzelkind und habe keine Geschwister, aber ich hatte viele Freunde vom Sport. Um ehrlich zu sein, kannte ich meine erste Liebe vom Tischtennis, aber am Ende hat die romantische Beziehung nicht geklappt. Jetzt habe ich Angst vor meinem schlechten Deutsch, denn ich werde im April nach Deutschland für Masterstudium gehen.
@@ -376,6 +376,22 @@ Ich kaufe den Pullover, obwohl er mir nicht richtig passt, weil er mir sehr gut 
 
 so seltsam es klingen mag  
 strange to say
+
+### Schreibaufgabe
+
+::: tip Reklamation
+Sehr geehrte Damen und Herren,
+
+vor vier Wochen habe ich eine neue Zeitung abonniert. Obwohl ich zwei E-Mails geschickt habe, habe ich immer noch keine Ausgabe erhalten. Das ist wirklich sehr ärgerlich.
+
+Ich möchte Sie auffordern, dass Sie mir ab sofort wieder die Zeitung senden. Wenn ich bis nächste Woche keine Zeitung bekomme oder nichts von Ihnen höre, bezahle ich ich mein Abonnement selbstverständlich nicht mehr.
+
+Ich muss Ihnen leider sagen, dass Ihr Service mich sehr enttäuscht hat.
+
+Mit freundlichen Grüßen
+
+Franklin Qin
+:::
 
 ## Lektion 5 - Medien und Technik
 
