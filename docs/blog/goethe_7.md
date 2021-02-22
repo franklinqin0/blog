@@ -98,6 +98,8 @@ immer ein _t_
 Musstet du mit 3 Jahren in den Kindergarten gehen?  
 Ich musste nicht. / Leider ja.
 
+den Raum reinigen
+
 ## Einheit 8 - Kultur erleben
 
 ### Wörter

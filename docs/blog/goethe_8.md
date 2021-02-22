@@ -248,7 +248,7 @@ der Horrorfilm
 die Tragödie  
 die Tragiekomödie
 
-### Phrasen
+### Wendungen
 
 Du fehlst mir.  
 I miss you.

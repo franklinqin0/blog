@@ -196,17 +196,17 @@ def partition(arr, left, right):
     pivot = arr[pivot_idx]
 
     # move pivot to end
-    nums[right], nums[pivot_idx] = nums[pivot_idx], nums[right]
+    arr[right], arr[pivot_idx] = arr[pivot_idx], arr[right]
     store_idx = left
 
     # move more close elements to the left
     for i in range(left, right):
         if arr[i] < pivot:
-            nums[i], nums[store_idx] = nums[store_idx], nums[i]
+            arr[i], arr[store_idx] = arr[store_idx], arr[i]
             store_idx += 1
 
     # move pivot to its final place
-    nums[right], nums[store_idx] = nums[store_idx], nums[right]
+    arr[right], arr[store_idx] = arr[store_idx], arr[right]
 
     return store_idx
 ```
@@ -350,19 +350,36 @@ def _push_down(arr, k):
 
 ## Morris Traversal
 
-[Algorithm](https://stackoverflow.com/a/5506601/6421652):
+[Morris Traversal Using Threaded Tree for Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/148939/CPP-Morris-Traversal)
 
-- Initialize current as root
-- While current is not NULL
-  - If current does not have left child
-    1. Add current’s value
-    2. Go to the right, i.e., current = current.right
-  - Else
-    1. In current's left subtree, make current the right child of the rightmost node
-    2. Go to this left child, i.e., current = current.left
+[Fantastic Algorithms and Where To Find Them](https://youtu.be/YA-nB2wjVcI)
 
-```py
+```py {12,18}
+def morrisTraversal(self, root: TreeNode) -> List[int]:
+    res = []
+    pre = None
 
+    while root:
+        if root.left:
+            pre = root.left
+            while pre.right and pre.right != root:
+                pre = pre.right
+
+            if not pre.right:
+                # res.append(root.val) # PREORDER
+                # `pre.right` points to root
+                pre.right = root
+                # traverse left subtree
+                root = root.left
+            else: # left subtree is done traversing
+                res.append(root.val) # INORDER
+                # cut connection
+                pre.right = None
+                root = root.right
+        else:
+            res.append(root.val)
+            root = root.right
+    return res
 ```
 
 ## Rabin Karp (RK) Algorithm

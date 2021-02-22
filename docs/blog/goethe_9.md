@@ -114,7 +114,7 @@ Ich mag Pasta **ebenso wie** Reis. I like pasta as well as rice.
 ???
 | ++ | + | - | -- |
 | ---------------------------- | -------- | -------- | ---------------------------- |
-| wahnsinnig<br>total<br> echt | ziemlich | nicht so | überhaupt nicht<br>gar nicht |
+| wahnsinnig<br>total<br>echt | ziemlich<br>super<br>wirklich | nicht so | überhaupt nicht<br>gar nicht |
 
 Auf dich!
 Auf die Uni!
@@ -480,7 +480,7 @@ Make yourself at home.
 | geschehen                | passieren                      |
 | äußern                   | express                        |
 | nachschenken             | top up                         |
-| tatsächlich              | actually                       |
+| tatsächlich              | actual(ly)                     |
 | vorzeitig                | premature                      |
 | erfreut                  | pleased                        |
 | die Kleinigkeit          | trifle                         |

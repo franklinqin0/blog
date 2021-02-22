@@ -76,7 +76,7 @@ Ich wohne lieber {in der Stadt / auf dem Land}, weil es Gute Angebote und mehr F
 | ausziehen                      | take off clothes             |
 | umziehen                       | change clothes               |
 | abtrocknen                     | dry                          |
-| kämmen                         | comb one's hair              |
+| sich kämmen                    | comb one's hair              |
 | verabreden                     | arrange, make an appointment |
 | aufregen                       | annoy, get excited           |
 | Amt                            | office                       |

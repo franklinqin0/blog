@@ -498,9 +498,74 @@ Wäre ich schneller zur Bushaltestelle gelaufen, hätte ich den Bus nicht verpas
 | der Reifen             | tyre                   |
 | entlang                | along                  |
 | unterscheiden          | distinguish            |
+| Aufstieg und Untergang | rise and fall          |
+| nachdem                | after, since           |
+| scheußlich             | dreadful(ly)           |
+| frieren                | feel cold              |
+| außer Betrieb          | funktioniert nicht     |
+| zustätzlich            | additional             |
+
+### Wendungen
 
 Was würde dich glücklich machen?
 
 - durchschlafen
 - Turnier gewinnen
-- viele
+- viele Pilze finden
+- Doktorarbeit abgeben
+- Hilfe erhalten
+- Sonnenfinsternis sehen
+- Sternenhimmel sehen
+- angelächelt werden
+- Marathon laufen
+- volljährig werden
+- feste Stelle erhalten
+- Sonne genießen
+- Geschwister bekommen
+
+### Plusquamperfekt mit haben/sein
+
+::: theorem Nachdem & Plusquamperfekt
+Das **Plusquamperfekt** bildet man mit **waren/hatten + Partizip II**. **Nachdem**-Satz ist ein **Nebensatz**. Wenn es im Nebensatz **Plusquamperfekt** ist, dann ist es im Hauptsatz **Perfekt oder Präteritum**; wenn im Nebensatz **Perfekt oder Präteritum** ist, dann ist es im Hauptsatz **Präsens**.
+:::
+
+Nachdem mir mein Chef das erzählt hatte, rannte ich laut singend nach Hause.  
+Nachdem ich die Hoffnung schon lange aufgegeben hatte, teilte meine Mutter mir vor drei Monaten plötzlich mit: Dein Wunsch geht in Erfülung.  
+Nachdem ich fast drei Jahre an meiner Doktorarbeit gesessen hatte, habe ich sie an diesem Tag in der Uni abgegeben.  
+Nachdem wir eine Pause gemacht hatten, hat Vivian ein Lied gesungen.  
+Nachdem Vivian ein Lied gesungen hat, machen wir im Buch weiter.
+
+jn. zu D. einladen  
+Die Firma hat mich zu einem Gespräch eingeladen.
+
+sich bewerben bei D. um A.  
+Ich habe mich vor 10 Jahren beim Goethe Institut um eine Arbeitstelle beworben.
+
+### Gewohnheiten
+
+- zuerst
+- dann
+- danach
+- anschließend
+- schließlich
+
+Nachdem ich genug Musik gehört habe, fange ich wirklich an, denn bald kommt meine Mittagspause.
+
+## Lektion 12 - ???
+
+### Wörter
+
+| Deutsch                 | Bedeutung         |
+| ----------------------- | ----------------- |
+| der Betriebsausflug     |
+| das Jubiläum            |
+| der Einstand            |
+| der Ausstand            |
+| die Versammlung         | meeting, assembly |
+| die Betriebsversammlung |
+| die Weihnachtsfeier     |
+| das Sommerfest          |
+| die Floßfahrt           | voyage by raft    |
+
+außer + D. 除了  
+Außer einem kleinen weihnachtlichen Buffet gibt es ein Konzert von unserem Betriebschor. Ich freue mich auf ein paar gemütliche Stunden und wünsche Ihnen eine schöne Adventszeit im Kreis Ihrer Angehörigen und Freunde.

@@ -1,13 +1,12 @@
 ---
-title: Binary Tree Inorder Traversal
+title: Binary Tree Preorder Traversal
 diff: medium
 tags:
-  - Hash Table
   - Stack
   - Tree
 ---
 
-<img class="medium-zoom" src="/algo/binary-tree-inorder-traversal.png" alt="https://leetcode.com/problems/binary-tree-inorder-traversal">
+<img class="medium-zoom" src="/algo/binary-tree-preorder-traversal.png" alt="https://leetcode.com/problems/binary-tree-preorder-traversal">
 
 ## Definition for a Binary Tree Node
 
@@ -31,26 +30,16 @@ space: $O(n)$
 :::
 
 ```py
-def inorderTraversal(self, root: TreeNode) -> List[int]:
+def preorderTraversal(self, root: TreeNode) -> List[int]:
     res = []
-    def inorder(node: TreeNode):
+    def preorder(node: TreeNode):
         if not node: return
-        inorder(node.left)
         res.append(node.val)
-        inorder(node.right)
+        preorder(node.left)
+        preorder(node.right)
 
-    inorder(root)
+    preorder(root)
     return res
-```
-
-or even simpler:
-
-```py
-def inorderTraversal(self, root: TreeNode) -> List[int]:
-    def inorder(root: TreeNode):
-        return inorder(root.left) + [root.val] + inorder(root.right) if root else []
-
-    return inorder(root)
 ```
 
 ## Follow Up
@@ -65,17 +54,17 @@ space: $O(n)$
 :::
 
 ```py
-def inorderTraversal(self, root: TreeNode) -> List[int]:
+def preorderTraversal(self, root: TreeNode) -> List[int]:
     res = []
-    stack = []
-    curr = root
-    while stack or curr:
-        while curr:
-            stack.append(curr)
-            curr = curr.left
+    stack = [root]
+
+    while stack:
         curr = stack.pop()
-        res.append(curr.val)
-        curr = curr.right
+        if curr:
+            res.append(curr.val)
+            stack.append(curr.right)
+            stack.append(curr.left)
+
     return res
 ```
 
@@ -87,7 +76,7 @@ space: $O(1)$
 :::
 
 ```py
-def inorderTraversal(self, root: TreeNode) -> List[int]:
+def preorderTraversal(self, root: TreeNode) -> List[int]:
     res = []
     pre = None
 
@@ -98,12 +87,12 @@ def inorderTraversal(self, root: TreeNode) -> List[int]:
                 pre = pre.right
 
             if not pre.right:
+                res.append(root.val)
                 # `pre.right` points to root
                 pre.right = root
                 # traverse left subtree
                 root = root.left
             else: # left subtree is done traversing
-                res.append(root.val)
                 # cut connection
                 pre.right = None
                 root = root.right

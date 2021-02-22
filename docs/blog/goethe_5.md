@@ -25,7 +25,7 @@ Deutsch Notizen für das Goethe Institut - A2 eins
 | lauten                  | pronounce              |
 | erinnern                | remember               |
 | verdienen               | earn                   |
-| segeln                  | sail                   |
+| segeln, das Segel       | sail                   |
 | vorstellen              | introduce              |
 | zurückgehen             | go back                |
 | wenig                   | little                 |
@@ -213,8 +213,8 @@ Ich trinke mehr Wasser.
 | abschließen, Abschluss, abgeschlossen | complete, conclusion, completed |
 | umziehen, umgezogen                   | move, moved                     |
 | süß                                   | sweet                           |
-| Verhalten                             | behaviour                       |
-| Fluss                                 | river                           |
+| das Verhalten                         | behaviour                       |
+| der Fluss                             | river                           |
 | lebend                                | alive, living                   |
 | entwerfen, entworfen                  | design, designed                |
 | wiegen                                | weigh                           |
