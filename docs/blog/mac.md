@@ -39,19 +39,23 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 
 ### German Key Combs
 
-Happy ending? Not yet! I recently started [learning German](goethe) and had to find some workaround to type chars and symbols such as `ä`, `ö`, `ü`, `ß`, `„` and `”`.
+Happy ending? Not yet! I recently started learning German and had to find some workaround to type the following chars and symbols (using US keyboard layout).
 
-These are the ways to type them on my mac:
+The German letters:
 
 - `ä`: `Option u` + `a`
 - `ö`: `Option u` + `o`
 - `ü`: `Option u` + `u`
 - `ß`: `Option s`
 
-and the lower and upper quotes:
+The lower and upper quotes:
 
 - `„`: `Option Shift w`
 - `”`: `Option Shift [`
+
+The Euro symbol:
+
+- `€`: `Option Shift 2`
 
 Note that I actually searched online and saw other key combs, but don't work.
 

@@ -73,7 +73,7 @@ class Solution:
 Time complexity of getPredecessor and getSuccessor is amortized O(1) because it's just part of the inorder traversal. If it's O(logn), the your inorder traversal is O(nlogn).
 
 ::: theorem Complexity
-time: $O(n)$, $O(n\log n)$ in the worst case (`getPredecessor` and `getSuccessor` take amortized $O(1)$ but worst time is $O(\log n)$)  
+time: $O(n)$ (worst case: $O(n\log n)$, `getPredecessor` and `getSuccessor` take amortized $O(1)$ but worst time is $O(\log n)$)  
 space: $O(n)$
 :::
 

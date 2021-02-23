@@ -138,7 +138,6 @@ Ich komme aus China. Pünktlichkeit ist in China in der Arbeit und bei offiziell
 | <d type="er" text="Hocker"/>          | stool          |
 | <d type="er" text="Verstand"/>        | reason         |
 | <d type="er" text="Bewerber"/>        | applicant      |
-| <d type="er" text="Unfall"/>          | accident       |
 | <d type="ie" text="Anweisung"/>       | instruction    |
 | <d type="ie" text="Besprechung"/>     | meeting        |
 | <d type="ie" text="Einstellung"/>     | employment     |

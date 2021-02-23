@@ -17,7 +17,7 @@ related:
 
 ::: theorem Complexity
 time: $O(n\log n)$  
-space: $O(h)$ (worst case: $O(n)$)
+space: $O(h)$ (worst case: $O(n)$, traverse all nodes)
 :::
 
 ```py
@@ -26,7 +26,6 @@ def isBalanced(self, root: TreeNode) -> bool:
         if not root:
             return 0
         temp = 1 + max(depth(root.left), depth(root.right))
-        # print(root.val, temp)
         return temp
 
     def balanced(root) -> bool:
@@ -42,7 +41,7 @@ Return whether or not the tree at `root` is balanced while also returning the tr
 
 ::: theorem Complexity
 time: $O(n)$  
-space: $O(h)$ (worst case: $O(n)$)
+space: $O(h)$ (worst case: $O(n)$, traverse all nodes)
 :::
 
 ```py

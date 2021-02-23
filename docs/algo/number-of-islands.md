@@ -87,7 +87,7 @@ class Solution:
 
 ### Union Find
 
-See more at: [Union Find in Java](/blog/interview_algo.md#union-find)
+See more in [Interview Algorithms](/blog/interview_algo.md#union-find)
 
 ```py
 DIRECTIONS = [(1, 0), (-1, 0), (0, 1), (0, -1)]

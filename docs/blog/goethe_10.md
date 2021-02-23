@@ -1,11 +1,12 @@
 ---
-title: Deutsch Notizen - B1.1 zwei
+title: Menschen - B1.1 zwei
 date: 2021-02-03
 categories:
   - study
 tags:
   - Deutsch
 last: goethe_9
+next: goethe_10
 publish: false
 ---
 
@@ -13,7 +14,7 @@ Deutsch Notizen für das Goethe Institut - B1.1 zwei
 
 <!-- more -->
 
-## Lektion 7 - ???
+## Lektion 7 - Stärken und Schwächen
 
 ### Wörter
 
@@ -142,7 +143,7 @@ Das Thema der Statistik zeigt den Anteil von alleinlebenden Personen in Deutschl
 Die Umfrage wird zu dem Thema des Anteils der in Großstädten lebenden Personen durchgeführt. Die Großstädte bezeichnet man als die Städte mit 500.000 und mehr Einwohnern. Mehr als 16% von allen Deutschen leben in Großstädten. In Großstädten lebt rund ein Fünftel Einwohner, die zwischen 18 und 34 Jahren sind. Der Anteil der 35- bis 64-Jährigen ist fast genauso hoch wie der von Menschen über 65 - das ist rund 15% und überrascht mich. Ich glaube, dass sich de Familien und auch die Älteren nach 35 Jahren entscheiden, aufs Land zu ziehen, aber die Jungen ziehen in die Städte. In der Großstadt gibt es gute Angebote und mehr Freizeitmöglichkeiten, die von den jungen Leuten geliebt werden.
 :::
 
-## Lektion 8 - ???
+## Lektion 8 - Tiere und Beratung
 
 ### Wörter
 
@@ -163,6 +164,8 @@ Die Umfrage wird zu dem Thema des Anteils der in Großstädten lebenden Personen
 | entsprechen     | correspond to        |
 | gleichzeitig    | simultaneous(ly)     |
 | schreinern      | make                 |
+| begabt          | talented             |
+| eher            | rather               |
 
 gerade eben  
 just now
@@ -172,12 +175,24 @@ weiblich
 
 Rasen mähen
 
+noch nicht ganz fertig
+
+Lieber nehme ich einen Freund mit, der sonst allein zu Hause ist.  
+I'd rather take a friend with me who is otherwise alone at home.
+
+### Grammatik
+
+#### Kongjunktion da
+
+**da** + Nebensatz  
+Für Sie ist ein Ausbildungsberuf besser als ein Studium, **da** Sie nicht gern am Schreibtisch sitzen.
+
 ::: da vs. weil
 da: den Gund kennen die anderen  
 weil: einen Grund nenne, den Grund kennen die anderen nicht
 :::
 
-noch nicht ganz fertig
+#### Konjunktionen bevor und während
 
 ::: vor vs. bevor vs. während
 vor: Aktivität/Zeitangabe Präposition  
@@ -188,13 +203,24 @@ vor dem Sport/Essen/Unterricht
 Ich frühstücke, **bevor**/**während** ich zur Arbeit fahre.
 :::
 
-Seit 4 Wochen lerne ich Deutsch.  
-Vor 4 Wochen habe ich Deutsch gelernt.
+**seit** vs. **vor**
+**Seit** 4 Wochen lerne ich Deutsch.  
+**Vor** 4 Wochen habe ich Deutsch gelernt.
 
-Lieber nehme ich einen Freund mit, der sonst allein zu Hause ist.
-I'd rather take a friend with me who is otherwise alone at home
+### Kommunikation
 
-## Lektion 9 - ???
+::: tip Stellung nehmen
+Das Ergebnis / Der Test sagt, dass ich ein $\cdots$ Typ bin.  
+Das kann ich mir gar nicht / gut vorstellen.  
+Das hätte ich nicht erwartet.  
+Das passt sehr gut / überhaupt nicht.  
+Das entspricht meinen Fähigkeiten / mir (nicht).  
+Für technische/soziale/$\cdots$ Berufe bin ich sehr gut / eher nicht geeignet.  
+Da ich gern mit meinen Händen arbeite, passt das Ergebnis überhaupt nicht / gut zu mir.  
+Ich denke eher, dass ich technisch/handwerklich/ begabt bin.
+:::
+
+## Lektion 9 - Gesundheit, Sport, Ernährung
 
 Sport trägt zu einem größeren Wohlbefinden bei.
 
@@ -318,7 +344,7 @@ Man sollte/könnte $\cdots$
 
 :::
 
-## Lektion 10
+## Lektion 10 - Pannen im Alltag
 
 Hätte ich das bloß anders gemacht.  
 I wish I had done it differently.
@@ -475,7 +501,7 @@ Wenn ich schneller zur Bushaltestelle gelaufen wäre, hätte ich den Bus nicht v
 
 Wäre ich schneller zur Bushaltestelle gelaufen, hätte ich den Bus nicht verpasst.
 
-## Lektion 11 - ???
+## Lektion 11 - Glücksmomente im Alltag
 
 ### Wörter
 
@@ -551,21 +577,105 @@ Ich habe mich vor 10 Jahren beim Goethe Institut um eine Arbeitstelle beworben.
 
 Nachdem ich genug Musik gehört habe, fange ich wirklich an, denn bald kommt meine Mittagspause.
 
-## Lektion 12 - ???
+### Interjektion
+
+positiv: `Juhu` `Hurra` `Ui`  
+negativ: `Brr` `Igitt` `Aua` `Mist` `Iih`
+
+::: tip
+**Brr**, ist das kalt!
+
+**Igitt**! Was ist das denn?
+
+**Aua**! Das tut weh.
+
+**Juhu**, endlich Ferien!
+
+**Hurra**, wir haben gewonnen!
+
+**Iih**, schmeckt das scheußlich!
+
+Sieh mal, mein neues Kleid.  
+**Ui**, das sieht ja toll aus.
+
+Das macht dann 32,83€.  
+Oh, **mist**, jetzt habe ich mein Geld vergessen.
+:::
+
+## Lektion 12 - Veranstaltungen in Betrieben
 
 ### Wörter
 
-| Deutsch                 | Bedeutung         |
-| ----------------------- | ----------------- |
-| der Betriebsausflug     |
-| das Jubiläum            |
-| der Einstand            |
-| der Ausstand            |
-| die Versammlung         | meeting, assembly |
-| die Betriebsversammlung |
-| die Weihnachtsfeier     |
-| das Sommerfest          |
-| die Floßfahrt           | voyage by raft    |
+| Deutsch                  | Bedeutung                       |
+| ------------------------ | ------------------------------- |
+| der Betriebsausflug      | works outing                    |
+| der Betriebsrat          | works committee                 |
+| die Betriebsversammlung  | works meeting                   |
+| die Betriebsvereinbarung | works agreement                 |
+| die Versammlung          | meeting, assembly               |
+| das Jubiläum             | anniversary                     |
+| der Einstand             | debut                           |
+| der Ausstand             | strike                          |
+| die Weihnachtsfeier      | christmas party                 |
+| das Sommerfest           | summer party                    |
+| das Floß                 | raft                            |
+| die Floßfahrt            | voyage by raft                  |
+| der Zeitraum             | period                          |
+| die Saison               | season                          |
+| morgig                   | tomorrow's                      |
+| heutig                   | today's                         |
+| der Buchstabe            | letter, character               |
+| der Einsatz              | commitment                      |
+| das Spielzeug            | toy                             |
+| die Gewerkschaft         | trade union                     |
+| der Dieb                 | thief                           |
+| der Einbrecher           | burglar                         |
+| der Räuber               | robber                          |
+| das Opfer                | sacrifice, victim               |
+| vertreten                | support                         |
+| baldig                   | quick                           |
+| die Wegbeschreibung      | directions                      |
+| die Floßfahrt            | voyage by raft                  |
+| sich nach D. erkundigen  | inquire                         |
+| der/die Angehörige       | der/die Verwandte, das Mitglied |
+
+auf baldiges Wiedersehen  
+(formal) see you again soon
 
 außer + D. 除了  
-Außer einem kleinen weihnachtlichen Buffet gibt es ein Konzert von unserem Betriebschor. Ich freue mich auf ein paar gemütliche Stunden und wünsche Ihnen eine schöne Adventszeit im Kreis Ihrer Angehörigen und Freunde.
+Außer einem kleinen weihnachtlichen Buffet gibt es ein Konzert von unserem Betriebschor.  
+In addition to a small Christmas buffet, there will be a concert by our company choir.
+
+Ich wünsche Ihnen eine schöne Adventszeit im Kreis Ihrer Angehörigen und Freunde.  
+I wish you a wonderful Advent season in the circle of your relatives and friends.
+
+Außerdem wollte ich mich noch erkundigen, ob wir für die Floßfahrt wasserdichte Schuhe brauchen.  
+I also wanted to find out if we needed waterproof shoes for the raft trip.
+
+Ich habe mich leider so stark erkältet, dass ich morgen nicht wie geplant dabei sein und die Betriebsvereinbarung vorstellen kann.  
+Unfortunately, I have caught such a bad cold that I will not be able to attend tomorrow as planned and present the company agreement.
+
+Das ist Franklins Handy.  
+Das Handy gehört Franklin.  
+Das ist das Handy von Franklin.
+
+Dies ist vor allen Dingen Ihrem Einsatz zu verdanken.  
+This is due above all to your commitment.
+
+Glück ist für mich $\cdots$
+
+- das Ende des Studiums
+- der Anruf eines guten Freunds/es
+- der Beginn der Ferien
+- das Lachen eines kleinen Kinds/es
+- die Abgabe meiner Diplomarbeit
+- die Lösung eines schwierigen Problems
+- die Geburt meiner ersten Tochter
+- die Blätter des Frühlings
+- die Feuerwerke des Sommers
+- die Ernte des Herbstes
+- der Schneemann des Winters
+- das Lächeln der Kinder
+
+ausser nach zu aus bei
+gegenüber
