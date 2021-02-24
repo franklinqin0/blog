@@ -4,6 +4,7 @@ diff: medium
 tags:
   - Tree
   - DFS
+  - Morris
 ---
 
 <img class="medium-zoom" src="/algo/flatten-binary-tree-to-linked-list.png" alt="https://leetcode.com/problems/flatten-binary-tree-to-linked-list">

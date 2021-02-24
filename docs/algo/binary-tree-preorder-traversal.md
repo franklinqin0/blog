@@ -4,6 +4,7 @@ diff: medium
 tags:
   - Stack
   - Tree
+  - Morris
 ---
 
 <img class="medium-zoom" src="/algo/binary-tree-preorder-traversal.png" alt="https://leetcode.com/problems/binary-tree-preorder-traversal">

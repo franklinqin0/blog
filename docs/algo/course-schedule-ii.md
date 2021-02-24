@@ -4,6 +4,9 @@ diff: medium
 tags:
   - BFS
   - Topological Sort
+related:
+  - course-schedule
+  - course-schedule-iv
 ---
 
 <img class="medium-zoom" src="/algo/course-schedule-ii.png" alt="https://leetcode.com/problems/course-schedule-ii">

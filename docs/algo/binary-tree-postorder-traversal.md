@@ -4,6 +4,7 @@ diff: medium
 tags:
   - Stack
   - Tree
+  - Morris
 ---
 
 <img class="medium-zoom" src="/algo/binary-tree-postorder-traversal.png" alt="https://leetcode.com/problems/binary-tree-postorder-traversal">
@@ -32,23 +33,31 @@ space: $O(n)$
 ```py
 def postorderTraversal(self, root: TreeNode) -> List[int]:
     res = []
+
     def postorder(node: TreeNode):
         if not node: return
         postorder(node.left)
         postorder(node.right)
         res.append(node.val)
+
     postorder(root)
     return res
 ```
 
-### iteration
+## Follow Up
+
+> Recursive solution is trivial, could you do it iteratively?
+
+### Iteration
 
 ::: theorem Complexity
 time: $O(n)$  
 space: $O(n)$
 :::
 
-### Two Stacks
+#### Two Stacks
+
+`s2` can directly return after reversed.
 
 ```py
 def postorderTraversal(self, root: TreeNode) -> List[int]:
@@ -63,13 +72,16 @@ def postorderTraversal(self, root: TreeNode) -> List[int]:
             s1.append(node.left)
         if node.right:
             s1.append(node.right)
+
     while s2:
         res.append(s2.pop())
 
     return res
 ```
 
-### One Stack (REDO)
+#### One Stack (REDO)
+
+`pre` stores the current node once the right subtree is done visiting.
 
 ::: theorem Complexity
 time: $O(n)$  
@@ -83,60 +95,20 @@ def postorderTraversal(self, root: TreeNode) -> List[int]:
     pre = None
 
     while root or stack:
+        # keep visiting the left subtree
         while root:
             stack.append(root)
             root = root.left
         root = stack.pop()
+        # right subtree is done visiting
         if not root.right or root.right == pre:
             res.append(root.val)
             pre = root
             root = None
-        else:
+        else: # keep visiting the right subtree
             stack.append(root)
             root = root.right
     return res
 ```
 
-### Morris Traversal (REDO)
-
-::: theorem Complexity
-time: $O(n)$  
-space: $O(1)$
-:::
-
-```py
-def postorderTraversal(self, root: TreeNode) -> List[int]:
-    def addPath(node: TreeNode):
-        cnt = 0
-        while node:
-            cnt += 1
-            res.append(node.val)
-            node = node.right
-        i, j = len(res)-cnt, len(res)-1
-        while i < j:
-            res[i], res[j] = res[j], res[i]
-            i += 1
-            j -= 1
-
-    if not root:
-        return []
-
-    res = []
-    p1 = root
-
-    while p1:
-        p2 = p1.left
-        if p2:
-            while p2.right and p2.right!=p1:
-                p2 = p2.right
-            if not p2.right:
-                p2.right = p1
-                p1 = p1.left
-                continue
-            else:
-                p2.right = None
-                addPath(p1.left)
-        p1 = p1.right
-    addPath(root)
-    return res
-```
+<!-- Morris Traversal not easy and unneeded -->

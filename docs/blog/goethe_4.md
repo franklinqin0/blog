@@ -181,7 +181,7 @@ Ich komme aus China. Pünktlichkeit ist in China in der Arbeit und bei offiziell
 
 #### Zeitadverbien
 
-zuerst > dann/danach/später > zuletzt
+zuerst/zunächst > dann/danach/später > zuletzt
 
 - Zuerst erklären wir das Konzept.
 - Dann sprechen wir über die Ideen.

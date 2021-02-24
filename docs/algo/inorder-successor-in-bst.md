@@ -3,6 +3,7 @@ title: Inorder Successor in BST
 diff: medium
 tags:
   - Tree
+  - Morris
 related:
   - inorder-predecessor-in-bst
 ---

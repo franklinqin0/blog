@@ -5,6 +5,9 @@ tags:
   - BFS
   - DFS
   - Topological Sort
+related:
+  - course-schedule-ii
+  - course-schedule-iv
 ---
 
 <img class="medium-zoom" src="/algo/course-schedule.png" alt="https://leetcode.com/problems/course-schedule">

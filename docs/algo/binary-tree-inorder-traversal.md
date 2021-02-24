@@ -5,6 +5,7 @@ tags:
   - Hash Table
   - Stack
   - Tree
+  - Morris
 ---
 
 <img class="medium-zoom" src="/algo/binary-tree-inorder-traversal.png" alt="https://leetcode.com/problems/binary-tree-inorder-traversal">
@@ -69,6 +70,7 @@ def inorderTraversal(self, root: TreeNode) -> List[int]:
     res = []
     stack = []
     curr = root
+
     while stack or curr:
         while curr:
             stack.append(curr)
@@ -76,6 +78,7 @@ def inorderTraversal(self, root: TreeNode) -> List[int]:
         curr = stack.pop()
         res.append(curr.val)
         curr = curr.right
+
     return res
 ```
 

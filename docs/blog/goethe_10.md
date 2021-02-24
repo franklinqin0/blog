@@ -235,7 +235,7 @@ Sport trägt zu einem größeren Wohlbefinden bei.
 | Abwehrkraft                             | power of resistance 抵抗力                                  |
 | das Genussmittel                        | o. Ä. genossen wird(tea, coffee, alcoholic drinks, tobacco) |
 | zu A. beitragen                         | contribute                                                  |
-| ernähren, die Ernährung                 | feed, diet                                                  |
+| sich ernähren, die Ernährung            | feed oneself, diet                                          |
 | das Bedürfnis                           | need                                                        |
 | versorgen                               | supply                                                      |
 | im Freien                               | draußen                                                     |
@@ -265,6 +265,8 @@ Sport trägt zu einem größeren Wohlbefinden bei.
 | rechnen                                 | überlegen, erwarten                                         |
 | das Gegenteil, der Gegensatz            | opposite                                                    |
 | züchten                                 | breed, cultivate                                            |
+| stürmisch                               | stormy                                                      |
+| die Übergang                            | transition 转折                                             |
 
 ### Sätze
 
@@ -302,7 +304,8 @@ Sie werden bald merken: verteilen Sie kürzere Pausen über den Tag.
 Machen Sie mehr Aerobic und setzen Sie sich ans Tageslicht.  
 Das Leben liegt in mehr Bewegung, gesünderen Mahlzeiten, hellerem Sonnenschein, und frischerem Sauerstoff.
 
-Meine Krankenkasse übernimmt die Kosten für meinen Krankenhausaufenthalt. My medical insurance covers the cost of my hospital stay.
+Meine Krankenkasse übernimmt die Kosten für meinen Krankenhausaufenthalt.  
+My medical insurance covers the cost of my hospital stay.
 
 A. in die Praxis umsetzen  
 Die Regeln werden von den Mitarbeitern schon in die Praxis umgesetzt.  
@@ -311,11 +314,24 @@ The rules are already being put into practice by the employees.
 Das Unternehmen rechnet damit, dass das Durchschnittsalter von den Mitarbeitern in wenigen Jahren steigen wird.  
 The company expects the average age of its employees to increase in a few years.
 
+::: tip Entspannungsübungen
+Legen Sie sich bequem hin.  
+Schließen Sie die Augen.  
+Atmen Sie einige Male tief ein und aus.  
+Spannen Sie dann Ihren ganzen Körper an.  
+Halten Sie die Spannung eine halbe Minute lang.  
+Entspannen Sie dann den Körper wieder.  
+Wiederholen Sie das Ganze noch zweimal.  
+Abschließend atmen Sie mehrmals tief durch.
+:::
+
+::: tip meine Meinung nach ...
 Meiner Meinung nach ist es sehr einfach.  
 Ich meine, dass $\cdots$  
 Meine Meinung ist, dass $\cdots$  
 Meiner Meinung nach gehört die Zigarette nach einem guten Essen einfach dazu.  
 In my opinion, the cigarette is simply part of the process after a good meal.
+:::
 
 ::: details Notizen über Tipps für ein besseres Leben
 
@@ -569,7 +585,7 @@ Ich habe mich vor 10 Jahren beim Goethe Institut um eine Arbeitstelle beworben.
 
 ### Gewohnheiten
 
-- zuerst
+- zuerst/zunächst
 - dann
 - danach
 - anschließend
@@ -638,6 +654,7 @@ Oh, **mist**, jetzt habe ich mein Geld vergessen.
 | die Floßfahrt            | voyage by raft                  |
 | sich nach D. erkundigen  | inquire                         |
 | der/die Angehörige       | der/die Verwandte, das Mitglied |
+| wieso                    | warum                           |
 
 auf baldiges Wiedersehen  
 (formal) see you again soon
@@ -679,3 +696,5 @@ Glück ist für mich $\cdots$
 
 ausser nach zu aus bei
 gegenüber
+
+trotz + Genitiv
