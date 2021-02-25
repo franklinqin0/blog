@@ -6,20 +6,10 @@ tags:
   - Implicit Graph
 related:
   - sliding-puzzle-ii
+  - word-ladder-ii
 ---
 
-<img class="medium-zoom" src="/algo/word-ladder.png" alt="https://www.lintcode.com/problem/word-ladder">
-
-Leetcode has a [similar question](https://leetcode.com/problems/word-ladder) but input `dict` (`set`) is renamed as `wordList` (`List[str]`), so the following code needs to be added before all solutions:
-
-```py
-if end not in wordList: return 0
-dict = set()
-for word in wordList:
-    dict.add(word)
-```
-
-In all following solutions, `dict.add(end)` is added at front b/c `end` is by default not in `dict` but needed as endpoint for BFS.
+<img class="medium-zoom" src="/algo/word-ladder.png" alt="https://www.leetcode.com/problems/word-ladder">
 
 ## Solution
 

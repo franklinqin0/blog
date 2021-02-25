@@ -22,6 +22,8 @@ class TreeNode:
 
 ## Solution
 
+Let $n$ be the number of nodes in the tree.
+
 ### DP
 
 If robbing the `node`, the max value is the sum of `node.val`, max value of NOT robbing the left subtree and NOT robbing the right subtree.

@@ -3,13 +3,15 @@ title: Word Search
 diff: medium
 tags:
   - Backtracking
+related:
+  - word-search-ii
 ---
 
 <img class="medium-zoom" src="/algo/word-search.png" alt="https://leetcode.com/problems/word-search">
 
 ## Solution
 
-Let $n$ be the number of rows and $m$ be the number of columns of the board, and $l$ be the length of the word to be matched.
+Let $n$ be the number of rows and $m$ be the number of columns of the `board`, and $l$ be the length of the `word` to be matched.
 
 ### Backtracking
 
