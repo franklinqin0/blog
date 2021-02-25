@@ -270,7 +270,7 @@ Nur die 3. Person hat im Singular und Plural eine eigene Form: sich.
 | Flohmarkt                  | flea market                |
 | die Kasse                  | cash register              |
 | der Kassenzettel           | receipt                    |
-| untauschen                 | exchange 退换              |
+| umtauschen                 | exchange 换乘              |
 | wertvoll                   | valuable                   |
 | die Zeitungsanzeige        | newspaper ad               |
 | mitteilen, die Mitteilung  | communicate, communication |

@@ -1,5 +1,5 @@
 ---
-title: Menschen - B1.2 eins
+title: Deutsch Notizen - Menschen B1.2 eins
 date: 2021-02-23
 categories:
   - study
@@ -49,6 +49,35 @@ Deutsch Notizen für das Goethe Institut - B1.2 eins
 | bzw., beziehungsweise   | that is                        |
 | die Durchsage           | announcement                   |
 | das Ereignis            | event                          |
+| deutlich                | clear                          |
+
+| bei Personen | bei Sachen  |
+| ------------ | ----------- |
+| müde         | anstrengend |
+| verärgert    | ärgerlich   |
+| gestresst    | stressig    |
+| gespannt     | spannend    |
+| gelangweilt  | langweilig  |
+
+| Teekesselchen                  | Bedeutung                |
+| ------------------------------ | ------------------------ |
+| der Hahn                       | rooster / tap            |
+| das Schloss                    | castle / lock            |
+| die Bank                       | bank / bench             |
+| der Schalter                   | counter / switch         |
+| die Schlange                   | snake, queue             |
+| der Nagel                      | nail 指甲 / 钉子         |
+| die Birne                      | pear / light bulb        |
+| der Leiter                     | ladder / director        |
+| der Block                      | block / pad              |
+| das Rezept                     | recipe / prescription    |
+| die Maus                       | mouse 鼠标 / 老鼠        |
+| die Steuer                     | tax                      |
+| das Steuer                     | steering wheel           |
+| das Gericht                    | court / dish             |
+| der Hamburger                  | 🍔 / 汉堡人              |
+| der Reiseführer                | travel guide / guidebook |
+| sich(D.) das Lachen verkneifen | refrain from laughing    |
 
 Wegen meines Studiums lerne ich Deutsch in einem Intensivkurs.
 
@@ -68,6 +97,10 @@ Wegen der Prüfung muss ich Grammatik und Wortschatz wiederholen.
 
 im Deutschen $=$ auf Deutsch  
 im Englischen $=$ auf Englisch
+
+Mal schauen/sehen/gucken.  
+Due guckst mal! $\rightarrow$ Guck mal!  
+Guck/Schau/Sieh mal!
 
 #### Sprachliche Missverständnisse
 
@@ -101,7 +134,33 @@ Shut up.
 
 ich bin nämlich durch die Prüfung gefallen
 
+### Grammatik
+
+::: theorem Konjunktionen
+**Folge**: `deshalb`, `deswegen`, `daher`, `aus diesem Grund`, `darum`  
+**Grund**: `denn`, `weil`, `nämlich`, `wegen`(mit G.)
+
+Jennifer hat kurz vor dem Essen vom Tod ihres Onkels erfahren. **Deshalb** hat sie das Essen abgesagt.  
+**Wegen** der falschen Betonung hat die Lehrerin das Wort nicht verstanden.  
+Sie konnten das Missverständnis aufklären: Die Mutter meinte **nämlich** nicht das Tier.
+:::
+
 ## Lektion 14 - Weiterbildung
+
+| Deutsch               | Bedeutung         |
+| --------------------- | ----------------- |
+| die Abwechslung       | change, diversion |
+| diskutieren           | discuss           |
+| vormachen             | show              |
+| nachmachen            | imitate           |
+| rückwärtig, rückwärts | backward(s)       |
+| klettern              | climb             |
+| auffangen             | catch, pick up    |
+| anfassen              | berühren          |
+| doof                  | stupid            |
+
+das Seminar: weniger Studenten diskutieren ???
+das Webinar: das Seminar im Internet
 
 ## Lektion 15 - Bewerbung
 

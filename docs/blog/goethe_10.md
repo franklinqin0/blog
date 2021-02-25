@@ -1,5 +1,5 @@
 ---
-title: Menschen - B1.1 zwei
+title: Deutsch Notizen - Menschen B1.1 zwei
 date: 2021-02-03
 categories:
   - study
@@ -638,8 +638,9 @@ Oh, **mist**, jetzt habe ich mein Geld vergessen.
 | die Floßfahrt            | voyage by raft                  |
 | der Zeitraum             | period                          |
 | die Saison               | season                          |
-| morgig                   | tomorrow's                      |
+| gestrig                  | yesterday's                     |
 | heutig                   | today's                         |
+| morgig                   | tomorrow's                      |
 | der Buchstabe            | letter, character               |
 | der Einsatz              | commitment                      |
 | das Spielzeug            | toy                             |

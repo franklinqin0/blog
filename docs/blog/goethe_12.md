@@ -1,5 +1,5 @@
 ---
-title: Menschen - B1.2 zwei
+title: Deutsch Notizen - Menschen B1.2 zwei
 date: 2021-02-03
 categories:
   - study

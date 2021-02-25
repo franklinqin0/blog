@@ -1,5 +1,5 @@
 ---
-title: Menschen - B1.1 eins
+title: Deutsch Notizen - Menschen B1.1 eins
 date: 2021-01-19
 categories:
   - study
