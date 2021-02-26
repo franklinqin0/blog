@@ -20,7 +20,7 @@ Let $n$ be the number of rows and $m$ be the number of columns of the `board`. L
 
 B/c search is done in `backtrack`, no need to implement `search` in `Trie`.
 
-::: tip Complexity
+::: theorem Complexity
 time: $O(wl + nm \cdot 3^wl)$  
 space: $O(wl + l) = O(wl)$
 :::

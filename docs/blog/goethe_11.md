@@ -147,20 +147,107 @@ Sie konnten das Missverständnis aufklären: Die Mutter meinte **nämlich** nich
 
 ## Lektion 14 - Weiterbildung
 
-| Deutsch               | Bedeutung         |
-| --------------------- | ----------------- |
-| die Abwechslung       | change, diversion |
-| diskutieren           | discuss           |
-| vormachen             | show              |
-| nachmachen            | imitate           |
-| rückwärtig, rückwärts | backward(s)       |
-| klettern              | climb             |
-| auffangen             | catch, pick up    |
-| anfassen              | berühren          |
-| doof                  | stupid            |
+### Wörter
 
-das Seminar: weniger Studenten diskutieren ???
-das Webinar: das Seminar im Internet
+| Deutsch                              | Bedeutung              |
+| ------------------------------------ | ---------------------- |
+| die Abwechslung                      | change, diversion      |
+| diskutieren                          | discuss                |
+| vormachen                            | show                   |
+| nachmachen                           | imitate                |
+| rückwärtig, rückwärts                | backward(s)            |
+| klettern                             | climb                  |
+| auffangen                            | catch, pick up         |
+| anfassen                             | berühren               |
+| doof                                 | stupid                 |
+| ausbauen                             | cultivate              |
+| die Volkshochschule                  | adult education centre |
+| die Ausdauer                         | perseverance           |
+| abspielen                            | play sth. thru         |
+| fortgeschritten                      | advanced               |
+| fortschreiten                        | progress               |
+| der Einsteiger                       | beginner               |
+| der Eindruck                         | impression             |
+| die Haftung                          | responsibility         |
+| die Voraussetzung, die Vorkenntnisse | prerequisite           |
+| die Turnschuhe                       | trainers               |
+| die Hose                             | trousers               |
+| das Musikstück                       | piece of music         |
+| auswählen                            | select                 |
+| knüpfen                              | tie                    |
+| ständig                              | constant, permanent    |
+| wiederfinden                         | retrive                |
+| die Leseratte                        | bookworm               |
+| die Partylöwe                        | party animal           |
+| der Einblick                         | insight                |
+| duften                               | smell                  |
+| die Atemübung, en                    | breathing exercise     |
+| der Atem                             | breath                 |
+| das Gewürz, -e                       | spice, seasoning       |
+| das Chorsingen                       | choral singing         |
+| die Stimme, -n                       | voice                  |
+| die Schürze, -n                      | apron                  |
+| die Nadel, -n                        | needle                 |
+| die Stoffreste                       | fabric remnants        |
+
+### Wendungen
+
+| Deutsch         | Bedeutung          |
+| --------------- | ------------------ |
+| Viel Erfolg!    | Viel Glück!        |
+| Scheiße!        | Shit!              |
+| Das ist Hammer! | 给力！             |
+| Ich gehe heim   | Ich gehe zu Hause. |
+
+### Grammatik
+
+::: theorem Prtizip Präsens als Adjektiv
+Partizip I: Infinitiv + d + **Adjektivendung**  
+正在进行动作  
+Aktivität: etwas passiert gerade
+
+Partizip II: (ge) + Verbstamm + t/en + **Adjektivendung**  
+完成后的状态
+Ergebnis: etwas ist schon passiert/wurde gemacht
+:::
+
+| Partizip I/II          | Relativsatz                  | Bedeutung      |
+| ---------------------- | ---------------------------- | -------------- |
+| das malende Kind       | das Kind, das malt.          | 画画的小孩     |
+| das gemalte Bild       | das Bild, das gemalt wurde.  | 被画完的画     |
+| der ankommende Zug     | der Zug, der ankommt.        | 正在到达的火车 |
+| der angekommene Zug    | der Zug, der angekommen ist. | 已经到达的火车 |
+| faszinierende Einblick | Einblicke, die faszinieren   | 旖旎的风光     |
+| versteckte Talente     | Talente, die versteckte sind | 隐藏的天赋     |
+
+::: tip Partizip I
+eine herausforernde Sportart  
+die entscheidenden Grundlagen  
+die passende Strategie  
+ein überzeugendes Verhalten  
+duftende Gewürze (fragrant spices)
+:::
+
+::: tip Partizip II
+ausgewählte Musikstücke/Lieder  
+selbst gemachte Sommerkleidung
+:::
+
+::: tip
+Hier sieht man einen _fein_ **gedeckten** Tisch im Restaurant Jubilee.  
+Mein _ständig_ **lesender** Freund Peter alias die „Leseratte”.  
+Blick aus dem **fahrenden** Zug!  
+Mein geliebtes, **wiederfundenes** Smartphone!  
+Ich mit dem _neu_ **gekauften** Kleid, das ich auf einer Hochzeit tragen will.  
+Die von Alfredo **gemixten** Cocktails sind die besten.  
+Juhu! Meine erste selbst **gemachte** Marmelade!  
+Hier sind die **spielenden** Kinder meines Bruders zu sehen.
+:::
+
+### Sätze
+
+Sie schürzte verärgert die Lippen.  
+Being annoyed, she pursed her lips.
 
 ## Lektion 15 - Bewerbung
 

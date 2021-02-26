@@ -1,5 +1,5 @@
 ---
-title: Word Ladder
+title: Word Ladder II
 diff: hard
 tags:
   - BFS
