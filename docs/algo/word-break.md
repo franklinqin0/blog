@@ -23,19 +23,19 @@ space: $O(n)$
 
 ```py
 def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-    def dfs(s, start, dct):
+    def dfs(start):
         if start == len(s):
             return True
-        for word in dct:
+        for word in wordDict:
             n = len(word)
             if start + n > len(s):
                 continue
             if s[start: start + n] != word:
                 continue
-            if dfs(s, start + n, dct):
+            if dfs(start + n):
                 return True
         return False
-    return dfs(s, 0, wordDict)
+    return dfs(0)
 ```
 
 ### DFS w/ Memoization
@@ -47,22 +47,22 @@ space: $O(n)$
 
 ```py
 def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-    def dfs(s, start, dct, memo):
+    def dfs(start):
         if start == len(s):
             return True
         if memo[start] != None:
             return memo[start]
-        for word in dct:
+        for word in wordDict:
             n = len(word)
             if start + n > len(s):
                 continue
             if s[start: start + n] != word:
                 continue
-            if dfs(s, start + n, dct, memo):
+            if dfs(start + n):
                 memo[start] = True
                 return True
         memo[start] = False
         return False
-    memo = [None] * len(s)
-    return dfs(s, 0, wordDict, memo)
+    memo = [None for _ in range(len(s))]
+    return dfs(0)
 ```
