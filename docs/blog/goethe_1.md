@@ -1,5 +1,5 @@
 ---
-title: Deutsch Notizen - A1 eins
+title: Deutsch Notizen 1 - A1 eins
 date: 2020-03-02
 sidebar: "auto"
 categories:
@@ -355,7 +355,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | Paar(e)                        | pair(s)                  |
 | heute                          | today                    |
 | Achtung                        | attention                |
-| Angebot                        | offer                    |
+| das Angebot                    | offer                    |
 | geben                          | give                     |
 | Bildung                        | education                |
 | kein(e)                        | no                       |

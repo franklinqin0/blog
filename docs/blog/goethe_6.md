@@ -1,5 +1,5 @@
 ---
-title: Deutsch Notizen - A2 zwei
+title: Deutsch Notizen 6 - A2 zwei
 date: 2020-12-24
 categories:
   - study
@@ -202,7 +202,7 @@ sich verabreden mit + D.
 sich entspannen mit + D.  
 sich freuen über(为$\cdots$开心)/auf(期待) + A.  
 sich entscheiden für + A.  
-sich aufregen über + A.
+sich aufregen über + A.  
 sich treffen mit + D. / jn. treffen
 
 Wie geht es deiner Schwester? Hat sie meinen Brief bekommen?  

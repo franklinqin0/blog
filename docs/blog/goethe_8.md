@@ -1,5 +1,5 @@
 ---
-title: Deutsch Notizen - A2 vier
+title: Deutsch Notizen 8 - A2 vier
 date: 2021-01-14
 categories:
   - study
@@ -400,6 +400,7 @@ Wir sprechen über einen wichtigen Menschen.
 | verbessern             | improve              |
 | verwenden              | use                  |
 | untersuchen            | investigate, examine |
+| die Untersuchung       | investigation, exam  |
 | gebären                | give birth to        |
 
 ::: man, Mann, Menschen

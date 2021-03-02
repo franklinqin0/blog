@@ -1,5 +1,5 @@
 ---
-title: Deutsch Notizen - Menschen B1.1 zwei
+title: Deutsch Notizen 10 - Menschen B1.1 zwei
 date: 2021-02-03
 categories:
   - study
@@ -76,7 +76,7 @@ Then the offer is out of the question for me.
 infrage kommen  
 be possible
 
-Ich gucke nur.
+Ich gucke nur.  
 I'm just looking.
 
 Das passt zu mir.
@@ -157,7 +157,7 @@ Die Umfrage wird zu dem Thema des Anteils der in Großstädten lebenden Personen
 | bellen          | bark                 |
 | ehrgeizig       | ambitious            |
 | vereinbart      | agreed               |
-| eignen          | suit                 |
+| sich eignen     | be suitable          |
 | geeignet        | suitable             |
 | die Abwechslung | variety, distraction |
 | bloß, doch      | nur (Konjunktiv II)  |
@@ -187,7 +187,7 @@ I'd rather take a friend with me who is otherwise alone at home.
 **da** + Nebensatz  
 Für Sie ist ein Ausbildungsberuf besser als ein Studium, **da** Sie nicht gern am Schreibtisch sitzen.
 
-::: da vs. weil
+::: theorem da vs. weil
 da: den Gund kennen die anderen  
 weil: einen Grund nenne, den Grund kennen die anderen nicht
 :::
@@ -267,6 +267,7 @@ Sport trägt zu einem größeren Wohlbefinden bei.
 | züchten                                 | breed, cultivate                                            |
 | stürmisch                               | stormy                                                      |
 | die Übergang                            | transition 转折                                             |
+| die Mahlzeit                            | meal                                                        |
 
 ### Sätze
 

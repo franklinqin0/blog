@@ -1,5 +1,5 @@
 ---
-title: Deutsch Notizen - A2 eins
+title: Deutsch Notizen 5 - A2 eins
 date: 2020-12-01
 categories:
   - study
@@ -243,8 +243,8 @@ Ich trinke mehr Wasser.
 | Einzelkind                            | only child                      |
 | Seite                                 | page                            |
 | ergänzen                              | complete                        |
-| Neffe                                 | nephew                          |
-| Nichte                                | niece                           |
+| der Neffe                             | nephew                          |
+| die Nichte                            | niece                           |
 | verbessern                            | improve                         |
 | manchmal                              | sometimes                       |
 | gehören                               | belong to                       |

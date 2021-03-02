@@ -1,5 +1,5 @@
 ---
-title: Deutsch Notizen - Menschen B1.1 eins
+title: Deutsch Notizen 9 - Menschen B1.1 eins
 date: 2021-01-19
 categories:
   - study
@@ -123,10 +123,31 @@ Zum Wohl! Prost!
 der Junge
 das Mädchen
 
-### Schwache Nomen / n-Deklination
+### Grammatik
+
+#### Adjektive als Nomen
+
+| Nominativ                           | Akkusativ                              | Dativ                                  |
+| ----------------------------------- | -------------------------------------- | -------------------------------------- |
+| der Hübsch**e**<br>ein Hübsch**er** | den Hübsch**en**<br>einen Hübsch**en** | dem Hübsch**en**<br>einem Hübsch**en** |
+| die Hübsch**e**<br>eine Hübsch**e** | die Hübsch**e**<br>eine Hübsch**e**    | der Hübsch**en**<br>einer Hübsch**en** |
+| die Hübsch**en**<br> - Hübsch**e**  | die Hübsch**en**<br> - Hübsch**e**     | den Hübsch**en**<br> - Hübsch**en**    |
+
+auch so: der/die Klug**e**, Jung**e**, Erwachsen**e**, Glücklich**e**
+
+#### Schwache Nomen 阳弱名词
+
+| Nominativ          | Akkusativ              | Dativ                  |
+| ------------------ | ---------------------- | ---------------------- |
+| der/ein Kollege    | den/einen Kollege**n** | dem/einem Kollege**n** |
+| die/- Kolleg**en** | die/- Kollege**n**     | den/- Kollege**n**     |
+
+::: theorem n-Deklination
+maskuline Nomen auf: -e, -ent, -ant, -ist, -oge, -ad, -at, -f, -ph 结尾的阳性名词  
+Mensch, Nachbar, Herr
+:::
 
 ???
--ent, -ant, -ist, -oge, -ad, -at, -f, -ph 结尾的阳性名词
 
 ### Schreibaufgabe
 
@@ -166,7 +187,7 @@ Seine Arbeit macht dem Mann Spaß.
 | die Aussprache                                    | pronunciation            |
 | das Vertrauen                                     | confidence, trust        |
 | der Arbeitgeber, der Unternehmer                  | employer                 |
-| der Arbeitnehmer, der/die Angestellte             | employee                 |
+| der Arbeitnehmer, der/die Angestellte(r)          | employee                 |
 | bestätigen                                        | confirm                  |
 | der Bereich                                       | area                     |
 | das Betriebsklima                                 | working atmosphere       |
@@ -428,10 +449,28 @@ in eine Wohnung einziehen/umziehen
 aus der Wohnung ausziehen  
 Einweihnungsparty nach dem Umzug
 
-### Zukunft I
+### Futur I
+
+Similar to **simple future** in English.
 
 ::: theorem
-Zukunft I: werden + Infinitiv
+Futur I: werden + Infinitiv
+
+_express a future event_  
+Es wird regnen.  
+It will rain.
+
+_express an intention_  
+Ich werde morgen fliegen.  
+I will fly tomorrow.
+
+_give an order_  
+Du wirst jetzt die Hausaufgaben machen.  
+You will do the homework now.
+
+_express an assumption about a present fact_  
+Sie wird müde sein.  
+She is probably tired.
 :::
 
 1. Morgen wird es an einigen Orten bewölkt sein.
@@ -600,4 +639,18 @@ Legen Sie die Serviette neben den Teller, falls Sie das Essen bereits beendet ha
 ::: Halboffizielle Einladungen von Gastgeber
 Herzlich willkommen, Frau/Herr $\cdots$! kommen Sie rein. Schön, dass es geklappt hat.  
 Darf
+:::
+
+### Schreibaufgabe
+
+::: Frau Winter Einladung
+Sehr geehrte Frau Winter,
+
+noch einmal herzlichen Dank für Ihre Einladung und Gastfreundschaft! Das Essen hat wirklich lecker geschmeckt, und die Kinder waren sehr süß! Die Gerichte Rindsroulade mit Rotkraut und Klößen und Apfelstrudel mit Vanilleeis mochte ich am liebsten. Es tut mir leid, dass ich eigentlich noch ein Bier vom Fass mitbringen wollte, aber leider hatte ich keine Zeit.
+
+Für Ihre Gastfreundschaft bin ich sehr dankbar und daher möchte ich Sie herzlich beim mir zu Hause einladen. Haben Sie vielleicht am nächsten Freitag Zeit? Wir können viel über unser Geschäft reden! Was denken Sie? Sind Sie gegen irgendetwas allergisch, z.B., Laktose-Intoleranz? Ich weiß, dass Sie keine Vegetarierin sind. Deshalb passt Fisch-Pfanne mit Bratkartoffeln zu Ihnen?
+
+Kommen Sie doch noch zum Essen zu uns! Wir würden uns freuen.
+
+Franklin Qin
 :::

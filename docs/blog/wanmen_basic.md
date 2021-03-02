@@ -533,3 +533,16 @@ Er verreist nicht heute.
 
 Er verreist heute nicht.  
 他今天不出门。
+
+::: theorem Futur II
+similar to **future perfect** in English
+werden + Partizip II + sein/haben
+
+_express an event that will take place in the future_  
+Er wird morgen angekommen sein.  
+He will have arrived tomorrow.
+
+_express an assumption from the past_  
+Er wird schon angekommen sein.  
+He probably arrived already.
+:::

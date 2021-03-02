@@ -1,5 +1,5 @@
 ---
-title: Deutsch Notizen - A1 zwei
+title: Deutsch Notizen 2 - A1 zwei
 date: 2020-03-12
 sidebar: "auto"
 categories:

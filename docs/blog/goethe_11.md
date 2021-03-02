@@ -1,5 +1,5 @@
 ---
-title: Deutsch Notizen - Menschen B1.2 eins
+title: Deutsch Notizen 11 - Menschen B1.2 eins
 date: 2021-02-23
 categories:
   - study
@@ -65,7 +65,7 @@ Deutsch Notizen für das Goethe Institut - B1.2 eins
 | das Schloss                    | castle / lock            |
 | die Bank                       | bank / bench             |
 | der Schalter                   | counter / switch         |
-| die Schlange                   | snake, queue             |
+| die Schlange                   | snake / queue            |
 | der Nagel                      | nail 指甲 / 钉子         |
 | die Birne                      | pear / light bulb        |
 | der Leiter                     | ladder / director        |
@@ -77,21 +77,8 @@ Deutsch Notizen für das Goethe Institut - B1.2 eins
 | das Gericht                    | court / dish             |
 | der Hamburger                  | 🍔 / 汉堡人              |
 | der Reiseführer                | travel guide / guidebook |
+| durchgefallen                  | fall thru                |
 | sich(D.) das Lachen verkneifen | refrain from laughing    |
-
-Wegen meines Studiums lerne ich Deutsch in einem Intensivkurs.
-
-Wegen des Lärms auf dem Bahnsteig habe ich die Durchsage nicht verstanden.
-
-Wegen des Vorstellunggesprächs bin ich sehr nervös.
-
-Wegen der Verspätung meines Flugzeugs werde ich den Anschlussflug nicht bekommen.
-
-Wegen meiner neuen Arbeit muss ich passende Geschäftskleidung besorgen.
-
-Wegen der undeutlichen Aussprache meines Briefträgers verstehe ich ihn oft nur schlecht.
-
-Wegen der Prüfung muss ich Grammatik und Wortschatz wiederholen.
 
 ### Wendungen
 
@@ -99,7 +86,7 @@ im Deutschen $=$ auf Deutsch
 im Englischen $=$ auf Englisch
 
 Mal schauen/sehen/gucken.  
-Due guckst mal! $\rightarrow$ Guck mal!  
+Du guckst mal! $\rightarrow$ Guck mal!  
 Guck/Schau/Sieh mal!
 
 #### Sprachliche Missverständnisse
@@ -132,11 +119,24 @@ As you wish.
 Halte den Mund.  
 Shut up.
 
-ich bin nämlich durch die Prüfung gefallen
+Ich muss Grammatik und Wortschatz wiederholen. Ich bin nämlich durch die Prüfung gefallen.  
+I have to repeat grammar and vocabulary. Because I failed the exam.
 
 ### Grammatik
 
-::: theorem Konjunktionen
+::: theorem kausale Präposition wegen
+wegen + Genitiv
+
+Wegen meines Studiums lerne ich Deutsch in einem Intensivkurs.  
+Wegen des Lärms auf dem Bahnsteig habe ich die Durchsage nicht verstanden.  
+Wegen des Vorstellunggesprächs bin ich sehr nervös.  
+Wegen der Verspätung meines Flugzeugs werde ich den Anschlussflug nicht bekommen.  
+Wegen meiner neuen Arbeit muss ich passende Geschäftskleidung besorgen.  
+Wegen der undeutlichen Aussprache meines Briefträgers verstehe ich ihn oft nur schlecht.  
+Wegen der Prüfung muss ich Grammatik und Wortschatz wiederholen.
+:::
+
+::: theorem Konjunktionen & Adverbien: Gründe und Folgen ausdrücken
 **Folge**: `deshalb`, `deswegen`, `daher`, `aus diesem Grund`, `darum`  
 **Grund**: `denn`, `weil`, `nämlich`, `wegen`(mit G.)
 
@@ -149,55 +149,70 @@ Sie konnten das Missverständnis aufklären: Die Mutter meinte **nämlich** nich
 
 ### Wörter
 
-| Deutsch                              | Bedeutung              |
-| ------------------------------------ | ---------------------- |
-| die Abwechslung                      | change, diversion      |
-| diskutieren                          | discuss                |
-| vormachen                            | show                   |
-| nachmachen                           | imitate                |
-| rückwärtig, rückwärts                | backward(s)            |
-| klettern                             | climb                  |
-| auffangen                            | catch, pick up         |
-| anfassen                             | berühren               |
-| doof                                 | stupid                 |
-| ausbauen                             | cultivate              |
-| die Volkshochschule                  | adult education centre |
-| die Ausdauer                         | perseverance           |
-| abspielen                            | play sth. thru         |
-| fortgeschritten                      | advanced               |
-| fortschreiten                        | progress               |
-| der Einsteiger                       | beginner               |
-| der Eindruck                         | impression             |
-| die Haftung                          | responsibility         |
-| die Voraussetzung, die Vorkenntnisse | prerequisite           |
-| die Turnschuhe                       | trainers               |
-| die Hose                             | trousers               |
-| das Musikstück                       | piece of music         |
-| auswählen                            | select                 |
-| knüpfen                              | tie                    |
-| ständig                              | constant, permanent    |
-| wiederfinden                         | retrive                |
-| die Leseratte                        | bookworm               |
-| die Partylöwe                        | party animal           |
-| der Einblick                         | insight                |
-| duften                               | smell                  |
-| die Atemübung, en                    | breathing exercise     |
-| der Atem                             | breath                 |
-| das Gewürz, -e                       | spice, seasoning       |
-| das Chorsingen                       | choral singing         |
-| die Stimme, -n                       | voice                  |
-| die Schürze, -n                      | apron                  |
-| die Nadel, -n                        | needle                 |
-| die Stoffreste                       | fabric remnants        |
-
-### Wendungen
-
-| Deutsch         | Bedeutung          |
-| --------------- | ------------------ |
-| Viel Erfolg!    | Viel Glück!        |
-| Scheiße!        | Shit!              |
-| Das ist Hammer! | 给力！             |
-| Ich gehe heim   | Ich gehe zu Hause. |
+| Deutsch                            | Bedeutung              |
+| ---------------------------------- | ---------------------- |
+| die Abwechslung                    | change, diversion      |
+| diskutieren                        | discuss                |
+| vormachen                          | show                   |
+| nachmachen                         | imitate                |
+| rückwärtig, rückwärts              | backward(s)            |
+| klettern                           | climb                  |
+| auffangen                          | catch, pick up         |
+| anfassen                           | berühren               |
+| doof                               | stupid                 |
+| ausbauen                           | cultivate              |
+| die Volkshochschule                | adult education centre |
+| die Ausdauer                       | perseverance           |
+| abspielen                          | play sth. thru         |
+| fortgeschritten                    | advanced               |
+| fortschreiten                      | progress               |
+| der Einsteiger                     | beginner               |
+| der Eindruck                       | impression             |
+| die Haftung                        | responsibility         |
+| die Voraussetzung, die Vorkenntnis | prerequisite           |
+| die Turnschuhe                     | trainers               |
+| die Hose                           | trousers               |
+| das Musikstück                     | piece of music         |
+| auswählen                          | select                 |
+| knüpfen, geknüpft                  | tie, tied              |
+| ständig                            | constant, permanent    |
+| wiederfinden                       | retrive                |
+| die Leseratte                      | bookworm               |
+| die Partylöwe                      | party animal           |
+| der Einblick                       | insight                |
+| duften                             | smell                  |
+| duftend                            | fragrant               |
+| die Atemübung, -en                 | breathing exercise     |
+| der Atem                           | breath                 |
+| das Gewürz, -e                     | spice, seasoning       |
+| das Chorsingen                     | choral singing         |
+| die Stimme, -n                     | voice                  |
+| die Schürze, -n                    | apron                  |
+| die Nadel, -n                      | needle                 |
+| das Garn                           | thread                 |
+| die Stoffreste                     | fabric remnants        |
+| die Schere                         | scissors               |
+| die Forschungseinrichtung          | research facility      |
+| die Gestik                         | gestures               |
+| der Ton                            | tone                   |
+| überzeugend                        | convincing             |
+| die Stilrichtung                   | style                  |
+| wendig                             | agile, flexible        |
+| notwendig                          | necessary              |
+| die Geschmacksrichtung             | taste, flavor          |
+| das Kraut, Kräuter                 | herb                   |
+| landestypisch                      | country-specific       |
+| der Behälter                       | container, vessel      |
+| die Kost                           | food                   |
+| schick                             | fancy                  |
+| die Fertigkeit                     | skill                  |
+| frisch                             | fresh                  |
+| frischen                           | refine                 |
+| auffrischen                        | refresh                |
+| umfassen                           | grasp                  |
+| umfassend                          | wide, comprehensive    |
+| laufend                            | regular                |
+| geistig                            | intellectual           |
 
 ### Grammatik
 
@@ -207,7 +222,7 @@ Partizip I: Infinitiv + d + **Adjektivendung**
 Aktivität: etwas passiert gerade
 
 Partizip II: (ge) + Verbstamm + t/en + **Adjektivendung**  
-完成后的状态
+完成后的状态  
 Ergebnis: etwas ist schon passiert/wurde gemacht
 :::
 
@@ -244,12 +259,67 @@ Juhu! Meine erste selbst **gemachte** Marmelade!
 Hier sind die **spielenden** Kinder meines Bruders zu sehen.
 :::
 
+### Wendungen
+
+| Deutsch                   | Bedeutung          |
+| ------------------------- | ------------------ |
+| Viel Erfolg!              | Viel Glück!        |
+| Scheiße!                  | Shit!              |
+| Das ist Hammer!           | 给力！             |
+| Ich gehe heim.            | Ich gehe zu Hause. |
+| fit/gesund machen/bleiben | stay fit           |
+
 ### Sätze
 
 Sie schürzte verärgert die Lippen.  
 Being annoyed, she pursed her lips.
 
 ## Lektion 15 - Bewerbung
+
+### Wörter
+
+| Deutsch                | Bedeutung            |
+| ---------------------- | -------------------- |
+| der Zeitdruck          | time pressure        |
+| die Voraussetzungen    | assumption           |
+| treffend               | passend              |
+| selbstsicher           | confident            |
+| das Einstiegsgehalt    | das Anfangsgehalt    |
+| Bewerbungsgespräch     | Vorstellungsgespräch |
+| der Arbeitgeberwechsel | change of employer   |
+| einstellen             | anstellen            |
+| der Blickkontakt       | eye contact          |
+| die Sitzhaltung        | sitting posture      |
+| die Sauberkeit         | cleanliness          |
+
+### Wendungen
+
+zweiteilige Konjunktionen
+
+_verbindet nur Wörter_  
+nicht nur A, sondern auch B  
+not only A, but also B
+
+_verbindet Wörter, Sätze, Satzteile_  
+sowohl A als (auch) B  
+A as well as B
+
+geht auf andere zu  
+kontaktfreudig
+
+::: theorem bewerben, Bewerbung, Bewerber(in)
+sich bewerben um A.  
+Ich bewerbe mich um eine Arbeitsstelle am Goethe Institut.
+
+die Bewerbung, -en  
+Heute habe ich eine Bewerbung um eine Arbeitsstelle am Goethe Institut geschrieben.
+
+der Bewerber, -  
+die Bewerberin, -nen
+:::
+
+In einzelnen Handwerksberufen herrscht nicht nur ein großer Mangel an Auszubildenden, sondern es fehlen auch ausgebildete Mitarbeiter.  
+In individual skilled trades, there is not only a major shortage of trainees, but also a lack of trained employees
 
 ## Lektion 16 - Kunst und Malerei
 
