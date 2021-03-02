@@ -137,17 +137,48 @@ auch so: der/die Klug**e**, Jung**e**, Erwachsen**e**, Glücklich**e**
 
 #### Schwache Nomen 阳弱名词
 
-| Nominativ          | Akkusativ              | Dativ                  |
-| ------------------ | ---------------------- | ---------------------- |
-| der/ein Kollege    | den/einen Kollege**n** | dem/einem Kollege**n** |
-| die/- Kolleg**en** | die/- Kollege**n**     | den/- Kollege**n**     |
+以 _-(e)n_ 为复数词尾的阳性弱变化名词，其单数形式除了第一格外，二、三、四格均应按照该词的复数词尾变格
+
+| N                  | G                      | D                      | A                      |
+| ------------------ | ---------------------- | ---------------------- | ---------------------- |
+| der/ein Kollege    | des/eines Kollege**n** | dem/einem Kollege**n** | den/einen Kollege**n** |
+| die/- Kollege**n** | der/- Kollege**n**     | den/- Kollege**n**     | die/- Kollege**n**     |
 
 ::: theorem n-Deklination
-maskuline Nomen auf: -e, -ent, -ant, -ist, -oge, -ad, -at, -f, -ph 结尾的阳性名词  
-Mensch, Nachbar, Herr
+
+1. maskuline Nomen auf: -ent, -ant, -ist, -oge, -ad, -at, -f, -ph 结尾的阳性名词
+
+der Student, -en; der Assistant, -en; der Polizist, -en; der Psychologe, -n; der Diplomat, -en; der Graf, -en; der Philosoph, -en
+
+2. 以-e 结尾的、表示某国家的人的阳性名词
+
+der Chinese, -n; der Franzose, -n; der Pole, -n; der Tscheche, -n
+
+3. 有些阳性弱变化名词无明显特征，需要额外记忆
+
+der Affe, -n; der Bär, -en; der Nachbar, -en
+
 :::
 
-???
+::: theorem Achtung
+
+1. 中性名词 das Herz 也属于弱变化名词
+
+| N        | G           | D          | A        |
+| -------- | ----------- | ---------- | -------- |
+| das Herz | des Herzens | dem Herzen | das Herz |
+
+2. 某些弱变化名词的单数第二格形式为 _-ens_
+
+如：der Name, des Nam**ens**; der Wille, des Will**ens**; das Herz, des Herz**ens**
+
+3.名词 der Herr 在单数二、三、四格时，词尾为 _-n_，但其复数形式词尾为 _-en_
+
+| N        | G             | D             | A         | Pl         |
+| -------- | ------------- | ------------- | --------- | ---------- |
+| der Herr | des Herr**n** | dem Herr**n** | den Herrn | die Herren |
+
+:::
 
 ### Schreibaufgabe
 
