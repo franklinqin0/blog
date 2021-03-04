@@ -273,7 +273,7 @@ Ich trinke mehr Wasser.
 | durstig                               | thirsty                         |
 | erholen                               | rest, relax                     |
 | erstellen                             | create, construct               |
-| der/die Verwandte                     | relation, relative              |
+| der Verwandter, die Verwandte         | relation, relative              |
 | der Zwilling, -e                      | twin(s)                         |
 | Grippe                                | flu                             |
 | sterben                               | die                             |

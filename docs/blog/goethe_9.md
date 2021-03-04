@@ -251,6 +251,9 @@ Seine Arbeit macht dem Mann Spaß.
 | enttäuschen                                       | disappoint               |
 | enttäuschend                                      | disappointed             |
 | auswendig lernen                                  | memorize sth.            |
+| häufig                                            | frequent                 |
+
+### Wendungen
 
 durch das Hotel führen  
 zusammen zu Mittag essen  
@@ -270,7 +273,11 @@ Mein Vater kann nicht mit dem Computer umgehen.
 Das ist mir(für mich) egal/langweilig/wichtig/heiß/peinlich  
 Mir ist egal.
 
-Die Menschen glauben fest an das, was sie wünschen.
+Mir wäre der Lärm dort zu viel.  
+The noise there would be too much for me.
+
+Die Menschen glauben fest an das, was sie wünschen.  
+People firmly believe in what they want.
 
 ### Schreibaufgabe
 
@@ -284,63 +291,64 @@ Mein Beruf ist meine Leidenschaft.
 
 ### Wörter
 
-| Deutsch                                 | Bedeutung                |
-| --------------------------------------- | ------------------------ |
-| die Leidenschaft                        | passion                  |
-| der Makler                              | estate agent             |
-| der Hausmeister                         | caretaker                |
-| die Innenstadt                          | city center              |
-| der Vorort                              | suburb                   |
-| das Reihenhaus                          | 联排别墅                 |
-| der Wohnblock                           | residential block        |
-| das Einfamilienhaus                     | house                    |
-| das Apartment                           | apartment                |
-| die Wohnfläche                          | living space             |
-| das Grundstück                          | plot of land             |
-| der Innenhof                            | courtyard, patio         |
-| vergraben                               | bury                     |
-| der Ofen                                | oven, furnace            |
-| der Fahrstuhl<br>der Lift<br>der Aufzug | elevator                 |
-| die Dachterrasse                        | roof terrace             |
-| die Klobürste                           | toilet brush             |
-| aufs Klo/auf Toillette gehen            | go to the toilet         |
-| das Stockwerk                           | floor storey             |
-| die Eigentumswohnung                    | owner-occupied flat      |
-| einrichten                              | furnish                  |
-| der Mangel                              | shortage                 |
-| herrschen                               | rule, prevail            |
-| weit entfernt                           | far away                 |
-| der Besitz                              | property                 |
-| jm. begegnen, die Begegnung             | encounter                |
-| ankommen                                | arrive                   |
-| weihen                                  | unveil                   |
-| der Zugang                              | access                   |
-| erben                                   | inherit                  |
-| das Quartier/die Unterkunft             | accommodation            |
-| der Anspruch                            | demand                   |
-| schließlich                             | at last                  |
-| vorhin                                  | a short time ago         |
-| der Abstand                             | distance                 |
-| der Eintritt                            | entrance                 |
-| zurzeit                                 | at the present           |
-| merkwürdig                              | strange                  |
-| eng                                     | narrow                   |
-| gemütlich                               | comfortable              |
-| die Bevölkerung                         | population               |
-| besiedeln                               | settle                   |
-| steigen                                 | increase                 |
-| die Entwicklung                         | growth                   |
-| betreffen                               | affect                   |
-| knapp                                   | short                    |
-| aus einem Land stammen                  | originate from a country |
-| dicht                                   | dense                    |
-| ländlich                                | rural                    |
-| die Gegend, das Gebiet                  | area                     |
-| vor allem                               | especially               |
-| der Anteil                              | proportion               |
-| träumen von D.                          | dream of sth.            |
+| Deutsch                                       | Bedeutung                |
+| --------------------------------------------- | ------------------------ |
+| die Leidenschaft                              | passion                  |
+| der Makler                                    | estate agent             |
+| der Hausmeister, der Hausbesorger, der Abwart | caretaker                |
+| die Innenstadt                                | city center              |
+| der Vorort                                    | suburb                   |
+| das Reihenhaus                                | 联排别墅                 |
+| der Wohnblock                                 | residential block        |
+| das Einfamilienhaus                           | house                    |
+| das Apartment                                 | apartment                |
+| die Wohnfläche                                | living space             |
+| das Grundstück                                | plot of land             |
+| der Innenhof                                  | courtyard, patio         |
+| vergraben                                     | bury                     |
+| der Ofen                                      | oven, furnace            |
+| der Fahrstuhl<br>der Lift<br>der Aufzug       | elevator                 |
+| die Dachterrasse                              | roof terrace             |
+| die Klobürste                                 | toilet brush             |
+| aufs Klo/auf Toillette gehen                  | go to the toilet         |
+| das Stockwerk                                 | floor storey             |
+| die Eigentumswohnung                          | owner-occupied flat      |
+| einrichten                                    | furnish                  |
+| der Mangel                                    | shortage                 |
+| herrschen                                     | rule, prevail            |
+| weit entfernt                                 | far away                 |
+| der Besitz                                    | property                 |
+| jm. begegnen, die Begegnung                   | encounter                |
+| ankommen                                      | arrive                   |
+| weihen                                        | unveil                   |
+| der Zugang                                    | access                   |
+| erben                                         | inherit                  |
+| das Quartier/die Unterkunft                   | accommodation            |
+| der Anspruch                                  | demand                   |
+| schließlich                                   | at last                  |
+| vorhin                                        | a short time ago         |
+| der Abstand                                   | distance                 |
+| der Eintritt                                  | entrance                 |
+| zurzeit                                       | at the present           |
+| merkwürdig                                    | strange                  |
+| eng                                           | narrow                   |
+| gemütlich                                     | comfortable              |
+| die Bevölkerung                               | population               |
+| besiedeln                                     | settle                   |
+| steigen                                       | increase                 |
+| die Entwicklung                               | growth                   |
+| betreffen                                     | affect                   |
+| knapp                                         | short                    |
+| aus einem Land stammen                        | originate from a country |
+| dicht                                         | dense                    |
+| ländlich                                      | rural                    |
+| die Gegend, das Gebiet                        | area                     |
+| vor allem                                     | especially               |
+| der Anteil                                    | proportion               |
+| träumen von D.                                | dream of sth.            |
+| verrücken                                     | shift, displace          |
 
-### Sätze
+### Wendungen
 
 (k)eine Rolle spielen  
 (nicht) wichtig sein
@@ -359,7 +367,7 @@ sitzen
 
 Makler ist eine Person, die beim Verkauf von Häusern hilft.
 
-## Relativpronomen
+### Relativpronomen
 
 |     | Nominativ | Akkusativ | Dativ     |
 | --- | --------- | --------- | --------- |
@@ -402,17 +410,21 @@ Makler ist eine Person, die beim Verkauf von Häusern hilft.
 | die Kiste                       | box                   |
 | die Anrede                      | form of address       |
 | unverschämt                     | impertinent, inpudent |
-| bedienen                        | serve                 |
+| bedienen, die Bedienung         | operate, operation    |
 | würfeln                         | throw the dice        |
 | das Gerät                       | tool                  |
 | der Kassenzettel / die Quittung | receipt               |
 | die Rechnung                    | bill invoice          |
 | zuschicken                      | send                  |
 | ab sofort                       | immediately           |
+| selbständig                     | independent           |
 | selbstverständlich              | natural(ly)           |
 | seltsam                         | strange(ly)           |
+| die Übernachtung                | overnight stay        |
+| gegenüber                       | opposite              |
+| blass                           | pale                  |
 
-## Sätze
+### Wendungen
 
 | Deutsch             | Bedeutung                |
 | ------------------- | ------------------------ |
@@ -420,6 +432,12 @@ Makler ist eine Person, die beim Verkauf von Häusern hilft.
 | zu Tisch gehen      | eine Mittagspause machen |
 | Das kann passieren. | Das ist ok.              |
 | Schönen Tag noch.   | Danke, ebenso!           |
+
+Sein Anschluss ist besetzt.  
+His connection is busy.
+
+Ich kaufe oft im Laden gegenüber ein, obwohl die Lebensmittel dort teuer sind.  
+I often store at the store across the street, even though the groceries there are expensive.
 
 Können Sie mir helfen?  
 Ich suche ein Deutschbuch für einen Jugendlichen.
@@ -430,20 +448,6 @@ so seltsam es klingen mag
 strange to say
 
 ### Schreibaufgabe
-
-::: tip Reklamation
-Sehr geehrte Damen und Herren,
-
-vor vier Wochen habe ich eine neue Zeitung abonniert. Obwohl ich zwei E-Mails geschickt habe, habe ich immer noch keine Ausgabe erhalten. Das ist wirklich sehr ärgerlich.
-
-Ich möchte Sie auffordern, dass Sie mir ab sofort wieder die Zeitung senden. Wenn ich bis nächste Woche keine Zeitung bekomme oder nichts von Ihnen höre, bezahle ich ich mein Abonnement selbstverständlich nicht mehr.
-
-Ich muss Ihnen leider sagen, dass Ihr Service mich sehr enttäuscht hat.
-
-Mit freundlichen Grüßen
-
-Franklin Qin
-:::
 
 ## Lektion 5 - Medien und Technik
 
@@ -469,7 +473,7 @@ Franklin Qin
 | die Wettervorhersage                 | weather forcast       |
 | die Vorhersage/die Vermutung         | forcast               |
 | der Vorsatz/das Versprechen/der Plan | purpose               |
-| die Aufforderung/die Warnung         | request               |
+| die Aufforderung/die Warnung         | request, warning      |
 | aufhören/aufgeben                    | stop, give up         |
 | gleiche wie                          | same as               |
 | überfordern                          | overwhelm             |
@@ -583,7 +587,7 @@ Make yourself at home.
 | beurteilen               | judge, assess                  |
 | die Manier               | manner                         |
 
-## Phrasen
+### Wendungen
 
 jn. begrüßen  
 eine Flasche Wein als Gastgeschenk mitbringen  
@@ -649,7 +653,7 @@ Abchied und Dank
 sich verabschieden von jm.  
 jm. danken
 
-## Sätze
+### Sätze
 
 | Deutsch                                             | Bedeutung                                                                                                  |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -658,14 +662,16 @@ jm. danken
 | Sie unterhalten sich gern beim Essen.               | They like to talk while eating.                                                                            |
 | Arbeiten Sie sich zum Besteck, das innen liegt, vor | Nicht gleich das Besteck innen benutzen, sondern zuerst das Besteck außen, dann langsam das Besteck innen. |
 
-### Falls
+### Grammatik
+
+#### Falls
 
 Falls Sie das Essen bereits beendet haben, legen Sie die Serviette neben den Teller.  
 Legen Sie die Serviette neben den Teller, falls Sie das Essen bereits beendet haben.
 
 ???
 
-### Einladung
+#### Einladung
 
 ::: Halboffizielle Einladungen von Gastgeber
 Herzlich willkommen, Frau/Herr $\cdots$! kommen Sie rein. Schön, dass es geklappt hat.  

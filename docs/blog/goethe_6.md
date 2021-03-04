@@ -70,9 +70,9 @@ Ich wohne lieber {in der Stadt / auf dem Land}, weil es Gute Angebote und mehr F
 | Leiter                         | leader                       |
 | regelmäßig                     | regular(ly)                  |
 | anziehen                       | attract                      |
+| sich anziehen                  | get dressed                  |
 | schminken                      | put on makeup                |
 | rasieren                       | shave oneself                |
-| anziehen                       | get dressed                  |
 | ausziehen                      | take off clothes             |
 | umziehen                       | change clothes               |
 | abtrocknen                     | dry                          |

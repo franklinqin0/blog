@@ -23,7 +23,7 @@ Deutsch Notizen für das Goethe Institut - B1.1 zwei
 | schmutzig                 | dirty                                                   |
 | ernsthaft                 | serious                                                 |
 | die Haltung               | attitude                                                |
-| damals                    | then                                                    |
+| damals                    | at that time                                            |
 | austauschen               | exchange                                                |
 | rechnen                   | pay                                                     |
 | tauchen                   | dive                                                    |
@@ -623,50 +623,55 @@ Oh, **mist**, jetzt habe ich mein Geld vergessen.
 
 ### Wörter
 
-| Deutsch                  | Bedeutung                       |
-| ------------------------ | ------------------------------- |
-| der Betriebsausflug      | works outing                    |
-| der Betriebsrat          | works committee                 |
-| die Betriebsversammlung  | works meeting                   |
-| die Betriebsvereinbarung | works agreement                 |
-| die Versammlung          | meeting, assembly               |
-| das Jubiläum             | anniversary                     |
-| der Einstand             | debut                           |
-| der Ausstand             | strike                          |
-| die Weihnachtsfeier      | christmas party                 |
-| das Sommerfest           | summer party                    |
-| das Floß                 | raft                            |
-| die Floßfahrt            | voyage by raft                  |
-| der Zeitraum             | period                          |
-| die Saison               | season                          |
-| gestrig                  | yesterday's                     |
-| heutig                   | today's                         |
-| morgig                   | tomorrow's                      |
-| der Buchstabe            | letter, character               |
-| der Einsatz              | commitment                      |
-| das Spielzeug            | toy                             |
-| die Gewerkschaft         | trade union                     |
-| der Dieb                 | thief                           |
-| der Einbrecher           | burglar                         |
-| der Räuber               | robber                          |
-| das Opfer                | sacrifice, victim               |
-| vertreten                | support                         |
-| baldig                   | quick                           |
-| die Wegbeschreibung      | directions                      |
-| die Floßfahrt            | voyage by raft                  |
-| sich nach D. erkundigen  | inquire                         |
-| der/die Angehörige       | der/die Verwandte, das Mitglied |
-| wieso                    | warum                           |
+| Deutsch                         | Bedeutung                                   |
+| ------------------------------- | ------------------------------------------- |
+| der Betriebsausflug             | works outing                                |
+| der Betriebsrat                 | works committee                             |
+| die Betriebsversammlung         | works meeting                               |
+| die Betriebsvereinbarung        | works agreement                             |
+| die Versammlung                 | meeting, assembly                           |
+| das Jubiläum                    | anniversary                                 |
+| der Einstand                    | debut                                       |
+| der Ausstand                    | strike                                      |
+| die Weihnachtsfeier             | christmas party                             |
+| das Sommerfest                  | summer party                                |
+| das Floß                        | raft                                        |
+| die Floßfahrt                   | voyage by raft                              |
+| der Zeitraum                    | period                                      |
+| die Saison                      | season                                      |
+| gestrig                         | yesterday's                                 |
+| heutig                          | today's                                     |
+| morgig                          | tomorrow's                                  |
+| der Buchstabe                   | letter, character                           |
+| der Einsatz                     | commitment                                  |
+| das Spielzeug                   | toy                                         |
+| die Gewerkschaft                | trade union                                 |
+| der Dieb                        | thief                                       |
+| der Einbrecher                  | burglar                                     |
+| der Räuber                      | robber                                      |
+| das Opfer                       | sacrifice, victim                           |
+| vertreten                       | support                                     |
+| baldig                          | quick                                       |
+| die Wegbeschreibung             | directions                                  |
+| die Floßfahrt                   | voyage by raft                              |
+| sich nach D. erkundigen         | inquire                                     |
+| der Angehöriger, die Angehörige | der Verwandter, die Verwandte, das Mitglied |
+| wieso                           | warum                                       |
+
+### Wendungen
 
 auf baldiges Wiedersehen  
 (formal) see you again soon
 
-außer + D. 除了  
-Außer einem kleinen weihnachtlichen Buffet gibt es ein Konzert von unserem Betriebschor.  
+::: tip außer + D. 除了  
+**Außer** einem kleinen weihnachtlichen Buffet gibt es ein Konzert von unserem Betriebschor.  
 In addition to a small Christmas buffet, there will be a concert by our company choir.
+:::
 
+::: tip
 Ich wünsche Ihnen eine schöne Adventszeit im Kreis Ihrer Angehörigen und Freunde.  
 I wish you a wonderful Advent season in the circle of your relatives and friends.
+:::
 
 Außerdem wollte ich mich noch erkundigen, ob wir für die Floßfahrt wasserdichte Schuhe brauchen.  
 I also wanted to find out if we needed waterproof shoes for the raft trip.
@@ -696,7 +701,6 @@ Glück ist für mich $\cdots$
 - der Schneemann des Winters
 - das Lächeln der Kinder
 
-ausser nach zu aus bei
-gegenüber
+Dativ: `außer` `nach` `zu` `aus` `bei` `gegenüber`
 
 trotz + Genitiv

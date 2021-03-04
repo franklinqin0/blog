@@ -291,6 +291,8 @@ Being annoyed, she pursed her lips.
 | der Blickkontakt       | eye contact          |
 | die Sitzhaltung        | sitting posture      |
 | die Sauberkeit         | cleanliness          |
+| üblich                 | normal, usual        |
+| beherrschen            | control              |
 
 ### Wendungen
 
@@ -322,6 +324,62 @@ In einzelnen Handwerksberufen herrscht nicht nur ein großer Mangel an Auszubild
 In individual skilled trades, there is not only a major shortage of trainees, but also a lack of trained employees
 
 ## Lektion 16 - Kunst und Malerei
+
+| Deutsch                  | Bedeutung                    |
+| ------------------------ | ---------------------------- |
+| der/die Alte, der Kumpel | buddy 哥们                   |
+| die Ehe                  | marriage                     |
+| die Fernbeziehung        | long distance relationship   |
+| das Mobbing              | hassling, bullying           |
+| die Träne, -n            | tear                         |
+| der Ehemann, die Ehefrau | (formell) der Mann, die Frau |
+| aufwärts                 | upwards                      |
+| fettarm                  | arm an Fett 清淡的           |
+| bügeln, der Bügel        | iron, hanger                 |
+| brav                     | well-behaved 乖              |
+| sich merken              | remember                     |
+| womit                    | with which                   |
+| die Verneinung           | rejection                    |
+| dauernd                  | constant                     |
+| abheben                  | withdraw                     |
+| runtergefallen           | fall down/off                |
+| anschaffen               | purchase, buy                |
+| übertreiben, übertrieben | exaggerate, exaggerated      |
+| streichen                | delete, cancel               |
+| vorstellbar              | imaginable                   |
+| auflösen                 | dissolve                     |
+
+Du brauchst nicht alleine zu lernen.  
+Du musst nicht alleine lernen.
+
+Man braucht keine Details zu lernen.  
+Man muss keine Details lernen.
+
+Du brauchst nur Bescheid zu sagen.  
+Du musst nur Bescheid sagen.
+
+### Wendungen
+
+gestritten  
+sich streiten mit D.  
+sich streiten
+
+sich verstehen  
+sich küssen  
+jn. Küssen
+
+sich verlieben in A.  
+verliebt sein in A.
+
+Ich habe geheiratet.  
+Ich bin verheiratet.  
+mit jm. verheiratet sein  
+jn. heiraten
+
+Ich bin in der Stadt/in einem Dorf aufgewachsen.
+
+Er tat etwas, womit ich nicht einverstanden war.  
+He did something with which I did not agree.
 
 ## Lektion 17 - Politik und Gesellschaft
 
