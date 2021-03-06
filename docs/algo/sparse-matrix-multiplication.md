@@ -4,7 +4,6 @@ diff: medium
 tags:
   - Array
   - Two Pointers
-  - HashMap
 ---
 
 <img class="medium-zoom" src="/algo/sparse-matrix-multiplication.png" alt="https://leetcode.com/problems/sparse-matrix-multiplication">

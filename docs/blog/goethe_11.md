@@ -383,4 +383,23 @@ He did something with which I did not agree.
 
 ## Lektion 17 - Politik und Gesellschaft
 
+| Deutsch           | Bedeutung              |
+| ----------------- | ---------------------- |
+| der Eintopf       | stew                   |
+| die Ente          | duck                   |
+| leuchten          | shine                  |
+| das Gemälde       | painting               |
+| die Skizze        | sketch, outline, draft |
+| der Hügel         | hill                   |
+| entstehen         | originate              |
+| verfügbar         | available              |
+| die Malschule     | painting school        |
+| die Erbe          | inheritance, heritage  |
+| anerkennen        | recognize, acknowledge |
+| gründen           | establish              |
+| der Heiratsantrag | marriage proposal      |
+| die Flucht        | flight                 |
+| kehren            | sweep                  |
+| zurückkehren      | return                 |
+
 ## Lektion 18 - Erinnerungen und Beziehungen

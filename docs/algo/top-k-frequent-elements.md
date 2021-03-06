@@ -3,7 +3,7 @@ title: Top K Frequent Elements
 diff: medium
 tags:
   - Heap
-  - Hash Map
+  - Randomization
 ---
 
 <img class="medium-zoom" src="/algo/top-k-frequent-elements.png" alt="https://www.leetcode.com/problems/top-k-frequent-elements">
