@@ -373,6 +373,8 @@ def _push_down(arr, k):
 
 [Fantastic Algorithms and Where To Find Them](https://youtu.be/YA-nB2wjVcI)
 
+Morris Traversal created sth similar to a [threaded binary tree](https://en.wikipedia.org/wiki/Threaded_binary_tree).
+
 ```py {12,18}
 def morrisTraversal(self, root: TreeNode) -> List[int]:
     res = []

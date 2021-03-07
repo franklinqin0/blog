@@ -197,6 +197,7 @@ Sie konnten das Missverständnis aufklären: Die Mutter meinte **nämlich** nich
 | der Ton                            | tone                   |
 | überzeugend                        | convincing             |
 | die Stilrichtung                   | style                  |
+| der Lebensstil                     | lifestyle              |
 | wendig                             | agile, flexible        |
 | notwendig                          | necessary              |
 | die Geschmacksrichtung             | taste, flavor          |
@@ -383,23 +384,27 @@ He did something with which I did not agree.
 
 ## Lektion 17 - Politik und Gesellschaft
 
-| Deutsch           | Bedeutung              |
-| ----------------- | ---------------------- |
-| der Eintopf       | stew                   |
-| die Ente          | duck                   |
-| leuchten          | shine                  |
-| das Gemälde       | painting               |
-| die Skizze        | sketch, outline, draft |
-| der Hügel         | hill                   |
-| entstehen         | originate              |
-| verfügbar         | available              |
-| die Malschule     | painting school        |
-| die Erbe          | inheritance, heritage  |
-| anerkennen        | recognize, acknowledge |
-| gründen           | establish              |
-| der Heiratsantrag | marriage proposal      |
-| die Flucht        | flight                 |
-| kehren            | sweep                  |
-| zurückkehren      | return                 |
+| Deutsch              | Bedeutung              |
+| -------------------- | ---------------------- |
+| der Eintopf          | stew                   |
+| die Ente             | duck                   |
+| leuchten             | shine                  |
+| das Gemälde          | painting               |
+| die Skizze           | sketch, outline, draft |
+| der Hügel            | hill                   |
+| entstehen            | originate              |
+| verfügbar            | available              |
+| die Malschule        | painting school        |
+| die Erbe             | inheritance, heritage  |
+| anerkennen           | recognize, acknowledge |
+| gründen              | establish              |
+| der Heiratsantrag    | marriage proposal      |
+| die Flucht           | flight                 |
+| kehren               | sweep                  |
+| zurückkehren         | return                 |
+| bewandert            | experienced            |
+| anrühren, anrührend  | touch, touching        |
+| der Schornsteinfeger | chimney sweep(er)      |
+| die Bemühung         | effort                 |
 
 ## Lektion 18 - Erinnerungen und Beziehungen

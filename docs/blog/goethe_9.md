@@ -423,6 +423,10 @@ Makler ist eine Person, die beim Verkauf von Häusern hilft.
 | die Übernachtung                | overnight stay        |
 | gegenüber                       | opposite              |
 | blass                           | pale                  |
+| der Notfall                     | emergency             |
+| dringend                        | urgent(ly)            |
+| sich wenden                     | turn, appeal          |
+| der Notdienst                   | emergency service     |
 
 ### Wendungen
 
