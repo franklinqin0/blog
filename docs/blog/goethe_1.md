@@ -150,7 +150,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | Pflichtfeld(er) | required field(s)  |
 | bisschen        | a bit              |
 | natülich        | natural(ly)        |
-| Aufnahme        | recording          |
+| Aufnahme        | opening, recording |
 | Beitrag         | contribution       |
 | absenden        | send               |
 | Änderung(en)    | change(s)          |
@@ -266,16 +266,17 @@ Deutsch Notizen vom 2. bis 8. März.
 
 ### Sätze
 
-| Deutsch                                              | Englisch      |
-| ---------------------------------------------------- | ------------- |
-| Das ist dann alles.                                  | That's all.   |
-| Auf Wiedersehen.                                     | Goodbye.      |
-| Tschüs.                                              | Goodbye.      |
-| Tschau(ciao).                                        | Goodbye.      |
-| Guten Tag.                                           | Good morning. |
-| Gute Nacht.                                          | Good night.   |
-| Wie geht's?<br>Wie geht's dir?<br>Wie geht es Ihnen? | How are you?  |
-| Ach, nicht so gut.<br>Gar nicht gut.                 | Not so good.  |
+| Deutsch                                              | Englisch                |
+| ---------------------------------------------------- | ----------------------- |
+| Das ist dann alles.                                  | That's all.             |
+| Auf Wiedersehen.                                     | Goodbye.                |
+| Tschüs.                                              | Goodbye.                |
+| Tschau(ciao).                                        | Goodbye.                |
+| Guten Tag.                                           | Good morning.           |
+| Gute Nacht.                                          | Good night.             |
+| Wie geht's?<br>Wie geht's dir?<br>Wie geht es Ihnen? | How are you? 你怎么样？ |
+| Wie geht es euch                                     | 你们怎么样？            |
+| Ach, nicht so gut.<br>Gar nicht gut.                 | Not so good.            |
 
 ## 6. März
 

@@ -405,5 +405,6 @@ Zu meiner Familie gehören zwei Teile. Meine Großeltern wohnen jetzt in der Hei
 | Schläger                      | racket               |
 | informieren                   | inform               |
 | Erholung                      | recreation           |
-| ausschlafen                   | sleep late           |
+| verschlafen                   | 睡过头               |
+| ausschlafen                   | 睡到自然醒           |
 | ausruhen                      | rest, relax          |
