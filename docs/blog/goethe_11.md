@@ -306,20 +306,6 @@ Being annoyed, she pursed her lips.
 
 ### Wendungen
 
-zweiteilige Konjunktionen
-
-::: theorem nicht nur ... sondern auch
-_verbindet Wörter, Satzteile_  
-nicht nur A, sondern auch B  
-not only A, but also B
-:::
-
-::: theorem sowohl ... als (auch)
-_verbindet Wörter, Satzteile, Sätze_  
-sowohl A als (auch) B  
-A as well as B
-:::
-
 geht auf andere zu  
 kontaktfreudig
 
@@ -339,6 +325,24 @@ die Bewerberin, -nen
 
 In einzelnen Handwerksberufen herrscht nicht nur ein großer Mangel an Auszubildenden, sondern es fehlen auch ausgebildete Mitarbeiter.  
 In individual skilled trades, there is not only a major shortage of trainees, but also a lack of trained employees
+
+### Grammatik
+
+#### zweiteilige Konjunktionen 和
+
+::: theorem nicht nur ... sondern auch
+_verbindet Wörter, Satzteile, Sätze_  
+nicht nur A, sondern auch B  
+not only A, but also B
+:::
+
+::: theorem sowohl ... als (auch)
+_verbindet Wörter, Satzteile_  
+sowohl A als (auch) B  
+A as well as B
+:::
+
+### Sätze
 
 ::: tip formell
 **Sehr geehrte** Damen und Herren,
@@ -368,7 +372,7 @@ Mit freundlichen Grüßen
 Mit freundlichen Grüßen
 :::
 
-## Lektion 16 - Kunst und Malerei
+## Lektion 16 - Erinnerungen und Beziehungen
 
 | Deutsch                  | Bedeutung                    |
 | ------------------------ | ---------------------------- |
@@ -432,7 +436,7 @@ Ich bin in der Stadt/in einem Dorf aufgewachsen.
 Er tat etwas, womit ich nicht einverstanden war.  
 He did something with which I did not agree.
 
-## Lektion 17 - Politik und Gesellschaft
+## Lektion 17 - Kunst und Malerei
 
 | Deutsch                    | Bedeutung                         |
 | -------------------------- | --------------------------------- |
@@ -480,10 +484,10 @@ He did something with which I did not agree.
 
 ## Wendungen
 
-### Ausdrücke mit es
+### Ausdrücke mit `es`
 
-::: theorem feste Wendungen
-Es ist schwierig/schwer, zu $\cdots$  
+::: tip feste Wendungen
+Es ist schwierig/schwer/nicht leicht/noch nicht möglich, $\cdots$  
 Es lohnt sich (nicht).  
 Es fällt ihr schwer, zu $\cdots$  
 Es ist nicht leicht, $\cdots$  
@@ -491,17 +495,20 @@ Es war damals noch nicht möglich, $\cdots$
 Es gibt $\cdots$
 :::
 
-::: theorem Uhr-, Tages- und Jahreszeiten
+::: tip Uhr-, Tages- und Jahreszeiten
 Es ist schon Abend/Nacht.
-Es ist Sommer, $\cdots$
+Es ist Frühling/Sommer/Herbst/Winter $\cdots$
 :::
 
-::: theorem Wetter
+::: tip Wetter
 Es schneit/regnet.
-Es ist sonnig/neblig.
+Es ist sonnig/neblig.  
+Es hat kurz vorher geregnet.  
+Es war eher bewöklt.  
+Es donnert und blitzt.
 :::
 
-::: theorem Befinden
+::: tip Befinden
 Wie geht es euch? - Es geht uns gut.
 :::
 
@@ -509,16 +516,131 @@ Bei Sonnenschein geht es mir immer gut.
 Gestern hat es zum ersten Mal geschneit.
 Es regnet nur ganz leicht. Da lohnt es sich nicht, den Regenschirm aufzumachen.
 
+seit einigen Jahren  
+for several years  
+Ich spiele seit einigen Jahren Klavier.  
+I have been playing the piano for several years.
+
+## Lektion 18 - Politik und Gesellschaft
+
+### Wörter
+
+| Deutsch                | English            |
+| ---------------------- | ------------------ |
+| entweder               | either             |
+| dafür                  | for it             |
+| dagegen                | against it         |
+| dazwischen             | between them       |
+| der Rentner            | pensioner          |
+| ehrenamtlich           | voluntary          |
+| fördern, die Förderung | promote, promotion |
+| reichen                | reach, be enough   |
+| aufheben               | pick up            |
+| inzwischen             | meanwhile          |
+| mittlerweile           | meanwhile, by now  |
+| der Pate               | sponsor, godfather |
+| sodass                 | so that            |
+| spielerisch            | playful            |
+| konkurrieren           | compete            |
+
+### Wendungen
+
+jn. von D. abhalten  
+Das schlechte Wetter halt mich davon ab, meine Freunde zu treffen.
+
+::: tip (un)wichtig
 Ich interessiere mich nicht/sehr für $\cdots$  
 Ich habe (kein) Interesse an $\cdots$  
 $\cdots$ ist mir nicht wichtig.  
 Es kommt mir darauf an, $\cdots$  
 Am wichtigsten ist mir, $\cdots$  
 Ich lege großen Wert auf $\cdots$
+:::
 
-seit einigen Jahren  
-for several years  
-Ich spiele seit einigen Jahren Klavier.  
-I have been playing the piano for several years.
+::: tip eine Meinung äußern
+Da bin ich gleicher / (völlig) anderer Meinung.  
+Das sehe ich auch/nicht so.  
+Dafür/Dagegen spricht, dass $\cdots$  
+Meiner Meinung/Ansicht nach $\cdots$  
+Davon halte ich nicht viel, denn $\cdots$
+:::
 
-## Lektion 18 - Erinnerungen und Beziehungen
+::: tip auf Meinungsäußerungen reagieren
+Nein, auf keinen Fall.  
+Das ist doch Unsinn!  
+Unbedingt!  
+Ganz meine Meinung.
+:::
+
+### Grammatik
+
+#### Zweiteilige Konjunktionen
+
+::: tip
+sowohl A als (auch) B  
+A as well as B
+
+nicht nur A, sondern auch B  
+not only A, but also B
+
+entweder A oder B  
+either A or B  
+Die Gründe waren entweder nicht eingehaltene Wahlversprechen oder die Skandale einiger Minister.  
+The reasons were either unfulfilled election promises or the scandals of some ministers.
+
+weder A noch B  
+neither A nor B  
+Weder waren den jungen Leuten die Volksvertreter volksnah genug, noch konnten sie die Parteien gut genug voneinander unterscheiden.  
+Neither were the people's representatives close enough to the young people, nor could they distinguish between the parties well enough.
+
+zwar $\cdots$ aber  
+it's true $\cdots$ but  
+obwohl/troztdem  
+Zwar hält die Mehrheit der Jugendlichen die Demokratie für die beste Staatform, aber die etablierten Parteien profitieren kaum davon.  
+Although the majority of young people consider democracy to be the best form of government, the established parties hardly benefit from it.
+:::
+
+::: theorem Position zweiteiliger Konjunktionen
+`nicht nur` `zwar` `weder` `entweder` `noch` haben eine Position im Satz.  
+`sondern` `aber` `oder` haben keine Position im Satz.  
+Vor den zweiten Konnektoren steht _ein Komma_: `aber` `sondern`
+:::
+
+::: tip Politik
+Sowohl Otto von Bismarck als auch Konrad Adenauer haben viel zur deutschen Geschichte beigetragen.
+
+Mit weder Deutschland noch Frankreich sind die anderen europäischen Länder zufrieden.
+:::
+
+#### Wortbildung
+
+Adjektiv + -heit/-keit $\rightarrow$ Nomen  
+Adjektiv + -ismus $\rightarrow$ Nomen
+
+| -keit                                                                                                                                       | -heit                                                                                                                           | -ismus                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| tätig - die Tätigkeit<br>möglich - die Möglichkeit<br>fähig - die Fähigkeit<br>dankbar - die Dankbarkeit<br>öffentlich - die Öffentlichkeit | frei - die Freiheit<br>wahr - die Wahrheit<br>gesund - die Gesundheit<br>krank - die Krankheit<br>zufrieden - die Zufriedenheit | realistisch - der Realismus<br>touristisch - der Tourismus |
+
+Nomen + -ler $\rightarrow$ Nomen  
+Verben auf -ieren + -ant/-ent $\rightarrow$ Nomen
+
+| -ler                                                       | -ent                                                                                                                                                | -ant                                                             |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Sport - der Sportler<br>Wissenschaft - der Wissenschaftler | studieren - der Student<br>abonnieren - der Abonnent<br>konkurrieren - der Konkurrent<br>assistieren - der Assistent<br>produzieren - der Produzent | demonstrieren - der Demonstrant<br>praktizieren - der Praktikant |
+
+### Sätze
+
+Inzwischen hat sich die Lage geändert.  
+Meanwhile, the situation has changed.
+
+Wenn ich erst einmal anfange, sind sie ganz still und wollen überhaupt nicht mehr, dass ich aufhöre.  
+Once I start, they are very quiet and don't want me to stop at all.
+
+Seit ich denken kann, liegt mir die Umwelt am Herzen.  
+Ever since I can remember, the environment has been close to my heart.
+
+Kinder entdecken die Welt auf spielerische Art.  
+Children discover the world in a playful way.
+
+Ich kann nicht sagen, ob ich ihm mehr gebe oder er mir. Meine eigene Zufriedenheit ist jedenfalls stark gestiegen, seitdem ich mich sozial engagiere.  
+I can't tell if I'm giving him more or he's giving me more. In any case, my own satisfaction has risen sharply since I became socially involved.

@@ -566,7 +566,7 @@ Was würde dich glücklich machen?
 - Sonne genießen
 - Geschwister bekommen
 
-### Plusquamperfekt mit haben/sein
+### Plusquamperfekt mit `haben`/`sein`
 
 ::: theorem Nachdem & Plusquamperfekt
 Das **Plusquamperfekt** bildet man mit **waren/hatten + Partizip II**. **Nachdem**-Satz ist ein **Nebensatz**. Wenn es im Nebensatz **Plusquamperfekt** ist, dann ist es im Hauptsatz **Perfekt oder Präteritum**; wenn im Nebensatz **Perfekt oder Präteritum** ist, dann ist es im Hauptsatz **Präsens**.

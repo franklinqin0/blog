@@ -144,7 +144,7 @@ Deutsch Notizen für das Goethe Institut - A2 eins
 | Warum kochst du gern?             | Weil Kochen interessant ist. |
 | Warum magst du kochen?            | Weil Kochen mir Spaß macht.  |
 
-#### Nebensätze mit weil
+#### Nebensätze mit `weil`
 
 - Ich habe tanzen gelernt, weil meine Frau gern tanzt.
 - Ich habe Gitarre spielen gelernt, weil ich gern Musik gemacht habe.
