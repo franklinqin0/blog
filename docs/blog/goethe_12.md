@@ -15,6 +15,74 @@ Deutsch Notizen für das Goethe Institut - B1.2 zwei
 
 ## Lektion 19 - Landschaft und Tourismus
 
+Je älter ich wurde, desto $\cdots$  
+The older I got, the
+
+### Wörter
+
+| Deutsch          | Bedeutung          |
+| ---------------- | ------------------ |
+| das Theaterstück | stage play         |
+| die Heide        | heath 荒原         |
+| das Heidekraut   | heather 石南属植物 |
+| das Moor         | marsh 沼泽         |
+| der Bach         | stream, brook      |
+| das Gras         | pasture            |
+| der Bauer        | farmer             |
+| das Vieh         | livestock          |
+| die Biene        | bee                |
+| der Honig        | honey              |
+| die Wolle        | wool               |
+| das Schaf        | sheep              |
+| die Herde        | herd               |
+| die Pflanze      | plant              |
+| der Acker        | field, farmland    |
+| die Blüte        | flower, blossom    |
+| das Getreide     | grain              |
+| das Pferd        | horse              |
+| entstehen        | originate          |
+| der Schwanz      | tail               |
+| der Frosch       | frog               |
+| der Rundfunk     | radio              |
+| derselbe         | the same           |
+| die Krönung      | coronation         |
+| deren            | whose              |
+| genervt          | annoyed            |
+| bewusst          | aware              |
+| selbstbewusst    | confident          |
+| Sinn ergeben     | make sense         |
+
+### Grammatik
+
+#### je $\cdots$ desto/umso $\cdots$
+
+mehr/weniger 在名词前不加词尾
+
+::: tip je + Komparativ + Nebensatz, desto/umso + Komparativ + Verb
+**Je** mehr Bücher man liest, **desto** besser lernt man die Welt kennen.  
+The more books you read, the better you get to know the world.
+
+Der Flughafen ist klein. Die Flugzeuge starten pünktlich.  
+**Je** kleiner der Flughafen ist, **desto** pünktlicher starten die Flugzeuge.
+
+Das Hotel ist teuer. Die Betten sind bequem.  
+**Je** teurer das Hotel ist, **desto** bequemer sind die Betten.
+
+Man nimmt wenig Gepäck mit. Man muss oft waschen.  
+**Je** weniger Gepäck man mitnimmt, **desto** öfter muss man waschen.
+
+Es gibt viele Touristen. Es gibt zahlreiche Souvenirläden.  
+**Je** mehr Touristen es gibt, **desto** zahlreicher sind die Souvenirläden.
+
+Man versteht die Sprache des Reiselandes gut. Man lernt viele Menschen kennen.  
+**Je** besser man die Sprache des Reiselandes versteht, **desto** mehr Menschen lernt man kennen.
+:::
+
+### Sätze
+
+Wolle kommt von Schafen.  
+Wool comes from sheep.
+
 ## Lektion 20 - in den Bergen
 
 ## Lektion 21 - Konzerte und Veranstaltungen

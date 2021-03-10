@@ -50,14 +50,15 @@ Deutsch Notizen für das Goethe Institut - B1.2 eins
 | die Durchsage           | announcement                   |
 | das Ereignis            | event                          |
 | deutlich                | clear                          |
+| mehrere                 | several                        |
 
-| bei Personen | bei Sachen  |
-| ------------ | ----------- |
-| müde         | anstrengend |
-| verärgert    | ärgerlich   |
-| gestresst    | stressig    |
-| gespannt     | spannend    |
-| gelangweilt  | langweilig  |
+| bei Personen        | bei Sachen          |
+| ------------------- | ------------------- |
+| müde                | anstrengend         |
+| verärgert           | ärgerlich           |
+| gestresst           | stressig            |
+| gespannt, aufgeregt | spannend, aufregend |
+| gelangweilt         | langweilig          |
 
 | Teekesselchen                  | Bedeutung                |
 | ------------------------------ | ------------------------ |
@@ -301,6 +302,7 @@ Being annoyed, she pursed her lips.
 | führend                | leading, prominent   |
 | das Möbelstück         | furniture            |
 | die Betreuung          | care                 |
+| die Kinderbetreuung    | childcare            |
 | wachsen                | grow, evolve         |
 | bremsen                | stop, brake          |
 
@@ -374,35 +376,46 @@ Mit freundlichen Grüßen
 
 ## Lektion 16 - Erinnerungen und Beziehungen
 
-| Deutsch                  | Bedeutung                    |
-| ------------------------ | ---------------------------- |
-| der/die Alte, der Kumpel | buddy 哥们                   |
-| die Ehe                  | marriage                     |
-| die Fernbeziehung        | long distance relationship   |
-| das Mobbing              | hassling, bullying           |
-| die Träne, -n            | tear                         |
-| der Ehemann, die Ehefrau | (formell) der Mann, die Frau |
-| aufwärts                 | upwards                      |
-| fettarm                  | arm an Fett 清淡的           |
-| bügeln, der Bügel        | iron, hanger                 |
-| brav                     | well-behaved 乖              |
-| sich merken              | remember                     |
-| womit                    | with which                   |
-| die Verneinung           | rejection                    |
-| dauernd                  | constant                     |
-| abheben                  | withdraw                     |
-| runtergefallen           | fall down/off                |
-| anschaffen               | purchase, buy                |
-| übertreiben, übertrieben | exaggerate, exaggerated      |
-| streichen                | delete, cancel               |
-| vorstellbar              | imaginable                   |
-| auflösen                 | dissolve                     |
-| retten                   | rescue                       |
-| sich erholen             | relax                        |
-| die Schminke             | make-up                      |
-| sich gewöhnen            | accustom                     |
+| Deutsch                         | Bedeutung                    |
+| ------------------------------- | ---------------------------- |
+| der/die Alte, der Kumpel        | buddy 哥们                   |
+| die Ehe                         | marriage                     |
+| die Fernbeziehung               | long distance relationship   |
+| das Mobbing                     | hassling, bullying           |
+| die Träne, -n                   | tear                         |
+| der Ehemann, die Ehefrau        | (formell) der Mann, die Frau |
+| aufwärts                        | upwards                      |
+| fettarm                         | arm an Fett 清淡的           |
+| bügeln, der Bügel               | iron, hanger                 |
+| brav                            | well-behaved 乖              |
+| sich merken                     | remember                     |
+| womit                           | with which                   |
+| die Verneinung                  | rejection                    |
+| dauernd                         | constant                     |
+| abheben                         | withdraw                     |
+| runtergefallen                  | fall down/off                |
+| anschaffen                      | purchase, buy                |
+| übertreiben, übertrieben        | exaggerate, exaggerated      |
+| streichen                       | delete, cancel               |
+| vorstellbar                     | imaginable                   |
+| auflösen                        | dissolve                     |
+| retten                          | rescue                       |
+| sich erholen                    | relax                        |
+| die Schminke                    | make-up                      |
+| sich gewöhnen an                | accustom                     |
+| der Auftritt                    | appearance                   |
+| überreden                       | persuade                     |
+| sich entschließen, entschlossen | decide, determined           |
+| heutzutage                      | nowadays                     |
+| bitten                          | ask, request                 |
+| die Hose, die Hosen             | trousers                     |
+| der Rock, die Röcke             | skirts                       |
+| wochentags, unter der Woche     | weekdays                     |
+| der Zweck                       | purpose                      |
 
-### Wendungen
+### Grammatik
+
+#### nicht/nur/nie Brauchen + zu Infinitiv
 
 ::: tip brauchen & müssen
 Du brauchst **nicht** alleine _zu_ lernen.  
@@ -414,6 +427,35 @@ Man muss **keine** Details lernen.
 Du brauchst **nur** Bescheid _zu_ sagen.  
 Du musst **nur** Bescheid sagen.
 :::
+
+#### Redemittel
+
+::: tip auf Erzählungen reagieren
+Bei uns kam das nicht infrage.  
+Das war bei uns nicht vorstellbar / auch so.  
+Das können wir uns heute gar nicht mehr / immer noch sehr gut vorstellen.  
+Das ist heute kaum mehr / gut vorstellbar.  
+Das ging mir genauso / ganz anders.  
+Das kann ich gut / ehrlich gesagt nicht verstehen.
+:::
+
+::: tip Wichtigkeit ausdrücken
+Es kam mir darauf an, $\cdots$  
+Am wichtigsten war mir $\cdots$  
+Für mich war, es sehr wichtig, dass $\cdots$  
+Ich ging/war, so oft ich konnte, $\cdots$  
+Ich konnte es kaum erwarten, bis $\cdots$  
+Ich legte größten Wert auf $\cdots$  
+Das war mir (nicht so) wichtig.
+:::
+
+::: tip Gespräch
+**A:** Meine Eltern legten früher größten Wert auf Pünktlichkeit.  
+**B:**: Das war bei mir auch so. Ich bin trotzdem oft zu spät gekommen. Dann gab es richtig Ärger. Deshalb konnte ich es auch kaum erwarten, bis ich 18 wurde und selbst entscheiden durfte, wann ich nach Hause kam.  
+**A:** Das kann ich, ehrlich gesagt, gut verstehen. Bei mir kam das leider trotzdem nicht infrage, weil ich meinen Eltern oft auf dem Bauernhof helfen musste, auch als ich schon volljährig war.
+:::
+
+### Wendungen
 
 gestritten  
 sich streiten mit D.  
@@ -446,7 +488,7 @@ He did something with which I did not agree.
 | das Gemälde                | painting                          |
 | die Skizze                 | sketch, outline, draft            |
 | der Hügel                  | hill                              |
-| entstehen                  | originate                         |
+| entstehen, die Entstehung  | develop/originate, genesis        |
 | verfügbar                  | available                         |
 | die Malschule              | painting school                   |
 | die Erbe                   | inheritance, heritage             |

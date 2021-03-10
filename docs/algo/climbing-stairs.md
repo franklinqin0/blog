@@ -15,9 +15,7 @@ Brute-force approach would be to recurse by reducing `cs[n]` to `cs[n-1] + cs[n-
 
 This problem is then equivalent to finding $n$-th **fibonacci number**.
 
-### Recursive DP
-
-We could use recursion w/ the memoized array to trade time.
+### Recursive DP w/ Memoization
 
 `memo` corresponds to Fibonacci series: $1, 1, 2, 3, 5, 8, 13, 21, \cdots$
 
@@ -40,7 +38,7 @@ def climbStairs(self, n: int) -> int:
     return cs(n, memo)
 ```
 
-### Iterative DP
+### Iterative DP w/ Memoization
 
 ::: theorem Complexity
 time: $O(n)$  

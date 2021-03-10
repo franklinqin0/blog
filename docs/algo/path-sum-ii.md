@@ -6,11 +6,12 @@ tags:
   - DFS
 related:
   - path-sum
+  - path-sum-iii
 ---
 
 <img class="medium-zoom" src="/algo/path-sum-ii.png" alt="https://leetcode.com/problems/path-sum-ii">
 
-## Definition for a binary Tree Node
+## Definition for a Binary Tree Node
 
 ```py
 class TreeNode:

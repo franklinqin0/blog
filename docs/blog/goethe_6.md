@@ -71,7 +71,8 @@ Ich wohne lieber {in der Stadt / auf dem Land}, weil es Gute Angebote und mehr F
 | regelmäßig                     | regular(ly)                  |
 | anziehen                       | attract                      |
 | sich anziehen                  | get dressed                  |
-| schminken                      | put on makeup                |
+| sich schminken                 | put on makeup                |
+| die Schminke                   | makeup                       |
 | rasieren                       | shave oneself                |
 | ausziehen                      | take off clothes             |
 | umziehen                       | change clothes               |

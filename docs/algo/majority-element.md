@@ -26,7 +26,7 @@ def majorityElement(self, nums: List[int]) -> int:
     return max(cnt, key=cnt.get)
 ```
 
-### QuickSelect
+### Quick Select
 
 Find the $\lfloor \dfrac{n}{2} \rfloor$-th element in linear time with randomized algorithm `quickSelect`.
 

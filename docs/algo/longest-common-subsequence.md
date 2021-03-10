@@ -90,7 +90,7 @@ def longestCommonSubsequence(self, text1: str, text2: str) -> int:
                 M[i%2][j] = M[1-i%2][j-1] + 1
             else:
                 M[i%2][j] = max(M[1-i%2][j],M[i%2][j-1])
-        # M[0],M[1] = M[1],M[0]
+
     return M[-1][-1]
 ```
 

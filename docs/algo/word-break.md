@@ -14,7 +14,7 @@ related:
 
 Let $n$ be the length of `s`, and $m$ be the number of words in `wordDict`.
 
-### DFS (TLE)
+### Vanilla DFS (TLE)
 
 ::: theorem Complexity
 time: $O(n^m)$  
@@ -38,7 +38,7 @@ def wordBreak(self, s: str, wordDict: List[str]) -> bool:
     return dfs(0)
 ```
 
-### DFS w/ Memoization
+### Memoized DFS
 
 ::: theorem Complexity
 time: $O(nm)$  

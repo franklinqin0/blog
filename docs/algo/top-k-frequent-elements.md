@@ -10,6 +10,13 @@ tags:
 
 ## Solution
 
+### 1-liner Cheating
+
+```py
+def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+    return [num for num, _ in collections.Counter(nums).most_common(k)]
+```
+
 ### Heap
 
 ::: theorem Complexity
@@ -17,18 +24,19 @@ time: $O(n\log k)$ ($O(n)$ to build `Counter` and $O(n\log k)$ to push $n$ elts 
 space: $O(k + n)$ (hashmap w/ $\le$ $n$ elts and heap w/ $k$ elts)
 :::
 
-```py
+```py {7}
 def topKFrequent(self, nums: List[int], k: int) -> List[int]:
     if k == len(nums):
         return nums
-
     cnt = Counter(nums)
+
+    # following lines can be replaced by:
+    # return heapq.nlargest(k, cnt.keys(), key=cnt.get)
     heap = []
     for i in cnt.keys():
         heappush(heap, (cnt[i], i))
         if len(heap) > k: heappop(heap)
     return [v for _, v in heap]
-    # OR replace the last 5 lines with:
 ```
 
 ### Quick Select
