@@ -4,9 +4,21 @@ diff: easy
 tags:
   - Tree
   - DFS
+related:
+  - path-sum-ii
 ---
 
 <img class="medium-zoom" src="/algo/path-sum.png" alt="https://leetcode.com/problems/path-sum">
+
+## Definition for a binary Tree Node
+
+```py
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+```
 
 ## Solution
 

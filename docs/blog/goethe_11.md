@@ -523,6 +523,9 @@ I have been playing the piano for several years.
 
 ## Lektion 18 - Politik und Gesellschaft
 
+Davon halte ich nicht viel.  
+I do not think much of it.
+
 ### Wörter
 
 | Deutsch                | English            |
@@ -607,8 +610,7 @@ Vor den zweiten Konnektoren steht _ein Komma_: `aber` `sondern`
 :::
 
 ::: tip Politik
-Sowohl Otto von Bismarck als auch Konrad Adenauer haben viel zur deutschen Geschichte beigetragen.
-
+Sowohl Otto von Bismarck als auch Konrad Adenauer haben viel zur deutschen Geschichte beigetragen.  
 Mit weder Deutschland noch Frankreich sind die anderen europäischen Länder zufrieden.
 :::
 

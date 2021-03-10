@@ -10,14 +10,19 @@ tags:
 
 ## Solution
 
-All solutions below have complexities of **linear** time.
+Let $n$ be the length of the array.
 
-### Linear Space
+### Prefix Sum Array
 
 - `prefix_prod[i]`: products from `nums[0]` to `nums[i-1]`
 - `suffix_prod[i]`: products from `nums[n-1]` to `nums[i+1]`
 
 So the product except `nums[i]` is `prefix_prod[i-1]*suffix_prod[i+1]`.
+
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```py
 def productExceptSelf(self, nums: List[int]) -> List[int]:
@@ -47,9 +52,18 @@ def productExceptSelf(self, nums: List[int]) -> List[int]:
     return res
 ```
 
-### Constant Space
+## Follow Up
+
+> Could you solve it with constant space complexity? (The output array **does not** count as extra space for the purpose of space complexity analysis)
+
+### Prefix Sum Variable
 
 We can just accumulate `prefix_prod` and `suffix_prod` as **a number** rather than **an array** and update `res` accordingly.
+
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 ```py
 def productExceptSelf(self, nums: List[int]) -> List[int]:
