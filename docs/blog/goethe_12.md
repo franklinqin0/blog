@@ -20,37 +20,49 @@ The older I got, the
 
 ### Wörter
 
-| Deutsch          | Bedeutung          |
-| ---------------- | ------------------ |
-| das Theaterstück | stage play         |
-| die Heide        | heath 荒原         |
-| das Heidekraut   | heather 石南属植物 |
-| das Moor         | marsh 沼泽         |
-| der Bach         | stream, brook      |
-| das Gras         | pasture            |
-| der Bauer        | farmer             |
-| das Vieh         | livestock          |
-| die Biene        | bee                |
-| der Honig        | honey              |
-| die Wolle        | wool               |
-| das Schaf        | sheep              |
-| die Herde        | herd               |
-| die Pflanze      | plant              |
-| der Acker        | field, farmland    |
-| die Blüte        | flower, blossom    |
-| das Getreide     | grain              |
-| das Pferd        | horse              |
-| entstehen        | originate          |
-| der Schwanz      | tail               |
-| der Frosch       | frog               |
-| der Rundfunk     | radio              |
-| derselbe         | the same           |
-| die Krönung      | coronation         |
-| deren            | whose              |
-| genervt          | annoyed            |
-| bewusst          | aware              |
-| selbstbewusst    | confident          |
-| Sinn ergeben     | make sense         |
+| Deutsch                   | Bedeutung             |
+| ------------------------- | --------------------- |
+| das Theaterstück          | stage play            |
+| die Heide                 | heath 荒原            |
+| das Heidekraut            | heather 石南属植物    |
+| das Moor                  | marsh 沼泽            |
+| der Bach                  | stream, brook         |
+| das Gras                  | pasture               |
+| der Bauer                 | farmer                |
+| das Vieh                  | livestock             |
+| die Biene                 | bee                   |
+| der Honig                 | honey                 |
+| die Wolle                 | wool                  |
+| das Schaf                 | sheep                 |
+| die Herde                 | herd                  |
+| die Pflanze               | plant                 |
+| der Acker                 | field, farmland       |
+| blühen                    | bloom 开花            |
+| die Blüte                 | flower, blossom       |
+| das Getreide              | grain                 |
+| das Pferd                 | horse                 |
+| entstehen                 | originate             |
+| der Schwanz               | tail                  |
+| der Frosch                | frog                  |
+| der Rundfunk              | radio                 |
+| derselbe                  | the same              |
+| die Krönung               | coronation            |
+| deren                     | whose                 |
+| genervt                   | annoyed               |
+| bewusst                   | aware                 |
+| selbstbewusst             | confident             |
+| Sinn ergeben              | make sense            |
+| tatkräftig                | energetisch           |
+| an einer Krankheit leiden | suffer from a disease |
+| die Magie                 | magic                 |
+| die Hauptsaison           | high season 旺季      |
+| die Nebensaison           | 淡季                  |
+| sich(A.) für A. eignen    | suit sb./sth.         |
+| das Zelt                  | tent                  |
+| Campingplatz Wohnmobil    | campsite caravan      |
+| reiten                    | ride                  |
+| sich begeistern           | get excited           |
+| die Mithilfe              | help, assistance      |
 
 ### Grammatik
 
@@ -78,12 +90,35 @@ Man versteht die Sprache des Reiselandes gut. Man lernt viele Menschen kennen.
 **Je** besser man die Sprache des Reiselandes versteht, **desto** mehr Menschen lernt man kennen.
 :::
 
+### Modalpartikeln denn, doch eigentlich, ja
+
+Mit _dem_ und _eigentlich_ machen Sie **Fragen freundlicher**.  
+Gibt es _denn/eigentlich_ auch ein Heimatmuseum?
+
+Mit _doch_ machen Sie **Bitten und Aufforderungen freundlicher**.  
+Auch Sie könnten _doch_ zum Beispiel eine Patenschaft übernehmen.
+
+Mit _ja_ nehmen Sie **Bezug auf gemeinsames Wissen**.  
+Ich habe Ihnen _ja_ vorhin vom Naturschutzverein erzählt.
+
 ### Sätze
 
 Wolle kommt von Schafen.  
 Wool comes from sheep.
 
 ## Lektion 20 - in den Bergen
+
+Die anderen werden es dir danken!  
+其他人会感谢你的！
+
+### Wörter
+
+| Deutsch        | Bedeutung  |
+| -------------- | ---------- |
+| die Hütte      | cabin      |
+| der Wirt       | host       |
+| der Hüttenwirt | cabin host |
+| Grüezi         | Hallo      |
 
 ## Lektion 21 - Konzerte und Veranstaltungen
 

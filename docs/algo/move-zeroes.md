@@ -14,8 +14,6 @@ tags:
 
 Use 2 pointers. The fast pointer `i` iterates `nums`. The slow pointer `non_zero` points to next position of non-zero element.
 
-In the 1st for loop, set `nums[non_zero]` as `nums[i]` if non-zero. In the 2nd for loop, set the elements after `non_zero` to 0.
-
 This method is good if `nums` does not have many zeros.
 
 ::: theorem Complexity
@@ -28,7 +26,8 @@ def moveZeroes(self, nums: List[int]) -> None:
     n = len(nums)
     non_zero = 0
     for i in range(n):
-        if nums[i]!=0:
+        if nums[i] != 0:
+            # if non-zero
             nums[non_zero] = nums[i]
             non_zero += 1
     # set the remaining to 0

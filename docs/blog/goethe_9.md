@@ -590,6 +590,7 @@ Make yourself at home.
 | schnupfen                | sniff                          |
 | beurteilen               | judge, assess                  |
 | die Manier               | manner                         |
+| der Bezug                | reference                      |
 
 ### Wendungen
 

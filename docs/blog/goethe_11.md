@@ -238,7 +238,7 @@ Ergebnis: etwas ist schon passiert/wurde gemacht
 | versteckte Talente     | Talente, die versteckte sind | 隐藏的天赋     |
 
 ::: tip Partizip I
-eine herausforernde Sportart  
+eine herausfordernde Sportart  
 die entscheidenden Grundlagen  
 die passende Strategie  
 ein überzeugendes Verhalten  
@@ -570,23 +570,24 @@ I do not think much of it.
 
 ### Wörter
 
-| Deutsch                | English            |
-| ---------------------- | ------------------ |
-| entweder               | either             |
-| dafür                  | for it             |
-| dagegen                | against it         |
-| dazwischen             | between them       |
-| der Rentner            | pensioner          |
-| ehrenamtlich           | voluntary          |
-| fördern, die Förderung | promote, promotion |
-| reichen                | reach, be enough   |
-| aufheben               | pick up            |
-| inzwischen             | meanwhile          |
-| mittlerweile           | meanwhile, by now  |
-| der Pate               | sponsor, godfather |
-| sodass                 | so that            |
-| spielerisch            | playful            |
-| konkurrieren           | compete            |
+| Deutsch                | English                    |
+| ---------------------- | -------------------------- |
+| entweder               | either                     |
+| dafür                  | for it                     |
+| dagegen                | against it                 |
+| dazwischen             | between them               |
+| der Rentner            | pensioner                  |
+| ehrenamtlich           | voluntary                  |
+| fördern, die Förderung | promote, promotion         |
+| reichen                | reach, be enough           |
+| aufheben               | pick up                    |
+| inzwischen             | meanwhile                  |
+| mittlerweile           | meanwhile, by now          |
+| der Pate               | sponsor, godfather         |
+| die Patenschaft        | sponsorship, godparenthood |
+| sodass                 | so that                    |
+| spielerisch            | playful                    |
+| konkurrieren           | compete                    |
 
 ### Wendungen
 
@@ -646,8 +647,8 @@ Although the majority of young people consider democracy to be the best form of 
 :::
 
 ::: theorem Position zweiteiliger Konjunktionen
-`nicht nur` `zwar` `weder` `entweder` `noch` haben eine Position im Satz.  
-`sondern` `aber` `oder` haben keine Position im Satz.  
+`nicht nur` `zwar` `weder` `entweder` `noch` haben _eine_ Position im Satz.  
+**ADUSO:** `aber` `denn` `und` `sondern` `oder` haben _Null_ Position im Satz.  
 Vor den zweiten Konnektoren steht _ein Komma_: `aber` `sondern`
 :::
 
