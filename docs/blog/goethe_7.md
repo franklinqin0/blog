@@ -158,17 +158,17 @@ verliebt sein
 ### Karten reservieren
 
 ::: tip Deutsches Nationaltheater Weimar
-**V:** Was kann ich für Sie tun?
-**K:** Ich möchte gerne wissen, ob sie für _Faust_ noch 2 Kinokarten haben.
-**V:** Wann reservieren Sie die Kinokarten?
-**K:** Am Dienstagabend.
-**V:** Es gibt freie Plätze für 17.30 oder 20.45.
-**K:** Ich möchte gerne um 20.45 besuchen.
-**V:** Wo möchten Sie sitzen?
-**K:** Am liebsten in der Mitte oder hintin. Was kosten sie?
-**V:** Kein Problem. Es gibt 2 freie Kinokarten hintin, im Parkett, Rang 3. Bekommen Sie eine Ermäßigung?
-**K:** Nein, für mich ohne Ermäßigung. Auf welchen Namen soll/darf ich (die Karten) reservieren? Franklin?
-**V:** Ja, das geht. Gern geschehen. Einen schönen Abend und auf Wiederhören!
+**V:** Was kann ich für Sie tun?  
+**K:** Ich möchte gerne wissen, ob sie für _Faust_ noch 2 Kinokarten haben.  
+**V:** Wann reservieren Sie die Kinokarten?  
+**K:** Am Dienstagabend.  
+**V:** Es gibt freie Plätze für 17.30 oder 20.45.  
+**K:** Ich möchte gerne um 20.45 besuchen.  
+**V:** Wo möchten Sie sitzen?  
+**K:** Am liebsten in der Mitte oder hintin. Was kosten sie?  
+**V:** Kein Problem. Es gibt 2 freie Kinokarten hintin, im Parkett, Rang 3. Bekommen Sie eine Ermäßigung?  
+**K:** Nein, für mich ohne Ermäßigung. Auf welchen Namen soll/darf ich (die Karten) reservieren? Franklin?  
+**V:** Ja, das geht. Gern geschehen. Einen schönen Abend und auf Wiederhören!  
 **K:** Danke sehr!
 :::
 

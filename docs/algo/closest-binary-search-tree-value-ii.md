@@ -4,7 +4,7 @@ diff: hard
 tags:
   - Tree
   - Stack
-  - Randomization
+  - Quick Select
 related:
   #   - closest-binary-search-tree-value
   - binary-tree-inorder-traversal

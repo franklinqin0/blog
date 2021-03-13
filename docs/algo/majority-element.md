@@ -3,7 +3,7 @@ title: Majority Element
 diff: easy
 tags:
   - Array
-  - Randomization
+  - Quick Select
 ---
 
 <img class="medium-zoom" src="/algo/majority-element.png" alt="https://leetcode.com/problems/majority-element">

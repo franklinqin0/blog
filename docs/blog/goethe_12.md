@@ -113,12 +113,73 @@ Die anderen werden es dir danken!
 
 ### Wörter
 
-| Deutsch        | Bedeutung  |
-| -------------- | ---------- |
-| die Hütte      | cabin      |
-| der Wirt       | host       |
-| der Hüttenwirt | cabin host |
-| Grüezi         | Hallo      |
+| Deutsch                | Bedeutung                     |
+| ---------------------- | ----------------------------- |
+| die Hütte              | cabin                         |
+| der Wirt               | host                          |
+| der Hüttenwirt         | cabin host                    |
+| Grüezi                 | Hallo                         |
+| die Sehenswürdigkeit   | place of interest             |
+| ausnutzen              | exploit                       |
+| Terrassenfeld          | terrace field                 |
+| der Proviant           | provision                     |
+| der Wintergarten       | conservatory, winter garden   |
+| die Seilbahn           | cableway                      |
+| die Wolldecke          | wollen blanket                |
+| der Schlafsack         | sleeping bag                  |
+| die Matratze           | mattress                      |
+| das Matratzenlager     | dormitory, mattress warehouse |
+| die Ohrstöpsel         | earplug(s)                    |
+| die Stirnlampe         | headlamp                      |
+| Deckenlicht            | ceiling light                 |
+| die Gondel             | cable car                     |
+| das Tal                | valley                        |
+| großartig              | magnificent                   |
+| belohnen               | reward                        |
+| der Eintrag            | entry                         |
+| untersagen             | verboten                      |
+| der Imbiss             | snack                         |
+| die Pfütze             | puddle                        |
+| vermeiden              | avoid                         |
+| der Dreck              | dirt                          |
+| ausreichen             | be enough                     |
+| aufbrechen             | set out                       |
+| aufwecken              | wake up                       |
+| die Rücksicht          | consideration                 |
+| grundsätzlich          | fundamental                   |
+| verunglückt            | unsuccessful                  |
+| mühsam                 | difficult                     |
+| die Ressource          | resource                      |
+| der Abfall             | waste                         |
+| steil                  | steep                         |
+| frieren                | be cold                       |
+| indem                  | by                            |
+| sodass                 | so that                       |
+| sich(D.) A. abgewöhnen | stop sth.                     |
+
+in die Berge fahren  
+in den Bergen sein/wandern  
+auf den Berg steigen
+
+Zeig, dass du ein guter Gast bist, indem du dir einen Imbiss von der Speisekarte bestellt.  
+Show you're a good guest by ordering a snack from the menu.
+
+Jeder Gast sollte sich grundsätzlich in das Hüttenbuch eintragen. Indem du Route und Ziel deiner Bergtour notierst, sorgst du dafür, dass du auch gefunden wirst, falls du verunglückst oder in Lebensgefahr gerätst.  
+Every guest should always sign the cottage book. By noting the route and destination of your mountain tour, you ensure that you will also be found if you have an accident or your life is in danger.
+
+Hilf ihm, indem du sparsam mit den Ressourcen umgehst und deine Abfälle selbst wieder mit ins Tal nimmst.  
+Help him by being economical with resources and taking your waste back to the valley yourself.
+
+::: tip indem - ein Mittel
+Bereiten Sie sich auf anstrengende Bergtouren vor, **indem** Sie regelmäßig Sport treiben.  
+**Indem** Sie Übernachtung und Frühstück schon am Abend bezahlen, machen Sie dem Hüttenwirt das Leben leichter. Das Leben ist schwer!
+:::
+
+::: tip sodass - ein Resultat
+Man sollte immer eine warme Jacke mitnehmen, **sodass** man auch bei schlechtem Wetter nicht friert.  
+Gehen Sie früh genug los, Es reicht! gastfreundlich **sodass** Sie Ihr Ziel noch bei Tageslicht erreichen.  
+Bleiben Sie immer auf den markierten Wegen, Naturschutzgebiet **sodass** die Tiere im Wald nicht gestört werden.
+:::
 
 ## Lektion 21 - Konzerte und Veranstaltungen
 

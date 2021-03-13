@@ -136,15 +136,16 @@ def binary_search(arr, c):
 
 ### Dutch National Flag
 
-The Dutch National Flag algorithm arranges the elements of `arr[left..right]` so that negatives are first, then $0$s, then positives. It returns a tuple `(i, j)` representing the two partition points.
+The Dutch National Flag algorithm arranges the elements of `arr[left..right]` so that negatives are first, then $0$s, then positives.
+
+The following function returns a tuple `(i, j)` representing the two partition points.
 
 ```py
 def dnf(arr, left, right):
-    """Returns: Partition points for the Dutch National Flag."""
     # Loop variables to satisfy the invariant
     t = left
     j = right
-    i= right+1
+    i = right+1
 
     # inv: arr[left..t-1] < 0, arr[t..i-1] unknown, arr[i..j] = 0, and arr[j+1..right] > 0
     while t < i:
@@ -263,9 +264,10 @@ def partition(arr, left, right) -> int:
 
 ### Quick Sort
 
+Sorts the array arr[left..right] in $O(n\log n)$ average time.
+
 ```py
 def quickSort(arr, left, right):
-"""Quick Sort: Sorts the array arr[left..right] in n log n average time."""
     # base case
     if left >= right:
         return

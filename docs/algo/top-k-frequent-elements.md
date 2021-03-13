@@ -3,14 +3,18 @@ title: Top K Frequent Elements
 diff: medium
 tags:
   - Heap
-  - Randomization
+  - Quick Select
 ---
 
 <img class="medium-zoom" src="/algo/top-k-frequent-elements.png" alt="https://www.leetcode.com/problems/top-k-frequent-elements">
 
 ## Solution
 
+Let $n$ be the length of the array.
+
 ### 1-liner Cheating
+
+Use `Counter`'s `most_common`:
 
 ```py
 def topKFrequent(self, nums: List[int], k: int) -> List[int]:
@@ -35,7 +39,8 @@ def topKFrequent(self, nums: List[int], k: int) -> List[int]:
     heap = []
     for i in cnt.keys():
         heappush(heap, (cnt[i], i))
-        if len(heap) > k: heappop(heap)
+        if len(heap) > k:
+            heappop(heap)
     return [v for _, v in heap]
 ```
 
