@@ -34,7 +34,7 @@ Thus, now I am using Python 3 to solve algo problems and learning through [EPI i
 Following is the structure for each blog:
 
 - picture or link of problem
-- code snippet if any
+- code snippet/driver code if any
 - solution
   - state the brute force solution
   - elaboration of algo

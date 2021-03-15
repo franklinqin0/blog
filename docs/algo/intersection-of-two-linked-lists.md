@@ -8,7 +8,7 @@ tags:
 
 <img class="medium-zoom" src="/algo/intersection-of-two-linked-lists.png" alt="https://leetcode.com/problems/intersection-of-two-linked-lists">
 
-## Definition for singly-linked list
+## Definition for Singly-Linked List
 
 ```py
 class ListNode:

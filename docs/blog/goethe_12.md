@@ -16,7 +16,7 @@ Deutsch Notizen für das Goethe Institut - B1.2 zwei
 ## Lektion 19 - Landschaft und Tourismus
 
 Je älter ich wurde, desto $\cdots$  
-The older I got, the
+The older I got, the $\cdots$
 
 ### Wörter
 
@@ -156,19 +156,9 @@ Die anderen werden es dir danken!
 | indem                  | by                            |
 | sodass                 | so that                       |
 | sich(D.) A. abgewöhnen | stop sth.                     |
+| wesentlich             | fundamental                   |
 
-in die Berge fahren  
-in den Bergen sein/wandern  
-auf den Berg steigen
-
-Zeig, dass du ein guter Gast bist, indem du dir einen Imbiss von der Speisekarte bestellt.  
-Show you're a good guest by ordering a snack from the menu.
-
-Jeder Gast sollte sich grundsätzlich in das Hüttenbuch eintragen. Indem du Route und Ziel deiner Bergtour notierst, sorgst du dafür, dass du auch gefunden wirst, falls du verunglückst oder in Lebensgefahr gerätst.  
-Every guest should always sign the cottage book. By noting the route and destination of your mountain tour, you ensure that you will also be found if you have an accident or your life is in danger.
-
-Hilf ihm, indem du sparsam mit den Ressourcen umgehst und deine Abfälle selbst wieder mit ins Tal nimmst.  
-Help him by being economical with resources and taking your waste back to the valley yourself.
+### Grammatik
 
 ::: tip indem - ein Mittel
 Bereiten Sie sich auf anstrengende Bergtouren vor, **indem** Sie regelmäßig Sport treiben.  
@@ -181,7 +171,77 @@ Gehen Sie früh genug los, Es reicht! gastfreundlich **sodass** Sie Ihr Ziel noc
 Bleiben Sie immer auf den markierten Wegen, Naturschutzgebiet **sodass** die Tiere im Wald nicht gestört werden.
 :::
 
+### Wendungen
+
+in die Berge fahren  
+in den Bergen sein/wandern  
+auf den Berg steigen
+
+::: tip Regeln diskutieren
+Davon halte ich (nicht) sehr viel.  
+Das lehne ich ab.  
+Das wäre für mich undenkbar.  
+Das finde ich fair/unfair.  
+Das finde ich unheimlich wichtig.  
+Wesentlich wichtiger find ich $\cdots$  
+Es kommt darauf an, wie man das sieht.  
+Ich lege größten Wert auf $\cdots$ / darauf, dass $\cdots$  
+Die Hauptsache ist, dass $\cdots$  
+Man kann schon verlangen, dass $\cdots$
+:::
+
+### Sätze
+
+Zeig, dass du ein guter Gast bist, indem du dir einen Imbiss von der Speisekarte bestellt.  
+Show you're a good guest by ordering a snack from the menu.
+
+Jeder Gast sollte sich grundsätzlich in das Hüttenbuch eintragen. Indem du Route und Ziel deiner Bergtour notierst, sorgst du dafür, dass du auch gefunden wirst, falls du verunglückst oder in Lebensgefahr gerätst.  
+Every guest should always sign the cottage book. By noting the route and destination of your mountain tour, you ensure that you will also be found if you have an accident or your life is in danger.
+
+Hilf ihm, indem du sparsam mit den Ressourcen umgehst und deine Abfälle selbst wieder mit ins Tal nimmst.  
+Help him by being economical with resources and taking your waste back to the valley yourself.
+
 ## Lektion 21 - Konzerte und Veranstaltungen
+
+Vorher muss natürlich fleißig geübt werden.  
+Before that, of course, must be practiced diligently.
+
+### Wörter
+
+| Deutsch             | Bedeutung                           |
+| ------------------- | ----------------------------------- |
+| die Tournee         | tour                                |
+| das Publikum        | audience                            |
+| der Fan             | fan                                 |
+| das Autogramm       | autograph                           |
+| das Lampenfieber    | stage fright                        |
+| der Soundcheck      | sound check                         |
+| der Tournee-Bus     | tour bus                            |
+| der Konzertsaal     | concert hall                        |
+| der Plakat          | poster, placard                     |
+| der Notausgang      | emergency exit                      |
+| der Lautsprecher    | loudspeaker                         |
+| die Garderobe       | wardrobe                            |
+| die Aufführung      | performance                         |
+| die Schulaufführung | school performance                  |
+| inneerhalb          | within                              |
+| kreuz und quer      | planlos                             |
+| die Generalprobe    | die letzte Probe vor der Aufführung |
+| der Misserfolg      | failure                             |
+| schleppen           | carry                               |
+| die Synagoge        | synagogue                           |
+| verlangen           | auffordern                          |
+| das Zeichen         | sign                                |
+| die Herberge        | hostel                              |
+| der Gedanke         | thought                             |
+| ausverkauft         | sold out                            |
+| bestehen            | exist                               |
+| die Sozialsiedlung  | social settlement                   |
+| Kohle abbauen       | coal mining                         |
+| entlang             | along                               |
+| das Häuschen        | cottage                             |
+| das Gewirr          | maze, confusion                     |
+| das Ausfahrt        | exit                                |
 
 ## Lektion 22 - Geschichte
 

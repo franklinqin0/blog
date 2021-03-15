@@ -20,7 +20,7 @@ Loop invariant: every node before `pred` does not contain any duplicate.
 
 ```py
   def deleteDuplicates(self, head: ListNode) -> ListNode:
-      pred = dummy = ListNode(-1)
+      pred = dummy = ListNode(0)
       curr = head
       dummy.next = curr
 
@@ -40,7 +40,7 @@ Or create `curr` as `pred.next` in each iteration of while loop. The line `if cu
 
 ```py {9}
 def deleteDuplicates(self, head: ListNode) -> ListNode:
-    dummy = ListNode(-1)
+    dummy = ListNode(0)
     dummy.next = head
     pred = dummy
     while pred.next:

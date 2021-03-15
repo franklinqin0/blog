@@ -22,13 +22,13 @@ The brute force solution would:
 
 So in total takes $O(n^3)$ time.
 
-### Squared Time Solutions
+### Squared Time (TLE)
 
 The following two $O(n^2)$ time solutions would TLE in Python but might pass in other languages, such as C++ and Java.
 
 ::: details TLE
 
-#### Prefix Sum (TLE)
+#### Prefix Sum
 
 Calculate prefix sum in $O(n)$ time beforehand, so that `csum` can be obtained in $O(1)$ time.
 
@@ -58,7 +58,7 @@ def subarraySum(self, nums: List[int], k: int) -> int:
     return cnt
 ```
 
-#### Cumulative Sum (TLE)
+#### Cumulative Sum
 
 Calculate `csum` cumulatively.
 
@@ -82,7 +82,7 @@ def subarraySum(self, nums: List[int], k: int) -> int:
 
 :::
 
-### HashMap (linear time)
+### Linear Time: HashMap
 
 If `nums[i]` summing to `nums[j]` equals `k`, `prefix_sum[i] == prefix_sum[j] - k`, then we just need to find if satisfying `prefix_sum[i]` has occurred. If so, increase count by occurrences of `prefix_sum[i]`. Use a HashMap to store **mappings from prefix sum to occurrence**.
 

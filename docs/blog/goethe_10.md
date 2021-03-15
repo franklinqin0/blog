@@ -403,6 +403,7 @@ I wish I had done it differently.
 | zufällig                                        | accidental                             |
 | der Geschmack                                   | taste 品味                             |
 | heimlich                                        | secret(ly)                             |
+| unheimlich                                      | fucking                                |
 
 ### Wendungen
 
@@ -704,3 +705,5 @@ Glück ist für mich $\cdots$
 Dativ: `außer` `nach` `zu` `aus` `bei` `gegenüber`
 
 trotz + Genitiv
+despite  
+???

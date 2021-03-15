@@ -10,7 +10,7 @@ related:
 
 <img class="medium-zoom" src="/algo/reverse-linked-list.png" alt="https://leetcode.com/problems/reverse-linked-list">
 
-## Definition for singly-linked list
+## Definition for Singly-Linked List
 
 ```py
 class ListNode:

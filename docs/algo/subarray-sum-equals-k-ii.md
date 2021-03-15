@@ -16,13 +16,18 @@ related:
 
 While the previous problem [subarray sum equals k](subarray-sum-equals-k) asks for **total number**, this problems asks for **min size**.
 
-Similar as previous problem [subarray sum equals k](subarray-sum-equals-k) which TLE for squared time, we will just explore the linear time solution.
+Just as the previous problem, squared time solutions TLE, so we will just explore the **linear time** solution.
 
-### HashMap (linear time)
+### HashMap
 
 Different from [Vanilla HashMap](subarray-sum-equals-k.md#vanilla-hashmap) which stores mappings from prefix sum to count, here we need to store prefix sum to index instead.
 
-Note that `hashmap` is initialized w/ `{0:-1}` to handle the `sum(nums)==k` case.
+Note that `hashmap` is initialized w/ `{0:-1}` to handle the `sum(nums) == k` case.
+
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```py
 def subarraySumEqualsKII(self, nums, k):

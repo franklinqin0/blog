@@ -15,7 +15,33 @@ The brute force solution that takes quadratic time is ommitted.
 
 Both solutions below take $O(nm)$ runtime.
 
-### Iterative DP (squared space)
+### Iterative DP
+
+The recurrence relation holds only when `matrix[i][j] == '1'`:
+
+$$dp(i, j) = \min \left(dp(i-1, j), dp(i, j-1), dp(i-1, j-1) \right)$$
+
+#### Squared Space
+
+```py
+def maximalSquare(self, matrix: List[List[str]]) -> int:
+    n, m = len(matrix), len(matrix[0])
+    dp = [[0 for _ in range(m)] for _ in range(n)]
+    res = 0
+
+    for i in range(n):
+        for j in range(m):
+            if i==0 or j==0:
+                dp[i][j] = int(matrix[i][j])
+            else:
+                if matrix[i][j] == '1':
+                    dp[i][j] = min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1]) + 1
+            res = max(res, dp[i][j])
+
+    return res**2
+```
+
+#### Linear Space
 
 ```py
 def maximalSquare(self, matrix: List[List[str]]) -> int:
@@ -37,25 +63,5 @@ def maximalSquare(self, matrix: List[List[str]]) -> int:
             prev = temp
             res = max(res, dp[j])
 
-    return res*res
-```
-
-### Iterative DP (linear space)
-
-```py
-def maximalSquare(self, matrix: List[List[str]]) -> int:
-    n, m = len(matrix), len(matrix[0])
-    dp = [[0 for _ in range(m)] for _ in range(n)]
-    res = 0
-
-    for i in range(n):
-        for j in range(m):
-            if i==0 or j==0:
-                dp[i][j] = int(matrix[i][j])
-            else:
-                if matrix[i][j] == '1':
-                    dp[i][j] = min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1]) + 1
-            res = max(res, dp[i][j])
-
-    return res*res
+    return res**2
 ```

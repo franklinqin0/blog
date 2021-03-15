@@ -12,7 +12,9 @@ tags:
 
 Both solutions take linear runtime.
 
-### Iterative DP (linear space)
+### Iterative DP
+
+#### Linear Space
 
 ```py
 def numDecodings(self, s: str) -> int:
@@ -33,7 +35,7 @@ def numDecodings(self, s: str) -> int:
     return dp[len(s)]
 ```
 
-### Iterative DP (constant space)
+#### Constant Space
 
 ```py
 def numDecodings(self, s: str) -> int:

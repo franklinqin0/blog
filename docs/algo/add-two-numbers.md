@@ -12,7 +12,7 @@ related:
 
 <img class="medium-zoom" src="/algo/add-two-numbers.png" alt="https://leetcode.com/problems/add-two-numbers">
 
-## Definition for singly-linked list
+## Definition for Singly-Linked List
 
 ```py
 class ListNode:
