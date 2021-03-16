@@ -202,7 +202,7 @@ Deutsch Notizen vom 9. bis 15. März.
 | Wann Spielen wir Fußball?      | When do you play football?  |
 | Wir spielen am Montag Fußball. | We play football on Monday. |
 
-<img src="/uhrzeit.png" alt="Uhrzeit" width=50% class="medium-zoom">
+<img src="/Deutsch/uhrzeit.png" alt="Uhrzeit" width=50% class="medium-zoom">
 
 ### Hast du Zeit? / Haben Sie Zeit? (Do you have time?)
 

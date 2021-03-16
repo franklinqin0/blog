@@ -208,40 +208,101 @@ Before that, of course, must be practiced diligently.
 
 ### Wörter
 
-| Deutsch             | Bedeutung                           |
-| ------------------- | ----------------------------------- |
-| die Tournee         | tour                                |
-| das Publikum        | audience                            |
-| der Fan             | fan                                 |
-| das Autogramm       | autograph                           |
-| das Lampenfieber    | stage fright                        |
-| der Soundcheck      | sound check                         |
-| der Tournee-Bus     | tour bus                            |
-| der Konzertsaal     | concert hall                        |
-| der Plakat          | poster, placard                     |
-| der Notausgang      | emergency exit                      |
-| der Lautsprecher    | loudspeaker                         |
-| die Garderobe       | wardrobe                            |
-| die Aufführung      | performance                         |
-| die Schulaufführung | school performance                  |
-| inneerhalb          | within                              |
-| kreuz und quer      | planlos                             |
-| die Generalprobe    | die letzte Probe vor der Aufführung |
-| der Misserfolg      | failure                             |
-| schleppen           | carry                               |
-| die Synagoge        | synagogue                           |
-| verlangen           | auffordern                          |
-| das Zeichen         | sign                                |
-| die Herberge        | hostel                              |
-| der Gedanke         | thought                             |
-| ausverkauft         | sold out                            |
-| bestehen            | exist                               |
-| die Sozialsiedlung  | social settlement                   |
-| Kohle abbauen       | coal mining                         |
-| entlang             | along                               |
-| das Häuschen        | cottage                             |
-| das Gewirr          | maze, confusion                     |
-| das Ausfahrt        | exit                                |
+| Deutsch                   | Bedeutung                           |
+| ------------------------- | ----------------------------------- |
+| die Tournee               | tour                                |
+| das Publikum              | audience                            |
+| der Fan                   | fan                                 |
+| das Autogramm             | autograph                           |
+| das Lampenfieber          | stage fright                        |
+| der Soundcheck            | sound check                         |
+| der Tournee-Bus           | tour bus                            |
+| der Konzertsaal           | concert hall                        |
+| der Plakat                | poster, placard                     |
+| der Notausgang            | emergency exit                      |
+| der Lautsprecher          | loudspeaker                         |
+| die Garderobe             | wardrobe                            |
+| die Aufführung            | performance                         |
+| die Schulaufführung       | school performance                  |
+| inneerhalb                | within                              |
+| kreuz und quer            | planlos                             |
+| die Generalprobe          | die letzte Probe vor der Aufführung |
+| der Misserfolg            | failure                             |
+| schleppen                 | carry                               |
+| die Synagoge              | synagogue                           |
+| verlangen                 | auffordern                          |
+| das Zeichen               | sign                                |
+| die Herberge              | hostel                              |
+| der Gedanke               | thought                             |
+| ausverkauft               | sold out                            |
+| bestehen                  | exist                               |
+| die Sozialsiedlung        | social settlement                   |
+| Kohle abbauen             | coal mining                         |
+| das Häuschen              | cottage                             |
+| das Gewirr                | maze, confusion                     |
+| das Ausfahrt              | exit                                |
+| das Wachstum              | growth                              |
+| anhalten                  | stop                                |
+| abbiegen                  | get out of                          |
+| mitten                    | in the middle                       |
+| erschöpften, erschöpft    | exhaust, exhausted                  |
+| riesengroß                | enormous                            |
+| austauschen               | exchange, replace                   |
+| die Zeche                 | mine                                |
+| das Gelände               | site                                |
+| auftreten                 | occur, act                          |
+| das Weingut               | vineyard                            |
+| verteilen, die Verteilung | distribute, distribution            |
+| erwähnen                  | mention                             |
+| der Zustand               | condition, situation                |
+| sich vergnügen            | enjoy oneself                       |
+
+### Wendungen
+
+Auf dem Gelände darf nicht gegrillt werden.  
+Es darf auf dem Gelände nicht gegrillt werden.
+
+Auf Sicherheitshinweise soll geachtet werden.  
+Es soll auf Sicherheitshinweise geachtet werden.
+
+Auf den Toiletten darf nicht geraucht werden.  
+Es darf auf den Toiletten nicht geraucht werden.
+
+#### Präposition
+
+::: theorem lokal
+um A. herum  
+around
+
+an/am D. entlang  
+along
+:::
+
+::: theorem lokal + temporal
+innerhalb/außerhalb G.  
+inside/outside
+:::
+
+::: tip
+um das Zentrum herum  
+am Flus entlang  
+innerhalb/außerhalb des Landes  
+innerhalb weniger Tage  
+Außerhalb der Öffnungszeiten können Sie uns nicht erreichen.
+:::
+
+#### Passiv Präsens mit Modalverben
+
+### Sätze
+
+Das Konzert findet übrigens auf dem Gelände einer ehemaligen Zeche statt.  
+By the way, the concert will take place on the site of a former coal mine.
+
+Drückt uns die Daumen.  
+Cross your fingers for us.
+
+Innerhalb weniger Tage muss ich nach Deutschland gehen, aber außerhalb des Deutschkurses habe ich selten Deutsch gelernt.  
+Within a few days I have to go to Germany, but outside the German course I rarely learned German.
 
 ## Lektion 22 - Geschichte
 

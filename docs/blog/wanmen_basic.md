@@ -242,7 +242,7 @@ A:
 
 ### 方位 die Himmelsrichtung
 
-<img src="/himmelsrichtung.png" alt="Himmelsrichtung" width=50% class="medium-zoom">
+<img src="/Deutsch/himmelsrichtung.png" alt="Himmelsrichtung" width=50% class="medium-zoom">
 
 | 名词           | 副词         |
 | -------------- | ------------ |

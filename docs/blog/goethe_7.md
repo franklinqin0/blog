@@ -203,7 +203,7 @@ Ich bin neugierig auf ...
 ::: theorem
 Zustandsänderung 位置/状态改变: sein, 一般用 haben  
 现在分词规则变化：-t, 不规则变化：-en  
-原型重音在后（如 be-, er-, ver-, ent-, -ieren），不加 ge-
+原型重音在后（如 be-, ge-, er-, emp-, ver-, ent-, -ieren），不加 ge-
 :::
 
 | Infinitiv   | Perfekt (ich)     |
