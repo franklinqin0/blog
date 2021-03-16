@@ -20,7 +20,7 @@ module.exports = {
   ],
   theme: "reco",
   themeConfig: {
-    huawei: true,
+    // huawei: true,
     nav: [
       {
         text: "Blog",
