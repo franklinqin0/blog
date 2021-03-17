@@ -162,7 +162,7 @@ Die anderen werden es dir danken!
 
 ::: tip indem - ein Mittel
 Bereiten Sie sich auf anstrengende Bergtouren vor, **indem** Sie regelmäßig Sport treiben.  
-**Indem** Sie Übernachtung und Frühstück schon am Abend bezahlen, machen Sie dem Hüttenwirt das Leben leichter. Das Leben ist schwer!
+**Indem** Sie Übernachtung und Frühstück schon am Abend bezahlen, machen Sie dem Hüttenwirt das Leben leichter.
 :::
 
 ::: tip sodass - ein Resultat
@@ -183,7 +183,7 @@ Das lehne ich ab.
 Das wäre für mich undenkbar.  
 Das finde ich fair/unfair.  
 Das finde ich unheimlich wichtig.  
-Wesentlich wichtiger find ich $\cdots$  
+Wesentlich wichtiger finde ich $\cdots$  
 Es kommt darauf an, wie man das sieht.  
 Ich lege größten Wert auf $\cdots$ / darauf, dass $\cdots$  
 Die Hauptsache ist, dass $\cdots$  
@@ -259,15 +259,6 @@ Before that, of course, must be practiced diligently.
 
 ### Wendungen
 
-Auf dem Gelände darf nicht gegrillt werden.  
-Es darf auf dem Gelände nicht gegrillt werden.
-
-Auf Sicherheitshinweise soll geachtet werden.  
-Es soll auf Sicherheitshinweise geachtet werden.
-
-Auf den Toiletten darf nicht geraucht werden.  
-Es darf auf den Toiletten nicht geraucht werden.
-
 #### Präposition
 
 ::: theorem lokal
@@ -293,6 +284,25 @@ Außerhalb der Öffnungszeiten können Sie uns nicht erreichen.
 
 #### Passiv Präsens mit Modalverben
 
+::: theorem müssen + Partizip II + werden
+Singular: Es muss vorher fleißig geübt werden.  
+Plural: Auftrittsmöglichkeiten müssen gesucht werden.  
+auch so mit: können, dürfen, wollen, sollen
+:::
+
+::: tip
+Jacken müssen an der Garderobe abgegeben werden.
+
+Auf dem Gelände darf nicht gegrillt werden.  
+Es darf auf dem Gelände nicht gegrillt werden.
+
+Auf Sicherheitshinweise soll geachtet werden.  
+Es soll auf Sicherheitshinweise geachtet werden.
+
+Auf den Toiletten darf nicht geraucht werden.  
+Es darf auf den Toiletten nicht geraucht werden.
+:::
+
 ### Sätze
 
 Das Konzert findet übrigens auf dem Gelände einer ehemaligen Zeche statt.  
@@ -305,6 +315,61 @@ Innerhalb weniger Tage muss ich nach Deutschland gehen, aber außerhalb des Deut
 Within a few days I have to go to Germany, but outside the German course I rarely learned German.
 
 ## Lektion 22 - Geschichte
+
+In der BRD wurde die Demokratie eingeführt.  
+Democracy was introduced in Germany.
+
+### Wörter
+
+| Deutsch                | Bedeutung          |
+| ---------------------- | ------------------ |
+| sich zwingen           | force oneself      |
+| der Mauerbau           | building of a wall |
+| die Gewalt             | power, violence    |
+| der (Welt-)Kreig       | world war          |
+| der Frieden            | peace              |
+| die Revolution         | revolution         |
+| die Luftbrücke         | airlift 空运       |
+| der Nationalfeiertag   | national holiday   |
+| die Bushaltestelle     | bus stop           |
+| die Besatzungszone     | occupied zone      |
+| der Trabant            | satellite          |
+| die Flucht             | flight             |
+| der Gegner             | adversary          |
+| die Vereinigung        | union              |
+| die Ursache            | cause              |
+| die Knappheit          | shortage           |
+| die Arbeitsgenehmigung | work permit        |
+| der Notruf             | emergency          |
+| die Verhaftung         | arrest             |
+| ehemalig               | former             |
+| der Einmarsch          | entry, invasion    |
+| zerstören              | destroy            |
+| stehlen                | steal              |
+
+### Wendungen
+
+friedliche Revolution  
+peaceful revolution
+
+pass auf  
+watch out
+
+### Grammatik
+
+::: theorem Passiv Perfekt
+sein $\cdots$ Partizip II worden  
+Das Buch ist gestern gekauft worden.
+:::
+
+::: theorem Passiv Präteritum
+wurden $\cdots$ (von jm.) Partizip II  
+Das Buch wurde gestern gekauft.
+:::
+
+### Sätze
+
+Mein Mann und ich haben uns im Studium in Stuttgart kennengelernt. Wir haben in einer WG im Stadtzentrum gewohnt. Als später unser erstes Kind unterwegs war, sind wir aufs Land gezogen. Es gibt hier viel mehr Freiheiten für die Kinder. Allerdings müssen wir sie ständig irgendwohin fahren, zum Hockey, zum Gitarrenunterricht $\cdots$ In der Stadt könnten sie den Bus nehmen. Meine Schwester, die immer in der Stadt geblieben ist, hat zwar viel weniger Platz als wir, dafür kann die Familie aber alles mit dem Fahrrad erledigen. Kino, Theater, Geschäfte, einfach alles gibt es gleich um die Ecke. Spätestens wenn unsere Kinder aus dem Haus sind, ziehen wir auch wieder in die Stadt, soviel ist sicher!
 
 ## Lektion 23 - Umwelt und Klima
 

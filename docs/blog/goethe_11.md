@@ -87,7 +87,7 @@ im Deutschen $=$ auf Deutsch
 im Englischen $=$ auf Englisch
 
 Mal schauen/sehen/gucken.  
-Du guckst mal! $\rightarrow$ Guck mal!  
+Du guckst mal! $=$ Guck mal!  
 Guck/Schau/Sieh mal!
 
 #### Sprachliche Missverständnisse
@@ -219,11 +219,11 @@ Sie konnten das Missverständnis aufklären: Die Mutter meinte **nämlich** nich
 ### Grammatik
 
 ::: theorem Partizip Präsens als Adjektiv
-Partizip I: Infinitiv + d + **Adjektivendung**  
+Partizip I: Infinitiv + _d_ + **Adjektivendung**  
 正在进行动作 -ing  
 Aktivität: etwas passiert gerade
 
-Partizip II: (ge) + Verbstamm + t/en + **Adjektivendung**  
+Partizip II: (ge) + Verbstamm + _t/en_ + **Adjektivendung**  
 完成后的状态 -ed  
 Ergebnis: etwas ist schon passiert/wurde gemacht
 :::
@@ -452,7 +452,7 @@ Das war mir (nicht so) wichtig.
 ::: tip Gespräch
 **A:** Meine Eltern legten früher größten Wert auf Pünktlichkeit.  
 **B:**: Das war bei mir auch so. Ich bin trotzdem oft zu spät gekommen. Dann gab es richtig Ärger. Deshalb konnte ich es auch kaum erwarten, bis ich 18 wurde und selbst entscheiden durfte, wann ich nach Hause kam.  
-**A:** Das kann ich, ehrlich gesagt, gut verstehen. Bei mir kam das leider trotzdem nicht infrage, weil ich meinen Eltern oft auf dem Bauernhof helfen musste, auch als ich schon volljährig war.
+**A:** Das kann ich, ehrlich gesagt, gut verstehen. Bei mir kam das leider nicht infrage, weil ich meinen Eltern oft auf dem Bauernhof helfen musste, auch als ich schon volljährig war.
 :::
 
 ### Wendungen

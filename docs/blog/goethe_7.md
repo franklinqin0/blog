@@ -110,6 +110,7 @@ den Raum reinigen
 | sperren                     | lock, block, close   |
 | aufführen                   | perform music        |
 | europäisch                  | European             |
+| die Europäische Union       | EU 欧盟              |
 | haltbar                     | durable              |
 | berühmt                     | famous, popular      |
 | sogar                       | even                 |
