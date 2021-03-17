@@ -136,7 +136,7 @@ def binary_search(arr, c):
 
 ### Dutch National Flag
 
-The Dutch National Flag algorithm arranges the elements of `arr[left..right]` so that negatives are first, then $0$s, then positives.
+The Dutch National Flag algorithm arranges the elements of `arr[left..right]` so that negatives are first, then $0$'s, then positives.
 
 The following function returns a tuple `(i, j)` representing the two partition points.
 
@@ -151,13 +151,13 @@ def dnf(arr, left, right):
     while t < i:
         if arr[i-1] < 0:
             arr[i-1], arr[t] = arr[t], arr[i-1]
-            t = t+1
+            t += 1
         elif arr[i-1] == 0:
-            i = i-1
+            i -= 1
         else:
             arr[i-1], arr[j] = arr[j], arr[i-1]
-            i = i-1
-            j = j-1
+            i -= 1
+            j -= 1
     # post: arr[left..i-1] < 0, arr[i..j] = 0, and arr[j+1..right] > 0
 
     return (i, j)

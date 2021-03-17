@@ -9,9 +9,7 @@ tags:
 
 ## Solution
 
-```bash
-cat words.txt | tr -s ' ' '\n' | sort | uniq -c | sort -r | awk '{ print $2, $1 }'
-```
+### Using `tr`
 
 `tr -s`: truncate the string with target string, but only remaining one instance (e.g. multiple whitespaces)
 
@@ -22,3 +20,7 @@ cat words.txt | tr -s ' ' '\n' | sort | uniq -c | sort -r | awk '{ print $2, $1 
 `sort -r`: -r means sorting in descending order
 
 `awk '{ print $2, $1 }'`: format the output
+
+```bash
+cat words.txt | tr -s ' ' '\n' | sort | uniq -c | sort -r | awk '{ print $2, $1 }'
+```
