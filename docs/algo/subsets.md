@@ -11,6 +11,8 @@ tags:
 
 ## Solution
 
+There are $2^n$ possibilities, and for each possibility $i$ it takes $n$ operations to add/not add the `nums[i]` element. Hence the time complexity $O(n\cdot 2^n)$.
+
 ### Cascading
 
 ::: theorem Complexity
@@ -41,20 +43,23 @@ def subsets(self, nums: List[int]) -> List[List[int]]:
     res = []
     temp = []
 
-    def backtrack(curr):
-        if curr == n:
+    def backtrack(i):
+        if i == n:
+            # have to copy temp by value
             res.append(temp[:])
             return
-        temp.append(nums[curr])
-        backtrack(curr+1)
+        temp.append(nums[i])
+        backtrack(i+1)
         temp.pop()
-        backtrack(curr+1)
+        backtrack(i+1)
 
     backtrack(0)
     return res
 ```
 
-### Lexicographic (Binary Sorted) Subsets
+### Binary Sorted Subsets
+
+Each `temp` can be represented as a binary string. If a digit `i` is $1$, `nums[i]` is in; o.w., it's not.
 
 ::: theorem Complexity
 time: $O(n\cdot 2^n)$  
