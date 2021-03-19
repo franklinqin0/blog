@@ -21,8 +21,12 @@ egrep '^([0-9]{3}-|\([0-9]{3}\) )[0-9]{3}-[0-9]{4}$' file.txt
 
 ### Using `awk`
 
-Replacing `awk` with `gawk` also works.
-
 ```bash
 awk '/^([0-9]{3}-|\([0-9]{3}\) )[0-9]{3}-[0-9]{4}$/' file.txt
+```
+
+### Using `sed`
+
+```bash
+sed -r -n '/^([0-9]{3}-|\([0-9]{3}\) )[0-9]{3}-[0-9]{4}$/p' file.txt
 ```

@@ -256,6 +256,8 @@ Before that, of course, must be practiced diligently.
 | erwähnen                  | mention                             |
 | der Zustand               | condition, situation                |
 | sich vergnügen            | enjoy oneself                       |
+| hinterher                 | afterwards                          |
+| beeindruckend             | impressive                          |
 
 ### Wendungen
 
@@ -346,6 +348,9 @@ Democracy was introduced in Germany.
 | der Einmarsch          | entry, invasion    |
 | zerstören              | destroy            |
 | stehlen                | steal              |
+| auslösen               | trigger            |
+| der Verlust            | loss               |
+| angeblich              | alleged            |
 
 ### Wendungen
 
@@ -354,6 +359,15 @@ peaceful revolution
 
 pass auf  
 watch out
+
+::: tip Wunschvorstellungen ausdrücken
+Ich wäre gern bei $\cdots$ dabei gewesen.  
+Das hätte ich gern gesehen/erlebt.  
+Das war bestimmt eine tolle/beeindruckende/interessante/$\cdots$ Zeit.  
+Das muss sehr beeindruckend/interessant gewesen sein.  
+Mich hat $\cdots$ schon immer beeindruckt/interessiert.  
+Ich konnte mir noch nie / schon immer gut vorstellen, $\cdots$
+:::
 
 ### Grammatik
 
@@ -372,5 +386,39 @@ Das Buch wurde gestern gekauft.
 Mein Mann und ich haben uns im Studium in Stuttgart kennengelernt. Wir haben in einer WG im Stadtzentrum gewohnt. Als später unser erstes Kind unterwegs war, sind wir aufs Land gezogen. Es gibt hier viel mehr Freiheiten für die Kinder. Allerdings müssen wir sie ständig irgendwohin fahren, zum Hockey, zum Gitarrenunterricht $\cdots$ In der Stadt könnten sie den Bus nehmen. Meine Schwester, die immer in der Stadt geblieben ist, hat zwar viel weniger Platz als wir, dafür kann die Familie aber alles mit dem Fahrrad erledigen. Kino, Theater, Geschäfte, einfach alles gibt es gleich um die Ecke. Spätestens wenn unsere Kinder aus dem Haus sind, ziehen wir auch wieder in die Stadt, soviel ist sicher!
 
 ## Lektion 23 - Umwelt und Klima
+
+Fahrradfahren ist in.  
+Bicycling is in.
+
+### Wörter
+
+| Deutsch            | Bedeutung    |
+| ------------------ | ------------ |
+| das Umfeld         | die Umgebung |
+| die Stofftasche    | cloth bag    |
+| verzichten         | forgo        |
+| wegewerfen         | throw away   |
+| das Leitungswasser | tap water    |
+
+### Wendungen
+
+::: tip -freundlich
+kundenfreundlich
+umweltfreundlich
+gastfreundlich
+fahrradfreundlich
+:::
+
+::: tip ohne $\cdots$ zu
+without
+:::
+
+::: tip (an)statt $\cdots$ zu
+instead of
+
+Ich lebe in einem attraktiven Umfeld, ohne dass ich auf Komfort ver
+Ich lebe in einem attraktiven Umfeld, verzichten auf Komfort zu verzichten.  
+I live in an attractive environment without sacrificing comfort.
+:::
 
 ## Lektion 24 - Zukunftsvisionen

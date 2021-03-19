@@ -19,8 +19,31 @@ cut -d ' ' -f $i file.txt | xargs
 done
 ```
 
-### ???
+### Using `xargs`
 
 ```bash
-head -1 file.txt | wc -w | xargs seq | xargs -n1 -I{} sh -c "cut -d' ' -f{} file.txt | xargs"
+head -n 1 file.txt | wc -w | xargs seq | xargs -n 1 -I {} sh -c "cut -d' ' -f {} file.txt | xargs"
+```
+
+### Using `awk`
+
+[This Leetcode doc](https://leetcode.com/problems/transpose-file/discuss/111382/Solution-using-AWK-with-explanations)
+
+```bash
+awk '
+{
+    for (i=1; i<=NF; i++) {
+        if (FNR == 1) {
+            arr[i] = $i;
+        } else {
+            arr[i] = arr[i] " " $i
+        }
+    }
+}
+END {
+    for (i=1; arr[i]!=""; i++) {
+        print arr[i]
+    }
+}
+' file.txt
 ```
