@@ -7,7 +7,7 @@ related:
   - reverse-integer
 ---
 
-<img class="medium-zoom" src="/algo/palindrome_number.png" alt="https://leetcode.com/problems/palindrome-number">
+<img class="medium-zoom" src="/algo/palindrome-number.png" alt="https://leetcode.com/problems/palindrome-number">
 
 ## Solution
 

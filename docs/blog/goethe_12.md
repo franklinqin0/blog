@@ -41,7 +41,7 @@ The older I got, the $\cdots$
 | die Blüte                 | flower, blossom       |
 | das Getreide              | grain                 |
 | das Pferd                 | horse                 |
-| entstehen                 | originate             |
+| entstehen                 | originate, arise      |
 | der Schwanz               | tail                  |
 | der Frosch                | frog                  |
 | der Rundfunk              | radio                 |
@@ -392,13 +392,35 @@ Bicycling is in.
 
 ### Wörter
 
-| Deutsch            | Bedeutung    |
-| ------------------ | ------------ |
-| das Umfeld         | die Umgebung |
-| die Stofftasche    | cloth bag    |
-| verzichten         | forgo        |
-| wegewerfen         | throw away   |
-| das Leitungswasser | tap water    |
+| Deutsch                 | Bedeutung             |
+| ----------------------- | --------------------- |
+| das Umfeld              | die Umgebung          |
+| die Stofftasche         | cloth bag             |
+| der Stoffbeutel         | textile bag           |
+| die Plastiktüte         | plastic bag           |
+| verzichten              | forgo                 |
+| wegwerfen               | throw away            |
+| das Leitungswasser      | tap water             |
+| heizen, das Heizen      | heat, heating         |
+| die Heizung             | heating               |
+| der Deckel              | lid                   |
+| der Topf                | pot                   |
+| Stecker                 | plug                  |
+| die Badewanne           | bath, bathtub         |
+| gießen                  | pour                  |
+| die Eisenbahn           | railway               |
+| der Auflauf             | casserole 炖锅菜      |
+| der Konsum              | consumption           |
+| der Strom               | river                 |
+| das Abgas               | exhaust               |
+| die Umweltverschmutzung | environment pollution |
+| das Einweggeschirr      | disposable tableware  |
+| schmeißen               | throw, chuck          |
+| verbrauchen             | consume               |
+| die Vorschrift          | instruction           |
+| entsorgen               | dispose               |
+| abhängen                | depend                |
+| das Gesetz              | law                   |
 
 ### Wendungen
 
@@ -409,16 +431,73 @@ gastfreundlich
 fahrradfreundlich
 :::
 
-::: tip ohne $\cdots$ zu
+::: tip ohne $\cdots$ zu, ohne dass
 without
-:::
 
-::: tip (an)statt $\cdots$ zu
-instead of
-
-Ich lebe in einem attraktiven Umfeld, ohne dass ich auf Komfort ver
-Ich lebe in einem attraktiven Umfeld, verzichten auf Komfort zu verzichten.  
+Ich lebe in einem attraktiven Umfeld, **ohne dass** ich auf Komfort verzichten.  
+Ich lebe in einem attraktiven Umfeld, **ohne** auf Komfort **zu** verzichten.  
 I live in an attractive environment without sacrificing comfort.
 :::
+
+::: tip (an)statt $\cdots$ zu, (an)statt dass
+instead of
+
+Ich steigere Fitness und Kondition, **statt dass** ich im Stau stehe.  
+Ich steigere Fitness und Kondition, **statt** im Stau **zu** stehen.
+:::
+
+den Deckel auf den Topf legen  
+put the lid on the pot
+
+die Stecker von Stand-by-Geräten aus der Steckdose ziehen  
+Unplug stand-by devices from the power outlet
+
+Ich bin der Meinung/Ansicht, dass $\cdots$  
+Meiner Meinung nach $\cdots$ (Verb)
+
+Mit Emotion.  
+Nicht so trocken.
+
+Meinetwegen.  
+I don't mind.
+
+::: tip Zustimmung/Ablehnung ausdrücken
+Doch, du hast recht.  
+(Ganz) Genau.  
+Ich bin voll und ganz deiner Meinung.  
+Ich kann dir da nur/nicht zustimmen.  
+Davon halte ich (nicht) viel.  
+Ich bin völlig anderer Meinung. Mein Standpunkt ist, dass $\cdots$
+:::
+
+::: tip rückfragen und Gleichgültigkeit ausdrücken
+Macht dir das nichts aus? (Stört dich das nicht?)  
+Ärgerst du dich denn nicht darüber?  
+Nein, das ist mir ganz egal/gleich.  
+Das spielt keine Rolle.  
+Das interessiert mich nicht.  
+Meinetwegen kann jeder das so machen, wie er möchte.
+:::
+
+### Sätze
+
+::: tip
+
+- Die Leute fahren immer noch mit dem Auto zur Arbeit, statt die öffentlichen Verkehrsmittel zu nutzen. **Ärgerst du dich denn nicht darüber?**
+- Nein, warum denn? **Meinetwegen** kann das jeder so machen, wie er möchte.
+- Das bedeutet aber, dass es jeden Morgen und Abend Stau auf den Straßen gibt.
+- **Du hast recht.** Aber wenn man sich für das Auto entscheidet, dann ist das ebenso.
+- Ja, aber **mich stört auch, dass** die Leute sich dauernd über die hohen Benzinpreise beschweren und trotzdem das Auto nehmen.
+- **Da bin ich anderer Meinung. Mein Standpunkt ist, dass** jeder sich frei für ein Verkehrsmittel entscheiden soll.
+- Von denen spreche ich ja auch nicht. Ich meine die Leute, die in Stadtnähe wohnen. Die sollten viel mehr mit Bus und Bahn fahren.
+- **Da stimme ich dir zu.** Aber dann müssen Bus und Bahn attraktiver werden.
+- Aber **man muss sich** doch umweltbewusst **verhalten**.
+- Ich finde, dass die Züge viel zu teuer und oft unpünktlich sind. Das muss sich ändern.
+- Wie meinst du das?
+
+:::
+
+Industriebetriebe sind meiner Meinung nach die größten Umweltverschmutzer. Dagegen brauchen wir strengere Gesetze. Bis es so weit ist, werde ich weder auf Inlandsflüge noch auf mein Auto verzichten. Denn eine gesunde Umwelt hängt nicht davon ab, wie ich mich als Einzelperson verhalte.  
+In my opinion, industrial companies are the biggest polluters of the environment. We need stricter laws against this. Until that happens, I will not give up domestic flights or my car. Because a healthy environment does not depend on how I behave as an individual.
 
 ## Lektion 24 - Zukunftsvisionen

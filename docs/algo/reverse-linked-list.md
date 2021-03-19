@@ -57,6 +57,10 @@ def reverseList(self, head: ListNode) -> ListNode:
     return prev
 ```
 
+## Follow up
+
+> A linked list can be reversed either iteratively or recursively. Could you implement both?
+
 ### Recursion (REDO)
 
 There are `n` nodes in total. Assume $n_{k+1}$ to $n_m$ have been reversed and the `curr` node is $n_k$:

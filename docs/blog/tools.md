@@ -48,6 +48,13 @@ Right after I accidentally deleted all photos from my Xiaomi (sad and long story
 
 I got my first tablet, an _iPad 2_, in 2011 from my mom. It was very useful for my English learning: Podcast, iTunes U, TOEFL and SAT learning apps, etc. When I was a freshman, I traded it for _iPad 4_, but it never really was of much use. When I attended my first job in Hong Kong, I bought an _Apple iPad Pro 12.9 (2018)_. I use it occasionally for video streaming, notes taking, and books reading, which could all be replaced by laptops and papers. It's not that useful other than occasional drawing demos.
 
+## Deutsch
+
+I use the following for German learning:
+
+- [Linguee](https://www.linguee.com)
+- [DeepL](https://www.deepl.com/translator) for English-German translation
+
 ## Coda
 
 ::: theorem

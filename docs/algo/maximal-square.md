@@ -11,7 +11,7 @@ tags:
 
 Let $n$ be the number of rows and $m$ be the number of columns.
 
-The brute force solution that takes quadratic time is ommitted.
+The brute force solution that takes quadratic time is omitted.
 
 Both solutions below take $O(nm)$ runtime.
 

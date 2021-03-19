@@ -62,7 +62,7 @@ Seit einem Jahr lerne ich Deutsch.
 | morgen früh                  | tomorrow morning        |
 | schwach                      | weak                    |
 | erledigen                    | fertig machen           |
-| sich bewegen                 | behave                  |
+| sich bewegen                 | Sport machen            |
 | Energie tanken               | recharge energy         |
 | schlank                      | slim                    |
 | anwenden                     | apply                   |

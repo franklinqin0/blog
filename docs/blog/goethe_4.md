@@ -587,7 +587,7 @@ Wohin fahren Timo und Julia? Sie haben sich entschieden, nach München zu fahren
 | -------------------------------- | -------------- |
 | <d type="er" text="Kopf"/>       | head           |
 | <d type="er" text="Mund"/>       | mouth          |
-| <d type="er" text="Hals"/>       | neck           |
+| <d type="er" text="Hals"/>       | neck, throat   |
 | rücken                           | move           |
 | <d type="er" text="Rücken"/>     | back           |
 | <d type="er" text="Bauch"/>      | belly, stomach |
