@@ -203,6 +203,8 @@ Models
 
 ## Authorization
 
+[TLS validation](https://cjting.me/2021/03/02/how-to-validate-tls-certificate)
+
 ## Authentication
 
 ## Network Address Translation (NAT)
@@ -224,3 +226,7 @@ See more at: [https://github.com/ruanyf/css-modules-demos]().
 `requestAnimationFrame`: a throttle alternative. When your function recalculates and renders elements on screen and you want to guarantee smooth changes or animations. Note: no IE9 support.
 
 [More by css-tricks](https://css-tricks.com/debouncing-throttling-explained-examples)
+
+## Callback, Promise, Async & Await
+
+[Async and Promise](https://slides.cjting.me/async-and-promise.html)

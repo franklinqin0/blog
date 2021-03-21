@@ -36,19 +36,18 @@ space: $O(n)$ (due to implicit stack space)
 :::
 
 ```py
-class Solution:
-    def houseRobber3(self, root):
-        root_in, root_not_in = self.dfs(root)
-        return max(root_in, root_not_in)
+def houseRobber3(self, root):
+    root_in, root_not_in = self.dfs(root)
+    return max(root_in, root_not_in)
 
-    def dfs(self, node):
-        if not node:
-            return (0, 0)
-        left_in, left_not_in = self.dfs(node.left)
-        right_in, right_not_in = self.dfs(node.right)
-        # calculate the values of robbing node
-        node_in = node.val + left_not_in + right_not_in
-        node_not_in = max(left_in, left_not_in) + max(right_in, right_not_in)
+def dfs(self, node):
+    if not node:
+        return (0, 0)
+    left_in, left_not_in = self.dfs(node.left)
+    right_in, right_not_in = self.dfs(node.right)
+    # calculate the values of robbing node
+    node_in = node.val + left_not_in + right_not_in
+    node_not_in = max(left_in, left_not_in) + max(right_in, right_not_in)
 
-        return (node_in, node_not_in)
+    return (node_in, node_not_in)
 ```

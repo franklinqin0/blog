@@ -29,26 +29,25 @@ space: $O(n)$
 :::
 
 ```py
-class Solution:
-    def convertBST(self, root: TreeNode) -> TreeNode:
-        self.total = 0
-        self.traverse(root)
-        return root
+def convertBST(self, root: TreeNode) -> TreeNode:
+    self.total = 0
+    self.traverse(root)
+    return root
 
-    def traverse(self, root: TreeNode):
-        if not root:
-            return
+def traverse(self, root: TreeNode):
+    if not root:
+        return
 
-        # traverse the right node recursively
-        if root.right:
-            self.traverse(root.right)
+    # traverse the right node recursively
+    if root.right:
+        self.traverse(root.right)
 
-        # update `total` and `root.val`
-        self.total += root.val
-        root.val = self.total
+    # update `total` and `root.val`
+    self.total += root.val
+    root.val = self.total
 
-        # traverse the left node
-        self.traverse(root.left)
+    # traverse the left node
+    self.traverse(root.left)
 ```
 
 ### Iteration w/ a Stack
@@ -59,24 +58,24 @@ space: $O(n)$
 :::
 
 ```py
-    def convertBST(self, root: TreeNode) -> TreeNode:
-        stack = []
-        node = root
-        total = 0
-        while stack or node:
-            while node:
-                # add the node and right subtree to stack
-                stack.append(node)
-                node = node.right
+def convertBST(self, root: TreeNode) -> TreeNode:
+    stack = []
+    node = root
+    total = 0
+    while stack or node:
+        while node:
+            # add the node and right subtree to stack
+            stack.append(node)
+            node = node.right
 
-            # update node vals
-            node = stack.pop()
-            total += node.val
-            node.val = total
-            # at last, traverse the left node
-            node = node.left
+        # update node vals
+        node = stack.pop()
+        total += node.val
+        node.val = total
+        # at last, traverse the left node
+        node = node.left
 
-        return root
+    return root
 ```
 
 <!-- ### Reverse Morris In-order Traversal (REDO) -->

@@ -33,7 +33,6 @@ space: $O(n)$
 :::
 
 ```py
-class Solution:
 def pathSum(self, root: TreeNode, targetSum: int) -> List[List[int]]:
     res = []
 

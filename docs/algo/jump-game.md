@@ -34,7 +34,6 @@ def canJump(self, nums: List[int]) -> bool:
 
 ```py
 def canJump(self, nums: List[int]) -> bool:
-    # greedy algorithm
     n = len(nums)
     max_left = n-1
     for i in reversed(range(n)):

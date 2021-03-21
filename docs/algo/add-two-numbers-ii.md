@@ -73,62 +73,61 @@ space: $O(1)$
 :::
 
 ```py
-class Solution:
-    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        # find the length of both lists
-        n1 = n2 = 0
-        curr1, curr2 = l1, l2
-        while curr1:
+def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+    # find the length of both lists
+    n1 = n2 = 0
+    curr1, curr2 = l1, l2
+    while curr1:
+        curr1 = curr1.next
+        n1 += 1
+    while curr2:
+        curr2 = curr2.next
+        n2 += 1
+
+    # parse both lists & sum the corresponding positions w/o taking carry into account
+    # 3->3->3 + 7->7 --> 3->10->10 --> 10->10->3
+    curr1, curr2 = l1, l2
+    head = None
+    while n1 > 0 and n2 > 0:
+        val = 0
+        if n1 >= n2:
+            val += curr1.val
             curr1 = curr1.next
-            n1 += 1
-        while curr2:
+            n1 -= 1
+        if n1 < n2:
+            val += curr2.val
             curr2 = curr2.next
-            n2 += 1
+            n2 -= 1
 
-        # parse both lists & sum the corresponding positions w/o taking carry into account
-        # 3->3->3 + 7->7 --> 3->10->10 --> 10->10->3
-        curr1, curr2 = l1, l2
-        head = None
-        while n1 > 0 and n2 > 0:
-            val = 0
-            if n1 >= n2:
-                val += curr1.val
-                curr1 = curr1.next
-                n1 -= 1
-            if n1 < n2:
-                val += curr2.val
-                curr2 = curr2.next
-                n2 -= 1
+        # update the result: add to front
+        curr = ListNode(val)
+        curr.next = head
+        head = curr
 
-            # update the result: add to front
-            curr = ListNode(val)
-            curr.next = head
-            head = curr
+    # take the carry into account to have all elements < 10
+    # 10->10->3 --> 0->1->4 --> 4->1->0
+    curr1, head = head, None
+    carry = 0
+    while curr1:
+        # current sum and carry
+        val = (curr1.val + carry) % 10
+        carry = (curr1.val + carry) // 10
 
-        # take the carry into account to have all elements < 10
-        # 10->10->3 --> 0->1->4 --> 4->1->0
-        curr1, head = head, None
-        carry = 0
-        while curr1:
-            # current sum and carry
-            val = (curr1.val + carry) % 10
-            carry = (curr1.val + carry) // 10
+        # update the result: add to front
+        curr = ListNode(val)
+        curr.next = head
+        head = curr
 
-            # update the result: add to front
-            curr = ListNode(val)
-            curr.next = head
-            head = curr
+        # move to the next elements in the list
+        curr1 = curr1.next
 
-            # move to the next elements in the list
-            curr1 = curr1.next
+    # add the last carry
+    if carry:
+        curr = ListNode(carry)
+        curr.next = head
+        head = curr
 
-        # add the last carry
-        if carry:
-            curr = ListNode(carry)
-            curr.next = head
-            head = curr
-
-        return head
+    return head
 ```
 
 ### Stack
@@ -142,29 +141,29 @@ space: $O(m + n)$ due to extra space of 2 stacks
 
 ```py
 def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        s1 = []
-        s2 = []
-        while l1:
-            s1.append(l1.val)
-            l1 = l1.next
+    s1 = []
+    s2 = []
+    while l1:
+        s1.append(l1.val)
+        l1 = l1.next
 
-        while l2:
-            s2.append(l2.val)
-            l2 = l2.next
+    while l2:
+        s2.append(l2.val)
+        l2 = l2.next
 
-        carry = 0
-        head = None
+    carry = 0
+    head = None
 
-        while s1 or s2 or carry:
-            a = s1.pop() if s1 else 0
-            b = s2.pop() if s2 else 0
-            sum = a + b + carry
-            carry, sum = divmod(sum, 10)
-            curr = ListNode(sum)
-            curr.next = head
-            head = curr
+    while s1 or s2 or carry:
+        a = s1.pop() if s1 else 0
+        b = s2.pop() if s2 else 0
+        sum = a + b + carry
+        carry, sum = divmod(sum, 10)
+        curr = ListNode(sum)
+        curr.next = head
+        head = curr
 
-        return head
+    return head
 ```
 
 ### Recursion

@@ -9,7 +9,7 @@ tags:
 
 ## Solution
 
-### Greedy
+### Greedy Algorithm
 
 Algorithm:
 

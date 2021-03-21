@@ -32,19 +32,18 @@ Two trees are mirrors of each other if:
 - the right subtree of each tree is a mirror reflection of the left subtree of the other tree
 
 ```py
-class Solution:
-    def mirror(self, t1: TreeNode, t2: TreeNode) -> bool:
-        if not t1 and not t2:
-            return True
-        elif not t1 or not t2:
-            return False
-        else:
-            return t1.val == t2.val\
-            and self.mirror(t1.left, t2.right)\
-            and self.mirror(t1.right, t2.left)
+def mirror(self, t1: TreeNode, t2: TreeNode) -> bool:
+    if not t1 and not t2:
+        return True
+    elif not t1 or not t2:
+        return False
+    else:
+        return t1.val == t2.val\
+        and self.mirror(t1.left, t2.right)\
+        and self.mirror(t1.right, t2.left)
 
-    def isSymmetric(self, root: TreeNode) -> bool:
-        return self.mirror(root, root)
+def isSymmetric(self, root: TreeNode) -> bool:
+    return self.mirror(root, root)
 ```
 
 ### Iteration

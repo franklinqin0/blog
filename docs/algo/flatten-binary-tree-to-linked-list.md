@@ -54,6 +54,13 @@ def flatten(self, root: TreeNode) -> None:
 
 From [here](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/37154/8-lines-of-python-solution-(reverse-preorder-traversal):
 
+The following code traverses in reversed preorder and uses `self.prev` to record the ordered right subtree.
+
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$ (due to implicit stack space)
+:::
+
 ```py
 class Solution:
     def __init__(self):
@@ -64,8 +71,11 @@ class Solution:
         self.flatten(root.right)
         self.flatten(root.left)
 
+        # point to the prev ordered tree
         root.right = self.prev
+        # remove the left part of current node
         root.left = None
+        # add root to ordered tree
         self.prev = root
 ```
 

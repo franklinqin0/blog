@@ -127,6 +127,12 @@ Carl Sagan
 :::
 
 ::: tip
+What I cannot create I do not understand.
+::: right
+Richard Feynman
+:::
+
+::: tip
 
 - Sometimes it is the people no one can imagine anything of who do the things no one can imagine.
 - We shall do a much better programming job, provided we approach the task with a full appreciation of its tremendous difficulty, provided that we respect the intrinsic limitations of the human mind and approach the task as very humble programmers.
@@ -136,7 +142,7 @@ Alan Turing
 :::
 
 ::: tip
-I think that it’s extraordinarily important that we in computer science keep fun in computing. When it started out, it was an awful lot of fun…I hope the field of computer science never loses its sense of fun…What’s in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led up to it, that you can make it more.
+I think that it’s extraordinarily important that we in computer science keep fun in computing. When it started out, it was an awful lot of fun…I hope the field of computer science never loses its sense of fun $\cdots$ What’s in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led up to it, that you can make it more.
 ::: right
 Alan J. Perlis
 :::

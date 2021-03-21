@@ -54,56 +54,55 @@ space: $O(n)$
 ```py
 from collections import Counter
 from random import randint
-class Solution:
-    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        cnt = Counter(nums)
-        uniq = list(cnt.keys())
+def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+    cnt = Counter(nums)
+    uniq = list(cnt.keys())
 
-        def partition(left, right) -> int:
-            # select a random pivot_idx
-            pivot_idx = randint(left, right)
-            pivot_frequency = cnt[uniq[pivot_idx]]
-            # 1. move pivot to end
-            uniq[pivot_idx], uniq[right] = uniq[right], uniq[pivot_idx]
+    def partition(left, right) -> int:
+        # select a random pivot_idx
+        pivot_idx = randint(left, right)
+        pivot_frequency = cnt[uniq[pivot_idx]]
+        # 1. move pivot to end
+        uniq[pivot_idx], uniq[right] = uniq[right], uniq[pivot_idx]
 
-            # 2. move all less frequent elements to the left
-            i = left
-            for j in range(left, right):
-                if cnt[uniq[i]] < pivot_frequency:
-                    uniq[i], uniq[j] = uniq[j], uniq[i]
-                    i += 1
+        # 2. move all less frequent elements to the left
+        i = left
+        for j in range(left, right):
+            if cnt[uniq[i]] < pivot_frequency:
+                uniq[i], uniq[j] = uniq[j], uniq[i]
+                i += 1
 
-            # 3. move pivot to its final place
-            uniq[right], uniq[i] = uniq[i], uniq[right]
+        # 3. move pivot to its final place
+        uniq[right], uniq[i] = uniq[i], uniq[right]
 
-            return i
+        return i
 
-        def quickSelect(left, right, k) -> None:
-            """
-            Sort a list within left..right till kth less frequent element
-            takes its place.
-            """
-            # base case: the list contains only one element
-            if left == right:
+    def quickSelect(left, right, k) -> None:
+        """
+        Sort a list within left..right till kth less frequent element
+        takes its place.
+        """
+        # base case: the list contains only one element
+        if left == right:
+            return
+
+        # find the pivot position in a sorted list
+        pivot_idx = partition(left, right)
+
+        # if the pivot is in its final sorted position
+        if k == pivot_idx:
                 return
+        # go left
+        elif k < pivot_idx:
+            quickSelect(left, pivot_idx - 1, k)
+        # go right
+        else:
+            quickSelect(pivot_idx+1, right, k)
 
-            # find the pivot position in a sorted list
-            pivot_idx = partition(left, right)
-
-            # if the pivot is in its final sorted position
-            if k == pivot_idx:
-                 return
-            # go left
-            elif k < pivot_idx:
-                quickSelect(left, pivot_idx - 1, k)
-            # go right
-            else:
-                quickSelect(pivot_idx+1, right, k)
-
-        n = len(uniq)
-        quickSelect(0, n-1, n-k)
-        # Return top k frequent elements
-        return uniq[n-k:]
+    n = len(uniq)
+    quickSelect(0, n-1, n-k)
+    # Return top k frequent elements
+    return uniq[n-k:]
 ```
 
 <!-- REDO in Hoare's partition ??? -->

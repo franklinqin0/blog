@@ -12,10 +12,9 @@ tags:
 
 ### DP
 
-The recurrence relation is:  
-$$dp[i][j] = dp[i-1][j] + dp[i][j-1]$$
+The recurrence relation is: $dp[i][j] = dp[i-1][j] + dp[i][j-1]$
 
-The edge cases are `dp[0][j]` and `dp[i][0]`, which have by default only $1$ path and thus set to $0$.
+The base cases are `dp[0][j]` and `dp[i][0]`, which have by default only $1$ path.
 
 ::: theorem Complexity
 time: $O(mn)$
@@ -69,13 +68,12 @@ def uniquePaths(self, m: int, n: int) -> int:
 
 ```py
 from math import comb
-class Solution:
-    def uniquePaths(self, m: int, n: int) -> int:
-        if m > n: m, n = n, m
-        res = 1
-        j = n
-        for i in range(1, m):
-            res *= j / i
-            j += 1
-        return round(res)
+def uniquePaths(self, m: int, n: int) -> int:
+    if m > n: m, n = n, m
+    res = 1
+    j = n
+    for i in range(1, m):
+        res *= j / i
+        j += 1
+    return round(res)
 ```

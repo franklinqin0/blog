@@ -67,17 +67,16 @@ Algorithm:
 - if we reach null, our search is over, just return the candidate
 
 ```py
-class Solution:
-    def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
-        res = None
-        node = root
-        while node:
-            if node.val <= p.val:
-                node = node.right
-            else:
-                res = node
-                node = node.left
-        return res
+def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
+    res = None
+    node = root
+    while node:
+        if node.val <= p.val:
+            node = node.right
+        else:
+            res = node
+            node = node.left
+    return res
 ```
 
 #### Recursion

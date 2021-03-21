@@ -40,4 +40,29 @@ def mergeTrees(self, root1: TreeNode, root2: TreeNode) -> TreeNode:
     return root1
 ```
 
-<!-- REDO iteration -->
+## Iteration
+
+```py
+def mergeTrees(self, root1: TreeNode, root2: TreeNode) -> TreeNode:
+    if not root1:
+        return root2
+    stack = []
+    stack.append([root1, root2])
+
+    while stack:
+        curr = stack.pop()
+        if not curr[0] or not curr[1]:
+            continue
+        curr[0].val += curr[1].val
+        if not curr[0].left:
+            curr[0].left = curr[1].left
+        else:
+            stack.append([curr[0].left, curr[1].left])
+
+        if not curr[0].right:
+            curr[0].right = curr[1].right
+        else:
+            stack.append([curr[0].right, curr[1].right])
+
+    return root1
+```
