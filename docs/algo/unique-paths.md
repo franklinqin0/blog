@@ -10,17 +10,20 @@ tags:
 
 ## Solution
 
+We could exchange `m` and `n` s.t. $m \leq n$.
+
 ### DP
 
 The recurrence relation is: $dp[i][j] = dp[i-1][j] + dp[i][j-1]$
 
 The base cases are `dp[0][j]` and `dp[i][0]`, which have by default only $1$ path.
 
-::: theorem Complexity
-time: $O(mn)$
-:::
+#### Squared Space
 
-#### Squared Space $O(mn)$
+::: theorem Complexity
+time: $O(mn)$  
+space: $O(mn)$
+:::
 
 ```py
 def uniquePaths(self, m: int, n: int) -> int:
@@ -35,7 +38,12 @@ def uniquePaths(self, m: int, n: int) -> int:
     return dp[-1][-1]
 ```
 
-#### Linear Space $O(\min(m, n))$
+#### Linear Space
+
+::: theorem Complexity
+time: $O(mn)$  
+space: $O(\min(m, n))$
+:::
 
 ```py
 def uniquePaths(self, m: int, n: int) -> int:
@@ -55,6 +63,11 @@ def uniquePaths(self, m: int, n: int) -> int:
 There are in total $m-1 + n-1 = m+n-2$ moves, in which $m-1$ moves are going down and $n-1$ moves are going right. The number of unique paths is thus equal to $m+n-2$ choose $m-1$.
 
 $$\binom{m+n-2}{m-1} = \frac{(m+n-2)!}{(m-1)!(n-1)!} = \frac{(m+n-2)(m+n-3) \cdots n}{(m-1)!}$$
+
+::: theorem Complexity
+time: $O(\min(m, n))$  
+space: $O(1)$
+:::
 
 #### 1-liner Cheating
 
