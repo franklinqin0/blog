@@ -82,21 +82,20 @@ def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
 #### Recursion
 
 ```py
-class Solution:
+def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
     res = None
-    def inorderSuccessor(self, root: 'TreeNode', p: 'TreeNode') -> 'TreeNode':
+    def dfs(root, p):
+        nonlocal res
+        if not root:
+            return
+        if root.val <= p.val:
+            dfs(root.right, p)
+        else:
+            res = root
+            dfs(root.left, p)
 
-        def dfs(root, p):
-            if not root:
-                return
-            if root.val <= p.val:
-                dfs(root.right, p)
-            else:
-                self.res = root
-                dfs(root.left, p)
-
-        dfs(root, p)
-        return self.res
+    dfs(root, p)
+    return res
 ```
 
 <!-- Morris traversal (REDO) -->

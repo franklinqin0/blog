@@ -501,3 +501,62 @@ Industriebetriebe sind meiner Meinung nach die größten Umweltverschmutzer. Dag
 In my opinion, industrial companies are the biggest polluters of the environment. We need stricter laws against this. Until that happens, I will not give up domestic flights or my car. Because a healthy environment does not depend on how I behave as an individual.
 
 ## Lektion 24 - Zukunftsvisionen
+
+### Wörter
+
+| Deutsch                           | Bedeutung           |
+| --------------------------------- | ------------------- |
+| die Einzelheit                    | detail              |
+| die Zeile                         | row 行              |
+| die Vielfalt                      | diversity           |
+| der Rollstuhl                     | wheelchair          |
+| die Tischlerei                    | carpentry           |
+| landwirtschaftlich                | agricultural        |
+| damit                             | so that             |
+| die Selbständigkeit               | independence        |
+| bedienen                          | serve, operate      |
+| der Brunnen                       | well, fountain      |
+| beeilen                           | hurry               |
+| verschwinden                      | disappear           |
+| das Altenheim                     | nurisng home 养老院 |
+| überschwemmen, die Überschwemmung | das Hochwasser      |
+| der Brand                         | fire                |
+| der Bienenstock                   | hive                |
+| die Entfernung                    | distance            |
+| unabhängig                        | independent         |
+| befürworten                       | support, fovor      |
+| zusätzlich                        | additional          |
+| ewig                              | eternal             |
+
+### Wendungen
+
+Brand im Wald  
+Fire in the forest
+
+als ob  
+as if
+
+### Grammatik
+
+::: theorem Konjunktion _als ob_ + Konjunktiv II (irrealer Vergleich)
+„Als ob” leitet einen Nebensatz und beschreibt eine irreale Welt.
+
+Das Verb im „als ob - Satz” schreibt man im Konjunktiv II und steht am Satzende.
+:::
+
+Wir tun so, als ob wir in Sachen Klimaschutz ewig Zeit für Veränderungen hätten.  
+We act as if we have forever to make changes when it comes to climate protection.
+
+Meine Nachbarn kennen mich seit drei Jahren, aber sie tun so, als ob sie mich nicht kennen würden.  
+My neighbors have known me for three years, but they pretend not to know me.
+
+Sie waren zu Hause, aber sie tun, als ob sie draußen **gewesen wären**.  
+They were at home, but they act like they **were** outside.
+
+### Sätze
+
+Die alten Häuser sind jetzt barrierefrei, das heißt, auch für Rollstuhlfahrer geeignet, und energiesparend.  
+The old houses are now barrier-free, which means they are also suitable for wheelchair users, and energy-saving.
+
+Ich befürworte Technologien, die mir helfen, mein Leben auch im Alter unabhängig zu gestalten.  
+I am in favor of technologies that help me live my life independently as I age.

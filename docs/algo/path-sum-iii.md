@@ -58,16 +58,17 @@ space: $O(n)$
 ```py
 from collections import defaultdict
 def pathSum(self, root: TreeNode, sum: int) -> int:
-    self.res = 0
+    res = 0
     memo = defaultdict(int)
     memo[0] = 1
 
     def dfs(node, csum):
+        nonlocal res
         if not node:
             return
         csum += node.val
         # increment by the # of times
-        self.res += memo[csum - sum]
+        res += memo[csum - sum]
         # mark the current node as visited
         memo[csum] += 1
         dfs(node.left, csum)
@@ -75,5 +76,5 @@ def pathSum(self, root: TreeNode, sum: int) -> int:
         memo[csum] -= 1
 
     dfs(root, 0)
-    return self.res
+    return res
 ```

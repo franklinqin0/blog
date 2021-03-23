@@ -2,12 +2,17 @@
 title: Counting Bits
 diff: medium
 tags:
+  - Bit Manipulation
   - DP
+related:
+  - number-of-1-bits
 ---
 
 <img class="medium-zoom" src="/algo/counting-bits.png" alt="https://leetcode.com/problems/counting-bits">
 
 ## Solution
+
+The space to store `int` is constant.
 
 ### Brute Force
 

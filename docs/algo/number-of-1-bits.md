@@ -6,6 +6,7 @@ tags:
 related:
   - power-of-two
   - power-of-three
+  - hamming-distance
 ---
 
 <img class="medium-zoom" src="/algo/number-of-1-bits.png" alt="https://leetcode.com/problems/number-of-1-bits">
@@ -60,9 +61,9 @@ def hammingWeight(self, n: int) -> int:
     return cnt
 ```
 
-### Eliminate Rightmost 1-bit
+### Eliminate Lowest Set Bit
 
-Eliminate rightmost 1-bit in `n` by `n = n & (n-1)` and count the number of times we do this operation.
+Eliminate lowest set bit in `n` by `n = n & (n-1)` and count the number of times we do this operation.
 
 ::: theorem Complexity
 time: $O(\log n)$  

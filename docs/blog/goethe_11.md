@@ -18,39 +18,39 @@ Deutsch Notizen für das Goethe Institut - B1.2 eins
 
 ### Wörter
 
-| Deutsch                 | Bedeutung                      |
-| ----------------------- | ------------------------------ |
-| der Rechtsanwalt        | der Advokat, attorney          |
-| die Essigsoße           | dressing                       |
-| das Schnitzel           | 炸小牛肉片                     |
-| der Übersetzungsfehler  | translation error              |
-| verzeihen               | excuse                         |
-| das Missverständnis     | misunderstanding               |
-| schwanger               | pregnant                       |
-| der Schwager            | brother-in-law                 |
-| erstaunen, erstaunt     | astonish, astonished           |
-| die Gewichtseinheit     | Einheit zur Gewichtsbestimmung |
-| die Währung             | currency                       |
-| versorgen               | supply                         |
-| heraus                  | out                            |
-| verwechseln             | confuse, mix up                |
-| schockieren, schockiert | shock, shocked                 |
-| die Äpfelsine           | das Orange 橙子                |
-| die Mandarine           | mandarin 橘子                  |
-| die Betonung            | accent                         |
-| böse                    | mad                            |
-| erfahren                | hear, find out                 |
-| deswegen                | deshalb                        |
-| die Trommel             | drum                           |
-| daraufhin               | thereupon                      |
-| veröffentlichen         | release, publish               |
-| die Begabung            | das Talent                     |
-| der Bahnsteig           | station platform               |
-| bzw., beziehungsweise   | that is                        |
-| die Durchsage           | announcement                   |
-| das Ereignis            | event                          |
-| deutlich                | clear                          |
-| mehrere                 | several                        |
+| Deutsch                   | Bedeutung                      |
+| ------------------------- | ------------------------------ |
+| der Rechtsanwalt          | der Advokat, attorney          |
+| die Essigsoße             | dressing                       |
+| das Schnitzel             | 炸小牛肉片                     |
+| der Übersetzungsfehler    | translation error              |
+| verzeihen                 | excuse                         |
+| das Missverständnis       | misunderstanding               |
+| schwanger                 | pregnant                       |
+| der Schwager              | brother-in-law                 |
+| erstaunen, erstaunt       | astonish, astonished           |
+| die Gewichtseinheit       | Einheit zur Gewichtsbestimmung |
+| die Währung               | currency                       |
+| versorgen, die Versorgung | supply                         |
+| heraus                    | out                            |
+| verwechseln               | confuse, mix up                |
+| schockieren, schockiert   | shock, shocked                 |
+| die Äpfelsine             | das Orange 橙子                |
+| die Mandarine             | mandarin 橘子                  |
+| die Betonung              | accent                         |
+| böse                      | mad                            |
+| erfahren                  | hear, find out                 |
+| deswegen                  | deshalb                        |
+| die Trommel               | drum                           |
+| daraufhin                 | thereupon                      |
+| veröffentlichen           | release, publish               |
+| die Begabung              | das Talent                     |
+| der Bahnsteig             | station platform               |
+| bzw., beziehungsweise     | that is                        |
+| die Durchsage             | announcement                   |
+| das Ereignis              | event                          |
+| deutlich                  | clear                          |
+| mehrere                   | several                        |
 
 | bei Personen        | bei Sachen          |
 | ------------------- | ------------------- |
@@ -80,6 +80,7 @@ Deutsch Notizen für das Goethe Institut - B1.2 eins
 | der Reiseführer                | travel guide / guidebook |
 | durchfallen                    | fail                     |
 | sich(D.) das Lachen verkneifen | refrain from laughing    |
+| nachfragen, die Nachfrage      | demand                   |
 
 ### Wendungen
 
@@ -415,7 +416,7 @@ Mit freundlichen Grüßen
 
 ### Grammatik
 
-#### nicht/nur/nie Brauchen + zu Infinitiv
+#### nicht/nur/nie/kein Brauchen + zu Infinitiv
 
 ::: tip brauchen & müssen
 Du brauchst **nicht** alleine _zu_ lernen.  

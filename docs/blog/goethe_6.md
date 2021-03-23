@@ -297,7 +297,7 @@ Nur die 3. Person hat im Singular und Plural eine eigene Form: sich.
 | Ablauf, Abläufe            | procedure(s)               |
 | bekannt                    | known, famous              |
 | beraten                    | advise, counsel            |
-| bedienen                   | serve                      |
+| bedienen                   | serve, operate             |
 | bestehen                   | consist of                 |
 | die Rundschau              | review                     |
 | der Ober                   | waiter                     |
