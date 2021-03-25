@@ -12,8 +12,6 @@ related:
 
 <img class="medium-zoom" src="/algo/linked-list-cycle.png" alt="https://leetcode.com/problems/linked-list-cycle">
 
-The next problem is [Linked List Cycle II](linked_list_cycle_ii), which asks for the cycle start.
-
 ## Solution
 
 ### HashSet

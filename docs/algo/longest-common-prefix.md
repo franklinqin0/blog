@@ -42,8 +42,6 @@ def longestCommonPrefix(self, strs: List[str]) -> str:
 
 Vertically scan thru `strs[1:]` to see if each string has the `i`th char is the same as `strs[0][i]`. If not, return `strs[0][:i]`. After nested for loop, return the `lcp` as `strs[0]`.
 
-Similar to [horizontal scanning](#horizontal-scanning), vertical scanning has same time & space complexity.
-
 ::: theorem Complexity
 time: $O(S)$
 
@@ -68,7 +66,7 @@ def longestCommonPrefix(self, strs: List[str]) -> str:
 
 ### Sort & Compare 1st and last
 
-Sort `strs` s.t. elements are in alphabetical order. Then `zip` the 1st and last strings to extract the `lcp`. Very elegant solution!
+Sort `strs` s.t. elements are in alphabetical order. Then `zip` the 1st and last strings to extract the `lcp`.
 
 ::: theorem Complexity
 time: $O(n \log n)$  

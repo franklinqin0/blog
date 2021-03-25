@@ -13,13 +13,16 @@ tags:
 
 Let $n$ and $m$ be lengths of `text1` and `text2`, respectively.
 
+::: details Initial Wrong Solution
+
 ### Initial Wrong Solution
 
-Following is a wrong solution because I didn't consider the case that a subsequence later seen can be longer than a subsequence earlier seen.
+Following is a wrong solution because a subsequence later seen can be longer than a subsequence earlier seen.
 
 This test case failed b/c `p` is before `qr` in shorter `text1` while after `qr` in `text2`.
 
 ```py
+# test case
 text1 = "oxcpqrsvwf"
 text2 = "shmtulqrypy"
 ```
@@ -41,9 +44,9 @@ def longestCommonSubsequence(self, text1: str, text2: str) -> int:
 
 Thus, this problem should be solved by **DP** (iterative/recursive w/ memoization).
 
-### Iterative DP
+:::
 
-#### Squared Space
+### Iterative DP (Squared Space)
 
 As explained in [this video](https://youtu.be/NnD96abizww), I construct a matrix to store the _length of longest common subsequence_ seen so far. If the two chars match, `M[i][j]` is `M[i-1][j-1]+1` ; otherwise, it's the max of `M[i-1][j]` and `M[i][j-1]`. At the end of for loop, return `M[-1][-1]`.
 
@@ -55,7 +58,7 @@ space: $O(nm)$
 ```py
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
         n,m = len(text1),len(text2)
-        M = [[0] * (m + 1) for _ in range(n + 1)]
+        M = [[0 for _ in range(m+1)] for _ in range(n+1)]
 
         for i in range(1, n+1):
             for j in range(1, m+1):
@@ -66,7 +69,7 @@ space: $O(nm)$
         return M[-1][-1]
 ```
 
-#### Linear Space
+### Iterative DP (Linear Space)
 
 This is similar to [iterative DP](#iterative-dp), but has less space. Matrix `M` **only needs previous row** to calculate current row, so only 2 rows are needed.
 

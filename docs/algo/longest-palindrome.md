@@ -15,7 +15,7 @@ All the following three solutions have linear time and space.
 
 ### HashMap
 
-Store the counts of chars in hash table `hashmap`. For each char in `hashmap`, only plus an even count, then plus 1 if the char `hashmap[i]` is odd and `res` is even.
+Store the counts of chars in `hashmap`. For each char in `hashmap`, only plus an even count, then plus 1 if the char `hashmap[i]` is odd and `res` is even.
 
 ```py
 def longestPalindrome(self, s: str) -> int:
@@ -23,14 +23,14 @@ def longestPalindrome(self, s: str) -> int:
     res = 0
     for c in s:
         hashmap[c] = hashmap.get(c, 0) + 1
-    for i in hashmap:
-        res += (hashmap[i] // 2) * 2
-        if hashmap[i] % 2 == 1 and res % 2 == 0:
+    for c in hashmap:
+        res += (hashmap[c] // 2) * 2
+        if hashmap[c] % 2 == 1 and res % 2 == 0:
             res += 1
     return res
 ```
 
-Or could use the `collections.Counter(s).values()` method w/ only 1 for loop.
+Or simply use `Counter`:
 
 ```py
 def longestPalindrome(self, s: str) -> int:

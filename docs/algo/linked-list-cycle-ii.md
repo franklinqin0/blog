@@ -12,7 +12,7 @@ related:
 
 <img class="medium-zoom" src="/algo/linked-list-cycle-ii.png" alt="https://leetcode.com/problems/linked-list-cycle-ii">
 
-This problem follows [Linked List Cycle](linked_list_cycle), which asks if there exists a cycle.
+While [Linked List Cycle](linked-list-cycle) asks if a cycle exists, this problem asks for the cycle start.
 
 ## Solution
 

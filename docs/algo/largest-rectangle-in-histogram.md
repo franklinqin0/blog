@@ -14,9 +14,7 @@ Let $n$ be the length of the array.
 
 All the following solutions have linear space complexity.
 
-### Squared Time (TLE)
-
-#### Width Enumeration
+### Width Enumeration
 
 Expand horizontally around each width.
 
@@ -33,7 +31,7 @@ def largestRectangleArea(self, heights: List[int]) -> int:
     return res
 ```
 
-#### Height Enumeration
+### Height Enumeration
 
 Expand vertically around each height.
 
@@ -52,7 +50,7 @@ def largestRectangleArea(self, heights: List[int]) -> int:
     return res
 ```
 
-### Linear Time
+The above 2 solutions take squared time, whereas the following solutions using monotone stack take only linear time.
 
 ### Vanilla Monotone Stack
 
@@ -88,9 +86,9 @@ def largestRectangleArea(self, heights: List[int]) -> int:
     return res
 ```
 
-#### Optimized Monotone Stack
+### Optimized Monotone Stack
 
-Very very elegant.
+when `right` is enumerated, `left` is popped from the stack.
 
 ```py
 def largestRectangleArea(self, heights: List[int]) -> int:

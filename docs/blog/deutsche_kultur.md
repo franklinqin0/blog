@@ -21,7 +21,9 @@ tags:
 
 在《起风了》这部宫崎骏“最后”的电影里，在男女主热恋时，一旁微笑地看透一切的憨憨德国大叔在餐厅里弹唱了这首歌，十分应景。一生只有一次初恋，就像春天只有一个五月。情侣恋爱时，总以为爱会海枯石烂，但最终还是会挥手说再见。在天空还未变灰之前，须尽情享受对方眼中的光辉！
 
-### Zwei Kleine Sterne
+### Einmal wird die Sonne wieder scheinen
+
+#### Zwei Kleine Sterne
 
 - [Lied](https://youtu.be/bjbdrJngKFA)
 - [Text](https://lyricstranslate.com/en/zwei-kleine-sterne-two-little-stars.html)
@@ -32,6 +34,26 @@ am großen Himmelszelt.
 Sie werden mit dir gehen  
 wohl in die weite, weite Welt.
 :::
+
+#### Kleine Kinder, Kleine Sorgen
+
+https://youtu.be/XXX2GcqGAec
+
+#### Letzte Rose in unser’m Garten
+
+https://youtu.be/hc486kcLB8U
+
+#### Traumland
+
+https://youtu.be/cSqc8y9sjTs
+
+#### Der Mond ist aufgegangen
+
+https://youtu.be/POuwCnaSYp4
+
+#### Wenn du einmal Geburstag hast
+
+https://youtu.be/bd5C5czkUhU
 
 ### Komm, Gib Mir Deine Hand
 
