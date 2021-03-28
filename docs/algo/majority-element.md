@@ -10,7 +10,11 @@ tags:
 
 ## Solution
 
-### HashMap
+Let $n$ be the length of the array `nums`.
+
+### 1-liner Cheating
+
+#### HashMap
 
 Return the element w/ max count.
 
@@ -26,9 +30,23 @@ def majorityElement(self, nums: List[int]) -> int:
     return max(cnt, key=cnt.get)
 ```
 
+#### Sort
+
+As the majority element has more than $\lfloor \dfrac{n}{2} \rfloor$ occurrences, find the $\lfloor \dfrac{n}{2} \rfloor$-th largest element after sorting.
+
+::: theorem Complexity
+time: $O(n \log n)$  
+space: $O(\log n)$ (can be $O(1)$ if self-implementing Heap Sort)
+:::
+
+```py
+def majorityElement(self, nums: List[int]) -> int:
+    return sorted(nums)[len(nums)//2]
+```
+
 ### Quick Select
 
-Find the $\lfloor \dfrac{n}{2} \rfloor$-th element (median) in linear time with randomized algorithm `quickSelect`.
+Can also find the $\lfloor \dfrac{n}{2} \rfloor$-th largest element in linear time with randomized algorithm `quickSelect`.
 
 ::: theorem Complexity
 time: $O(n)$  
@@ -73,7 +91,7 @@ def quickSelect(self, arr, left, right, k):
 
 ### Boyer-Moore Voting Algorithm
 
-It's hard to prove the validity of this algorithm in simple ways, but intuitively it makes sense.
+Increment by $1$ if `num == candidate` and decrement by $1$ otherwise. Every time `cnt` becomes $0$, restart the process. At the end, `candidate` should be the majority element.
 
 ::: theorem Complexity
 time: $O(n)$  

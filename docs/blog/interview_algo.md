@@ -84,7 +84,7 @@ We could guess the types of algorithms from given input size.
 A chip could run about $10^9$ operations in a second. Given input size, we could deduce the runtime, and thus the algorithm:
 
 $n = 10^7$ $\rightarrow$ $O(n)$
-$n = 10^4~10^6$ $\rightarrow$ $O(n\log n)$
+$n = 10^4~10^6$ $\rightarrow$ $O(n \log n)$
 $n = 10^3$ $\rightarrow$ $O(n^2)$
 $n <= 20$ $\rightarrow$ $O(2^n)$ (DFS)
 
@@ -264,7 +264,7 @@ def partition(arr, left, right) -> int:
 
 ### Quick Sort
 
-Sorts the array arr[left..right] in $O(n\log n)$ average time.
+Sorts the array arr[left..right] in $O(n \log n)$ average time.
 
 ```py
 def quickSort(arr, left, right):

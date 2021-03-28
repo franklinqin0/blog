@@ -11,7 +11,7 @@ related:
 
 ## Solution
 
-Let $n$ be the length of `board`.
+Let $n$ be the length of the square matrix `board`.
 
 ### Implicit Graph
 

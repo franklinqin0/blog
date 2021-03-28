@@ -27,7 +27,7 @@ head -n 1 file.txt | wc -w | xargs seq | xargs -n 1 -I {} sh -c "cut -d' ' -f {}
 
 ### Using `awk`
 
-[This Leetcode doc](https://leetcode.com/problems/transpose-file/discuss/111382/Solution-using-AWK-with-explanations)
+See more on [this LeetCode post](https://leetcode.com/problems/transpose-file/discuss/111382/Solution-using-AWK-with-explanations).
 
 ```bash
 awk '

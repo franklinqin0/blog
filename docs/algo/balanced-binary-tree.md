@@ -16,7 +16,7 @@ related:
 ### Top Down
 
 ::: theorem Complexity
-time: $O(n\log n)$  
+time: $O(n \log n)$  
 space: $O(h)$ (worst case: $O(n)$, traverse all nodes)
 :::
 

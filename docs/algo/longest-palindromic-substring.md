@@ -4,11 +4,16 @@ diff: medium
 tags:
   - String
   - DP
+  - Manacher
+related:
+  - shortest-palindrome
+  - palindromic-substrings
+  - longest-palindromic-subsequence
 ---
 
 <img class="medium-zoom" src="/algo/longest-palindromic-substring.png" alt="https://leetcode.com/problems/longest-palindromic-substring">
 
-Please don't confuse this problem w/ the [longest common substring problem](https://en.wikipedia.org/wiki/Longest_common_substring_problem) or [longest common subsequence problem](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem).
+Please don't confuse this problem w/ the [longest common substring](https://en.wikipedia.org/wiki/Longest_common_substring_problem) or [longest common subsequence](longest-common-subsequence).
 
 ## Solution
 
@@ -90,14 +95,14 @@ def longestPalindrome(self, s: str) -> str:
     n = len(s)
     res = ""
     for i in range(n):
-        # odd case
-        oddMax = self.expandAroundCenter(s, i, i)
-        if len(oddMax) > len(res):
-            res = oddMax
-        # even case
-        evenMax = self.expandAroundCenter(s, i, i+1)
-        if len(evenMax) > len(res):
-            res = evenMax
+        # odd-length longest palindrome
+        odd = self.expandAroundCenter(s, i, i)
+        if len(odd) > len(res):
+            res = odd
+        # even-length longest palindrome
+        even = self.expandAroundCenter(s, i, i+1)
+        if len(even) > len(res):
+            res = even
     return res
 
 def expandAroundCenter(self, s: str, l, r):
@@ -107,9 +112,9 @@ def expandAroundCenter(self, s: str, l, r):
     return s[l+1:r]
 ```
 
-### Manacher's algorithm (REDO in Python)
+### Manacher's Algorithm
 
-This algorithm basically inclues some smart improvements on [Expand around Center](#expand-around-center). Should be quite straightforward after watching [this video](https://youtu.be/nbTSfrEfo6M).
+This algorithm inclues some smart improvements on [Expand around Center](#expand-around-center).
 
 As each element is traversed at most twice, the time complexity is linear.
 
@@ -118,50 +123,37 @@ time: $O(n)$
 space: $O(n)$
 :::
 
-```java
-public String longestPalindrome(String s) {
-    // preprocessing
-    StringBuilder sb = new StringBuilder("^");
-    int centerLPS = 0, lengthLPS = -1;
+```py
+def longestPalindrome(self, s: str) -> str:
+    # e.g. s = "abba", T = "^#a#b#b#a#$" (odd length)
+    # ^ and $ signs are sentinels appended to each end to avoid bounds checking
+    T = '#'.join('^{}$'.format(s))
+    n = len(T)
+    P = [0 for _ in range(n)]
+    C = R = 0
+    max_center = 0
+    max_len = -1
 
-    // preprocessing
-    for (int i=0; i<s.length(); i++)
-        // add "#" inbetween chars
-        sb = sb.append("#" + s.charAt(i));
-    sb = sb.append("#$");
-    String new_s = sb.toString();
+    for i in range(1, n-1):
+        # w/i right boundary, can save time by copying mirror length
+        if i < R:
+            mirror = 2*C - i
+            P[i] = min(R-i, P[mirror])
 
-    // Manacher's algorithm
-    int n = new_s.length();
-    int[] table = new int[n];
-    int center = 0, right = 0;
+        # expand around i
+        while T[i+(1+P[i])] == T[i-(1+P[i])]:
+            P[i] += 1
 
-    for (int i = 1; i < n - 1; i++) {
-        // w/i right boundary, can save time by copying mirror length
-        if (right > i) {
-            int mirror = 2 * center - i;
-            table[i] = Math.min(table[mirror], right - i);
-        } else
-            table[i] = 0;
+        # update the center & right
+        if i + P[i] > R:
+            C = i
+            R = i + P[i]
 
-        // expand around `i` as much as possible
-        while (new_s.charAt(i - table[i] - 1) == new_s.charAt(i + table[i] + 1))
-            table[i]++;
+        # update the best result so far
+        if P[i] > max_len:
+            max_center = i
+            max_len = P[i]
 
-        // update the center & right
-        if (i + table[i] > right) {
-            center = i;
-            right = i + table[i];
-        }
-
-        // update the best result so far
-        if (table[i] > lengthLPS) {
-            centerLPS = i;
-            lengthLPS = table[i];
-        }
-    }
-
-    int start = (centerLPS-lengthLPS)/2;
-    return s.substring(start, start+lengthLPS);
-}
+    start, end = (max_center-max_len)//2, (max_center+max_len)//2
+    return s[start: end]
 ```

@@ -12,7 +12,7 @@ related:
 
 ## Solution
 
-Let $n$ be the length of `s`, and $m$ be the number of words in `wordDict`.
+Let $n$ be the length of the string `s`, and $m$ be the number of words in `wordDict`.
 
 ### DFS
 

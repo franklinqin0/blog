@@ -17,7 +17,7 @@ The brute-force solution represents graph as adjacency list.
 Note the use of `lamdba` function to sort by **start** time in `sorted` method.
 
 ::: theorem Complexity
-time: $O(n\log n)$  
+time: $O(n \log n)$  
 space: $O(1)$
 :::
 

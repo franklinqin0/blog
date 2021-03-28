@@ -15,7 +15,7 @@ tags:
 
 This problem is basically the same as [Dutch National Flag](/blog/interview_algo.md#dutch-national-flag)
 
-Wrote a [post](https://leetcode.com/problems/sort-colors/discuss/1114101/Scheiss-simple-solution-using-Loop-Invariant) on leetcode.
+Wrote a [LeetCode post](https://leetcode.com/problems/sort-colors/discuss/1114101/Scheiss-simple-solution-using-Loop-Invariant).
 
 ```py
 def sortColors(self, nums: List[int]) -> None:

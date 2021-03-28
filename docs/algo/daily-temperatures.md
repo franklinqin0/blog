@@ -10,7 +10,7 @@ tags:
 
 ## Solution
 
-Let $n$ be the length of `T` and $m$ be the length of `dct` ($< 100$).
+Let $n$ be the length of the array `T` and $m$ be the length of `dct` ($< 100$).
 
 ### Brute Force
 
@@ -29,6 +29,7 @@ def dailyTemperatures(self, T: List[int]) -> List[int]:
 
     for i in reversed(range(n)):
         if T[i]==100: print(dct)
+        # the max of t is 101 b/c T[i] can be 100
         warmer_idx = min(dct.get(t, sys.maxsize) for t in range(T[i]+1, 102))
         if warmer_idx < sys.maxsize:
             res[i] = warmer_idx - i

@@ -24,7 +24,7 @@ class ListNode:
 #### Recursive Top Down
 
 ::: theorem complexity
-time: $O(n\log n)$  
+time: $O(n \log n)$  
 space: $O(\log n)$
 :::
 
@@ -60,7 +60,7 @@ def merge(self, left, right):
 
 ### Iterative Bottom Up
 
-Gradually increase `sublength` to merge iteratively.
+Gradually increase `sub_len` to merge iteratively.
 
 ```py
 def sortList(self, head: ListNode) -> ListNode:
@@ -90,12 +90,12 @@ def sortList(self, head: ListNode) -> ListNode:
         node = node.next
 
     dummy = ListNode(0, head)
-    sublength = 1
-    while sublength < length:
+    sub_len = 1
+    while sub_len < length:
         prev, curr = dummy, dummy.next
         while curr:
             head1 = curr
-            for i in range(1, sublength):
+            for i in range(1, sub_len):
                 if curr and curr.next:
                     curr = curr.next
                 else:
@@ -103,7 +103,7 @@ def sortList(self, head: ListNode) -> ListNode:
             head2 = curr.next
             curr.next = None
             curr = head2
-            for i in range(1, sublength):
+            for i in range(1, sub_len):
                 if curr and curr.next:
                     curr = curr.next
                 else:
@@ -120,7 +120,7 @@ def sortList(self, head: ListNode) -> ListNode:
             while prev.next:
                 prev = prev.next
             curr = succ
-        sublength <<= 1
+        sub_len <<= 1
 
     return dummy.next
 ```

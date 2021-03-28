@@ -47,12 +47,12 @@ def lengthOfLIS(self, nums: List[int]) -> int:
 
 ## Follow Up 2
 
-> Could you improve it to $O(n\log n)$ time complexity?
+> Could you improve it to $O(n \log n)$ time complexity?
 
 ### Greedy Algorithm & Binary Search
 
 ::: theorem Complexity
-time: $O(n\log n)$  
+time: $O(n \log n)$  
 space: $O(n)$
 :::
 

@@ -10,7 +10,7 @@ tags:
 
 ## Solution
 
-Let $n$ be the length of `nums`.
+Let $n$ be the length of the array `nums`.
 
 ### Greedy Algorithm
 

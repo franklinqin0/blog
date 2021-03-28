@@ -26,7 +26,7 @@ class TreeNode:
 ### Vanilla DFS
 
 ::: theorem Complexity
-time: $O(n\log n)$ (worst case if tree is a line: $O(n^2)$)  
+time: $O(n \log n)$ (worst case if tree is a line: $O(n^2)$)  
 space: $O(\log n)$ (due to implicit stack space, worst case: $O(n)$)
 :::
 
