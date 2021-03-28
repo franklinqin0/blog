@@ -36,7 +36,7 @@ The older I got, the $\cdots$
 | das Schaf                 | sheep                 |
 | die Herde                 | herd                  |
 | die Pflanze               | plant                 |
-| der Acker                 | field, farmland       |
+| der Acker                 | farmland              |
 | blühen                    | bloom 开花            |
 | die Blüte                 | flower, blossom       |
 | das Getreide              | grain                 |
@@ -45,7 +45,6 @@ The older I got, the $\cdots$
 | der Schwanz               | tail                  |
 | der Frosch                | frog                  |
 | der Rundfunk              | radio                 |
-| derselbe                  | the same              |
 | die Krönung               | coronation            |
 | deren                     | whose                 |
 | genervt                   | annoyed               |
@@ -63,6 +62,7 @@ The older I got, the $\cdots$
 | reiten                    | ride                  |
 | sich begeistern           | get excited           |
 | die Mithilfe              | help, assistance      |
+| derselbe                  | the same              |
 
 ### Grammatik
 
@@ -90,16 +90,37 @@ Man versteht die Sprache des Reiselandes gut. Man lernt viele Menschen kennen.
 **Je** besser man die Sprache des Reiselandes versteht, **desto** mehr Menschen lernt man kennen.
 :::
 
-### Modalpartikeln denn, doch eigentlich, ja
+#### Modalpartikeln denn/eigentlich, doch, ja
 
-Mit _dem_ und _eigentlich_ machen Sie **Fragen freundlicher**.  
-Gibt es _denn/eigentlich_ auch ein Heimatmuseum?
+::: tip
+**freundliche Fragen**  
+Gibt es **denn/eigentlich** auch ein Heimatmuseum?
 
-Mit _doch_ machen Sie **Bitten und Aufforderungen freundlicher**.  
-Auch Sie könnten _doch_ zum Beispiel eine Patenschaft übernehmen.
+**freundliche Bitten und Aufforderungen**  
+Auch Sie könnten **doch** zum Beispiel eine Patenschaft übernehmen.
 
-Mit _ja_ nehmen Sie **Bezug auf gemeinsames Wissen**.  
-Ich habe Ihnen _ja_ vorhin vom Naturschutzverein erzählt.
+**Bezug auf gemeinsames Wissen**  
+Ich habe Ihnen **ja** vorhin vom Naturschutzverein erzählt.
+:::
+
+#### Fragen zu einer Präsentation stellen
+
+::: tip
+Ich würde gern wissen, $\cdots$  
+Ich würde Sie gern etwas fragen.  
+Gibt es denn auch $\cdots$  
+Ich hätte auch noch eine Frage: Wissen Sie eigentlich schon, $\cdots$  
+Darf ich Sie etwas fragen?
+:::
+
+#### derselbe
+
+|           | der               | das                    | die                   | die(Pl.)             |
+| --------- | ----------------- | ---------------------- | --------------------- | -------------------- |
+| Nominativ | derselbe Ort      | dasselbe Unternehmen   | dieselbe Universität  | dieselben Interessen |
+| Akkusativ | denselben Ort     | dasselbe Unternehmen   | dieselbe Universität  | dieselben Interessen |
+| Dativ     | demselben Ort     | demselben Unternehmen  | derselben Universität | denselben Interessen |
+| Genitiv   | desselben Vereins | desselben Unternehmens | derselben Universität | derselben Interessen |
 
 ### Sätze
 
@@ -113,52 +134,54 @@ Die anderen werden es dir danken!
 
 ### Wörter
 
-| Deutsch                | Bedeutung                     |
-| ---------------------- | ----------------------------- |
-| die Hütte              | cabin                         |
-| der Wirt               | host                          |
-| der Hüttenwirt         | cabin host                    |
-| Grüezi                 | Hallo                         |
-| die Sehenswürdigkeit   | place of interest             |
-| ausnutzen              | exploit                       |
-| Terrassenfeld          | terrace field                 |
-| der Proviant           | provision                     |
-| der Wintergarten       | conservatory, winter garden   |
-| die Seilbahn           | cableway                      |
-| die Wolldecke          | wollen blanket                |
-| der Schlafsack         | sleeping bag                  |
-| die Matratze           | mattress                      |
-| das Matratzenlager     | dormitory, mattress warehouse |
-| die Ohrstöpsel         | earplug(s)                    |
-| die Stirnlampe         | headlamp                      |
-| Deckenlicht            | ceiling light                 |
-| die Gondel             | cable car                     |
-| das Tal                | valley                        |
-| großartig              | magnificent                   |
-| belohnen               | reward                        |
-| der Eintrag            | entry                         |
-| untersagen             | verboten                      |
-| der Imbiss             | snack                         |
-| die Pfütze             | puddle                        |
-| vermeiden              | avoid                         |
-| der Dreck              | dirt                          |
-| ausreichen             | be enough                     |
-| aufbrechen             | set out                       |
-| aufwecken              | wake up                       |
-| die Rücksicht          | consideration                 |
-| grundsätzlich          | fundamental                   |
-| verunglückt            | unsuccessful                  |
-| mühsam                 | difficult                     |
-| die Ressource          | resource                      |
-| der Abfall             | waste                         |
-| steil                  | steep                         |
-| frieren                | be cold                       |
-| indem                  | by                            |
-| sodass                 | so that                       |
-| sich(D.) A. abgewöhnen | stop sth.                     |
-| wesentlich             | fundamental                   |
+| Deutsch                   | Bedeutung                   |
+| ------------------------- | --------------------------- |
+| die Hütte                 | cabin                       |
+| der Wirt                  | host                        |
+| der Hüttenwirt            | cabin host                  |
+| Grüezi                    | Hallo                       |
+| die Sehenswürdigkeit      | place of interest           |
+| ausnutzen                 | exploit                     |
+| Terrassenfeld             | terrace field               |
+| der Proviant              | provision                   |
+| der Wintergarten          | conservatory, winter garden |
+| die Seilbahn              | cableway                    |
+| die Wolldecke             | wollen blanket              |
+| der Schlafsack            | sleeping bag                |
+| die Matratze              | mattress                    |
+| das Matratzenlager        | mattress camp               |
+| die Ohrstöpsel            | earplug(s)                  |
+| die Stirnlampe            | headlight                   |
+| das Deckenlicht           | ceiling light               |
+| die Gondel                | gondola                     |
+| das Tal                   | valley                      |
+| großartig                 | magnificent                 |
+| belohnen                  | reward                      |
+| der Eintrag               | entry                       |
+| untersagen                | verbieten                   |
+| der Imbiss                | snack                       |
+| die Pfütze                | puddle                      |
+| vermeiden                 | avoid                       |
+| der Dreck                 | dirt                        |
+| ausreichen                | be enough                   |
+| aufbrechen                | set out                     |
+| aufwecken                 | wake up                     |
+| die Rücksicht             | consideration               |
+| grundsätzlich             | fundamental                 |
+| verunglücken, verunglückt | go wrong, unsuccessful      |
+| mühsam                    | laborious(ly)               |
+| die Ressource             | resource                    |
+| der Abfall                | waste                       |
+| steil                     | steep                       |
+| frieren                   | be cold                     |
+| sich(D.) A. abgewöhnen    | stop sth.                   |
+| wesentlich                | fundamental                 |
+| indem                     | by                          |
+| sodass                    | so that                     |
 
 ### Grammatik
+
+#### indem vs. sodass
 
 ::: tip indem - ein Mittel
 Bereiten Sie sich auf anstrengende Bergtouren vor, **indem** Sie regelmäßig Sport treiben.  
@@ -167,8 +190,8 @@ Bereiten Sie sich auf anstrengende Bergtouren vor, **indem** Sie regelmäßig Sp
 
 ::: tip sodass - ein Resultat
 Man sollte immer eine warme Jacke mitnehmen, **sodass** man auch bei schlechtem Wetter nicht friert.  
-Gehen Sie früh genug los, Es reicht! gastfreundlich **sodass** Sie Ihr Ziel noch bei Tageslicht erreichen.  
-Bleiben Sie immer auf den markierten Wegen, Naturschutzgebiet **sodass** die Tiere im Wald nicht gestört werden.
+Gehen Sie früh genug los, **sodass** Sie Ihr Ziel noch bei Tageslicht erreichen.  
+Bleiben Sie immer auf den markierten Wegen, **sodass** die Tiere im Wald nicht gestört werden.
 :::
 
 ### Wendungen
@@ -196,7 +219,7 @@ Zeig, dass du ein guter Gast bist, indem du dir einen Imbiss von der Speisekarte
 Show you're a good guest by ordering a snack from the menu.
 
 Jeder Gast sollte sich grundsätzlich in das Hüttenbuch eintragen. Indem du Route und Ziel deiner Bergtour notierst, sorgst du dafür, dass du auch gefunden wirst, falls du verunglückst oder in Lebensgefahr gerätst.  
-Every guest should always sign the cottage book. By noting the route and destination of your mountain tour, you ensure that you will also be found if you have an accident or your life is in danger.
+Every guest should always bring the cottage book. By noting the route and destination of your mountain tour, you ensure that you will also be found if you have an accident or your life is in danger.
 
 Hilf ihm, indem du sparsam mit den Ressourcen umgehst und deine Abfälle selbst wieder mit ins Tal nimmst.  
 Help him by being economical with resources and taking your waste back to the valley yourself.
@@ -224,7 +247,7 @@ Before that, of course, must be practiced diligently.
 | die Garderobe             | wardrobe                            |
 | die Aufführung            | performance                         |
 | die Schulaufführung       | school performance                  |
-| inneerhalb                | within                              |
+| innerhalb                 | within                              |
 | kreuz und quer            | planlos                             |
 | die Generalprobe          | die letzte Probe vor der Aufführung |
 | der Misserfolg            | failure                             |

@@ -64,7 +64,7 @@ def isPalindrome(self, head: ListNode) -> bool:
 
 #### Fast and Slow Pointers
 
-We need to change the input to save space.
+Need to reverse then 2nd half to save space. As good practice, should reverse it back before return.
 
 ```py
 def isPalindrome(self, head: ListNode) -> bool:

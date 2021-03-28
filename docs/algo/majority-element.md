@@ -28,7 +28,7 @@ def majorityElement(self, nums: List[int]) -> int:
 
 ### Quick Select
 
-Find the $\lfloor \dfrac{n}{2} \rfloor$-th element in linear time with randomized algorithm `quickSelect`.
+Find the $\lfloor \dfrac{n}{2} \rfloor$-th element (median) in linear time with randomized algorithm `quickSelect`.
 
 ::: theorem Complexity
 time: $O(n)$  

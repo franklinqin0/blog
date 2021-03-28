@@ -10,9 +10,14 @@ tags:
 
 ## Solution
 
+Let $n$ be the length of `nums`.
+
 ### Greedy Algorithm
 
-Both solutions take linear runtime and constant space.
+::: theorem Complexity
+time: $O(n)$  
+space: $O(1)$
+:::
 
 #### Front to Back
 

@@ -15,8 +15,6 @@ All following solutions take $O(n)$ time and $O(\log n)$ space.
 
 ### Brute Force
 
-There are actually so many ways to solve this problem, and indeed very terrible if unable to get during an interview.
-
 ```py
 def invertTree(self, root: TreeNode) -> TreeNode:
     if not root:

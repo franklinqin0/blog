@@ -44,7 +44,7 @@ def pathSum(self, root: TreeNode, sum: int) -> int:
     return dfs(root, 0) + self.pathSum(root.left, sum) + self.pathSum(root.right, sum)
 ```
 
-### Memoized DFS
+### Recursive DFS w/ Memoization
 
 Say the current `node` has a path sum `csum`, if there exists a node that had been visited and had a path sum `csum - sum`, then increment `res` by `memo[csum - sum]`.
 

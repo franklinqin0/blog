@@ -21,7 +21,7 @@ class TreeNode:
 
 ### Recursion
 
-For a BST, `root.left.val` < `root.val` < `root.right.val`, so right node updates before the root, which updates before the left.
+For a BST, `root.left.val` < `root.val` < `root.right.val`, so update in the order of `right`, `root`, and then `left`.
 
 ::: theorem Complexity
 time: $O(n)$  
