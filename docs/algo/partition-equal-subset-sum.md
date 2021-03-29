@@ -3,19 +3,22 @@ title: Partition Equal Subset Sum
 diff: medium
 tags:
   - DP
+  - DFS
+related:
+  - partition-to-k-equal-sum-subsets
 ---
 
 <img class="medium-zoom" src="/algo/partition-equal-subset-sum.png" alt="https://leetcode.com/problems/partition-equal-subset-sum">
 
 ## Solution
 
-This problem is similar to the $0/1$ Knapsack problem, both of which are NP-complete and cannot be reduced to polynomial runtime.
+This problem is similar to the $0/1$ Knapsack problem, both of which are NP-complete and cannot be reduced to polynomial runtime, unless $P = NP$.
 
 Let $n$ be the length of the array `nums` and $target$ be the half of total sum.
 
 See more at these two LeetCode posts in Chinese: [1](https://leetcode-cn.com/problems/partition-equal-subset-sum/solution/fen-ge-deng-he-zi-ji-by-leetcode-solution) and [2](https://leetcode-cn.com/problems/partition-equal-subset-sum/solution/0-1-bei-bao-wen-ti-xiang-jie-zhen-dui-ben-ti-de-yo).
 
-### Iterative DP (squared space)
+### Iterative DP
 
 $dp[i][j]$ represents whether there exists a way to select positive integers in $nums[0..i]$ s.t. the sum is equal to $j$.
 
@@ -36,7 +39,8 @@ The recurrence relation is:
 $$
 \begin{cases}
 dp[i-1][j]~|~dp[i-1][j-nums[i]], & j \ge nums[i] \\ dp[i-1][j], & j < nums[i]
-\end{cases}$$
+\end{cases}
+$$
 
 Return $dp[n-1][target]$ as the final result.
 
@@ -77,7 +81,7 @@ def canPartition(self, nums: List[int]) -> bool:
     return dp[n-1][target]
 ```
 
-### Iterative DP (linear space)
+### Iterative DP (better space)
 
 As `dp` in a iteration is only concerned with `dp` from last iteration, we only need a 1D array to store `dp`.
 
@@ -113,4 +117,19 @@ def canPartition(self, nums: List[int]) -> bool:
 
     return dp[target]
 ```
-$$
+
+### DP (best space)
+
+```py
+def canPartition(self, nums: List[int]) -> bool:
+    target, remainder = divmod(sum(nums), 2)
+    if remainder is not 0:
+        return False
+    status = 1
+    for n in nums:
+        print(n, status, status<<n)
+        status = status << n | status
+    return True if status >> target & 1 else False
+```
+
+<!-- REDO: DFS -->

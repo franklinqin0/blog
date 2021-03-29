@@ -62,6 +62,12 @@ The older I got, the $\cdots$
 | reiten                    | ride                  |
 | sich begeistern           | get excited           |
 | die Mithilfe              | help, assistance      |
+| flach                     | flat                  |
+| darstellen                | show                  |
+| heizen                    | heat                  |
+| fein                      | fine                  |
+| umsonst                   | for free              |
+| jedoch                    | although              |
 | derselbe                  | the same              |
 
 ### Grammatik
@@ -231,56 +237,56 @@ Before that, of course, must be practiced diligently.
 
 ### Wörter
 
-| Deutsch                   | Bedeutung                           |
-| ------------------------- | ----------------------------------- |
-| die Tournee               | tour                                |
-| das Publikum              | audience                            |
-| der Fan                   | fan                                 |
-| das Autogramm             | autograph                           |
-| das Lampenfieber          | stage fright                        |
-| der Soundcheck            | sound check                         |
-| der Tournee-Bus           | tour bus                            |
-| der Konzertsaal           | concert hall                        |
-| der Plakat                | poster, placard                     |
-| der Notausgang            | emergency exit                      |
-| der Lautsprecher          | loudspeaker                         |
-| die Garderobe             | wardrobe                            |
-| die Aufführung            | performance                         |
-| die Schulaufführung       | school performance                  |
-| innerhalb                 | within                              |
-| kreuz und quer            | planlos                             |
-| die Generalprobe          | die letzte Probe vor der Aufführung |
-| der Misserfolg            | failure                             |
-| schleppen                 | carry                               |
-| die Synagoge              | synagogue                           |
-| verlangen                 | auffordern                          |
-| das Zeichen               | sign                                |
-| die Herberge              | hostel                              |
-| der Gedanke               | thought                             |
-| ausverkauft               | sold out                            |
-| bestehen                  | exist                               |
-| die Sozialsiedlung        | social settlement                   |
-| Kohle abbauen             | coal mining                         |
-| das Häuschen              | cottage                             |
-| das Gewirr                | maze, confusion                     |
-| das Ausfahrt              | exit                                |
-| das Wachstum              | growth                              |
-| anhalten                  | stop                                |
-| abbiegen                  | get out of                          |
-| mitten                    | in the middle                       |
-| erschöpften, erschöpft    | exhaust, exhausted                  |
-| riesengroß                | enormous                            |
-| austauschen               | exchange, replace                   |
-| die Zeche                 | mine                                |
-| das Gelände               | site                                |
-| auftreten                 | occur, act                          |
-| das Weingut               | vineyard                            |
-| verteilen, die Verteilung | distribute, distribution            |
-| erwähnen                  | mention                             |
-| der Zustand               | condition, situation                |
-| sich vergnügen            | enjoy oneself                       |
-| hinterher                 | afterwards                          |
-| beeindruckend             | impressive                          |
+| Deutsch                     | Bedeutung                           |
+| --------------------------- | ----------------------------------- |
+| die Tournee                 | tour                                |
+| das Publikum                | audience                            |
+| der Fan                     | fan                                 |
+| das Autogramm               | autograph                           |
+| das Lampenfieber            | stage fright                        |
+| der Soundcheck              | sound check                         |
+| der Tournee-Bus             | tour bus                            |
+| der Konzertsaal             | concert hall                        |
+| der Plakat                  | poster, placard                     |
+| der Notausgang              | emergency exit                      |
+| der Lautsprecher            | loudspeaker                         |
+| die Garderobe               | wardrobe                            |
+| die Aufführung              | performance                         |
+| die Schulaufführung         | school performance                  |
+| innerhalb                   | within                              |
+| kreuz und quer              | planlos                             |
+| die Generalprobe            | die letzte Probe vor der Aufführung |
+| der Misserfolg              | failure                             |
+| schleppen                   | carry                               |
+| die Synagoge                | synagogue                           |
+| verlangen                   | auffordern                          |
+| das Zeichen                 | sign                                |
+| die Herberge                | hostel                              |
+| der Gedanke                 | thought                             |
+| ausverkauft                 | sold out                            |
+| bestehen                    | exist                               |
+| die Sozialsiedlung          | social settlement                   |
+| Kohle abbauen               | coal mining                         |
+| das Häuschen                | cottage                             |
+| das Gewirr                  | maze, confusion                     |
+| das Ausfahrt                | exit                                |
+| das Wachstum                | growth                              |
+| anhalten                    | stop                                |
+| abbiegen                    | turn, get out of                    |
+| mitten                      | in the middle                       |
+| erschöpften, erschöpft      | exhaust, exhausted                  |
+| riesengroß                  | enormous                            |
+| austauschen                 | exchange, replace                   |
+| die Zeche                   | mine                                |
+| das Gelände                 | site                                |
+| auftreten                   | occur, act                          |
+| das Weingut                 | vineyard                            |
+| verteilen, die Verteilung   | distribute, distribution            |
+| erwähnen                    | mention                             |
+| der Zustand                 | condition, situation                |
+| sich vergnügen              | enjoy oneself                       |
+| hinterher                   | afterwards                          |
+| beeindrucken, beeindruckend | impress, impressive                 |
 
 ### Wendungen
 
