@@ -133,6 +133,9 @@ Darf ich Sie etwas fragen?
 Wolle kommt von Schafen.  
 Wool comes from sheep.
 
+gleich dorthin  
+right there
+
 ## Lektion 20 - in den Bergen
 
 Die anderen werden es dir danken!  
@@ -143,8 +146,8 @@ Die anderen werden es dir danken!
 | Deutsch                   | Bedeutung                   |
 | ------------------------- | --------------------------- |
 | die Hütte                 | cabin                       |
-| der Wirt                  | host                        |
-| der Hüttenwirt            | cabin host                  |
+| der Wirt                  | landlord, host              |
+| der Hüttenwirt            | Wirt einer Berghütte        |
 | Grüezi                    | Hallo                       |
 | die Sehenswürdigkeit      | place of interest           |
 | ausnutzen                 | exploit                     |
@@ -181,7 +184,12 @@ Die anderen werden es dir danken!
 | steil                     | steep                       |
 | frieren                   | be cold                     |
 | sich(D.) A. abgewöhnen    | stop sth.                   |
-| wesentlich                | fundamental                 |
+| wesentlich                | essential                   |
+| gelten                    | apply                       |
+| dienen                    | serve                       |
+| nirgends                  | nowhere                     |
+| schiefgehen               | go wrong                    |
+| achtgeben                 | be careful                  |
 | indem                     | by                          |
 | sodass                    | so that                     |
 
@@ -201,6 +209,12 @@ Bleiben Sie immer auf den markierten Wegen, **sodass** die Tiere im Wald nicht g
 :::
 
 ### Wendungen
+
+an der Decke  
+auf den Boden
+
+einem guten Zweck dienen  
+serve a good purpose
 
 in die Berge fahren  
 in den Bergen sein/wandern  
@@ -446,7 +460,7 @@ Bicycling is in.
 | das Einweggeschirr      | disposable tableware  |
 | schmeißen               | throw, chuck          |
 | verbrauchen             | consume               |
-| die Vorschrift          | instruction           |
+| die Vorschrift          | instruction, rule     |
 | entsorgen               | dispose               |
 | abhängen                | depend                |
 | das Gesetz              | law                   |

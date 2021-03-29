@@ -204,6 +204,7 @@ Seine Arbeit macht dem Mann Spaß.
 | der Erzieher / die Erzieherin                     | educator                 |
 | streiten                                          | argue, quarrel           |
 | übrig                                             | remaining                |
+| wach                                              | awake                    |
 | aufwachen                                         | wake up                  |
 | aufbleiben                                        | stay up                  |
 | beschäftigt                                       | occupied                 |

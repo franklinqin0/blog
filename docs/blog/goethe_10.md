@@ -384,7 +384,7 @@ I wish I had done it differently.
 | dummes Zeug reden                               | unsinn, etwas Dummes erzählen          |
 | der Ratschlag                                   | advice, tip                            |
 | der Laden                                       | shop                                   |
-| dabeihaben                                      | mitnehmen                              |
+| dabeihaben, einstecken                          | mitnehmen                              |
 | übermitteln                                     | submit, send                           |
 | verwalten                                       | manage, administer                     |
 | bewässern                                       | irrigate, water                        |
@@ -394,8 +394,7 @@ I wish I had done it differently.
 | reichlich                                       | abundant                               |
 | braten, der Braten                              | roast                                  |
 | schieflaufen                                    | go wrong                               |
-| gelingen                                        | succeed                                |
-| gelungen                                        | successful                             |
+| gelingen, gelungen                              | succeed, successful                    |
 | zornig                                          | verärgert, sauer                       |
 | zickzack                                        | zigzag                                 |
 | von D. begeistert sein                          | enthusiastic                           |

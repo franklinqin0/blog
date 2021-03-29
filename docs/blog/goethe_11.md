@@ -392,7 +392,7 @@ Mit freundlichen Grüßen
 | sich merken                     | remember                     |
 | womit                           | with which                   |
 | die Verneinung                  | rejection                    |
-| dauernd                         | constant                     |
+| dauernd                         | immer                        |
 | abheben                         | withdraw                     |
 | runtergefallen                  | fall down/off                |
 | anschaffen                      | purchase, buy                |
@@ -504,7 +504,7 @@ He did something with which I did not agree.
 | der Schornsteinfeger       | chimney sweep(er)                 |
 | die Bemühung               | effort                            |
 | die Recherche              | search, investigation             |
-| neblig                     | foggy                             |
+| neblig                     | foggy, misty                      |
 | das Gewitter               | thunderstorm                      |
 | donnern                    | thundern                          |
 | blitzen, der Blitz, blitzt | lightning                         |
@@ -512,7 +512,7 @@ He did something with which I did not agree.
 | ehemalig                   | former                            |
 | das Geschlecht             | gender                            |
 | aufregend                  | exciting                          |
-| vertreten                  | stand for                         |
+| vertreten                  | represent                         |
 | sich an D. beteiligen      | participate, contribute           |
 | die Regierung              | rule, reign, government           |
 | vertreten, der Vertreter   | support/represent, representative |
