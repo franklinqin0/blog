@@ -3,13 +3,11 @@ title: Algorithm
 date: 2020-10-14
 ---
 
-This site is composed of notes for algorithm problems I solved, mainly on [Leetcode](https://leetcode.com).
+This site is composed of notes for algorithm problems I solved, mainly on [LeetCode](https://leetcode.com).
 
 ## Why I Am Doing This
 
-While most people do Leetcode to find a (better) job, I do it for multiple reasons: review my algorithm knowledge, improve coding skills, and ofc find an SDE job.
-
-Other than these reasons, I also learned `C++` along the way because there are many solutions on Leetcode discussions written in the language.
+While most people do LeetCode to find a (better) job, I do it for multiple reasons: review my algorithm knowledge, improve coding skills, and of course be ready to find a CS job.
 
 ## Languages
 
@@ -17,17 +15,19 @@ Now I use Python3.
 
 ### Java
 
-I previously used `Java` extensively, because one of my best friends said Java gives you a better time to explain the underlying data structure.
+As SN once told me Java is better to explain the underlying data structures than Python, I tried it for a while, until I realized that I cannot tolerate its verbosity anymore.
 
 ### C++
 
-I was actually learning the language and am now reading many solutions in this language. However, C++ is known for a steep learning curve, and I don't think it's a good idea to write my solution while checking how to do a thing in it.
+I can read many solutions in this language. However, C++ is known for a steep learning curve, and I don't think I have enough time and motives to embark on such a journey.
 
 ### Python 3
 
-My officially first programming language is Python 2, from which I learned if, for, while, simple but useful data structures like list and map, and finally even a little OOP before learning Java. Several years later, Python is extinct and Python 3 inherits the speed, simplicity and elegance.
+My officially first programming language is Python 2, from which I learned `if`, `for`, `while`, simple but useful data structures like `list` and `map`, and finally even a little _OOP_ before learning Java. Several years later, Python 2 is extinct and Python 3 inherits the simplicity and elegance.
 
-Thus, now I am using Python 3 to solve algo problems and learning through [EPI in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949).
+Thus, now I am using Python 3 to solve algo problems.
+
+<!-- [EPI in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949). -->
 
 ## Blog Structure
 

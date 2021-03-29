@@ -115,7 +115,7 @@ Darf ich Sie etwas fragen?
 
 #### derselbe
 
-|           | der               | das                    | die                   | die(Pl.)             |
+|           | der               | das                    | die                   | die (Pl.)            |
 | --------- | ----------------- | ---------------------- | --------------------- | -------------------- |
 | Nominativ | derselbe Ort      | dasselbe Unternehmen   | dieselbe Universität  | dieselben Interessen |
 | Akkusativ | denselben Ort     | dasselbe Unternehmen   | dieselbe Universität  | dieselben Interessen |

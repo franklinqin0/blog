@@ -6,6 +6,7 @@ categories:
   - misc
 tags:
   - tech
+  - copy
 ---
 
 Following is an abridged version from the [full transcript](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) of Richard Hamming's speech "You and Your Research" at Bell Communications Research Colloquium Seminar on 7 March 1986.
@@ -146,7 +147,7 @@ In summary, I claim that some of the reasons why so many people who have greatne
 
 (End of the formal part of the talk.)
 
-## DISCUSSION - QUESTIONS AND ANSWERS
+## Discussion - Questions & Answers
 
 A. G. Chynoweth: Well that was 50 minutes of concentrated wisdom and observations accumulated over a fantastic career; I lost track of all the observations that were striking home. Some of them are very very timely. One was the plea for more computer capacity; I was hearing nothing but that this morning from several people, over and over again. So that was right on the mark today even though here we are 20 - 30 years after when you were making similar remarks, Dick. I can think of all sorts of lessons that all of us can draw from your talk. And for one, as I walk around the halls in the future I hope I won't see as many closed doors in Bellcore. That was one observation I thought was very intriguing.
 
@@ -214,7 +215,7 @@ Go forth, then, and do great work!
 
 (End of the General Research Colloquium Talk.)
 
-## BIOGRAPHICAL SKETCH OF RICHARD HAMMING
+## Biographical Sketch of Richard Hamming
 
 Richard W. Hamming was born February 11, 1915, in Chicago, Illinois. His formal education was marked by the following degrees (all in mathematics): B.S. 1937, University of Chicago; M.A. 1939, University of Nebraska; and Ph.D. 1942, University of Illinois. His early experience was obtained at Los Alamos 1945-1946, i.e. at the close of World War II, where he managed the computers used in building the first atomic bomb. From there he went directly to Bell Laboratories where he spent thirty years in various aspects of computing, numerical analysis, and management of computing, i.e. 1946-1976. On July 23, 1976 he "moved his office" to the Naval Postgraduate School in Monterey, California where he taught, supervised research, and wrote books.
 

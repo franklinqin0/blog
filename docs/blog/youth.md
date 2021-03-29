@@ -16,7 +16,7 @@ The title reminds me of following stuff I love:
 
 <!-- more -->
 
-Once in my junior year, I saw on Steven's blog the following excerpt from [<i>This Is the Life</i>](http://www.billemory.com/dillard/dillard.html) by Annie Dillard:
+Once in my junior year, I saw on SN's blog the following excerpt from [<i>This Is the Life</i>](http://www.billemory.com/dillard/dillard.html) by Annie Dillard:
 
 ::: tip This Is the Life
 People look at the sky and at the other animals. They make beautiful objects, beautiful sounds, beautiful motions of their bodies beating drums in lines. They pray; they toss people in peat bogs; they help the sick and injured; they pierce their lips, their noses, ears; they make the same mistakes despite religion, written language, philosophy, and science; they build, they kill, they preserve, they count and figure, they boil the pot, they keep the embers alive; they tell their stories and gird themselves.

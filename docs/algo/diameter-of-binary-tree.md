@@ -45,7 +45,7 @@ def diameterOfBinaryTree(self, root: TreeNode) -> int:
         res = max(res, left_path + right_path)
 
         # return the longer one btw left_path and right_path
-        # remember to add 1 for the path connecting the node and its parent
+        # add 1 for the path connecting the node and its parent
         return max(left_path, right_path) + 1
 
     longest_path(root)

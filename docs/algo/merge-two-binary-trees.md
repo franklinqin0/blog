@@ -21,12 +21,9 @@ class TreeNode:
 
 Let $n$ be the number of nodes in the tree.
 
-### Recursion
+Both solutions take **linear** time and space.
 
-::: theorem Complexity
-time: $O(n)$  
-space: $O(\log n)$ (worst case: $O(n)$, if a tree is skewed)
-:::
+### Recursion
 
 ```py
 def mergeTrees(self, root1: TreeNode, root2: TreeNode) -> TreeNode:

@@ -21,6 +21,8 @@ def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
 
 ### HashMap
 
+The trick is to turn `nums` into a HashMap, w/ mapping btw `(num-1)%n` and whether `num` has occurred.
+
 ::: theorem Complexity
 time: $O(n)$  
 space: $O(1)$
