@@ -14,6 +14,8 @@ Both solutions have linear time and space.
 
 ### Unsatisfied Customers (TLE)
 
+Two loops would TLE.
+
 ```py
 def maxSatisfied(self, customers: List[int], grumpy: List[int], X: int) -> int:
     n = len(customers)

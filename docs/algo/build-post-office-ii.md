@@ -20,7 +20,7 @@ related:
 
 ## Solution
 
-Let $n$ be the number of rows and $m$ be the number of columns.
+Let $n$ be the number of rows and $m$ be the number of columns of `grid`.
 
 ### Layered BFS
 

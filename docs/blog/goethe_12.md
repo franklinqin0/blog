@@ -172,7 +172,7 @@ Die anderen werden es dir danken!
 | die Pfütze                | puddle                      |
 | vermeiden                 | avoid                       |
 | der Dreck                 | dirt                        |
-| ausreichen                | be enough                   |
+| ausreichen, ausreichend   | genügen, genug              |
 | aufbrechen                | set out                     |
 | aufwecken                 | wake up                     |
 | die Rücksicht             | consideration               |
@@ -190,6 +190,8 @@ Die anderen werden es dir danken!
 | nirgends                  | nowhere                     |
 | schiefgehen               | go wrong                    |
 | achtgeben                 | be careful                  |
+| schonen                   | protect                     |
+| verletzen, die Verletzung | injure, injury              |
 | indem                     | by                          |
 | sodass                    | so that                     |
 

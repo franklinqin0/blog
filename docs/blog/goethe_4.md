@@ -603,17 +603,17 @@ Wohin fahren Timo und Julia? Sie haben sich entschieden, nach München zu fahren
 
 ### Schmerzen Beschreiben
 
-| Deutsch                                                           | Englisch    |
-| ----------------------------------------------------------------- | ----------- |
-| schmerzen                                                         | hurt        |
-| erzählen                                                          | tell        |
-| schlimm                                                           | serious     |
-| atmen                                                             | respire     |
-| <d type="er" text="Husten"/>                                      | cough       |
-| <d type="er" text="Schnupfen"/> / <d type="ie" text="Erkältung"/> | cold        |
-| <d type="ie" text="Besserung"/>                                   | recovery    |
-| <d type="ie" text="Reservierung"/>                                | reservation |
-| <d type="as" text="Fieber"/>                                      | fever       |
+| Deutsch                                                           | Englisch     |
+| ----------------------------------------------------------------- | ------------ |
+| schmerzen                                                         | hurt         |
+| erzählen                                                          | tell         |
+| schlimm                                                           | serious, bad |
+| atmen                                                             | respire      |
+| <d type="er" text="Husten"/>                                      | cough        |
+| <d type="er" text="Schnupfen"/> / <d type="ie" text="Erkältung"/> | cold         |
+| <d type="ie" text="Besserung"/>                                   | recovery     |
+| <d type="ie" text="Reservierung"/>                                | reservation  |
+| <d type="as" text="Fieber"/>                                      | fever        |
 
 - Ich habe keine/leichte/starke Schmerzen.
 - Was fehlt Ihnen? $\rightarrow$ Der/Mein Arm tut weh.
