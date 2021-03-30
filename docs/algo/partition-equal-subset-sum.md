@@ -12,7 +12,7 @@ related:
 
 ## Solution
 
-This problem is similar to the $0/1$ Knapsack problem and subset sum decision problem, all of which are NP-complete and cannot be reduced to polynomial runtime, unless $P = NP$.
+This problem is a variation of the $0/1$ Knapsack problem and subset sum decision problem, all of which are NP-complete and cannot be reduced to polynomial runtime, unless $P = NP$.
 
 Let $n$ be the length of the array `nums` and $target$ be the half of total sum.
 
@@ -121,7 +121,7 @@ Turn `dp` into an int, or a bit array partitioned by each `num`.
 Both time and space complexities are the best.
 
 ::: theorem Complexity
-time: $O(n \cdot target)$  
+time: $O(n \cdot target)$ (the $target$ is negligible under small inputs)  
 space: $O(target)$
 :::
 
@@ -174,7 +174,7 @@ def canPartition(self, nums: List[int]) -> bool:
 Add `csum` to `memo` once visited.
 
 ::: theorem Complexity
-time: $O(n \cdot target)$  
+time: ???  
 space: $O(n)$
 :::
 
