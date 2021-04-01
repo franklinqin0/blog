@@ -253,56 +253,64 @@ Before that, of course, must be practiced diligently.
 
 ### Wörter
 
-| Deutsch                     | Bedeutung                           |
-| --------------------------- | ----------------------------------- |
-| die Tournee                 | tour                                |
-| das Publikum                | audience                            |
-| der Fan                     | fan                                 |
-| das Autogramm               | autograph                           |
-| das Lampenfieber            | stage fright                        |
-| der Soundcheck              | sound check                         |
-| der Tournee-Bus             | tour bus                            |
-| der Konzertsaal             | concert hall                        |
-| der Plakat                  | poster, placard                     |
-| der Notausgang              | emergency exit                      |
-| der Lautsprecher            | loudspeaker                         |
-| die Garderobe               | wardrobe                            |
-| die Aufführung              | performance                         |
-| die Schulaufführung         | school performance                  |
-| innerhalb                   | within                              |
-| kreuz und quer              | planlos                             |
-| die Generalprobe            | die letzte Probe vor der Aufführung |
-| der Misserfolg              | failure                             |
-| schleppen                   | carry                               |
-| die Synagoge                | synagogue                           |
-| verlangen                   | auffordern                          |
-| das Zeichen                 | sign                                |
-| die Herberge                | hostel                              |
-| der Gedanke                 | thought                             |
-| ausverkauft                 | sold out                            |
-| bestehen                    | exist                               |
-| die Sozialsiedlung          | social settlement                   |
-| Kohle abbauen               | coal mining                         |
-| das Häuschen                | cottage                             |
-| das Gewirr                  | maze, confusion                     |
-| das Ausfahrt                | exit                                |
-| das Wachstum                | growth                              |
-| anhalten                    | stop                                |
-| abbiegen                    | turn, get out of                    |
-| mitten                      | in the middle                       |
-| erschöpften, erschöpft      | exhaust, exhausted                  |
-| riesengroß                  | enormous                            |
-| austauschen                 | exchange, replace                   |
-| die Zeche                   | mine                                |
-| das Gelände                 | site                                |
-| auftreten                   | occur, act                          |
-| das Weingut                 | vineyard                            |
-| verteilen, die Verteilung   | distribute, distribution            |
-| erwähnen                    | mention                             |
-| der Zustand                 | condition, situation                |
-| sich vergnügen              | enjoy oneself                       |
-| hinterher                   | afterwards                          |
-| beeindrucken, beeindruckend | impress, impressive                 |
+| Deutsch                                 | Bedeutung                           |
+| --------------------------------------- | ----------------------------------- |
+| die Tournee                             | tour                                |
+| das Publikum                            | audience                            |
+| der Fan                                 | fan                                 |
+| das Autogramm                           | autograph                           |
+| das Lampenfieber                        | stage fright                        |
+| der Soundcheck                          | sound check                         |
+| der Tournee-Bus                         | tour bus                            |
+| der Konzertsaal                         | concert hall                        |
+| der Plakat                              | poster, placard                     |
+| der Notausgang                          | emergency exit                      |
+| der Lautsprecher                        | loudspeaker                         |
+| die Garderobe                           | wardrobe                            |
+| die Aufführung                          | performance                         |
+| die Schulaufführung                     | school performance                  |
+| innerhalb                               | within                              |
+| kreuz und quer                          | planlos                             |
+| die Generalprobe                        | die letzte Probe vor der Aufführung |
+| der Misserfolg                          | failure                             |
+| schleppen                               | carry                               |
+| die Synagoge                            | synagogue                           |
+| verlangen                               | auffordern                          |
+| das Zeichen                             | sign                                |
+| die Herberge                            | hostel                              |
+| der Gedanke                             | thought                             |
+| ausverkauft                             | sold out                            |
+| bestehen                                | exist                               |
+| die Sozialsiedlung                      | social settlement                   |
+| Kohle abbauen                           | coal mining                         |
+| das Häuschen                            | cottage                             |
+| das Gewirr                              | maze, confusion                     |
+| das Ausfahrt                            | exit                                |
+| das Wachstum                            | growth                              |
+| anhalten                                | stop                                |
+| abbiegen                                | turn, get out of                    |
+| mitten                                  | in the middle                       |
+| erschöpften, erschöpft                  | exhaust, exhausted                  |
+| riesengroß                              | enormous                            |
+| austauschen                             | exchange, replace                   |
+| die Zeche                               | mine                                |
+| das Gelände                             | site                                |
+| auftreten                               | occur, act                          |
+| das Weingut                             | vineyard                            |
+| verteilen, die Verteilung               | distribute, distribution            |
+| erwähnen                                | mention                             |
+| der Zustand                             | condition, situation                |
+| sich vergnügen, das Vergnügen, vergnügt | enjoy oneself, pleasure,enjoyable   |
+| hinterher                               | afterwards                          |
+| beeindrucken, beeindruckend             | impress, impressive                 |
+| die Stimmung                            | mood                                |
+| gestrig                                 | yesterday's                         |
+| solang, solange                         | as long as                          |
+| versäumen                               | miss                                |
+| krönen                                  | crown                               |
+| die Mühe                                | trouble                             |
+| die Anfrage                             | inquiry                             |
+| die Witze                               | joke                                |
 
 ### Wendungen
 
@@ -323,7 +331,7 @@ inside/outside
 
 ::: tip
 um das Zentrum herum  
-am Flus entlang  
+am Fluss entlang  
 innerhalb/außerhalb des Landes  
 innerhalb weniger Tage  
 Außerhalb der Öffnungszeiten können Sie uns nicht erreichen.
@@ -334,7 +342,7 @@ Außerhalb der Öffnungszeiten können Sie uns nicht erreichen.
 ::: theorem müssen + Partizip II + werden
 Singular: Es muss vorher fleißig geübt werden.  
 Plural: Auftrittsmöglichkeiten müssen gesucht werden.  
-auch so mit: können, dürfen, wollen, sollen
+auch so mit: _können_, _dürfen_, _wollen_, _sollen_
 :::
 
 ::: tip
@@ -361,6 +369,9 @@ Cross your fingers for us.
 Innerhalb weniger Tage muss ich nach Deutschland gehen, aber außerhalb des Deutschkurses habe ich selten Deutsch gelernt.  
 Within a few days I have to go to Germany, but outside the German course I rarely learned German.
 
+Wundert Euch nicht, wenn Ihr vor dem Konzert nervös seid, Lampenfieber gehört dazu.  
+Don't be surprised if you are nervous before the concert, stage fright is part of it.
+
 ## Lektion 22 - Geschichte
 
 In der BRD wurde die Demokratie eingeführt.  
@@ -368,34 +379,34 @@ Democracy was introduced in Germany.
 
 ### Wörter
 
-| Deutsch                | Bedeutung          |
-| ---------------------- | ------------------ |
-| sich zwingen           | force oneself      |
-| der Mauerbau           | building of a wall |
-| die Gewalt             | power, violence    |
-| der (Welt-)Kreig       | world war          |
-| der Frieden            | peace              |
-| die Revolution         | revolution         |
-| die Luftbrücke         | airlift 空运       |
-| der Nationalfeiertag   | national holiday   |
-| die Bushaltestelle     | bus stop           |
-| die Besatzungszone     | occupied zone      |
-| der Trabant            | satellite          |
-| die Flucht             | flight             |
-| der Gegner             | adversary          |
-| die Vereinigung        | union              |
-| die Ursache            | cause              |
-| die Knappheit          | shortage           |
-| die Arbeitsgenehmigung | work permit        |
-| der Notruf             | emergency          |
-| die Verhaftung         | arrest             |
-| ehemalig               | former             |
-| der Einmarsch          | entry, invasion    |
-| zerstören              | destroy            |
-| stehlen                | steal              |
-| auslösen               | trigger            |
-| der Verlust            | loss               |
-| angeblich              | alleged            |
+| Deutsch                   | Bedeutung          |
+| ------------------------- | ------------------ |
+| sich zwingen              | force oneself      |
+| der Mauerbau              | building of a wall |
+| die Gewalt                | power, violence    |
+| der (Welt-)Krieg          | world war          |
+| der Frieden               | peace              |
+| die Revolution            | revolution         |
+| die Luftbrücke            | airlift 空运       |
+| der Nationalfeiertag      | national holiday   |
+| die Bushaltestelle        | bus stop           |
+| die Besatzungszone        | occupied zone      |
+| der Trabant               | satellite          |
+| die Flucht                | flight             |
+| der Gegner                | adversary          |
+| die Vereinigung           | union              |
+| die Ursache               | cause              |
+| die Knappheit             | shortage           |
+| die Arbeitsgenehmigung    | work permit        |
+| der Notruf                | emergency call     |
+| verhaften, die Verhaftung | arrest             |
+| ehemalig                  | former             |
+| der Einmarsch             | entry, invasion    |
+| zerstören                 | destroy            |
+| stehlen                   | steal              |
+| auslösen                  | trigger            |
+| der Verlust               | loss               |
+| angeblich                 | alleged            |
 
 ### Wendungen
 
@@ -450,7 +461,7 @@ Bicycling is in.
 | die Heizung             | heating               |
 | der Deckel              | lid                   |
 | der Topf                | pot                   |
-| Stecker                 | plug                  |
+| der Stecker             | plug                  |
 | die Badewanne           | bath, bathtub         |
 | gießen                  | pour                  |
 | die Eisenbahn           | railway               |

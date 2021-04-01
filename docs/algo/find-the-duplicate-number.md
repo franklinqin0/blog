@@ -10,7 +10,9 @@ tags:
 ## Solution
 
 ```py
-
+def findDuplicate(self, nums: List[int]) -> int:
+    cnt = Counter(nums)
+    return max(cnt, key=cnt.get)
 ```
 
 ## Follow Up

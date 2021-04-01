@@ -47,7 +47,7 @@ $$
 Return $dp[n-1][target]$ as the final result.
 
 ::: theorem Complexity
-time: $O(n \cdot target)$
+time: $O(n \cdot target)$  
 space: $O(n \cdot target)$
 :::
 
@@ -90,7 +90,7 @@ $dp[j] = dp[j]~|~dp[j - nums[i]]$
 Note that `j` is traversed in reverse order, b/c o.w. `dp[j - num]` is already updated, and no longer the value from previous iteration.
 
 ::: theorem Complexity
-time: $O(n \cdot target)$
+time: $O(n \cdot target)$  
 space: $O(target)$
 :::
 
@@ -121,7 +121,7 @@ Turn `dp` into an int, or a bit array partitioned by each `num`.
 Both time and space complexities are the best.
 
 ::: theorem Complexity
-time: $O(n \cdot target)$ (the $target$ is negligible under small inputs)  
+time: $O(n \cdot target)$ (the $target$ is negligible depending on language implementations of bit array)  
 space: $O(target)$
 :::
 

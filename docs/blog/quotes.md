@@ -115,7 +115,10 @@ Oscar Wilde
 :::
 
 ::: tip
-The difference between stupidity and genius is that genius has it limits.
+
+- The difference between stupidity and genius is that genius has it limits.
+- Education is what remains after one has forgotten everything one learned in school.
+
 ::: right
 Albert Einstein
 :::

@@ -32,3 +32,9 @@ git config --global credential.helper store
 git fetch origin
 git reset --hard origin/master
 ```
+
+## [fatal: refusing to merge unrelated histories](https://www.educative.io/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error)
+
+```sh
+git pull origin master --allow-unrelated-histories
+```
