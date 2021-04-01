@@ -393,7 +393,7 @@ Mit freundlichen Grüßen
 | womit                           | with which                   |
 | die Verneinung                  | rejection                    |
 | dauernd                         | immer                        |
-| abheben                         | withdraw                     |
+| abheben                         | withdraw, lift off           |
 | runtergefallen                  | fall down/off                |
 | anschaffen                      | purchase, buy                |
 | übertreiben, übertrieben        | exaggerate, exaggerated      |

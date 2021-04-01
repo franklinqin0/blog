@@ -533,65 +533,65 @@ I suspect that we won't be available 24/7 anymore because it's too much of a has
 Fühlen Sie sich wie zu Hause.  
 Make yourself at home.
 
-| Deutsch                  | Bedeutung                      |
-| ------------------------ | ------------------------------ |
-| die Begrüßung            | greeting                       |
-| das Gastgeschenk         | present                        |
-| der Aperitif             | aperitif                       |
-| die Gastfreundschaft     | hospitality                    |
-| der Gastgeber            | host                           |
-| der Rinderbraten         | roast beef                     |
-| der Vegetarier           | vegetarian                     |
-| schieflaufen             | go wrong                       |
-| vergiften                | poison                         |
-| vergiftet                | poisoned                       |
-| der Weizen               | wheat                          |
-| das Verständnis          | understanding                  |
-| ablehnen                 | reject                         |
-| sich verhalten           | behave                         |
-| verhalten                | cautious                       |
-| das Verhalten            | behavior                       |
-| die Gewohnheit           | habit                          |
-| umgehen                  | circumvent                     |
-| neue Wörter nachschlagen | look up new words              |
-| satt                     | full                           |
-| das Gedächtnis           | memory                         |
-| geschehen                | passieren                      |
-| äußern                   | express                        |
-| nachschenken             | top up                         |
-| tatsächlich              | actual(ly)                     |
-| vorzeitig                | premature                      |
-| erfreut                  | pleased                        |
-| die Kleinigkeit          | trifle                         |
-| meinerseits              | for my part                    |
-| riechen                  | smell                          |
-| klappen                  | work                           |
-| die Pfanne               | pan                            |
-| das Besteck              | cutlery                        |
-| würzen                   | season                         |
-| nachwürzen               | add some seasoning             |
-| der Schoß                | lap 大腿                       |
-| der Schweiß, schwitzen   | sweat                          |
-| die Serviette            | napkin                         |
-| A. in A. hineinstopfen   | cram sth. into sth.            |
-| abschneiden              | cut                            |
-| gestikulieren            | gesticulate                    |
-| Stirn                    | brow, forehead                 |
-| wischen                  | wipe                           |
-| der Kragen               | collar                         |
-| der Hemdkragen           | shirt collar                   |
-| hungrig                  | hungry                         |
-| der Gang                 | course                         |
-| herum                    | around                         |
-| unterbrechen             | interrupt, break off           |
-| sich vorarbeiten         | durch harte Arbeit vorankommen |
-| die Anweisung            | instruction                    |
-| die Gebrauchsanweisung   | instructions for use           |
-| beobachten               | observe                        |
-| schnupfen                | sniff                          |
-| beurteilen               | judge, assess                  |
-| die Manier               | manner                         |
-| der Bezug                | reference                      |
+| Deutsch                | Bedeutung                      |
+| ---------------------- | ------------------------------ |
+| die Begrüßung          | greeting                       |
+| das Gastgeschenk       | present                        |
+| der Aperitif           | aperitif                       |
+| die Gastfreundschaft   | hospitality                    |
+| der Gastgeber          | host                           |
+| der Rinderbraten       | roast beef                     |
+| der Vegetarier         | vegetarian                     |
+| schieflaufen           | go wrong                       |
+| vergiften              | poison                         |
+| vergiftet              | poisoned                       |
+| der Weizen             | wheat                          |
+| das Verständnis        | understanding                  |
+| ablehnen               | reject                         |
+| sich verhalten         | behave                         |
+| verhalten              | cautious                       |
+| das Verhalten          | behavior                       |
+| die Gewohnheit         | habit                          |
+| umgehen                | circumvent                     |
+| nachschlagen           | look up                        |
+| satt                   | full                           |
+| das Gedächtnis         | memory                         |
+| geschehen              | passieren                      |
+| äußern                 | express                        |
+| nachschenken           | top up                         |
+| tatsächlich            | actual(ly)                     |
+| vorzeitig              | premature                      |
+| erfreut                | pleased                        |
+| die Kleinigkeit        | trifle                         |
+| meinerseits            | for my part                    |
+| riechen                | smell                          |
+| klappen                | work                           |
+| die Pfanne             | pan                            |
+| das Besteck            | cutlery                        |
+| würzen                 | season                         |
+| nachwürzen             | add some seasoning             |
+| der Schoß              | lap 大腿                       |
+| der Schweiß, schwitzen | sweat                          |
+| die Serviette          | napkin                         |
+| A. in A. hineinstopfen | cram sth. into sth.            |
+| abschneiden            | cut                            |
+| gestikulieren          | gesticulate                    |
+| Stirn                  | brow, forehead                 |
+| wischen                | wipe                           |
+| der Kragen             | collar                         |
+| der Hemdkragen         | shirt collar                   |
+| hungrig                | hungry                         |
+| der Gang               | course                         |
+| herum                  | around                         |
+| unterbrechen           | interrupt, break off           |
+| sich vorarbeiten       | durch harte Arbeit vorankommen |
+| die Anweisung          | instruction                    |
+| die Gebrauchsanweisung | instructions for use           |
+| beobachten             | observe                        |
+| schnupfen              | sniff                          |
+| beurteilen             | judge, assess                  |
+| die Manier             | manner                         |
+| der Bezug              | reference                      |
 
 ### Wendungen
 

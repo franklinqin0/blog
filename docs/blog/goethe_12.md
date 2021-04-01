@@ -212,6 +212,9 @@ Bleiben Sie immer auf den markierten Wegen, **sodass** die Tiere im Wald nicht g
 
 ### Wendungen
 
+bekannt geben  
+darüber informieren
+
 an der Decke  
 auf den Boden
 
@@ -264,6 +267,7 @@ Before that, of course, must be practiced diligently.
 | der Tournee-Bus                         | tour bus                            |
 | der Konzertsaal                         | concert hall                        |
 | der Plakat                              | poster, placard                     |
+| der Ausgang                             | exit, output                        |
 | der Notausgang                          | emergency exit                      |
 | der Lautsprecher                        | loudspeaker                         |
 | die Garderobe                           | wardrobe                            |
@@ -306,11 +310,16 @@ Before that, of course, must be practiced diligently.
 | die Stimmung                            | mood                                |
 | gestrig                                 | yesterday's                         |
 | solang, solange                         | as long as                          |
-| versäumen                               | miss                                |
+| versäumen                               | miss, fail                          |
 | krönen                                  | crown                               |
 | die Mühe                                | trouble                             |
 | die Anfrage                             | inquiry                             |
 | die Witze                               | joke                                |
+| empfangen, der Empfang                  | receive/reception, welcome          |
+| behandeln                               | handle                              |
+| einzahlen                               | deposit                             |
+| schweigen                               | stop, keep quiet                    |
+| überweisen                              | transfer                            |
 
 ### Wendungen
 
