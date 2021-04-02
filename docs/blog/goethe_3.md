@@ -233,7 +233,7 @@ Kürzen du/ihr.
 | können                               | can               |
 | müssen                               | must              |
 | wichtig                              | important         |
-| klingeln                             | ring              |
+| klingeln, die Klingel                | ring, bell        |
 | spazieren                            | stroll            |
 | besuchen                             | visit             |
 | reisen                               | travel            |

@@ -320,28 +320,27 @@ Before that, of course, must be practiced diligently.
 | einzahlen                               | deposit                             |
 | schweigen                               | stop, keep quiet                    |
 | überweisen                              | transfer                            |
+| sich verlassen auf A.                   | rely on                             |
 
 ### Wendungen
 
-#### Präposition
+#### lokal Präposition
 
-::: theorem lokal
-um A. herum  
-around
-
-an/am D. entlang  
-along
+::: tip um A. herum
+around  
+Wir fahren dreimal um das Zentrum herum.
 :::
 
-::: theorem lokal + temporal
-innerhalb/außerhalb G.  
-inside/outside
+::: tip an/am D. entlang
+along  
+Es geht am Rhein entlang nach Basel.
 :::
 
-::: tip
-um das Zentrum herum  
-am Fluss entlang  
-innerhalb/außerhalb des Landes  
+#### lokal + temporal Präposition
+
+::: tip innerhalb/außerhalb G.
+inside/outside  
+Der Veranstaltungsort liegt innerhalb der Stadt / außerhalb des Landes.  
 innerhalb weniger Tage  
 Außerhalb der Öffnungszeiten können Sie uns nicht erreichen.
 :::
@@ -349,13 +348,14 @@ Außerhalb der Öffnungszeiten können Sie uns nicht erreichen.
 #### Passiv Präsens mit Modalverben
 
 ::: theorem müssen + Partizip II + werden
-Singular: Es muss vorher fleißig geübt werden.  
-Plural: Auftrittsmöglichkeiten müssen gesucht werden.  
+**Singular:** Es muss vorher fleißig geübt werden.  
+**Plural:** Auftrittsmöglichkeiten müssen gesucht werden.  
 auch so mit: _können_, _dürfen_, _wollen_, _sollen_
 :::
 
 ::: tip
-Jacken müssen an der Garderobe abgegeben werden.
+Jacken müssen an der Garderobe abgegeben werden.  
+An der Garderobe müssen Jacken abgegeben werden.
 
 Auf dem Gelände darf nicht gegrillt werden.  
 Es darf auf dem Gelände nicht gegrillt werden.
@@ -365,6 +365,23 @@ Es soll auf Sicherheitshinweise geachtet werden.
 
 Auf den Toiletten darf nicht geraucht werden.  
 Es darf auf den Toiletten nicht geraucht werden.
+:::
+
+#### etwas anpreisen
+
+::: tip
+Also, am meisten überrascht/begeistert hat mich persönlich $\cdots$  
+Dort gab es ein großes kulturelles Angebot.  
+Wir haben uns keine Sekunde gelangweilt.  
+Dort herrschte auch die fröhlichste Stimmung / netteste Atmosphäre / $\cdots$  
+Die Menschen haben uns $\cdots$ behandelt. Die Gastfreundschaft war $\cdots$  
+Augsburg hatte den nettesten $\cdots$  
+Dort gibt es fantastische Gaststätten/Gebäude aus dem vorigen Jahrhundert.  
+Im Vergleich zu $\cdots$ hat $\cdots$ einfach die besten $\cdots$  
+Die interessantesten Ecken gab es in $\cdots$  
+Eines der tollsten Erlebnisse war $\cdots$  
+Wir hatten das Vergnügen einer/eines $\cdots$  
+Schuld daran war $\cdots$
 :::
 
 ### Sätze
@@ -380,6 +397,9 @@ Within a few days I have to go to Germany, but outside the German course I rarel
 
 Wundert Euch nicht, wenn Ihr vor dem Konzert nervös seid, Lampenfieber gehört dazu.  
 Don't be surprised if you are nervous before the concert, stage fright is part of it.
+
+Wir fühlen uns als Gemeinschaft, in der sich jeder auf den anderen verlassen kann.  
+We feel like a community where everyone can rely on each other.
 
 ## Lektion 22 - Geschichte
 
@@ -416,6 +436,12 @@ Democracy was introduced in Germany.
 | auslösen                  | trigger            |
 | der Verlust               | loss               |
 | angeblich                 | alleged            |
+| herstellen                | produce            |
+| das Todesopfer            | fatality           |
+| der Macht                 | authority          |
+| der Wettbewerb            | competition        |
+| loben                     | praise             |
+| eventuell                 | possible           |
 
 ### Wendungen
 
@@ -436,15 +462,15 @@ Ich konnte mir noch nie / schon immer gut vorstellen, $\cdots$
 
 ### Grammatik
 
-::: theorem Passiv Perfekt
-sein $\cdots$ Partizip II worden  
-Das Buch ist gestern gekauft worden.
-:::
+#### Passiv Perfekt
 
-::: theorem Passiv Präteritum
-wurden $\cdots$ (von jm.) Partizip II  
+sein $\cdots$ Partizip II **worden**  
+Das Buch ist gestern gekauft worden.
+
+#### Passiv Präteritum
+
+**wurden** $\cdots$ (von jm.) Partizip II  
 Das Buch wurde gestern gekauft.
-:::
 
 ### Sätze
 
@@ -482,10 +508,21 @@ Bicycling is in.
 | das Einweggeschirr      | disposable tableware  |
 | schmeißen               | throw, chuck          |
 | verbrauchen             | consume               |
+| verschlechtern          | make worse            |
 | die Vorschrift          | instruction, rule     |
 | entsorgen               | dispose               |
 | abhängen                | depend                |
 | das Gesetz              | law                   |
+| die Übersicht           | overview              |
+| das Gesetz              | law                   |
+| rein, die Reinigung     | pure/clean, cleaning  |
+| bremsen, die Bremse     | brake                 |
+| sich bemühen            | endeavor              |
+| vorziehen               | prefer                |
+| meinetwegen             | for my sake           |
+| nebenbei                | on the side           |
+| offenbar                | obvious               |
+| sowieso                 | anyway                |
 
 ### Wendungen
 

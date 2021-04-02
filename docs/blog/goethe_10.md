@@ -253,7 +253,7 @@ Sport trägt zu einem größeren Wohlbefinden bei.
 | verteilen                               | distribute                                                  |
 | die Müdigkeit                           | tiredness                                                   |
 | die Verspannung                         | der Stress                                                  |
-| entgegen                                | towards                                                     |
+| entgegen                                | against                                                     |
 | die Krankversicherung, die Krankenkasse | health insurance                                            |
 | der Aufenthalt                          | residence, stay                                             |
 | verleihen                               | geben                                                       |
