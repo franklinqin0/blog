@@ -567,9 +567,6 @@ Nicht so trocken.
 Meinetwegen.  
 I don't mind.
 
-Macht dir das nichts aus?  
-Do you mind?
-
 ::: tip Zustimmung/Ablehnung ausdrücken
 Doch, du hast recht.  
 (Ganz) Genau.  
@@ -580,7 +577,7 @@ Ich bin völlig anderer Meinung. Mein Standpunkt ist, dass $\cdots$
 :::
 
 ::: tip rückfragen und Gleichgültigkeit ausdrücken
-Macht dir das nichts aus? (Stört dich das nicht?)  
+Macht dir das nichts aus? / Stört dich das nicht? (Do you mind?)  
 Ärgerst du dich denn nicht darüber?  
 Nein, das ist mir ganz egal/gleich.  
 Das spielt keine Rolle.  

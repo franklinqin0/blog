@@ -16,3 +16,7 @@ def findDuplicate(self, nums: List[int]) -> int:
 ```
 
 ## Follow Up
+
+#### How can we prove that at least one duplicate number must exist in nums?
+
+Proving that at least one duplicate must exist in nums is simple application of the pigeonhole principle. Here, each number in nums is a "pigeon" and each distinct number that can appear in nums is a "pigeonhole". Because there are n+1n+1 numbers are nn distinct possible numbers, the pigeonhole principle implies that at least one of the numbers is duplicated.
