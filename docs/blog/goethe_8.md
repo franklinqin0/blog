@@ -184,7 +184,6 @@ Wo warst du im Urlaub? **Bei** ihren Eltern?
 | die Hoffnung                  | hope               |
 | des Namens                    | $\cdots$的名字     |
 | das Drehbuch                  | script, screenplay |
-| drehen                        | film               |
 | der Teppich                   | rug, carpet        |
 | behindern                     | obstruct           |
 | der Dolmetscher               | interpreter        |

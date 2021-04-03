@@ -516,8 +516,8 @@ He did something with which I did not agree.
 | sich an D. beteiligen      | participate, contribute           |
 | die Regierung              | rule, reign, government           |
 | vertreten, der Vertreter   | support/represent, representative |
-| die Minderheit             | $\neg$ die Mehrheit               |
-| zunehmen                   | $\neg$ sinken                     |
+| die Minderheit             | $\neg$ die Mehrheit, minority     |
+| zunehmen                   | $\neg$ sinken, increase           |
 | gering                     | low                               |
 | verdrossen                 | sullen, moody                     |
 | flüchten                   | flee                              |

@@ -43,8 +43,7 @@ module.exports = {
         items: [
           {
             text: "Email",
-            link:
-              "mailto:1372978422@qq.com?subject=I read your blog and here is what I think",
+            link: "mailto:1372978422@qq.com?subject=HAHA",
             icon: "reco-mail",
           },
           {

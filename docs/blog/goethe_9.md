@@ -467,7 +467,7 @@ strange to say
 | der Begriff                          | concept               |
 | die Ansicht                          | view, opinion         |
 | behaupten                            | maintain, assert      |
-| überzeugen                           | convince              |
+| überzeugen, die Überzeugung          | convince, conviction  |
 | steuern                              | control, steer        |
 | in ferner Zukunft                    | in the distant future |
 | seither                              | ever since            |
@@ -552,7 +552,6 @@ Make yourself at home.
 | verhalten              | cautious                       |
 | das Verhalten          | behavior                       |
 | die Gewohnheit         | habit                          |
-| umgehen                | circumvent                     |
 | nachschlagen           | look up                        |
 | satt                   | full                           |
 | das Gedächtnis         | memory                         |

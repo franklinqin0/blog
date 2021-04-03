@@ -174,6 +174,7 @@ Die anderen werden es dir danken!
 | der Dreck                 | dirt                        |
 | ausreichen, ausreichend   | genügen, genug              |
 | aufbrechen                | set out                     |
+| wecken                    | awaken                      |
 | aufwecken                 | wake up                     |
 | die Rücksicht             | consideration               |
 | grundsätzlich             | fundamental                 |
@@ -194,6 +195,7 @@ Die anderen werden es dir danken!
 | verletzen, die Verletzung | injure, injury              |
 | indem                     | by                          |
 | sodass                    | so that                     |
+| allmählich                | gradual                     |
 
 ### Grammatik
 
@@ -527,6 +529,10 @@ Bicycling is in.
 | fordern                 | demand                  |
 | der Ökostrom            | green electricity/power |
 | leisten                 | do, achieve             |
+| umwandeln               | convert                 |
+| umgehen                 | circumvent              |
+| rasch                   | quick(ly)               |
+| leugnen                 | deny                    |
 
 ### Wendungen
 
@@ -537,26 +543,11 @@ gastfreundlich
 fahrradfreundlich
 :::
 
-::: tip ohne $\cdots$ zu, ohne dass
-without
-
-Ich lebe in einem attraktiven Umfeld, **ohne dass** ich auf Komfort verzichten.  
-Ich lebe in einem attraktiven Umfeld, **ohne** auf Komfort **zu** verzichten.  
-I live in an attractive environment without sacrificing comfort.
-:::
-
-::: tip (an)statt $\cdots$ zu, (an)statt dass
-instead of
-
-Ich steigere Fitness und Kondition, **statt dass** ich im Stau stehe.  
-Ich steigere Fitness und Kondition, **statt** im Stau **zu** stehen.
-:::
-
 den Deckel auf den Topf legen  
 put the lid on the pot
 
 die Stecker von Stand-by-Geräten aus der Steckdose ziehen  
-Unplug stand-by devices from the power outlet
+unplug stand-by devices from the power outlet
 
 Ich bin der Meinung/Ansicht, dass $\cdots$  
 Meiner Meinung nach $\cdots$ (Verb)
@@ -585,6 +576,28 @@ Das interessiert mich nicht.
 Meinetwegen kann jeder das so machen, wie er möchte.
 :::
 
+### Grammatik
+
+::: theorem 主句和从句主语
+gleich $\rightarrow$ ohne/(an)statt $\cdots$ zu  
+verschieden $\rightarrow$ ohne/(an)statt dass
+:::
+
+::: tip ohne $\cdots$ zu, ohne dass
+without
+
+Ich lebe in einem attraktiven Umfeld, **ohne dass** ich auf Komfort verzichten.  
+Ich lebe in einem attraktiven Umfeld, **ohne** auf Komfort **zu** verzichten.  
+I live in an attractive environment without sacrificing comfort.
+:::
+
+::: tip (an)statt $\cdots$ zu, (an)statt dass
+instead of
+
+Ich steigere Fitness und Kondition, **statt dass** ich im Stau stehe.  
+Ich steigere Fitness und Kondition, **statt** im Stau **zu** stehen.
+:::
+
 ### Sätze
 
 ::: tip
@@ -608,47 +621,101 @@ In my opinion, industrial companies are the biggest polluters of the environment
 
 ## Lektion 24 - Zukunftsvisionen
 
+Das löst mehrere Probleme auf einmal.  
+This solves several problems at once.
+
 ### Wörter
 
-| Deutsch                           | Bedeutung           |
-| --------------------------------- | ------------------- |
-| die Einzelheit                    | detail              |
-| die Zeile                         | row 行              |
-| die Vielfalt                      | diversity           |
-| der Rollstuhl                     | wheelchair          |
-| die Tischlerei                    | carpentry           |
-| landwirtschaftlich                | agricultural        |
-| damit                             | so that             |
-| die Selbständigkeit               | independence        |
-| bedienen                          | serve, operate      |
-| der Brunnen                       | well, fountain      |
-| beeilen                           | hurry               |
-| verschwinden                      | disappear           |
-| das Altenheim                     | nurisng home 养老院 |
-| überschwemmen, die Überschwemmung | das Hochwasser      |
-| der Brand                         | fire                |
-| der Bienenstock                   | hive                |
-| die Entfernung                    | distance            |
-| unabhängig                        | independent         |
-| befürworten                       | support, fovor      |
-| zusätzlich                        | additional          |
-| ewig                              | eternal             |
+| Deutsch                                           | Bedeutung                 |
+| ------------------------------------------------- | ------------------------- |
+| die Einzelheit                                    | detail                    |
+| die Zeile                                         | row 行                    |
+| die Vielfalt                                      | diversity                 |
+| der Rollstuhl                                     | wheelchair                |
+| die Tischlerei                                    | carpentry                 |
+| die Landwirtschaft, landwirtschaftlich            | agriculture, agricultural |
+| damit                                             | so that                   |
+| die Selbständigkeit                               | independence              |
+| bedienen                                          | serve, operate            |
+| der Brunnen                                       | well, fountain            |
+| beeilen                                           | hurry                     |
+| verschwinden                                      | disappear                 |
+| das Altenheim                                     | nurisng home 养老院       |
+| überschwemmen, die Überschwemmung, das Hochwasser | flood                     |
+| der Brand                                         | fire                      |
+| der Bienenstock                                   | hive                      |
+| die Entfernung                                    | distance                  |
+| unabhängig                                        | independent               |
+| befürworten                                       | support, favor            |
+| zusätzlich                                        | additional                |
+| ewig                                              | eternal                   |
+| sich umschauen                                    | look around               |
+| überwinden                                        | overcome                  |
+| verwirklichen                                     | achieve                   |
+| der Gutscof                                       | estate                    |
+| nebenan                                           | next door                 |
+| das Blatt                                         | leaf                      |
+| abseits                                           | away from                 |
+| beschließen                                       | decide                    |
+| anscheinend                                       | apparent(ly)              |
+| die Absicht                                       | intention                 |
+| der Zweifel, zweifeln                             | doubt                     |
 
 ### Wendungen
 
 Brand im Wald  
 Fire in the forest
 
-als ob  
-as if
+::: tip Überzeugung ausdrücken
+Ich bin davon überzeugt, dass $\cdots$ eine/keine Rolle spielen wird.  
+Bei der zunehmenden Globalisierung / Alterung der Gesellschaft / $\cdots$  
+Wir werden $\cdots$ tun müssen, damit $\cdots$  
+Ist es realistisch, dass $\cdots$  
+Wir müssen weiter intensiv $\cdots$, sonst $\cdots$  
+Wenn $\cdots$, dann haben wir keine andere Wahl.  
+Wenn sich die Zahl der $\cdots$ weiter so erhöht/vergrößert, dann $\cdots$  
+Die Sache ist ganz einfach: Wir müssen $\cdots$  
+Wir können nicht so tun, als ob $\cdots$  
+Das löst mehrere Probleme auf einmal.  
+Es gibt keine Alternative zu $\cdots$ / Dazu gibt es keine Alternative.  
+Meiner Überzeugung nach $\cdots$  
+Für mich besteht kein Zweifel daran, dass $\cdots$  
+Ich zweifle nicht daran, dass $\cdots$
+:::
 
 ### Grammatik
 
-::: theorem Konjunktion _als ob_ + Konjunktiv II (irrealer Vergleich)
-„Als ob” leitet einen Nebensatz und beschreibt eine irreale Welt.
+#### Konjunktionen damit / um $\cdots$ zu
 
+::: theorem 主句和从句主语
+gleich $\rightarrow$ damit / um $\cdots$ zu  
+verschieden $\rightarrow$ damit
+:::
+
+::: tip
+Absichten ausdrücken
+
+Drei Familien haben den Betrieb wieder aufgebaut, damit wir die Nachfrage nach Obst und Gemüse bedienen können.  
+Wir hatten uns zusammengeschlossen, damit wir gemeinsam ein Dorf bauen.  
+Wir hatten hatten uns zusammengeschlossen, um gemeinsam ein Dorf zu bauen.
+:::
+
+#### Konjunktionen als ob
+
+::: theorem Konjunktion _als ob_ + Konjunktiv II (irrealer Vergleich)
+as if
+
+„Als ob” leitet einen Nebensatz und beschreibt eine irreale Welt.  
 Das Verb im „als ob - Satz” schreibt man im Konjunktiv II und steht am Satzende.
 :::
+
+### Sätze
+
+Die alten Häuser sind jetzt barrierefrei, das heißt, auch für Rollstuhlfahrer geeignet, und energiesparend.  
+The old houses are now barrier-free, which means they are also suitable for wheelchair users, and energy-saving.
+
+Ich befürworte Technologien, die mir helfen, mein Leben auch im Alter unabhängig zu gestalten.  
+I am in favor of technologies that help me live my life independently as I age.
 
 Wir tun so, als ob wir in Sachen Klimaschutz ewig Zeit für Veränderungen hätten.  
 We act as if we have forever to make changes when it comes to climate protection.
@@ -658,11 +725,3 @@ My neighbors have known me for three years, but they pretend not to know me.
 
 Sie waren zu Hause, aber sie tun, als ob sie draußen **gewesen wären**.  
 They were at home, but they act like they **were** outside.
-
-### Sätze
-
-Die alten Häuser sind jetzt barrierefrei, das heißt, auch für Rollstuhlfahrer geeignet, und energiesparend.  
-The old houses are now barrier-free, which means they are also suitable for wheelchair users, and energy-saving.
-
-Ich befürworte Technologien, die mir helfen, mein Leben auch im Alter unabhängig zu gestalten.  
-I am in favor of technologies that help me live my life independently as I age.
