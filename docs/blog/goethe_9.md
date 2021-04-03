@@ -325,7 +325,7 @@ Mein Beruf ist meine Leidenschaft.
 | der Zugang                                    | access                   |
 | erben                                         | inherit                  |
 | das Quartier/die Unterkunft                   | accommodation            |
-| der Anspruch                                  | demand                   |
+| anspruchen, der Anspruch                      | demand                   |
 | schließlich                                   | at last                  |
 | vorhin                                        | a short time ago         |
 | der Abstand                                   | distance                 |

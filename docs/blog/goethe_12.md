@@ -327,19 +327,22 @@ Before that, of course, must be practiced diligently.
 #### lokal Präposition
 
 ::: tip um A. herum
-around  
+around
+
 Wir fahren dreimal um das Zentrum herum.
 :::
 
 ::: tip an/am D. entlang
-along  
+along
+
 Es geht am Rhein entlang nach Basel.
 :::
 
 #### lokal + temporal Präposition
 
 ::: tip innerhalb/außerhalb G.
-inside/outside  
+inside/outside
+
 Der Veranstaltungsort liegt innerhalb der Stadt / außerhalb des Landes.  
 innerhalb weniger Tage  
 Außerhalb der Öffnungszeiten können Sie uns nicht erreichen.
@@ -483,46 +486,47 @@ Bicycling is in.
 
 ### Wörter
 
-| Deutsch                 | Bedeutung             |
-| ----------------------- | --------------------- |
-| das Umfeld              | die Umgebung          |
-| die Stofftasche         | cloth bag             |
-| der Stoffbeutel         | textile bag           |
-| die Plastiktüte         | plastic bag           |
-| verzichten              | forgo                 |
-| wegwerfen               | throw away            |
-| das Leitungswasser      | tap water             |
-| heizen, das Heizen      | heat, heating         |
-| die Heizung             | heating               |
-| der Deckel              | lid                   |
-| der Topf                | pot                   |
-| der Stecker             | plug                  |
-| die Badewanne           | bath, bathtub         |
-| gießen                  | pour                  |
-| die Eisenbahn           | railway               |
-| der Auflauf             | casserole 炖锅菜      |
-| der Konsum              | consumption           |
-| der Strom               | river                 |
-| das Abgas               | exhaust               |
-| die Umweltverschmutzung | environment pollution |
-| das Einweggeschirr      | disposable tableware  |
-| schmeißen               | throw, chuck          |
-| verbrauchen             | consume               |
-| verschlechtern          | make worse            |
-| die Vorschrift          | instruction, rule     |
-| entsorgen               | dispose               |
-| abhängen                | depend                |
-| das Gesetz              | law                   |
-| die Übersicht           | overview              |
-| das Gesetz              | law                   |
-| rein, die Reinigung     | pure/clean, cleaning  |
-| bremsen, die Bremse     | brake                 |
-| sich bemühen            | endeavor              |
-| vorziehen               | prefer                |
-| meinetwegen             | for my sake           |
-| nebenbei                | on the side           |
-| offenbar                | obvious               |
-| sowieso                 | anyway                |
+| Deutsch                 | Bedeutung               |
+| ----------------------- | ----------------------- |
+| das Umfeld              | die Umgebung            |
+| die Stofftasche         | cloth bag               |
+| der Stoffbeutel         | textile bag             |
+| die Plastiktüte         | plastic bag             |
+| verzichten              | forgo                   |
+| wegwerfen               | throw away              |
+| das Leitungswasser      | tap water               |
+| heizen, das Heizen      | heat, heating           |
+| die Heizung             | heating                 |
+| der Deckel              | lid                     |
+| der Topf                | pot                     |
+| der Stecker             | plug                    |
+| die Badewanne           | bath, bathtub           |
+| gießen                  | pour                    |
+| die Eisenbahn           | railway                 |
+| der Auflauf             | casserole 炖锅菜        |
+| der Konsum              | consumption             |
+| das Abgas               | exhaust                 |
+| die Umweltverschmutzung | environment pollution   |
+| das Einweggeschirr      | disposable tableware    |
+| schmeißen               | throw, chuck            |
+| verbrauchen             | consume                 |
+| verschlechtern          | make worse              |
+| die Vorschrift          | instruction, rule       |
+| entsorgen               | dispose                 |
+| abhängen                | depend                  |
+| das Gesetz              | law                     |
+| die Übersicht           | overview                |
+| rein, die Reinigung     | pure/clean, cleaning    |
+| bremsen, die Bremse     | brake                   |
+| sich bemühen            | endeavor                |
+| vorziehen               | prefer                  |
+| nebenbei                | on the side             |
+| offenbar                | obvious                 |
+| sowieso                 | anyway                  |
+| mitbestimmen            | participate             |
+| fordern                 | demand                  |
+| der Ökostrom            | green electricity/power |
+| leisten                 | do, achieve             |
 
 ### Wendungen
 
@@ -562,6 +566,9 @@ Nicht so trocken.
 
 Meinetwegen.  
 I don't mind.
+
+Macht dir das nichts aus?  
+Do you mind?
 
 ::: tip Zustimmung/Ablehnung ausdrücken
 Doch, du hast recht.  
