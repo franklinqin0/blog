@@ -4,7 +4,7 @@ diff: easy
 tags:
   - Math
   - Hash Table
-  - Bit Manipulation
+  - Bit
 related:
   - single-number-ii
 ---
@@ -28,13 +28,13 @@ space: $O(n)$ (due to `set`)
 
 ```py
 def singleNumber(self, nums: List[int]) -> int:
-    st = set()
+    hashset = set()
     for num in nums:
-        if num not in st:
-            st.add(num)
+        if num not in hashset:
+            hashset.add(num)
         else:
-            st.remove(num)
-    return st.pop()
+            hashset.remove(num)
+    return hashset.pop()
 ```
 
 ### Math

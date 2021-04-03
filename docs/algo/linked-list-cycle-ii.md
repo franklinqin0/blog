@@ -79,7 +79,7 @@ def detectCycle(self, head: ListNode) -> ListNode:
     # now finds the cycle start
     ptr1 = head
     ptr2 = slow
-    while ptr1!=ptr2:
+    while ptr1 != ptr2:
         ptr1 = ptr1.next
         ptr2 = ptr2.next
     return ptr1

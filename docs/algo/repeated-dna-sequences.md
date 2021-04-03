@@ -2,7 +2,7 @@
 title: Repeated DNA Sequence
 tags:
   - Hash Table
-  - Bit Manipulation
+  - Bit
   - Two Pointers
 ---
 

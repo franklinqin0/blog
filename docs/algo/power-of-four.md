@@ -3,7 +3,7 @@ title: Power of Four
 diff: easy
 tags:
   - Math
-  - Bit Manipulation
+  - Bit
 related:
   - power-of-two
   - power-of-three

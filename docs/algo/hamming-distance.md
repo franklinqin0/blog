@@ -2,14 +2,20 @@
 title: Hamming Distance
 diff: easy
 tags:
-  - Bit Manipulation
+  - Bit
 related:
   - number-of-1-bits
 ---
 
-<img class="medium-zoom" src="/algo/counting-bits.png" alt="https://leetcode.com/problems/counting-bits">
+<img class="medium-zoom" src="/algo/hamming-distance.png" alt="https://leetcode.com/problems/hamming-distance">
 
 ## Solution
+
+As quoted from the problem statement:
+
+::: tip
+The [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) between two integers is the number of positions at which the corresponding bits are different.
+:::
 
 The problem solution consists of 2 parts:
 
@@ -36,6 +42,7 @@ def hammingDistance(self, x: int, y: int) -> int:
 def hammingDistance(self, x: int, y: int) -> int:
     xor = x ^ y
     res = 0
+
     while xor:
         if xor & 1 > 0:
             res += 1
@@ -46,15 +53,16 @@ def hammingDistance(self, x: int, y: int) -> int:
 
 ### Brian Kernighan algorithm
 
-This solution is faster than [lsb](#least-significant-bit) in counting $1$ bits.
+Counting the **lowest set bit** is faster than counting the [least significant set bits](#least-significant-bit).
 
 ```py
 def hammingDistance(self, x: int, y: int) -> int:
     xor = x ^ y
     res = 0
+
     while xor:
         res += 1
-        xor = xor&(xor-1)
+        xor = xor & (xor-1)
 
     return res
 ```

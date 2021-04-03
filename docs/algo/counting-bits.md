@@ -2,7 +2,7 @@
 title: Counting Bits
 diff: medium
 tags:
-  - Bit Manipulation
+  - Bit
   - DP
 related:
   - number-of-1-bits

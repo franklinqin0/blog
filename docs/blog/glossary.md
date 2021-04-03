@@ -76,3 +76,4 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | prod          | production                  |
 | comb          | combination                 |
 | col           | column                      |
+| iff           | if and only if              |

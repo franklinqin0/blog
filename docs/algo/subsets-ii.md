@@ -4,7 +4,7 @@ diff: medium
 tags:
   - Array
   - Backtracking
-  - Bit Manipulation
+  - Bit
 ---
 
 <img class="medium-zoom" src="/algo/subsets-ii.png" alt="https://leetcode.com/problems/subsets-ii">

@@ -2,7 +2,7 @@
 title: Reverse Bits
 diff: easy
 tags:
-  - Bit Manipulation
+  - Bit
   - D&C
 related:
   - reverse-integer

@@ -2,7 +2,7 @@
 title: Single Number III
 diff: medium
 tags:
-  - Bit Manipulation
+  - Bit
 related:
   - single-number
   - single-number-ii

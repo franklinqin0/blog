@@ -4,7 +4,7 @@ diff: medium
 tags:
   - Math
   - Hash Table
-  - Bit Manipulation
+  - Bit
 related:
   - single-number
   - single-number-iii
