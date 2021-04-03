@@ -46,7 +46,9 @@ def singleNumber(self, nums):
 
 ## Follow Up
 
-> Can you solve it using constant space?
+::: theorem
+Can you solve it using constant space?
+:::
 
 We then have to use some clever bit manipulation methods. Both methods below take linear time and constant space.
 

@@ -57,9 +57,11 @@ def reverseList(self, head: ListNode) -> ListNode:
     return prev
 ```
 
-## Follow up
+## Follow Up
 
-> A linked list can be reversed either iteratively or recursively. Could you implement both?
+::: theorem
+A linked list can be reversed either iteratively or recursively. Could you implement both?
+:::
 
 ### Recursion (REDO)
 

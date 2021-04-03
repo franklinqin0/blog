@@ -50,7 +50,9 @@ def isPowerOfFour(self, n: int) -> bool:
 
 ## Follow Up
 
-> Could you solve it without loops/recursion?
+::: theorem
+Could you solve it without loops/recursion?
+:::
 
 ### Math
 

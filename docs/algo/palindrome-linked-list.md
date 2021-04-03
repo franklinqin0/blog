@@ -56,9 +56,11 @@ def isPalindrome(self, head: ListNode) -> bool:
     return check()
 ```
 
-## Follow up
+## Follow Up
 
-> Could you do it in $O(n)$ time and $O(1)$ space?
+::: theorem
+Could you do it in $O(n)$ time and $O(1)$ space?
+:::
 
 ### Constant Space
 

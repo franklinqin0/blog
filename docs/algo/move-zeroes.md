@@ -37,7 +37,9 @@ def moveZeroes(self, nums: List[int]) -> None:
 
 ## Follow Up
 
-> Could you minimize the total number of operations done?
+::: theorem
+Could you minimize the total number of operations done?
+:::
 
 ### Improved Two Pointers
 

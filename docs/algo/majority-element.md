@@ -87,7 +87,9 @@ def quickSelect(self, arr, left, right, k):
 
 ## Follow Up
 
-> Could you solve the problem in linear time and constant space?
+::: theorem
+Could you solve the problem in linear time and constant space?
+:::
 
 ### Boyer-Moore Voting Algorithm
 

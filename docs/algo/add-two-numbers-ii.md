@@ -63,7 +63,9 @@ def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
 
 ## Follow Up
 
-> What if you **cannot modify the input lists**? In other words, reversing the lists is not allowed.
+::: theorem
+What if you **cannot modify the input lists**? In other words, reversing the lists is not allowed.
+:::
 
 ### Vanilla Addition
 

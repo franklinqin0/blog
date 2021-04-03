@@ -40,7 +40,9 @@ def detectCycle(self, head: ListNode) -> ListNode:
 
 ## Follow Up
 
-> Can you solve it using constant space?
+::: theorem
+Can you solve it using constant space?
+:::
 
 ### Floyd's Cycle-Finding Algorithm
 

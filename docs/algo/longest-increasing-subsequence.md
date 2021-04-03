@@ -15,9 +15,11 @@ Let $n$ be the length of the array.
 
 <!-- REDO: ### Brute Force -->
 
-## Follow Up 1
+## Follow Up
 
-> Could you come up with the $O(n^2)$ solution?
+::: theorem
+Could you come up with the $O(n^2)$ solution?
+:::
 
 ### DP
 
@@ -45,9 +47,9 @@ def lengthOfLIS(self, nums: List[int]) -> int:
     return max(dp)
 ```
 
-## Follow Up 2
-
-> Could you improve it to $O(n \log n)$ time complexity?
+::: theorem
+Could you improve it to $O(n \log n)$ time complexity?
+:::
 
 ### Greedy Algorithm & Binary Search
 

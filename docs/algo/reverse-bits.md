@@ -99,7 +99,9 @@ def reverseBits(self, n: int) -> int:
 
 ## Follow Up
 
-> If this function is called many times, how would you optimize it?
+::: theorem
+If this function is called many times, how would you optimize it?
+:::
 
 ### Pseudocode
 

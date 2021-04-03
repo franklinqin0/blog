@@ -38,7 +38,9 @@ def hasCycle(self, head: ListNode) -> bool:
 
 ## Follow Up
 
-> Can you solve it using constant space?
+::: theorem
+Can you solve it using constant space?
+:::
 
 ### Floyd's Cycle-Finding Algorithm
 

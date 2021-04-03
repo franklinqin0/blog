@@ -53,7 +53,9 @@ def isPalindrome(self, x: int) -> bool:
 
 ## Follow Up
 
-> Could you solve it without converting the integer to a string?
+::: theorem
+Could you solve it without converting the integer to a string?
+:::
 
 Let's first do vanilla int comparison.
 

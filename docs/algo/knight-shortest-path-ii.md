@@ -71,17 +71,19 @@ def find_path(self, n, m, grid, last_pt):
     return path
 ```
 
-#### Follow Up 1
+## Follow Up
 
-> output any shortest path
+::: theorem
+output any shortest path
+:::
 
 To output a path, we need to store the last point for each current point. We can't do the reverse b/c there might be multiple next points for each current point.
 
 The added code is highlighted in [BFS w/ HashMap](#bfs-w-hashmap) code above.
 
-#### Follow Up 2
-
-> output a shortest path in alphabetical order
+::: theorem
+output a shortest path in alphabetical order
+:::
 
 To follow alphabetical order, we need to use `heapq` to replace the original `queue` w/ a priority queue. Added or changed lines are highlighted.
 

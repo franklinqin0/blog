@@ -45,7 +45,9 @@ def preorderTraversal(self, root: TreeNode) -> List[int]:
 
 ## Follow Up
 
-> Recursive solution is trivial, could you do it iteratively?
+::: theorem
+Recursive solution is trivial, could you do it iteratively?
+:::
 
 ### Iteration
 

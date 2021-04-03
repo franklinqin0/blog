@@ -38,7 +38,9 @@ def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
 
 ## Follow Up
 
-> The overall run time complexity should be O(log (m+n)).
+::: theorem
+The overall run time complexity should be $O(\log (m+n))$.
+:::
 
 ### Binary Search
 
