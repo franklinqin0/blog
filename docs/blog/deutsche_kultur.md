@@ -1,5 +1,5 @@
 ---
-title: 德国文化
+title: Deutsche Kultur 德国文化
 date: 2020-05-08
 categories:
   - play
@@ -14,19 +14,17 @@ tags:
 
 ## Song
 
-### Das gibt's nur einmal（仅此一回）
+### [Das gibt's nur einmal（仅此一回）](https://www.bilibili.com/video/BV1gb411G7LX)
 
-- [Lied](https://www.bilibili.com/video/BV1gb411G7LX)
-- [English+German Text](https://lyricstranslate.com/en/das-gibts-nur-einmal-it-only-happens-once.html)
+[English+German Text](https://lyricstranslate.com/en/das-gibts-nur-einmal-it-only-happens-once.html)
 
 在《起风了》这部宫崎骏“最后”的电影里，在男女主热恋时，一旁微笑地看透一切的憨憨德国大叔在餐厅里弹唱了这首歌，十分应景。一生只有一次初恋，就像春天只有一个五月。情侣恋爱时，总以为爱会海枯石烂，但最终还是会挥手说再见。在天空还未变灰之前，须尽情享受对方眼中的光辉！
 
 ### Einmal wird die Sonne wieder scheinen
 
-#### Zwei Kleine Sterne
+#### [Zwei Kleine Sterne](https://youtu.be/bjbdrJngKFA)
 
-- [Lied](https://youtu.be/bjbdrJngKFA)
-- [Text](https://lyricstranslate.com/en/zwei-kleine-sterne-two-little-stars.html)
+[Text](https://lyricstranslate.com/en/zwei-kleine-sterne-two-little-stars.html)
 
 ::: tip
 Zwei kleine Sterne stehen  
@@ -35,30 +33,19 @@ Sie werden mit dir gehen
 wohl in die weite, weite Welt.
 :::
 
-#### Kleine Kinder, Kleine Sorgen
+#### [Kleine Kinder, Kleine Sorgen](https://youtu.be/XXX2GcqGAec)
 
-https://youtu.be/XXX2GcqGAec
+#### [Letzte Rose in unser’m Garten](https://youtu.be/hc486kcLB8U)
 
-#### Letzte Rose in unser’m Garten
+#### [Traumland](https://youtu.be/cSqc8y9sjTs)
 
-https://youtu.be/hc486kcLB8U
+#### [Der Mond ist aufgegangen](https://youtu.be/POuwCnaSYp4)
 
-#### Traumland
+#### [Wenn du einmal Geburstag hast](https://youtu.be/bd5C5czkUhU)
 
-https://youtu.be/cSqc8y9sjTs
+### [Komm, Gib Mir Deine Hand](https://youtu.be/6qAazPVLONM)
 
-#### Der Mond ist aufgegangen
-
-https://youtu.be/POuwCnaSYp4
-
-#### Wenn du einmal Geburstag hast
-
-https://youtu.be/bd5C5czkUhU
-
-### Komm, Gib Mir Deine Hand
-
-- [Lied](https://youtu.be/6qAazPVLONM)
-- [Text](https://www.thebeatles.com/song/komm-gib-mir-deine-hand)
+[Text](https://www.thebeatles.com/song/komm-gib-mir-deine-hand)
 
 ::: tip
 Oh, komm doch, komm zu mir  
@@ -103,10 +90,9 @@ Komm gib mir deine Hand
 Komm gib mir deine Hand
 :::
 
-### Sie Liebt Dich
+### [Sie Liebt Dich](https://youtu.be/YmjnK4zTBhM)
 
-- [Lied](https://youtu.be/YmjnK4zTBhM)
-- [Text](https://www.thebeatles.com/song/sie-liebt-dich)
+[Text](https://www.thebeatles.com/song/sie-liebt-dich)
 
 ::: tip
 Sie liebt dich yeah yeah yeah  
@@ -162,29 +148,21 @@ Yeah yeah yeah
 Yeah yeah yeah yeah
 :::
 
-### Wie Schön Du Bist
-
-- [Lied & Text](https://youtu.be/eTNKnD0RNVo)
+### [Wie Schön Du Bist](https://youtu.be/eTNKnD0RNVo)
 
 How beautiful you are! 想起了一首英文歌：[Just The Way You Are](https://youtu.be/LjhCEhWiKXk).
 
-### Wie geht glücklich?（如何幸福）
+### [Wie geht glücklich?（如何幸福）](https://youtu.be/sovU0R5A7mk)
 
-- [Lied](https://youtu.be/sovU0R5A7mk)
-- [Text](https://lyricstranslate.com/en/wie-geht-gl%C3%BCcklich-how-does-happy-work.html)
+[Text](https://lyricstranslate.com/en/wie-geht-gl%C3%BCcklich-how-does-happy-work.html)
 
 虽然恋人间承诺„Ich liebe dich, wird für immer sein.”（我会永远爱你），但现在却„Meine Haare wurden länger, unser Schweigen auch”（我的头发更长了，我们的沉默也一样）。爱究竟是什么呢？如何才能给彼此幸福呢？曾经彻夜长谈，为何最终只剩争吵和沉默？
 
-### Ja oder Nein（是或否）
+### [Ja oder Nein（是或否）](https://youtu.be/_h5Itf6ORRI)
 
-- [Lied](https://youtu.be/_h5Itf6ORRI)
+### [Kein Liebeslied（不是情歌）](https://youtu.be/HpFRyCee5gE)
 
-在网上没找到歌词:sweat:
-
-## Kein Liebeslied（不是情歌）
-
-- [Lied](https://youtu.be/HpFRyCee5gE)
-- [Text](https://www.musixmatch.com/lyrics/Tom-Schilling-The-Jazz-Kids/Kein-Liebeslied)
+[Text](https://www.musixmatch.com/lyrics/Tom-Schilling-The-Jazz-Kids/Kein-Liebeslied)
 
 没找到翻译的歌词:sweat:
 
@@ -192,7 +170,7 @@ How beautiful you are! 想起了一首英文歌：[Just The Way You Are](https:/
 
 ### Lola rennt（罗拉快跑）
 
-- [中文解说](https://www.bilibili.com/video/BV1kW411e7nm/)
+[中文解说](https://www.bilibili.com/video/BV1kW411e7nm/)
 
 电影中有大诗人 T.S. Eliot 的一段话：
 
