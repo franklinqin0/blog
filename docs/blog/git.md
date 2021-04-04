@@ -38,3 +38,9 @@ git reset --hard origin/master
 ```sh
 git pull origin master --allow-unrelated-histories
 ```
+
+[undo the most recent local commit](https://stackoverflow.com/a/927386)
+
+```sh
+git reset HEAD~
+```

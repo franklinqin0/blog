@@ -117,7 +117,7 @@ sudo nvram StartupMute=%00
 
 ### Fish Set Path
 
-```fish
+```sh
 # set path
 set PATH <newdir> $PATH
 ```
