@@ -62,6 +62,7 @@ For this reason, there was a misunderstanding.
 | gestresst           | stressig            |
 | gespannt, aufgeregt | spannend, aufregend |
 | gelangweilt         | langweilig          |
+| enttäuscht          | enttäuschend        |
 
 | Teekesselchen                  | Bedeutung                |
 | ------------------------------ | ------------------------ |

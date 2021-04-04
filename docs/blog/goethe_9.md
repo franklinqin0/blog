@@ -31,63 +31,75 @@ Seit einem Jahr lerne ich Deutsch.
 
 ## Lektion 1 - Charaktereigenschaften
 
+Ihr seid einfach die Besten!  
+You are simply the best!
+
 ### Wörter
 
-| Deutsch                      | Bedeutung               |
-| ---------------------------- | ----------------------- |
-| die Eigenschaft              | characteristic property |
-| vermuten                     | suspect                 |
-| der Abschied                 | farewell                |
-| sich (von jm.) verabschieden | say goodbye to          |
-| A. unterstützen              | D. helfen               |
-| überhaupt nicht              | not at all              |
-| überlegen                    | consider                |
-| geizig                       | kein Geld ausgeben      |
-| klug, gescheit               | intelligent             |
-| wahnsinnig, verrückt         | crazy, insane           |
-| verstärken                   | strengthen              |
-| abschwächen                  | diminish                |
-| gegenseitig                  | mutual                  |
-| die Ecke                     | corner                  |
-| Gibt gas!                    | 加油！                  |
-| ehrlich gesagt               | to be honest            |
-| beitreten                    | join                    |
-| widersprechen                | contradict              |
-| deshalb                      | thus                    |
-| beeinflussen                 | influence               |
-| der Spruch                   | adage                   |
-| erlauben, zulassen           | allow                   |
-| der Feuertopf                | hot pot                 |
-| schüchtern                   | shy                     |
-| morgen früh                  | tomorrow morning        |
-| schwach                      | weak                    |
-| erledigen                    | fertig machen           |
-| sich bewegen                 | Sport machen            |
-| Energie tanken               | recharge energy         |
-| schlank                      | slim                    |
-| anwenden                     | apply                   |
-| abgeben                      | deliver                 |
-| Nachhilfe                    | tutoring                |
-| stören                       | dusturb                 |
-| vorsichtig                   | cautious, careful       |
-| verletzen                    | hurt, violate           |
-| wirken, erscheinen           | appear, seem            |
-| nötig                        | needed, necessary       |
-| lebendig                     | alive, lively           |
-| auszeichnen                  | distinguish, mark up    |
-| ausgezeichnet                | excellent               |
-| vergrößern                   | increase                |
+| Deutsch                      | Bedeutung                   |
+| ---------------------------- | --------------------------- |
+| die Eigenschaft              | characteristic property     |
+| vermuten                     | suspect                     |
+| der Abschied                 | farewell                    |
+| sich (von jm.) verabschieden | say goodbye to              |
+| A. unterstützen              | D. helfen                   |
+| überhaupt nicht              | not at all                  |
+| überlegen                    | consider                    |
+| geizig                       | kein Geld ausgeben, miserly |
+| klug, gescheit               | intelligent                 |
+| wahnsinnig, verrückt         | crazy, insane               |
+| verstärken                   | strengthen                  |
+| abschwächen                  | diminish                    |
+| gegenseitig                  | mutual                      |
+| die Ecke                     | corner                      |
+| Gibt gas!                    | 加油！                      |
+| ehrlich gesagt               | to be honest                |
+| beitreten                    | join                        |
+| widersprechen                | contradict                  |
+| deshalb                      | thus                        |
+| beeinflussen                 | influence                   |
+| der Spruch                   | adage                       |
+| erlauben, zulassen           | allow                       |
+| der Feuertopf                | hot pot                     |
+| schüchtern                   | shy                         |
+| morgen früh                  | tomorrow morning            |
+| schwach                      | weak                        |
+| erledigen                    | fertig machen               |
+| sich bewegen                 | Sport machen                |
+| Energie tanken               | recharge energy             |
+| schlank                      | slim                        |
+| anwenden                     | apply                       |
+| abgeben                      | deliver                     |
+| Nachhilfe                    | tutoring                    |
+| stören                       | dusturb                     |
+| vorsichtig                   | cautious, careful           |
+| verletzen                    | hurt, violate               |
+| wirken, erscheinen           | appear, seem                |
+| nötig                        | needed, necessary           |
+| lebendig                     | alive, lively               |
+| auszeichnen                  | distinguish, mark up        |
+| ausgezeichnet                | excellent                   |
+| vergrößern                   | increase                    |
 
-???
+### Wendungen
 
-<!-- 听力完成填空 -->
+| ++                          | +                             | -        | --                           |
+| --------------------------- | ----------------------------- | -------- | ---------------------------- |
+| wahnsinnig<br>total<br>echt | ziemlich<br>super<br>wirklich | nicht so | überhaupt nicht<br>gar nicht |
+
+Auf dich!  
+Auf die Uni!  
+Zum Wohl! Prost!
+
+der Junge  
+das Mädchen
 
 Ich habe meine Aufgaben erledigt.
 
 Was ist der **Unterschied** **zwischen** A **und** B?  
 Ich mag Pasta **ebenso wie** Reis. I like pasta as well as rice.
 
-### Charaktereigenschaften
+#### Charaktereigenschaften
 
 | Deutsch                 | Bedeutung         |
 | ----------------------- | ----------------- |
@@ -111,23 +123,11 @@ Ich mag Pasta **ebenso wie** Reis. I like pasta as well as rice.
 | chaotisch/durcheinander | $\neg$ ordentlich |
 | offen                   | open              |
 
-???
-| ++ | + | - | -- |
-| ---------------------------- | -------- | -------- | ---------------------------- |
-| wahnsinnig<br>total<br>echt | ziemlich<br>super<br>wirklich | nicht so | überhaupt nicht<br>gar nicht |
-
-Auf dich!
-Auf die Uni!
-Zum Wohl! Prost!
-
-der Junge
-das Mädchen
-
 ### Grammatik
 
 #### Adjektive als Nomen
 
-| Nominativ                           | Akkusativ                              | Dativ                                  |
+| N                                   | A                                      | D                                      |
 | ----------------------------------- | -------------------------------------- | -------------------------------------- |
 | der Hübsch**e**<br>ein Hübsch**er** | den Hübsch**en**<br>einen Hübsch**en** | dem Hübsch**en**<br>einem Hübsch**en** |
 | die Hübsch**e**<br>eine Hübsch**e** | die Hübsch**e**<br>eine Hübsch**e**    | der Hübsch**en**<br>einer Hübsch**en** |
@@ -146,17 +146,28 @@ auch so: der/die Klug**e**, Jung**e**, Erwachsen**e**, Glücklich**e**
 
 ::: theorem n-Deklination
 
-1. maskuline Nomen auf: -ent, -ant, -ist, -oge, -ad, -at, -f, -ph 结尾的阳性名词
+1. maskuline Nomen auf: -e, -ent, -ant, -ist, -oge, -ad, -at, -f, -ph 结尾的阳性名词
 
-der Student, -en; der Assistant, -en; der Polizist, -en; der Psychologe, -n; der Diplomat, -en; der Graf, -en; der Philosoph, -en
+der Student, -en  
+der Assistant, -en  
+der Polizist, -en  
+der Psychologe, -n  
+der Diplomat, -en  
+der Graf, -en  
+der Philosoph, -en
 
 2. 以-e 结尾的、表示某国家的人的阳性名词
 
-der Chinese, -n; der Franzose, -n; der Pole, -n; der Tscheche, -n
+der Chinese, -n  
+der Franzose, -n  
+der Pole, -n  
+der Tscheche, -n
 
 3. 有些阳性弱变化名词无明显特征，需要额外记忆
 
-der Affe, -n; der Bär, -en; der Nachbar, -en
+der Affe, -n  
+der Bär, -en  
+der Nachbar, -en
 
 :::
 
@@ -188,9 +199,8 @@ Ein wichtiger Mensch in meinem Leben ist CX. Als ich in der Grundschule war, kan
 
 ## Lektion 2 - Arbeit
 
-Ich habe Respekt vor ihrer Eltern.
-
-Seine Arbeit macht dem Mann Spaß.
+Er erledigte seine Aufgaben zuverlässig.  
+He performed his duties reliably.
 
 ### Wörter
 
@@ -280,6 +290,31 @@ The noise there would be too much for me.
 Die Menschen glauben fest an das, was sie wünschen.  
 People firmly believe in what they want.
 
+Ich habe Respekt vor ihrer Eltern.  
+I have respect for her parents.
+
+Seine Arbeit macht dem Mann Spaß.  
+The man enjoys his work.
+
+::: tip etwas Vergangenes bewerten
+Der erste Tag ist mir in gutter/schlechter Erinnerung geblieben.  
+Schon der erste Tag machte mir (keinen) Spaß / (nicht so) viel Freude.  
+Erst habe ich zwar nicht so viel erwartet, aber dann gefiel es mir total gut.  
+Besonders gut / Nicht so gut gefiel mir das Betriebsklima / der Chef / $\cdots$  
+Das fand ich sehr angenehm / enttäuschend / $\cdots$  
+Nur von dem Essen / den Kollegen / den anderen Auszubildenden / $\cdots$ war ich sehr enttäuscht.  
+Etwas merkwürdig war, dass $\cdots$  
+Der erste Tag war zwar anstrengend, aber $\cdots$  
+Insgesamt fühlte ich mich sehr/nicht besonders wohl.  
+Insgesamt gefiel mir der erste Tag sehr/nicht so gut.
+:::
+
+::: tip einen Bericht strukturieren
+Gleich am Morgan  
+Gegen Mittag/Abend/zehn Uhr  
+(Erst) Am frühen/späten Vormittag/Nachmittag
+:::
+
 ### Schreibaufgabe
 
 ::: tip
@@ -288,7 +323,8 @@ Ich bin nicht gern in die Schule gegangen, aber in der Freizeit las ich viel und
 
 ## Lektion 3 - Wohnen
 
-Mein Beruf ist meine Leidenschaft.
+Mein Beruf ist meine Leidenschaft.  
+My profession is my passion.
 
 ### Wörter
 
@@ -361,21 +397,40 @@ eine Villa am Meer
 im Vorort wohnen  
 in den Vorort umziehen
 
-zentrale Lage = central location
+zentrale Lage  
+central location
 
-saß
+saß  
 sitzen
 
 Makler ist eine Person, die beim Verkauf von Häusern hilft.
 
-### Relativpronomen
+#### über eine Statistik sprechen
 
-|     | Nominativ | Akkusativ | Dativ     |
-| --- | --------- | --------- | --------- |
-| m.  | der       | den       | dem       |
-| n.  | das       | das       | dem       |
-| f.  | die       | die       | der       |
-| Pl. | die       | die       | **denen** |
+::: tip
+Mehr als/Gut/Rund/Etwa die Hälfte von uns wohnt $\cdots$  
+Jeder zweite Teilnehmer wohnt $\cdots$  
+In unserem Kurs gibt es fünf Personen, die in einer Eigentumswohnung leben. Das sind $\cdots$ Prozent.  
+Nur/Knapp ein Viertel von uns wohnt $\cdots$  
+Fast 80 Prozent / drei Viertel von uns wohnen auf $\cdots$ Wohnfläche.  
+Die meisten von uns / Fast alle haben einen Balkon. / Keiner hat $\cdots$
+:::
+
+### Grammatik
+
+#### Relativpronomen
+
+|     | N   | A   | D         |
+| --- | --- | --- | --------- |
+| m.  | der | den | dem       |
+| n.  | das | das | dem       |
+| f.  | die | die | der       |
+| Pl. | die | die | **denen** |
+
+Das ist der Mann, **dem** ich geholfen habe.  
+Das ist das Mädchen, **dem** ich geholfen habe.  
+Das ist die Dame, **der** ich geholfen habe.  
+Das sind die Kunden, **denen** ich geholfen habe.
 
 ## Lektion 4 - Kundenservice
 
@@ -453,6 +508,8 @@ so seltsam es klingen mag
 strange to say
 
 ### Schreibaufgabe
+
+???
 
 ## Lektion 5 - Medien und Technik
 

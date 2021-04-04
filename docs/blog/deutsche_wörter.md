@@ -16,3 +16,16 @@ tags:
 | Deutsch         | Bedeutung      |
 | --------------- | -------------- |
 | der Kommilitone | fellow student |
+| absehbar        | forseeable     |
+
+in absehbarer Zeit  
+in the foreseeable future
+
+### Adverbiale
+
+TeKaMoLo
+
+**Te**mporal - When
+**Ka**usal - Why
+**Mo**dal - How
+**Lo**kal - Where
