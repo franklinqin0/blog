@@ -642,10 +642,6 @@ Get home safely.
 Gern geschehen.  
 Gerne, bitte schön.
 
-???
-Konjunktiv II (höflich)  
-würden/hätten + Infinitiv
-
 Ganz meinerseits  
 (Pleasure is) all mine.
 
@@ -658,14 +654,33 @@ Abchied und Dank
 sich verabschieden von jm.  
 jm. danken
 
+### Grammatik
+
+::: theorem Konjunktiv II (höflich)
+würden/hätten + Infinitiv
+Ich würde kaufen.
+
+haben, sein, Modalverben, brauchen/wissen: Präteritum + Umlaut  
+hätte, wäre, müsste, bräuchte  
+Ausnahme: _wollte_, _sollte_
+:::
+
 ### Sätze
 
-| Deutsch                                             | Bedeutung                                                                                                  |
-| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Das Abendessen besteht aus fünf Gängen.             | The dinner consists of five courses.                                                                       |
-| Lass dir die Zeit.                                  | Take your time.                                                                                            |
-| Sie unterhalten sich gern beim Essen.               | They like to talk while eating.                                                                            |
-| Arbeiten Sie sich zum Besteck, das innen liegt, vor | Nicht gleich das Besteck innen benutzen, sondern zuerst das Besteck außen, dann langsam das Besteck innen. |
+Das Abendessen besteht aus fünf Gängen.  
+The dinner consists of five courses.
+
+Lass dir die Zeit.  
+Take your time.
+
+Sie unterhalten sich gern beim Essen.  
+They like to talk while eating.
+
+Arbeiten Sie sich zum Besteck, das innen liegt, vor ???
+Work your way to the cutlery that is inside
+
+Nicht gleich das Besteck innen benutzen, sondern zuerst das Besteck außen, dann langsam das Besteck innen.  
+Do not use the cutlery inside right away, but use the cutlery outside first, then slowly use the cutlery inside.
 
 ### Grammatik
 

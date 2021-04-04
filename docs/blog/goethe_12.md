@@ -323,6 +323,7 @@ Before that, of course, must be practiced diligently.
 | schweigen                               | stop, keep quiet                    |
 | überweisen                              | transfer                            |
 | sich verlassen auf A.                   | rely on                             |
+| übrigens                                | by the way                          |
 
 ### Wendungen
 
@@ -470,12 +471,16 @@ Ich konnte mir noch nie / schon immer gut vorstellen, $\cdots$
 #### Passiv Perfekt
 
 sein $\cdots$ Partizip II **worden**  
-Das Buch ist gestern gekauft worden.
+Das Buch **ist** gestern **gekauft worden**.  
+Der Westteil Berlins **ist** von den sowjetischen Truppen **blockiert worden**.  
+In der BRD **ist** die Demokratie **eingeführt worden**.
 
 #### Passiv Präteritum
 
 **wurden** $\cdots$ (von jm.) Partizip II  
-Das Buch wurde gestern gekauft.
+Das Buch **wurde** gestern **gekauft**.  
+Der Westteil Berlins **wurde** von den sowjetischen Truppen **blockiert**.  
+In der BRD **wurde** die Demokratie **eingeführt**.
 
 ### Sätze
 
@@ -558,7 +563,9 @@ Nicht so trocken.
 Meinetwegen.  
 I don't mind.
 
-::: tip Zustimmung/Ablehnung ausdrücken
+#### Zustimmung/Ablehnung ausdrücken
+
+::: tip
 Doch, du hast recht.  
 (Ganz) Genau.  
 Ich bin voll und ganz deiner Meinung.  
@@ -567,9 +574,12 @@ Davon halte ich (nicht) viel.
 Ich bin völlig anderer Meinung. Mein Standpunkt ist, dass $\cdots$
 :::
 
-::: tip rückfragen und Gleichgültigkeit ausdrücken
+#### rückfragen und Gleichgültigkeit ausdrücken
+
+::: tip
 Macht dir das nichts aus? / Stört dich das nicht? (Do you mind?)  
-Ärgerst du dich denn nicht darüber?  
+Ärgerst du dich denn nicht darüber?
+
 Nein, das ist mir ganz egal/gleich.  
 Das spielt keine Rolle.  
 Das interessiert mich nicht.  
@@ -652,7 +662,6 @@ This solves several problems at once.
 | sich umschauen                                    | look around               |
 | überwinden                                        | overcome                  |
 | verwirklichen                                     | achieve                   |
-| der Gutscof                                       | estate                    |
 | nebenan                                           | next door                 |
 | das Blatt                                         | leaf                      |
 | abseits                                           | away from                 |
@@ -660,8 +669,19 @@ This solves several problems at once.
 | anscheinend                                       | apparent(ly)              |
 | die Absicht                                       | intention                 |
 | der Zweifel, zweifeln                             | doubt                     |
+| reif                                              | ripe                      |
+| zünden, anzünden                                  | ignite                    |
+| das Verbrechen                                    | crime                     |
+| klagen                                            | moan, complain            |
+| die Entlassung                                    | firing                    |
+| anwesend                                          | present                   |
+| abwesend                                          | absent                    |
+| das Hindernis                                     | obstacle                  |
 
 ### Wendungen
+
+der Reihe nach  
+in order
 
 Brand im Wald  
 Fire in the forest
@@ -700,22 +720,10 @@ Wir hatten uns zusammengeschlossen, damit wir gemeinsam ein Dorf bauen.
 Wir hatten hatten uns zusammengeschlossen, um gemeinsam ein Dorf zu bauen.
 :::
 
-#### Konjunktionen als ob
+#### irrealer Vergleich
 
-::: theorem Konjunktion _als ob_ + Konjunktiv II (irrealer Vergleich)
+::: theorem als ob + Konjunktiv II
 as if
-
-„Als ob” leitet einen Nebensatz und beschreibt eine irreale Welt.  
-Das Verb im „als ob - Satz” schreibt man im Konjunktiv II und steht am Satzende.
-:::
-
-### Sätze
-
-Die alten Häuser sind jetzt barrierefrei, das heißt, auch für Rollstuhlfahrer geeignet, und energiesparend.  
-The old houses are now barrier-free, which means they are also suitable for wheelchair users, and energy-saving.
-
-Ich befürworte Technologien, die mir helfen, mein Leben auch im Alter unabhängig zu gestalten.  
-I am in favor of technologies that help me live my life independently as I age.
 
 Wir tun so, als ob wir in Sachen Klimaschutz ewig Zeit für Veränderungen hätten.  
 We act as if we have forever to make changes when it comes to climate protection.
@@ -725,3 +733,12 @@ My neighbors have known me for three years, but they pretend not to know me.
 
 Sie waren zu Hause, aber sie tun, als ob sie draußen **gewesen wären**.  
 They were at home, but they act like they **were** outside.
+:::
+
+### Sätze
+
+Die alten Häuser sind jetzt barrierefrei, das heißt, auch für Rollstuhlfahrer geeignet, und energiesparend.  
+The old houses are now barrier-free, which means they are also suitable for wheelchair users, and energy-saving.
+
+Ich befürworte Technologien, die mir helfen, mein Leben auch im Alter unabhängig zu gestalten.  
+I am in favor of technologies that help me live my life independently as I age.

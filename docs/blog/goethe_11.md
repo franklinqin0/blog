@@ -16,6 +16,9 @@ Deutsch Notizen für das Goethe Institut - B1.2 eins
 
 ## Lektion 13 - Wörter mit mehreren Bedeutungen
 
+Aus diesem Grund gab es ein Missverständnis.  
+For this reason, there was a misunderstanding.
+
 ### Wörter
 
 | Deutsch                   | Bedeutung                      |
@@ -80,16 +83,33 @@ Deutsch Notizen für das Goethe Institut - B1.2 eins
 | der Reiseführer                | travel guide / guidebook |
 | durchfallen                    | fail                     |
 | sich(D.) das Lachen verkneifen | refrain from laughing    |
-| nachfragen, die Nachfrage      | demand                   |
+| nachfragen, die Nachfrage      | demand, inquiry          |
 
 ### Wendungen
 
-im Deutschen $=$ auf Deutsch  
-im Englischen $=$ auf Englisch
+im Deutschen  
+auf Deutsch
+
+im Englischen  
+auf Englisch
 
 Mal schauen/sehen/gucken.  
-Du guckst mal! $=$ Guck mal!  
+Du guckst mal! / Guck mal!  
 Guck/Schau/Sieh mal!
+
+jn. fragen nach $\cdots$  
+jn. nachfragen  
+Ich habe die Kellnerin nachgefragt.  
+Ich habe die Kellnerin nach der Speise gefragt.
+
+Wie du willst.  
+As you wish.
+
+Halte den Mund.  
+Shut up.
+
+Ich muss Grammatik und Wortschatz wiederholen. Ich bin nämlich durch die Prüfung gefallen.  
+I have to repeat grammar and vocabulary. Because I failed the exam.
 
 #### Sprachliche Missverständnisse
 
@@ -108,21 +128,33 @@ Ich bin rot (peinlich).
 Ich fahre schwarz (ohne Ticket).  
 Ich arbeite schwarz (ohne Erlaubnis).
 
-### Sätze
+#### eine Geschichte erzählen
 
-jn. fragen nach $\cdots$  
-jn. nachfragen  
-Ich habe die Kellnerin nachgefragt.  
-Ich habe die Kellnerin nach der Speise gefragt.
+::: tip
+Folgendes habe ich erlebt: Als ich $\cdots$ ist mir Folgendes passiert: $\cdots$  
+Einmal $\cdots$ / Ich war einmal $\cdots$  
+Ich erzähle euch von meinem Missverständnis. Also passt auf: $\cdots$  
+In meiner Sprache bedeutet $\cdots$ nämlich $\cdots$  
+Aus diesem Grund / Daher / $\cdots$ gab es ein Missverständnis.  
+Wegen meiner falschen Aussprache haben die beiden mich missverstanden.  
+Da habe ich gemerkt/bemerkt, dass $\cdots$  
+Als ich meinen Fehler bemerkt habe, $\cdots$  
+Das war so peinlich! Aber später haben wir noch oft darüber gelaucht.  
+Da haben alle gelacht und das Missverständnis aufgeklärt.
+:::
 
-Wie du willst.  
-As you wish.
+#### nachfragen und Verständnis sichern
 
-Halte den Mund.  
-Shut up.
-
-Ich muss Grammatik und Wortschatz wiederholen. Ich bin nämlich durch die Prüfung gefallen.  
-I have to repeat grammar and vocabulary. Because I failed the exam.
+::: tip
+Sie sprechen leider sehr schnell. Daher kann ich Sie nur schlecht verstehen.  
+Ich glaube, das habe ich nicht richtig verstanden.  
+Könnten Sie das bitte wiederholen/buchstabieren?  
+Könnten Sie bitte etwas langsamer sprechen?  
+Ich kenne das Wort nicht. Könnten Sie mir das bitte erklären?  
+Habe ich Sie richtig verstanden?  
+Meinten Sie damit, dass $\cdots$?  
+Bedeutet das, dass $\cdots$?
+:::
 
 ### Grammatik
 
@@ -148,6 +180,9 @@ Sie konnten das Missverständnis aufklären: Die Mutter meinte **nämlich** nich
 :::
 
 ## Lektion 14 - Weiterbildung
+
+Die Teilnahme ist auf eigene Gefahr.  
+Participation is at your own risk.
 
 ### Wörter
 
@@ -217,6 +252,37 @@ Sie konnten das Missverständnis aufklären: Die Mutter meinte **nämlich** nich
 | laufend                            | regular                |
 | geistig                            | intellectual           |
 
+### Wendungen
+
+Viel Erfolg!  
+Viel Glück!
+
+Scheiße!  
+Shit!
+
+Das ist Hammer!  
+给力！
+
+Ich gehe heim.  
+Ich gehe zu Hause.
+
+fit/gesund machen/bleiben  
+stay fit
+
+Sie schürzte verärgert die Lippen.  
+Being annoyed, she pursed her lips.
+
+::: tip etwas empfehlen
+Sie interessieren sich für $\cdots$ / Sie brauchen/möchten/sind $\cdots$?  
+Dieser Kurs ist für alle, die $\cdots$  
+In unserem/dem Kurs haben Sie die Möglichkeit, $\cdots$  
+In diesem Kurs werden wir $\cdots$  
+Im Kurs / Dabei / Beim $\cdots$ lernen Sie / lernt man, $\cdots$  
+Ganz praktisch üben wir, $\cdots$  
+Außerdem machen wir $\cdots$  
+Erfahrungen/Vorkenntnisse sind (nicht) notwendig.
+:::
+
 ### Grammatik
 
 ::: theorem Partizip Präsens als Adjektiv
@@ -240,15 +306,27 @@ Ergebnis: etwas ist schon passiert/wurde gemacht
 
 ::: tip Partizip I
 eine herausfordernde Sportart  
+a challenging sport
+
 die entscheidenden Grundlagen  
+the decisive fundamentals
+
 die passende Strategie  
+the right strategy
+
 ein überzeugendes Verhalten  
-duftende Gewürze (fragrant spices)
+a convincing behavior
+
+duftende Gewürze  
+fragrant spices
 :::
 
 ::: tip Partizip II
 ausgewählte Musikstücke/Lieder  
-selbst gemachte Sommerkleidung
+selected music pieces/songs
+
+selbst gemachte Sommerkleidung  
+homemade summer clothes
 :::
 
 ::: tip Partizip I & II
@@ -262,22 +340,10 @@ Juhu! Meine erste selbst **gemachte** Marmelade!
 Hier sind die **spielenden** Kinder meines Bruders zu sehen.
 :::
 
-### Wendungen
-
-| Deutsch                   | Bedeutung          |
-| ------------------------- | ------------------ |
-| Viel Erfolg!              | Viel Glück!        |
-| Scheiße!                  | Shit!              |
-| Das ist Hammer!           | 给力！             |
-| Ich gehe heim.            | Ich gehe zu Hause. |
-| fit/gesund machen/bleiben | stay fit           |
-
-### Sätze
-
-Sie schürzte verärgert die Lippen.  
-Being annoyed, she pursed her lips.
-
 ## Lektion 15 - Bewerbung
+
+Schön, dass Sie da sind.  
+It's good to have you here.
 
 ### Wörter
 
@@ -377,6 +443,9 @@ Mit freundlichen Grüßen
 
 ## Lektion 16 - Erinnerungen und Beziehungen
 
+Wir brauchen uns um nichts zu kümmern.  
+We don't have to worry about anything.
+
 | Deutsch                         | Bedeutung                    |
 | ------------------------------- | ---------------------------- |
 | der/die Alte, der Kumpel        | buddy 哥们                   |
@@ -414,48 +483,6 @@ Mit freundlichen Grüßen
 | wochentags, unter der Woche     | weekdays                     |
 | der Zweck                       | purpose                      |
 
-### Grammatik
-
-#### nicht/nur/nie/kein Brauchen + zu Infinitiv
-
-::: tip brauchen & müssen
-Du brauchst **nicht** alleine _zu_ lernen.  
-Du musst **nicht** alleine lernen.
-
-Man braucht **keine** Details _zu_ lernen.  
-Man muss **keine** Details lernen.
-
-Du brauchst **nur** Bescheid _zu_ sagen.  
-Du musst **nur** Bescheid sagen.
-:::
-
-#### Redemittel
-
-::: tip auf Erzählungen reagieren
-Bei uns kam das nicht infrage.  
-Das war bei uns nicht vorstellbar / auch so.  
-Das können wir uns heute gar nicht mehr / immer noch sehr gut vorstellen.  
-Das ist heute kaum mehr / gut vorstellbar.  
-Das ging mir genauso / ganz anders.  
-Das kann ich gut / ehrlich gesagt nicht verstehen.
-:::
-
-::: tip Wichtigkeit ausdrücken
-Es kam mir darauf an, $\cdots$  
-Am wichtigsten war mir $\cdots$  
-Für mich war, es sehr wichtig, dass $\cdots$  
-Ich ging/war, so oft ich konnte, $\cdots$  
-Ich konnte es kaum erwarten, bis $\cdots$  
-Ich legte größten Wert auf $\cdots$  
-Das war mir (nicht so) wichtig.
-:::
-
-::: tip Gespräch
-**A:** Meine Eltern legten früher größten Wert auf Pünktlichkeit.  
-**B:**: Das war bei mir auch so. Ich bin trotzdem oft zu spät gekommen. Dann gab es richtig Ärger. Deshalb konnte ich es auch kaum erwarten, bis ich 18 wurde und selbst entscheiden durfte, wann ich nach Hause kam.  
-**A:** Das kann ich, ehrlich gesagt, gut verstehen. Bei mir kam das leider nicht infrage, weil ich meinen Eltern oft auf dem Bauernhof helfen musste, auch als ich schon volljährig war.
-:::
-
 ### Wendungen
 
 gestritten  
@@ -479,7 +506,56 @@ Ich bin in der Stadt/in einem Dorf aufgewachsen.
 Er tat etwas, womit ich nicht einverstanden war.  
 He did something with which I did not agree.
 
+#### auf Erzählungen reagieren
+
+::: tip
+Bei uns kam das nicht infrage.  
+Das war bei uns nicht vorstellbar / auch so.  
+Das können wir uns heute gar nicht mehr / immer noch sehr gut vorstellen.  
+Das ist heute kaum mehr / gut vorstellbar.  
+Das ging mir genauso / ganz anders.  
+Das kann ich gut / ehrlich gesagt nicht verstehen.
+:::
+
+#### Wichtigkeit ausdrücken
+
+::: tip
+Es kam mir darauf an, $\cdots$  
+Am wichtigsten war mir $\cdots$  
+Für mich war, es sehr wichtig, dass $\cdots$  
+Ich ging/war, so oft ich konnte, $\cdots$  
+Ich konnte es kaum erwarten, bis $\cdots$  
+Ich legte größten Wert auf $\cdots$  
+Das war mir (nicht so) wichtig.
+:::
+
+### Grammatik
+
+#### nicht/nur/nie/kein Brauchen + zu Infinitiv
+
+::: tip brauchen & müssen
+Du brauchst **nicht** alleine _zu_ lernen.  
+Du musst **nicht** alleine lernen.
+
+Man braucht **keine** Details _zu_ lernen.  
+Man muss **keine** Details lernen.
+
+Du brauchst **nur** Bescheid _zu_ sagen.  
+Du musst **nur** Bescheid sagen.
+:::
+
+### Sätze
+
+::: tip Gespräch
+**A:** Meine Eltern legten früher größten Wert auf Pünktlichkeit.  
+**B:**: Das war bei mir auch so. Ich bin trotzdem oft zu spät gekommen. Dann gab es richtig Ärger. Deshalb konnte ich es auch kaum erwarten, bis ich 18 wurde und selbst entscheiden durfte, wann ich nach Hause kam.  
+**A:** Das kann ich, ehrlich gesagt, gut verstehen. Bei mir kam das leider nicht infrage, weil ich meinen Eltern oft auf dem Bauernhof helfen musste, auch als ich schon volljährig war.
+:::
+
 ## Lektion 17 - Kunst und Malerei
+
+Guck mal! Das ist schön!  
+Look! This is beautiful!
 
 | Deutsch                    | Bedeutung                         |
 | -------------------------- | --------------------------------- |
@@ -505,6 +581,7 @@ He did something with which I did not agree.
 | die Bemühung               | effort                            |
 | die Recherche              | search, investigation             |
 | neblig                     | foggy, misty                      |
+| bewöklt                    | cloudy                            |
 | das Gewitter               | thunderstorm                      |
 | donnern                    | thundern                          |
 | blitzen, der Blitz, blitzt | lightning                         |
@@ -516,8 +593,10 @@ He did something with which I did not agree.
 | sich an D. beteiligen      | participate, contribute           |
 | die Regierung              | rule, reign, government           |
 | vertreten, der Vertreter   | support/represent, representative |
-| die Minderheit             | $\neg$ die Mehrheit, minority     |
-| zunehmen                   | $\neg$ sinken, increase           |
+| die Mehrheit               | majority                          |
+| die Minderheit             | minority                          |
+| zunehmen                   | increase                          |
+| sinken                     | decrease                          |
 | gering                     | low                               |
 | verdrossen                 | sullen, moody                     |
 | flüchten                   | flee                              |
@@ -525,12 +604,12 @@ He did something with which I did not agree.
 | einhalten                  | keep                              |
 | der Skandal                | scandal                           |
 
-## Wendungen
+### Wendungen
 
-### Ausdrücke mit `es`
+#### Ausdrücke mit `es`
 
 ::: tip feste Wendungen
-Es ist schwierig/schwer/nicht leicht/noch nicht möglich, $\cdots$  
+Es ist schwierig / schwer / nicht leicht / noch nicht möglich, $\cdots$  
 Es lohnt sich (nicht).  
 Es fällt ihr schwer, zu $\cdots$  
 Es ist nicht leicht, $\cdots$  
@@ -544,7 +623,7 @@ Es ist Frühling/Sommer/Herbst/Winter $\cdots$
 :::
 
 ::: tip Wetter
-Es schneit/regnet.
+Es schneit/regnet.  
 Es ist sonnig/neblig.  
 Es hat kurz vorher geregnet.  
 Es war eher bewöklt.  
@@ -552,7 +631,8 @@ Es donnert und blitzt.
 :::
 
 ::: tip Befinden
-Wie geht es euch? - Es geht uns gut.
+Wie geht es euch?  
+Es geht uns (nicht) gut.
 :::
 
 Bei Sonnenschein geht es mir immer gut.
@@ -568,6 +648,8 @@ I have been playing the piano for several years.
 
 Davon halte ich nicht viel.  
 I do not think much of it.
+
+Der **Tag der Deutschen Einheit** (3.10.) ist der deutsche Nationalfeiertag. Es wird die Wiedervereinigung der BRD (Bundesrepublik Deutschland) und der DDR (Deutsche Demokratische Republik) gefeiert.
 
 ### Wörter
 
@@ -603,6 +685,8 @@ Es kommt mir darauf an, $\cdots$
 Am wichtigsten ist mir, $\cdots$  
 Ich lege großen Wert auf $\cdots$
 :::
+
+#### diskutieren
 
 ::: tip eine Meinung äußern
 Da bin ich gleicher / (völlig) anderer Meinung.  

@@ -402,7 +402,8 @@ I wish I had done it differently.
 | zufällig                                        | accidental                             |
 | der Geschmack                                   | taste 品味                             |
 | heimlich                                        | secret(ly)                             |
-| unheimlich                                      | fucking                                |
+| unheimlich                                      | tremendously                           |
+| die Enttäuschung                                | disappointment, chagrin                |
 
 ### Wendungen
 
@@ -456,13 +457,11 @@ wipe the floor
 in Ordnung bringen  
 bring to order
 
-Im Gespräch bemerkt Iris, dass er nur dummes Zeug redet, und ärgert sich nur noch darüber, dass sie einen Monat an ihn gedacht hat.  
-In conversation, Iris realizes that he is just talking stupid, and is just annoyed that she has been thinking about him for a month.
+### Grammatik
 
-### Irreale Wünsche
+#### Irreale Wünsche
 
-Konjunktiv II Vergangenkeit: hätte/wäre + Partizip Perfekt
-
+::: tip Konjunktiv II Vergangenkeit: hätte/wäre + Partizip Perfekt
 Hätten wir doch bloß gleich die erste Wohnung genommen.  
 Hätte ich es doch wenigstens probiert.  
 Wäre ich doch nur etwas mutiger gewesen.  
@@ -471,6 +470,7 @@ Hättest du deinen Traummann doch angesprochen!
 Wäre ich doch schenller zur Bushaltstelle gelaufen.  
 Wäre ich heute doch ein bisschen früher aufgestanden.  
 Hätte ich heute doch nicht verschlafen.
+:::
 
 ::: tip Enttäuschung ausdrücken
 Also das nächste Mal würde ich es ganz anders machen.  
@@ -481,8 +481,7 @@ Ich habe mich so (über mich) geärgert.
 Hätte ich nur $\cdots$, (dann) wäre das alles nicht passiert.
 :::
 
-### auf Enttäuschung reagieren
-
+::: tip auf Enttäuschung reagieren
 Oh je, das ist ja wirklich dumm gelaufen.  
 Nicht zu glauben!  
 Das ist wirklich sehr ärgerlich.  
@@ -492,12 +491,22 @@ Alles im Leben hat einen Sinn.
 Man weiß nie, ob es nicht sogar besser ist, wie es ist.  
 Vielleicht klappt es ja ein anderes Mal.  
 Aber da kann man wohl nichts mehr machen.
+:::
+
+### Sätze
 
 Als ich dort ankam, war niemand da.  
 When I got there, no one was there.
 
 Alles im Leben hat einen Sinn.  
 Everything in life has a meaning.
+
+Im Gespräch bemerkt Iris, dass er nur dummes Zeug redet, und ärgert sich nur noch darüber, dass sie einen Monat an ihn gedacht hat.  
+In conversation, Iris realizes that he is just talking stupid, and is just annoyed that she has been thinking about him for a month.
+
+Wäre ich bloß schneller zur Bushaltestelle gelaufen!  
+Wenn ich schneller zur Bushaltestelle gelaufen **wäre**, hätte ich den Bus nicht verpasst.  
+**Wäre** ich schneller zur Bushaltestelle gelaufen, hätte ich den Bus nicht verpasst.
 
 ::: tip Vielleicht war es besser so.
 M: Gestern war ich bei meinem Freund Tom eingeladen. Als ich dort ankam, war niemand da. Das war vielleicht blöd!  
@@ -511,12 +520,6 @@ F: Oh je. Das ist für deinen Freund ja wirklich dumm gelaufen.
 M: Ja. Vielleicht war es für mich sogar besser, dass ich nicht dabei war. Toms Nachbarn sind nämlich die besten Freunde meiner Eltern.  
 F: Genau. Alles im Leben hat einen Sinn.
 :::
-
-Wäre ich bloß schneller zur Bushaltestelle gelaufen!
-
-Wenn ich schneller zur Bushaltestelle gelaufen wäre, hätte ich den Bus nicht verpasst.
-
-Wäre ich schneller zur Bushaltestelle gelaufen, hätte ich den Bus nicht verpasst.
 
 ## Lektion 11 - Glücksmomente im Alltag
 
