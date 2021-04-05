@@ -434,6 +434,9 @@ Das sind die Kunden, **denen** ich geholfen habe.
 
 ## Lektion 4 - Kundenservice
 
+Obwohl ich Ihnen das erklärt habe, $\cdots$  
+Although I have explained this to you, $\cdots$
+
 ### Wörter
 
 | Deutsch                         | Bedeutung             |
