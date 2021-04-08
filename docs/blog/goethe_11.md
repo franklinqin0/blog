@@ -341,6 +341,22 @@ Juhu! Meine erste selbst **gemachte** Marmelade!
 Hier sind die **spielenden** Kinder meines Bruders zu sehen.
 :::
 
+::: tip
+Liebe Julia,
+
+der letzte Kurs über das Thema „Leckere Rezepte zum Nachkochen“ war sehr praktisch! Im Kurs haben wir gesunde Schokolade gemacht! Es folgen die Anleitungen.
+
+Zuerst wird die Kakaobutter im Wasserbad bei niedriger Hitze geschmolzen, und werden das Mandelmus, Salz und Vanillemark untergerührt.  
+Dann wird der Kakao untergerührt, bis keine Klümpchen mehr sichtbar sind.  
+Danach wird die Schokolade in eine Silikonform oder eine mit Backpapier ausgelegte Form gefüllt und mit dem gewünschten Toppings bestreut.  
+Lassen Sie die Schokolade ca. 30 Minuten im Kühlschrank fest werden. Zum Schluss schneiden oder brechen Sie sie in Stücke und bewahren Sie sie im Kühlschrank auf.
+
+Die Geschmacksrichtung der Schokolade gefällt mir sehr gut! Ich muss mir keine Sorgen um Gewichtszunahme machen, wegen der gesunden Schokolade! Ich kann nicht mehr erwarten, mein Gericht mit dir zu teilen! Wenn du wieder gesund bist, möchtest du mich treffen, die Schokolade essen, und vor allem gemeinsamen kochen?
+
+Gute Besserung!  
+Franklin Qin
+:::
+
 ## Lektion 15 - Bewerbung
 
 Schön, dass Sie da sind.  
@@ -465,7 +481,6 @@ We don't have to worry about anything.
 | dauernd                         | immer                        |
 | abheben                         | withdraw, lift off           |
 | runtergefallen                  | fall down/off                |
-| anschaffen                      | purchase, buy                |
 | übertreiben, übertrieben        | exaggerate, exaggerated      |
 | streichen                       | delete, cancel               |
 | vorstellbar                     | imaginable                   |

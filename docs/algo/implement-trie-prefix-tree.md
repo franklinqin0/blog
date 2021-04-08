@@ -19,11 +19,13 @@ param_3 = obj.startsWith(prefix)
 
 ## Solution
 
-See more in [Interview Algorithms](/blog/interview_algo.md#trie).
-
-### Dictionary
+### Trie
 
 Note that when a key is not present, `defaultdict(TreeNode)`'s `[key]` would return a new `TreeNode`, whereas `.get(key)` would return nothing.
+
+See more about Trie in [Interview Algorithms](/blog/interview_algo.md#trie).
+
+<!-- Complexity ??? -->
 
 ```py
 from collections import defaultdict

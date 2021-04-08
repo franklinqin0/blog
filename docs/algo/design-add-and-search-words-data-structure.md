@@ -24,9 +24,9 @@ param_2 = obj.search(word)
 
 Let $h$ be the height and $n$ be the number of nodes of the trie.
 
-See more in [Interview Algorithms](/blog/interview_algo.md#trie).
+### Trie
 
-### Dictionary
+See more about Trie in [Interview Algorithms](/blog/interview_algo.md#trie).
 
 ::: theorem Complexity
 time: $O(h)$ (worst case: $O(n)$, if the input is `.....` $\cdots$, then traverse all nodes)  

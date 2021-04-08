@@ -22,6 +22,10 @@ publish: false
 | absehbar        | forseeable     |
 | heutzutage      | nowadays       |
 | anhaltend       | persistent     |
+| verfügen        | order          |
+| gedulden        | be patient     |
+| absolvieren     | complete       |
+| anwenden        | apply          |
 
 ### Wendungen
 
@@ -40,9 +44,28 @@ make preparations
 in absehbarer Zeit  
 in the foreseeable future
 
+Die Aktien sind gestiegen.  
+The shares have risen.
+
+Die Aktien sind gesunken.  
+The shares have fallen.
+
+#### Wunsch
+
+nach Ihren Wünschen  
+according to your wishes
+
+auf Ihren Wunsch  
+upon your request
+
+zu Ihren Kosten  
+at your expense
+
 ### Grammatik
 
 #### Adverbiale
+
+<img src="/Deutsch/TeKaMoLo.png" alt="TeKaMoLo" width=50% class="medium-zoom">
 
 TeKaMoLo
 

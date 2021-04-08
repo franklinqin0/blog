@@ -16,6 +16,9 @@ Deutsch Notizen für das Goethe Institut - B1.1 zwei
 
 ## Lektion 7 - Stärken und Schwächen
 
+Kann ich Ihnen helfen?  
+Can I help you?
+
 ### Wörter
 
 | Deutsch                   | Bedeutung                                               |
@@ -58,17 +61,19 @@ Deutsch Notizen für das Goethe Institut - B1.1 zwei
 | das Heu                   | hay                                                     |
 | die Tierhandlung          | Geschäft, in dem meist kleinere Tiere verkauft werden   |
 | das Tierheim              | Heim für herrenlose Kleintiere, besonders Hunde, Katzen |
+| anschaffen                | purchase, buy                                           |
+| sich(D.) A. anschaffen    | get sth.                                                |
 
-### Sätze
+### Wendungen
 
-| Deutsch         | Bedeutung       |
-| --------------- | --------------- |
-| Geschirr spülen | wash the dishes |
-| Halte durch!    | Hang in there!  |
+Geschirr spülen  
+wash the dishes
 
+Halte durch!  
+Hang in there!
+
+die Möhre  
 etwas Futter, das Kaninchen gerne fressen
-
-Ich kann mir nicht vorstellen, allein in Deutschland zu leben.
 
 Dann kommt das Angebot für mich nicht infrage.  
 Then the offer is out of the question for me.
@@ -79,11 +84,48 @@ be possible
 Ich gucke nur.  
 I'm just looking.
 
-Das passt zu mir.
+Das passt zu mir.  
+That suits me.
 
-Sie kommen recht.
+Sie kommen recht.  
+You are right.
 
-## Infinitiv + zu steht nach
+Angst haben vor D.  
+Wovor hast du Angst?  
+Ich habe Angst (davor), dass $\cdots$  
+Ich habe Angst (davor), Deutsch zu lernen.
+
+Lust haben auf A.  
+Worauf hast du Lust?  
+Ich habe Lust (darauf), Deutsch zu lernen.
+
+::: tip Kundenberatungsgespräche
+Kann ich etwas für Sie tun? / Kann ich Ihnen helfen?  
+Ich möchte mich mal bei Ihnen umsehen und informieren.  
+Ich suche $\cdots$. Können Sie mir einen/eines/eine empfehlen?  
+Ich möchte mir $\cdots$ anschaffen. Und da brauche ich jetzt Ihren Rat.  
+Hier haben wir $\cdots$ im Angebot.  
+Zunächst muss ich Ihnen sagen, dass es bei $\cdots$ große Unterschiede gibt.  
+Außerdem sollten/müssen Sie bedenken, dass $\cdots$  
+Und Sie sollten auch noch berücksichtigen, dass $\cdots$  
+Denken Sie daran, $\cdots$ / Vergessen Sie nicht, $\cdots$  
+Danke, das ist ein guter Hinweis. Dann kommt das Angebot für mich nicht infrage. Ja, Sie haben recht.  
+Ich rate Ihnen (also), $\cdots$. Dann würde ich Ihnen $\cdots$ empfehlen.  
+Das muss ich mir zu Hause noch gut überlegen.  
+Da muss man ja wirklich einiges beachten.  
+Dann würde ich diesen/dieses/diese gern einmal anprobieren.  
+Ach, ich habe mich schon entschieden. Ich nehme $\cdots$
+:::
+
+### Grammatik
+
+#### Infinitiv mit _zu_
+
+::: theorem trennbare Verben
+fern**zu**sehen, auf**zu**stehen, mit**zu**nehmen, aus**zu**schlafen, nach**zu**denken, ein**zu**laden
+:::
+
+#### Infinitiv + _zu_ steht nach
 
 ::: theorem Nomen + haben
 `Angst`, `Zeit`, `Interesse`
@@ -118,29 +160,8 @@ Am Wochenende **fange** ich **an**, Yoga zu lernen.
 Sie **planen**, im Herbst nach Italien zu fahren.  
 Ich **höre** bald **auf**, zu rauchen.  
 Ich **hoffe**, euch bald wiederzusehen.  
-Ich habe leider **vergessen**, Geld mitzunehmen.
-:::
-
-::: theorem trennbare Verben
-fern**zu**sehen, auf**zu**stehen, mit**zu**nehmen, aus**zu**schlafen, nach**zu**denken, ein**zu**laden
-:::
-
-Ich kann mir sehr/nicht gut vorstellen, $\cdots$ zu $\cdots$
-
-Angst haben vor D.  
-Wovor hast du Angst?  
-Ich habe Angst (davor), dass $\cdots$ $\rightarrow$ Ich habe Angst (davor), Deutsch zu lernen.
-
-Lust haben auf A.  
-Worauf hast du Lust?  
-Ich habe Lust (darauf), Deutsch zu lernen.
-
-::: tip
-Das Thema der Statistik zeigt den Anteil von alleinlebenden Personen in Deutschland. Fast ein Fünftel der Gesamtbevölkerung lebt allein. Von den alleinlebenden Personen ist knapp ein Viertel zwischen 18 und 34 Jahren und fast ein Fünftel von 35 bis 64. Jeder dritte ältere Menschen über 65 hingegen lebt allein. Ich denke, dass die Jungen gern allein leben, während die Alten keine Wahl haben. Da mehr Menschen nach 35 Jahren heiraten, leben die Jungen weniger allein.
-:::
-
-::: tip
-Die Umfrage wird zu dem Thema des Anteils der in Großstädten lebenden Personen durchgeführt. Die Großstädte bezeichnet man als die Städte mit 500.000 und mehr Einwohnern. Mehr als 16% von allen Deutschen leben in Großstädten. In Großstädten lebt rund ein Fünftel Einwohner, die zwischen 18 und 34 Jahren sind. Der Anteil der 35- bis 64-Jährigen ist fast genauso hoch wie der von Menschen über 65 - das ist rund 15% und überrascht mich. Ich glaube, dass sich de Familien und auch die Älteren nach 35 Jahren entscheiden, aufs Land zu ziehen, aber die Jungen ziehen in die Städte. In der Großstadt gibt es gute Angebote und mehr Freizeitmöglichkeiten, die von den jungen Leuten geliebt werden.
+Ich habe leider **vergessen**, Geld mitzunehmen.  
+Ich kann mir nicht **vorstellen**, allein in Deutschland zu leben.
 :::
 
 ## Lektion 8 - Tiere und Beratung
@@ -194,16 +215,16 @@ weil: einen Grund nenne, den Grund kennen die anderen nicht
 
 #### Konjunktionen bevor und während
 
-::: vor vs. bevor vs. während
+::: theorem vor vs. bevor vs. während
 vor: Aktivität/Zeitangabe Präposition  
 bevor: Handlung A findet vor Handlung B statt  
 während: Die Handlungen A und B finden gleichzeitig statt
+:::
 
 vor dem Sport/Essen/Unterricht  
 Ich frühstücke, **bevor**/**während** ich zur Arbeit fahre.
-:::
 
-**seit** vs. **vor**
+**seit** vs. **vor**  
 **Seit** 4 Wochen lerne ich Deutsch.  
 **Vor** 4 Wochen habe ich Deutsch gelernt.
 
@@ -217,12 +238,13 @@ Das passt sehr gut / überhaupt nicht.
 Das entspricht meinen Fähigkeiten / mir (nicht).  
 Für technische/soziale/$\cdots$ Berufe bin ich sehr gut / eher nicht geeignet.  
 Da ich gern mit meinen Händen arbeite, passt das Ergebnis überhaupt nicht / gut zu mir.  
-Ich denke eher, dass ich technisch/handwerklich/ begabt bin.
+Ich denke eher, dass ich technisch/handwerklich/$\cdots$ begabt bin.
 :::
 
 ## Lektion 9 - Gesundheit, Sport, Ernährung
 
-Sport trägt zu einem größeren Wohlbefinden bei.
+Sport trägt zu einem größeren Wohlbefinden bei.  
+Sports contribute to a greater sense of well-being.
 
 ### Wörter
 
@@ -269,7 +291,7 @@ Sport trägt zu einem größeren Wohlbefinden bei.
 | die Übergang                            | transition 转折                                             |
 | die Mahlzeit                            | meal                                                        |
 
-### Sätze
+### Wendungen
 
 das Aerobic machen  
 gesunde Nahrungsmittel (gesunde Lebensmittel außer Genussmitteln wie Alkohol))  
@@ -329,9 +351,36 @@ Abschließend atmen Sie mehrmals tief durch.
 ::: tip meine Meinung nach ...
 Meiner Meinung nach ist es sehr einfach.  
 Ich meine, dass $\cdots$  
-Meine Meinung ist, dass $\cdots$  
+Meine Meinung ist, dass $\cdots$
+
 Meiner Meinung nach gehört die Zigarette nach einem guten Essen einfach dazu.  
 In my opinion, the cigarette is simply part of the process after a good meal.
+:::
+
+#### eine Präsentation halten
+
+::: tip Einleitung
+In meiner Präsentation geht es um das Thema $\cdots$  
+Zum Inhalt meiner Präsentation:
+
+- Zunächst/Zuerst möchte ich Ihnen erläutern, $\cdots$
+- Danach zeige ich Ihnen $\cdots$
+- Anschließend möchte ich auf $\cdots$ eingehen
+- Abschließend können Sie Fragen stellen
+
+:::
+
+::: tip Übergänge
+Und damit/nun komme ich zum nächsten/letzten Punkt / zu meinen persönlichen Erfahrungen / zur Situation in meinem Heimatland / zu den Vor- und Nachteilen.  
+Als ich das letzte Mal $\cdots$, habe ich Folgendes erlebt: $\cdots$  
+Ich habe die Erfahrung gemacht, dass $\cdots$  
+$\cdots$ spielt eine große/keine Rolle in meinem Heimatland.  
+Meiner Ansicht/Meinung nach $\cdots$
+:::
+
+::: tip Abschluss
+Ich bin nun mit meinem Vortrag am Ende. Haben Sie noch Fragen?  
+Ich danke Ihnen fürs Zuhören! / Besten Dank für Ihre Aufmerksamkeit. / Ihr Interesse.
 :::
 
 ::: details Notizen über Tipps für ein besseres Leben
@@ -359,6 +408,31 @@ Man sollte/könnte $\cdots$
 19. So kann man ein glücklicheres Leben führen
 20. Ein besseres Leben liegt in mehr Bewegung, gesünderen Mahlzeiten, hellerem Sonnenschein, und frischerem Sauerstoff
 
+:::
+
+### Grammatik
+
+#### Adjektivdeklination: Komparativ (++) und Superlativ (+++)
+
+| Nominativ                                                      | Akkusativ                                                      | Dativ                                                            |           |
+| -------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------- | --------- |
+| der klein**er**e/klein**st**e<br>ein klein**er**er             | den klein**er**en/klein**st**en<br>einen klein**er**en         | dem klein**er**en/klein**st**en<br>einem klein**er**en           | Stuhl     |
+| das klein**er**e/klein**st**e<br>ein klein**er**es             | das klein**er**e/klein**st**e<br>ein klein**er**es             | dem klein**er**en/klein**st**en<br>einem klein**er**en           | Haus      |
+| die klein**er**e/klein**st**e<br>eine klein**er**e             | die klein**er**e/klein**st**e<br>eine klein**er**e             | der klein**er**en/klein**st**en<br>einer klein**er**en           | Hand      |
+| die klein**er**en/klein**st**en<br>– klein**er**e/klein**st**e | die klein**er**en/klein**st**en<br>– klein**er**e/klein**st**e | den klein**er**en/klein**st**en<br>– klein**er**en/klein**st**en | Stühle(n) |
+
+### Schreibaufgabe
+
+::: tip Sollte man sich vegetarisch ernähren?
+In meiner Präsentation geht es um das Thema „Sollte man sich vegetarisch ernähren?”. Zum Inhalt meiner Präsentation: Zunächst möchte ich von meinen persönlichen Erfahrungen berichten. Danach erzähle ich von der Situation in meinem Heimatland. Anschließend möchte ich auf die Vor- und Nachteile eingehen. Zum Schluss können Sie natürlich noch Fragen stellen.
+
+Ich habe die Erfahrung gemacht, dass ich mich nur vegetarisch ernährt hatte, um Gewicht zu verlieren. Am Anfang war ich oft hungrig. Danach hatte ich keine Kraft, Sport zu treiben. Daher habe ich wieder Fleisch gegessen.
+
+In meinem Heimatland ist das ganz anders. Dort essen die meisten Fleisch: Schwein, Huhn, Rind, Lamm, Fisch, usw. Nur wenige würden sich vegetarisch ernähren. Aber mehr Jungen in den Städten erkennen, dass vegetarisches Essen zu besserer Gesundheit beiträgt.
+
+Und damit komme ich zu den Vor- und Nachteilen. Obwohl weniges Fett im Fleisch Gesundheit und Ruhe bringt, einziger veganer Ernährung fehlen wichtige Spurenelemente(Zink, Calcium, Eisen) sowie Vitamin D und E. Darum kann zu Krankheiten, z.B., Fettsucht, Diabetes, Bluthochdruck führen. Außerdem brauchen die Babys, die Jugendlichen, die Schwangeren, und die Patienten Fleisch für Protein.
+
+Ich bin nun mit meinem Vortrag am Ende. Besten Dank für Ihre Aufmerksamkeit! Haben Sie noch Fragen?
 :::
 
 ## Lektion 10 - Pannen im Alltag
@@ -457,24 +531,11 @@ wipe the floor
 in Ordnung bringen  
 bring to order
 
-### Grammatik
-
-#### Irreale Wünsche
-
-::: tip Konjunktiv II Vergangenkeit: hätte/wäre + Partizip Perfekt
-Hätten wir doch bloß gleich die erste Wohnung genommen.  
-Hätte ich es doch wenigstens probiert.  
-Wäre ich doch nur etwas mutiger gewesen.  
-Wäre sie doch nur rechtzeitig losgegangen.
-Hättest du deinen Traummann doch angesprochen!
-Wäre ich doch schenller zur Bushaltstelle gelaufen.  
-Wäre ich heute doch ein bisschen früher aufgestanden.  
-Hätte ich heute doch nicht verschlafen.
-:::
+#### Enttäuschung
 
 ::: tip Enttäuschung ausdrücken
 Also das nächste Mal würde ich es ganz anders machen.  
-Hätte ich (doch) bloß $\cdots$!
+Hätte ich (doch) bloß $\cdots$!  
 Ich war so zornig auf mich!  
 Das war vielleicht blöd!  
 Ich habe mich so (über mich) geärgert.  
@@ -493,6 +554,32 @@ Vielleicht klappt es ja ein anderes Mal.
 Aber da kann man wohl nichts mehr machen.
 :::
 
+### Grammatik
+
+#### Konjunktiv II Präteritum
+
+| Person    | hatten  | sein     |
+| --------- | ------- | -------- |
+| ich       | hätte   | wäre     |
+| du        | hättest | wär(e)st |
+| er/es/sie | hätte   | wäre     |
+| wir       | hätten  | wären    |
+| ihr       | hättet  | wär(e)t  |
+| sie/Sie   | hätten  | wären    |
+
+#### Irreale Wünsche
+
+::: tip Konjunktiv II Vergangenkeit: hätte/wäre + Partizip Perfekt
+Hätten wir doch bloß gleich die erste Wohnung genommen.  
+Hätte ich es doch wenigstens probiert.  
+Wäre ich doch nur etwas mutiger gewesen.  
+Wäre sie doch nur rechtzeitig losgegangen.
+Hättest du deinen Traummann doch angesprochen!
+Wäre ich doch schenller zur Bushaltstelle gelaufen.  
+Wäre ich heute doch ein bisschen früher aufgestanden.  
+Hätte ich heute doch nicht verschlafen.
+:::
+
 ### Sätze
 
 Als ich dort ankam, war niemand da.  
@@ -509,30 +596,34 @@ Wenn ich schneller zur Bushaltestelle gelaufen **wäre**, hätte ich den Bus nic
 **Wäre** ich schneller zur Bushaltestelle gelaufen, hätte ich den Bus nicht verpasst.
 
 ::: tip Vielleicht war es besser so.
-M: Gestern war ich bei meinem Freund Tom eingeladen. Als ich dort ankam, war niemand da. Das war vielleicht blöd!  
-F: Oh, das ist ja wirklich schade.  
-M: Ja. Ich habe dann noch einmal auf die Einladung geschaut und gesehen, dass die Party schon am Tag davor war. Ich habe mich so über mich geärgert!  
-F: Oh je, das ist ja total ärgerlich.  
-M: Stimmt. Hätte ich doch früher nachgesehen, wann genau das Fest stattfindet. Dann wäre mir das nicht passiert.  
-F: Na ja, da kann man wohl nichts mehr machen. Dann klappt es bestimmt beim nächsten Mal.  
-M: Ja. Und weißt du, was ich gehört habe? das ist echt nicht zu glauben! Plötzlich stand die Polizei vor Thoms Haus. Die Nachbarn hatten sie gerufen, weil es so laut war. Es gab richtig Ärger.  
-F: Oh je. Das ist für deinen Freund ja wirklich dumm gelaufen.  
-M: Ja. Vielleicht war es für mich sogar besser, dass ich nicht dabei war. Toms Nachbarn sind nämlich die besten Freunde meiner Eltern.  
-F: Genau. Alles im Leben hat einen Sinn.
+**M:** Gestern war ich bei meinem Freund Tom eingeladen. Als ich dort ankam, war niemand da. Das war vielleicht blöd!  
+**F:** Oh, das ist ja wirklich schade.  
+**M:** Ja. Ich habe dann noch einmal auf die Einladung geschaut und gesehen, dass die Party schon am Tag davor war. Ich habe mich so über mich geärgert!  
+**F:** Oh je, das ist ja total ärgerlich.  
+**M:** Stimmt. Hätte ich doch früher nachgesehen, wann genau das Fest stattfindet. Dann wäre mir das nicht passiert.  
+**F:** Na ja, da kann man wohl nichts mehr machen. Dann klappt es bestimmt beim nächsten Mal.  
+**M:** Ja. Und weißt du, was ich gehört habe? das ist echt nicht zu glauben! Plötzlich stand die Polizei vor Thoms Haus. Die Nachbarn hatten sie gerufen, weil es so laut war. Es gab richtig Ärger.  
+**F:** Oh je. Das ist für deinen Freund ja wirklich dumm gelaufen.  
+**M:** Ja. Vielleicht war es für mich sogar besser, dass ich nicht dabei war. Toms Nachbarn sind nämlich die besten Freunde meiner Eltern.  
+**F:** Genau. Alles im Leben hat einen Sinn.
 :::
 
 ## Lektion 11 - Glücksmomente im Alltag
+
+Nachdem wir jahrelang Pech gehabt hatten, $\cdots$  
+After years of bad luck $\cdots$
 
 ### Wörter
 
 | Deutsch                | Bedeutung              |
 | ---------------------- | ---------------------- |
+| das Pech               | bad luck, misfortune   |
 | jubeln                 | cheer                  |
 | das Turnier            | tournament             |
 | durchschlafen          | sleep thru, w/o waking |
 | die Finsternis         | darkness, eclipse      |
 | die Sonnenfinsternis   | solar eclipse          |
-| Sternenhimmel          | starry sky 星空        |
+| der Sternenhimmel      | starry sky 星空        |
 | anlächeln              | smile at               |
 | der Pilz               | fungus                 |
 | vergangen              | past, former           |
@@ -550,6 +641,7 @@ F: Genau. Alles im Leben hat einen Sinn.
 | frieren                | feel cold              |
 | außer Betrieb          | funktioniert nicht     |
 | zustätzlich            | additional             |
+| die Gewohnheit         | habbit                 |
 
 ### Wendungen
 
@@ -569,25 +661,22 @@ Was würde dich glücklich machen?
 - Sonne genießen
 - Geschwister bekommen
 
-### Plusquamperfekt mit `haben`/`sein`
+Glück ist für mich $\cdots$
 
-::: theorem Nachdem & Plusquamperfekt
-Das **Plusquamperfekt** bildet man mit **waren/hatten + Partizip II**. **Nachdem**-Satz ist ein **Nebensatz**. Wenn es im Nebensatz **Plusquamperfekt** ist, dann ist es im Hauptsatz **Perfekt oder Präteritum**; wenn im Nebensatz **Perfekt oder Präteritum** ist, dann ist es im Hauptsatz **Präsens**.
-:::
+- das Ende des Studiums
+- der Anruf eines guten Freunds/es
+- der Beginn der Ferien
+- das Lachen eines kleinen Kinds/es
+- die Abgabe meiner Diplomarbeit
+- die Lösung eines schwierigen Problems
+- die Geburt meiner ersten Tochter
+- die Blätter des Frühlings
+- die Feuerwerke des Sommers
+- die Ernte des Herbstes
+- der Schneemann des Winters
+- das Lächeln der Kinder
 
-Nachdem mir mein Chef das erzählt hatte, rannte ich laut singend nach Hause.  
-Nachdem ich die Hoffnung schon lange aufgegeben hatte, teilte meine Mutter mir vor drei Monaten plötzlich mit: Dein Wunsch geht in Erfülung.  
-Nachdem ich fast drei Jahre an meiner Doktorarbeit gesessen hatte, habe ich sie an diesem Tag in der Uni abgegeben.  
-Nachdem wir eine Pause gemacht hatten, hat Vivian ein Lied gesungen.  
-Nachdem Vivian ein Lied gesungen hat, machen wir im Buch weiter.
-
-jn. zu D. einladen  
-Die Firma hat mich zu einem Gespräch eingeladen.
-
-sich bewerben bei D. um A.  
-Ich habe mich vor 10 Jahren beim Goethe Institut um eine Arbeitstelle beworben.
-
-### Gewohnheiten
+#### Gewohnheiten
 
 - zuerst/zunächst
 - dann
@@ -597,7 +686,7 @@ Ich habe mich vor 10 Jahren beim Goethe Institut um eine Arbeitstelle beworben.
 
 Nachdem ich genug Musik gehört habe, fange ich wirklich an, denn bald kommt meine Mittagspause.
 
-### Interjektion
+#### Interjektion
 
 positiv: `Juhu` `Hurra` `Ui`  
 negativ: `Brr` `Igitt` `Aua` `Mist` `Iih`
@@ -622,7 +711,44 @@ Das macht dann 32,83€.
 Oh, **mist**, jetzt habe ich mein Geld vergessen.
 :::
 
+#### etwas emotional kommentieren
+
+::: tip
+So etwas habe ich auch schon einmal erlebt.  
+Das ist mir auch schon passiert.  
+Das finde ich sehr berührend.  
+Das berührt mich sehr.  
+Das kann ich gut nachempfinden.  
+Darüber hätte ich mich auch sehr gefreut.  
+Dieses Erlebnis finde ich besonders schön.
+:::
+
+### Grammatik
+
+#### Plusquamperfekt mit `haben`/`sein`
+
+::: theorem Nachdem & Plusquamperfekt
+Das **Plusquamperfekt** bildet man mit **waren/hatten + Partizip II**. **Nachdem**-Satz ist ein **Nebensatz**. Wenn es im Nebensatz **Plusquamperfekt** ist, dann ist es im Hauptsatz **Perfekt oder Präteritum**; wenn im Nebensatz **Perfekt oder Präteritum** ist, dann ist es im Hauptsatz **Präsens**.
+:::
+
+Nachdem mir mein Chef das erzählt hatte, rannte ich laut singend nach Hause.  
+Ich rannte laut singend nach Hause, nachdem mir mein Chef das erzählt hatte.
+
+Nachdem ich die Hoffnung schon lange aufgegeben hatte, teilte meine Mutter mir vor drei Monaten plötzlich mit: Dein Wunsch geht in Erfülung.  
+Nachdem ich fast drei Jahre an meiner Doktorarbeit gesessen hatte, habe ich sie an diesem Tag in der Uni abgegeben.  
+Nachdem wir eine Pause gemacht hatten, hat Vivian ein Lied gesungen.  
+Nachdem Vivian ein Lied gesungen hat, machen wir im Buch weiter.
+
+jn. zu D. einladen  
+Die Firma hat mich zu einem Gespräch eingeladen.
+
+sich bewerben bei D. um A.  
+Ich habe mich vor 10 Jahren beim Goethe Institut um eine Arbeitstelle beworben.
+
 ## Lektion 12 - Veranstaltungen in Betrieben
+
+Ausflug des Jahres  
+Trip of the year
 
 ### Wörter
 
@@ -660,13 +786,14 @@ Oh, **mist**, jetzt habe ich mein Geld vergessen.
 | sich nach D. erkundigen         | inquire                                     |
 | der Angehöriger, die Angehörige | der Verwandter, die Verwandte, das Mitglied |
 | wieso                           | warum                                       |
+| der Umbau                       | reconstruction                              |
 
 ### Wendungen
 
 auf baldiges Wiedersehen  
 (formal) see you again soon
 
-::: tip außer + D. 除了  
+::: tip außer + D. 除了
 **Außer** einem kleinen weihnachtlichen Buffet gibt es ein Konzert von unserem Betriebschor.  
 In addition to a small Christmas buffet, there will be a concert by our company choir.
 :::
@@ -689,23 +816,31 @@ Das ist das Handy von Franklin.
 Dies ist vor allen Dingen Ihrem Einsatz zu verdanken.  
 This is due above all to your commitment.
 
-Glück ist für mich $\cdots$
-
-- das Ende des Studiums
-- der Anruf eines guten Freunds/es
-- der Beginn der Ferien
-- das Lachen eines kleinen Kinds/es
-- die Abgabe meiner Diplomarbeit
-- die Lösung eines schwierigen Problems
-- die Geburt meiner ersten Tochter
-- die Blätter des Frühlings
-- die Feuerwerke des Sommers
-- die Ernte des Herbstes
-- der Schneemann des Winters
-- das Lächeln der Kinder
-
 Dativ: `außer` `nach` `zu` `aus` `bei` `gegenüber`
 
-trotz + Genitiv
-despite  
-???
+#### Briefe und E-Mails
+
+::: tip Einleitung
+Vielen Dank für Ihren Brief. Ich habe mich sehr darüber gefreut.  
+Ich habe mich sehr über $\cdots$ gefreut. Vielen Dank!  
+Vielen/Herzlichen Dank für Ihre Einleitung. Gern $\cdots$ / Leider $\cdots$
+:::
+
+::: tip Abschluss
+Ich würde mich freuen, bald von Ihnen zu hören.  
+Über eine schnelle Antwort würde ich mich sehr freuen.  
+Im Voraus vielen Dank für Ihre Mühe.  
+Herzlichen Dank im Voraus.  
+Grüßen Sie bitte $\cdots$ ganz herzlich von mir.
+:::
+
+#### trotz + Adjektivdeklination im G.
+
+despite
+
+| def./indef. Artikel      | Nullartikel    |                |
+| ------------------------ | -------------- | -------------- |
+| des/eines geplant**en**  | geplant**en**  | Ausflugs       |
+| des/eines schlecht**en** | schlecht**en** | Wetters        |
+| der/einer gut**en**      | gut**er**      | Zusammenarbeit |
+| der/- geplant**en**      | geplant**er**  | Umbauarbeiten  |

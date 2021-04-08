@@ -185,9 +185,9 @@ der Nachbar, -en
 
 3.名词 der Herr 在单数二、三、四格时，词尾为 _-n_，但其复数形式词尾为 _-en_
 
-| N        | G             | D             | A         | Pl         |
-| -------- | ------------- | ------------- | --------- | ---------- |
-| der Herr | des Herr**n** | dem Herr**n** | den Herrn | die Herren |
+| N        | G             | D             | A             | Pl         |
+| -------- | ------------- | ------------- | ------------- | ---------- |
+| der Herr | des Herr**n** | dem Herr**n** | den Herr**n** | die Herren |
 
 :::
 
@@ -416,6 +416,16 @@ Fast 80 Prozent / drei Viertel von uns wohnen auf $\cdots$ Wohnfläche.
 Die meisten von uns / Fast alle haben einen Balkon. / Keiner hat $\cdots$
 :::
 
+### Schreibaufgabe
+
+::: tip
+Das Thema der Statistik zeigt den Anteil von alleinlebenden Personen in Deutschland. Fast ein Fünftel der Gesamtbevölkerung lebt allein. Von den alleinlebenden Personen ist knapp ein Viertel zwischen 18 und 34 Jahren und fast ein Fünftel von 35 bis 64. Jeder dritte ältere Menschen über 65 hingegen lebt allein. Ich denke, dass die Jungen gern allein leben, während die Alten keine Wahl haben. Da mehr Menschen nach 35 Jahren heiraten, leben die Jungen weniger allein.
+:::
+
+::: tip
+Die Umfrage wird zu dem Thema des Anteils der in Großstädten lebenden Personen durchgeführt. Die Großstädte bezeichnet man als die Städte mit 500.000 und mehr Einwohnern. Mehr als 16% von allen Deutschen leben in Großstädten. In Großstädten lebt rund ein Fünftel Einwohner, die zwischen 18 und 34 Jahren sind. Der Anteil der 35- bis 64-Jährigen ist fast genauso hoch wie der von Menschen über 65 - das ist rund 15% und überrascht mich. Ich glaube, dass sich de Familien und auch die Älteren nach 35 Jahren entscheiden, aufs Land zu ziehen, aber die Jungen ziehen in die Städte. In der Großstadt gibt es gute Angebote und mehr Freizeitmöglichkeiten, die von den jungen Leuten geliebt werden.
+:::
+
 ### Grammatik
 
 #### Relativpronomen
@@ -510,11 +520,51 @@ Ich kaufe den Pullover, obwohl er mir nicht richtig passt, weil er mir sehr gut 
 so seltsam es klingen mag  
 strange to say
 
-### Schreibaufgabe
+#### schriftlich reklamieren
 
-???
+::: tip
+Obwohl ich Ihnen schon zwei E-Mails geschickt habe, habe ich noch keine Antwort erhalten.  
+Das ist wirklich sehr ärgerlich.  
+Ich möchte Sie auffordern, dass Sie mir ab sofort $\cdots$  
+Bitte bestätigen Sie mir schriftlich, dass $\cdots$  
+Ich muss leider sagen, dass $\cdots$  
+Ihr Service / $\cdots$ hat mich sehr enttäuscht. Trotzdem $\cdots$  
+Wenn ich bis $\cdots$ keine Zeitung bekomme / nichts von Ihnen höre, (dann) $\cdots$
+:::
+
+#### Gesprächsstrategien am Telefon
+
+::: tip
+Guten Tag, Sie sind verbunden mit $\cdots$  
+Firma $\cdots$, mein Name ist $\cdots$, wie kann ich Ihnen helfen?  
+Firma $\cdots$, womit können wir Ihnen helfen?  
+Für Reklamation/Bestellungen/Produktinformationen muss ich Sie mit der Abteilung $\cdots$ verbinden. Einen Moment bitte! Ich stelle Sie durch.  
+Oh, das tut mir leid, da sind Sie hier leider falsch. Moment, ich verbinde Sie mit meiner Kollegin / meinem Kollegen. Bleiben Sie bitte am Apparat.  
+Hören Sie, Frau/Herr $\cdots$, es tut mir sehr leid, aber die Kollegin / der Kollege ist gerade zu Tisch / außer Haus / in einer Sitzung.  
+Frau/Herr $\cdots$, spricht gerade. / Ihr/Sein Anschluss ist besetzt.  
+Könnten Sie bitte später noch einmal anrufen? Ich gebe Ihnen die Durchwahl: Das ist die $\cdots$  
+Kann sie/er Sie zurückrufen?  
+Kan ich ihr/ihm etwas ausrichten?
+:::
+
+### Grammatik
+
+#### Konjunktionen: unerwartete Gegensätze
+
+although
+
+::: tip Hauptsatz + Nebensatz: obwohl
+Es hat sich bis heute nichts geändert, **obwohl** ich Ihnen das mehrfach erklärt **habe**.
+:::
+
+::: tip Hauptsatz + Hauptsatz: trotzdem
+Ich habe Ihnen das mehrfach erklärt. **Trotzdem hat** sich bis heute nichts geändert.
+:::
 
 ## Lektion 5 - Medien und Technik
+
+Bald wird in fast jedem Haushalt ein PC stehen.  
+Soon there will be a PC in almost every household.
 
 ### Wörter
 
@@ -543,35 +593,49 @@ strange to say
 | gleiche wie                          | same as               |
 | überfordern                          | overwhelm             |
 
+### Wendungen
+
 Ich finde es unmöglich, dass $\cdots$
 
 in eine Wohnung einziehen/umziehen  
 aus der Wohnung ausziehen  
 Einweihnungsparty nach dem Umzug
 
-### Futur I
+::: tip Vermutungen über Zukünftiges äußern
 
-Similar to **simple future** in English.
-
-::: theorem
-Futur I: werden + Infinitiv
-
-_express a future event_  
-Es wird regnen.  
-It will rain.
-
-_express an intention_  
-Ich werde morgen fliegen.  
-I will fly tomorrow.
-
-_give an order_  
-Du wirst jetzt die Hausaufgaben machen.  
-You will do the homework now.
-
-_express an assumption about a present fact_  
-Sie wird müde sein.  
-She is probably tired.
+Ich glaube, in 20 Jahren wird $\cdots$  
+Das halte ich für unmöglich.  
+Dazu gibt es wohl keine Alternative.  
+Ich vermute, dass $\cdots$  
+Es wird wohl $\cdots$  
+Vermutlich wird $\cdots$  
+Ich kann mir gut/nicht vorstellen, dass $\cdots$
 :::
+
+### Zukunft
+
+#### Präsens + Zeitangabe
+
+::: theorem etwas ist sicher
+**Morgen kaufe** ich einen neuen PC.
+:::
+
+#### bei Vorhersagen / Vermutungen
+
+simple future
+
+::: theorem Futur I: werden + Infinitiv
+Vorhersage/Vermutung  
+Bald **wird** in fast jedem Haushalt ein PC **stehen**.
+
+Warnung/Aufforderung  
+Du **wirst** jetzt bitte die Musik leiser **machen**!
+
+Versprechen/Vorsatz/Plan  
+Ich **werde** morgan mit dem Rauchen **aufhören**.
+:::
+
+#### Schreibaufgabe
 
 1. Morgen wird es an einigen Orten bewölkt sein.
 2. Ich werde dich für immer lieben.
@@ -580,6 +644,8 @@ She is probably tired.
 5. Du wirst jetzt zur Schule gehen.
 6. Ich werde im Sommer durch Europa reisen.
 7. Ich werde ein besserer Mann sein.
+
+### Sätze
 
 Ich weiß nicht, was im nächsten Jahr passieren wird.  
 An deiner Stelle würde ich keine Antwort haben.  
@@ -654,22 +720,6 @@ Make yourself at home.
 
 ### Wendungen
 
-jn. begrüßen  
-eine Flasche Wein als Gastgeschenk mitbringen  
-Setzen Sie sich bitte! / Setze dich bitte!  
-Nehmen Sie bitte Platz! / Nimm bitte Platz!  
-einen Platz anbieten  
-Aperitif trinken/anbieten  
-die Vorspeise  
-die Hauptspeise  
-der Nachtisch/die Nachspeise/das Dessert  
-offzielle Einladung  
-Abchied und Dank  
-sich verabschieden von jm.  
-jm. danken
-
-Vielen Dank für Ihre Gastfreundschaft.
-
 eine Allergie gegen A. haben  
 allergisch gegen A. sein
 
@@ -705,14 +755,71 @@ Gerne, bitte schön.
 Ganz meinerseits  
 (Pleasure is) all mine.
 
-kulturelle Unterschiede
+kulturelle Unterschiede  
+cultural differences
 
-jm. Bescheid sagen/geben
+jm. Bescheid sagen/geben  
+let sb. know
 
-offzielle Einladung  
-Abchied und Dank  
-sich verabschieden von jm.  
-jm. danken
+::: tip eine gelungene offzielle Einladung
+
+1. jn. begrüßen
+
+   - eine Flasche Wein als Gastgeschenk mitbringen
+   - Setzen Sie sich bitte! / Setze dich bitte!
+   - Nehmen Sie bitte Platz! / Nimm bitte Platz!
+
+2. Aperitif trinken/anbieten, einen Platz anbieten
+3. die Vorspeise
+4. die Hauptspeise
+5. der Nachtisch/die Nachspeise/das Dessert
+6. Abchied und Dank
+   - sich verabschieden von jm.
+   - jm. danken
+
+:::
+
+#### Halboffizielle Einladungen
+
+::: tip Gastgeber
+Herzlich willkommen, Frau/Herr $\cdots$! Kommen Sie rein. Schön, dass es geklappt hat.  
+Darf ich Ihnen meine Frau / meinen Mann vorstellen?  
+Guten Tag Frau/Herr $\cdots$. Sehr erfreut.  
+Oh! Das ist aber ein schöner Blumensstrauß. Vielen Dank!  
+Setzen Sie sich! / Fühlen Sie sich wie zu Hause! Darf ich Ihnen ein Glas Sekt anbieten?  
+Vielen Dank! Das freut uns/mich.  
+Möchten Sie noch etwas $\cdots$ / Darf ich Ihnen $\cdots$ anbieten?  
+Darf ich Ihnen noch etwas Kaffee nachschenken?  
+Schon? Bleiben Sie doch ein bisschen. / Sie haben recht. Kommen Sie gut nach Hause.  
+Gern geschehen.
+:::
+
+::: tip Gast
+Vielen Dank für Ihre Gastfreundschaft, Frau/Herr $\cdots$  
+Ganz meinerseits. Die sind für Sie!  
+Ja, gern. Danke.  
+Hm, das sieht aber lecker aus. Und es riecht so gut. / Es hat wirklich ausgezeichnet geschmeckt.  
+Ja, gern. / Nein danke. Ich bin leider schon satt.  
+Nein, danke. Es ist schon spät. Ich muss langsam gehen.  
+Noch einmal herzlichen Dank für die Einladung! Ich habe lange nicht so gut gegessen.
+:::
+
+#### Sonderwünsche
+
+::: tip Äußerung von Gast
+Ich wollte eigentlich noch (einen Blumensstrauß), aber (leider hatte ich keine Zeit).  
+Das tut mir leid. Aber ich habe eine $\cdots$allergie. / Ich bin allergisch gegen A.  
+Wenn es Sie nicht stört, würde ich lieber $\cdots$  
+Wenn es keine Umstände macht, hätte ich lieber $\cdots$
+:::
+
+::: tip Reaktion von Gastgeber
+Ach, das macht doch nichts.  
+Das ist kein Problem.  
+Das macht gar keine Umstände.  
+Oh, das tut mir leid! Aber da kann man leider nichts machen.  
+Oh, wie schade! Dann kann ich Ihnen leider nichts anbieten. / Dann kann ich Ihnen nur $\cdots$ anbieten.
+:::
 
 ### Grammatik
 
@@ -725,6 +832,23 @@ hätte, wäre, müsste, bräuchte
 Ausnahme: _wollte_, _sollte_
 :::
 
+#### Falls
+
+**Falls** Sie das Essen bereits beendet haben, legen Sie die Serviette neben den Teller.  
+Legen Sie die Serviette neben den Teller, **falls** Sie das Essen bereits beendet haben.
+
+**Falls** der Nachtisch zu süß ist, bringen wir Ihnen gern einen anderen.  
+Wir bringen Ihnen gern einen anderen Nachtisch, **falls** er zu süß ist.
+
+Wir helfen Ihnen gern weiter, **falls** Sie besondere Wünsche haben.  
+**Falls** Sie besondere Wünsche haben, helfen wir Ihnen gern weiter.
+
+**Falls** wir uns nicht mehr sehen, verabschiede ich mich schon mal.  
+Ich verabschiede mich schon mal, **falls** wir uns nicht mehr sehen.
+
+**Falls** dein Zug Verspätung hat, sag mir einfach kurz Bescheid.  
+Sag mir einfach kurz Bescheid, **falls** dein Zug Verspätung hat.
+
 ### Sätze
 
 Das Abendessen besteht aus fünf Gängen.  
@@ -736,31 +860,15 @@ Take your time.
 Sie unterhalten sich gern beim Essen.  
 They like to talk while eating.
 
-Arbeiten Sie sich zum Besteck, das innen liegt, vor ???
+Arbeiten Sie sich zum Besteck, das innen liegt, vor
 Work your way to the cutlery that is inside
 
 Nicht gleich das Besteck innen benutzen, sondern zuerst das Besteck außen, dann langsam das Besteck innen.  
 Do not use the cutlery inside right away, but use the cutlery outside first, then slowly use the cutlery inside.
 
-### Grammatik
-
-#### Falls
-
-Falls Sie das Essen bereits beendet haben, legen Sie die Serviette neben den Teller.  
-Legen Sie die Serviette neben den Teller, falls Sie das Essen bereits beendet haben.
-
-???
-
-#### Einladung
-
-::: Halboffizielle Einladungen von Gastgeber
-Herzlich willkommen, Frau/Herr $\cdots$! kommen Sie rein. Schön, dass es geklappt hat.  
-Darf
-:::
-
 ### Schreibaufgabe
 
-::: Frau Winter Einladung
+::: tip Frau Winter Einladung
 Sehr geehrte Frau Winter,
 
 noch einmal herzlichen Dank für Ihre Einladung und Gastfreundschaft! Das Essen hat wirklich lecker geschmeckt, und die Kinder waren sehr süß! Die Gerichte Rindsroulade mit Rotkraut und Klößen und Apfelstrudel mit Vanilleeis mochte ich am liebsten. Es tut mir leid, dass ich eigentlich noch ein Bier vom Fass mitbringen wollte, aber leider hatte ich keine Zeit.
