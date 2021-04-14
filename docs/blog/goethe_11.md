@@ -212,7 +212,7 @@ Participation is at your own risk.
 | die Hose                           | trousers               |
 | das Musikstück                     | piece of music         |
 | auswählen                          | select                 |
-| knüpfen, geknüpft                  | tie, tied              |
+| knüpfen, geknüpft                  | connect/tie, tied      |
 | ständig                            | constant, permanent    |
 | wiederfinden                       | retrieve               |
 | die Leseratte                      | bookworm               |
@@ -484,7 +484,7 @@ We don't have to worry about anything.
 | übertreiben, übertrieben        | exaggerate, exaggerated      |
 | streichen                       | delete, cancel               |
 | vorstellbar                     | imaginable                   |
-| auflösen                        | dissolve                     |
+| auflösen                        | dissolve, terminate          |
 | retten                          | rescue                       |
 | sich erholen                    | relax                        |
 | die Schminke                    | make-up                      |

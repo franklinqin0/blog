@@ -1,0 +1,27 @@
+---
+title: TUM course notes
+date: 2021-04-12
+categories:
+  - study
+tags:
+  - tech
+publish: false
+---
+
+<!-- more -->
+
+## Compiler Construction
+
+### Interpretation
+
+No precomputation on program text necessary  
+$\rightarrow$ no/small startup-overhead
+
+More context information allows for specific aggressive optimization
+
+### Compilation
+
+Program components are analyzed once, during preprocessing, instead of multiple times during execution  
+$\rightarrow$ smaller runtime-overhead
+
+Runtime complexity of optimizations less important than in interpreter

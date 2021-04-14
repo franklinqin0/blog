@@ -451,7 +451,7 @@ I wish I had done it differently.
 | der Trauzeuge, -n / die Trauzeugin, -nen        | best man, maid of honor                |
 | strömen                                         | storm                                  |
 | die Frisur                                      | haircut                                |
-| zufällig                                        | by chance, ungeplant                   |
+| zufällig                                        | ungeplant, accidental                  |
 | die Vergangenheit                               | past                                   |
 | bemerken                                        | entdecken                              |
 | weshalb                                         | aus diesem Grund                       |
@@ -473,7 +473,6 @@ I wish I had done it differently.
 | zickzack                                        | zigzag                                 |
 | von D. begeistert sein                          | enthusiastic                           |
 | die Notlüge                                     | white lie                              |
-| zufällig                                        | accidental                             |
 | der Geschmack                                   | taste 品味                             |
 | heimlich                                        | secret(ly)                             |
 | unheimlich                                      | tremendously                           |

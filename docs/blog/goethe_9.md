@@ -589,7 +589,7 @@ Soon there will be a PC in almost every household.
 | die Vorhersage/die Vermutung         | forcast               |
 | der Vorsatz/das Versprechen/der Plan | purpose               |
 | die Aufforderung/die Warnung         | request, warning      |
-| aufhören/aufgeben                    | stop, give up         |
+| aufhören/aufgeben                    | stop/give up          |
 | gleiche wie                          | same as               |
 | überfordern                          | overwhelm             |
 

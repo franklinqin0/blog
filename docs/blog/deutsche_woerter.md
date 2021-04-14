@@ -1,5 +1,5 @@
 ---
-title: 德语单词
+title: Deutsche Wörter
 date: 2021-04-03
 categories:
   - study
@@ -8,7 +8,7 @@ tags:
 publish: false
 ---
 
-平时遇到的德语单词。
+Alltägliche Deutsche Wörter.
 
 <!-- more -->
 
@@ -63,7 +63,7 @@ at your expense
 
 ### Grammatik
 
-#### Adverbiale
+#### Angaben im Mittelfeld
 
 <img src="/Deutsch/TeKaMoLo.png" alt="TeKaMoLo" width=50% class="medium-zoom">
 
@@ -76,3 +76,11 @@ TeKaMoLo
 
 Ins Ballett zu gehen, käme mir nie in den Sinn. Da würde ich mich total langweilen.  
 Going to the ballet would never occur to me. I would be totally bored there.
+
+## April 12 - April 18
+
+### Wörter
+
+| Deutsch    | Bedeutung |
+| ---------- | --------- |
+| der Felsen | rock      |

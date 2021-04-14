@@ -8,6 +8,10 @@ tags:
 publish: false
 ---
 
+Course notes from CMU DB course 15.445.
+
+<!-- more -->
+
 ## Database Management System
 
 A _DBMS_ is software that allows applications to store and analyze information in a database, helps achieve **centralized control of data** and **data independence**, and manages the interaction between the **database** and **end-users**.

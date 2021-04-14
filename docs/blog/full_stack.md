@@ -106,13 +106,41 @@ https://github.com/addyosmani/es6-equivalents-in-es5
 
 ### Deconstruction
 
-### Spread Operator
+### [The `arguments` object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
 
-`...`
+`arguments` is an Array-like object accessible inside functions and contains the values of the arguments passed to that function.
+
+The arguments object is not an `Array`. It is similar, but lacks all `Array` properties except `length`.
+
+### [Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
+`...` could be used to spread an iterable(array, string, object) into separarte elements.
+
+It could also [replace `apply()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_function_calls).
+
+### [Rest Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+
+`...` (same notation as the spread operator) can transform `arguments` to array.
 
 ### Unite Unique
 
-Let's see vanilla JS.
+::: tip Problem
+Write a function that takes two or more arrays and returns a new array of unique values in the order of the original provided arrays.
+
+In other words, all values present from all arrays should be included in their original order, but with no duplicates in the final array.
+
+The unique numbers should be sorted by their original order, but the final array should not be sorted in numerical order.
+:::
+
+::: tip Examples
+`uniteUnique([1, 3, 2], [5, 2, 1, 4], [2, 1])` should return `[1, 3, 2, 5, 4]`.
+
+`uniteUnique([1, 2, 3], [5, 2, 1])` should return `[1, 2, 3, 5]`.
+
+`uniteUnique([1, 2, 3], [5, 2, 1, 4], [2, 1], [6, 7, 8])` should return `[1, 2, 3, 5, 4, 6, 7, 8]`.
+:::
+
+First comes vanilla JS.
 
 ```js
 function uniteUnique(arr) {
@@ -129,7 +157,7 @@ function uniteUnique(arr) {
 }
 ```
 
-So there are `var` and `for` and array's `includes` and `push` functions, among which `for` is quite wordy and `var` is pretty unsafe (global lexical scope???).
+`var`, `for` and array's `includes` and `push` functions all make quite wordy and `var` is pretty unsafe (lexical scope).
 
 A little better using `while`, `concat` and `filter`:
 
@@ -151,12 +179,21 @@ function uniteUnique() {
 Finally, using ES6 syntax (spread operator and `Set`):
 
 ```js
-function uniteUnique(...arrays) {
-  //make an array out of the given arrays and flatten it (using the spread operator)
-  const flatArray = [].concat(...arrays);
-
+function uniteUnique(...args) {
+  //make an array out of the given args and flatten it
+  const flatArray = [].concat(...args);
   // create a Set which clears any duplicates since it's a regular set and not a multiset
   return [...new Set(flatArray)];
+}
+```
+
+Note that `Set` works b/c it preserves iteration order. It may not be the right in other PLs.
+
+Here is a simple version (thanks to ZM):
+
+```js
+function uniteUnique(...args) {
+  return Array.from(new Set(args.flat()));
 }
 ```
 

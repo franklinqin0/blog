@@ -6,6 +6,7 @@ categories:
 tags:
   - Deutsch
 last: goethe_11
+next: goethe_13
 publish: false
 ---
 
