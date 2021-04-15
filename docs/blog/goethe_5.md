@@ -5,7 +5,7 @@ categories:
   - study
 tags:
   - Deutsch
-last: goethe_4
+prev: goethe_4
 next: goethe_6
 publish: false
 ---

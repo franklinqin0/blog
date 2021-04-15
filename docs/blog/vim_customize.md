@@ -5,7 +5,7 @@ categories:
   - study
 tags:
   - tech
-last: vim_commands
+prev: vim_commands
 next: tmux
 ---
 

@@ -25,3 +25,7 @@ Program components are analyzed once, during preprocessing, instead of multiple 
 $\rightarrow$ smaller runtime-overhead
 
 Runtime complexity of optimizations less important than in interpreter
+
+Substitution Lemma:
+atom level
+semantic level

@@ -5,11 +5,11 @@ categories:
   - study
 tags:
   - Deutsch
-last: goethe_12
+prev: goethe_12
 publish: false
 ---
 
-Deutsch Notizen für das Goethe Institut - B1.2 zwei
+Deutsch Notizen für Deutsch als Fremdsprache - B2.1 eins
 
 <!-- more -->
 
@@ -20,6 +20,7 @@ Deutsch Notizen für das Goethe Institut - B1.2 zwei
 | Deutsch       | Bedeutung             |
 | ------------- | --------------------- |
 | auswandern    | emigrate              |
+| einwandern    | immigrate             |
 | das Zeugnis   | certificate           |
 | wagen         | riskieren             |
 | spontan       | spontaneous(ly)       |
@@ -38,21 +39,25 @@ Deutsch Notizen für das Goethe Institut - B1.2 zwei
 | die Wurzel    | root                  |
 | die Feinheit  | fitness               |
 | zeitgemäß     | modern                |
+| der Brauch    | custom                |
+| weggehen      | leave                 |
+| woanders      | elsewhere             |
+| erwerben      | earn                  |
 
 ### Wendungen
 
-Visum beantragen
-Wohnung auflösen
-neue Kontakt knüpfen
-sich von Freunden verabschieden
-Nachmieter finden
-Zeugnisse übersetzen lassen
-Mietvertrag unterschreiben
-Auto verkaufen
-Handvertrag kündigen
-Konto eröffnen
-neue Stelle suchen
-Arbeitsvertrag unterschreiben
+Visum beantragen  
+Wohnung auflösen  
+neue Kontakt knüpfen  
+sich von Freunden verabschieden  
+Nachmieter finden  
+Zeugnisse übersetzen lassen  
+Mietvertrag unterschreiben  
+Auto verkaufen  
+Handvertrag kündigen  
+Konto eröffnen  
+neue Stelle suchen  
+Arbeitsvertrag unterschreiben  
 sich gewöhnen an
 
 Horizont erweitern  

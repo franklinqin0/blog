@@ -5,7 +5,7 @@ categories:
   - study
 tags:
   - tech
-last: vim_customize
+prev: vim_customize
 ---
 
 I write this blog both to spread the efficiency of `tmux` and keep some useful notes for myself.

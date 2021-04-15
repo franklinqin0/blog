@@ -5,7 +5,7 @@ categories:
   - study
 tags:
   - Deutsch
-last: goethe_11
+prev: goethe_11
 next: goethe_13
 publish: false
 ---
@@ -519,7 +519,7 @@ Bicycling is in.
 | schmeißen               | throw, chuck            |
 | verbrauchen             | consume                 |
 | verschlechtern          | make worse              |
-| die Vorschrift          | instruction, rule       |
+| die Vorschrift          | die Richtlinie          |
 | entsorgen               | dispose                 |
 | abhängen                | depend                  |
 | das Gesetz              | law                     |
