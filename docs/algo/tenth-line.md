@@ -11,7 +11,7 @@ tags:
 
 ### Using `sed`
 
-[This doc](https://www.grymoire.com/Unix/Sed.html#uh-31) states that, `"p"` is the print command. If `sed` wasn't started with an `"-n"` option, the `"p"` command will duplicate the input. The `"-n"` option turns off printing unless you request it
+[This doc](https://www.grymoire.com/Unix/Sed.html#uh-31) states that, `"p"` is the print command. If `sed` weren't started with an `"-n"` option, the `"p"` command would duplicate the input. The `"-n"` option turns off printing unless you request it.
 
 ```bash
 sed -n "10 p" file.txt

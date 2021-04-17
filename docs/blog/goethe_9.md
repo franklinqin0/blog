@@ -457,7 +457,7 @@ Although I have explained this to you, $\cdots$
 | das Rätselheft                  | puzzle magazine       |
 | der Verlag                      | publisher             |
 | sich bei jm. beschweren         | complain to sb.       |
-| Reklamation                     | complaint             |
+| die Reklamation                 | complaint             |
 | obwohl                          | trotzdem              |
 | zuständig                       | appropriate, proper   |
 | kündigen                        | cancel                |
@@ -561,6 +561,23 @@ Es hat sich bis heute nichts geändert, **obwohl** ich Ihnen das mehrfach erklä
 Ich habe Ihnen das mehrfach erklärt. **Trotzdem hat** sich bis heute nichts geändert.
 :::
 
+### Schreibaufgabe
+
+<img src="/Deutsch/schriftliche_reklamation.png" alt="schriftliche Reklamation" width=70% class="medium-zoom">
+
+::: tip schriftliche Reklamation
+Sehr geehrte Damen und Herren,
+
+vor vier Wochen habe ich eine neue Zeitung abonniert. Obwohl ich zwei E-Mails geschickt habe, habe ich immer noch keine Ausgabe erhalten. Das ist wirklich sehr ärgerlich.
+
+Ich möchte Sie auffordern, dass Sie mir ab sofort wieder die Zeitung senden. Wenn ich bis nächste Woche keine Zeitung bekomme oder nichts von Ihnen höre, bezahle ich ich mein Abonnement selbstverständlich nicht mehr.
+
+Ich muss Ihnen leider sagen, dass Ihr Service mich sehr enttäuscht hat.
+
+Mit freundlichen Grüßen
+Franklin Qin
+:::
+
 ## Lektion 5 - Medien und Technik
 
 Bald wird in fast jedem Haushalt ein PC stehen.  
@@ -619,6 +636,17 @@ Ich kann mir gut/nicht vorstellen, dass $\cdots$
 ::: theorem etwas ist sicher
 **Morgen kaufe** ich einen neuen PC.
 :::
+
+#### Futur I sein
+
+| Personalpronomen (N.) | sein   |
+| --------------------- | ------ |
+| ich                   | werde  |
+| du                    | wirst  |
+| er/es/sie             | wird   |
+| wir                   | werden |
+| ihr                   | werdet |
+| sie/Sie               | werden |
 
 #### bei Vorhersagen / Vermutungen
 
@@ -717,6 +745,7 @@ Make yourself at home.
 | beurteilen             | judge, assess                  |
 | die Manier             | manner                         |
 | der Bezug              | reference                      |
+| die Eile               | hurry                          |
 
 ### Wendungen
 
@@ -856,6 +885,9 @@ The dinner consists of five courses.
 
 Lass dir die Zeit.  
 Take your time.
+
+Keine Eile.  
+No hurry.
 
 Sie unterhalten sich gern beim Essen.  
 They like to talk while eating.

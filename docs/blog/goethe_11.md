@@ -218,7 +218,7 @@ Participation is at your own risk.
 | die Leseratte                      | bookworm               |
 | die Partylöwe                      | party animal           |
 | der Einblick                       | insight                |
-| duften                             | smell                  |
+| duften, der Duft                   | smell                  |
 | duftend                            | fragrant               |
 | die Atemübung, -en                 | breathing exercise     |
 | der Atem                           | breath                 |

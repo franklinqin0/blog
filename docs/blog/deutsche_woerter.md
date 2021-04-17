@@ -81,6 +81,7 @@ Going to the ballet would never occur to me. I would be totally bored there.
 
 ### Wörter
 
-| Deutsch    | Bedeutung |
-| ---------- | --------- |
-| der Felsen | rock      |
+| Deutsch     | Bedeutung |
+| ----------- | --------- |
+| der Felsen  | rock      |
+| einzigartig | unique    |

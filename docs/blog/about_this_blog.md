@@ -27,6 +27,10 @@ It’s a place where we can express, on our terms, who we are and what we offer.
 
 So I own a small part of the Internet now :grin:
 
+## Why Markdown
+
+I love writing blogs in [Markdown](https://daringfireball.net/projects/markdown/syntax), b/c it's simple and down-to-earth, just like me.
+
 ## Built in Jekyll
 
 In early 2018, I used Jekyll as the static site generator to construct a MVP.Gradually, I found it hard to extend, such as **multi-language support**, **table of contents on sidebar** and **dark mode**. It's not impossible to add an essential feature, but my hands would be quite dirty (see [Docker doc](https://github.com/docker/docker.github.io)). I had a list of stuff I want my blog to have but hard to achieve in reasonable amount of time if keep using Jekyll.

@@ -117,6 +117,13 @@ Dann würde ich diesen/dieses/diese gern einmal anprobieren.
 Ach, ich habe mich schon entschieden. Ich nehme $\cdots$
 :::
 
+### Sätze
+
+Kannst du noch mehr Hinweise geben?  
+Can you give any more hints?
+
+Ich habe nicht nur einen Hasen, sondern auch zwei Fische.
+
 ### Grammatik
 
 #### Infinitiv mit _zu_
@@ -557,14 +564,14 @@ Aber da kann man wohl nichts mehr machen.
 
 #### Konjunktiv II Präteritum
 
-| Person    | hatten  | sein     |
-| --------- | ------- | -------- |
-| ich       | hätte   | wäre     |
-| du        | hättest | wär(e)st |
-| er/es/sie | hätte   | wäre     |
-| wir       | hätten  | wären    |
-| ihr       | hättet  | wär(e)t  |
-| sie/Sie   | hätten  | wären    |
+| Person    | hatten  | sein     | können   |
+| --------- | ------- | -------- | -------- |
+| ich       | hätte   | wäre     | könnte   |
+| du        | hättest | wär(e)st | könntest |
+| er/es/sie | hätte   | wäre     | könnnte  |
+| wir       | hätten  | wären    | könnten  |
+| ihr       | hättet  | wär(e)t  | könntet  |
+| sie/Sie   | hätten  | wären    | könnten  |
 
 #### Irreale Wünsche
 

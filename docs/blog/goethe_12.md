@@ -396,8 +396,15 @@ Schuld daran war $\cdots$
 Das Konzert findet übrigens auf dem Gelände einer ehemaligen Zeche statt.  
 By the way, the concert will take place on the site of a former coal mine.
 
-Drückt uns die Daumen.  
-Cross your fingers for us.
+Ich drücke dir die Daumen.  
+I keep my fingers crossed for you.
+
+Ich habe nicht ganz verstanden.  
+Habe ich richtig verstanden, dass $\cdots$
+
+Sie kümmern sich um mich.  
+Sie unterstützen mich im Leben.  
+Unterstützung brauchen
 
 Innerhalb weniger Tage muss ich nach Deutschland gehen, aber außerhalb des Deutschkurses habe ich selten Deutsch gelernt.  
 Within a few days I have to go to Germany, but outside the German course I rarely learned German.
@@ -709,31 +716,32 @@ Ich zweifle nicht daran, dass $\cdots$
 #### Konjunktionen damit / um $\cdots$ zu
 
 ::: theorem 主句和从句主语
+so that
+
 gleich $\rightarrow$ damit / um $\cdots$ zu  
 verschieden $\rightarrow$ damit
 :::
 
-::: tip
-Absichten ausdrücken
-
+::: tip Absichten ausdrücken
 Drei Familien haben den Betrieb wieder aufgebaut, damit wir die Nachfrage nach Obst und Gemüse bedienen können.  
 Wir hatten uns zusammengeschlossen, damit wir gemeinsam ein Dorf bauen.  
-Wir hatten hatten uns zusammengeschlossen, um gemeinsam ein Dorf zu bauen.
+Wir hatten uns zusammengeschlossen, um gemeinsam ein Dorf zu bauen.
 :::
 
-#### irrealer Vergleich
+#### als ob + Konjunktiv II
 
-::: theorem als ob + Konjunktiv II
+::: theorem
+irrealer Vergleich  
 as if
 
-Wir tun so, als ob wir in Sachen Klimaschutz ewig Zeit für Veränderungen hätten.  
+Wir tun so, als ob wir in Sachen Klimaschutz ewig Zeit für Veränderungen **hätten**.  
 We act as if we have forever to make changes when it comes to climate protection.
 
-Meine Nachbarn kennen mich seit drei Jahren, aber sie tun so, als ob sie mich nicht kennen würden.  
+Meine Nachbarn kennen mich seit drei Jahren, aber sie tun so, als ob sie mich nicht kennen **würden**.  
 My neighbors have known me for three years, but they pretend not to know me.
 
 Sie waren zu Hause, aber sie tun, als ob sie draußen **gewesen wären**.  
-They were at home, but they act like they **were** outside.
+They were at home, but they act like they were outside.
 :::
 
 ### Sätze

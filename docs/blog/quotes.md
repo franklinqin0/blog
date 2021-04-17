@@ -218,6 +218,21 @@ The function of good software is to make the complex appear to be simple.
 Grady Booch
 :::
 
+::: tip
+There can be no doubt that the knowledge of logic is of considerable practical importance for everyone who desires to think and infer correctly.
+::: right
+Alfred Tarski
+:::
+
+::: tip Turbulence
+Big whirls have little whirls  
+which feed on their velocity,  
+And little whirls have lesser whirls  
+And so on to viscosity.
+::: right
+Lewis F. Richardson
+:::
+
 即使除去所有的太阳、长眠不醒，也不愿与你分离。世人从这句话中体会到了爱人间的浪漫，但可曾痛苦于执着？Love is a sweet pain.
 
 ::: tip

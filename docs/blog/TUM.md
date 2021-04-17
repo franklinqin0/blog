@@ -29,3 +29,8 @@ Runtime complexity of optimizations less important than in interpreter
 Substitution Lemma:
 atom level
 semantic level
+
+linear+algebra+refresher
+Bayesian filtering ~ online learning
+
+discriminative / generative model

@@ -17,32 +17,37 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 eins
 
 ### Wörter
 
-| Deutsch       | Bedeutung             |
-| ------------- | --------------------- |
-| auswandern    | emigrate              |
-| einwandern    | immigrate             |
-| das Zeugnis   | certificate           |
-| wagen         | riskieren             |
-| spontan       | spontaneous(ly)       |
-| bereuen       | regret                |
-| sich einleben | settle down           |
-| der Horizont  | horizon               |
-| mittlerweile  | by now                |
-| locker        | loose, relaxed        |
-| sehnsüchtig   | longing               |
-| alltäglich    | gewöhnlich            |
-| provinziell   | provincial, parochial |
-| geborgen      | safe                  |
-| einengen      | restrict              |
-| quatschen     | gossip                |
-| gebirgig      | mountainous           |
-| die Wurzel    | root                  |
-| die Feinheit  | fitness               |
-| zeitgemäß     | modern                |
-| der Brauch    | custom                |
-| weggehen      | leave                 |
-| woanders      | elsewhere             |
-| erwerben      | earn                  |
+| Deutsch              | Bedeutung             |
+| -------------------- | --------------------- |
+| auswandern           | emigrate              |
+| einwandern           | immigrate             |
+| das Zeugnis          | certificate           |
+| wagen                | riskieren             |
+| spontan              | spontaneous(ly)       |
+| bereuen              | regret                |
+| sich einleben        | settle down           |
+| der Horizont         | horizon               |
+| mittlerweile         | by now                |
+| locker               | loose, relaxed        |
+| sehnsüchtig          | longing               |
+| alltäglich           | gewöhnlich            |
+| provinziell          | provincial, parochial |
+| geborgen             | safe                  |
+| einengen             | restrict              |
+| quatschen            | gossip                |
+| gebirgig             | mountainous           |
+| die Wurzel           | root                  |
+| die Feinheit         | fitness               |
+| zeitgemäß            | modern                |
+| der Brauch           | custom                |
+| weggehen             | leave                 |
+| woanders             | elsewhere             |
+| erwerben             | earn                  |
+| zurückkehren         | return                |
+| das Fernweh          | wanderlust            |
+| die Zeitverschiebung | time difference       |
+| erwischen            | catch                 |
+| plaudern             | chat                  |
 
 ### Wendungen
 

@@ -15,14 +15,10 @@ Hi, I'm Franklin Qin.
 
 I was born in Jingzhou, Hubei and grew up in Wuhan and Guangzhou, China.
 
-I majored in Operations Research and minored in Computer Science at Cornell University from August 2014 to May 2018.
+I finished my bachelor at Cornell (OR major, CS minor) and then worked as a technology analyst in HK for a year.
 
-I was a technology analyst working at GS in Hong Kong from July 2018 to August 2019.
+Later on I went for voluntary teaching and worked at a small tech start-up, before I applied for German universities.
 
-I was a voluntary teacher in CJ, Guizhou, China from September to December 2019.
+I love playing table tennis, tennis, badminton, and Texas Holdem. In my free time I love playing violin, listening to classical music (Bach and Beethoven are my all-time favorites!), watching films, and of course coding. My German level is now B2.1 and I hope to reach C1 within this year. You could talk to me in German/English/Mandarin/Cantonese!
 
-I developed a course scheduling system for my high school during summer 2020.
-
-I am now an Informatik master student at TUM since April 2021.
-
-I love writing blogs in [Markdown](https://daringfireball.net/projects/markdown/syntax), b/c it's simple and down-to-earth, just like me.
+I am now a Informatik(CS) master student at TUM.
