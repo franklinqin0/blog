@@ -270,12 +270,9 @@ PCA，一个很灵的五年级女生。
 这是那首歌：
 
 ::: tip You are my sunshine
-You are my sunshine, my only sunshine
-
-You make me happy when skies are gray
-
-You'll never know dear, how much I love you
-
+You are my sunshine, my only sunshine  
+You make me happy when skies are gray  
+You'll never know dear, how much I love you  
 Please don't take my sunshine away
 :::
 

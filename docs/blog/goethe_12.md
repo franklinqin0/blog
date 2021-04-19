@@ -344,7 +344,7 @@ Es geht am Rhein entlang nach Basel.
 
 #### lokal + temporal Präposition
 
-::: tip innerhalb/außerhalb G.
+::: tip innerhalb/außerhalb + G.
 inside/outside
 
 Der Veranstaltungsort liegt innerhalb der Stadt / außerhalb des Landes.  

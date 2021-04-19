@@ -101,6 +101,8 @@ This page documents good quotes I came across.
 
 ## Quotes
 
+### English
+
 ::: tip
 Things which matter most must never be at the mercy of things which matter less.  
 Wichtige Dinge dürfen nie den unwichtigen untergeordnet werden.
@@ -233,6 +235,14 @@ And so on to viscosity.
 Lewis F. Richardson
 :::
 
+::: tip
+Be fearful when others are greedy. Be greedy when others are fearful.
+::: right
+Warren Buffett
+:::
+
+### Chinese
+
 即使除去所有的太阳、长眠不醒，也不愿与你分离。世人从这句话中体会到了爱人间的浪漫，但可曾痛苦于执着？Love is a sweet pain.
 
 ::: tip
@@ -248,7 +258,22 @@ Lewis F. Richardson
 :::
 
 ::: tip
-Be fearful when others are greedy. Be greedy when others are fearful.
+生非贵之所能存  
+身非爱之所能厚  
+生亦非贱之所能夭  
+身亦非轻之所能薄
 ::: right
-Warren Buffett
+《列子·力命》
+:::
+
+::: tip
+求则得之，舍则失之，是求有益于得也，求在我者也。求之有道，得之有命，是求无益于得也，求在外者也。
+::: right
+《孟子·尽心章句上》
+:::
+
+::: tip
+已饥方食，未饱先止。
+::: right
+《苏东坡养生说》
 :::

@@ -150,7 +150,7 @@ Ich schenke es meiner Schwester.
 Was ist für deine Eltern?  
 Ich schenke ihnen die DVDs.
 
-### 介词
+### Präpositionen
 
 #### Dativ
 

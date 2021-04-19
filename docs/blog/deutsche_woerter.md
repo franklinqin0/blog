@@ -67,7 +67,7 @@ at your expense
 
 <img src="/Deutsch/TeKaMoLo.png" alt="TeKaMoLo" width=50% class="medium-zoom">
 
-TeKaMoLo
+[TeKaMoLo](https://sprachekulturkommunikation.com/tekamolo-satzbau-im-deutschen-beispiele-und-erklaerung/)
 
 **Te**mporal - When  
 **Ka**usal - Why  
@@ -81,7 +81,12 @@ Going to the ballet would never occur to me. I would be totally bored there.
 
 ### Wörter
 
-| Deutsch     | Bedeutung |
-| ----------- | --------- |
-| der Felsen  | rock      |
-| einzigartig | unique    |
+| Deutsch         | Bedeutung      |
+| --------------- | -------------- |
+| der Felsen      | rock           |
+| einzigartig     | unique         |
+| überwältigend   | overwhelming   |
+| beleidigen      | insult, offend |
+| der Kasus       | case           |
+| wertig          | significant    |
+| die Gelegenheit | opportunity    |

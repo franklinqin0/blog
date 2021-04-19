@@ -20,7 +20,7 @@ tags:
 
 在《起风了》这部宫崎骏“最后”的电影里，在男女主热恋时，一旁微笑地看透一切的憨憨德国大叔在餐厅里弹唱了这首歌，十分应景。一生只有一次初恋，就像春天只有一个五月。情侣恋爱时，总以为爱会海枯石烂，但最终还是会挥手说再见。在天空还未变灰之前，须尽情享受对方眼中的光辉！
 
-### Einmal wird die Sonne wieder scheinen
+### Heintje - Einmal wird die Sonne wieder scheinen
 
 #### [Zwei Kleine Sterne](https://youtu.be/bjbdrJngKFA)
 
@@ -43,7 +43,9 @@ wohl in die weite, weite Welt.
 
 #### [Wenn du einmal Geburstag hast](https://youtu.be/bd5C5czkUhU)
 
-### [Komm, Gib Mir Deine Hand](https://youtu.be/6qAazPVLONM)
+### Beatles
+
+#### [Komm, Gib Mir Deine Hand](https://youtu.be/6qAazPVLONM)
 
 [Text](https://www.thebeatles.com/song/komm-gib-mir-deine-hand)
 
@@ -90,7 +92,7 @@ Komm gib mir deine Hand
 Komm gib mir deine Hand
 :::
 
-### [Sie Liebt Dich](https://youtu.be/YmjnK4zTBhM)
+#### [Sie Liebt Dich](https://youtu.be/YmjnK4zTBhM)
 
 [Text](https://www.thebeatles.com/song/sie-liebt-dich)
 
@@ -158,13 +160,63 @@ How beautiful you are! 想起了一首英文歌：[Just The Way You Are](https:/
 
 虽然恋人间承诺„Ich liebe dich, wird für immer sein.”（我会永远爱你），但现在却„Meine Haare wurden länger, unser Schweigen auch”（我的头发更长了，我们的沉默也一样）。爱究竟是什么呢？如何才能给彼此幸福呢？曾经彻夜长谈，为何最终只剩争吵和沉默？
 
-### [Ja oder Nein（是或否）](https://youtu.be/_h5Itf6ORRI)
+### Tom Schilling
 
-### [Kein Liebeslied（不是情歌）](https://youtu.be/HpFRyCee5gE)
+#### [Ja oder Nein（是或否）](https://youtu.be/_h5Itf6ORRI)
+
+#### [Kein Liebeslied（不是情歌）](https://youtu.be/HpFRyCee5gE)
 
 [Text](https://www.musixmatch.com/lyrics/Tom-Schilling-The-Jazz-Kids/Kein-Liebeslied)
 
-没找到翻译的歌词:sweat:
+### [Herbert Grönemeyer - Heimat](https://youtu.be/GFYe9vmyYF0)
+
+::: tip
+Wir grübeln leicht
+Wir tun uns schwer
+Wir warten auf den Schnee
+Wir haben nicht einfach einen guten Tag
+Dafür sind wir zu zäh
+
+Ich bin nur ein Königskind
+Das andere ist mir fremd
+Wir sind auf beiden Lippen blind
+Wir trau'n uns nicht aus dem Hemd
+
+Zweisprachenland, entfernt verwandt
+An verschiedene Ufer gespült
+Zum gemeinsamen Gelingen verdammt
+Heimat ist kein Ort
+Heimat ist ein Gefühl
+
+Geführt von geklonten Patrioten
+Im nationalen Krampf
+Kandidaten im Doppelpack
+Blonde Gattinnen grinsen zum Tanz
+
+Die Lage verfahr'n
+Das Schiff fast versenkt
+Die Band spielt "Oh wie ist das schön"
+Ablenkungsmanöver werden durchgeführt
+Die im Dunkeln sind, werden übersehen
+
+Das obere Deck feiert sich ohne Not
+Gesichert durch Kontrolle total
+Der Lauschangriff läuft, Spitzelprämien bezahlt
+Für die im Unterdeck gibt's kein Rettungsboot
+
+Bevor der letzte Tango steigt
+Wer macht den ersten Anfang
+Kohlpop pur hat ausgegeigt
+Wer zieht zuerst am gleichen Strang
+Wer glaubt an die gleiche Idee
+Wer lebt den halben Traum vom Ziel
+Wer traut sich zuerst über'n See
+
+Heimat ist kein Ort
+Heimat ist ein Gefühl
+Heimat ist kein Ort
+Heimat ist ein Gefühl
+:::
 
 ## Kino
 
