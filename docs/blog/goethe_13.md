@@ -76,12 +76,12 @@ expand horizon
 eine Sprache beherrschen  
 master a language
 
-sich täuschen in D.
+sich täuschen in D.  
 be wrong about
 
 #### Verbklammer
 
-|          | Position II<br>konjugiertes Verb | Mittelfeld                 | Endposition zweiter Verbteil |
+| Subjekt  | Position II<br>konjugiertes Verb | Mittelfeld                 | Endposition zweiter Verbteil |
 | -------- | -------------------------------- | -------------------------- | ---------------------------- |
 | ich      | will (Modalverb)                 | nächste Woche nach München | fliegen (Infinitiv)          |
 | Ich      | habe (Perfekt)                   | gestern                    | gekocht (Partizip II)        |
@@ -112,29 +112,29 @@ https://deutsch.lingolia.com/de/grammatik/praepositionen
 
 #### die Verbvalenz
 
-##### einwertig - Subjekt
-
+::: theorem einwertig - Subjekt
 Nominativ-Ergänzung  
 Ich atme.
+:::
 
-##### zweiwertig - transitive
-
+::: theorem zweiwertig - transitive
 Akkusativ-Ergänzung  
 Ich sehe einen Baum.
 
 Dativ-Ergänzung  
 Ich helfe dir.
+:::
 
-##### dreiwertig
-
+::: theorem dreiwertig
 Akkusativ - & Dativ-Ergänzung  
 Ich schreibe dir einen Brief.  
 Ich empfehle dir ein Restaurant.
+:::
 
-##### Präpositionalergänzung/objekt
-
+::: theorem Präpositionalergänzung/objekt
 Ich habe Angst vor (D.) Spinnen.  
 Ich warte auf (A.) den Bus.
+:::
 
 #### Ergänzung vs. Angabe
 
@@ -193,20 +193,21 @@ Ich bin letztes Jahr aus Liebe ziemlich spontan nach Australien ausgewandert.
 
 [TeKaMoLo](https://sprachekulturkommunikation.com/tekamolo-satzbau-im-deutschen-beispiele-und-erklaerung/)
 
-TE: Temporal (Wann? Wie lange? Seit wann?)
-KA: Kausal (Warum?)
-MO: Modal (Wie?)
+TE: Temporal (Wann? Wie lange? Seit wann?)  
+KA: Kausal (Warum?)  
+MO: Modal (Wie?)  
 LO: Lokal (Wo? Woher? Wohin?)
 
-Fokus
-**Im Sommer** würden wir gern in Südfrankreich Urlaub machen.
-**Nach Australien** bin ich letztes Jahr ziemlich spontan ausgewandert.
-**Letzten Monat** sind wir ganz spontan zu Ella geflogen.
-**Wegen eines Unwetters** startete das Flugzeug mit großer Verspätung vom Flughafen Frankfurt.
-**Während des langen Fluges** war mir wegen des Sturms ziemlich schlecht.
-**Ziemlich erschöpft** fuhren wir nach unserer Ankunft zu Ellas Haus.
-**An unserem ersten Urlaubstag** haben wir zusammen eine Stadtrundfahrt gemacht.
-**An den nächsten Tagen** lagen wir wegen der starken Hitze meistens faul am Strand.
-**Im Urlaub** ist die Zeit viel zu schnell vergangen.
-**Am Flughafen** haben wir vor unserem Abflug noch schnell ein paar Andenken gekauft.
+::: tip Fokus
+**Im Sommer** würden wir gern in Südfrankreich Urlaub machen.  
+**Nach Australien** bin ich letztes Jahr ziemlich spontan ausgewandert.  
+**Letzten Monat** sind wir ganz spontan zu Ella geflogen.  
+**Wegen eines Unwetters** startete das Flugzeug mit großer Verspätung vom Flughafen Frankfurt.  
+**Während des langen Fluges** war mir wegen des Sturms ziemlich schlecht.  
+**Ziemlich erschöpft** fuhren wir nach unserer Ankunft zu Ellas Haus.  
+**An unserem ersten Urlaubstag** haben wir zusammen eine Stadtrundfahrt gemacht.  
+**An den nächsten Tagen** lagen wir wegen der starken Hitze meistens faul am Strand.  
+**Im Urlaub** ist die Zeit viel zu schnell vergangen.  
+**Am Flughafen** haben wir vor unserem Abflug noch schnell ein paar Andenken gekauft.  
 **Gut erholt** folgen wir nach drei Wochen wieder nach Hause zurück.
+:::

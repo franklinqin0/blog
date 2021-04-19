@@ -6,6 +6,7 @@ categories:
   - study
 tags:
   - tech
+  - research
 ---
 
 During the past summer, I worked at a friend's tech startup and established a course scheduling system. I served as a full stack engineer for backend, frontend, and algorithm. In the following I will share some ideas and insights on the algorithm.

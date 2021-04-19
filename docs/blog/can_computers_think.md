@@ -6,7 +6,7 @@ categories:
   - study
 tags:
   - tech
-  - paper
+  - research
 ---
 
 ::: theorem
