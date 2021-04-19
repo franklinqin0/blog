@@ -1,5 +1,5 @@
 ---
-title:
+title: 佛学禅宗
 date: 2021-04-18
 categories:
   - study
