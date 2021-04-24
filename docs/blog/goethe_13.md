@@ -53,6 +53,7 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 eins
 | das Andenken         | souvenir              |
 | obligatorisch        | obligatory            |
 | fakultativ           | optional              |
+| zerschneiden         | cut                   |
 
 ### Wendungen
 
@@ -210,4 +211,32 @@ LO: Lokal (Wo? Woher? Wohin?)
 **Im Urlaub** ist die Zeit viel zu schnell vergangen.  
 **Am Flughafen** haben wir vor unserem Abflug noch schnell ein paar Andenken gekauft.  
 **Gut erholt** folgen wir nach drei Wochen wieder nach Hause zurück.
+:::
+
+### Schreibaufgabe
+
+::: tip
+Lisa trifft Peter im Frühling wegen des Sonnenscheins außerhalb des Englischer Gartens.
+
+Ich arbeitete für das Geld statt der Liebe leider in Hong Kong.
+
+Wir warten am Nachmittag wütend im Regen auf ihn.
+
+Er schenkt ihr am frühen Abend aus Angst einen schönen Blumenstrauß, weil er letzte Woche zu spät zur Verabredung gekommen ist.
+:::
+
+Ergänzungen und Angaben im Mittelfeld
+
+Wenn es Angaben und Ergänzungen gibt, steht die Dativergänzung meistens **vor** der temporalen Angabe. Die Akkusativergänzung steht **nach** den temporalen, kausalen und modalen Angaben und **vor** oder **nach** der lokalen Angabe.
+
+Präpositionalergänzungen stehen normalerweise am Ende des Mittelfelds.
+
+::: theorem D. vor A.
+Ich schenke meiner Mutter eine Uhr.  
+Ich schenke ihr eine Uhr.
+:::
+
+::: theorem Akkusativpronomen steht vor Dativ
+Ich schenke sie meiner Mutter.  
+Ich schenke sie ihr.
 :::

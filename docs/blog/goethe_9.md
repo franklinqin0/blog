@@ -612,6 +612,9 @@ Soon there will be a PC in almost every household.
 
 ### Wendungen
 
+sich fürchten vor D.  
+be afraid of sb./sth.
+
 Ich finde es unmöglich, dass $\cdots$
 
 in eine Wohnung einziehen/umziehen  

@@ -324,7 +324,8 @@ Der Name (von) der Rose
 - 阳、中性名词用 des, 一般在结尾加 s 如 das Ende des Films, die Sprache des Gesichts
   - 以 s, ß, sch, x, z 结尾的单音节词, 加 es, 如 Der Untergang des Hauses Usher
 - 阴性和复数名词用 der, 如 die Frage der Forscher, Der Herr der Ringe
-  :::
+
+:::
 
 | maskulin     | neutral      | feminin      | Plural       |
 | ------------ | ------------ | ------------ | ------------ |
@@ -367,7 +368,7 @@ Seid bitte ruhig. $\rightarrow$ **ihr**
 
 ### Sinn
 
-sich vor D.(etw.) ekeln  
+sich vor D. ekeln  
 ekeln 第一人称：ekle
 
 ### Verben + D.

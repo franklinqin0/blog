@@ -34,3 +34,7 @@ linear+algebra+refresher
 Bayesian filtering ~ online learning
 
 discriminative / generative model
+
+ab\*a
+syntax: specification
+semantics: set of words

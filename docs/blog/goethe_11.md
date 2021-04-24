@@ -121,6 +121,7 @@ I have to repeat grammar and vocabulary. Because I failed the exam.
 | Äpfel           | die Äpfelsine                  |
 | Pfund (Währung) | Pfund (Gewichtseinheit)        |
 | fressen (essen) | füttern (mit Futter versorgen) |
+| schicken        | der Schinken                   |
 
 #### Farben
 
