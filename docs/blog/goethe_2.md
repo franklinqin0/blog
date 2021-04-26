@@ -418,7 +418,7 @@ M: Wir möchten dann zahlen.
 | <d type="ie" text="Hauptspeise"/>                                 | <d type="as" text="Hähnchen"/> mit Pommes<br><d type="as" text="Omelette"/> mit Gemüse<br><d type="er" text="Fisch"/> mit Reis |
 | <d type="ie" text="Nachspeise"/><br><d type="as" text="Dessert"/> | <d type="as" text="Eis"/><br><d type="er" text="Apfelkuchen"/><br><d type="er" text="Obstsalat"/>                              |
 
-#### Verb
+#### konjugieren
 
 | Person    | möchten  | nehmen | sein |
 | --------- | -------- | ------ | ---- |

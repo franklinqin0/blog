@@ -37,7 +37,7 @@ def dailyTemperatures(self, T: List[int]) -> List[int]:
     return res
 ```
 
-### Monotone Stack
+### Monotonic Stack
 
 `stack` stores the indices of `T` in descending order of temperature from bottom to top. While the current temperature is larger than the temperature at the top of the stack, pop the stack update index difference in `res`. At the end of the while loop, append the current index.
 

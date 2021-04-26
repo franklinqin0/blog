@@ -50,9 +50,9 @@ def largestRectangleArea(self, heights: List[int]) -> int:
     return res
 ```
 
-The above 2 solutions take squared time, whereas the following solutions using monotone stack take only linear time.
+The above 2 solutions take squared time, whereas the following solutions using monotonic stack take only linear time.
 
-### Vanilla Monotone Stack
+### Vanilla Monotonic Stack
 
 `left`: 1st coordinate to the **left** with height `heights[left] < heights[i]`.  
 `right`: 1st coordinate to the **right** with height `heights[right] < heights[i]`.
@@ -86,7 +86,7 @@ def largestRectangleArea(self, heights: List[int]) -> int:
     return res
 ```
 
-### Optimized Monotone Stack
+### Optimized Monotonic Stack
 
 when `right` is enumerated, `left` is popped from the stack.
 

@@ -11,6 +11,8 @@ related:
 
 ## Solution
 
+Let $n$ be the length of the linked list.
+
 ### Iteration
 
 As the input list is sorted, we can compare `curr.val` w/ `curr.next.val`. If same, skip the duplicate; otherwise, go to `curr.next`.
@@ -32,6 +34,8 @@ def deleteDuplicates(self, head: ListNode) -> ListNode:
 ```
 
 ### Recursion
+
+The recursive `deleteDuplicates` does not update `curr` until `curr.next` is the last of duplicates.
 
 ::: theorem Complexity
 time: $O(n)$  

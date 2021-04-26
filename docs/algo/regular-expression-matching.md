@@ -11,6 +11,14 @@ tags:
 
 ## Solution
 
+Let $m$ be the length of `s` and $n$ be the length of `p`.
+
+`match(x, y)` checks if `x` and `y` are matched: one is `.` or `x == y`.
+
+$$
+f[i][j] = \begin{cases} \text{if~} (p[j] \neq \text{~`*'}) = \begin{cases} f[i - 1][j - 1], & \textit{match}(s[i], p[j])\\ \text{false}, & \text{otherwise} \end{cases} \\ \text{otherwise} = \begin{cases} f[i - 1][j] \text{~or~} f[i][j - 2], & \textit{match}(s[i], p[j-1]) \\ f[i][j - 2], & \text{otherwise} \end{cases} \end{cases}
+$$
+
 ### 1-liner Cheating
 
 The `\Z` attached regex asks the regex to match the full `s`tring.
@@ -34,7 +42,14 @@ def isMatch(self, s: str, p: str) -> bool:
         return fst_match and self.isMatch(s[1:], p[1:])
 ```
 
-### Recursive DP - Top down
+### DP
+
+::: theorem Complexity
+time: $O(mn)$  
+space: $O(mn)$
+:::
+
+#### Recursive DP - Top down
 
 ```py
 def isMatch(self, s: str, p: str) -> bool:
@@ -57,9 +72,7 @@ def isMatch(self, s: str, p: str) -> bool:
     return dp(0, 0)
 ```
 
-### Iterative DP - Bottom up
-
-<!-- REDO -->
+#### Iterative DP - Bottom up
 
 ```py
 def isMatch(self, s: str, p: str) -> bool:

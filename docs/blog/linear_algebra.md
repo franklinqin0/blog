@@ -25,3 +25,11 @@ self-inverse
 
 simp: step-by-step
 auto: just prove it
+
+Every symmetric matrix is a linear combination of orthogonal projection matrices.
+
+For a symmetric matrix, signs of pivots are the same as signs of eigenvalues.
+
+Positive definite matrix is symmetric. All eigenvalues are positive. All pivots are positive. All subdeterminants are positive.
+
+product of pivots = products of eigenvalues?

@@ -222,6 +222,8 @@ weil: einen Grund nenne, den Grund kennen die anderen nicht
 
 #### Konjunktionen bevor und während
 
+Konsekutivsatz
+
 ::: theorem vor vs. bevor vs. während
 vor: Aktivität/Zeitangabe Präposition  
 bevor: Handlung A findet vor Handlung B statt  

@@ -394,9 +394,9 @@ Ach was!
 Mit 15 Jahren bin ich zur Universität gegangen.
 :::
 
-### wenn vs. als
+### Temporalsatz (wenn, als)
 
-::: theorem
+::: theorem wenn vs. als
 wenn: kann oft passieren (Gegenwart, Vergangenheit: immer) 现在、将来、或过去重复的事件  
 als: ist einmal passiert (immer Vergangenheit, Perfekt/Präteritum) 过去的事情
 :::

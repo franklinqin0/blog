@@ -54,6 +54,8 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 eins
 | obligatorisch        | obligatory            |
 | fakultativ           | optional              |
 | zerschneiden         | cut                   |
+| halt                 | simply                |
+| abstoßend            | repulsive             |
 
 ### Wendungen
 
@@ -240,3 +242,8 @@ Ich schenke ihr eine Uhr.
 Ich schenke sie meiner Mutter.  
 Ich schenke sie ihr.
 :::
+
+um/für/bei
+
+diskutieren mit
+arbeiten an Thema/bei Firma

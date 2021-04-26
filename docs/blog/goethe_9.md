@@ -551,6 +551,7 @@ Kan ich ihr/ihm etwas ausrichten?
 
 #### Konjunktionen: unerwartete Gegensätze
 
+Konzessivsatz  
 although
 
 ::: tip Hauptsatz + Nebensatz: obwohl
