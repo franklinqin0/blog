@@ -6,6 +6,7 @@ categories:
 tags:
   - Deutsch
 prev: goethe_12
+next: goethe_14
 publish: false
 ---
 
@@ -13,49 +14,58 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 eins
 
 <!-- more -->
 
-## Heimat ist $\cdots$
+## Lektion 1 - Heimat ist $\cdots$
 
 ### Wörter
 
-| Deutsch              | Bedeutung             |
-| -------------------- | --------------------- |
-| auswandern           | emigrate              |
-| einwandern           | immigrate             |
-| das Zeugnis          | certificate           |
-| wagen                | riskieren             |
-| spontan              | spontaneous(ly)       |
-| bereuen              | regret                |
-| sich einleben        | settle down           |
-| der Horizont         | horizon               |
-| mittlerweile         | by now                |
-| locker               | loose, relaxed        |
-| sehnsüchtig          | longing               |
-| alltäglich           | gewöhnlich            |
-| provinziell          | provincial, parochial |
-| geborgen             | safe                  |
-| einengen             | restrict              |
-| quatschen            | gossip                |
-| gebirgig             | mountainous           |
-| die Wurzel           | root                  |
-| die Feinheit         | fitness               |
-| zeitgemäß            | modern                |
-| der Brauch           | custom                |
-| weggehen             | leave                 |
-| woanders             | elsewhere             |
-| erwerben             | earn                  |
-| zurückkehren         | return                |
-| das Fernweh          | wanderlust            |
-| die Zeitverschiebung | time difference       |
-| erwischen            | catch                 |
-| plaudern             | chat                  |
-| täuschen             | trick, deceive        |
-| das Unwetter         | storm                 |
-| das Andenken         | souvenir              |
-| obligatorisch        | obligatory            |
-| fakultativ           | optional              |
-| zerschneiden         | cut                   |
-| halt                 | simply                |
-| abstoßend            | repulsive             |
+| Deutsch                        | Bedeutung             |
+| ------------------------------ | --------------------- |
+| auswandern                     | emigrate              |
+| einwandern                     | immigrate             |
+| das Zeugnis                    | certificate           |
+| wagen                          | riskieren             |
+| spontan                        | spontaneous(ly)       |
+| bereuen                        | regret                |
+| sich einleben                  | settle down           |
+| der Horizont                   | horizon               |
+| mittlerweile                   | by now                |
+| locker                         | loose, relaxed        |
+| sehnsüchtig                    | longing               |
+| alltäglich                     | gewöhnlich            |
+| provinziell                    | provincial, parochial |
+| geborgen                       | safe                  |
+| einengen                       | restrict              |
+| quatschen                      | gossip                |
+| gebirgig                       | mountainous           |
+| die Wurzel                     | root                  |
+| die Feinheit                   | fitness               |
+| zeitgemäß                      | modern                |
+| der Brauch                     | custom                |
+| weggehen                       | leave                 |
+| woanders                       | elsewhere             |
+| erwerben                       | earn, purchase        |
+| zurückkehren                   | return                |
+| das Fernweh                    | wanderlust            |
+| die Zeitverschiebung           | time difference       |
+| erwischen                      | catch                 |
+| plaudern                       | chat                  |
+| täuschen                       | trick, deceive        |
+| das Unwetter, das Gewitter     | storm                 |
+| das Andenken                   | souvenir              |
+| obligatorisch                  | obligatory            |
+| fakultativ                     | optional              |
+| zerschneiden                   | cut                   |
+| halt                           | simply                |
+| abstoßend                      | repulsive             |
+| das Versehen                   | oversight             |
+| absichtlich                    | intentional           |
+| der Fettnapf, das Fettnäpfchen | 无心之过              |
+| auslassen                      | miss                  |
+| eintrudeln                     | drift in              |
+| das Desinteresse               | lack of interest      |
+| die Fortsetzung                | continuation          |
+| das Kissen                     | cushion               |
+| der Kuss, küssen               | kiss                  |
 
 ### Wendungen
 
@@ -81,6 +91,9 @@ master a language
 
 sich täuschen in D.  
 be wrong about
+
+(bei jemandem) ins Fettnäpfchen treten
+unabsichtlich kränken
 
 #### Verbklammer
 
@@ -110,8 +123,6 @@ Kasus determiniert durch
 
 - Verb
 - Präposition
-
-https://deutsch.lingolia.com/de/grammatik/praepositionen
 
 #### die Verbvalenz
 
@@ -218,12 +229,9 @@ LO: Lokal (Wo? Woher? Wohin?)
 ### Schreibaufgabe
 
 ::: tip
-Lisa trifft Peter im Frühling wegen des Sonnenscheins außerhalb des Englischer Gartens.
-
-Ich arbeitete für das Geld statt der Liebe leider in Hong Kong.
-
-Wir warten am Nachmittag wütend im Regen auf ihn.
-
+Lisa trifft Peter im Frühling wegen des Sonnenscheins außerhalb des Englischer Gartens.  
+Ich arbeitete für das Geld statt der Liebe leider in Hong Kong.  
+Wir warten am Nachmittag wütend im Regen auf ihn.  
 Er schenkt ihr am frühen Abend aus Angst einen schönen Blumenstrauß, weil er letzte Woche zu spät zur Verabredung gekommen ist.
 :::
 
@@ -247,3 +255,19 @@ um/für/bei
 
 diskutieren mit
 arbeiten an Thema/bei Firma
+
+::: tip negative Adjektiv
+Ihr missverständliches Gespräch brachte dem Publikum einen Tumult.  
+Ihre Vater war wirklich ungeduldig, ihre Mutter und sie zu verlassen.  
+Er war einmal arbeitslos und verdiente nichts.  
+Es war uninteressant, an einem langweiligen Geschäftstermin teilzunehmen.  
+Er war eigentlich unvernünftig, die Zulassung abzulehnen.  
+Ich weiß, dass Sie intolerant gegen Laktose sind.  
+Das alte Auto ist zu empfindlich und irreparabel.
+:::
+
+::: tip Der Fettnapf
+Und schon wieder reingetreten! An manchen Tagen lässt man kein Fettnäpfchen aus und sagt einfach immer nur das Falsche.
+
+„Du solltest auch mal was Neues mit deinen Haaren machen“, sagte ich neulich zu meiner Freundin. „Aber ich war doch gestern beim Friseur“, antwortete sie beleidigt. Da war es, das Fettnäpfchen – und ich war hineingetreten. Die Redewendung „ins Fettnäpfchen treten“ gibt es schon seit dem 19. Jahrhundert. In Bauernhäusern stand in der Küche immer ein Topf mit Fett für die Stiefel. Wenn man da aus Versehen hineintrat, verteilte man das Fett im ganzen Haus. Keine schöne Sache für die Person, die das dann wieder saubermachen musste. Heute sagt man „ich bin ins Fettnäpfchen getreten“, wenn man jemanden unabsichtlich gekränkt hat. Meine Freundin hat übrigens drei Tage nicht mit mir geredet. Aber sie hat jetzt einen neuen Friseur.
+:::

@@ -81,12 +81,21 @@ Going to the ballet would never occur to me. I would be totally bored there.
 
 ### Wörter
 
-| Deutsch         | Bedeutung      |
-| --------------- | -------------- |
-| der Felsen      | rock           |
-| einzigartig     | unique         |
-| überwältigend   | overwhelming   |
-| beleidigen      | insult, offend |
-| der Kasus       | case           |
-| wertig          | significant    |
-| die Gelegenheit | opportunity    |
+| Deutsch         | Bedeutung         |
+| --------------- | ----------------- |
+| der Felsen      | rock              |
+| einzigartig     | unique            |
+| überwältigend   | overwhelming      |
+| beleidigen      | insult, offend    |
+| der Kasus       | case              |
+| wertig          | significant       |
+| die Gelegenheit | opportunity       |
+| der Klang       | sound             |
+| der Strafzettel | 罚单              |
+| abholen         | pick up, fetch    |
+| die Panne       | technical problem |
+| wider           | against           |
+
+sitzen - saßen
+gehen - gingen
+sehen - sahen
