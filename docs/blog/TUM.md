@@ -38,3 +38,7 @@ discriminative / generative model
 ab\*a
 syntax: specification
 semantics: set of words
+
+https://cs231n.github.io/convolutional-networks/
+
+https://medium.com/@himanshuxd/activation-functions-sigmoid-relu-leaky-relu-and-softmax-basics-for-neural-networks-and-deep-8d9c70eed91e

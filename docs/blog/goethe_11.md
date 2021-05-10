@@ -60,7 +60,7 @@ For this reason, there was a misunderstanding.
 
 | bei Personen        | bei Sachen          |
 | ------------------- | ------------------- |
-| müde                | anstrengend         |
+| angestrengt         | anstrengend         |
 | verärgert           | ärgerlich           |
 | gestresst           | stressig            |
 | gespannt, aufgeregt | spannend, aufregend |

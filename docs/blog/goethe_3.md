@@ -765,7 +765,7 @@ Ich war 2018 in den USA. Das Reise war toll! Ich hatte wirklich viel Spaß. Ich 
 ::: tip
 Hallo Lola:
 
-Danke für das Wochenende bei euch in Berlin! Der Besuch im Museum war so toll! Der Samstagabend im klassischen Konzert war schön! Das Essen mit dir und Michael war auch sehr schön. Ich mag euer sonnig und moderne Wohnung.
+Danke für das Wochenende bei euch in Berlin! Der Besuch im Museum war so toll! Der Samstagabend im klassischen Konzert war schön! Das Essen mit dir und Michael war auch sehr schön. Ich mag euer sonnige und moderne Wohnung.
 
 Ich hatte wirklich viel Spaß.
 

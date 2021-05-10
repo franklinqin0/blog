@@ -81,21 +81,41 @@ Going to the ballet would never occur to me. I would be totally bored there.
 
 ### Wörter
 
-| Deutsch         | Bedeutung         |
-| --------------- | ----------------- |
-| der Felsen      | rock              |
-| einzigartig     | unique            |
-| überwältigend   | overwhelming      |
-| beleidigen      | insult, offend    |
-| der Kasus       | case              |
-| wertig          | significant       |
-| die Gelegenheit | opportunity       |
-| der Klang       | sound             |
-| der Strafzettel | 罚单              |
-| abholen         | pick up, fetch    |
-| die Panne       | technical problem |
-| wider           | against           |
+| Deutsch                | Bedeutung         |
+| ---------------------- | ----------------- |
+| der Felsen             | rock              |
+| einzigartig            | unique            |
+| überwältigend          | overwhelming      |
+| beleidigen             | insult, offend    |
+| der Kasus              | case              |
+| wertig                 | significant       |
+| die Gelegenheit        | opportunity       |
+| der Klang              | sound             |
+| der Strafzettel        | 罚单              |
+| abholen                | pick up, fetch    |
+| die Panne              | technical problem |
+| wider                  | against           |
+| das Abkommen           | agreement         |
+| die Erzeugung          | production        |
+| der Abfall             | garbage           |
+| ansässig               | resident          |
+| anregende              | stimulating       |
+| die Nachhaltigkeit     | sustainability    |
+| benehmen, das Benehmen | behave, behavior  |
+| der Benimm             | manner            |
+| einstellen             | adjust, hire      |
+| dreckig                | dirty             |
+
+frech
+beschweren
+schaffen
 
 sitzen - saßen
 gehen - gingen
 sehen - sahen
+
+Wie weit ist es von der TUM zum BMW Gebäude?  
+Mit dem Auto brauchen wir 15 Minuten, vorbei an der Goethestraße.
+
+Wenn sich ein Jugenlicher allerdings beim Vorstellungsgespräch oder im Praktikum nicht gut benimmt, dann schadet das dem Schüler ganz sicher, denn wer will schon jemanden einstellen, der nicht ordentlich grüßt, zu spät kommt oder sich mit „Hi” am Telefon meldet?  
+However, if a young person doesn't behave well at a job interview or internship, it certainly hurts the student, because who wants to hire someone who doesn't greet properly, show up late, or answer the phone with "Hi"?
