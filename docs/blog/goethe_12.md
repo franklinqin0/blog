@@ -152,13 +152,14 @@ Die anderen werden es dir danken!
 | Grüezi                    | Hallo                       |
 | die Sehenswürdigkeit      | place of interest           |
 | ausnutzen                 | exploit                     |
-| Terrassenfeld             | terrace field               |
+| das Terrassenfeld         | terrace field               |
 | der Proviant              | provision                   |
 | der Wintergarten          | conservatory, winter garden |
 | die Seilbahn              | cableway                    |
 | die Wolldecke             | wollen blanket              |
 | der Schlafsack            | sleeping bag                |
 | die Matratze              | mattress                    |
+| Das Lager                 | camp, bed                   |
 | das Matratzenlager        | mattress camp               |
 | die Ohrstöpsel            | earplug(s)                  |
 | die Stirnlampe            | headlight                   |
@@ -174,7 +175,7 @@ Die anderen werden es dir danken!
 | vermeiden                 | avoid                       |
 | der Dreck                 | dirt                        |
 | ausreichen, ausreichend   | genügen, genug              |
-| aufbrechen                | set out                     |
+| aufbrechen                | break, set out              |
 | wecken                    | awaken                      |
 | aufwecken                 | wake up                     |
 | die Rücksicht             | consideration               |

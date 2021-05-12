@@ -56,7 +56,7 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 eins
 | fakultativ                     | optional              |
 | zerschneiden                   | cut                   |
 | halt                           | simply                |
-| abstoßend                      | repulsive             |
+| abstoßen, abstoßend            | repel, repulsive      |
 | das Versehen                   | oversight             |
 | absichtlich                    | intentional           |
 | der Fettnapf, das Fettnäpfchen | 无心之过              |
@@ -77,7 +77,7 @@ Nachmieter finden
 Zeugnisse übersetzen lassen  
 Mietvertrag unterschreiben  
 Auto verkaufen  
-Handvertrag kündigen  
+Handyvertrag kündigen  
 Konto eröffnen  
 neue Stelle suchen  
 Arbeitsvertrag unterschreiben  

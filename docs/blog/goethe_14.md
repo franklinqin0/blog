@@ -17,43 +17,42 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 eins
 
 ### Wörter
 
-| Deutsch                           | Englisch         |
-| --------------------------------- | ---------------- |
-| der Auftakt                       | prelude          |
-| sich entsetzen, einsetzt          | be horrified     |
-| spenden, das Spenden              | donate           |
-| der Wettkampf                     | competition      |
-| schimpfen                         | scold            |
-| fällig                            | due              |
-| schreien                          | cry, shout       |
-| (sich) schimpfen                  | scold, call      |
-| flüstern                          | whisper          |
-| auf A. erwidern                   | antworten        |
-| (sich) behaupten                  | assert           |
-| stottern                          | stutter          |
-| widersprechen                     | contradict       |
-| sich nach D. erkundigen           | fragen           |
-| ablehnen                          | verneinen        |
-| kichern                           | giggle           |
-| heftig                            | violent          |
-| der Wohlstand                     | prosperity       |
-| nörgeln                           | moan             |
-| negieren                          | negate, reject   |
-| klönen, tratschen                 | quatschen        |
-| das Geschwätz                     | prattle, gossip  |
-| unterbrechen                      | interrupt, break |
-| der Tonfall                       | tone, intonation |
-| verraten                          | give away        |
-| eingebildet, hochnäsig, hochmütig | conceited        |
-| wahrnehmen                        | perceive         |
-| angemessen                        | appropriate      |
-| einprägen                         | memorize         |
-| einfallen                         | think of         |
-| oberflächlich                     | superficial      |
-| belanglos                         | trivial          |
-| nichtssagend                      | meaningless      |
-| in der Lage                       | able             |
-| auf Nummer sicher gehen           | play it safe     |
+| Deutsch                           | Englisch          |
+| --------------------------------- | ----------------- |
+| der Auftakt                       | prelude           |
+| sich einsetzen, einsetzt          | be horrified      |
+| spenden, das Spenden              | donate            |
+| der Wettkampf                     | competition       |
+| schimpfen                         | scold             |
+| fällig                            | due               |
+| schreien                          | cry, shout        |
+| flüstern                          | whisper           |
+| auf A. erwidern                   | antworten         |
+| (sich) behaupten                  | assert            |
+| stottern                          | stutter           |
+| widersprechen                     | contradict        |
+| sich nach D. erkundigen           | fragen            |
+| ablehnen                          | verneinen         |
+| kichern                           | giggle            |
+| heftig                            | violent           |
+| der Wohlstand                     | prosperity        |
+| nörgeln                           | moan              |
+| negieren                          | negate, reject    |
+| klönen, tratschen                 | quatschen         |
+| das Geschwätz                     | prattle, gossip   |
+| unterbrechen                      | interrupt, break  |
+| der Tonfall                       | tone, intonation  |
+| verraten                          | betray, give away |
+| eingebildet, hochnäsig, hochmütig | conceited         |
+| wahrnehmen                        | perceive          |
+| angemessen                        | appropriate       |
+| einprägen                         | memorize          |
+| einfallen                         | think of          |
+| oberflächlich                     | superficial       |
+| belanglos                         | trivial           |
+| nichtssagend                      | meaningless       |
+| in der Lage                       | able              |
+| auf Nummer sicher gehen           | play it safe      |
 
 https://mein-deutschbuch.de/grammatikuebungen-praepositional-ergaenzung.html
 
@@ -87,3 +86,6 @@ Gleichheit
 
 Ungleichheit  
 Komparativ + als, anders + als, etwas/nichts anderes + als
+
+Er verneint Gewalt in allen Formen.
+他拒绝任何形式的暴力。
