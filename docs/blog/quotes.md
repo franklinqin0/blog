@@ -120,6 +120,7 @@ Oscar Wilde
 
 - The difference between stupidity and genius is that genius has it limits.
 - Education is what remains after one has forgotten everything one learned in school.
+- The most incomprehensible thing about the world is that it is comprehensible.
 
 ::: right
 Albert Einstein
@@ -239,6 +240,12 @@ Lewis F. Richardson
 Be fearful when others are greedy. Be greedy when others are fearful.
 ::: right
 Warren Buffett
+:::
+
+::: tip
+All understanding begins with our not accepting the world as it appears
+::: right
+Susan Sontag
 :::
 
 ### Chinese

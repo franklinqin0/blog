@@ -53,6 +53,19 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 eins
 | nichtssagend                      | meaningless       |
 | in der Lage                       | able              |
 | auf Nummer sicher gehen           | play it safe      |
+| eilig                             | urgent            |
+| gewittern, das Gewitter           | thunder           |
+| der Genosse                       | member, comrade   |
+| der Artgenosse                    | 同类              |
+| die Botschaft                     | message, emabssy  |
+| beruhigen                         | calm down         |
+| impfen                            | vaccinate         |
+| die Gebärdensprache               | sign language     |
+| die Auffassung                    | view              |
+| stichhaltig                       | sound, valid      |
+| abwechseln, abwechselnd           | alternate         |
+| die Effektivität                  | effectiveness     |
+| vernachlässigen                   | ignore, neglect   |
 
 https://mein-deutschbuch.de/grammatikuebungen-praepositional-ergaenzung.html
 
@@ -87,5 +100,26 @@ Gleichheit
 Ungleichheit  
 Komparativ + als, anders + als, etwas/nichts anderes + als
 
-Er verneint Gewalt in allen Formen.
+Er verneint Gewalt in allen Formen.  
 他拒绝任何形式的暴力。
+
+die Frohe Botschaft  
+(Christianity) the Gospel
+
+sich handeln um  
+gehen um
+
+Worum geht es?  
+What is the issue?
+
+Worum handelt es sich?
+What is it about?
+
+von D. abhängen  
+depend on
+
+an A. denken  
+consider, think of
+
+über ein Thema denken
+think about a topic

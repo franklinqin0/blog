@@ -23,7 +23,9 @@ class TreeNode:
 
 Let $n$ be the number of nodes in the tree.
 
-> Do not return anything, modify root in-place instead.
+::: theorem
+Do not return anything, modify root in-place instead.
+:::
 
 ### Recursive DFS
 
@@ -52,9 +54,7 @@ def flatten(self, root: TreeNode) -> None:
 
 ### Reverse Preorder Traversal
 
-From [here](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/37154/8-lines-of-python-solution-(reverse-preorder-traversal):
-
-The following code traverses in reversed preorder and uses `self.prev` to record the ordered right subtree.
+Solve the right subtree before the left. After a subtree is flattened, the root is left appended to `self.prev`.
 
 ::: theorem Complexity
 time: $O(n)$  
@@ -62,22 +62,26 @@ space: $O(n)$ (due to implicit stack space)
 :::
 
 ```py
-class Solution:
-    def __init__(self):
-        self.prev = None
-    def flatten(self, root: TreeNode) -> None:
-        if not root:
-            return None
-        self.flatten(root.right)
-        self.flatten(root.left)
+self.prev = None
+def flatten(self, root: TreeNode) -> None:
+    if not root:
+        return None
+    self.flatten(root.right)
+    self.flatten(root.left)
 
-        # point to the prev ordered tree
-        root.right = self.prev
-        # remove the left part of current node
-        root.left = None
-        # add root to ordered tree
-        self.prev = root
+    # point to the prev ordered tree
+    root.right = self.prev
+    # remove the left part of current node
+    root.left = None
+    # add root to ordered tree
+    self.prev = root
 ```
+
+## Follow Up
+
+::: theorem
+Can you flatten the tree in-place (with $O(1)$ extra space)?
+:::
 
 ### Morris Traversal
 
@@ -97,7 +101,7 @@ def flatten(self, root: TreeNode) -> None:
     while node:
         # if the node has a left child
         if node.left:
-            # find the rightmost node
+            # find the rightmost node of left subtree
             rightmost = node.left
             while rightmost.right:
                 rightmost = rightmost.right

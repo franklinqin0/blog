@@ -105,6 +105,10 @@ Going to the ballet would never occur to me. I would be totally bored there.
 | der Benimm             | manner            |
 | einstellen             | adjust, hire      |
 | dreckig                | dirty             |
+| die Droge              | drug              |
+| der Ursprung           | origin            |
+| das Gewicht            | weight            |
+| der Bischof            | bishop            |
 
 frech
 beschweren

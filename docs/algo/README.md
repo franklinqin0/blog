@@ -5,6 +5,10 @@ date: 2020-10-14
 
 This site is composed of notes for algorithm problems I solved, mainly on [LeetCode](https://leetcode.com).
 
+## What is an Algorithm
+
+An algorithm is a sequence of steps, which solves a problem when carried out in order.
+
 ## Why I Am Doing This
 
 While most people do LeetCode to find a (better) job, I do it for multiple reasons: review my algorithm knowledge, improve coding skills, and of course be ready to find a CS job.
