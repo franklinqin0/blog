@@ -24,8 +24,8 @@ jobs:
 
       # deploy to Github Pages
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v4
+        uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          token: ${{ secrets.ACCESS_TOKEN }}
-          branch: gh-pages
-          folder: build
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: docs/.vuepress/dist
