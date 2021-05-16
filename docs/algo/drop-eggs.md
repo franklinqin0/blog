@@ -6,13 +6,14 @@ tags:
   - Recursion
 related:
   - super-egg-drop
+next: super-egg-drop
 ---
 
 <img class="medium-zoom" src="/algo/drop-eggs.png" alt="https://www.lintcode.com/problem/drop-eggs">
 
 ## Solution
 
-See [this video](https://youtu.be/mLV_vOet0ss) for perfect explanation on this problem and [the following harder problem](super-egg-drop).
+See [this video in Chinese](https://youtu.be/mLV_vOet0ss) for perfect explanation on this problem and the following harder problem [Super Egg Drop](super-egg-drop).
 
 ### Math
 

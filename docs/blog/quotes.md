@@ -243,7 +243,7 @@ Warren Buffett
 :::
 
 ::: tip
-All understanding begins with our not accepting the world as it appears
+All understanding begins with our not accepting the world as it appears.
 ::: right
 Susan Sontag
 :::

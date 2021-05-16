@@ -11,7 +11,7 @@ related:
 
 <img class="medium-zoom" src="/algo/sliding-puzzle.png" alt="https://leetcode.com/problems/sliding-puzzle">
 
-## Input Parameters
+## Input & Output
 
 ```py
 @param board: the given board

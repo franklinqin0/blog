@@ -9,7 +9,7 @@ related:
 
 <img class="medium-zoom" src="/algo/modern-ludo.png" alt="https://www.lintcode.com/problem/modern-ludo-i">
 
-## Input Parameters
+## Input & Output
 
 ```py
 @param length: the length of board

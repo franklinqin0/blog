@@ -361,7 +361,7 @@ My profession is my passion.
 | der Zugang                                    | access                   |
 | erben                                         | inherit                  |
 | das Quartier/die Unterkunft                   | accommodation            |
-| anspruchen, der Anspruch                      | demand                   |
+| anspruchen, der Anspruch                      | claim, demand            |
 | schließlich                                   | at last                  |
 | vorhin                                        | a short time ago         |
 | der Abstand                                   | distance                 |

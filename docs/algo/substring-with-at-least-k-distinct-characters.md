@@ -8,7 +8,7 @@ tags:
 
 <img class="medium-zoom" src="/algo/substring-with-at-least-k-distinct-characters.png" alt="https://www.lintcode.com/problem/substring-with-at-least-k-distinct-characters">
 
-## Input Parameters
+## Input & Output
 
 ```py
 @param s: a string

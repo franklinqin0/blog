@@ -288,11 +288,11 @@ Nur die 3. Person hat im Singular und Plural eine eigene Form: sich.
 | das Bauernbrot             | farmer's bread             |
 | das Gemisch                | mixture                    |
 | die Gabel                  | fork                       |
-| beschweren                 | weight, complain           |
 | das Messer                 | knife                      |
 | der Löffel                 | spoon                      |
 | der Pfeffer                | pepper                     |
 | die Rolle                  | role                       |
+| beschweren                 | weight, complain           |
 | Aufgabe                    | task                       |
 | Ablauf, Abläufe            | procedure(s)               |
 | bekannt                    | known, famous              |

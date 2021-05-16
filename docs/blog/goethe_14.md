@@ -43,6 +43,7 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 eins
 | unterbrechen                      | interrupt, break  |
 | der Tonfall                       | tone, intonation  |
 | verraten                          | betray, give away |
+| gebildet                          | educated          |
 | eingebildet, hochnäsig, hochmütig | conceited         |
 | wahrnehmen                        | perceive          |
 | angemessen                        | appropriate       |

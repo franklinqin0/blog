@@ -29,7 +29,7 @@ Let $h$ be the height and $n$ be the number of nodes of the trie.
 See more about Trie in [Interview Algorithms](/blog/interview_algo.md#trie).
 
 ::: theorem Complexity
-time: $O(h)$ (worst case: $O(n)$, if the input is `.....` $\cdots$, then traverse all nodes)  
+time: $O(h)$ (worst case: $O(n)$, if the input is `....`, then traverse all nodes)  
 space: $O(n)$
 :::
 

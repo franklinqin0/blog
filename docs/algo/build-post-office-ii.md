@@ -11,7 +11,7 @@ related:
 
 <img class="medium-zoom" src="/algo/build-post-office-ii.png" alt="https://www.lintcode.com/problem/build-post-office-ii">
 
-## Input Parameters
+## Input & Output
 
 ```py
 @param grid: a 2D grid

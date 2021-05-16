@@ -10,13 +10,13 @@ publish: false
 
 <!-- more -->
 
-_conjugate transpose_: $A^{†} = (A^{*})^{T}$
+_conjugate transpose_: $A^{\dagger} = (A^{\star})^{T}$
 
-_Hermitian_: $A^{†} = A$
+_Hermitian_: $A^{\dagger} = A$
 
-_unitary_: $A^{-1} = A^{†}$ or $A^{†} A = I$
+_unitary_: $A^{-1} = A^{\dagger}$ or $A^{\dagger} A = I$
 
-_normal_: $A A^{†} = A^{†} A$
+_normal_: $A A^{\dagger} = A^{\dagger} A$
 
 _orthonormal_: each vector is a unit vector, and distinct vectors in the set form an orthogonal basis $q_1, \cdots q_n$  
 $q_{i}^{T} q_j  = \sigma_{ij}$

@@ -11,7 +11,7 @@ related:
 
 <img class="medium-zoom" src="/algo/number-of-big-islands.png" alt="https://www.lintcode.com/problem/number-of-big-islands">
 
-## Input Parameters
+## Input & Output
 
 ```py
 @param grid: a 2d boolean array

@@ -11,7 +11,7 @@ related:
 
 <img class="medium-zoom" src="/algo/sliding-puzzle-ii.png" alt="https://www.lintcode.com/problem/sliding-puzzle-ii">
 
-## Input Parameters
+## Input & Output
 
 ```py
 @param init_state: the initial state of chessboard

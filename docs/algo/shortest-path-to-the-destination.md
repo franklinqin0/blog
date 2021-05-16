@@ -7,7 +7,7 @@ tags:
 
 <img class="medium-zoom" src="/algo/shortest-path-to-the-destination.png" alt="https://www.lintcode.com/problem/shortest-path-to-the-destination">
 
-## Input Parameters
+## Input & Output
 
 ```py
 @param targetMap: [[int]]

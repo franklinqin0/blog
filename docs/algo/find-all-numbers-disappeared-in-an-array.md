@@ -3,6 +3,7 @@ title: Find All Numbers Disappeared in an Array
 diff: easy
 tags:
   - Array
+  - Hash Table
 ---
 
 <img class="medium-zoom" src="/algo/find-all-numbers-disappeared-in-an-array.png" alt="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array">

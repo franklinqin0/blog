@@ -19,7 +19,9 @@ import random
 from heapq improt heappush, heappop
 ```
 
-## Trie
+## Graph & Tree
+
+### Trie
 
 Trie (we pronounce "try") or prefix tree is a tree data structure, which is used for retrieval of a key in a dataset of strings. There are various applications of this very efficient data structure such as:
 
@@ -38,11 +40,20 @@ Another reason why trie outperforms hash table, is that as hash table increases 
 
 [Here](https://leetcode.com/discuss/general-discussion/1066206/introduction-to-trie) is a nice article explaining the implementation in both Java and Python.
 
-## BFS
+### BFS
 
-## Dijkstra's Algorithm
+### DFS
 
-## A\* Algorithm
+When to use BFS instead of DFS?
+
+- when key words like **shortest path** or **least times** show up
+- traverse in a matrix
+- layered traverse
+- exponential complexity requires bidirectional BFS to reduce complexity
+
+### Dijkstra's Algorithm
+
+### A\* Algorithm
 
 [A video explanation](https://youtu.be/mZfyt03LDH4)
 
@@ -52,28 +63,23 @@ Another reason why trie outperforms hash table, is that as hash table increases 
 
 $F = G + H$, where $F$ is the estimated distance (priority), $G$ is the actual distance travelled from source (depth), and $H$ is the heuristic distance to the target.
 
-## DFS
+### Jump Point Search
 
-When to use BFS instead of DFS?
+[paper](http://users.cecs.anu.edu.au/~dharabor/data/papers/harabor-grastien-aaai11.pdf)
 
-- when key words like **shortest path** or **least times** show up
-- traverse in a matrix
-- layered traverse
-- exponential complexity requires bidirectional BFS to reduce complexity
-
-## Backtracking
+### Backtracking
 
 a methodology where we mark the current path of exploration, if the path does not lead to a solution, we then revert the change (i.e. backtracking) and try another path.
 
-### Note
+#### Note
 
 Consider what happens to the root, leaf, and other nodes respectively. Define the entrance and exit clearly.
 
-### Why
+#### Why
 
 Search for answers in a tree. Enumerate all the possibilities.
 
-### Shortcomings
+#### Shortcomings
 
 High time complexity(all nodes). Recursion can be hard to understand.
 
@@ -88,9 +94,9 @@ $n = 10^4~10^6$ $\rightarrow$ $O(n \log n)$
 $n = 10^3$ $\rightarrow$ $O(n^2)$
 $n <= 20$ $\rightarrow$ $O(2^n)$ (DFS)
 
-## Search
+## Array Search
 
-### Linear search
+### Linear Search
 
 ```py
 def linear_search(arr, c):
@@ -132,7 +138,7 @@ def binary_search(arr, c):
     return i if (i < len(arr) and arr[i] == c) else -1
 ```
 
-## Sorting Algorithms
+## Array Sorting
 
 ### Dutch National Flag
 

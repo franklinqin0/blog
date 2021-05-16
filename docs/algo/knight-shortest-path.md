@@ -10,7 +10,7 @@ related:
 
 <img class="medium-zoom" src="/algo/knight-shortest-path.png" alt="https://www.lintcode.com/problem/knight-shortest-path">
 
-## Input Parameters
+## Input & Output
 
 ```py
 @param grid: a chessboard included 0 (false) and 1 (true)

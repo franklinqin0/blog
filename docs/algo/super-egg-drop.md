@@ -6,13 +6,14 @@ tags:
   - DP
 related:
   - drop-eggs
+prev: drop-eggs
 ---
 
 <img class="medium-zoom" src="/algo/super-egg-drop.png" alt="https://leetcode.com/problems/super-egg-drop">
 
 ## Solution
 
-See [this video](https://youtu.be/mLV_vOet0ss) for perfect explanation on this problem and [the previous easier problem](drop_eggs).
+See [this video in Chinese](https://youtu.be/mLV_vOet0ss) for perfect explanation on this problem and the previous easier problem [Drop Eggs](drop_eggs).
 
 Let $i$ be the one of `K` eggs, and $j$ be one of the `N` floors.
 
@@ -26,7 +27,7 @@ $$dp(i, j) = \min_{1 \le k \le j}\left(\max(dp(i-1, k-1), dp(i, j-k)) \right)$$
 
 If `i`th egg breaks at `k`th floor, there are `i-1` eggs left and critical floor exists below `k`, so problem is reduced to `res[i-1][k-1]`.
 
-Else, `i`th egg doesn't break and critical floor exists btw `k` and `j`, so problem is reduced to `res[i][k-j]`.
+Else, `i`th egg doesn't break and critical floor exists btw `k` and `j`, so problem is reduced to `res[i][j-k]`.
 
 Note:
 
@@ -41,7 +42,7 @@ space: $O(KN)$
 
 ```py
 def superEggDrop(self, K, N):
-    res = [[sys.maxsize for + in range(N+1)] for _ in range(K+1)]
+    res = [[sys.maxsize for _ in range(N+1)] for _ in range(K+1)]
 
     for i in range(1, K+1):
         res[i][0] = 0

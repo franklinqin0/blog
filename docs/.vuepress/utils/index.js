@@ -2,16 +2,21 @@
  * generate sidebar array
  */
 const utils = {
-  genSidebar: function (title, children = [''], collapsable = true, sidebarDepth = 0) {
+  genSidebar: function(
+    title,
+    children = [""],
+    collapsable = true,
+    sidebarDepth = 2
+  ) {
     var arr = new Array();
     arr.push({
       title,
       collapsable,
       sidebarDepth,
-      children
-    })
+      children,
+    });
     return arr;
-  }
+  },
 };
 
 module.exports = utils;

@@ -9,7 +9,7 @@ tags:
 
 ## Solution
 
-Note that `knows(a: int, b: int)` returns a `bool`, and it takes $O(n)$ time to check if a person is a celebrity.
+`knows(a: int, b: int) -> bool` takes $O(n)$ time to check if a person is a celebrity.
 
 ### Brute Force
 
@@ -25,7 +25,7 @@ def findCelebrity(self, n):
     for i in range(n):
         founded = True
         for j in range(n):
-            if i==j:
+            if i == j:
                 continue
             founded = founded and (knows(j,i) and not knows(i,j))
         if founded:

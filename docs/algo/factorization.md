@@ -7,7 +7,7 @@ tags:
 
 <img class="medium-zoom" src="/algo/factorization.png" alt="https://lintcode.com/problem/factorization">
 
-## Input Parameters
+## Input & Output
 
 ```py
 @param n: an integer
