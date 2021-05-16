@@ -9,10 +9,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "push": "bash push.sh"
+    "build": "vuepress build docs"
   },
   "dependencies": {
+    "moment": "^2.29.1",
     "vue-class-component": "^7.2.3"
   },
   "devDependencies": {
