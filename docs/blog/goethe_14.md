@@ -6,10 +6,11 @@ categories:
 tags:
   - Deutsch
 prev: goethe_13
+next: goethe_15
 publish: false
 ---
 
-Deutsch Notizen für Deutsch als Fremdsprache - B2.1 eins
+Deutsch Notizen für Deutsch als Fremdsprache - B2.1 zwei
 
 <!-- more -->
 
@@ -17,56 +18,58 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 eins
 
 ### Wörter
 
-| Deutsch                           | Englisch          |
-| --------------------------------- | ----------------- |
-| der Auftakt                       | prelude           |
-| sich einsetzen, einsetzt          | be horrified      |
-| spenden, das Spenden              | donate            |
-| der Wettkampf                     | competition       |
-| schimpfen                         | scold             |
-| fällig                            | due               |
-| schreien                          | cry, shout        |
-| flüstern                          | whisper           |
-| auf A. erwidern                   | antworten         |
-| (sich) behaupten                  | assert            |
-| stottern                          | stutter           |
-| widersprechen                     | contradict        |
-| sich nach D. erkundigen           | fragen            |
-| ablehnen                          | verneinen         |
-| kichern                           | giggle            |
-| heftig                            | violent           |
-| der Wohlstand                     | prosperity        |
-| nörgeln                           | moan              |
-| negieren                          | negate, reject    |
-| klönen, tratschen                 | quatschen         |
-| das Geschwätz                     | prattle, gossip   |
-| unterbrechen                      | interrupt, break  |
-| der Tonfall                       | tone, intonation  |
-| verraten                          | betray, give away |
-| gebildet                          | educated          |
-| eingebildet, hochnäsig, hochmütig | conceited         |
-| wahrnehmen                        | perceive          |
-| angemessen                        | appropriate       |
-| einprägen                         | memorize          |
-| einfallen                         | think of          |
-| oberflächlich                     | superficial       |
-| belanglos                         | trivial           |
-| nichtssagend                      | meaningless       |
-| in der Lage                       | able              |
-| auf Nummer sicher gehen           | play it safe      |
-| eilig                             | urgent            |
-| gewittern, das Gewitter           | thunder           |
-| der Genosse                       | member, comrade   |
-| der Artgenosse                    | 同类              |
-| die Botschaft                     | message, emabssy  |
-| beruhigen                         | calm down         |
-| impfen                            | vaccinate         |
-| die Gebärdensprache               | sign language     |
-| die Auffassung                    | view              |
-| stichhaltig                       | sound, valid      |
-| abwechseln, abwechselnd           | alternate         |
-| die Effektivität                  | effectiveness     |
-| vernachlässigen                   | ignore, neglect   |
+| Deutsch                           | Englisch                                       |
+| --------------------------------- | ---------------------------------------------- |
+| der Auftakt                       | prelude                                        |
+| sich einsetzen, einsetzt          | be horrified                                   |
+| spenden, das Spenden              | donate                                         |
+| der Wettkampf                     | competition                                    |
+| schimpfen                         | scold                                          |
+| fällig                            | due                                            |
+| schreien                          | cry, shout                                     |
+| flüstern                          | whisper                                        |
+| auf A. erwidern                   | antworten                                      |
+| erläutern                         | erklären                                       |
+| (sich) behaupten                  | assert                                         |
+| stottern                          | stutter                                        |
+| widersprechen                     | contradict                                     |
+| sich nach D. erkundigen           | fragen                                         |
+| ablehnen                          | verneinen                                      |
+| kichern                           | leise lachen                                   |
+| heftig                            | violent                                        |
+| der Wohlstand                     | prosperity                                     |
+| nörgeln                           | moan                                           |
+| negieren                          | negate, reject                                 |
+| klönen, tratschen                 | quatschen                                      |
+| das Geschwätz                     | prattle, gossip                                |
+| unterbrechen                      | interrupt, break                               |
+| der Tonfall                       | tone, intonation                               |
+| verraten                          | betray, give away, reveal, tell sb. about sth. |
+| gebildet                          | educated                                       |
+| eingebildet, hochnäsig, hochmütig | conceited                                      |
+| wahrnehmen                        | perceive                                       |
+| angemessen                        | appropriate                                    |
+| einprägen                         | memorize                                       |
+| einfallen                         | think of                                       |
+| oberflächlich                     | superficial                                    |
+| belanglos                         | trivial                                        |
+| nichtssagend                      | meaningless                                    |
+| in der Lage                       | able                                           |
+| auf Nummer sicher gehen           | play it safe                                   |
+| eilig                             | urgent                                         |
+| gewittern, das Gewitter           | thunder                                        |
+| der Genosse                       | member, comrade                                |
+| der Artgenosse                    | 同类                                           |
+| die Botschaft                     | message, emabssy                               |
+| beruhigen                         | calm down                                      |
+| impfen                            | vaccinate                                      |
+| die Gebärdensprache               | sign language                                  |
+| die Auffassung                    | view                                           |
+| stichhaltig                       | sound, valid                                   |
+| abwechseln, abwechselnd           | alternate                                      |
+| die Effektivität                  | effectiveness                                  |
+| vernachlässigen                   | ignore, neglect                                |
+| bejahen                           | zustimmen, ja sagen                            |
 
 https://mein-deutschbuch.de/grammatikuebungen-praepositional-ergaenzung.html
 
