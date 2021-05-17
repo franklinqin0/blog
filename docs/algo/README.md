@@ -43,7 +43,7 @@ Following is the structure for each blog:
   - state the brute force solution
   - elaboration of algo
   - time&space complexities
-  - code
+  - code (the boilerplate `class Solution:` is ommited)
 - follow up or note if any
 
 ## Coda

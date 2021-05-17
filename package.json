@@ -12,7 +12,6 @@
     "build": "vuepress build docs"
   },
   "dependencies": {
-    "moment": "^2.29.1",
     "vue-class-component": "^7.2.3"
   },
   "devDependencies": {

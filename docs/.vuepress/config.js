@@ -134,18 +134,7 @@ module.exports = {
         ga: "UA-146843725-3",
       },
     ],
-    [
-      "@vuepress/last-updated",
-      {
-        transformer: (timestamp, lang) => {
-          const moment = require("moment");
-          moment.locale(lang);
-          return moment(timestamp)
-            .format("LL")
-            .toString();
-        },
-      },
-    ],
+    ["@vuepress/last-updated", false],
   ],
   markdown: {
     lineNumbers: false,

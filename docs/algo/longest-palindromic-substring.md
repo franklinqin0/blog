@@ -26,7 +26,7 @@ time: $O(n^3)$
 space: $O(1)$
 :::
 
-The `brute force` solution can be further optimized to `expand around center` by expanding one char at a time in left and right direction under odd and even cases.
+The `brute force` solution can be further optimized to `expand around center` by expanding one char at a time in the left and right direction under odd and even cases.
 
 ```py
 def longestPalindrome(self, s: str) -> str:
