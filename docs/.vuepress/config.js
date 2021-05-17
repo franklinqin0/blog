@@ -138,10 +138,11 @@ module.exports = {
       "@vuepress/last-updated",
       {
         transformer: (timestamp, lang) => {
-          // Don't forget to install moment yourself
           const moment = require("moment");
           moment.locale(lang);
-          return moment(timestamp).fromNow();
+          return moment(timestamp)
+            .format("LL")
+            .toString();
         },
       },
     ],
