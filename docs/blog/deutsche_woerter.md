@@ -115,6 +115,8 @@ Going to the ballet would never occur to me. I would be totally bored there.
 | sich ablösen           | become detached              |
 | anhänglich             | devoted, affectionate 亲近的 |
 | die Parline            | filled chocolate             |
+| der Anlass             | reason                       |
+| stornieren             | cancel                       |
 
 frech
 beschweren
