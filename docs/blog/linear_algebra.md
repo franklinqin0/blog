@@ -14,9 +14,9 @@ _conjugate transpose_: $A^{\dagger} = (A^{\star})^{T}$
 
 _Hermitian_: $A^{\dagger} = A$
 
-_unitary_: $A^{-1} = A^{\dagger}$ or $A^{\dagger} A = I$
-
 _normal_: $A A^{\dagger} = A^{\dagger} A$
+
+_unitary_: $A^{-1} = A^{\dagger}$ or $A A^{\dagger} = A^{\dagger} A = I$
 
 _orthonormal_: each vector is a unit vector, and distinct vectors in the set form an orthogonal basis $q_1, \cdots q_n$  
 $q_{i}^{T} q_j  = \sigma_{ij}$
@@ -42,8 +42,8 @@ $v$ in $Nul(A^T)$ = $v \perp Col(A)$
 $Ax = b$ may have no solution, instead solve $A \hat{x} = p$  
 _Projection matrix_: symmetric($P^{T} = P$) and effective only once($P^2 = P$)  
 project onto $A$'s column space: $P = A(A^T A)^{-1} A^T$  
-$\hat{x} = (A^T A)^{-1} A^T b$  
-$p = A\hat{x} = Pb = A(A^T A)^{-1} A^T b$
+$p = A\hat{x} = Pb = A(A^T A)^{-1} A^T b$  
+Least Squares solution: $A^{T} A x = A^{T} b \longrightarrow \hat{x} = (A^T A)^{-1} A^{T} b$
 
 Every symmetric matrix is a linear combination of orthogonal projection matrices.
 
@@ -54,9 +54,6 @@ Positive definite matrix is symmetric. All eigenvalues are positive. All pivots 
 product of pivots = products of eigenvalues?
 
 If $A$ has independent columns, then $A^{T} A$ is invertible.
-
-Least Squares
-$A^{T} A x = A^{T} b$
 
 Pythogarean theorem: if $x$ and $y$ are orthogonal ($x^T y = 0$), then  
 $\| x \|^2 + \| y \|^2 = \| x + y \|^2$
