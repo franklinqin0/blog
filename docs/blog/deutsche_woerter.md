@@ -117,6 +117,14 @@ Going to the ballet would never occur to me. I would be totally bored there.
 | die Parline            | filled chocolate             |
 | der Anlass             | reason                       |
 | stornieren             | cancel                       |
+| die Luftblase          | air bubble                   |
+| der Betrag             | amount                       |
+| die Anreise            | arrival                      |
+| das Verbrechen         | crime                        |
+| gespannt               | eager                        |
+| schwitzen              | sweaten                      |
+| köstlich               | delicious                    |
+| die Auswahl            | choice                       |
 
 frech
 beschweren

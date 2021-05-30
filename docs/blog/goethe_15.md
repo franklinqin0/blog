@@ -17,48 +17,47 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 drei
 
 ### Wörter
 
-| Deutsch                            | Englisch                                               |
-| ---------------------------------- | ------------------------------------------------------ |
-| der Einsatz                        | usage, dedication                                      |
-| das Start-up                       | start-up                                               |
-| abwechslungsreich                  | nicht langweilig/monoton, sondern immer anders und neu |
-| der Nervenkitzel                   | thrill                                                 |
-| sekundär                           | secondary                                              |
-| künftig                            | future                                                 |
-| der Zeitvertreib                   | pastime                                                |
-| das Fingerspitzengefühl            | feeling                                                |
-| der Maskenbildner                  | makeup artist                                          |
-| der Ausdauer                       | perseverance                                           |
-| die Genauigkeit                    | accuracy                                               |
-| das Geschick                       | skill, fate                                            |
-| stimmen                            | tune (instrument)                                      |
-| entwerfen                          | design                                                 |
-| entnehmen                          | remove, take from                                      |
-| vereinbaren                        | arrange                                                |
-| die Verletzung                     | injury                                                 |
-| die Skizze                         | sketch                                                 |
-| anfertigen                         | draw up                                                |
-| teilweise                          | partly                                                 |
-| der Bestandteil                    | eine Komponente                                        |
-| überweisen, die Überweisung        | wire/bank transfer                                     |
-| der Duft                           | scent                                                  |
-| das Gehör                          | hearing                                                |
-| die Zunge                          | tongue                                                 |
-| der/die Vorgesetzte                | der Chef                                               |
-| der Unterhalt, der Lebensunterhalt | living                                                 |
-| ausüben                            | exercise, practice sth.                                |
-| die Erhöhung                       | raising                                                |
-| der Verdienst                      | income                                                 |
-| nicht eintönig                     | abwechslungsreich                                      |
-| hervorragend                       | besonders gut                                          |
-| das Fingerspitzengefühl            | ein feines Gefühl                                      |
-| umgestalten                        | etwas reformieren                                      |
-| restaurieren                       | renovieren                                             |
-| der Nervenkitzel                   | Spannung einer Situation                               |
-| selbstständig                      | freiberuflich                                          |
-| entlassen                          | kündigen (dismiss, lay off)                            |
-| die Pinnwand                       | pinboard                                               |
-| einrichten                         | Möbeln/Geräten ausstatten                              |
+| Deutsch                            | Englisch                    |
+| ---------------------------------- | --------------------------- |
+| der Einsatz                        | usage, dedication           |
+| das Start-up                       | start-up                    |
+| die Abwechslung                    | variety, change             |
+| abwechslungsreich                  | nicht eintönig              |
+| sekundär                           | secondary                   |
+| künftig                            | future                      |
+| der Zeitvertreib                   | pastime                     |
+| der Maskenbildner                  | makeup artist               |
+| der Ausdauer                       | perseverance                |
+| die Genauigkeit                    | accuracy                    |
+| das Geschick                       | skill, fate                 |
+| stimmen                            | tune (instrument)           |
+| entwerfen                          | design                      |
+| entnehmen                          | remove, take from           |
+| vereinbaren                        | agree,arrange               |
+| die Verletzung                     | injury                      |
+| die Skizze                         | sketch                      |
+| anfertigen                         | draw up                     |
+| teilweise                          | partly                      |
+| der Bestandteil                    | eine Komponente             |
+| überweisen, die Überweisung        | wire/bank transfer          |
+| der Duft                           | scent                       |
+| das Gehör                          | hearing                     |
+| die Zunge                          | tongue                      |
+| der/die Vorgesetzte                | der Chef                    |
+| der Unterhalt, der Lebensunterhalt | living                      |
+| ausüben                            | exercise, practice sth.     |
+| die Erhöhung                       | raising                     |
+| der Verdienst                      | income                      |
+| hervorragend                       | besonders gut               |
+| das Fingerspitzengefühl            | ein feines Gefühl           |
+| umgestalten                        | etwas reformieren           |
+| restaurieren                       | renovieren                  |
+| der Nervenkitzel                   | Spannung einer Situation    |
+| selbstständig                      | freiberuflich               |
+| entlassen                          | kündigen (dismiss, lay off) |
+| die Pinnwand                       | pinboard                    |
+| einrichten                         | Möbeln/Geräten ausstatten   |
+| gängig                             | common                      |
 
 #### die Sinne
 
@@ -66,7 +65,7 @@ der Geruchssinn
 riechen &ensp; die Nase &ensp; der Duft &ensp; der Geruch &ensp; stinken &ensp; der Gestank
 
 das Gehör  
-hören &ensp; das Ohr &ensp; der Klang, klingen
+hören &ensp; das Ohr &ensp; der Klang &ensp; klingen
 
 der Geschmackssinn  
 schmecken &ensp; die Zunge/der Mund &ensp; der Geschmack
@@ -103,7 +102,7 @@ issue a remittance
 Verletzungen untersuchen  
 examine injuries
 
-Verträge aufsetzen
+Verträge aufsetzen  
 draft contracts
 
 Stoffe aussuchen  

@@ -43,22 +43,27 @@ Code should be designed around data instead of the other way around. Thus, build
 
 Through careful review over ORIE 3310 course notes, and help of Cornell professors, I was able to realize the algorithm in code. In the following, I will restrict to the math formulations of IP rather than code.
 
-What is integer programming? According to [Wikipedia](https://en.wikipedia.org/wiki/Integer_programming), _it is a mathematical optimization or feasibility program in which some or all of the variables are restricted to be integers. In many settings, the term refers to integer linear programming (ILP), in which the objective function and the constraints (other than the integer constraints) are linear._
+What is integer programming? According to [Wikipedia](https://en.wikipedia.org/wiki/Integer_programming), _it is a mathematical optimization or feasibility program in which some or all of the variables are restricted to be integers. In many settings, the term refers to **integer linear programming (ILP)**, in which the objective function and the constraints (other than the integer constraints) are linear._
 
-Here is an **integer linear program** in canonical form:
+Here is an **linear program** in canonical form:
 
 $$
 \begin{array}{ll}
 \text{maximize} & \mathbf{c}^{\mathrm{T}} \mathbf{x} \\
 \text{subject to} & A \mathbf{x} \le \mathbf{b} \\
-& \mathbf{x} \ge \mathbf{0} \\
-\text{and} & \mathbf{x} \in \mathbb{Z}^{n}
+& \mathbf{x} \ge \mathbf{0}
 \end{array}
 $$
 
-A **linear program** in canonical form is similar but omits the integrality constraint.
+An **integer linear program (ILP)** has the additional integrality constraints: $\mathbf{x} \in \mathbb{Z}^{n}$.
 
-In the following math formulations, all decision variables are binary: $0$ or $1$, which is a special case of integer programming, and a usual practice for [assignment problems](https://developers.google.com/optimization/assignment/overview).
+A **mixed integer linear program (MILP)** has some variables constrained to be integers, and others not.
+
+In the following math formulations, all decision variables are binary: $0$ or $1$, a special case of integer programming, and a usual practice for [assignment problems](https://developers.google.com/optimization/assignment/overview).
+
+### Complexity
+
+LPs can be solved efficiently (in polynomial time), but ILPs and MILPs are NP-complete due to additional constraints.
 
 ### Basic Formulation
 

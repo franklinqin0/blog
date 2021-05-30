@@ -38,7 +38,7 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 zwei
 | kichern                           | leise lachen                                   |
 | heftig                            | violent                                        |
 | der Wohlstand                     | prosperity                                     |
-| nörgeln                           | moan                                           |
+| nörgeln                           | whine                                          |
 | negieren                          | negate, reject                                 |
 | klönen, tratschen                 | quatschen                                      |
 | das Geschwätz                     | prattle, gossip                                |

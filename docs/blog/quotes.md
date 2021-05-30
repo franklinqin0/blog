@@ -248,6 +248,12 @@ All understanding begins with our not accepting the world as it appears.
 Susan Sontag
 :::
 
+::: tip
+Too many people are satisfied with mediocrity. They never try to obtain their maximum potential. They don’t reach for the stars. If they did, there would be more people with stardust on their hands.
+::: right
+Norman Borlaug
+:::
+
 ### Chinese
 
 即使除去所有的太阳、长眠不醒，也不愿与你分离。世人从这句话中体会到了爱人间的浪漫，但可曾痛苦于执着？Love is a sweet pain.

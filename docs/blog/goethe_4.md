@@ -551,7 +551,7 @@ Präpositionen: an, auf, hinter, in, neben, über, unter, vor, zwischen
 | <d type="er" text="Körperteil"/>     | part of the body   |
 | <d type="er" text="Unfall"/>         | accident           |
 | <d type="er" text="Diebstahl"/>      | theft              |
-| <d type="er" text="Auftrag"/>        | intruction         |
+| <d type="er" text="Auftrag"/>        | order, contact     |
 | <d type="ie" text="Fassung"/>        | version            |
 | <d type="ie" text="Luft"/>           | air                |
 | <d type="ie" text="Ankunft"/>        | arrival            |

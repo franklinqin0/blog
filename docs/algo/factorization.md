@@ -24,7 +24,7 @@ def getFactors(self, n):
     res = []
 
     def dfs(index, n, path):
-        if  len(path) != 0:
+        if len(path) != 0:
             res.append(path[:] + [n])
         for i in range(index, int(sqrt(n)) + 1):
             if n % i == 0:
