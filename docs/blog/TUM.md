@@ -39,18 +39,6 @@ ab\*a
 syntax: specification
 semantics: set of words
 
-https://cs231n.github.io/convolutional-networks/
-
-[detailed overview of optimizers and their development](https://ruder.io/optimizing-gradient-descent)
-
-[Tensors for Beginners 7: Linear Maps](https://youtu.be/dtvM-CzNe50)
-
-[Xavier initialization](https://www.deeplearning.ai/ai-notes/initialization)
-
-[transposed convolution](https://towardsdatascience.com/what-is-transposed-convolutional-layer-40e5e6e31c11)
-
-[optuna](https://optuna.readthedocs.io/en/stable/tutorial/index.html)
-
 supremum: lowest upper bound
 infimum: greatest lower bound
 
@@ -58,3 +46,5 @@ Python UDP
 
 https://pythontic.com/modules/socket/udp-client-server-example
 https://wiki.python.org/moin/UdpCommunication
+
+[Yale music](https://youtu.be/xBxx7aceR1U)

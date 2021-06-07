@@ -106,6 +106,7 @@ Going to the ballet would never occur to me. I would be totally bored there.
 | einstellen             | adjust, hire                 |
 | dreckig                | dirty                        |
 | die Droge              | drug                         |
+| die Drogerie           | drugstore                    |
 | der Ursprung           | origin                       |
 | das Gewicht            | weight                       |
 | der Bischof            | bishop                       |
@@ -125,10 +126,13 @@ Going to the ballet would never occur to me. I would be totally bored there.
 | schwitzen              | sweaten                      |
 | köstlich               | delicious                    |
 | die Auswahl            | choice                       |
-
-frech
-beschweren
-schaffen
+| ausstellen             | exhibit, make, issue         |
+| das Drachenboot        | dragon boat                  |
+| entsprechend           | corresponding                |
+| der Schatz             | treasure                     |
+| vorhanden              | available                    |
+| soeben                 | just now                     |
+| Gehminuten             | walking minutes              |
 
 sitzen - saßen
 gehen - gingen

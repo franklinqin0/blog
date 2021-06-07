@@ -81,3 +81,8 @@ Row space is orthogonal to null space of $A$
 Column space and null space of $A^T$ are orthogonal complements in $R^m$  
 $\rightarrow$ Column space contains all vectors $\perp$ null space of $A^T$  
 Column space is orthogonal to null space of $A^T$
+
+(Singular value decomposition) Let $A$ be a square matrix. Then there exist unitary matrices $U$ and $V$, and a diagonal matrix $D$ with non-negative entries such that  
+$A = UDV$
+
+The diagonal elements of $D$ are called the singular values of $A$.
