@@ -160,8 +160,8 @@ Bedeutet das, dass $\cdots$?
 
 ### Grammatik
 
-::: theorem kausale Präposition wegen
-wegen + Genitiv
+::: theorem kausale Präposition
+wegen/aufgrund + Genitiv
 
 Wegen meines Studiums lerne ich Deutsch in einem Intensivkurs.  
 Wegen des Lärms auf dem Bahnsteig habe ich die Durchsage nicht verstanden.  

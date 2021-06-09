@@ -40,6 +40,8 @@ https://cs231n.github.io/convolutional-networks/
 
 [spline](https://www.analyticsvidhya.com/blog/2018/03/introduction-regression-splines-python-codes)
 
+[different losses](https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0)
+
 ## PyTorch
 
 ### `torch.no_grad` vs. `requires_grad`

@@ -6,6 +6,7 @@ categories:
 tags:
   - Deutsch
 prev: goethe_14
+next: goethe_16
 publish: false
 ---
 
@@ -17,72 +18,72 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 drei
 
 ### Wörter
 
-| Deutsch                              | Englisch                       |
-| ------------------------------------ | ------------------------------ |
-| der Einsatz                          | usage, dedication              |
-| das Start-up                         | start-up                       |
-| die Abwechslung                      | variety, change                |
-| abwechslungsreich                    | nicht eintönig                 |
-| sekundär                             | secondary                      |
-| künftig                              | future                         |
-| der Zeitvertreib                     | pastime                        |
-| der Maskenbildner                    | makeup artist                  |
-| der Ausdauer                         | perseverance                   |
-| die Genauigkeit                      | accuracy                       |
-| das Geschick                         | skill, fate                    |
-| stimmen                              | tune (instrument)              |
-| entwerfen                            | design                         |
-| entnehmen                            | remove, take from              |
-| vereinbaren                          | agree,arrange                  |
-| die Verletzung                       | injury                         |
-| die Skizze                           | sketch                         |
-| anfertigen                           | draw up                        |
-| teilweise                            | partly                         |
-| der Bestandteil                      | eine Komponente                |
-| überweisen, die Überweisung          | wire/bank transfer             |
-| der Duft                             | scent                          |
-| das Gehör                            | hearing                        |
-| die Zunge                            | tongue                         |
-| der/die Vorgesetzte                  | der Chef                       |
-| der Unterhalt, der Lebensunterhalt   | living                         |
-| ausüben                              | exercise, practice sth.        |
-| die Erhöhung                         | raising                        |
-| der Verdienst                        | income                         |
-| hervorragend                         | besonders gut                  |
-| das Fingerspitzengefühl              | ein feines Gefühl              |
-| umgestalten                          | reformieren                    |
-| restaurieren                         | renovieren                     |
-| der Nervenkitzel                     | Spannung einer Situation       |
-| selbstständig                        | freiberuflich                  |
-| entlassen                            | kündigen (dismiss, lay off)    |
-| die Pinnwand                         | pinboard                       |
-| einrichten                           | Möbeln/Geräten ausstatten      |
-| gängig                               | common                         |
-| der Gewinn                           | profit                         |
-| die Voraussicht                      | foresight                      |
-| das Einfühlungsvermögen              | empathy                        |
-| belastbar                            | haltbar, kräftig(resilient)    |
-| zügig                                | rapid                          |
-| die Auszeichnung                     | prize, award                   |
-| voraussichtlich                      | expected                       |
-| die Sorgfalt                         | die Gewissenhaftigkeit         |
-| sorgfältig                           | xxx                            |
-| gewissenhaft, die Gewissenhaftigkeit | conscious                      |
-| verantwortungsbewusst                | responsible, conscientious     |
-| das Wahrnehmen                       | percipience                    |
-| der Urteil                           | judgement, opinion             |
-| spiegeln                             | reflect                        |
-| sich auskennen                       | be well informed               |
-| verhandlungssicher                   | business safe (language level) |
-| ertragen                             | bear                           |
-| vorgehen                             | proceed                        |
-| zielstrebig                          | purposeful                     |
-| zumindest                            | at least                       |
-| versuchen                            | attempt                        |
-| die Konfliktfähigkeit                | conflict ability               |
-| absolvieren                          | complete                       |
-| das Anschreiben                      | cover letter                   |
-| tätig                                | active                         |
+| Deutsch                              | Englisch                               |
+| ------------------------------------ | -------------------------------------- |
+| der Einsatz                          | usage, dedication                      |
+| das Start-up                         | start-up                               |
+| die Abwechslung                      | variety, change                        |
+| abwechslungsreich                    | nicht eintönig                         |
+| sekundär                             | secondary                              |
+| künftig                              | future                                 |
+| der Zeitvertreib                     | pastime                                |
+| der Maskenbildner                    | makeup artist                          |
+| der Ausdauer                         | perseverance                           |
+| die Genauigkeit                      | accuracy                               |
+| das Geschick                         | skill, fate                            |
+| stimmen                              | tune (instrument)                      |
+| entwerfen                            | design                                 |
+| entnehmen                            | remove, take from                      |
+| vereinbaren                          | agree,arrange                          |
+| die Verletzung                       | injury                                 |
+| die Skizze                           | sketch                                 |
+| anfertigen                           | draw up                                |
+| teilweise                            | partly                                 |
+| der Bestandteil                      | eine Komponente                        |
+| überweisen, die Überweisung          | wire/bank transfer                     |
+| der Duft                             | scent                                  |
+| das Gehör                            | hearing                                |
+| die Zunge                            | tongue                                 |
+| der/die Vorgesetzte                  | der Chef                               |
+| der Unterhalt, der Lebensunterhalt   | living                                 |
+| ausüben                              | exercise, practice sth.                |
+| die Erhöhung                         | raising                                |
+| der Verdienst                        | income                                 |
+| hervorragend                         | besonders gut                          |
+| das Fingerspitzengefühl              | ein feines Gefühl                      |
+| umgestalten                          | reformieren                            |
+| restaurieren                         | renovieren                             |
+| der Nervenkitzel                     | Spannung einer Situation               |
+| selbstständig                        | freiberuflich                          |
+| entlassen                            | kündigen (dismiss, lay off)            |
+| die Pinnwand                         | pinboard                               |
+| einrichten                           | Möbeln/Geräten ausstatten              |
+| gängig                               | common                                 |
+| der Gewinn                           | profit                                 |
+| die Voraussicht                      | foresight                              |
+| das Einfühlungsvermögen              | empathy                                |
+| belastbar                            | haltbar, kräftig(resilient)            |
+| zügig                                | rapid                                  |
+| die Auszeichnung                     | prize, award                           |
+| voraussichtlich                      | expected                               |
+| die Sorgfalt                         | die Gewissenhaftigkeit                 |
+| sorgfältig                           | xxx                                    |
+| gewissenhaft, die Gewissenhaftigkeit | conscious                              |
+| verantwortungsbewusst                | responsible, conscientious             |
+| das Wahrnehmen                       | percipience                            |
+| der Urteil                           | judgement, opinion                     |
+| spiegeln                             | reflect                                |
+| sich auskennen                       | be well informed                       |
+| verhandlungssicher                   | business safe (language level)         |
+| ertragen                             | bear                                   |
+| vorgehen                             | proceed                                |
+| zielstrebig                          | purposeful                             |
+| zumindest                            | at least                               |
+| versuchen                            | attempt                                |
+| die Konfliktfähigkeit                | conflict ability                       |
+| absolvieren                          | complete                               |
+| das Anschreiben                      | cover letter                           |
+| tätig sein                           | (beruflich) arbeiten, beschäftigt sein |
 
 #### die Sinne
 
@@ -139,8 +140,15 @@ pursue a career
 um eine Gehaltserhöhung bitten  
 ask for a raise
 
+die Bevölkerung  
+demographischer Wandel
+
+### Sätze
+
+::: tip
 Entweder kämpft man sich durch die Praktikumszeit oder man findet wahrscheinlich nie eine Stelle.  
 Either you struggle through the internship period or you will probably never find a job.
+:::
 
 ::: tip
 Der Teamgeist – manchmal auch Mannschaftsgeist – zählt zu den guten Geistern. Er tut nicht Böses. Ganz im Gegenteil: Wenn in einer Mannschaft beziehungsweise in einer Gruppe, die zusammen arbeitet, ein guter Teamgeist herrscht, dann hat man schon halb gewonnen. Unter dem Wort „Teamgeist“ versteht man nämlich den Zusammenhalt und das Zusammengehörigkeitsgefühl einer Mannschaft oder einer Gruppe. Der Geist, von dem hier die Rede ist, ist kein Gespenst. Vielmehr beschreibt er eine innere Haltung oder eine Einstellung einer Person oder Gruppe. Natürlich ist auch immer das individuelle Können der Spieler in einer Mannschaft oder der Mitarbeiterinnen und Mitarbeiter in einem Team wichtig. Aber wenn jede und jeder nur für sich kämpft und sich nicht auf den anderen verlassen kann, dann rückt ein Sieg in weite Ferne.
@@ -148,10 +156,7 @@ Der Teamgeist – manchmal auch Mannschaftsgeist – zählt zu den guten Geister
 The team spirit - sometimes also team spirit - is one of the good spirits. It does not do evil. On the contrary, if there is a good team spirit in a team or in a group that works together, then you have already half won. The word "team spirit" refers to the cohesion and togetherness of a team or a group. The spirit we are talking about here is not a ghost. Rather, it describes an inner attitude or mindset of a person or group. Of course, the individual skills of the players in a team or the people in a team are always important. But if each person fights only for himself or herself and cannot rely on the others, then victory becomes a distant prospect.
 :::
 
-::: tip
-
-Bewerbung als Teamassistent
-
+::: tip Bewerbung als Teamassistent
 Sehr geehrte Damen und Herren, auf Ihrer Homepage bin ich auf ihr Stellenangebot aufmerksam geworden, mit dem Sie zum 1. August einen Teamassistenten suchen.
 
 Da ich bereits Erfahrung in verschiedenen Bereichen gesammelt habe, bin ich überzeugt, die genannten Voraussetzungen zu erfüllen und bewerbe mich hiermit um diese Stelle.

@@ -265,7 +265,7 @@ Sports contribute to a greater sense of well-being.
 | die Nahrung, das Nahrungsmittel         | food                                                        |
 | Abwehrkraft                             | power of resistance 抵抗力                                  |
 | das Genussmittel                        | o. Ä. genossen wird(tea, coffee, alcoholic drinks, tobacco) |
-| zu A. beitragen                         | contribute                                                  |
+| zu D. beitragen                         | contribute                                                  |
 | sich ernähren, die Ernährung            | feed oneself, diet                                          |
 | das Bedürfnis                           | need                                                        |
 | versorgen                               | supply                                                      |
