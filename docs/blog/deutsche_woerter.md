@@ -133,6 +133,8 @@ Going to the ballet would never occur to me. I would be totally bored there.
 | vorhanden              | available                    |
 | soeben                 | just now                     |
 | Gehminuten             | walking minutes              |
+| der Aufenthaltstitel   | residence permit             |
+| die Dienstleistung     | service                      |
 
 sitzen - saßen
 gehen - gingen

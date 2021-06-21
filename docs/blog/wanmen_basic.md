@@ -77,6 +77,12 @@ du:
 - Sehr gut, danke! Und dir?
 - Auch nicht so gut, danke.
 
+### Nice to meet you!
+
+Angenehm!  
+Freut mich, Sie kennenzulernen.  
+Freut mich, Sie zu sehen.
+
 ### Name
 
 Q:

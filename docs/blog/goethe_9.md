@@ -70,8 +70,8 @@ You are simply the best!
 | schlank                      | slim                        |
 | anwenden                     | apply                       |
 | abgeben                      | deliver                     |
-| Nachhilfe                    | tutoring                    |
-| stören                       | dusturb                     |
+| die Nachhilfe                | tutoring                    |
+| stören                       | disturb                     |
 | vorsichtig                   | cautious, careful           |
 | verletzen                    | hurt, violate               |
 | wirken, erscheinen           | appear, seem                |
@@ -449,53 +449,53 @@ Although I have explained this to you, $\cdots$
 
 ### Wörter
 
-| Deutsch                         | Bedeutung             |
-| ------------------------------- | --------------------- |
-| mehrfach                        | multiple              |
-| die Wendung                     | expression            |
-| die Werbung                     | advertising           |
-| das Rätselheft                  | puzzle magazine       |
-| der Verlag                      | publisher             |
-| sich bei jm. beschweren         | complain to sb.       |
-| die Reklamation                 | complaint             |
-| obwohl                          | trotzdem              |
-| zuständig                       | appropriate, proper   |
-| kündigen                        | cancel                |
-| durchwählen                     | direct dial           |
-| ansagen                         | announce              |
-| erhalten                        | receive               |
-| behalten                        | keep                  |
-| bereithalten                    | keep ready            |
-| die Auskunft                    | information           |
-| einleiten                       | start, introduce      |
-| die Abteilung                   | department            |
-| ausrichten                      | tell sb sth           |
-| besetzt                         | occupied              |
-| wegen                           | b/c of                |
-| verderben                       | go bad                |
-| feststellen                     | find, realize         |
-| merken                          | notice                |
-| solch                           | ähnlich               |
-| die Kiste                       | box                   |
-| die Anrede                      | form of address       |
-| unverschämt                     | impertinent, inpudent |
-| bedienen, die Bedienung         | operate, operation    |
-| würfeln                         | throw the dice        |
-| das Gerät                       | tool                  |
-| der Kassenzettel / die Quittung | receipt               |
-| die Rechnung                    | bill invoice          |
-| zuschicken                      | send                  |
-| ab sofort                       | immediately           |
-| selbständig                     | independent           |
-| selbstverständlich              | natural(ly)           |
-| seltsam                         | strange(ly)           |
-| die Übernachtung                | overnight stay        |
-| gegenüber                       | opposite              |
-| blass                           | pale                  |
-| der Notfall                     | emergency             |
-| dringend                        | urgent(ly)            |
-| sich wenden                     | turn, appeal          |
-| der Notdienst                   | emergency service     |
+| Deutsch                         | Bedeutung               |
+| ------------------------------- | ----------------------- |
+| mehrfach                        | multiple                |
+| die Wendung                     | expression              |
+| die Werbung                     | advertising             |
+| das Rätselheft                  | puzzle magazine         |
+| der Verlag                      | publisher               |
+| sich bei jm. beschweren         | complain to sb.         |
+| die Reklamation                 | complaint               |
+| obwohl                          | trotzdem                |
+| zuständig                       | appropriate, proper     |
+| kündigen                        | cancel                  |
+| durchwählen                     | direct dial             |
+| ansagen                         | announce                |
+| erhalten                        | receive                 |
+| behalten                        | keep                    |
+| bereithalten                    | keep ready              |
+| die Auskunft                    | information, disclosure |
+| einleiten                       | start, introduce        |
+| die Abteilung                   | department              |
+| ausrichten                      | tell sb sth             |
+| besetzt                         | occupied                |
+| wegen                           | b/c of                  |
+| verderben                       | go bad                  |
+| feststellen                     | find, realize           |
+| merken                          | notice                  |
+| solch                           | ähnlich                 |
+| die Kiste                       | box                     |
+| die Anrede                      | form of address         |
+| unverschämt                     | impertinent, inpudent   |
+| bedienen, die Bedienung         | operate, operation      |
+| würfeln                         | throw the dice          |
+| das Gerät                       | tool                    |
+| der Kassenzettel / die Quittung | receipt                 |
+| die Rechnung                    | bill invoice            |
+| zuschicken                      | send                    |
+| ab sofort                       | immediately             |
+| selbständig                     | independent             |
+| selbstverständlich              | natural(ly)             |
+| seltsam                         | strange(ly)             |
+| die Übernachtung                | overnight stay          |
+| gegenüber                       | opposite                |
+| blass                           | pale                    |
+| der Notfall                     | emergency               |
+| dringend                        | urgent(ly)              |
+| sich wenden                     | turn, appeal            |
+| der Notdienst                   | emergency service       |
 
 ### Wendungen
 
@@ -575,7 +575,7 @@ Ich möchte Sie auffordern, dass Sie mir ab sofort wieder die Zeitung senden. We
 
 Ich muss Ihnen leider sagen, dass Ihr Service mich sehr enttäuscht hat.
 
-Mit freundlichen Grüßen
+Mit freundlichen Grüßen  
 Franklin Qin
 :::
 

@@ -12,6 +12,12 @@ publish: false
 
 ## Compiler Construction
 
+https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YCSCS1+3T2020/block-v1:StanfordOnline+SOE.YCSCS1+3T2020+type@sequential+block@346b1c2d46a64979a4e0dafbeae60fa5/block-v1:StanfordOnline+SOE.YCSCS1+3T2020+type@vertical+block@54ccaa1c8df440c89e943464b28373f8
+
+https://www.geeksforgeeks.org/conversion-from-nfa-to-dfa/
+
+[Cryptography](https://www.bilibili.com/video/BV1Ht411w7Re)
+
 ### Interpretation
 
 No precomputation on program text necessary  
@@ -48,3 +54,5 @@ https://pythontic.com/modules/socket/udp-client-server-example
 https://wiki.python.org/moin/UdpCommunication
 
 [Yale music](https://youtu.be/xBxx7aceR1U)
+
+[Alan Kay](https://medium.com/@yang140/computer-history-alan-kay-2-2-2706b3717d6b)

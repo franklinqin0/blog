@@ -149,7 +149,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | feld(er)        | field(s)           |
 | Pflichtfeld(er) | required field(s)  |
 | bisschen        | a bit              |
-| natülich        | natural(ly)        |
+| natürlich       | natural(ly)        |
 | Aufnahme        | opening, recording |
 | Beitrag         | contribution       |
 | absenden        | send               |
@@ -166,6 +166,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | Aussprache      | pronunciation      |
 | aussprechen     | pronounce          |
 | Ihr(e)          | your               |
+| die Nummer      | number             |
 
 ### <d type="ie" text="Zahlen"/>
 
