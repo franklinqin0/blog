@@ -135,6 +135,7 @@ Going to the ballet would never occur to me. I would be totally bored there.
 | Gehminuten             | walking minutes              |
 | der Aufenthaltstitel   | residence permit             |
 | die Dienstleistung     | service                      |
+| die Wartungsgebühr     | maintenance fee              |
 
 sitzen - saßen
 gehen - gingen

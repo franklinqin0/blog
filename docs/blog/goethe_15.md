@@ -59,7 +59,7 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 drei
 | selbstständig                      | freiberuflich                           |
 | entlassen                          | kündigen (dismiss, lay off)             |
 | die Pinnwand                       | pinboard                                |
-| einrichten                         | Möbeln/Geräten ausstatten               |
+| (sich) einrichten                  | Möbeln/Geräten ausstatten               |
 | gängig                             | common                                  |
 | der Gewinn                         | profit                                  |
 | die Voraussicht                    | foresight                               |
