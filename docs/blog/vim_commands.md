@@ -2,9 +2,9 @@
 title: How to Use Vim
 date: 2020-01-01
 categories:
- - study
+  - study
 tags:
- - tech
+  - tech
 next: vim_customize
 ---
 
@@ -16,7 +16,7 @@ This is the 1st of totally 2 blogs about Vim. And this is the [next blog](vim_cu
 
 ## My Previous Experience
 
-In my junior year, I took the course *Computer Architecture and Systems Programming*. I started to use Vim because I hated the only other option for an non-GUI editor: Nano. I didn't seriously wrote my `.bashrc`, `.vimrc`, and `tmux.conf` till the following summer. However, my Vim skills plateaued afterwards, since there weren't many scenarios to force me to use Vim, and I was sufficiently happy with VSCode/Sublime Text/IntelliJ.
+In my junior year, I took the course _Computer Architecture and Systems Programming_. I started to use Vim because I hated the only other option for an non-GUI editor: Nano. I didn't seriously wrote my `.bashrc`, `.vimrc`, and `tmux.conf` till the following summer. However, my Vim skills plateaued afterwards, since there weren't many scenarios to force me to use Vim, and I was sufficiently happy with VSCode/Sublime Text/IntelliJ.
 
 When I worked at GS, I used `less` more than `Vim`. There were few times requiring my Vim skills to edit files on a server, but not enough to be more familiar with it. Though I was busy with work, I always wanted to refresh my skills on Vim when I get time.
 
@@ -24,7 +24,7 @@ Now is the time!
 
 ## Why Care About Editor
 
-You might spend $\frac{2}{3}$ of your waking hours coding, and you might spend $\frac{2}{3}$ of your coding time on your editor. Thus, you might want to twitch your editor to make half of your day happy and efficient. Vim is the perfect suit: completely customizable, blazingly fast, and super geeky.
+You might spend $\frac{2}{3}$ of your waking hours coding, and you might spend $\frac{2}{3}$ of your coding time in your editor. Thus, you might want to twitch your editor to make half of your day happy and efficient. Vim is the perfect suit: completely customizable, blazingly fast, and super geeky.
 
 ## Why Vim
 
@@ -48,9 +48,9 @@ This blog only focuses on the first: basic commands.
 
 ## Vim or NeoVim?
 
-To be frank, both behave essentially the same, but NeoVim is slightly better than Vim (read [this blog](https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/)). Now that Vim 8 has caught up and improved, there isn't much difference a user would notice between the two.
+To be frank, both behave essentially the same, but NeoVim's codebase is slightly better than Vim's (read [this blog](https://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim)). Now that Vim 8 has caught up and improved, there isn't much difference a user would discern between the two.
 
-But I would vote for NeoVim.
+But I would still vote for NeoVim.
 
 ### Fun Facts
 
@@ -76,12 +76,12 @@ Personally, I don't like virtual machines nor dual boot.
 
 ## Tutorials
 
-Before proceeding, there are some tutorials I recommend: 
+Before proceeding, there are some tutorials I recommend:
 
 1. a fun and interactive tutorial written by Vim developers:
    - If you use Vim, in shell do `vimtutor`
    - If you use NeoVim, enter it and do `:Tutor`
-	Personally I prefer the 2nd as it's more updated.
+     Personally I prefer the 2nd as it's more updated.
 2. [a group of tutorials in Chinese](https://github.com/vim-china/hello-vim)
 3. [a video tutorial in Chinese](https://www.imooc.com/learn/1129) (where I found very useful and learned most stuff written below)
 
@@ -91,29 +91,29 @@ If you don't know a command in Vim, you could always do `:h[elp] {Command}`.
 
 ### Start Vim, Insert, Save, and Quit
 
-When you enter Vim with command `vim`, the default mode is *normal*. To start typing, you need to enter the *insert* mode, and here is how:
+When you enter Vim with command `vim`, the default mode is _normal_. To start typing, you need to enter the _insert_ mode, and here is how:
 
 By pressing `a`, or `i`, or `o`, you can insert at different places:
 
-| Command | Usage |
-|:---:|:----|:----|
-| `a` | **a**ppend *after* the cursor |
-| `i` | **i**nsert *before* the cursor |
-| `o` | **o**pen a new line *below* the current line |
+| Command | Usage                                        |
+| :-----: | :------------------------------------------- |
+|   `a`   | **a**ppend _after_ the cursor                |
+|   `i`   | **i**nsert _before_ the cursor               |
+|   `o`   | **o**pen a new line _below_ the current line |
 
 And here are `A`, `I`, `O`:
 
-| Command | Usage |
-|:---:|:----|:----|
-| A | **a**ppend at *end* of line |
-| I | **i**nsert at *start* of line |
-| O | **o**pen a new line *above* the current line |
+| Command | Usage                                        |
+| :-----: | :------------------------------------------- |
+|    A    | **a**ppend at _end_ of line                  |
+|    I    | **i**nsert at _start_ of line                |
+|    O    | **o**pen a new line _above_ the current line |
 
-Note that `o` opens a new line *below* the current line, while `O` *above*.
+Note that `o` opens a new line _below_ the current line, while `O` _above_.
 
-To go back to *normal* mode, you just press `esc`.
+To go back to _normal_ mode, you just press `esc`.
 
-In *normal* mode, press:
+In _normal_ mode, press:
 
 - to save, `:w` and `Enter`
 - to quit, `:q` and `Enter`
@@ -122,21 +122,21 @@ In *normal* mode, press:
 
 ### Understand the Modes
 
-Most users are surprised that there are so many modes in Vim: *normal*, *insert*, *replace*, *visual*, *command*.
+Most users are surprised that there are so many modes in Vim: _normal_, _insert_, _replace_, _visual_, _command_.
 
-Initially Vim was designed to use both from a command-line interface and as a standalone application in a GUI without a mouse/cursor. The *normal* mode to navigate around the file. When we users open a file, rather than just editing, more often we *read*, *select*, and *jump to where we want to edit*. *Normal* mode makes navigation on keyboard much faster, which is why it is still used today after almost 3 decades since its initial release in 1991.
+Initially Vim was designed to use both from a command-line interface and as a standalone application in a GUI without a mouse/cursor. The _normal_ mode to navigate around the file. When we users open a file, rather than just editing, more often we _read_, _select_, and _jump to where we want to edit_. _Normal_ mode makes navigation on keyboard much faster, which is why it is still used today after almost 3 decades since its initial release in 1991.
 
 Here are what the four modes are for and how to enter them:
 
-| Mode   | Usage   | How to enter |
-|:----|:----|:----|:----|:----|
-| normal | navigate and enter commands   | - default mode when entering vim.<br/> - in other modes, press `esc` or `<C-[>` to come back to this mode |
-| insert | edit the document, like any other editor | see [last section](#start-vim-insert-save-and-quit) |
-| replace | replace the current char and go to the next | `R` |
-| visual | select chars | - `v`, select from current char<br/> - `<C-v>`, select a block using `hjkl`<br/> - `<S-v>`, select the whole line, could then `hjkl` to select more lines |
-| command | execute commands | `:` |
+| Mode    | Usage                                       | How to enter                                                                                                                                              |
+| :------ | :------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| normal  | navigate and enter commands                 | - default mode when entering vim.<br/> - in other modes, press `esc` or `<C-[>` to come back to this mode                                                 |
+| insert  | edit the document, like any other editor    | see [last section](#start-vim-insert-save-and-quit)                                                                                                       |
+| replace | replace the current char and go to the next | `R`                                                                                                                                                       |
+| visual  | select chars                                | - `v`, select from current char<br/> - `<C-v>`, select a block using `hjkl`<br/> - `<S-v>`, select the whole line, could then `hjkl` to select more lines |
+| command | execute commands                            | `:`                                                                                                                                                       |
 
-### Common Commands under *insert* Mode
+### Common Commands under _insert_ Mode
 
 also works in shell:
 
@@ -144,7 +144,7 @@ also works in shell:
 - `<C-w>`, delete last word
 - `<C-u>`, delete from current position to start of line
 
-### Common Commands under *command* Mode (prefixed with `:`)
+### Common Commands under _command_ Mode (prefixed with `:`)
 
 - `set nu[mber]`: set line number
 - `syntax on`: turn on syntax highlighting
@@ -154,9 +154,9 @@ also works in shell:
 - `<C-d>`: see possible completions
 - `<C-p>`: show the last command
 
-### How to Move Your Cursor around in *Normal* Mode
+### How to Move Your Cursor around in _Normal_ Mode
 
-Again, the default mode of Vim is *normal*, under which there are so many cool commands to navigate the file!
+Again, the default mode of Vim is _normal_, under which there are so many cool commands to navigate the file!
 
 ---
 
@@ -175,13 +175,13 @@ Move down 20 lines: `20j`.
 
 #### move between words
 
-`w` or `W` (**w**ord) moves to the **start** of next *word*
+`w` or `W` (**w**ord) moves to the **start** of next _word_
 
-`e` or `E` (**e**nd) moves to the **end** of next *word*
+`e` or `E` (**e**nd) moves to the **end** of next _word_
 
-`b` or `B` (**b**ack) moves to the **start** of last *word*
+`b` or `B` (**b**ack) moves to the **start** of last _word_
 
-The difference between the three lowercase and respective capitalized commands above is how you define a *word*:
+The difference between the three lowercase and respective capitalized commands above is how you define a _word_:
 
 - the lowercase command sees a word delimited by **non-alphanumeric char**
 - the capitalized command sees a word delimited by **space**
@@ -206,7 +206,7 @@ To search for a **prev char**, could `F<char>`, which is equivalent to `f<char>`
 
 To move to the end of current line, could:
 
-- `$`:  last char
+- `$`: last char
 - `g_`: last non-whitespace char
 
 Personally, I use `0` and `$` most often. To avoid remembering `^` and `g_`, I would press `0` and then `w` to move to the first non-whitespace char, and press `$` and then `b` to move to the last non-whitespace char.
@@ -240,22 +240,22 @@ On a **page**,
 
 #### move pages up/down
 
-Move by *half* page:
+Move by _half_ page:
 
 - `<C-u>` (**U**p): $\uparrow$
 - `<C-d>` (**D**own): $\downarrow$
 
-Move by *full* page:
+Move by _full_ page:
 
 - `<C-b>` (**B**ackward): $\uparrow$
 - `<C-f>` (**F**orward): $\downarrow$
 
-Move by *one* line **without moving the cursor**:
+Move by _one_ line **without moving the cursor**:
 
 - `<C-e>`: $\downarrow$
 - `<C-y>`: $\uparrow$
 
-#### jump to *any character* instantly on screen
+#### jump to _any character_ instantly on screen
 
 See [vim-easymotion](https://github.com/easymotion/vim-easymotion) in [How to Customize Vim](vim_customize).
 
@@ -277,7 +277,7 @@ Examples:
 - `{n}p`: paste after the cursor `n` times
 - `{n}P`: paste before the cursor `n` times
 
-In *visual* mode, `y` stores the deleted the content in clipboard(or unnamed register). See more in [text object](#text-object) and [register](#register).
+In _visual_ mode, `y` stores the deleted the content in clipboard(or unnamed register). See more in [text object](#text-object) and [register](#register).
 
 ### How to Delete
 
@@ -293,15 +293,15 @@ Examples:
 - `dd`: delete a line
 - `{n}dd` or `d{n}d`: delete `n` lines
 
-In *visual* mode, and both `x` and `d` store the deleted the content in clipboard(or unnamed register). See more in [text object](#text-object) and [register](#register).
+In _visual_ mode, and both `x` and `d` store the deleted the content in clipboard(or unnamed register). See more in [text object](#text-object) and [register](#register).
 
 ### How to replace, change(, and substitute)
 
-Compared to `d`elete, in *normal* mode, more often we `r`eplace, `c`hange, and `s`ubstitute.
+Compared to `d`elete, in _normal_ mode, more often we `r`eplace, `c`hange, and `s`ubstitute.
 
-- `r` replaces a char; `R` enters *replace* mode
-- `s` cuts **char** under the cursor and enters *insert* mode; `{n}s` cuts **`n` char(s)** and enters *insert* mode; `S` cuts **line** and enters *insert* mode
-- `c` equals to `d`elete and `i`nsert; `cw` deletes a word and enters *insert* mode (similar for `ciw` and `caw`)
+- `r` replaces a char; `R` enters _replace_ mode
+- `s` cuts **char** under the cursor and enters _insert_ mode; `{n}s` cuts **`n` char(s)** and enters _insert_ mode; `S` cuts **line** and enters _insert_ mode
+- `c` equals to `d`elete and `i`nsert; `cw` deletes a word and enters _insert_ mode (similar for `ciw` and `caw`)
 
 ### How to search
 
@@ -319,7 +319,7 @@ If on a word, could jump to the same **next** word by `*` and to the same **last
 
 `{range}` specifies the range of substitution. E.g., `10,20` means line 10 to 20. `%` means all content in the file
 
-`s` stands for *substitute*.
+`s` stands for _substitute_.
 
 `{pattern}` is the text to substitute and could be regex.
 
@@ -341,7 +341,7 @@ To substitute matches in multiple files, see [far.vim](https://github.com/brooth
 
 ### Undo and Redo
 
-In *normal* mode,
+In _normal_ mode,
 
 - `u`: undo
 - `<C-r>`: redo
@@ -352,7 +352,7 @@ These three words may have different meanings in Vim than in other context.
 
 ### Buffer
 
-A **buffer** in Vim is an *open instance of a file*, but may not necessarily be visible on the current screen.
+A **buffer** in Vim is an _open instance of a file_, but may not necessarily be visible on the current screen.
 
 The following two commands can use `Tab` for auto-completion:
 
@@ -371,7 +371,7 @@ Other common commands:
 
 ### Window
 
-A **window** in Vim is a *viewport onto a single buffer*. Within a single Vim session, a buffer can be viewed in multiple windows, and a window could view multiple buffers.
+A **window** in Vim is a _viewport onto a single buffer_. Within a single Vim session, a buffer can be viewed in multiple windows, and a window could view multiple buffers.
 
 `W` in the following commands stands for "window".
 
@@ -407,7 +407,7 @@ To **resize windows**:
 
 ### Tab
 
-A tab in Vim is *a collection of one or more windows*. **Tab** is not used very much if screen is big enough for multiple windows. We could just understand the basic commands:
+A tab in Vim is _a collection of one or more windows_. **Tab** is not used very much if screen is big enough for multiple windows. We could just understand the basic commands:
 
 - `tabe[dit] {file_name}` or `tabn[ew] {file_name}`: open a new file
 - `<C-w>T`: move the current window to a new tab
@@ -424,7 +424,7 @@ To switch between tabs:
 
 Similar as class as object in OOP, Vim has **object**, but on text. Editing on text objects is definitely more efficient than on single chars.
 
-In *normal* mode, to operate on a text object: `{number}{operator}{text object}`.
+In _normal_ mode, to operate on a text object: `{number}{operator}{text object}`.
 
 `{number}` is the number of times the `{operator}` needs to be executed.
 
@@ -434,7 +434,7 @@ In *normal* mode, to operate on a text object: `{number}{operator}{text object}`
 
 ## Register (will use "reg" instead)
 
-When we `x`, `d`elete or `y`ank(copy), the content is stored into an unnamed reg. 
+When we `x`, `d`elete or `y`ank(copy), the content is stored into an unnamed reg.
 
 ### Store into A Named Reg
 
@@ -464,7 +464,7 @@ Macro in Vim is a set of commands to run on texts. It comes handy when lots of t
 1. `q{reg}`: record commands to a reg. For example, `qa` stores commands to reg `a`.
 2. Edit with a set of commands
 3. `q`: end recording
-4. `@{reg}`: replay the macro, however many times you want (could enter *visual* mode before replay)
+4. `@{reg}`: replay the macro, however many times you want (could enter _visual_ mode before replay)
 
 For simple examples, could see [this video in Chinese](https://www.imooc.com/video/19455/0).
 
@@ -487,11 +487,12 @@ Simply put, could switch the input method back to English.
 ## Useful tricks
 
 1. Change "ba" to "ab": move the cursor to "b", `x` to cut the char "b" and store into an unnamed reg, `p`aste after current char "a" to change to "ab"
-2. If we have `:set autoindent`, copied some text from web, but paste in Vim by `<Ctrl-v>` or `<Cmd-v>`, we might get pasted text with wrong indentation. To solve the problem, under *normal* mode, we could do one of the following:
+2. If we have `:set autoindent`, copied some text from web, but paste in Vim by `<Ctrl-v>` or `<Cmd-v>`, we might get pasted text with wrong indentation. To solve the problem, under _normal_ mode, we could do one of the following:
+
    - `:set paste`, paste by `<Ctrl-v>` or `<Cmd-v>`, and `:set nopaste`
    - `:set clipboard=unnamed` and `p`
 
-3. Under *normal* mode:
+3. Under _normal_ mode:
 
 - `~`: change case of letter
 - `gi`: go to the position of last edit

@@ -59,3 +59,5 @@ a = sieve(nats(2))
 for _ in range(10):
     print(next(a))
 ```
+
+Quadratic sieve ???

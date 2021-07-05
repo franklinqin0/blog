@@ -56,3 +56,5 @@ https://wiki.python.org/moin/UdpCommunication
 [Yale music](https://youtu.be/xBxx7aceR1U)
 
 [Alan Kay](https://medium.com/@yang140/computer-history-alan-kay-2-2-2706b3717d6b)
+
+https://www.moodle.tum.de/enrol/index.php?id=62628

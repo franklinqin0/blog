@@ -87,3 +87,23 @@ It is possible that this normalization strategy could reduce the representationa
 - `optim.zero_grad()` clears old gradients from the last step (otherwise you’d just accumulate the gradients from all loss.backward() calls).
 - `loss.backward()` computes the derivative of the loss w.r.t. the parameters (or anything requiring gradients) using backpropagation.
 - `opt.step()` causes the optimizer to take a step based on the gradients of the parameters.
+
+[Sentiment Analysis series](https://github.com/bentrevett/pytorch-sentiment-analysis)
+
+## Explanable AI
+
+https://christophm.github.io/interpretable-ml-book/
+https://github.com/lopusz/awesome-interpretable-machine-learning
+https://stats.stackexchange.com/questions/349319/resources-on-explainable-ai
+
+WATCH!!!
+
+[Andrew Ng Case Studies](https://youtu.be/xxHkbWMILjI)
+[Deep RL](https://youtu.be/lvoHnicueoE)
+
+## RTOS Research
+
+[GNN](https://youtu.be/yFLiiK8c9CU)
+[many DL talks](https://www.rle.mit.edu/eems/publications/tutorials/)
+
+[cpp tutorial](https://www.runoob.com/cplusplus/cpp-modifier-types.html)

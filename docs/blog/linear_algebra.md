@@ -24,9 +24,9 @@ $q_{i}^{T} q_j  = \sigma_{ij}$
 An _orthogonal matrix_ is a square matrix whose rows are mutually **orthonormal** and whose columns are mutually orthonormal:  
 $A A^{T} = A^{T} A = I$
 
-_Spectral decomposition_: Any normal operator M on a vector space V is diagonal with respect to some orthonormal basis for V . Conversely, any diagonalizable operator is normal.
+_Spectral decomposition_: any normal operator $M$ on a vector space V is diagonal with respect to some orthonormal basis for V . Conversely, any diagonalizable operator is normal.
 
-a normal matrix is Hermitian iff it has real eigenvalues.
+_Spectral Theorem_: a normal matrix is Hermitian iff it has real eigenvalues.
 
 in a real symmetrix matrix, eigenvectors of distinct eigenvalues are orthogonal
 
@@ -86,3 +86,8 @@ Column space is orthogonal to null space of $A^T$
 $A = UDV$
 
 The diagonal elements of $D$ are called the singular values of $A$.
+
+## Questions
+
+EPR  
+intro p19 end
