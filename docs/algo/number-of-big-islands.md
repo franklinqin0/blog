@@ -43,7 +43,7 @@ def numsofIsland(self, grid, k):
             x, y = queue.pop(0)
             for dx, dy in DIRECTIONS:
                 nx, ny = x+dx, y+dy
-                if 0<=nx<n and 0<=ny<m and grid[nx][ny]:
+                if 0 <= nx < n and 0 <= ny < m and grid[nx][ny]:
                     size += 1
                     grid[nx][ny] = False
                     queue.append((nx, ny))

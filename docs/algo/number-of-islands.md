@@ -37,7 +37,7 @@ def numIslands(self, grid: List[List[str]]) -> int:
             x, y = queue.pop(0)
             for dx, dy in DIRECTIONS:
                 nx, ny = x+dx, y+dy
-                if 0<=nx<n and 0<=ny<m and grid[nx][ny]=='1':
+                if 0 <= nx < n and 0 <= ny < m and grid[nx][ny]=='1':
                     grid[nx][ny] = '0'
                     queue.append((nx, ny))
 
@@ -71,7 +71,7 @@ def numIslands(self, grid: List[List[str]]) -> int:
             x, y = queue.pop()
             for dx, dy in DIRECTIONS:
                 nx, ny = x+dx, y+dy
-                if 0<=nx<n and 0<=ny<m and grid[nx][ny]=='1':
+                if 0 <= nx < n and 0 <= ny < m and grid[nx][ny]=='1':
                     grid[nx][ny] = '0'
                     queue.append((nx, ny))
 
@@ -130,7 +130,7 @@ class Solution:
                 if grid[i][j] == '1':
                     for di, dj in DIRECTIONS:
                         ni, nj = i+di, j+dj
-                        if 0<=ni<n and 0<=nj<m and grid[ni][nj]=='1':
+                        if 0 <= ni < n and 0 <= nj < m and grid[ni][nj]=='1':
                             union_find.union(m*i+j, m*ni+nj)
 
         return union_find.count

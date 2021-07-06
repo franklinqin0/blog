@@ -67,8 +67,8 @@ Always pass the next non-duplicate node to next recursion.
 ```py
 def deleteDuplicates(self, head: ListNode) -> ListNode:
     if not head: return None
-    if head.next and head.val==head.next.val:
-        while head.next and head.val==head.next.val:
+    if head.next and head.val == head.next.val:
+        while head.next and head.val == head.next.val:
             head = head.next
         return self.deleteDuplicates(head.next)
     else:
@@ -81,13 +81,13 @@ Or have two recursions. In `rm` remove all duplicate nodes and return the non du
 ```py
 def deleteDuplicates(self, head: ListNode) -> ListNode:
     if not head: return None
-    if head.next and head.val==head.next.val:
+    if head.next and head.val == head.next.val:
         return self.deleteDuplicates(self.rm(head, head.val))
     head.next = self.deleteDuplicates(head.next)
     return head
 
 def rm(self, dup_node: ListNode, dup_val: int) -> ListNode:
-    if dup_node and dup_node.val==dup_val:
+    if dup_node and dup_node.val == dup_val:
         return self.rm(dup_node.next, dup_val)
     else:
         return dup_node

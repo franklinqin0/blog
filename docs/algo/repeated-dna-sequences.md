@@ -19,7 +19,7 @@ space: $O(n-L) = O(n)$ for $L=10$
 
 ### Sliding Window & HashSet
 
-Move a sliding window of length `L==10` along the string of length `n`. In the sliding window, if the `seq`ence is not seen yet, add to `seen`; otherwise, add to `output`. At the end of for loop, return `output`.
+Move a sliding window of length `L == 10` along the string of length `n`. In the sliding window, if the `seq`ence is not seen yet, add to `seen`; otherwise, add to `output`. At the end of for loop, return `output`.
 
 ```py
 def findRepeatedDnaSequences(self, s: str) -> List[str]:
@@ -41,7 +41,7 @@ def findRepeatedDnaSequences(self, s: str) -> List[str]:
 def findRepeatedDnaSequences(self, s: str) -> List[str]:
     L, n = 10, len(s)
     # edge case
-    if n<L:
+    if n < L:
         return []
     seen, res = set(), set()
     dct = {'A': 0, 'C': 1, 'G': 2, 'T': 3}

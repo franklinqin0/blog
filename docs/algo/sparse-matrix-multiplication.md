@@ -25,7 +25,7 @@ def multiply(self, A: List[List[int]], B: List[List[int]]) -> List[List[int]]:
     n = len(A)
     m = len(A[0])
     t = len(B[0])
-    C = [[0]*t for _ in range(n)]
+    C = [[0 for _ in range(t)] for _ in range(n)]
 
     for i in range(n):
         for k in range(t):
@@ -45,7 +45,7 @@ def multiply(self, A: List[List[int]], B: List[List[int]]) -> List[List[int]]:
     n = len(A)
     m = len(A[0])
     t = len(B[0])
-    C = [[0]*t for _ in range(n)]
+    C = [[0 for _ in range(t)] for _ in range(n)]
 
     for i in range(n):
         for j in range(m):
@@ -63,7 +63,7 @@ def multiply(self, A: List[List[int]], B: List[List[int]]) -> List[List[int]]:
     n = len(A)
     m = len(A[0])
     t = len(B[0])
-    C = [[0]*t for _ in range(n)]
+    C = [[0 for _ in range(t)] for _ in range(n)]
 
     for i in range(n):
         for j in range(m):

@@ -30,8 +30,8 @@ def reconstructQueue(self, people: List[List[int]]) -> List[List[int]]:
     return res
 ```
 
-<!-- a solution by CX, still haven't understood -->
-<!--
+a solution by CX, still haven't understood
+
 ```py
 def reconstructQueue(self, people: List[List[int]]) -> List[List[int]]:
     n = len(people)
@@ -44,7 +44,7 @@ def reconstructQueue(self, people: List[List[int]]) -> List[List[int]]:
         if res[i][1] != -1: # already filled, continue
             continue
         j = idx
-        while j<n:
+        while j < n:
             if people[j][1] == 0: # find i-th person
                 break
             j += 1
@@ -62,4 +62,4 @@ def reconstructQueue(self, people: List[List[int]]) -> List[List[int]]:
         idx = j + 1
 
     return res
-``` -->
+```

@@ -49,11 +49,11 @@ def subarraySum(self, nums: List[int], k: int) -> int:
 
     for i in range(n):
         for j in range(i,n):
-            if i==0:
+            if i == 0:
                 csum = prefix_sum[j]
             else:
                 csum = prefix_sum[j] - prefix_sum[i-1]
-            if csum==k:
+            if csum == k:
                 cnt += 1
     return cnt
 ```
@@ -75,7 +75,7 @@ def subarraySum(self, nums: List[int], k: int) -> int:
         csum = 0
         for j in range(i,n):
             csum += nums[j]
-            if csum==k:
+            if csum == k:
                 cnt += 1
     return cnt
 ```
@@ -100,7 +100,7 @@ def subarraySum(self, nums, k):
     hm, csum, res = {0: 1}, 0, 0
     for num in nums:
         csum += num
-        res += hm.get(csum - k, 0)
+        res += hm.get(csum-k, 0)
         hm[csum] = hm.get(csum, 0) + 1
     return res
 ```
@@ -112,8 +112,9 @@ def subarraySum(self, nums, k):
 Use `Counter` from `collections` as a shorthand.
 
 ```py
+from collections import Counter
 def subarraySum(self, A, K):
-    count = collections.Counter()
+    count = Counter()
     count[0] = 1
     ans = su = 0
     for x in A:
@@ -134,7 +135,7 @@ def subarraySum(nums, k):
     count = Counter()
     count[0] += 1
     for acc in accumulate(nums):
-        total += count[acc - k]
+        total += count[acc-k]
         count[acc] += 1
     return total
 ```

@@ -19,16 +19,16 @@ Let $n$ be the number of `steps`.
 ### DFS
 
 ::: danger fail on LeetCode
-There is a [similar problem on LintCode](https://www.lintcode.com/problem/number-of-ways-to-stay-in-the-same-place-after-some-steps-i) but would pass b/c the `steps` is only upto `15`. However, on LeetCode, **the DFS solution would fail** as `steps` is upto `500`.
+There is a [similar problem on LintCode](https://www.lintcode.com/problem/number-of-ways-to-stay-in-the-same-place-after-some-steps-i) but would pass b/c the `steps` is only upto `15`. However, on LeetCode, **the DFS solution would fail** when `steps` is upto `500`.
 :::
 
 Base conditions for DFS recursion:
 
 - `pos` out of array, return `0`
-- `steps` is 0 and return `pos==0` (could further be simplified to: `if pos==steps: return 1`)
+- `steps` is 0 and return `pos == 0` (could further be simplified to: `if pos == steps: return 1`)
 - `pos > steps`, not enough steps to go back to starting point, return `0` (this condition prunes some branches and would avoid TLS at input `steps=15`, `arrLen=8`)
 
-If we don't have the condition `if pos>steps` to eliminate branches, would TLS on input `steps = 15`, `arrLen = 8`.
+If we don't have the condition `if pos > steps` to eliminate branches, would TLS on input `steps = 15`, `arrLen = 8`.
 
 ::: theorem Complexity
 time: $O(3^n)$  
@@ -37,17 +37,17 @@ space: $O(3^n)$ (implicit stack space is the max width of tree)
 
 ```py
 def numWays(self, steps: int, arrLen: int) -> int:
-    MOD = 10**9 + 7
+    mod = 10**9 + 7
 
     def dfs(steps, pos) -> int:
-        if pos<0 or pos>=arrLen:
+        if pos < 0 or pos >= arrLen:
             return 0
-        if steps==0:
-            return pos==0
+        if steps == 0:
+            return pos == 0
         # can't get back
-        if pos>steps:
+        if pos > steps:
             return 0
-        return (dfs(steps-1, pos) + dfs(steps-1, pos-1) + dfs(steps-1, pos+1))%MOD
+        return (dfs(steps-1, pos) + dfs(steps-1, pos-1) + dfs(steps-1, pos+1)) % mod
 
     return dfs(steps,0)
 ```

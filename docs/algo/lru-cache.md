@@ -25,7 +25,6 @@ This is basically cheating and not allowed in an interview.
 
 ```py
 class LRUCache(collections.OrderedDict):
-
     def __init__(self, capacity: int):
         super().__init__()
         self.capacity = capacity
@@ -55,7 +54,6 @@ class DLinkedNode:
         self.next = None
 
 class LRUCache():
-
     def __init__(self, capacity: int):
         self.cache = dict()
         # use dummy head and tail nodes

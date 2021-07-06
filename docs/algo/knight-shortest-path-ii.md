@@ -30,7 +30,8 @@ DIRECTIONS = [(1,2), (-1, 2), (2,1), (-2, 1)]
 def shortestPath2(self, grid):
     n = len(grid)
     m = len(grid[0])
-    if n==0 or m==0: return -1
+    if n == 0 or m == 0:
+        return -1
 
     queue = []
     queue.append((0, 0))
@@ -53,7 +54,7 @@ def shortestPath2(self, grid):
     return -1
 
 def is_valid(self, x, y, grid, dist):
-    if not 0<=x<len(grid) or not 0<=y<len(grid[0]):
+    if not 0<= x <len(grid) or not 0<= y <len(grid[0]):
         return False
     if grid[x][y] == 1:
         return False
@@ -95,7 +96,8 @@ import heapq
 def shortestPath2(self, grid):
     n = len(grid)
     m = len(grid[0])
-    if n==0 or m==0: return -1
+    if n == 0 or m == 0:
+        return -1
 
     queue = []
     heapq.heappush(queue, (0, 0))
@@ -119,7 +121,7 @@ def shortestPath2(self, grid):
     return -1
 
 def is_valid(self, x, y, grid, dist, last_dist):
-    if not 0<=x<len(grid) or not 0<=y<len(grid[0]):
+    if not 0 <= x < len(grid) or not 0 <= y < len(grid[0]):
         return False
     if grid[x][y] == 1:
         return False
@@ -138,11 +140,14 @@ def find_path(self, n, m, grid, last_pt):
     return path
 ```
 
-### Bidirectional BFS
+### Bidirectional BFS (Optional)
 
 Instead of doing BFS in 1 direction, we can start from source and destination. A path is found when these 2 searches meet.
 
+The time and space complexities do not improve.
+
 ```py
+from collections import deque
 def shortestPath2(self, grid):
     if grid == [[]] or len(grid) == 0:
         return -1
@@ -156,17 +161,17 @@ def shortestPath2(self, grid):
     if m == 1 and n == 1:
         return 0
 
-    queue_A = collections.deque()
+    queue_A = deque()
     visited_A = [[False for _ in range(n)] for _ in range(m)]
     queue_A.append([0,0])
     visited_A[0][0] = True
 
-    queue_B = collections.deque()
+    queue_B = deque()
     visited_B = [[False for _ in range(n)] for _ in range(m)]
     queue_B.append([m - 1, n - 1])
     visited_B[m - 1][n - 1] = True
 
-    queue = collections.deque()
+    queue = deque()
     visited_Curr = [[False for _ in range(n)] for _ in range(m)]
     visited_Other_pos = [[False for _ in range(n)] for _ in range(m)]
 
@@ -208,7 +213,7 @@ def shortestPath2(self, grid):
     return -1
 
 def isValid(self, x, m, y, n, grid):
-    if 0<=x<m and 0<=y<n:
+    if 0 <= x < m and 0 <= y < n:
         return False
 
     if grid[x][y] == 1:
@@ -239,8 +244,8 @@ def shortestPath2(self, grid):
                 continue
             for dx, dy in DIRECTIONS:
                 nx, ny = i + dx, j + dy
-                if 0<=nx<n and 0<=ny<m:
+                if 0 <= nx < n and 0 <= ny < m:
                     dist[i][j] = min(dist[i][j], dist[nx][ny] + 1)
 
-    return -1 if dist[n-1][m-1]==sys.maxsize else dist[n-1][m-1]
+    return -1 if dist[n-1][m-1] == sys.maxsize else dist[n-1][m-1]
 ```

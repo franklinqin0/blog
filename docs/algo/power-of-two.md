@@ -26,12 +26,14 @@ We could increase `acc` till it's equal to or larger than `n`.
 
 ```py
 def isPowerOfTwo(self, n: int) -> bool:
-    if n<1: return False
-    elif n==1: return True
+    if n < 1:
+        return False
+    elif n == 1:
+        return True
     acc = 1
     while acc < n:
         acc *= 2
-        if acc==n:
+        if acc == n:
             return True
     return False
 ```
@@ -42,10 +44,11 @@ We could decrease `n` till it's equal to or smaller than `1`.
 
 ```py
 def isPowerOfTwo(self, n: int) -> bool:
-    if n<1: return False
-    while n>1:
+    if n < 1:
+        return False
+    while n > 1:
         n /= 2
-    return n==1
+    return n == 1
 ```
 
 ### Bit Manipulation
@@ -58,7 +61,8 @@ In two's complement notation, `-n = ~n + 1`. This `-` operation on `n` would rev
 
 ```py
 def isPowerOfTwo(self, n: int) -> bool:
-    if n==0: return False
+    if n == 0:
+        return False
     return n & (-n) == n
 ```
 
@@ -68,6 +72,7 @@ If `n` is a power of 2, it has just one 1-bit. If subtract `n` by 1, all the low
 
 ```py
 def isPowerOfTwo(self, n: int) -> bool:
-    if n==0: return False
+    if n == 0:
+        return False
     return n & (n-1) == 0
 ```

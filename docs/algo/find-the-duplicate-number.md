@@ -111,7 +111,7 @@ def findDuplicate(self, nums: List[int]) -> int:
 
 ### Bit Mask
 
-For the `i`th bit, there are $x$ elements in `nums[1..n]` having it as $1$, and there are $y$ elements in `[1.n]` it as $1$. The $target$ has the `i`th bit as $1$ iff $x>y$.
+For the `i`th bit, there are $x$ elements in `nums[1..n]` having it as $1$, and there are $y$ elements in `[1.n]` it as $1$. The $target$ has the `i`th bit as $1$ iff $x > y$.
 
 ::: theorem Complexity
 time: $O(n \log n)$  

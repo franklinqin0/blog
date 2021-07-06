@@ -61,7 +61,7 @@ def shortestPath(self, targetMap):
     return -1
 
 def is_valid(self, x, y, targetMap, visited):
-    if not 0<=x<len(targetMap) or not 0<=y<len(targetMap[0]):
+    if not 0 <= x < len(targetMap) or not 0 <= y < len(targetMap[0]):
         return False
     return targetMap[x][y]!=WALL and (x,y) not in visited
 ```

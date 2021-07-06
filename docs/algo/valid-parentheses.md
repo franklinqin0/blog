@@ -37,7 +37,7 @@ def isValid(self, s: str) -> bool:
     for c in s:
         if c in dict:
             stack.append(c)
-        elif len(stack) and c==dict.get(stack[-1]):
+        elif len(stack) and c == dict.get(stack[-1]):
             stack.pop()
         else:
             return False

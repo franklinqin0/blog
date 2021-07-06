@@ -142,7 +142,7 @@ def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int
 This is not needed during interview.
 
 ```py
-from collections import defaultdict
+from collections import defaultdict, deque
 class Solution:
     def __init__(self):
         self.length = 0
@@ -183,8 +183,8 @@ class Solution:
 
 
         # Queues for birdirectional BFS
-        queue_begin = collections.deque([(beginWord, 1)]) # BFS starting from beginWord
-        queue_end = collections.deque([(endWord, 1)]) # BFS starting from endWord
+        queue_begin = deque([(beginWord, 1)]) # BFS starting from beginWord
+        queue_end = deque([(endWord, 1)]) # BFS starting from endWord
 
         # Visited to make sure we don't repeat processing same word
         visited_begin = {beginWord: 1}

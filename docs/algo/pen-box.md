@@ -33,7 +33,7 @@ def minimumBoxes(self, boxes, target):
     @return: the minimum boxes
     """
     n = len(boxes)
-    if n==0:
+    if n == 0:
         return -1
 
     left_min = self.find_min_len(boxes, target, n)
@@ -45,7 +45,7 @@ def minimumBoxes(self, boxes, target):
 
     for i in range(n-1):
         res = min(res, left_min[i]+right_min[i+1])
-    if res==sys.maxsize:
+    if res == sys.maxsize:
         return -1
     return res
 
@@ -58,23 +58,23 @@ def find_min_len(self, boxes, target, n):
     csum = 0
     left = 0
 
-    # left==right==0
-    if csum==target:
+    # left == right == 0
+    if csum == target:
         left_min[0] = 1
     for right in range(n):
         csum += boxes[right]
         # find window
-        while csum>target:
+        while csum > target:
             csum -= boxes[left]
             left += 1
         # eliminate leading 0's
-        while left<right and boxes[left]==0:
+        while left < right and boxes[left] == 0:
             left += 1
         # take last length if < target
         if csum < target:
             left_min[right] = left_min[right-1]
         # take shorter length if == target
-        elif csum==target:
+        elif csum == target:
             left_min[right] = min(left_min[right-1], right-left+1)
 
     return left_min

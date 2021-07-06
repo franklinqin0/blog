@@ -56,7 +56,7 @@ def shortestPath(self, grid, source, destination):
     return -1
 
 def is_valid(self, n, m, x, y, grid, dist):
-    if not 0<=x<n or not 0<=y<m:
+    if not 0 <= x < n or not 0 <= y < m:
         return False
     return grid[x][y]!=1 and (x, y) not in dist
 ```

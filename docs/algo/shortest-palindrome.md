@@ -80,7 +80,9 @@ public String shortestPalindrome(String s) {
 }
 ```
 
-### KMP (REDO)
+### KMP (Optional)
+
+Not necessary in interviews. The linear [RK algo](#rk-algo) is as efficient.
 
 ::: theorem Complexity
 time: $O(n)$  
@@ -96,7 +98,7 @@ public String shortestPalindrome(String s) {
     // concatenate s and reverse of s by "#"
     String con = s + "#" + rev;
     int[] lookup = new int[con.length()];
-    // build KMP lookup table to record the longest length of prefix==suffix in substring
+    // build KMP lookup table to record the longest length of prefix == suffix in substring
     // i is suffix boundary
     // j is prefix boundary
     for (int i=1; i<con.length(); i++) {

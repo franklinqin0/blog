@@ -45,7 +45,7 @@ def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
         temp = []
         illegal = False
         for i in range(n):
-            not_dup = (i==0) or (i>0 and nums[i-1]==nums[i])
+            not_dup = (i == 0) or (i > 0 and nums[i-1] == nums[i])
             if mask & (1 << i):
                 # num[i] is duplicate && the former digit of mask is 0
                 if i>0 and nums[i-1]==nums[i] and mask&(1<<(i-1))==0:
@@ -59,4 +59,4 @@ def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
     return res
 ```
 
-<!-- REDO backtrack and Cascading -->
+### Backtrack and Cascading (REDO)

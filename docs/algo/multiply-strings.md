@@ -26,18 +26,18 @@ See graph explanation [here](https://leetcode.com/problems/multiply-strings/disc
 ```py
 def multiply(self, num1: str, num2: str) -> str:
     if (num1=="0" or num2=="0"): return "0"
-    prod = [0]*(len(num1)+len(num2))
+    prod = [0 for _ in range(len(num1)+len(num2))]
     for i in range(len(num1)-1,-1,-1):
         for j in range(len(num2)-1,-1,-1):
-            pos1,pos2 = i+j,i+j+1
-            mul = int(num1[i])*int(num2[j])
+            pos1, pos2 = i+j, i+j+1
+            mul = int(num1[i]) * int(num2[j])
             sum = mul + prod[pos2]
             prod[pos1] += sum//10
             prod[pos2] = sum%10
 
     res = ""
     for i,p in enumerate(prod):
-        if not (i==0 and p==0):
+        if not (i == 0 and p == 0):
             res += str(p)
 
     return res
@@ -47,9 +47,9 @@ def multiply(self, num1: str, num2: str) -> str:
 
 We could calculate product of int digits and store in string.
 
-Since `str` object in Python doesn't support item assignment, here is a C++ solution below:
+Since `str` object in Python doesn't support item assignment, following solution is in C++:
 
-```Cpp
+```cpp
 string sum(num1.size() + num2.size(), '0');
 
 for (int i = num1.size() - 1; 0 <= i; --i) {

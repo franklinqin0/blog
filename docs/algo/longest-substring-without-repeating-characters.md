@@ -42,7 +42,7 @@ def lengthOfLongestSubstring(self, s: str) -> int:
     hashset = set()
     i = j = 0
     res = 1
-    while i<n and j<n:
+    while i < n and j < n:
         if s[j] not in hashset:
             hashset.add(s[j])
             j += 1

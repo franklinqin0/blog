@@ -29,7 +29,7 @@ def coinChange(self, coins: List[int], amount: int) -> int:
             temp = dfs(i-coin)
             if temp >= 0:
                 min_val = min(1 + temp, min_val)
-        if min_val==sys.maxsize:
+        if min_val == sys.maxsize:
             return -1
         res[i] = min_val
         return res[i]

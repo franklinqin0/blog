@@ -26,12 +26,14 @@ We could increase `acc` till it's equal to or larger than `n`.
 
 ```py
 def isPowerOfFour(self, n: int) -> bool:
-    if n<1: return False
-    elif n==1: return True
+    if n < 1:
+        return False
+    elif n == 1:
+        return True
     acc = 1
     while acc < n:
         acc *= 4
-        if acc==n:
+        if acc == n:
             return True
     return False
 ```
@@ -42,10 +44,11 @@ We could decrease `n` till it's equal to or smaller than `1`.
 
 ```py
 def isPowerOfFour(self, n: int) -> bool:
-    if n<1: return False
+    if n < 1:
+        return False
     while n>1:
         n /= 2
-    return n==1
+    return n == 1
 ```
 
 ## Follow Up
@@ -118,5 +121,5 @@ class Solution:
             self.powerOfFour.append(self.powerOfFour[-1]*4)
 
     def isPowerOfFour(self, n: int) -> bool:
-        return n>0 and n in self.powerOfFour
+        return n > 0 and n in self.powerOfFour
 ```

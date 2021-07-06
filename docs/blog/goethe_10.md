@@ -846,7 +846,7 @@ Grüßen Sie bitte $\cdots$ ganz herzlich von mir.
 
 despite
 
-| def./indef. Artikel      | Nullartikel    |                |
+| def./indef. Artikel      | Nullartikel    | Nomen          |
 | ------------------------ | -------------- | -------------- |
 | des/eines geplant**en**  | geplant**en**  | Ausflugs       |
 | des/eines schlecht**en** | schlecht**en** | Wetters        |

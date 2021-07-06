@@ -583,7 +583,7 @@ new Function1[Int, Boolean] {
 
 with 3 functions in it so that users can create lists of lengths 0-2 using syntax
 
-```Scala
+```scala
 List() // the empty list
 List(1) // the list with single element 1
 List(2, 3) // the list with elements 2 and 3
@@ -591,7 +591,7 @@ List(2, 3) // the list with elements 2 and 3
 
 Add `apply` methods to [Cons-Lists in Scala](#cons-Lists-in-scala)
 
-```Scala
+```scala
 object List {
   // List(1, 2) = List.apply(1, 2)
   def apply[T](x1: T, x2: T): List[T] = new Cons(x1, new Cons(x2, new Nil))
@@ -656,7 +656,7 @@ If `A2 <: A1` and `B1 <: B2`, then `A1 => B1 <: A2 => B2`. So Functions are cont
 
 Thus, the revised definition of `Function1` trait:
 
-```Scala
+```scala
 package scala
 trait Function1[-T, +U] {
   def apply(x: T): U
@@ -667,7 +667,7 @@ trait Function1[-T, +U] {
 
 In ???, `Nil` was a class, but we prefer it as an object (only 1 empty list). Will make modifications:
 
-```Scala
+```scala
 trait List[+T] { // T -> +T, making List covariant
   def isEmpty: Boolean
   def head: T
@@ -695,7 +695,7 @@ object test {
 
 We could try `prepend` on `List`:
 
-```Scala
+```scala
 trait List[+T] {
   def prepend(elem: T): List[T] = new Cons(elem, this)
 }
@@ -705,7 +705,7 @@ It could work for a list `xs` of type `List[IntSet]`: `xs.prepend(Empty)`, but n
 
 We can use a _lower bound_:
 
-```Scala
+```scala
 def prepend [U >: T](elem: U): List[U] = new Cons(elem, this)
 ```
 
@@ -733,7 +733,7 @@ In Scala the keyword `match` is used.
 
 A _case class_ definition is similar to a normal class definition, except that it is preceded by the modifier `case`:
 
-```Scala
+```scala
 trait Expr
 case class Number(n: Int) extends Expr
 case class Sum(e1: Expr, e2: Expr) extends Expr
@@ -741,7 +741,7 @@ case class Sum(e1: Expr, e2: Expr) extends Expr
 
 It also implicitly defines companion objects with `apply` methods:
 
-```Scala
+```scala
 object Number {
   def apply(n: Int) = new Number(n)
 }
@@ -753,7 +753,7 @@ object Sum {
 
 Example:
 
-```Scala
+```scala
 def eval(e: Expr): Int = e match {
   case Number(n) => n
   case Sum(e1, e2) => eval(e1) + eval(e2)
@@ -795,7 +795,7 @@ A tuple type (T1, ..., Tn) is an abbreviation of the parameterized type scala.Tu
 
 First implementation not using pair:
 
-```Scala
+```scala
 def msort(xs: List[Int]): List[Int] = {
   val n = xs.length/2
   if (n == 0) xs
@@ -821,7 +821,7 @@ def merge(xs: List[Int], ys: List[Int]): List[Int] = {
 
 Second implementation using Pair is more structured and easier to follow:
 
-```Scala
+```scala
 def msort(xs: List[Int]): List[Int] = {
   val n = xs.length / 2
   if (n==0) xs

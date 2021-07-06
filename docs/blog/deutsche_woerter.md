@@ -77,7 +77,7 @@ at your expense
 Ins Ballett zu gehen, käme mir nie in den Sinn. Da würde ich mich total langweilen.  
 Going to the ballet would never occur to me. I would be totally bored there.
 
-## April 12 - April 18
+## April - Juni
 
 ### Wörter
 
@@ -150,15 +150,29 @@ However, if a young person doesn't behave well at a job interview or internship,
 Mein Zimmer wird mir langsam doch zu eng.  
 My room is getting too small for me.
 
-|das Bewusstsein |awareness|
-|die Angelegenheit | matter |
-|beschimpfen|insult, abuse|
-| der Ureinwohner | aboriginal |
-| locker | loose |
-| mithalten | keep pace |
-| unterlegen | inferior |
-|unterwerfen, unterworfen| subdue, subjected |
-|stattdessen|instead|
+## Juli
+
+| Deutsch                  | Bedeutung          |
+| ------------------------ | ------------------ |
+| das Bewusstsein          | awareness          |
+| die Angelegenheit        | matter             |
+| beschimpfen              | insult, abuse      |
+| der Ureinwohner          | aboriginal         |
+| locker                   | loose              |
+| mithalten                | keep pace          |
+| unterlegen               | inferior           |
+| unterwerfen, unterworfen | subdue, subjected  |
+| stattdessen              | instead            |
+| anhalten                 | stop               |
+| die Wirkung              | effect             |
+| verhindern               | prevent            |
+| kratzen                  | scratch            |
+| die Begeisterung         | enthusiasm         |
+| die Ente                 | duck               |
+| die Laufente             | Indian Runner duck |
+
+geringe Wirkung  
+minor effect
 
 mit D. mithalten  
 keep pace with sb./sth
@@ -166,4 +180,7 @@ keep pace with sb./sth
 Mit über 240 kg Papier pro Kopf im Jahr gehört Deutschland zu den größten Verbrauchern von Papierprodukten weltweit.
 
 Ich könnte den Bus nehmen, werde aber stattdessen zu Fuß gehen.  
-I could take the bus, but I will walk instead
+I could take the bus, but I will walk instead.
+
+Ich fühle mich wohl.  
+Mir geht es gut.

@@ -64,7 +64,7 @@ def shortestDistance(self, grid):
                 for dx, dy in DIRECTIONS:
                     nx, ny = x+dx, y+dy
                     # if position is in range, not visited, and a space
-                    if 0<=nx<n and 0<=ny<m and visited[nx][ny]==False and grid[nx][ny]==0:
+                    if 0 <= nx < n and 0 <= ny < m and visited[nx][ny] == False and grid[nx][ny] == 0:
                         visited[nx][ny] = True
                         # `counts` increments
                         counts[nx][ny] += 1
@@ -84,7 +84,7 @@ def shortestDistance(self, grid):
     for i in range(n):
         for j in range(m):
             # if every house can reach
-            if counts[i][j]==num_houses and dist[i][j]<res:
+            if counts[i][j] == num_houses and dist[i][j] < res:
                 res = dist[i][j]
 
     return res if res!=sys.maxsize else -1

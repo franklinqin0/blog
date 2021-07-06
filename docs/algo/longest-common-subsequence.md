@@ -13,11 +13,9 @@ tags:
 
 Let $n$ and $m$ be lengths of `text1` and `text2`, respectively.
 
-::: details Initial Wrong Solution
-
 ### Initial Wrong Solution
 
-Following is a wrong solution because a subsequence later seen can be longer than a subsequence earlier seen.
+It's wrong b/c subsequence later seen can be longer than a subsequence earlier seen.
 
 This test case failed b/c `p` is before `qr` in shorter `text1` while after `qr` in `text2`.
 
@@ -42,13 +40,13 @@ def longestCommonSubsequence(self, text1: str, text2: str) -> int:
     return lcs
 ```
 
-Thus, this problem should be solved by **DP** (iterative/recursive w/ memoization).
-
-:::
+Instead, this problem should be solved by **DP** (iterative/recursive w/ memoization).
 
 ### Iterative DP (Squared Space)
 
-As explained in [this video](https://youtu.be/NnD96abizww), I construct a matrix to store the _length of longest common subsequence_ seen so far. If the two chars match, `M[i][j]` is `M[i-1][j-1]+1` ; otherwise, it's the max of `M[i-1][j]` and `M[i][j-1]`. At the end of for loop, return `M[-1][-1]`.
+As explained in [this video](https://youtu.be/NnD96abizww), matrix `M` is constructed to store the **length** of _longest common subsequence_ seen so far.
+
+If the two chars in `text1` and `text2` match, `M[i][j] = M[i-1][j-1] + 1` ; otherwise, it's the max of `M[i-1][j]` and `M[i][j-1]`. At the end of for loop, return `M[-1][-1]`.
 
 ::: theorem Complexity
 time: $O(nm)$  
@@ -63,7 +61,7 @@ space: $O(nm)$
         for i in range(1, n+1):
             for j in range(1, m+1):
                 if text1[i-1] == text2[j-1]:
-                    M[i][j] = M[i-1][j-1]+1
+                    M[i][j] = M[i-1][j-1] + 1
                 else:
                     M[i][j] = max(M[i-1][j], M[i][j-1])
         return M[-1][-1]
@@ -82,17 +80,17 @@ space: $O(\min(n, m))$
 def longestCommonSubsequence(self, text1: str, text2: str) -> int:
     n,m = len(text1),len(text2)
     # find the shorter string
-    s = text1 if n<=m else text2
-    l = text1 if n>m else text2
+    s = text1 if n <= m else text2
+    l = text1 if n > m else text2
 
-    M = [[0]*(len(s)+1) for i in range(2)]
+    M = [[0 for _ in (len(s)+1)] for i in range(2)]
 
-    for i in range(1,len(l)+1):
-        for j in range(1,len(s)+1):
-            if s[j-1]==l[i-1]:
+    for i in range(1, len(l)+1):
+        for j in range(1, len(s)+1):
+            if s[j-1] == l[i-1]:
                 M[i%2][j] = M[1-i%2][j-1] + 1
             else:
-                M[i%2][j] = max(M[1-i%2][j],M[i%2][j-1])
+                M[i%2][j] = max(M[1-i%2][j], M[i%2][j-1])
 
     return M[-1][-1]
 ```

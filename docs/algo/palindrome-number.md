@@ -22,14 +22,15 @@ space: $O(\log n)$ (int `x` is converted to string `s`)
 
 ```py
 def isPalindrome(self, x: int) -> bool:
-    if x<0 or (x>10 and x%10==0): return False
+    if x < 0 or (x > 10 and x % 10 == 0):
+        return False
     # convert int to str
     s = str(x)
     l = 0
-    r = len(s)-1
-    while l<r:
+    r = len(s) - 1
+    while l < r:
         # compare left and right digits
-        if s[l]!=s[r]:
+        if s[l] != s[r]:
             return False
         else:
             l += 1
@@ -74,12 +75,12 @@ space: $O(1)$ (no string initialized)
 
 ```py
 def isPalindrome(self, x: int) -> bool:
-    if x<0 or (x!=0 and x%10==0): return False
+    if x < 0 or (x != 0 and x % 10 == 0): return False
     ri = 0
-    while ri<x:
+    while ri < x:
         ri = ri*10 + x%10
         x //= 10
     # since the middle digit doesn't matter in an odd palidrome(it will always equal to itself)
     # we can simply get rid of it by ri//10
-    return ri==x or ri//10==x
+    return ri == x or ri // 10 == x
 ```

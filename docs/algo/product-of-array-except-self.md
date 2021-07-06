@@ -27,7 +27,7 @@ space: $O(n)$
 ```py
 def productExceptSelf(self, nums: List[int]) -> List[int]:
     n = len(nums)
-    if n==0:
+    if n == 0:
         return []
 
     # calculate prefix product
@@ -70,7 +70,7 @@ space: $O(1)$
 ```py
 def productExceptSelf(self, nums: List[int]) -> List[int]:
     n = len(nums)
-    if n==0:
+    if n == 0:
         return []
     res = [1 for _ in range(n)]
 

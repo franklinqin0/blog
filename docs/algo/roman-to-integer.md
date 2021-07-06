@@ -53,7 +53,7 @@ def romanToInt(self, s: str) -> int:
         else:
             sum += dict[cur]
             i -= 1
-    if i==0:
+    if i == 0:
         sum += dict[s[0]]
     return sum
 ```

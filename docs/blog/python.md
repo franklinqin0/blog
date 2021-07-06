@@ -17,6 +17,10 @@ While studying for interview problems, I use `Python3` as the PL and feel like c
 - elegant and clear
 - high-readability
 
+## Style Guide
+
+[Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+
 ## Pyenv
 
 [Intro to Pyenv](https://realpython.com/intro-to-pyenv)
@@ -141,7 +145,7 @@ Dictionary associates values with immutable keys which means you cannot use list
 `[0]*2`
 `[[0 for j in range(num_cols)] for i in range(num_rows)]`
 Since `i` and `j` are not used, can simplify the above to:
-`[[0] for _ in range(num_cols) for _ in range(num_rows)]`
+`[[0 for _ in range(num_cols)] for _ in range(num_rows)]`
 
 ### Stack
 

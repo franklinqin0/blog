@@ -45,7 +45,7 @@ space: $O(1)$
 
 #### Most Significant Bit
 
-For every positive integer $x$, there exists $y$: a largest power of $2$ and $y \le x$, i.e., **msb**. Let $z = x-y$, so $0 \le z<x$ and $res[x]=res[z]+1$.
+For every positive integer $x$, there exists $y$: a largest power of $2$ and $y \le x$, i.e., **msb**. Let $z = x-y$, so $0 \le z < x$ and $res[x] = res[z] + 1$.
 
 During looping, check power of 2: $y \&(y-1)=0$ and update: $res[x]=res[z]+1$.
 
@@ -64,7 +64,7 @@ def countBits(self, num: int) -> List[int]:
 
 #### Least Significant Bit
 
-For a positive integer $x$, $\lfloor \frac{x}{2} \rfloor =$ `x>>1`.
+For a positive integer $x$, $\lfloor \frac{x}{2} \rfloor =$ `x >> 1`.
 
 ```py
 def countBits(self, num: int) -> List[int]:

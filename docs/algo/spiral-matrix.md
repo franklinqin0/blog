@@ -34,7 +34,7 @@ def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         res.append(matrix[r][c])
         seen[r][c] = True
         nr, nc = r+dr[di], c+dc[di]
-        if 0<=nr<R and 0<=nc<C and not seen[nr][nc]:
+        if 0 <= nr < R and 0 <= nc < C and not seen[nr][nc]:
             r, c = nr, nc
         else:
             di = (di + 1) % 4

@@ -33,7 +33,7 @@ Pretty standard RK algo. Note the usages of `lambda`(anonymous function) and `or
 ```py
 def strStr(self, haystack: str, needle: str) -> int:
     h,n = len(haystack),len(needle)
-    if h<n:
+    if h < n:
         return -1
 
     base = 26
@@ -54,13 +54,13 @@ def strStr(self, haystack: str, needle: str) -> int:
     power = pow(base, n, mod)
     for start in range(1, h-n+1):
         hash_h = (hash_h*base - power*haystack_to_int(start-1) + haystack_to_int(start+n-1)) % mod
-        if hash_n==hash_h and needle==haystack[start:start+n]:
+        if hash_n == hash_h and needle == haystack[start:start+n]:
             return start
     return -1
 ```
 
-<!-- ### KMP (REDO)
+### KMP (Optional)
 
 ### Z-algo (REDO)
 
-https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/ -->
+https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/

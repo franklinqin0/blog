@@ -59,7 +59,7 @@ space: $O(n)$
 
 #### Two Stacks
 
-`s2` can directly return after reversed.
+From bottom to top, `s1` stores `root`, left subtree and right subtree, `s2` stores `root` and traverses the right subtree before the left subtree, `res` reverses `s2` and stores left subtree, right subtree and `root`.
 
 ```py
 def postorderTraversal(self, root: TreeNode) -> List[int]:
@@ -107,7 +107,8 @@ def postorderTraversal(self, root: TreeNode) -> List[int]:
             res.append(root.val)
             pre = root
             root = None
-        else: # keep visiting the right subtree
+        # keep visiting the right subtree
+        else:
             stack.append(root)
             root = root.right
     return res

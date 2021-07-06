@@ -131,7 +131,7 @@ The proof is sinuous and runtime is slower than the previous two solutions.
     def mySqrt(self, x: int) -> int:
         y = 1
         z = x
-        while (z>y):
+        while z > y:
             z = (z+y)//2
             y = x//z
         return z

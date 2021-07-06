@@ -15,8 +15,6 @@ Let $n$ be length of `str` and $m$ length of `dict`. There are two pointers, `i`
 
 Brute force solution is to compare 2 pointers until `i` gets to end of `str`. This is not time efficient especially when `str` is long. So we need to preprocess w/ data structures such as matrix or hashmap.
 
-The first method is best among the following three.
-
 ### Matrix
 
 Go from back to front, `nextpos[i][j]` is the next position of char `j` after `str[i]`. If `str[i]==j`, then `nextpos[i][j] = i`.
@@ -47,9 +45,9 @@ def findWords(self, str, dict):
     for word in dict:
         # i points in str, j points in dict
         i, j, m = 0, 0, len(word)
-        while i<n and j<m:
+        while i < n and j < m:
             i = nextpos[i][ord(word[j]) - ord('a')]
-            if i==n: # word not found in str
+            if i == n: # word not found in str
                 break
             i += 1
             j += 1
@@ -60,7 +58,9 @@ def findWords(self, str, dict):
 
 ### Finite Automaton
 
-`index` records the matched position of words in `dict`. Search across `str`, if `index[j]` is at least as long as length of current word, then word is already matched. Else if char `str[i]` is equal to next char of word `j`, increment `index[j]` by 1. Note that we can't just append word to `res` as soon as `index[j] >= len(dict[j])`, as the problem requires `res` to be in dictionary order.
+`index` records the matched position of words in `dict`. Search across `str`, if `index[j]` is at least as long as length of current word, then word is already matched. Else if char `str[i]` is equal to next char of word `j`, increment `index[j]` by 1.
+
+Note that we can't just append word to `res` as soon as `index[j] >= len(dict[j])`, as the problem requires `res` to be in dictionary order.
 
 ::: theorem Complexity
 time: $O(nm)$  
@@ -87,22 +87,23 @@ def findWords(self, str, dict):
     return res
 ```
 
-### HashMap & Binary Search
+<!-- ### HashMap & Binary Search
 
 Helper function `binary_search` searches for `cur_index` in sorted `char_list` and returns the larger value.
 
 `mapping` stores mappings from char in `str` to char position. For each word in `dict`, binary searches for `char` in `char_list`.
 
 ::: theorem Complexity
-time: $O(nm)$  
+time: $O(nm)$
 space: $O(n)$
 :::
 
 ```py
+from collections import defaultdict
 def findWords(self, str, dict):
     if not str or not dict:
         return []
-    mapping = collections.defaultdict(list)
+    mapping = defaultdict(list)
     for i in range(len(str)):
         mapping[str[i]].append(i)
     res = []
@@ -136,4 +137,4 @@ def binary_search(self, char_list, cur_index):
     if char_list[end] > cur_index:
         return char_list[end]
     return -1
-```
+``` -->

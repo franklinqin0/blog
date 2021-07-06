@@ -28,7 +28,7 @@ def sortColors(self, nums: List[int]) -> None:
     i = right + 1
     j = right
 
-    while t<i:
+    while t < i:
         if nums[i-1] == 0:
             nums[i-1], nums[t] = nums[t], nums[i-1]
             t += 1

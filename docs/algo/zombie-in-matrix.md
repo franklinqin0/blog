@@ -51,7 +51,7 @@ def zombie(self, grid):
             x, y = queue.pop(0)
             for dx, dy in DIRECTIONS:
                 nx, ny = x+dx, y+dy
-                if 0<=nx<n and 0<=ny<m and grid[nx][ny]==0:
+                if 0 <= nx < n and 0 <= ny < m and grid[nx][ny] == 0:
                     grid[nx][ny] = 1
                     queue.append((nx, ny))
 

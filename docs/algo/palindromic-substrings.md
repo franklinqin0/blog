@@ -68,7 +68,7 @@ def countSubstrings(self, s: str) -> int:
 
     def expand_around_center(left, right):
         cnt = 0
-        while left>=0 and right<n:
+        while left >= 0 and right < n:
             if s[left] != s[right]:
                 break
             cnt += 1
@@ -96,7 +96,7 @@ def countSubstrings(self, s: str) -> int:
     for i in range(2*n-1):
         left = i//2
         right = i//2 + i%2
-        while left>=0 and right<n and s[left]==s[right]:
+        while left >= 0 and right < n and s[left]==s[right]:
             left -= 1
             right += 1
             res += 1

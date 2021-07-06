@@ -33,9 +33,10 @@ def longestPalindrome(self, s: str) -> int:
 Or simply use `Counter`:
 
 ```py
+from collections import Counter
 def longestPalindrome(self, s: str) -> int:
     res = 0
-    for v in collections.Counter(s).values():
+    for v in Counter(s).values():
         res += v // 2 * 2
         if res % 2 == 0 and v % 2 == 1:
             res += 1

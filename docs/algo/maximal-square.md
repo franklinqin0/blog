@@ -31,7 +31,7 @@ def maximalSquare(self, matrix: List[List[str]]) -> int:
 
     for i in range(n):
         for j in range(m):
-            if i==0 or j==0:
+            if i == 0 or j == 0:
                 dp[i][j] = int(matrix[i][j])
             else:
                 if matrix[i][j] == '1':
@@ -53,7 +53,7 @@ def maximalSquare(self, matrix: List[List[str]]) -> int:
     for i in range(n):
         for j in range(m):
             temp = dp[j]
-            if i==0 or j==0:
+            if i == 0 or j == 0:
                 dp[j] = int(matrix[i][j])
             else:
                 if matrix[i][j] == '1':

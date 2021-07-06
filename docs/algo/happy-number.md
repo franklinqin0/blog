@@ -43,7 +43,7 @@ def isHappy(self, n: int) -> bool:
     while n != 1 and n not in hashset:
         hashset.add(n)
         n = get_next(n)
-    return n==1
+    return n == 1
 ```
 
 ### Floyd's Cycle-Finding Algorithm
@@ -73,5 +73,5 @@ def isHappy(self, n: int) -> bool:
     while fast!=1 and slow!=fast:
         slow = get_next(slow)
         fast = get_next(get_next(fast))
-    return fast==1
+    return fast == 1
 ```
