@@ -297,4 +297,15 @@ Norman Borlaug
 刘向《说苑·立节》
 :::
 
+::: tip
 你的问题主要在于读书不多而想得太多
+::: right
+杨绛
+:::
+
+::: tip
+不闻不若闻之，闻之不若见之；见之不若知之，知之不若行之；学至于行而止矣。  
+Tell me and I forget. Show me and I remember. Involve me and I understand.
+::: right
+《荀子·儒效篇》
+:::

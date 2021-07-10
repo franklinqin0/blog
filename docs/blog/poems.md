@@ -250,3 +250,15 @@ And the seventh time when she sang a song of praise, and deemed it a virtue.
 ::: right
 Kahlil Gibran
 :::
+
+::: tip Du bist wie eine Blume
+Du bist wie eine Blume,  
+So hold und schön und rein;  
+Ich schau’ dich an, und Wehmuth  
+Schleicht mir in’s Herz hinein.
+
+Mir ist, als ob ich die Hände  
+Auf’s Haupt dir legen sollt’,  
+Betend, daß Gott dich erhalte  
+So rein und schön und hold.
+:::

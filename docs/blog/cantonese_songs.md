@@ -466,3 +466,5 @@ Save the best for the last! 比起[有歌词的版本](https://youtu.be/pLoaeBBM
 飘飘泛泛 碧天在望  
 欣见明月逾清朗
 :::
+
+### [逆流直上](https://youtu.be/-qG3bK4fKuA)

@@ -63,7 +63,7 @@ Ich wohne lieber {in der Stadt / auf dem Land}, weil es Gute Angebote und mehr F
 | der Anschluss                  | cable                        |
 | das Schnäppchen                | bargains                     |
 | die Ware(n)                    | goods                        |
-| die Stiftung                   | foundation                   |
+| die Stiftung                   | foundation, fund             |
 | hektisch                       | hectic                       |
 | überraschen                    | surprise, astonish           |
 | Erholung                       | recreation                   |

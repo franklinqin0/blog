@@ -170,6 +170,11 @@ My room is getting too small for me.
 | die Begeisterung         | enthusiasm         |
 | die Ente                 | duck               |
 | die Laufente             | Indian Runner duck |
+| überflüssig              | superfluous        |
+| anhand dessen            | with its           |
+| äußerst                  | extremely          |
+| die Vorsilbe             | prefix             |
+| umschlingen, umschlungen | embrace, embraced  |
 
 geringe Wirkung  
 minor effect
