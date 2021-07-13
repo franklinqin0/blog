@@ -13,14 +13,43 @@ publish: false
 
 ### Wörter
 
-| Deutsch         | Englisch           |
-| --------------- | ------------------ |
-| das Mittelalter | Middle Ages        |
-| der Speck       | bacon              |
-| die Mücke       | mosquito           |
-| die Tankstelle  | gas station        |
-| durchführen A.  | perform, carry out |
-| durchführbar    | feasible           |
+| Deutsch                | Englisch            |
+| ---------------------- | ------------------- |
+| das Mittelalter        | Middle Ages         |
+| der Speck              | bacon               |
+| die Mücke              | mosquito            |
+| die Tankstelle         | gas station         |
+| durchführen A.         | perform, carry out  |
+| durchführbar           | feasible            |
+| bewältigen A.          | manage              |
+| überwachen             | monitor             |
+| zerfallen              | decay, decompose    |
+| der Dschungel          | jungle              |
+| wegwerfen, weggeworfen | throw away          |
+| langlebig              | durable, long-lived |
+| der Überrest           | rest                |
+| vernichten             | destroy             |
+| der Zerfall            | collapse            |
+| einstürzen             | collapse, fall down |
+| die Waffe              | weapon              |
+| abbauen                | break down          |
+| die Prognose           | forecast            |
+| vermissen              | miss                |
+| erobern                | capture, conquer    |
+| zurückerobern          | recapture           |
+| die Spur               | track, trace        |
+| die Pumpe              | pump                |
+| das Bauwerk            | building            |
+| versinken              | sink                |
+| der Fluss              | river               |
+| der Griff              | handle              |
+| der Meiler             | pile                |
+| der Atommeiler         | nuclear reactor     |
+| ausfallen              | fail, malfunction   |
+| die Anlage             | system              |
+
+A. im Griff haben  
+control sb./sth
 
 ### Grammatik
 

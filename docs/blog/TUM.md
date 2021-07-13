@@ -53,6 +53,18 @@ Python UDP
 https://pythontic.com/modules/socket/udp-client-server-example
 https://wiki.python.org/moin/UdpCommunication
 
+### NP
+
+Class of computational decision problems for which any given yes-solution can be verified as a solution in polynomial time by a deterministic Turing machine (or solvable by a non-deterministic Turing machine in polynomial time).
+
+### NP-hard
+
+Class of problems which are at least as hard as the hardest problems in NP. Problems that are NP-hard do not have to be elements of NP; indeed, they may not even be decidable.
+
+### NP-complete
+
+Class of decision problems which contains the hardest problems in NP. Each NP-complete problem has to be in NP.
+
 [Yale music](https://youtu.be/xBxx7aceR1U)
 
 [Alan Kay](https://medium.com/@yang140/computer-history-alan-kay-2-2-2706b3717d6b)

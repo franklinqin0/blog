@@ -175,6 +175,9 @@ My room is getting too small for me.
 | äußerst                  | extremely          |
 | die Vorsilbe             | prefix             |
 | umschlingen, umschlungen | embrace, embraced  |
+| zustellen                | deliver            |
+| verfolgen                | track              |
+| erwähnen                 | mention            |
 
 geringe Wirkung  
 minor effect

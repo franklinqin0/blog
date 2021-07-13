@@ -113,9 +113,7 @@ einen Rat geben
 Hilfe leisten
 Bei einem Unfall muss man verletzten Personen unbedingt Hilfe leisten.
 
-Kritik üben an+Dativ
-
-eine Diskussion führen
+Kritik üben an + D.
 
 zum Abschluss bringen
 
@@ -138,6 +136,9 @@ zum Ausdruck bringen
 einen Antrag stellen auf + Akk
 
 Eindruck machen auf
+
+Ich bezweifle seine Idee.  
+Ich zweifle an seiner Idee.
 
 ::: tip
 Der Chef erlaubte den Mitarbeitern, in den Pausen im Internet zu surfen.  
