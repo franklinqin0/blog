@@ -80,7 +80,7 @@ def climbStairs(self, n: int) -> int:
 
 ### Matrix Multiplication
 
-As $F_{k+1} = F_{k} + F_{k-1}$, we can deduce the recurrence relation between $F_{k}$, $F_{k-1}$ and $F_{k+1}$, $F_{k}$:
+As $F_{k+1} = F_{k} + F_{k-1}$, we can deduce the state transition between $F_{k}$, $F_{k-1}$ and $F_{k+1}$, $F_{k}$:
 
 $$\begin{bmatrix}1 & 1\\1 & 0\end{bmatrix} \begin{bmatrix}F_{k}\\F_{k-1}\end{bmatrix} = \begin{bmatrix}F_{k} + F_{k-1}\\F_{k}\end{bmatrix} = \begin{bmatrix}F_{k+1}\\F_{k}\end{bmatrix}$$
 

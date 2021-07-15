@@ -47,6 +47,10 @@ https://cs231n.github.io/convolutional-networks/
 [Andrew Ng Case Studies](https://youtu.be/xxHkbWMILjI)
 [Deep RL](https://youtu.be/lvoHnicueoE)
 
+[GS - Orthogonal Matrix](https://youtu.be/0MtwqhIwdrI?t=548)
+
+[Jump Point Search](https://www.youtube.com/watch?v=NmM4pv8uQwI)
+
 ## PyTorch
 
 ### Foundations
@@ -83,8 +87,6 @@ This is equivalent with `self.train(False)`.
 
 ### Autoencoder
 
-use our large amount of unlabeled data to do unsupervised pretraining with an autoencoder, and then transfer the weights of our encoder to our classifier.
-
 For each image input, the autoencoder just tries to reproduce the same image as output. The difficulty behind is that the autoencoder has to go through a low dimensional bottleneck, which we call the latent space. In other words, the autoencoder should learn to represent all the input information in the low dimensional latent space; it learns to compress the input distribution. To make our model learn to reproduce the input, we use the mean squared error between our input pixels and the output pixels as the loss function. For this loss we do not need any labels!
 
 AutoEncoder 形式很简单, 分别是 encoder 和 decoder, 压缩和解压, 压缩后得到压缩的特征值, 再从压缩的特征值解压成原图片
@@ -107,9 +109,7 @@ It is possible that this normalization strategy could reduce the representationa
 
 ### Dropout
 
-Dropout [^2] is a technique for regularizing neural networks by randomly setting some features to zero during the forward pass. While training, dropout is implemented by only keeping a neuron active with some probability p (a hyperparameter), or setting it to zero otherwise. The Dropout technique would help your Neural Network to perform better on Test data.
-
-We want to repeat the approach that we saw above for Batch Normalization, but this time for Dropout. Let us thus first have a look at the implementation and then compare two networks with each other where one is using Dropout and one is not.
+Dropout [^2] is a technique for regularizing neural networks by randomly setting some features to zero during the forward pass. While training, dropout is implemented by only keeping a neuron active with some probability p (a hyperparameter), or setting it to zero otherwise. The Dropout technique would help your Neural Network to perform better on test data.
 
 ### Vanishing Gradient Problem
 

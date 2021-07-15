@@ -419,7 +419,7 @@ def morrisTraversal(self, root: TreeNode) -> List[int]:
 
 ## Union Find
 
-The data structure is also called Disjoint Set and consists of two operations: `find` and `union`:
+The data structure is also called _Disjoint Set_ and consists of two operations: `find` and `union`:
 
 - `find` the root of that component by following the parent nodes until a self loop is reached (a node whose parent is itself)
 - `union` two elements: if the root nodes are different make one of the root nodes the parent of the other

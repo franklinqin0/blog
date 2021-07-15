@@ -85,7 +85,7 @@ def numIslands(self, grid: List[List[str]]) -> int:
 
 ### Union Find
 
-See more in [Interview Algorithms](/blog/interview_algo.md#union-find)
+See more in [Interview Algorithms](/blog/interview_algo.md#union-find).
 
 ```py
 DIRECTIONS = [(1, 0), (-1, 0), (0, 1), (0, -1)]

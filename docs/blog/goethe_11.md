@@ -216,6 +216,7 @@ Participation is at your own risk.
 | knüpfen, geknüpft                  | connect/tie, tied      |
 | ständig                            | constant, permanent    |
 | wiederfinden                       | retrieve               |
+| die Ratte                          | rat                    |
 | die Leseratte                      | bookworm               |
 | die Partylöwe                      | party animal           |
 | der Einblick                       | insight                |

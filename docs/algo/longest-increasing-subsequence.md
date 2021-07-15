@@ -15,8 +15,6 @@ Let $n$ be the length of the array.
 
 The brute force $O(n^3)$ solution is omitted.
 
-<!-- REDO: ### Brute Force -->
-
 ## Follow Up
 
 ::: theorem
@@ -25,11 +23,12 @@ Could you come up with the $O(n^2)$ solution?
 
 ### DP
 
-Let `dp[i]` be the length of longest increasing subsequence ending with `num[i]`, then the recurrence relation is:
+Let `dp[i]` be the length of longest increasing subsequence ending with `num[i]`.
 
-$$dp[i] = \max(dp[j]) + 1 \qquad \text{where } 0 \leq j < i \text{ and } num[j]<num[i]$$
+The state transition is:  
+`dp[i] = dp[j] + 1` where $0 \le j < i$ and `num[j] < num[i]`.
 
-That is, add `nums[i]` after the LIS in $dp[0 \ldots i-1]$.
+That is, add `nums[i]` after the LIS in `dp[0..i-1]`.
 
 ::: theorem Complexity
 time: $O(n^2)$  
@@ -41,10 +40,10 @@ def lengthOfLIS(self, nums: List[int]) -> int:
     n = len(nums)
     dp = [1 for _ in range(n)]
 
-    for i in range(1,n):
+    for i in range(1, n):
         for j in range(i):
-            if nums[i] > nums[j] and dp[i] < dp[j]+1:
-                dp[i] = dp[j]+1
+            if nums[i] > nums[j] and dp[i] < dp[j] + 1:
+                dp[i] = dp[j] + 1
 
     return max(dp)
 ```
@@ -77,7 +76,7 @@ def lengthOfLIS(self, nums: List[int]) -> int:
             left, right = 0, len(gd)-1
             pos = right
             while left <= right:
-                mid = (left + right)//2
+                mid = (left + right) // 2
                 if gd[mid] >= num:
                     pos = mid
                     right = mid - 1

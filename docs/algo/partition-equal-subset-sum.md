@@ -22,29 +22,26 @@ See more at these two LeetCode posts in Chinese: [1](https://leetcode-cn.com/pro
 
 #### $O(n \cdot target)$ Space
 
-$dp[i][j]$ represents whether there exists a way to select positive integers in $nums[0..i]$ s.t. the sum is equal to $j$.
+`dp[i][j]` represents whether there exists a way to select positive integers in `nums[0..i]` s.t. the sum is equal to $j$.
 
 The base cases are:
 
-- if not select any positive integer, then $j = 0$. For all $0 \le i < n$, $dp[i][0] = \text{true}$
-- when $i == 0$, only $nums[0]$ can be selected. So $dp[0][nums[0]]=\text{true}$
+- if no positive integer is selected, then $j = 0$. For all $0 \le i < n$, `dp[i][0] = True`
+- when $i == 0$, only `nums[0]` can be selected. So `dp[0][nums[0]] = True`
 
-For $i>0$ and $j>0$, $dp[i][j]$ has the following two cases:
+For $i > 0$ and $j > 0$, `dp[i][j]` has the following two cases:
 
-- if $j \ge nums[i]$, $nums[i]$ can either be selected or not. $dp[i][j]$ is $\text{true}$ if either case is $\text{true}$:
-  - if not select `nums[i]`, $dp[i][j] = dp[i-1][j]$
-  - if select `nums[i]`, then $dp[i][j] = dp[i-1][j-nums[i]]$
-- if $j < nums[i]$, then $nums[i]$ cannot be selected: $dp[i][j] = dp[i-1][j]$
+- if $j \ge$ `nums[i]`, `nums[i]` can either be selected or not. `dp[i][j] = True` if either case is true:
+  - if `nums[i]` not selected, `dp[i][j] = dp[i-1][j]`
+  - if `nums[i]` selected, then `dp[i][j] = dp[i-1][j-nums[i]]`
+- if $j <$ `nums[i]`, then `nums[i]` cannot be selected: `dp[i][j] = dp[i-1][j]`
 
-The recurrence relation is:
+The state transition is:
 
-$$
-\begin{cases}
-dp[i-1][j]~|~dp[i-1][j-nums[i]], & j \ge nums[i] \\ dp[i-1][j], & j < nums[i]
-\end{cases}
-$$
+if $j \ge$ `nums[i]`, `dp[i][j] = dp[i-1][j] or dp[i-1][j-nums[i]]`  
+else $j <$ `nums[i]`, `dp[i][j] = dp[i-1][j]`
 
-Return $dp[n-1][target]$ as the final result.
+Return `dp[n-1][target]` as the final result.
 
 ::: theorem Complexity
 time: $O(n \cdot target)$  
@@ -53,10 +50,10 @@ space: $O(n \cdot target)$
 
 ```py
 def canPartition(self, nums: List[int]) -> bool:
+    # boilerplate
     n = len(nums)
     if n < 2:
         return False
-
     total = sum(nums)
     target = total // 2
     mx = max(nums)
@@ -75,6 +72,7 @@ def canPartition(self, nums: List[int]) -> bool:
                 dp[i][j] = dp[i-1][j] or dp[i-1][j-num]
             else:
                 dp[i][j] = dp[i-1][j]
+        # early stop, pruning
         if dp[i][target]:
             return True
     return dp[n-1][target]
@@ -84,10 +82,10 @@ def canPartition(self, nums: List[int]) -> bool:
 
 As `dp` in a iteration is only concerned with `dp` from last iteration, we only need a 1D array to store `dp`.
 
-The recurrence relation now is:
-$dp[j] = dp[j]~|~dp[j - nums[i]]$
+The state transition now is:
+`dp[j] = dp[j] or dp[j - nums[i]]`
 
-Note that `j` is traversed in reverse order, b/c o.w. `dp[j - num]` is already updated, and no longer the value from previous iteration.
+Note that `j` is traversed in reverse order, b/c o.w. `dp[j - nums[i]]` is already updated, and no longer the value from previous iteration.
 
 ::: theorem Complexity
 time: $O(n \cdot target)$  
@@ -96,19 +94,19 @@ space: $O(target)$
 
 ```py
 def canPartition(self, nums: List[int]) -> bool:
+    # boilerplate
     n = len(nums)
     if n < 2:
         return False
-
     total = sum(nums)
     target = total // 2
     mx = max(nums)
     if total & 1 == 1 or mx > target:
         return False
 
-    dp = [True] + [False] * target
+    dp = [True] + [False for _ in range(target)]
     for num in nums:
-        for j in range(target, num - 1, -1):
+        for j in range(target, num-1, -1):
             dp[j] |= dp[j - num]
 
     return dp[target]
@@ -169,7 +167,7 @@ def canPartition(self, nums: List[int]) -> bool:
     return dfs(0, 0)
 ```
 
-#### Memoization
+#### Recursive DP w/ Memoization
 
 Add `csum` to `memo` once visited.
 

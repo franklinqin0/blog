@@ -19,11 +19,9 @@ Let $i$ be the one of `K` eggs, and $j$ be one of the `N` floors.
 
 ### Iterative DP (TLE)
 
-The recurrence relation is:
+The state transition is:
 
 $$dp(i, j) = \min_{1 \le k \le j}\left(\max(dp(i-1, k-1), dp(i, j-k)) \right)$$
-
-#### Explanation on Recurrence Relation
 
 If `i`th egg breaks at `k`th floor, there are `i-1` eggs left and critical floor exists below `k`, so problem is reduced to `res[i-1][k-1]`.
 
@@ -56,9 +54,7 @@ def superEggDrop(self, K, N):
     return res[m][n]
 ```
 
-### Recursive DP (TLE)
-
-The recursive DP w/ memoization also TLE.
+### Recursive DP w/ Memoization (TLE)
 
 ```py
 def superEggDrop(self, K, N):

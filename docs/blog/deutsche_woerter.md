@@ -178,6 +178,7 @@ My room is getting too small for me.
 | zustellen                | deliver            |
 | verfolgen                | track              |
 | erwähnen                 | mention            |
+| der Kumpel               | buddy              |
 
 geringe Wirkung  
 minor effect

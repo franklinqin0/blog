@@ -14,7 +14,7 @@ We could exchange `m` and `n` s.t. $m \leq n$.
 
 ### DP
 
-The recurrence relation is: $dp[i][j] = dp[i-1][j] + dp[i][j-1]$
+The state transition is: $dp[i][j] = dp[i-1][j] + dp[i][j-1]$
 
 The base cases are `dp[0][j]` and `dp[i][0]`, which have by default only $1$ path.
 

@@ -45,7 +45,7 @@ def countSubstrings(self, s: str) -> int:
     for length in range(3, n+1):
         i, j = 0, length-1
         while j < n:
-            # the recurrence relation
+            # the state transition
             dp[i][j] = (dp[i+1][j-1] and (s[i] == s[j]))
             res += dp[i][j]
             i += 1

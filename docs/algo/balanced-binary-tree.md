@@ -35,7 +35,7 @@ def isBalanced(self, root: TreeNode) -> bool:
     return balanced(root)
 ```
 
-### Bottom Up
+### Bottom Up (REDO)
 
 Return whether or not the tree at `root` is balanced while also returning the tree's height.
 
@@ -59,7 +59,7 @@ def isBalanced(self, root: TreeNode) -> bool:
         if not rightIsBalanced:
             return False, 0
 
-        # if the subtrees are balanced, check if the current tree is balancedusing their height
+        # if the subtrees are balanced, check if the current tree is balanced using their height
         return (abs(leftHeight - rightHeight) < 2), 1 + max(leftHeight, rightHeight)
     return balanced(root)[0]
 ```

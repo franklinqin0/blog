@@ -81,7 +81,7 @@ def findTargetSumWays(self, nums: List[int], S: int) -> int:
 
 `dp[i][j]` represents the number of ways summing previous $i$ elements to $j$.
 
-The recurrence relation is:  
+The state transition is:  
 `dp[i][j] = dp[i - 1][j - nums[i]] + dp[i - 1][j + nums[i]]`
 
 or:
@@ -151,7 +151,7 @@ def findTargetSumWays(self, nums: List[int], S: int) -> int:
     return dp[total+S]
 ```
 
-Use another recurrence relation and reduce the range of $j$ to traverse. Cannot use the previous relation b/c `dp[:nums[i]]` and `dp[total*2+1-nums[i]:]` would never be updated.
+Use another state transition and reduce the range of $j$ to traverse. Cannot use the previous relation b/c `dp[:nums[i]]` and `dp[total*2+1-nums[i]:]` would never be updated.
 
 ```py
 def findTargetSumWays(self, nums: List[int], S: int) -> int:

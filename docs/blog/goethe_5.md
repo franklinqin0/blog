@@ -277,13 +277,13 @@ Ich trinke mehr Wasser.
 | der Zwilling, -e                      | twin(s)                         |
 | Grippe                                | flu                             |
 | sterben                               | die                             |
-| Beileid                               | condolence                      |
+| das Beileid                           | condolence                      |
 | bestehen                              | pass a test                     |
 | Patchworkfamilie                      | patchwork family                |
 | unverheiratet                         | unmarried                       |
-| einsam                                | lonely                          |
+| einsam                                | lonely, alone                   |
 | beide                                 | both                            |
-| Schock                                | shock                           |
+| das Schock                            | shock                           |
 | gegenseitig                           | mutual                          |
 | ziehen, gezogen                       | pull                            |
 | das Hemd                              | shirt                           |

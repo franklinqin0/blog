@@ -54,14 +54,14 @@ def isPalindrome(self, s: str) -> bool:
 
 Let `dp[i][j]` be true if `s[i:j+1]` is a palindrome and false otherwise.
 
-The recurrence relation is:  
+The state transition is:  
 `dp[i][j] = s[i] == s[j] and dp[i+1][j-1]`
 
 The base cases are:  
 `dp[i][i] = True`  
 `dp[i][i+1] = s[i] == s[i+1]`
 
-Both the recurrence relation and base cases can be combined into `dp[i][j] = s[i] == s[j] and (j - i < 3 or dp[i+1][j-1])`.
+Both the state transition and base cases can be combined into `dp[i][j] = s[i] == s[j] and (j - i < 3 or dp[i+1][j-1])`.
 
 ::: theorem Complexity
 time: $O(n^2)$  

@@ -17,7 +17,7 @@ Both solutions below take $O(nm)$ runtime.
 
 ### Iterative DP
 
-The recurrence relation holds only when `matrix[i][j] == '1'`:
+The state transition holds only when `matrix[i][j] == '1'`:
 
 $$dp(i, j) = \min \left(dp(i-1, j), dp(i, j-1), dp(i-1, j-1) \right)$$
 
