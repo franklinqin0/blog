@@ -81,7 +81,7 @@ def longestConsecutive(self, nums: List[int]) -> int:
 ## Union Find (REDO)
 
 ::: theorem Complexity
-time: $O(n)$ ???  
+time: $O(n)$  
 space: $O(n)$
 :::
 
