@@ -55,6 +55,6 @@ export function sortPostsByDate(posts) {
 
 // 获取时间的数字类型
 export function getTimeNum(date) {
-  const dateNum = isNaN(new Date(date)) ? 0 : new Date(date).getTime();
+  const dateNum = !date ? 0 : new Date(date).getTime();
   return dateNum;
 }
