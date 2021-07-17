@@ -26,7 +26,7 @@ def topKFrequent(self, nums: List[int], k: int) -> List[int]:
 
 ::: theorem Complexity
 time: $O(n\log k)$ ($O(n)$ to build `Counter` and $O(n\log k)$ to push $n$ elts into the heap of size $k$)  
-space: $O(k + n)$ (hashmap w/ $\le$ $n$ elts and heap w/ $k$ elts)
+space: $O(k + n)$ (hashmap w/ $\le$ $n$ elements and heap w/ $k$ elements)
 :::
 
 ```py {7}
@@ -106,4 +106,4 @@ def topKFrequent(self, nums: List[int], k: int) -> List[int]:
     return uniq[n-k:]
 ```
 
-<!-- REDO in Hoare's partition ??? -->
+### REDO in Hoare's partition

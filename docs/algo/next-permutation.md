@@ -31,7 +31,7 @@ def nextPermutation(self, nums: List[int]) -> None:
         j = n - 1
         while nums[j] <= nums[i-1]:
             j -= 1
-        # swap elt i-1 and j
+        # swap nums[i-1] and nums[j]
         nums[i-1], nums[j] = nums[j], nums[i-1]
     # reverse nums[i:]
     nums[i:] = nums[i:][::-1]

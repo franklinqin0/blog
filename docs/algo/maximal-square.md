@@ -11,17 +11,15 @@ tags:
 
 Let $n$ be the number of rows and $m$ be the number of columns.
 
-The brute force solution that takes quadratic time is omitted.
+The state transition holds only when `matrix[i][j] == '1'`:  
+`dp[i, j] = min(dp[i-1, j], dp[i, j-1], dp[i-1, j-1]`
 
-Both solutions below take $O(nm)$ runtime.
+### Iterative DP - Squared Space
 
-### Iterative DP
-
-The state transition holds only when `matrix[i][j] == '1'`:
-
-$$dp(i, j) = \min \left(dp(i-1, j), dp(i, j-1), dp(i-1, j-1) \right)$$
-
-#### Squared Space
+::: theorem Complexity
+time: $O(nm)$  
+space: $O(nm)$
+:::
 
 ```py
 def maximalSquare(self, matrix: List[List[str]]) -> int:
@@ -38,10 +36,17 @@ def maximalSquare(self, matrix: List[List[str]]) -> int:
                     dp[i][j] = min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1]) + 1
             res = max(res, dp[i][j])
 
-    return res**2
+    return res ** 2
 ```
 
-#### Linear Space
+### Iterative DP - Linear Space
+
+TODO: explain `dp` meaning
+
+::: theorem Complexity
+time: $O(nm)$  
+space: $O(m)$
+:::
 
 ```py
 def maximalSquare(self, matrix: List[List[str]]) -> int:
@@ -63,5 +68,5 @@ def maximalSquare(self, matrix: List[List[str]]) -> int:
             prev = temp
             res = max(res, dp[j])
 
-    return res**2
+    return res ** 2
 ```

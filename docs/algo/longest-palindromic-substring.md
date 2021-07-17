@@ -114,12 +114,12 @@ def expandAroundCenter(self, s: str, l, r):
 
 ### Manacher's Algorithm
 
-This algorithm inclues some smart improvements on [Expand around Center](#expand-around-center).
+This algorithm includes some smart improvements on [Expand around Center](#expand-around-center).
 
-As each element is traversed at most twice, the time complexity is linear.
+See more at [windliang's post](https://zhuanlan.zhihu.com/p/70532099).
 
 ::: theorem Complexity
-time: $O(n)$  
+time: $O(n)$ (each element is traversed at most twice)  
 space: $O(n)$
 :::
 

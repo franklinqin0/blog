@@ -19,9 +19,7 @@ obj.put(key,value)
 
 ## Solution
 
-### Built-in OrderDict
-
-This is basically cheating and not allowed in an interview.
+### Cheating w/ Built-in OrderDict
 
 ```py
 class LRUCache(collections.OrderedDict):
@@ -44,6 +42,13 @@ class LRUCache(collections.OrderedDict):
 ```
 
 ### HashMap & Doubly Linked List
+
+`cache` is a hashmap that stores keys, while `head` and `tail` define a doubly linked list that makes adding, moving, and removing nodes $O(1)$.
+
+::: theorem Complexity
+time: $O(1)$ (all operations)  
+space: $O(n)$
+:::
 
 ```py
 class DLinkedNode:

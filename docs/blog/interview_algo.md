@@ -270,7 +270,7 @@ def partition(arr, left, right) -> int:
 
 ### Quick Sort
 
-Sorts the array arr[left..right] in $O(n \log n)$ average time.
+Sorts the array `arr[left..right]` in $O(n \log n)$ average time.
 
 ```py
 def quickSort(arr, left, right):
@@ -291,6 +291,8 @@ See a well implemented `quickSort` [here](https://www.techiedelight.com/quick-so
 ### Quick Select
 
 `quickSelect` finds the kth largest element in a given unsorted array.
+
+Different from [Quick Sort](#quick-sort), _Quick Select_ only recurses into one partition, so the runtime complexity is $O(n)$, and in the worst case $O(n^2)$.
 
 ```py
 def quickSelect(arr, left, right, k):
@@ -313,11 +315,9 @@ def quickSelect(arr, left, right, k):
         return quickSelect(arr, pivot_idx+1, right, k)
 ```
 
-See a well implemented `quickSelect` [here](https://www.techiedelight.com/quickselect-algorithm).
-
 ### Selection Sort
 
-Selection Sort sorts the array arr in $O(n^2)$ time.
+Selection Sort sorts the array `arr` in $O(n^2)$ time.
 
 ```py
 def ssort(arr):
@@ -331,8 +331,8 @@ def ssort(arr):
         i = i+1
     # post: arr[0..len(arr)-1] sorted
 
-# returns the index of the minimum value in arr[left..]
 def _min_index(arr, left):
+    """ returns the index of the minimum value in arr[left..] """
     # start from position h
     i = left
     index = left
@@ -362,8 +362,8 @@ def isort(arr):
         i = i + 1
     # post: arr[0..len(arr)-1] sorted
 
-# moves element at position k into its sorted position in arr[0..right-1]
 def _push_down(arr, k):
+    """ moves element at position k into its sorted position in arr[0..right-1] """
     # start from position k
     j = k
 

@@ -14,12 +14,7 @@ Let `grid` be `before`, and `prefix_sum` be `after`.
 
 ### Prefix Sum
 
-From:
-
-`prefix_sum[i][j] = prefix_sum[i][j-1] + prefix_sum[i-1][j] + grid[i][j] - prefix_sum[i-1][j-1]`
-
-we get:
-
+From `prefix_sum[i][j] = prefix_sum[i][j-1] + prefix_sum[i-1][j] + grid[i][j] - prefix_sum[i-1][j-1]`, after moving terms we get:  
 `grid[i][j] = prefix_sum[i][j] - prefix_sum[i][j-1] - prefix_sum[i-1][j] + prefix_sum[i-1][j-1]`
 
 ```py
