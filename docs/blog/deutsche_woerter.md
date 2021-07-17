@@ -180,6 +180,14 @@ My room is getting too small for me.
 | erwähnen                 | mention            |
 | der Kumpel               | buddy              |
 
+Rückenschwimmen  
+Brustschwimmen  
+kraulen  
+Schmetterling / Delfinschwimmen
+
+Lass dich von den Wellen treiben.  
+Let the waves carry you.
+
 geringe Wirkung  
 minor effect
 
