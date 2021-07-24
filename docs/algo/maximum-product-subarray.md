@@ -16,7 +16,7 @@ Let $n$ be the length of the array.
 
 If array elements are all nonnegative, tracking `max_prod` would be good enough.
 
-`min_prod` would become the `max_prod` if current element is negative.
+Else, `min_prod` is needed and would become the `max_prod` if current element is negative.
 
 ::: theorem Complexity
 time: $O(n)$  

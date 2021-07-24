@@ -14,6 +14,10 @@ Classification is the task of choosing the correct class label for a given input
 - sequence classification
   - a sequence of instances are jointly classified
 
+### Bias & Variance Errors
+
+[What to do when your training and testing data come from different distributions](https://www.kdnuggets.com/2019/01/when-your-training-testing-data-different-distributions.html)
+
 ## READ
 
 [https://lionbridge.ai/articles/6-types-of-neural-networks-every-data-scientist-must-know/]()

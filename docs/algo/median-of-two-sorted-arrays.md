@@ -42,9 +42,9 @@ def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
 The overall run time complexity should be $O(\log (m+n))$.
 :::
 
-### Binary Search
+### Binary Search (REDO)
 
-[This video](https://youtu.be/LPFhl65R7ww) explains well.
+[This video](https://youtu.be/LPFhl65R7ww) and [This post in Chinese](https://zhuanlan.zhihu.com/p/70654378) explains well.
 
 ::: theorem Complexity
 time: $O(\log(\min(m, n)))$  
@@ -66,6 +66,7 @@ def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
         rightMinX = sys.maxsize if partitionX == m else nums1[partitionX]
         leftMaxY = -sys.maxsize if partitionY == 0 else nums2[partitionY - 1]
         rightMinY = sys.maxsize if partitionY == n else nums2[partitionY]
+        # partitionX found, return the median
         if leftMaxX <= rightMinY and leftMaxY <= rightMinX:
             # if the total length is odd, then return the left max
             if (m + n) % 2:

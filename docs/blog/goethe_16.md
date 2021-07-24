@@ -47,6 +47,10 @@ publish: false
 | verursachen                      | cause, produce        |
 | durcheinander, das Durcheinander | confused, confusion   |
 | endgültig                        | final                 |
+| berechtigen                      | entitle               |
+| der Erziehungsberechtigter       | guardian              |
+| abweichen, abweichend            | differ, different     |
+| die Unschuld                     | innocence             |
 
 ### Wendungen
 

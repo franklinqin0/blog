@@ -19,11 +19,18 @@ class TreeNode:
 
 ## Solution
 
-Let $n$ be the number of nodes in the tree.
+Let $n$ be the total number of nodes in both trees.
 
-Both solutions take **linear** time and space.
+Both methods implement preorder traversal.
 
 ### Recursion
+
+If one root is empty, return the other one. Else if both roots are nonempty, merge the root values.
+
+::: theorem Complexity
+time: $O(n)$  
+space: $O(\log(n))$ (worst case: $O(n)$ for a skewed tree)
+:::
 
 ```py
 def mergeTrees(self, root1: TreeNode, root2: TreeNode) -> TreeNode:
@@ -37,7 +44,18 @@ def mergeTrees(self, root1: TreeNode, root2: TreeNode) -> TreeNode:
     return root1
 ```
 
-## Iteration
+### Iteration
+
+Use `stack` to traverse both trees.
+
+First, push the root nodes of both the trees onto the `stack`. Then, at every step, pop a node pair from the top of the stack. For every node pair removed, add the values corresponding to the two nodes and update the value of the corresponding node in the 1st tree. Then, if the left child of the 1st tree exists, we push the left child(pair) of both the trees onto the stack. Else, we append the left child(subtree) of the 2nd tree to the current node of the 1st tree. We do the same for the right child pair as well.
+
+If, at any step, both the current nodes are null, we continue with popping the next nodes from the `stack`.
+
+::: theorem Complexity
+time: $O(n)$  
+space: $O(\log(n))$ (worst case: $O(n)$ for a skewed tree)
+:::
 
 ```py
 def mergeTrees(self, root1: TreeNode, root2: TreeNode) -> TreeNode:
@@ -50,12 +68,14 @@ def mergeTrees(self, root1: TreeNode, root2: TreeNode) -> TreeNode:
         curr = stack.pop()
         if not curr[0] or not curr[1]:
             continue
+        # merge root values
         curr[0].val += curr[1].val
+        # if left subtree of 1st tree exists
         if not curr[0].left:
             curr[0].left = curr[1].left
         else:
             stack.append([curr[0].left, curr[1].left])
-
+        # if right subtree of 1st tree exists
         if not curr[0].right:
             curr[0].right = curr[1].right
         else:

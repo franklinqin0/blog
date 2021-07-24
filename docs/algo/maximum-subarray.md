@@ -13,17 +13,31 @@ related:
 
 <img class="medium-zoom" src="/algo/maximum-subarray.png" alt="https://leetcode.com/problems/maximum-subarray">
 
-Read more about this problem [on Wikipedia](https://en.wikipedia.org/wiki/Maximum_subarray_problem).
-
 ## Solution
 
-The brute force solution would:
+### Brute Force (TLE)
 
-- enumerate subarrays in a nested for loop - squared
-- calculate sum - constant
-- update if current subarray has largest sum - constant
+::: theorem Complexity
+time: $O(n^2)$  
+space: $O(1)$
+:::
 
-So in total it takes squared time.
+```py
+def maxSubArray(self, nums: List[int]) -> int:
+    n = len(nums)
+    res = nums[0]
+
+    for i in range(n):
+        csum = nums[i]
+        for j in range(i, n):
+            if i == j:
+                csum = nums[i]
+            else:
+                csum += nums[j]
+            res = max(res, csum)
+
+    return res
+```
 
 ### Prefix Max
 
@@ -32,8 +46,10 @@ Pick the **locally optimal move** at each step, and that will lead to the **glob
 Iterate over the array and update at each step:
 
 - current element `num`
-- current local maximum sum `num` (whether start a new array $\rightarrow$ `num`, or continue the old array $\rightarrow$ `curr_sum + num`)
-- global maximum sum `max_sum`
+- current local maximum sum `csum`
+  - either start a new array $\rightarrow$ `num`
+  - or continue the old array $\rightarrow$ `csum + num`)
+- global maximum sum `res`
 
 ::: theorem Complexity
 time: $O(n)$  
@@ -43,12 +59,12 @@ space: $O(1)$
 ```py
 def maxSubArray(self, nums: List[int]) -> int:
     n = len(nums)
-    curr_sum = max_sum = nums[0]
+    csum = res = nums[0]
 
     for num in nums[1:]:
-        curr_sum = max(num, curr_sum + num)
-        max_sum = max(max_sum, curr_sum)
-    return max_sum
+        csum = max(num, csum + num)
+        res = max(res, csum)
+    return res
 ```
 
 ### DP (Kadane's algorithm)

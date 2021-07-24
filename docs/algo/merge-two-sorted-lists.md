@@ -10,7 +10,7 @@ tags:
 
 ## Solution
 
-This problem can be solved in either **iteration** or **recursion**.
+Let $n$ be the length of `l1` and $m$ be the length of `l2`.
 
 ### Vanilla Iteration
 
@@ -44,7 +44,7 @@ def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
 
 ### Improved Iteration
 
-Once either `l1` or `l2` is `None`, exit while loop, append the non-`None` list and return `dummy.next`.
+Once either `l1` or `l2` is `None`, exit while loop, append the nonempty list and return `dummy.next`.
 
 ::: theorem Complexity
 time: $O(n + m)$  
@@ -71,13 +71,14 @@ def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
 
 ### Recursion
 
-If either `l1` or `l2` is initially `None`, can simply return the non-`None` list. O.w., determine which of `l1` and `l2` has a smaller head, and recursively set the `next` value for that head to the next merge result.
+If either `l1` or `l2` is initially `None`, can simply return the nonempty list.  
+Else, determine which of `l1` and `l2` has a smaller head, and recursively set the `next` value for that head to the next merge result.
 
 The recursion will eventually terminate b/c each time the input is smaller and end at base case of 1 of 2 lists being `None`.
 
 ::: theorem Complexity
-time: $O(n+m)$
-space: $O(n+m)$ (due to implicit stack space)
+time: $O(n + m)$  
+space: $O(n + m)$ (due to implicit stack space)
 :::
 
 ```py
@@ -87,9 +88,9 @@ def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
     elif not l2:
         return l1
     elif l1.val < l2.val:
-        l1.next = self.mergeTwoLists(l1.next,l2)
+        l1.next = self.mergeTwoLists(l1.next, l2)
         return l1
     else:
-        l2.next = self.mergeTwoLists(l1,l2.next)
+        l2.next = self.mergeTwoLists(l1, l2.next)
         return l2
 ```

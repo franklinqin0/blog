@@ -4,6 +4,7 @@ diff: medium
 tags:
   - Array
   - Sort
+  - Greedy
 ---
 
 <img class="medium-zoom" src="/algo/merge-intervals.png" alt="https://leetcode.com/problems/merge-intervals">
@@ -14,7 +15,7 @@ The brute-force solution represents graph as adjacency list.
 
 ### Sort
 
-Note the use of `lamdba` function to sort by **start** time in `sorted` method.
+Sort by _start_ time b/c any `interval[i]` which starts before `interval[i+1]` will only overlap with `interval[i+1]` iff end time of `interval[i]` $\ge$ start time of `interval[i+1]`.
 
 ::: theorem Complexity
 time: $O(n \log n)$  

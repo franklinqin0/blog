@@ -65,6 +65,12 @@ Class of problems which are at least as hard as the hardest problems in NP. Prob
 
 Class of decision problems which contains the hardest problems in NP. Each NP-complete problem has to be in NP.
 
+### PPAD
+
+[The Complexity of Computing a Nash Equilibrium](http://people.csail.mit.edu/costis/simplified.pdf)
+[PPAD](https://youtu.be/TUbfCY_8Dzs)
+[PPAD Reductions](https://youtu.be/Ih0cPR745fM)
+
 [Yale music](https://youtu.be/xBxx7aceR1U)
 
 [Alan Kay](https://medium.com/@yang140/computer-history-alan-kay-2-2-2706b3717d6b)

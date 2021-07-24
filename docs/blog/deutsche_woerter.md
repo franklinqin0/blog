@@ -152,33 +152,72 @@ My room is getting too small for me.
 
 ## Juli
 
-| Deutsch                  | Bedeutung          |
-| ------------------------ | ------------------ |
-| das Bewusstsein          | awareness          |
-| die Angelegenheit        | matter             |
-| beschimpfen              | insult, abuse      |
-| der Ureinwohner          | aboriginal         |
-| locker                   | loose              |
-| mithalten                | keep pace          |
-| unterlegen               | inferior           |
-| unterwerfen, unterworfen | subdue, subjected  |
-| stattdessen              | instead            |
-| anhalten                 | stop               |
-| die Wirkung              | effect             |
-| verhindern               | prevent            |
-| kratzen                  | scratch            |
-| die Begeisterung         | enthusiasm         |
-| die Ente                 | duck               |
-| die Laufente             | Indian Runner duck |
-| überflüssig              | superfluous        |
-| anhand dessen            | with its           |
-| äußerst                  | extremely          |
-| die Vorsilbe             | prefix             |
-| umschlingen, umschlungen | embrace, embraced  |
-| zustellen                | deliver            |
-| verfolgen                | track              |
-| erwähnen                 | mention            |
-| der Kumpel               | buddy              |
+| Deutsch                  | Bedeutung            |
+| ------------------------ | -------------------- |
+| das Bewusstsein          | awareness            |
+| die Angelegenheit        | matter               |
+| beschimpfen              | insult, abuse        |
+| der Ureinwohner          | aboriginal           |
+| locker                   | loose                |
+| mithalten                | keep pace            |
+| unterlegen               | inferior             |
+| unterwerfen, unterworfen | subdue, subjected    |
+| stattdessen              | instead              |
+| anhalten                 | stop                 |
+| die Wirkung              | effect               |
+| verhindern               | prevent              |
+| kratzen                  | scratch              |
+| die Begeisterung         | enthusiasm           |
+| die Ente                 | duck                 |
+| die Laufente             | Indian Runner duck   |
+| überflüssig              | superfluous          |
+| anhand dessen            | with its             |
+| äußerst                  | extremely            |
+| die Vorsilbe             | prefix               |
+| umschlingen, umschlungen | embrace, embraced    |
+| zustellen                | deliver              |
+| verfolgen                | track                |
+| erwähnen                 | mention              |
+| der Kumpel               | buddy                |
+| vertreiben, der Vertrieb | market               |
+| nachvollziehen           | understand           |
+| absichtlich              | intentional          |
+| der Mundraub             | petty theft          |
+| die Ampel                | traffic light        |
+| die Strafe               | punishment, penalty  |
+| strafbar                 | punishable           |
+| die Zuneigung            | affection            |
+| vorhin                   | just now             |
+| zurückhaltend            | reserved             |
+| gell                     | right(interjection)  |
+| schmusen                 | cuddle               |
+| großziehen               | rear, bring up       |
+| vorsichtig               | careful              |
+| einigen                  | unite                |
+| widerrufen               | revoke               |
+| die Deckung              | coverage             |
+| die Beteiligung          | participation        |
+| empfindsam               | sensitive, emotional |
+| taub, stocktaub          | deaf                 |
+| die Uraufführung         | premiere             |
+| gewiss                   | certain(ly)          |
+| D. verzeihen             | forgive              |
+| verziehen                | forgiven             |
+| brüllen                  | roar                 |
+| gefällig                 | pleasing             |
+| schwätzen                | chat                 |
+| sanft                    | soft                 |
+| tuscheln                 | whisper              |
+| die Orgel                | pipe organ           |
+| streben                  | aspire               |
+| anstreben                | strive at            |
+| befangen                 | self-conscious       |
+
+Diese Krankenversicherung bietet umfassende Deckung.  
+This health insurance offers comprehensive coverage.
+
+Vorsicht!  
+Beware!
 
 Rückenschwimmen  
 Brustschwimmen  
