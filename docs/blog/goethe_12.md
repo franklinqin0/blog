@@ -657,7 +657,7 @@ This solves several problems at once.
 | die Selbständigkeit                               | independence              |
 | bedienen                                          | serve, operate            |
 | der Brunnen                                       | well, fountain            |
-| beeilen                                           | hurry                     |
+| sich beeilen                                      | hurry                     |
 | verschwinden                                      | disappear                 |
 | das Altenheim                                     | nurisng home 养老院       |
 | überschwemmen, die Überschwemmung, das Hochwasser | flood                     |

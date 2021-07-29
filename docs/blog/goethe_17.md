@@ -109,3 +109,19 @@ Option 1
 
 Jemandem wie uns geben die ja keine Informationen.  
 They don't give information to someone like us.
+
+::: tip Portfolio 3
+Ich wurde in China geboren und bin dort auch aufgewachsen. Deshalb ist meine Muttersprache Chinesisch.
+
+Im Vergleich zur chinesischen Grammatik ist die deutsche viel schwieriger. Es gibt vier Fälle, drei Artikel, Deklinationen, Konjugationen, unregelmäßige Verben, Unterschiede zwischen Singular und Plural usw. In der chinesischen Grammatik gibt es keine bzw. nur wenige Regeln. Um vergangene oder zukünftige Handlungen auszudrücken, fügen Chinesen einfach „了” oder „将” nach dem Verb ein.
+
+In deutschen Wörtern gibt es sehr viele Konsonanten, während chinesische Schriftzeichen meist nur aus einem Konsonanten und einem Vokal bestehen. Ich weiß noch, dass ich ein paar Tage gebraucht habe, um "Pflicht" richtig auszusprechen.
+
+Ein deutscher Muttersprachler kann ein unbekanntes Wort anhand der Schreibweise leicht aussprechen, aber ein chinesisches Schriftzeichen kann in unterschiedlichen Kontexten mehrere Aussprachen haben. Ebenso können verschiedene chinesische Wörter eine ähnliche Aussprache haben, was im Deutschen weniger ein Problem ist.
+
+Es gibt interessante Ähnlichkeiten zwischen den beiden Sprachen bezüglich zusammengesetzter Wörter, die recht lang sein können, aber äußerst intuitiv sind. Zum Beispiel wird „Hafenstadt” im Chinesischen mit „港口城市” übersetzt und setzt sich aus „Hafen” (港口) und „Stadt” (城市) zusammen.
+
+Als ich begann, Deutsch zu lernen, dachte ich, dass Fälle keinen Sinn machen, weil ich diese überflüssig fand, und selbst wenn es eine Regel gab, bestätigte die Ausnahme diese. Ich fand sehr interessant, dass ich mir nur ein Wort einprägen musste, um viele andere Wörter mit gleichem Wortstamm und verschiedenen Vorsilben zu verstehen. Zum Beispiel kann ich mich auf der Basis von „nehmen” an „teilnehmen”, „entnehmen”, „benehmen”, „einnehmen”, „mitnehmen”, „annehmen”, „zunehmen”, „wahrnehmen” erinnern.
+
+Der Reichtum der Sprache macht Deutsch so schön. Als ich die Zeilen „Freude trinken alle Wesen an den Brüsten der Natur” und „Seid umschlungen, Millionen! Diesen Kuß der ganzen Welt!” aus „An die Freude” hörte, konnte ich mich nur in Deutsch verlieben.
+:::

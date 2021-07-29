@@ -212,6 +212,8 @@ My room is getting too small for me.
 | streben                  | aspire               |
 | anstreben                | strive at            |
 | befangen                 | self-conscious       |
+| gelangen                 | get                  |
+| sich D. vornehmen        | undertake            |
 
 Diese Krankenversicherung bietet umfassende Deckung.  
 This health insurance offers comprehensive coverage.
@@ -240,3 +242,73 @@ I could take the bus, but I will walk instead.
 
 Ich fühle mich wohl.  
 Mir geht es gut.
+
+## Der Untergang （帝国的毁灭）
+
+| Deutsch           | Bedeutung             |
+| ----------------- | --------------------- |
+| dicht             | thick, dense          |
+| einschlagen       | take, smash           |
+| der Beschuss      | bombardment 炮火      |
+| riesig, gewaltig  | enormous              |
+| der Kern          | core                  |
+| aufgeblasen       | inflated              |
+| der Hanswurst     | buffoon, clown        |
+| hinsehen          | look                  |
+| der Abgrund       | abyss                 |
+| gerissen          | torn                  |
+| die Ausrede       | excuse                |
+| umkommen          | perish, be killed     |
+| das Sieb          | sieve                 |
+| fleckig           | stained               |
+| abrücken          | move away             |
+| abhauen           | flee                  |
+| der Befehl        | command               |
+| wegkommen         | get away              |
+| anflehen          | implore               |
+| jdn. anwidern     | nauseate sb.          |
+| der Landesverrat  | treason               |
+| A. schütteln      | shake                 |
+| der Aufbruch      | departure             |
+| der Entwurf       | draft                 |
+| der Wolkenkratzer | skyscraper            |
+| die Kammer        | chamber               |
+| die Schatzkammer  | treasury              |
+| verwirklichen     | achieve               |
+| die Gebetsmühle   | prayer wheel          |
+| betätigen         | operate               |
+| herbeiführen      | bring about           |
+| untergehen        | go down               |
+| der Vorhang       | curtain               |
+| die Ehre          | honor                 |
+| die Schlacht      | battle                |
+| aufhalten         | stop                  |
+| begreifen         | understand            |
+| begriffen         | understood            |
+| der Feigling      | coward                |
+| die Gefahr        | risk                  |
+| einkesseln        | surround              |
+| die Verteidigung  | denfense              |
+| die Wache         | guard, station        |
+| vortragen         | present               |
+| kapitulieren      | capitulate, surrender |
+| ewig              | eternal               |
+| der Schaden       | damage                |
+| satt              | full                  |
+| der Zauber        | magic                 |
+| die Zauberkunst   | magic art             |
+| die Faust         | fist                  |
+
+Sie sollten auf der Bühne stehen, wenn der Vorhang fällt.
+
+eine Entscheidung herbeiführen  
+bring about a decision v
+
+bestimmt nicht  
+certainly not
+
+Der Mann musste sich entscheiden, welchen Weg er einschlagen wollte.  
+The man had to decide which way he wanted to take.
+
+Der Einbrecher schlug ein Fenster ein, um ins Haus zu gelangen.  
+The burglar smashed a window to get into the house.

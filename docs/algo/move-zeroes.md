@@ -12,9 +12,9 @@ tags:
 
 ### Two Pointers
 
-Use 2 pointers. The fast pointer `i` iterates `nums`. The slow pointer `non_zero` points to next position of non-zero element.
+The fast pointer `i` iterates `nums`. The slow pointer `non_zero` points to next position of non-zero element.
 
-This method is good if `nums` does not have many zeros.
+When `nums` has many zeros, the latter loop incurs too many operations.
 
 ::: theorem Complexity
 time: $O(n)$  
@@ -45,8 +45,8 @@ Could you minimize the total number of operations done?
 
 We maintain the following invariants:
 
-1. All elements before the slow pointer `non_zero` are non-zeroes
-2. All elements between the slow pointer `non_zero` and fast pointer `i` are zeroes
+1. All elements in `nums[:non_zero]` are non-zeroes
+2. All elements in `nums[non_zero:i]` are zeroes
 
 Thus, rather than setting elements after `non_zero` to 0, we could simply swap the zero at `non-zero` and nonzero at `i`.
 

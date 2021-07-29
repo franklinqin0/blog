@@ -60,7 +60,7 @@ retire
 Woraus besteht sie?  
 What does it consist of?
 
-jdm Hilfe leisten
+jdm. Hilfe leisten
 help sb
 
 ::: tip Nomen-Verb-Verbindungen

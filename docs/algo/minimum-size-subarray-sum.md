@@ -11,9 +11,7 @@ tags:
 
 ## Solution
 
-Iterating right index is slightly easier than iterating left index.
-
-### Iterate Right
+### Iterate `right`
 
 ```py
 def minSubArrayLen(self, s: int, nums: List[int]) -> int:
@@ -29,13 +27,15 @@ def minSubArrayLen(self, s: int, nums: List[int]) -> int:
             csum -= nums[left]
             left += 1
 
-    if res == sys.maxsize: return 0
-    else: return res
+    if res == sys.maxsize:
+        return 0
+    else:
+        return res
 ```
 
-### Iterate Left
+### Iterate `left`
 
-```py {13}
+```py
 def minSubArrayLen(self, s: int, nums: List[int]) -> int:
     n = len(nums)
     csum = 0
@@ -48,6 +48,9 @@ def minSubArrayLen(self, s: int, nums: List[int]) -> int:
         if csum >= s:
             res = min(res, right - left)
         csum -= nums[left]
-    if res == sys.maxsize: return 0
-    else: return res
+
+    if res == sys.maxsize:
+        return 0
+    else:
+        return res
 ```

@@ -12,6 +12,16 @@ related:
 
 See the harder related problem [Max Stack](max_stack).
 
+## Driver Code
+
+```py
+obj = MinStack()
+obj.push(val)
+obj.pop()
+param_3 = obj.top()
+param_4 = obj.getMin()
+```
+
 ## Solution
 
 Note the requirement in the prompt: `constant time`. So need to come up w/ `getMin` in $O(1)$ time.

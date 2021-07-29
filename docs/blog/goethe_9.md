@@ -245,7 +245,7 @@ He performed his duties reliably.
 | anleiten                                          | instruct, teach          |
 | die Anleitung                                     | instruction, guidance    |
 | Verantwortung übernehmen                          | take over responsibility |
-| mit jdm zurechtkommen                             | get along w/ sb.         |
+| mit jdm. zurechtkommen                            | get along w/ sb.         |
 | die Gegenwart                                     | present, presence        |
 | drinnen                                           | indoors                  |
 | wahren                                            | keep                     |
