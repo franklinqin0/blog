@@ -15,11 +15,11 @@ In this blog I talk about how this blog was built, developed, and transformed to
 
 ## Why Not Social Networks
 
-In recent years, people don't bother w/ creating their personal websites but spend more time on Instagrm/WeChat/Twitter/Weibo.
+In recent years, people don't bother creating their personal websites but spend more time on Instagrm/WeChat/Twitter/Weibo.
 
 The Internet is becoming more stupid and arousing. Sexy pictures and funny videos sell.
 
-Why not just post WeChat moments w/ no more than 9 pictures and interact w/ friends thru a like click? I once seriously doubt the value of creating this site. But I made up my mind to continue this site after reading [this popular essay](https://vanschneider.com/a-love-letter-to-personal-websites), and I quote:
+Why not just post WeChat moments and interact w/ friends thru like clicks? I once seriously doubt the value of creating this site. But I made up my mind to continue this site after reading [this popular essay](https://vanschneider.com/a-love-letter-to-personal-websites), and I quote:
 
 ::: theorem
 It’s a place where we can express, on our terms, who we are and what we offer.
@@ -47,4 +47,11 @@ In case you don't get some abbreviation, please read [this glossary](glossary).
 
 ## Comments Always Welcomed
 
-I fear that I might have expressed inappropriate words or incurred bad influence in this blog. After all, we should be responsible for what we say. If so, please inform me by comment/mail/etc. and I will fix it.
+I might have expressed inappropriate words or incurred bad influence in this blog. After all, we should be responsible for what we say. If so, please inform me by comment/mail/etc. and I will fix it.
+
+<!--
+- cannot scroll to anchor
+- invisible scrollbar
+- no good code theme
+- code of multiple languages
+-->

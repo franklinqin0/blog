@@ -61,6 +61,7 @@ module.exports = {
     ],
     // "sidebar": "auto",
     sidebar: require("./sidebar"),
+    activeHeaderLinks: false, // Default: true
     type: "blog",
     blogConfig: {
       // "category": {

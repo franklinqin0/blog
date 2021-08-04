@@ -214,6 +214,7 @@ My room is getting too small for me.
 | befangen                 | self-conscious       |
 | gelangen                 | get                  |
 | sich D. vornehmen        | undertake            |
+| verfahren                | proceed              |
 
 Diese Krankenversicherung bietet umfassende Deckung.  
 This health insurance offers comprehensive coverage.

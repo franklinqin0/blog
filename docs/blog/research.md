@@ -4,3 +4,5 @@
 [many DL talks](https://www.rle.mit.edu/eems/publications/tutorials/)
 
 [cpp tutorial](https://www.runoob.com/cplusplus/cpp-modifier-types.html)
+
+[How to calculate maximal parallelism in a DAG](https://stackoverflow.com/questions/45810278/how-to-calculate-maximal-parallelism-in-a-dag)
