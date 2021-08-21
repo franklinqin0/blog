@@ -43,11 +43,9 @@ def multiply(self, num1: str, num2: str) -> str:
     for i in reversed(range(n)):
         for j in reversed(range(m)):
             pos1, pos2 = i+j, i+j+1
-            mul = int(num1[i]) * int(num2[j])
-            carry = prod[pos2]
-            csum = mul + carry
-            prod[pos1] += csum//10
-            prod[pos2] = csum%10
+            prod[i+j+1] += int(num1[i]) * int(num2[j])
+            prod[i+j] += prod[i+j+1] // 10
+            prod[i+j+1] %= 10
 
     res = ""
     for i, p in enumerate(prod):

@@ -313,3 +313,68 @@ The man had to decide which way he wanted to take.
 
 Der Einbrecher schlug ein Fenster ein, um ins Haus zu gelangen.  
 The burglar smashed a window to get into the house.
+
+### [Die deutsche Teilung](https://youtu.be/KX8WrWKqbHE)
+
+| Deutsch                    | Bedeutung             |
+| -------------------------- | --------------------- |
+| A. aufteilen               | divide                |
+| verbinden                  | connect               |
+| entstehen                  | arise                 |
+| mächtig                    | powerful              |
+| vorrücken                  | advance               |
+| sich spalten               | split                 |
+| dringend                   | urgent(ly)            |
+| der Puffer                 | buffer                |
+| die Pufferzone             | buffer zone           |
+| verfeindet                 | hostile               |
+| die Maßnahme               | measure               |
+| die Besatzung              | occupation            |
+| die Verstaatlichung        | nationalization       |
+| beschließen                | determine             |
+| die Verfassung             | constitution          |
+| das Provisorium            | temporary measure     |
+| der Panzer                 | tank                  |
+| die Bewaffnung             | armament              |
+| unversöhnlich              | irreconcilable        |
+| ehemalig                   | former                |
+| herausfordern              | challenge             |
+| fordern                    | request               |
+| blutig                     | bloody                |
+| inhaftieren                | imprison              |
+| der Nebel                  | fog                   |
+| neblig                     | foggy                 |
+| der Essig                  | vinegar               |
+| der Zwilling               | twin                  |
+| die Traube                 | grape                 |
+| die Etage                  | floor                 |
+| die Bruchzahl              | fraction              |
+| das Eigentum               | property, ownership   |
+| das Wachstum               | growth                |
+| A. aufwerfen               | raise                 |
+| verbocken                  | mess up               |
+| verdammt                   | damn                  |
+| klauen                     | snitch                |
+| absetzen                   | set down              |
+| umbringen                  | kill                  |
+| abhauen                    | flee                  |
+| kapieren                   | understand            |
+| der Überfall               | invasion              |
+| verlogen, die Verlogenheit | untruthful, hypocrisy |
+| der Kunststoff             | plastic               |
+| die Übernahme              | acquisition           |
+| edel                       | noble                 |
+| streben                    | seek, aspire          |
+| das Unterpfand             | pledge                |
+
+hin und her  
+back and forth
+
+Genieren Sie sich nicht!  
+Do not be embarrassed!
+
+Die Sichtweite ist durch das neblige Wetter verringert.  
+Visibility is reduced due to the foggy weather.
+
+Mach doch die Augen auf!
+Open your eyes!
