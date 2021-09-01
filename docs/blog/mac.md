@@ -121,3 +121,25 @@ sudo nvram StartupMute=%00
 # set path
 set PATH <newdir> $PATH
 ```
+
+### `nohup` not Hang Up
+
+From [here](https://stackoverflow.com/a/15595391/6421652) I see:
+
+```sh
+shopt | grep hupon
+```
+
+### Check Disk Space
+
+[How to check free disk space in Linux](https://opensource.com/article/18/7/how-check-free-disk-space-linux)
+
+### Search for some Pattern in a Directory
+
+[Search for some Pattern in a Directory](https://stackoverflow.com/a/16957078/6421652)
+
+### Why a Process is Killed
+
+```sh
+dmesg -T | egrep -i 'killed process'
+```

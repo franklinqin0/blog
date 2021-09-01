@@ -59,3 +59,5 @@ main(int ac, char **av)
 [Write OS in Rust](https://timothyandrew.dev/learning/writing-an-os-in-rust)
 
 [Writing an OS in Rust](https://os.phil-opp.com)
+
+Segmentation fault: access memory that you do not have access to.

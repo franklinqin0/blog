@@ -366,6 +366,9 @@ The burglar smashed a window to get into the house.
 | edel                       | noble                 |
 | streben                    | seek, aspire          |
 | das Unterpfand             | pledge                |
+| das Kästchen               | box                   |
+| umwandeln                  | convert               |
+| behalten                   | keep, retain          |
 
 hin und her  
 back and forth

@@ -18,6 +18,10 @@ Classification is the task of choosing the correct class label for a given input
 
 [What to do when your training and testing data come from different distributions](https://www.kdnuggets.com/2019/01/when-your-training-testing-data-different-distributions.html)
 
+### Data Imbalance
+
+[Class Imbalance & Missing Labels](https://www.kdnuggets.com/2019/11/tips-class-imbalance-missing-labels.html)
+
 ## READ
 
 [https://lionbridge.ai/articles/6-types-of-neural-networks-every-data-scientist-must-know/]()

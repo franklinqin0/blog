@@ -31,3 +31,11 @@ let index = greeting.index(greeting.startIndex, offsetBy: 7)
 greeting[index]
 // a
 ```
+
+extended string delimiter
+
+```swift
+let threeMoreDoubleQuotationMarks = #"""
+Here are three more double quotes: """
+"""#
+```
