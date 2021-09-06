@@ -381,3 +381,10 @@ Visibility is reduced due to the foggy weather.
 
 Mach doch die Augen auf!
 Open your eyes!
+
+anhand + D. | with, by means of
+erheben | raise
+streuen | scatter
+mitfühlend | empathic |
+
+Der Lehrer erklärte die Übung anhand eines Beispiels. The teacher explained the exercise by means of an example.

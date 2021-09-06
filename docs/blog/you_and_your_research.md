@@ -6,6 +6,7 @@ categories:
   - misc
 tags:
   - tech
+  - research
   - copy
 ---
 

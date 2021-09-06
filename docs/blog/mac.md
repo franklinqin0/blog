@@ -143,3 +143,15 @@ shopt | grep hupon
 ```sh
 dmesg -T | egrep -i 'killed process'
 ```
+
+### Delete a Folder Quickly
+
+```sh
+perl -e 'for(<*>){((stat)[9]<(unlink))}'
+```
+
+### Folder Sizes under Current Directory in Descending Order
+
+```sh
+du -sch * .[!.]* | sort -rh
+```

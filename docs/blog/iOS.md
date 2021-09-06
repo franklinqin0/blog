@@ -39,3 +39,5 @@ let threeMoreDoubleQuotationMarks = #"""
 Here are three more double quotes: """
 """#
 ```
+
+the `~=` operator compares two values of the same type using the == operator.
