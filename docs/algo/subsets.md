@@ -30,7 +30,7 @@ def subsets(self, nums: List[int]) -> List[List[int]]:
     return res
 ```
 
-### Backtracking
+### Backtracking 1
 
 ::: theorem Complexity
 time: $O(n\cdot 2^n)$  
@@ -54,6 +54,24 @@ def subsets(self, nums: List[int]) -> List[List[int]]:
         backtrack(i+1)
 
     backtrack(0)
+    return res
+```
+
+### Backtracking 2
+
+```py
+def subsets(self, nums: List[int]) -> List[List[int]]:
+    nums.sort()
+    res = []
+
+    def backtrack(nums, path):
+        res.append(path[:])
+        for i in range(len(nums)):
+            path.append(nums[i])
+            backtrack(nums[i+1:], path)
+            path.pop()
+
+    backtrack(nums, [])
     return res
 ```
 

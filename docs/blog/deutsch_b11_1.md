@@ -1,12 +1,12 @@
 ---
-title: Deutsch Notizen 9 - Menschen B1.1 eins
+title: Deutsch Notizen 9 - Menschen B1.1 1
 date: 2021-01-19
 categories:
   - study
 tags:
   - Deutsch
-prev: goethe_8
-next: goethe_10
+prev: deutsch_a2_4
+next: deutsch_b11_2
 publish: false
 ---
 

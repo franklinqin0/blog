@@ -1,12 +1,12 @@
 ---
-title: Deutsch Notizen 5 - A2 eins
+title: Deutsch Notizen 5 - A2 1
 date: 2020-12-01
 categories:
   - study
 tags:
   - Deutsch
-prev: goethe_4
-next: goethe_6
+prev: deutsch_a1_4
+next: deutsch_a2_2
 publish: false
 ---
 
@@ -247,7 +247,7 @@ Ich trinke mehr Wasser.
 | die Nichte                            | niece                           |
 | verbessern                            | improve                         |
 | manchmal                              | sometimes                       |
-| gehören                               | belong to                       |
+| gehören zu + D.                       | belong to                       |
 | unterstreichen                        | underline, emphasize            |
 | die Gaststätte                        | das Restaurant                  |
 | Statt                                 | place                           |
@@ -335,14 +335,10 @@ trick or treat
 Hinten ist ein Stift.  
 Hinter dem Stuhl ist ein Stift.
 
-Zu meiner Familie gehören zwei Teile. Ich bin Enizelkind. Meine
-
-Zu meiner Familie gehören meine Eltern, mein Bruder und ich.
-
+Zu meiner Familie gehören meine Eltern, mein Bruder und ich.  
 Meine Eltern, mein Bruder und ich gehören zu meiner Familie.
 
-Ich liebe meinen Freund.
-
+Ich liebe meinen Freund.  
 Meinen Freund liebe ich.
 
 Zu meiner Familie gehören zwei Teile. Meine Großeltern wohnen jetzt in der Heimatstadt in Hubei, aber ich lebe bei meinen Eltern in Guangzhou seit 2001. Ich bin Enzelkind und Single.

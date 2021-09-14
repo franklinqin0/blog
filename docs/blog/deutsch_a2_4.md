@@ -1,12 +1,12 @@
 ---
-title: Deutsch Notizen 8 - A2 vier
+title: Deutsch Notizen 8 - A2 4
 date: 2021-01-14
 categories:
   - study
 tags:
   - Deutsch
-prev: goethe_7
-next: goethe_9
+prev: deutsch_a2_3
+next: deutsch_b11_1
 publish: false
 ---
 

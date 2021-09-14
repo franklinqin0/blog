@@ -1,12 +1,12 @@
 ---
-title: Deutsch Notizen 13 - Aspekte Neu B2 eins
+title: Deutsch Notizen ??? - Aspekte Neu B2.1 1
 date: 2021-04-12
 categories:
   - study
 tags:
   - Deutsch
-prev: goethe_12
-next: goethe_14
+# prev: ???
+next: deutsch_b21_2
 publish: false
 ---
 

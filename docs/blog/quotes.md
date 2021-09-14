@@ -99,6 +99,10 @@ This page documents good quotes I came across.
 能得到真心的原谅
 :::
 
+## 2021 年 9 月 14 日
+
+Die Naturwissenschaft beschreibt und erklärt die Natur nicht einfach. Sie ist Teil des Wechselspiels zwischen der Natur und uns selbst.
+
 ## Quotes
 
 ### English

@@ -1,12 +1,12 @@
 ---
-title: Deutsch Notizen 6 - A2 zwei
+title: Deutsch Notizen 6 - A2 2
 date: 2020-12-24
 categories:
   - study
 tags:
   - Deutsch
-prev: goethe_5
-next: goethe_7
+prev: deutsch_a2_1
+next: deutsch_a2_3
 publish: false
 ---
 

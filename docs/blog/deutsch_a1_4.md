@@ -1,17 +1,17 @@
 ---
-title: Deutsch Notizen 4 - A1 vier
+title: Deutsch Notizen 4 - A1 4
 date: 2020-03-30
 sidebar: "auto"
 categories:
   - study
 tags:
   - Deutsch
-prev: goethe_3
-next: goethe_5
+prev: deutsch_a1_3
+next: deutsch_a2_1
 publish: false
 ---
 
-Deutsch Notizen vom 30. März bis 8. Mai.
+Deutsch Notizen vom 30. März bis 8. Mai, 2020.
 
 <!-- more -->
 

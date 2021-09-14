@@ -1,13 +1,15 @@
 ---
-title: Deutsch Notizen 17 - Aspekte Neu B2 fünf
+title: Deutsch Notizen - Aspekte Neu B2.1 5
 date: 2021-06-28
 categories:
   - study
 tags:
   - Deutsch
-prev: goethe_16
+prev: deutsch_b21_4
 publish: false
 ---
+
+Deutsch Notizen für Deutsch als Fremdsprache - B2.1 fünf
 
 ## Wer Wissen schaft, macht Wissenschaft
 

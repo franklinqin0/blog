@@ -1,17 +1,17 @@
 ---
-title: Deutsch Notizen 3 - A1 drei
+title: Deutsch Notizen 3 - A1 3
 date: 2020-03-16
 sidebar: "auto"
 categories:
   - study
 tags:
   - Deutsch
-prev: goethe_2
-next: goethe_4
+prev: deutsch_a1_2
+next: deutsch_a1_4
 publish: false
 ---
 
-Deutsch Notizen vom 16. bis 27. März.
+Deutsch Notizen vom 16. bis 27. März, 2020.
 
 <!-- more -->
 

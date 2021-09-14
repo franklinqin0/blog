@@ -1,10 +1,12 @@
 ---
-title: Deutsche Wörter
+title: Deutsche Wörter aus dem Alltag
 date: 2021-04-03
 categories:
   - study
 tags:
   - Deutsch
+prev: deutsche_kultur
+next: deutsch_b12_1
 publish: false
 ---
 
@@ -369,6 +371,13 @@ The burglar smashed a window to get into the house.
 | das Kästchen               | box                   |
 | umwandeln                  | convert               |
 | behalten                   | keep, retain          |
+| die Rezension              | review                |
+| abbuchen                   | debit                 |
+| aufladen                   | charge                |
+| anhand + D.                | with, by means of     |
+| erheben                    | raise                 |
+| streuen                    | scatter               |
+| mitfühlend                 | empathic              |
 
 hin und her  
 back and forth
@@ -382,9 +391,16 @@ Visibility is reduced due to the foggy weather.
 Mach doch die Augen auf!
 Open your eyes!
 
-anhand + D. | with, by means of
-erheben | raise
-streuen | scatter
-mitfühlend | empathic |
+Der Lehrer erklärte die Übung anhand eines Beispiels.  
+The teacher explained the exercise by means of an example.
 
-Der Lehrer erklärte die Übung anhand eines Beispiels. The teacher explained the exercise by means of an example.
+Es kommt darauf an.  
+It depends.
+
+::: tip 5 Finger
+Daumen  
+Zeigefinger  
+Mittelfinger  
+Ringfinger  
+Kleiner Finger
+:::

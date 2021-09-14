@@ -1,16 +1,16 @@
 ---
-title: Deutsch Notizen 12 - Menschen B1.2 zwei
+title: Deutsch Notizen 12 - Menschen B1.2 4
 date: 2021-02-03
 categories:
   - study
 tags:
   - Deutsch
-prev: goethe_11
-next: goethe_13
+prev: deutsch_b11_3
+next: deutsch_b12_1
 publish: false
 ---
 
-Deutsch Notizen für das Goethe Institut - B1.2 zwei
+Deutsch Notizen für das Goethe Institut - B1.1 vier
 
 <!-- more -->
 

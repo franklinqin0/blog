@@ -1,16 +1,16 @@
 ---
-title: Deutsch Notizen 1 - A1 eins
+title: Deutsch Notizen 1 - A1 1
 date: 2020-03-02
 sidebar: "auto"
 categories:
   - study
 tags:
   - Deutsch
-next: goethe_2
+next: deutsch_a1_2
 publish: false
 ---
 
-Deutsch Notizen vom 2. bis 8. März.
+Deutsch Notizen vom 2. bis 8. März, 2020.
 
 <!-- more -->
 
@@ -257,7 +257,7 @@ Deutsch Notizen vom 2. bis 8. März.
 
 | Deutsch       | Englisch     |
 | ------------- | ------------ |
-| am morgen     | tomorrow     |
+| morgen        | tomorrow     |
 | am Morgen     | morning      |
 | am Vormittag  | late morning |
 | am Mittag     | noon         |
@@ -287,7 +287,7 @@ Deutsch Notizen vom 2. bis 8. März.
 | -------------------- | ---------------- |
 | leben                | live             |
 | sehen                | see              |
-| studierten           | study            |
+| studieren            | study            |
 | suchen               | look for         |
 | Sitzung/Treffen      | meeting          |
 | Abgabe               | delivery         |

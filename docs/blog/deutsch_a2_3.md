@@ -1,12 +1,12 @@
 ---
-title: Deutsch Notizen 7 - A2 drei
+title: Deutsch Notizen 7 - A2 3
 date: 2021-01-12
 categories:
   - study
 tags:
   - Deutsch
-prev: goethe_6
-next: goethe_8
+prev: deutsch_a2_2
+next: deutsch_a2_4
 publish: false
 ---
 

@@ -1,16 +1,18 @@
 ---
-title: Deutsch Notizen 16 - Aspekte Neu B2 vier
+title: Deutsch Notizen 16 - Aspekte Neu B2 4
 date: 2021-06-09
 categories:
   - study
 tags:
   - Deutsch
-prev: goethe_15
-next: goethe_17
+prev: deutsch_b21_3
+next: deutsch_b21_5
 publish: false
 ---
 
-## Zusammen leben
+Deutsch Notizen für Deutsch als Fremdsprache - B2.1 vier
+
+## Zusammen Leben
 
 ### Wörter
 
