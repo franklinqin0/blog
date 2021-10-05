@@ -1,5 +1,5 @@
 ---
-title: Deutsch Notizen 12 - Menschen B1.2 4
+title: Deutsch Notizen 12 - Menschen B1.1 4
 date: 2021-02-03
 categories:
   - study
@@ -203,12 +203,12 @@ Die anderen werden es dir danken!
 
 #### indem vs. sodass
 
-::: tip indem - ein Mittel
+::: tip indem - ein Mittel (with it)
 Bereiten Sie sich auf anstrengende Bergtouren vor, **indem** Sie regelmäßig Sport treiben.  
 **Indem** Sie Übernachtung und Frühstück schon am Abend bezahlen, machen Sie dem Hüttenwirt das Leben leichter.
 :::
 
-::: tip sodass - ein Resultat
+::: tip sodass - ein Resultat (so that)
 Man sollte immer eine warme Jacke mitnehmen, **sodass** man auch bei schlechtem Wetter nicht friert.  
 Gehen Sie früh genug los, **sodass** Sie Ihr Ziel noch bei Tageslicht erreichen.  
 Bleiben Sie immer auf den markierten Wegen, **sodass** die Tiere im Wald nicht gestört werden.

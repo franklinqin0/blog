@@ -1,5 +1,5 @@
 ---
-title: Deutsch Notizen 11 - Menschen B1.2 3
+title: Deutsch Notizen 11 - Menschen B1.1 3
 date: 2021-02-23
 categories:
   - study
@@ -239,7 +239,7 @@ Participation is at your own risk.
 | die Stilrichtung                   | style                  |
 | der Lebensstil                     | lifestyle              |
 | wendig                             | agile, flexible        |
-| notwendig                          | necessary              |
+| notwendig, nötig                   | necessary              |
 | die Geschmacksrichtung             | taste, flavor          |
 | das Kraut, die Kräuter             | herb                   |
 | landestypisch                      | country-specific       |

@@ -95,7 +95,7 @@ This is equivalent with `self.train(False)`.
 
 ### Autoencoder
 
-For each image input, the autoencoder just tries to reproduce the same image as output. The difficulty behind is that the autoencoder has to go through a low dimensional bottleneck, which we call the latent space. In other words, the autoencoder should learn to represent all the input information in the low dimensional latent space; it learns to compress the input distribution. To make our model learn to reproduce the input, we use the mean squared error between our input pixels and the output pixels as the loss function. For this loss we do not need any labels!
+For each image input, the autoencoder just tries to reproduce the same image as output. The difficulty behind is that the autoencoder has to go through a **low dimensional bottleneck**, which we call the **latent space**. In other words, the autoencoder should learn to represent all the input information in the low dimensional latent space; it learns to compress the input distribution. To make our model learn to reproduce the input, we use the mean squared error between our input pixels and the output pixels as the loss function. For this loss we do not need any labels!
 
 AutoEncoder 形式很简单, 分别是 encoder 和 decoder, 压缩和解压, 压缩后得到压缩的特征值, 再从压缩的特征值解压成原图片
 

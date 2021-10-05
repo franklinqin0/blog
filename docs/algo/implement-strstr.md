@@ -16,6 +16,8 @@ I previously did the [shortest palindrome](shortest_palindrome) problem in multi
 
 ## Solution
 
+Let $m$ be the length of `haystack` and $n$ be the length of `needle`.
+
 ### Built-in Function
 
 Can use the built-in function `find` or `index` in `str`. Remember to check the empty string.
@@ -29,6 +31,11 @@ def strStr(self, haystack: str, needle: str) -> int:
 ### RK algo
 
 Pretty standard RK algo. Note the usages of `lambda`(anonymous function) and `ord`(returns Unicode code point for a one-character string).
+
+::: theorem Complexity
+time: $O(n)$  
+space: $O(n)$
+:::
 
 ```py
 def strStr(self, haystack: str, needle: str) -> int:
@@ -44,8 +51,8 @@ def strStr(self, haystack: str, needle: str) -> int:
     needle_to_int = lambda i: ord(needle[i])-ord('a')
 
     for i in range(n):
-        hash_n = (base*hash_n + needle_to_int(i)) % mod
-        hash_h = (base*hash_h + haystack_to_int(i)) % mod
+        hash_n = (base * hash_n + needle_to_int(i)) % mod
+        hash_h = (base * hash_h + haystack_to_int(i)) % mod
 
     # early exit if needle is the prefix of haystack
     if hash_n == hash_h and needle == haystack[:n]:
@@ -53,7 +60,7 @@ def strStr(self, haystack: str, needle: str) -> int:
 
     power = pow(base, n, mod)
     for start in range(1, h-n+1):
-        hash_h = (hash_h*base - power*haystack_to_int(start-1) + haystack_to_int(start+n-1)) % mod
+        hash_h = (hash_h*base - power * haystack_to_int(start-1) + haystack_to_int(start+n-1)) % mod
         if hash_n == hash_h and needle == haystack[start:start+n]:
             return start
     return -1

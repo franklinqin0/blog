@@ -20,3 +20,5 @@ A chordal graph is a simple graph in which every cycle of length greater than th
 Every chordal graph is perfect.
 
 It is possible to recognize chordal graphs in linear time. Furthermore, a maximum clique of a chordal graph can be found in polynomial time although the problem is NP-complete for general graphs.
+
+[check which C++ version](https://stackoverflow.com/a/51536462/6421652)

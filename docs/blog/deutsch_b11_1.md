@@ -38,7 +38,7 @@ You are simply the best!
 
 | Deutsch                      | Bedeutung                   |
 | ---------------------------- | --------------------------- |
-| die Eigenschaft              | characteristic property     |
+| die Eigenschaft              | characteristic, property    |
 | vermuten                     | suspect                     |
 | der Abschied                 | farewell                    |
 | sich (von jm.) verabschieden | say goodbye to              |

@@ -275,3 +275,143 @@ Und schon wieder reingetreten! An manchen Tagen lässt man kein Fettnäpfchen au
 ::: tip Portfolio 1
 Ich wurde 1998 in China geboren. Mein Geburtsort ist Jingzhou, Hubei Provinz, aber ich habe ganz wenig Zeit dort verbracht und glaube kaum, dass es meine Heimat ist. Ich bin in Guangzhou aufgewachsen, weil meine Eltern dorthin ziehen und dort arbeiten. Als ich 16 war, ging ich in die USA zur Universität. Bis dahin war ich noch nie außerhalb Chinas gewesen. Ich habe mich lange Zeit in den USA an das Leben gewöhnt, das dem in China überhaupt nicht ähnlich ist. In den USA ist es schwer, ohne Auto irgendwohin zu kommen, da die Busse sehr langsam und die Züge wirklich teuer sind. Zunächst fand ich es unvernünftig, den Kellnern und Kellnerinnen in Restaurants Trinkgeld zu geben, während die Kellner bei McDonalds den Kunden auch bei der Bestellung helfen, aber nichts bekommen! Auch das Universitätsleben war alles andere als einfach. Ich sprach anfangs schlechtes Englisch, fand kaum ausländische Freunde und war zu schüchtern, um in eine Sprechstunde zu gehen und Fragen zu stellen. Während der ganzen Zeit in den USA mochte ich westliches Essen nicht besonders gern, obwohl meine Schule eine der besten Mensen aller US-Universitäten hatte. Zum Glück fand ich Apollo, ein chinesisches Restaurant, das so viele preiswerte Köstlichkeiten anbot und in dem ich mit so vielen meiner lieben Freunde die guten alten Zeiten verbracht habe! Obwohl die Arbeiter eigentlich oft miteinander stritten, waren sie immer freundlich, hilfsbereit und lächelten uns Studenten an. Wegen der Pandemie wurde das Restaurant ab Ende 2020 leider geschlossen. Obwohl physische Dinge kommen und gehen, können chinesische Gerichte wie Nudeln und Dim Sum immer glückliche Erinnerungen wecken. Das ist, denke ich, der Geschmack und Geruch von Heimat.
 :::
+
+| erraten | guess |
+|ehemalig|former|
+|der Besitzer|owner|
+|abkaufen|buy sth. from|
+|A. erzielen|obtain,reach|
+|staunen|astonish|
+|schätzen|estimate|
+|pfiffig | smart|
+|scheinbar|apparent|
+|das Versehen|mistake|
+|herankommen|reach, come near|
+|das Missgeschick|misfortune|
+|das Geschick|skill|
+
+aus Versehen  
+unintentional
+
+reinigen  
+sauber machen
+
+sich auskennen  
+ein Experte/Profi sein  
+Ich kenne mich mit Computern aus.
+
+|gerade|geradeaus|
+|jdn nerven|annoy, bother|
+|anbauen|grow|
+|entsorgen| dispose|
+
+„Apfelsine” und „Apfel” sehen ähnlich aus, aber sind zwei unterschiedliche Sachen.  
+Ich habe viele Gründe, mich schuldig zu fühlen.
+
+|der Streik|strike|
+|drohen|threaten|
+|rausbringen | bring out |
+
+zwar 1) Ich sage etwas Allgemeines und dann etwas Spezifischeres. Für Spezifische benutze ich "zwar".
+Ich koche heute Abendessen und zwar Nudeln mit Tomatensauce.
+
+zwar 2) Verstärkung von "aber" München ist zwar schön, aber teuer.
+
+raus -> nach draußen
+rein -> nach drinnen
+rausgehen, reingehen
+aus + Nomen (Präposition)
+
+rausgehen = herausgehen
+aber: rausgehen wird mehr benutzt
+
+|die Botschaft | embassy, message|
+|verschwinden|disappear|
+|begleiten|accompany|
+|stechen, gestochen | sting|
+|beißen, hat gebissen, biss|bite|
+|folgendermaßen | as follows|
+|gegliedert|divided, organized|
+|schälen|peel|
+|begleiten|accompany, escort|
+|zahlreich|numerous|
+|ehrenamtlich| voluntary|
+|bedürfen|require, need|
+
+Die Lebensmittel werden verteilt.
+Präteritum: Die Lebensmittel wurden verteilt.
+(Perfekt: Die Lebensmittel sind verteilt worden.)
+
+Ja, ich wurde schon einmal von einer Biene gestochen.
+Nein, ich wurde noch nie von einer Biene gestochen.
+
+positiv:
+schon einmal/zweimal/ein
+
+auf dem Land = in dem Dorf
+
+Meine Präsentation ist folgendermaßen gegliedert.
+
+### Grammatik
+
+::: theorem werden
+Prozess
+normales Verb 变成，成为  
+werden + Nomen/Adjektiv  
+Wenn ich groß bin, **werde** ich Arzt! Ich **werde** reich!  
+_Perfekt_: Ich bin Arzt **geworden**. Ich bin reich **geworden**.
+
+Passiv  
+werden + Partizip II  
+Der Motor wird montiert.  
+_Perfekt_: Der Motor ist montiert **worden**.
+
+Futur  
+werden + Infinitiv  
+Die Schulen werden mehr Geld bekommen.  
+Die Schulen werden wohl weniger Geld bekommen.
+:::
+
+## Vom Leben in Städten
+
+|die Geschwindigkeit | speed |
+|der Dreck | dirt |
+|der Gehsteig | pavement|
+|der Rand, der Stadtrand | edge, outskirts|
+|das Schaufenster|window|
+|das Fahrzeug|vehicle|
+|das Abgas|exhaust|
+|der Lehrgang|training, course|
+
+gehen
+
+1. zu Fuß
+2. für immer, nicht zurück (Er ist in die USA gegangen. = Er ist in die USA umgezogen.)
+3. ein paar feste Kombinationen: ins Kino gehen, einkaufen gehen(das kann auch mit dem Rad oder der U-Bahn sein)
+
+Ich liebe das Land lieber.
+
+Was ich mache oder nicht, das geht doch keinen was an.  
+What I do or don't do is nobody's business.
+
+Da ist nix los!
+Da ist tote Hose.
+Da sagen sich Fuchs und Hase gute Nacht.
+
+|die Tortur, die Folter|torture|
+|spüren|feel|
+|die Fahrbahn|road|
+|das Geräusch | der Lärm |
+|der Klang|sound |
+|die Stimme| voice|
+|der Müllabfuhr | garbage collection|
+|riesig|huge|
+|das Gelände|area|
+|obdachlose|homeless|
+|üblich|normal|
+|die Backstube |bakery |
+|der Lehrling | apprentice |
+|die Frühschicht|morning shift|
+|evtl. = eventuell | perhaps |
+
+Ich denke, ich mag lieber München.

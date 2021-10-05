@@ -397,6 +397,9 @@ The teacher explained the exercise by means of an example.
 Es kommt darauf an.  
 It depends.
 
+Sie legt viel Wert auf ihr Äußeres.  
+She attaches great importance to her appearance.
+
 ::: tip 5 Finger
 Daumen  
 Zeigefinger  

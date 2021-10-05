@@ -185,7 +185,7 @@ Das finde ich auch/nicht.
 Ein Vorteil beim online-Shopping ist, **dass** es ganz schnell geht.  
 Das glaube ich auch, aber ein Nachteil ist, dass Man nicht testen kann.
 
-### Sich
+### Reflexive Verben
 
 sich auf das Wochenende freuen  
 sich über schlechtes Wetter ärgern  
