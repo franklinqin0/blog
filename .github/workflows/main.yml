@@ -24,7 +24,7 @@ jobs:
 
       # deploy to Github Pages
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v4
+        uses: JamesIves/github-pages-deploy-action@4
         with:
           token: ${{ secrets.IAMATOKEN }}
           branch: gh-pages
