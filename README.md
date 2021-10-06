@@ -1,3 +1,3 @@
 # franklinqin0.me
 
-franklinqin0's blog
+franklinqin0's blog & algo
