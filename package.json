@@ -12,7 +12,6 @@
     "build": "vuepress build docs"
   },
   "dependencies": {
-    "markdown-it-task-lists": "^2.1.1",
     "vue-class-component": "^7.2.3"
   },
   "devDependencies": {
@@ -21,6 +20,7 @@
     "@vuepress/plugin-google-analytics": "^1.7.1",
     "@vuepress/plugin-medium-zoom": "1.8.2",
     "markdown-it-footnote": "^3.0.2",
+    "markdown-it-task-lists": "^2.1.1",
     "vuepress": "1.8.2",
     "vuepress-plugin-flowchart": "1.4.3",
     "vuepress-plugin-google-adsense": "^0.2.1",
