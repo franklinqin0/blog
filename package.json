@@ -12,6 +12,7 @@
     "build": "vuepress build docs"
   },
   "dependencies": {
+    "markdown-it-task-lists": "^2.1.1",
     "vue-class-component": "^7.2.3"
   },
   "devDependencies": {
