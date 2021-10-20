@@ -1,5 +1,5 @@
 ---
-title: TUM course notes
+title: TUM SS21
 date: 2021-04-12
 categories:
   - study

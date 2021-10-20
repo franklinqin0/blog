@@ -9,7 +9,7 @@
 
 ### Perfect Graph
 
-graph in which the **chromatic number** of every induced subgraph equals the order of the largest clique of that subgraph (**clique number**). Equivalently stated in symbolic terms an arbitrary graph $G=(V,E)$ is perfect if and only if for all $S\subseteq V$ we have $\chi(G[S])=\omega(G[S])$.
+Perfect Graph is a graph in which the **chromatic number** of every induced subgraph equals the order of the largest clique of that subgraph (**clique number**). Equivalently stated in symbolic terms an arbitrary graph $G=(V,E)$ is perfect if and only if for all $S\subseteq V$ we have $\chi(G[S])=\omega(G[S])$.
 
 In all perfect graphs, the _graph coloring problem_, _maximum clique problem_, and _maximum independent set problem_ can all be solved in **polynomial** time. In addition, several important min-max theorems in combinatorics, such as Dilworth's theorem, can be expressed in terms of the perfection of certain associated graphs.
 
@@ -22,3 +22,9 @@ Every chordal graph is perfect.
 It is possible to recognize chordal graphs in linear time. Furthermore, a maximum clique of a chordal graph can be found in polynomial time although the problem is NP-complete for general graphs.
 
 [check which C++ version](https://stackoverflow.com/a/51536462/6421652)
+
+[https://en.wikipedia.org/wiki/Lexicographic_breadth-first_search](Lex BFS)
+
+### Ordering
+
+A graph $G$ is defined to be chordal if its vertices have a _perfect elimination ordering_, an ordering such that for any vertex $v$ the neighbors that occur later in the ordering form a _clique_. In a chordal graph, the **reverse** of a _lexicographic ordering_ is always a perfect elimination ordering.

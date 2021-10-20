@@ -15,7 +15,7 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 fünf
 
 ### Wörter
 
-| Deutsch                    | Englisch             |
+| Deutsch                    | Bedeutung            |
 | -------------------------- | -------------------- |
 | das Mittelalter            | Middle Ages          |
 | der Speck                  | bacon                |

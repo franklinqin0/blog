@@ -277,3 +277,11 @@ Als ich fünf Jahre alt war, habe ich eine der wichtigen Entscheidungen in meine
 
 Wegen der vielen Hausaufgaben in der Mittelschule musste ich mit Geige Spielen aufhören. In der Oberschule und an der Universität spielte ich nicht viel Geige, aber ich habe oft klassische Musik gehört. In meinem letzten Jahr als Bachelor war ich mit den Schulaufgaben, der Arbeitssuche und auch der Master Bewerbung beschäftigt, ganz gestresst und sogar oft deprimiert. Dank „An der schönen Donau” und Beethovens „9. Sinfonie”, empfand ich es Lichtblick in der Dunkelheit und Hoffnung zwischen Verzweiflung. Am Ende habe ich meinen Abschluss gemacht, eine gute Masterzulassung und ein großartiges Stellenangebot bekommen. Ohne die Unterstützung der Musik hätte ich nichts geschafft.
 :::
+
+|verständigen|inform|
+| sich verständigen |communicate|
+|entsprechen|correspond to|
+|entsprechend | corresponding|
+|genehmigen|approve|
+|anfallen|incur|
+|die Gebühr|fee, charge|

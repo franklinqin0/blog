@@ -19,23 +19,23 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Wörter
 
-| Deutsch                         | Englisch    |
-| ------------------------------- | ----------- |
-| <d type="er" text="Sport"/>     | sport       |
-| <d type="ie" text="Leute"/>     | people      |
-| <d type="as" text="Papier"/>    | paper       |
-| <d type="as" text="Spiele"/>    | play(n.)    |
-| <d type="as" text="Blei"/>      | lead 铅     |
-| <d type="as" text="Feuerzeug"/> | lighter     |
-| spielen                         | play(v.)    |
-| fahren                          | ride, drive |
-| nett                            | nice/kind   |
-| charmant                        | charming    |
-| gern(e)                         | fond (adv.) |
+| Deutsch       | Bedeutung   |
+| ------------- | ----------- |
+| der Sport     | sport       |
+| die Leute     | people      |
+| das Papier    | paper       |
+| das Spiele    | play(n.)    |
+| das Blei      | lead 铅     |
+| das Feuerzeug | lighter     |
+| spielen       | play(v.)    |
+| fahren        | ride, drive |
+| nett          | nice, kind  |
+| charmant      | charming    |
+| gern(e)       | fond        |
 
 ### Sportarten
 
-| Deutsch            | Englisch        |
+| Deutsch            | Bedeutung       |
 | ------------------ | --------------- |
 | Spiele spielen     | play games      |
 | Tennis spielen     | play tennis     |
@@ -51,7 +51,7 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Sätze
 
-| Deutsch                                                                                                             | Englisch                              |
+| Deutsch                                                                                                             | Bedeutung                             |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | Was machen Sie (nicht) gern (Sport)?<br>Was machst du (nicht) gern (Sport)?<br>Was spielst du (nicht) gern (Sport)? | What (sport) do you (not) like to do? |
 | Bücher lesen.<br>Ich lese gern.                                                                                     | I like reading.                       |
@@ -64,39 +64,39 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Wörter
 
-| Deutsch                  | Englisch      |
-| ------------------------ | ------------- |
-| wählen                   | choose        |
-| schwierig                | difficult     |
-| wann                     | when          |
-| dies/diese/dieses/dieser | this          |
-| Woche                    | week          |
-| Wochentag                | weekday       |
-| Wochenende               | weekend       |
-| sich                     | self          |
-| vielleicht               | perhaps       |
-| gleich                   | at once, same |
-| leider                   | unfortunately |
-| aber                     | but           |
-| nah(e)                   | near          |
-| bis                      | until         |
-| noch                     | still         |
-| mehr                     | more          |
-| ja                       | yes           |
-| nein                     | no            |
-| jeder                    | every         |
+| Deutsch                     | Bedeutung     |
+| --------------------------- | ------------- |
+| wählen                      | choose        |
+| schwierig                   | difficult     |
+| wann                        | when          |
+| dies, diese, dieses, dieser | this          |
+| Woche                       | week          |
+| Wochentag                   | weekday       |
+| Wochenende                  | weekend       |
+| sich                        | self          |
+| vielleicht                  | perhaps       |
+| gleich                      | at once, same |
+| leider                      | unfortunately |
+| aber                        | but           |
+| nah(e)                      | near          |
+| bis                         | until         |
+| noch                        | still         |
+| mehr                        | more          |
+| ja                          | yes           |
+| nein                        | no            |
+| jeder                       | every         |
 
-### Woche (Week)
+### die Woche (Week)
 
-| Deutsch    | Englisch  |
-| ---------- | --------- |
-| Montag     | Monday    |
-| Dienstag   | Tuesday   |
-| Mittwoch   | Wednesday |
-| Donnerstag | Thursday  |
-| Freitag    | Friday    |
-| Samstag    | Saturday  |
-| Sonntag    | Sunday    |
+| Deutsch        | Bedeutung |
+| -------------- | --------- |
+| der Montag     | Monday    |
+| der Dienstag   | Tuesday   |
+| der Mittwoch   | Wednesday |
+| der Donnerstag | Thursday  |
+| der Freitag    | Friday    |
+| der Samstag    | Saturday  |
+| der Sonntag    | Sunday    |
 
 ### Tageszeiten (time of day)
 
@@ -111,7 +111,7 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Aktivität (activity)
 
-| Deutsch         | Englisch        |
+| Deutsch         | Bedeutung       |
 | --------------- | --------------- |
 | fotografieren   | take photograph |
 | kochen          | cook            |
@@ -121,7 +121,7 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Sätze
 
-| Deutsch                      | Englisch                         |
+| Deutsch                      | Bedeutung                        |
 | ---------------------------- | -------------------------------- |
 | Was kennen Sie auf dem Bild? | What do you know in the picture? |
 | Bis gleich!                  | See you later!                   |
@@ -130,56 +130,56 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Wörter
 
-| Deutsch                         | Englisch                              |
-| ------------------------------- | ------------------------------------- |
-| <d type="er" text="Betreff"/>   | headline                              |
-| <d type="er" text="Freund"/>    | friend                                |
-| <d type="er" text="Feind"/>     | foe                                   |
-| <d type="er" text="Grüß(e)"/>   | greeting                              |
-| <d type="er" text="Beginn"/>    | beginning                             |
-| <d type="ie" text="Geburt"/>    | birth                                 |
-| <d type="ie" text="Feier"/>     | party, celebration                    |
-| <d type="ie" text="Einladung"/> | invitation                            |
-| <d type="ie" text="Bleibe"/>    | place to stay                         |
-| <d type="ie" text="Nachricht"/> | news/message                          |
-| <d type="ie" text="Endung"/>    | ending                                |
-| <d type="ie" text="Prüfung"/>   | test(n.)                              |
-| <d type="as" text="Elter"/>     | parent(s)                             |
-| wirt/werden                     | become                                |
-| feier                           | celebrate                             |
-| bleiben                         | stay, remain                          |
-| um                              | around (specific time: {xxx} o'clock) |
-| machen                          | make                                  |
-| spät                            | late                                  |
-| später                          | later                                 |
-| prufen                          | test(v.)                              |
-| schlafen                        | sleep                                 |
-| deshalb                         | therefore                             |
-| zur                             | to the                                |
-| nächste                         | next                                  |
-| viel/viele/vielen               | many                                  |
-| erste                           | 1st                                   |
-| zweite                          | 2nd                                   |
-| dritte                          | 3rd                                   |
-| vierte                          | 4th                                   |
-| verschieden                     | different                             |
-| gemeinsam                       | together                              |
-| verabreden                      | arrange                               |
-| früh                            | early                                 |
-| wissen                          | know                                  |
-| brauchen                        | need                                  |
-| hinzufügen                      | add                                   |
+| Deutsch             | Bedeutung                             |
+| ------------------- | ------------------------------------- |
+| der Betreff         | headline                              |
+| der Freund          | friend                                |
+| der Feind           | foe                                   |
+| der Grüß(e)         | greeting                              |
+| der Beginn          | beginning                             |
+| die Geburt          | birth                                 |
+| die Feier           | party, celebration                    |
+| die Einladung       | invitation                            |
+| die Bleibe          | place to stay                         |
+| die Nachricht       | news/message                          |
+| die Endung          | ending                                |
+| die Prüfung         | test(n.)                              |
+| das Elter           | parent(s)                             |
+| wirt/werden         | become                                |
+| feier               | celebrate                             |
+| bleiben             | stay, remain                          |
+| um                  | around (specific time: {xxx} o'clock) |
+| machen              | make                                  |
+| spät                | late                                  |
+| später              | later                                 |
+| prufen              | test(v.)                              |
+| schlafen            | sleep                                 |
+| deshalb             | therefore                             |
+| zur                 | to the                                |
+| nächste             | next                                  |
+| viel, viele, vielen | many                                  |
+| erste               | 1st                                   |
+| zweite              | 2nd                                   |
+| dritte              | 3rd                                   |
+| vierte              | 4th                                   |
+| verschieden         | different                             |
+| gemeinsam           | together                              |
+| verabreden          | arrange                               |
+| früh                | early                                 |
+| wissen              | know                                  |
+| brauchen            | need                                  |
+| hinzufügen          | add                                   |
 
 ### Eine Geburtstagsfeier (a birthday party)
 
-| Deutsch                                | Englisch      |
-| -------------------------------------- | ------------- |
-| <d type="er" text="Geburtstag"/>       | birthday      |
-| <d type="ie" text="Musik"/>            | music         |
-| <d type="ie" text="Geburtstagstorte"/> | birthday cake |
-| <d type="ie" text="Freunde"/>          | friends       |
-| <d type="as" text="Getränk"/>          | beverage      |
-| <d type="as" text="Essen"/>            | meal          |
+| Deutsch              | Bedeutung     |
+| -------------------- | ------------- |
+| der Geburtstag       | birthday      |
+| die Musik            | music         |
+| die Geburtstagstorte | birthday cake |
+| die Freunde          | friends       |
+| das Getränk          | beverage      |
+| das Essen            | meal          |
 
 ### Verb
 
@@ -194,7 +194,7 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Zeitangabe (statement regarding time)
 
-| Deutsch                        | Englisch                    |
+| Deutsch                        | Bedeutung                   |
 | ------------------------------ | --------------------------- |
 | zehn Uhr dreißig / halb elf    | 10:30                       |
 | von 14 Uhr bis 15 Uhr          | from 14:00 to 15:00         |
@@ -220,7 +220,7 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Sätze
 
-| Deutsch                                        | Englisch                                       |
+| Deutsch                                        | Bedeutung                                      |
 | ---------------------------------------------- | ---------------------------------------------- |
 | Liebe Grüße.                                   | Best regards.                                  |
 | Was braucht man für eine Party?                | What do you need for a party?                  |
@@ -231,22 +231,22 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Wörter
 
-| Deutsch                            | Englisch     |
-| ---------------------------------- | ------------ |
-| <d type="er" text="Rucksack"/>     | backpack     |
-| <d type="er" text="Schlüssel"/>    | key          |
-| <d type="ie" text="Uhr"/>          | hour         |
-| <d type="ie" text="Küche"/>        | kitchen      |
-| <d type="ie" text="Sprechstunde"/> | consultation |
-| <d type="as" text="Zimmer"/>       | room         |
-| <d type="as" text="Wohnzimmer"/>   | living room  |
-| <d type="as" text="Telefon"/>      | telephone    |
-| meinen                             | think        |
-| heiß                               | hot          |
+| Deutsch          | Bedeutung    |
+| ---------------- | ------------ |
+| der Rucksack     | backpack     |
+| der Schlüssel    | key          |
+| die Uhr          | hour         |
+| die Küche        | kitchen      |
+| die Sprechstunde | consultation |
+| das Zimmer       | room         |
+| das Wohnzimmer   | living room  |
+| das Telefon      | telephone    |
+| meinen           | think        |
+| heiß             | hot          |
 
 ### Artikel
 
-|                      | maskulin                            | sächlich                           | feminin                         |
+|                      | maskulin                            | neuter                             | feminin                         |
 | -------------------- | ----------------------------------- | ---------------------------------- | ------------------------------- |
 | bestimmter Artikel   | der <d type="er" text="Rucksack"/>  | das <d type="as" text="Telefon"/>  | die <d type="ie" text="Uhr"/>   |
 | unbestimmter Artikel | ein <d type="er" text="Rucksack"/>  | ein <d type="as" text="Telefon"/>  | eine <d type="ie" text="Uhr"/>  |
@@ -254,7 +254,7 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Sätze
 
-| Deutsch                                                                                                  | Englisch                                   |
+| Deutsch                                                                                                  | Bedeutung                                  |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | Wie meinen Sie?                                                                                          | I beg your pardon?                         |
 | Ist das ein<d type="impt" text="e"/> Cola?                                                               | Is that a Cola?                            |
@@ -264,7 +264,7 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Worter
 
-| Deutsch                           | Englisch            |
+| Deutsch                           | Bedeutung           |
 | --------------------------------- | ------------------- |
 | <d type="er" text="Weg"/>         | path                |
 | <d type="er" text="Glaube"/>      | belief              |
@@ -311,7 +311,7 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 | möchten                           | would like          |
 | schon                             | already             |
 | dazu                              | with it             |
-| nehmen/nimmt                      | take                |
+| nehmen(三单: nimmt)               | take                |
 | schmecken                         | taste               |
 | wirklich                          | real(ly)            |
 | bringen                           | bring               |
@@ -322,7 +322,7 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Getränk (drink)
 
-| Deutsch                             | Englisch      |
+| Deutsch                             | Bedeutung     |
 | ----------------------------------- | ------------- |
 | <d type="er" text="Tee"/>           | tea           |
 | <d type="er" text="Kaffee"/>        | coffee        |
@@ -339,7 +339,7 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Sätze
 
-| Deutsch                                     | Englisch                         |
+| Deutsch                                     | Bedeutung                        |
 | ------------------------------------------- | -------------------------------- |
 | z.B.                                        | e.g.                             |
 | Ich auch.                                   | Me too.                          |
@@ -360,7 +360,7 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 | Guten Appetit!                              | Good appetite!                   |
 | schmeckt's                                  | tastes good                      |
 
-### <d type="as" text="Gespräch"/>
+### das Gespräch
 
 ::: tip eins
 Kellner: Hier bitte, die Karte. Möchten Sie schon etwas trinken?  
@@ -384,7 +384,7 @@ M: Wir möchten dann zahlen.
 
 ### Wörter
 
-| Deutsch                                                           | Englisch       |
+| Deutsch                                                           | Bedeutung      |
 | ----------------------------------------------------------------- | -------------- |
 | <d type="er" text="Apfel"/>                                       | apple          |
 | <d type="er" text="Kuchen"/>                                      | cake           |
@@ -410,7 +410,7 @@ M: Wir möchten dann zahlen.
 | bekommen                                                          | take           |
 | genau                                                             | exact(ly)      |
 
-#### <d type="ie" text="Speise"/>
+#### die Speise
 
 | Speise                                                            | Detail                                                                                                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -431,12 +431,12 @@ M: Wir möchten dann zahlen.
 
 ### Sätze
 
-| Deutsch                         | Englisch                   |
-| ------------------------------- | -------------------------- |
-| Es gibt ... akkusativ           | there be                   |
-| Und jetzt muss ich etwas essen. | And now I have to eat sth. |
-| Ich muss etwas essen.           | I must eat sth.            |
-| Ich esse etwas.                 | I eat sth.                 |
+| Deutsch                      | Bedeutung                  |
+| ---------------------------- | -------------------------- |
+| Es gibt A.                   | there be $\cdots$          |
+| Und jetzt muss ich A. essen. | And now I have to eat sth. |
+| Ich muss A. essen.           | I must eat sth.            |
+| Ich esse A. .                | I eat sth.                 |
 
 | Fragen                       | Antworten                                                                                 |
 | ---------------------------- | ----------------------------------------------------------------------------------------- |
@@ -448,7 +448,7 @@ M: Wir möchten dann zahlen.
 
 ### Wörter
 
-| Deutsch                          | Englisch        |
+| Deutsch                          | Bedeutung       |
 | -------------------------------- | --------------- |
 | viertel                          | quarter         |
 | <d type="er" text="Einwohner"/>  | inhabitant      |
@@ -484,7 +484,7 @@ M: Wir möchten dann zahlen.
 | euch                             | you             |
 | aufmerksam                       | attentive       |
 
-### <d type="ie" text="Zahlen"/> über 100
+### die Zahlen über 100
 
 | Zahl      | Deutsch                                 |
 | --------- | --------------------------------------- |
@@ -511,7 +511,7 @@ M: Wir möchten dann zahlen.
 
 ### Meine Stadt
 
-| Deutsch                                 | Englisch          |
+| Deutsch                                 | Bedeutung         |
 | --------------------------------------- | ----------------- |
 | <d type="er" text="Zoo"/>               | zoo               |
 | <d type="er" text="Park(s)"/>           | park              |
@@ -536,7 +536,7 @@ M: Wir möchten dann zahlen.
 
 ### Sätze
 
-| Deutsch                                        | Englisch                |
+| Deutsch                                        | Bedeutung               |
 | ---------------------------------------------- | ----------------------- |
 | Gehen wir ins Kino?                            | Let's go to the cinema? |
 | Wann denn?                                     | Then when?              |
@@ -545,11 +545,11 @@ M: Wir möchten dann zahlen.
 | Vom Morgen bis zum Abend                       | from morning to evening |
 | Wie spät ist es?<br>Wie viel Uhr ist es?       | What time is it?        |
 | Es ist einundzwanzig Uhr.                      | It's 21:00.             |
-| Es ist zwölf Uhr dreißig.<hr>Es ist halb eins. | It's 12:30.             |
+| Es ist zwölf Uhr dreißig.<br>Es ist halb eins. | It's 12:30.             |
 
 ### Berlin
 
-| Deutsch                                                                             | Englisch                                                                                   |
+| Deutsch                                                                             | Bedeutung                                                                                  |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | Berlin ist die Hauptstadt von Deutschland und hat circa 3,5 Millionen Einwohner.    | Berlin is the capital of Germany and has about 3.5 million inhabitants.                    |
 | Ungefähr 8 Millionen Touristen kommen jedes Jahr nach Berlin.                       | Approximately 8 million tourists come to Berlin every year.                                |
@@ -559,21 +559,13 @@ M: Wir möchten dann zahlen.
 | In Berlin gibt es rund 4650 Restaurants und über 1000 Kneipen und Bars.             | In Berlin there are around 4650 restaurants and over 1000 pubs and bars.                   |
 
 ::: tip Mit Ben ins Kino
-
-Mir: Hallo Ben. Im Filmtheater spielen sie „Who Am I – Kein System ist sicher”. Es ist ein deutscher Thriller aus dem Jahr zweitausendvierzehn. Der Film spielt in Berlin und handelt von einer Hackergruppe, die global auf sich aufmerksam machen will. Ich mag den Hauptdarsteller Tom Schilling sehr. Hast du Lust?
-
-Ben: Hallo Franklin. Ins Kino gehen? – Gute Idee! Wann denn?
-
-Mir: Es ist am Sonntag.
-
-Ben: Am Sonntag habe ich keine Zeit, tut mir leid.
-
-Mir: Schade! Und am Samstag?
-
-Ben: Ja, Samstag ist gut. Wann beginnt der Film denn?
-
-Mir: Der Film kommt um Viertel nach sieben.
-
+Mir: Hallo Ben. Im Filmtheater spielen sie „Who Am I – Kein System ist sicher”. Es ist ein deutscher Thriller aus dem Jahr zweitausendvierzehn. Der Film spielt in Berlin und handelt von einer Hackergruppe, die global auf sich aufmerksam machen will. Ich mag den Hauptdarsteller Tom Schilling sehr. Hast du Lust?  
+Ben: Hallo Franklin. Ins Kino gehen? – Gute Idee! Wann denn?  
+Mir: Es ist am Sonntag.  
+Ben: Am Sonntag habe ich keine Zeit, tut mir leid.  
+Mir: Schade! Und am Samstag?  
+Ben: Ja, Samstag ist gut. Wann beginnt der Film denn?  
+Mir: Der Film kommt um Viertel nach sieben.  
 Ben: Gut! Dann bis Samstag.
 :::
 

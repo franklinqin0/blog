@@ -18,7 +18,7 @@ Deutsch Notizen für das Goethe Institut - A2 vier
 
 ### Wörter
 
-| Deutsch                | Englisch           |
+| Deutsch                | Bedeutung          |
 | ---------------------- | ------------------ |
 | der Gutschein          | coupon             |
 | das Geschirr           | 餐具               |
@@ -176,7 +176,7 @@ Wo warst du im Urlaub? **Bei** ihren Eltern?
 
 ### Wörter
 
-| Deutsch                       | Englisch           |
+| Deutsch                       | Bedeutung          |
 | ----------------------------- | ------------------ |
 | drehen                        | film               |
 | der Regisseur                 | director           |
@@ -389,7 +389,7 @@ Wir sprechen über einen wichtigen Menschen.
 
 ### Wörter
 
-| Deutsch                | Englisch             |
+| Deutsch                | Bedeutung            |
 | ---------------------- | -------------------- |
 | schneien, der Schnee   | snow                 |
 | gestalten              | create, make         |

@@ -18,7 +18,7 @@ Deutsch Notizen für das Goethe Institut - A2 drei
 
 ### Wörter
 
-| Deutsch                 | Englisch                  |
+| Deutsch                 | Bedeutung                 |
 | ----------------------- | ------------------------- |
 | die Heizung             | heating                   |
 | der Strom               | electricity               |
@@ -105,7 +105,7 @@ clean the room
 
 ### Wörter
 
-| Deutsch                     | Englisch             |
+| Deutsch                     | Bedeutung            |
 | --------------------------- | -------------------- |
 | variieren                   | vary                 |
 | sperren                     | lock, block, close   |
@@ -306,7 +306,7 @@ Heute ist hier N.
 
 ### Wörter
 
-| Deutsch                       | Englisch                   |
+| Deutsch                       | Bedeutung                  |
 | ----------------------------- | -------------------------- |
 | sauber                        | clean                      |
 | föhnen                        | blow-dry                   |

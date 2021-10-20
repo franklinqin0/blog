@@ -19,80 +19,80 @@ Deutsch Notizen vom 16. bis 27. März, 2020.
 
 ### Wörter
 
-| Deutsch                                                           | Englisch          |
-| ----------------------------------------------------------------- | ----------------- |
-| <d type="er" text="Verkäufer"/>/<d type="ie" text="Verkäuferin"/> | vendor            |
-| <d type="er" text="Kunde"/>/<d type="ie" text="Kundin"/>          | customer          |
-| <d type="er" text="Kühlschrank"/>                                 | fridge            |
-| <d type="er" text="Markt"/>                                       | market            |
-| <d type="er" text="Mengenangabe(n)"/>                             | measure word 量词 |
-| <d type="er" text="Zettel"/>                                      | piece of paper    |
-| <d type="er" text="Einkaufszettel"/>                              | shopping list     |
-| <d type="ie" text="Bäckerei"/>                                    | backery           |
-| <d type="ie" text="Metzgerei"/>                                   | butcher's (shop)  |
-| <d type="ie" text="Tüte"/>                                        | bag               |
-| <d type="as" text="Lebensmittel"/>                                | food              |
-| selten                                                            | rare(ly)          |
-| gerade                                                            | now               |
-| nur                                                               | only              |
-| schneiden                                                         | cut               |
-| auffordern                                                        | request, invite   |
-| lecker                                                            | delicious         |
-| satt                                                              | full 饱           |
-| setzen                                                            | sit               |
-| beider                                                            | both              |
-| sonst                                                             | else, otherwise   |
-| Lieblings-                                                        | favorite          |
-| Lieblingsessen                                                    | favorite food     |
-| Lieblingsgetränk                                                  | favorite drink    |
-| Lieblingsobst                                                     | favorite fruit    |
+| Deutsch                                                                   | Bedeutung         |
+| ------------------------------------------------------------------------- | ----------------- |
+| der <d type="er" text="Verkäufer"/>/die <d type="ie" text="Verkäuferin"/> | vendor            |
+| der <d type="er" text="Kunde"/>/die <d type="ie" text="Kundin"/>          | customer          |
+| der Kühlschrank                                                           | fridge            |
+| der Markt                                                                 | market            |
+| der Mengenangabe, -n                                                      | measure word 量词 |
+| der Zettel                                                                | piece of paper    |
+| der Einkaufszettel                                                        | shopping list     |
+| die Bäckerei                                                              | backery           |
+| die Metzgerei                                                             | butcher's (shop)  |
+| die Tüte                                                                  | bag               |
+| das Lebensmittel                                                          | food              |
+| selten                                                                    | rare(ly)          |
+| gerade                                                                    | now               |
+| nur                                                                       | only              |
+| schneiden                                                                 | cut               |
+| auffordern                                                                | request, invite   |
+| lecker                                                                    | delicious         |
+| satt                                                                      | full 饱           |
+| setzen                                                                    | sit               |
+| beider                                                                    | both              |
+| sonst                                                                     | else, otherwise   |
+| Lieblings-                                                                | favorite          |
+| Lieblingsessen                                                            | favorite food     |
+| Lieblingsgetränk                                                          | favorite drink    |
+| Lieblingsobst                                                             | favorite fruit    |
 
 - **Q:** Was ist dein Lieblingsessen/Lieblingsgetränk/Lieblingsobst?
 - **A:** Mein Lieblingsessen/Lieblingsgetränk/Lieblingsobst ist ...
 
 #### Obst und Gemüse
 
-| Obst                            | fruit      |
-| ------------------------------- | ---------- |
-| <d type="er" text="Apfel"/>     | apple      |
-| <d type="ie" text="Birne"/>     | pear       |
-| <d type="ie" text="Orange"/>    | orange     |
-| <d type="ie" text="Kiwi"/>      | kiwi       |
-| <d type="ie" text="Banane"/>(n) | banana     |
-| <d type="ie" text="Ananas"/>    | pineapple  |
-| <d type="ie" text="Erdbeere"/>  | strawberry |
+| das Obst                             | fruit      |
+| ------------------------------------ | ---------- |
+| der <d type="er" text="Apfel"/>      | apple      |
+| die <d type="ie" text="Birne"/>      | pear       |
+| die <d type="ie" text="Orange"/>     | orange     |
+| die <d type="ie" text="Kiwi"/>       | kiwi       |
+| die <d type="ie" text="Banane"/>, -n | banana     |
+| die <d type="ie" text="Ananas"/>     | pineapple  |
+| die <d type="ie" text="Erdbeere"/>   | strawberry |
 
-| Gemüse                          | vegetable |
-| ------------------------------- | --------- |
-| <d type="er" text="Pilz"/>(e)   | mushroom  |
-| <d type="er" text="Knoblauch"/> | garlic    |
-| <d type="ie" text="Zwiebel"/>   | onion     |
-| <d type="ie" text="Kartoffel"/> | potato    |
-| <d type="ie" text="Gurke"/>     | cucumber  |
-| <d type="ie" text="Paprika"/>   | pepper    |
-| <d type="ie" text="Tomate"/>    | tomato    |
+| das Gemüse                          | vegetable |
+| ----------------------------------- | --------- |
+| der <d type="er" text="Pilz"/>, -e  | mushroom  |
+| der <d type="er" text="Knoblauch"/> | garlic    |
+| die <d type="ie" text="Zwiebel"/>   | onion     |
+| die <d type="ie" text="Kartoffel"/> | potato    |
+| die <d type="ie" text="Gurke"/>     | cucumber  |
+| die <d type="ie" text="Paprika"/>   | pepper    |
+| die <d type="ie" text="Tomate"/>    | tomato    |
 
 #### Lebensmittel (food)
 
-| Lebensmittel                          | food             |
-| ------------------------------------- | ---------------- |
-| <d type="er" text="Käse"/> (nur Sg.)  | cheese           |
-| <d type="er" text="Reis"/>            | rice             |
-| <d type="er" text="Fisch"/>           | fish             |
-| <d type="er" text="Zucker"/>          | sugar            |
-| <d type="er" text="Honig"/>           | honey            |
-| <d type="er" text="Schinken"/>        | ham              |
-| <d type="ie" text="Wurst"/>           | sausage          |
-| <d type="ie" text="Nudel(n)"/>        | noodle(s)        |
-| <d type="ie" text="Milch"/> (nur Sg.) | milk             |
-| <d type="ie" text="Marmelade"/>       | marmalade        |
-| <d type="as" text="Fleisch"/>         | flesh            |
-| <d type="as" text="Mehl"/>            | flour            |
-| <d type="as" text="Brot"/>            | bread            |
-| <d type="as" text="Brötchen"/>        | small bread      |
-| <d type="as" text="Vollkornbrot"/>    | wholewheat bread |
-| <d type="as" text="Öl"/>(e)           | oil              |
-| <d type="as" text="Ei"/>(er)          | egg              |
+| Lebensmittel        | food             |
+| ------------------- | ---------------- |
+| der Käse (nur Sg.)  | cheese           |
+| der Reis            | rice             |
+| der Fisch           | fish             |
+| der Zucker          | sugar            |
+| der Honig           | honey            |
+| der Schinken        | ham              |
+| die Wurst           | sausage          |
+| die Nudel, -n       | noodle(s)        |
+| die Milch (nur Sg.) | milk             |
+| die Marmelade       | marmalade        |
+| das Fleisch         | flesh            |
+| das Mehl            | flour            |
+| das Brot            | bread            |
+| das Brötchen        | small bread      |
+| das Vollkornbrot    | wholewheat bread |
+| das Öl, -e          | oil              |
+| das Ei, -er         | egg              |
 
 #### Verb
 
@@ -108,21 +108,21 @@ Deutsch Notizen vom 16. bis 27. März, 2020.
 | ihr       | mögt                          | möchtet  | esst                         | gebt                          | nehmt                          |
 | sie/Sie   | mögen                         | möchten  | essen                        | geben                         | nehmen                         |
 
-#### <d type="ie" text="Mengenangaben"/>
+#### die Mengenangaben
 
-| Deutsch                       | Englisch          |
-| ----------------------------- | ----------------- |
-| <d type="er" text="Liter"/>   | liter             |
-| <d type="er" text="Karton"/>  | carton            |
-| <d type="er" text="Becher"/>  | cup 开口杯        |
-| <d type="ie" text="Dose"/>    | bowl 铝皮罐头     |
-| <d type="ie" text="Tafel"/>   | slate             |
-| <d type="ie" text="Flasche"/> | bottle            |
-| <d type="ie" text="Packung"/> | packet            |
-| <d type="as" text="Gramm"/>   | gram              |
-| <d type="as" text="Kilo"/>    | kilo(gram)        |
-| <d type="as" text="Glas"/>    | glass             |
-| <d type="as" text="Pfund"/>   | pound(=500 grams) |
+| Deutsch     | Bedeutung         |
+| ----------- | ----------------- |
+| der Liter   | liter             |
+| der Karton  | carton            |
+| der Becher  | cup 开口杯        |
+| die Dose    | bowl 铝皮罐头     |
+| die Tafel   | slate             |
+| die Flasche | bottle            |
+| die Packung | packet            |
+| das Gramm   | gram              |
+| das Kilo    | kilo(gram)        |
+| das Glas    | glass             |
+| das Pfund   | pound(=500 grams) |
 
 #### Imperativ
 
@@ -137,7 +137,7 @@ Deutsch Notizen vom 16. bis 27. März, 2020.
 
 ### Sätze
 
-| Deutsch                                  | Englisch                              |
+| Deutsch                                  | Bedeutung                             |
 | ---------------------------------------- | ------------------------------------- |
 | Machen wir lieber einen Obstsalat.       | We'd rather have a fruit salad.       |
 | Gehen wir auf den Markt und kaufen Obst? | Do we go to the market and buy fruit? |
@@ -147,7 +147,7 @@ Deutsch Notizen vom 16. bis 27. März, 2020.
 
 #### Pardon
 
-| Deutsch                       | Englisch             |
+| Deutsch                       | Bedeutung            |
 | ----------------------------- | -------------------- |
 | Entschuldigung! Wie bitte?    | Sorry, pardon?       |
 | Sprechen Sie bitte langsamer! | Please speak slower! |
@@ -169,7 +169,7 @@ Deutsch Notizen vom 16. bis 27. März, 2020.
 - Ich esse gern Tomate.
 - Ich hätte gern 1 Kilo Kartoffeln.
 
-<d type="er" text="Preis"/> (price)
+der Preis (price)
 
 **Q:**
 
@@ -198,9 +198,9 @@ Auf Wiedersehen:
 - Hier bitte.
 - Danke sehr!
 
-#### Aufforderungssätze 祈使句
+#### Aufforderungssätze (Imperative Sentence, 祈使句)
 
-Kürzen du/ihr.
+省略 du/ihr.
 
 - Geben Sie mir eine Tüte, bitte.
 - Gib mir bitte eine Tüte.
@@ -218,44 +218,46 @@ Kürzen du/ihr.
 
 ### Wörter
 
-| Deutsch                              | Englisch          |
-| ------------------------------------ | ----------------- |
-| nie                                  | never             |
-| oft                                  | often             |
-| immer                                | always            |
-| jeweils                              | each              |
-| ganz                                 | whole             |
-| müde                                 | tired, sleepy     |
-| verboten                             | forbidden         |
-| treffen                              | hit, meet         |
-| verschieden                          | different         |
-| wollen                               | want              |
-| können                               | can               |
-| müssen                               | must              |
-| wichtig                              | important         |
-| klingeln, die Klingel                | ring, bell        |
-| spazieren                            | stroll            |
-| besuchen                             | visit             |
-| reisen                               | travel            |
-| bauen                                | build             |
-| unterrichten                         | teach, inform     |
-| aufstehen                            | get up            |
-| fernsehen                            | watch TV          |
-| organisieren                         | organize          |
-| kranken                              | suffer from sth.  |
-| <d type="er" text="Termin"/>         | date, appointment |
-| <d type="er" text="Felsen"/>         | cliff             |
-| <d type="er" text="Ausflug"/>        | outing            |
-| <d type="er" text="Spaß"/>           | fun               |
-| <d type="er" text="Ort"/>            | place             |
-| <d type="er" text="Kollege"/>        | colleague         |
-| <d type="er" text="Krankenpfleger"/> | nurse             |
-| <d type="ie" text="Pflege"/>         | care              |
-| <d type="ie" text="Ruhe"/>           | rest, silence     |
-| <d type="as" text="Gespräch"/>       | conversation      |
-| <d type="as" text="Krankenhaus"/>    | hospital          |
-| <d type="as" text="Frühstück"/>      | breakfast         |
-| <d type="as" text="Meer"/>           | sea               |
+| Deutsch               | Bedeutung         |
+| --------------------- | ----------------- |
+| nie                   | never             |
+| oft                   | often             |
+| immer                 | always            |
+| jeweils               | each              |
+| ganz                  | whole             |
+| müde                  | tired, sleepy     |
+| verboten              | forbidden         |
+| treffen               | hit, meet         |
+| verschieden           | different         |
+| wollen                | want              |
+| können                | can               |
+| müssen                | must              |
+| wichtig               | important         |
+| klingeln, die Klingel | ring, bell        |
+| spazieren             | stroll            |
+| besuchen              | visit             |
+| reisen                | travel            |
+| bauen                 | build             |
+| unterrichten          | teach, inform     |
+| aufstehen             | get up            |
+| fernsehen             | watch TV          |
+| organisieren          | organize          |
+| kranken               | suffer from sth.  |
+| der Termin            | date, appointment |
+| der Felsen            | cliff             |
+| der Ausflug           | outing            |
+| der Spaß              | fun               |
+| der Ort               | place             |
+| der Kollege           | colleague         |
+| der Krankenpfleger    | nurse             |
+| die Pflege            | care              |
+| die Ruhe              | rest, silence     |
+| das Gespräch          | conversation      |
+| das Krankenhaus       | hospital          |
+| das Frühstück         | breakfast         |
+| das Meer              | sea               |
+| die See               | sea               |
+| der See               | lake              |
 
 #### Verb
 
@@ -268,55 +270,43 @@ Kürzen du/ihr.
 | ihr       | wollt                          | könnt                          | müsst |
 | sie/Sie   | wollen                         | können                         | müssen |
 
-#### <d type="er" text="Urlaub"/>
+#### der Urlaub
 
-| <d type="ie" text="Aktivität"/> | Activity           |
-| ------------------------------- | ------------------ |
-| zur Schule gehen                | go to school       |
-| ans Meer fahren                 | go to the sea      |
-| einen Ausflug machen            | take a trip        |
-| Freunde treffen können          | can meet friends   |
-| surfen lernen                   | learn to surf      |
-| lange schlafen                  | sleep late         |
-| nicht arbeiten müssen           | don't have to work |
+| die Aktivität          | Activity           |
+| ---------------------- | ------------------ |
+| zur Schule gehen       | go to school       |
+| ans Meer fahren        | go to the sea      |
+| einen Ausflug machen   | take a trip        |
+| Freunde treffen können | can meet friends   |
+| surfen lernen          | learn to surf      |
+| lange schlafen         | sleep late         |
+| nicht arbeiten müssen  | don't have to work |
 
 ### Sätze
 
 ::: tip Eins
-**Sabine:** Daniel, **kannst** du am Abend noch einkaufen? Ich **muss** arbeiten.
-
-**Daniel:** Ja gut, dann nehme ich das Auto. Nach der Arbeit fahre ich zum Supermarkt.
-
-**Sabine:** Prima! Dann mache ich am Freitag den Einkauf.
-
+**Sabine:** Daniel, **kannst** du am Abend noch einkaufen? Ich **muss** arbeiten.  
+**Daniel:** Ja gut, dann nehme ich das Auto. Nach der Arbeit fahre ich zum Supermarkt.  
+**Sabine:** Prima! Dann mache ich am Freitag den Einkauf.  
 **Daniel:** Ja, das ist gut. Am Freitag habe ich einen wichtigen Termin. Da **muss** ich lange im Büro bleiben.
 :::
 
 ::: tip Zwei
-**Daniel:** Lea, **kannst** du am Nachmittag mit Skip spazieren gehen? Ich **muss** lernen. Ich habe morgen einen Mathetest.
-
-**Lea:** Nö. Ich **will** heute nicht mit Skip spazieren gehen. Marie und ich **wollen** am Nachmittag im Park spielen.
-
-**Mama:** Dann **könnt** ihr Skip doch mitnehmen. Das ist doch kein Problem, oder?
-
+**Daniel:** Lea, **kannst** du am Nachmittag mit Skip spazieren gehen? Ich **muss** lernen. Ich habe morgen einen Mathetest.  
+**Lea:** Nö. Ich **will** heute nicht mit Skip spazieren gehen. Marie und ich **wollen** am Nachmittag im Park spielen.  
+**Mama:** Dann **könnt** ihr Skip doch mitnehmen. Das ist doch kein Problem, oder?  
 **Lea:** Mhm. Na, gut.
 :::
 
-::: tip Drei
-Unser Urlaub ist zu Ende. Morgen beginnt der Alltag. Wir müssen wieder arbeiten und die Kinder müssen zur Schule gehen. Schade
-
-Die Insel Hiddensee: Hier können wir nur Fahrrad fahren. Autos sind auf der Insel verboten.
-
+<!-- ::: tip Drei
+Unser Urlaub ist zu Ende. Morgen beginnt der Alltag. Wir müssen wieder arbeiten und die Kinder müssen zur Schule gehen. Schade!
+(Die Insel Hiddensee) Hier können wir nur Fahrrad fahren. Autos sind auf der Insel verboten.
 Lea will die größte Sandburg bauen.
-
-Ausflug zu den Kreidefelsen: ein schöner Ort!
-
+(Ausflug zu den Kreidefelsen) ein schöner Ort!
 Paul will Surfen lernen. Er macht einen Kurs und muss viel üben.
-
 Daniel schwimmt jeden Tag im Meer und joggt. Der Alltag ist weit weg.
-
 Super! Keine Arbeit. Ich kann in Ruhe lesen.
-:::
+::: -->
 
 ::: tip Berufe
 Sabine Pohl ist Lehrerin von Beruf. Die Arbeit mit den Kindern macht ihr viel Spaß. Am Vormittag arbeitet sie, am Nachmittag hat sie keine Schule. Sie unterrichtet an der Paul Klee Schule in Nürnberg.
@@ -341,41 +331,41 @@ Heike Weber arbeitet bei Siemens in Erlangen. Sie ist dort Sekretärin. Heike sc
 
 ### Wörter
 
-| Deutsch                             | Englisch                      |
-| ----------------------------------- | ----------------------------- |
-| dort                                | there                         |
-| dabei                               | with it, at the time, thereby |
-| trennbar                            | separate                      |
-| klassisch                           | classical                     |
-| sicher                              | certainly                     |
-| langweilig                          | boring                        |
-| wunderbar                           | wonderful                     |
-| freuen                              | be happy                      |
-| kennen                              | know                          |
-| wissen                              | know                          |
-| besprechen                          | discuss                       |
-| schauen                             | look                          |
-| warten                              | wait                          |
-| denken                              | think                         |
-| bereiten                            | prepare                       |
-| verkürzen                           | shorten                       |
-| unser                               | our                           |
-| früh                                | early                         |
-| benötigten                          | require                       |
-| <d type="er" text="Zahnarzt"/>      | dentist                       |
-| <d type="er" text="Monat"/>         | month                         |
-| <d type="er" text="Friseur"/>(in)   | hairdresser                   |
-| <d type="er" text="Nachbar"/>(in)   | neighbour                     |
-| <d type="er" text="Traum"/>         | dream                         |
-| <d type="ie" text="Bühne"/>         | stage, theatre                |
-| <d type="ie" text="Torte"/>         | cake                          |
-| <d type="ie" text="Veranstaltung"/> | event                         |
-| <d type="ie" text="Schwester"/>     | sister                        |
-| <d type="as" text="Gefängnis"/>     | prison                        |
+| Deutsch           | Bedeutung                     |
+| ----------------- | ----------------------------- |
+| dort              | there                         |
+| dabei             | with it, at the time, thereby |
+| trennbar          | separate                      |
+| klassisch         | classical                     |
+| sicher            | certainly                     |
+| langweilig        | boring                        |
+| wunderbar         | wonderful                     |
+| freuen            | be happy                      |
+| kennen            | know                          |
+| wissen            | know                          |
+| besprechen        | discuss                       |
+| schauen           | look                          |
+| warten            | wait                          |
+| denken            | think                         |
+| bereiten          | prepare                       |
+| verkürzen         | shorten                       |
+| unser             | our                           |
+| früh              | early                         |
+| benötigten        | require                       |
+| der Zahnarzt      | dentist                       |
+| der Monat         | month                         |
+| der Friseur, -in  | hairdresser                   |
+| der Nachbar, -in  | neighbour                     |
+| der Traum         | dream                         |
+| die Bühne         | stage, theatre                |
+| die Torte         | cake                          |
+| die Veranstaltung | event                         |
+| die Schwester     | sister                        |
+| das Gefängnis     | prison                        |
 
 #### Trennbare Verben （前缀介词 + 动词）
 
-| Verb      | Englisch     | Trennbar Verb | Englisch      |
+| Verb      | Bedeutung    | Trennbar Verb | Bedeutung     |
 | --------- | ------------ | ------------- | ------------- |
 | räumen    | clean        | aufräumen     | clean up      |
 | schreiben | write        | aufschreiben  | write down    |
@@ -390,18 +380,18 @@ Heike Weber arbeitet bei Siemens in Erlangen. Sie ist dort Sekretärin. Heike sc
 | holen     | fetch        | abholen       | pick up       |
 | bereiten  | prepare      | vorbereiten   | prepare for   |
 
-#### <d type="ie" text="Jahreszeit"/> (season)
+#### die Jahreszeit (season)
 
-- <d type="er" text="Frühling"/>
-- <d type="er" text="Sommer"/>
-- <d type="er" text="Herbst"/>
-- <d type="er" text="Winter"/>
+- der Frühling
+- der Sommer
+- der Herbst
+- der Winter
 
 [Vivaldi's Four Seasons](https://youtu.be/GRxofEmo3HA)
 
 #### Die zwölf Monate
 
-| Deutsch   | Englisch  |
+| Deutsch   | Bedeutung |
 | --------- | --------- |
 | Januar    | January   |
 | Februar   | February  |
@@ -416,7 +406,7 @@ Heike Weber arbeitet bei Siemens in Erlangen. Sie ist dort Sekretärin. Heike sc
 | November  | November  |
 | Dezember  | December  |
 
-#### Die <d type="ie" text="Personalpronomen"/>
+#### die Personalpronomen
 
 | Akkusativ | Nominativ |
 | --------- | --------- |
@@ -447,7 +437,7 @@ See more at: [德语里 wissen 和 kennen 的区别 ?](https://www.zhihu.com/que
 
 ### Sätze
 
-| Deutsch                                                      | Englisch                                                                  |
+| Deutsch                                                      | Bedeutung                                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------- |
 | Welches Datum ist das?                                       | What date is that?                                                        |
 | Das geht leider nicht, da treffe ich einen wichtigen Kunden. | Unfortunately, that's not possible, because I meet an important customer. |
@@ -489,8 +479,7 @@ Kommst du? Bitte ruf uns an oder schreib eine E-Mail. Kommst du mit dem Zug? Wir
 
 Wir freuen uns auf dich!
 
-Liebe Grüße
-
+Liebe Grüße  
 Franklin
 :::
 
@@ -498,18 +487,18 @@ Franklin
 
 ### Wörter
 
-| Deutsch                        | Englisch          |
-| ------------------------------ | ----------------- |
-| bald                           | soon              |
-| einfach                        | single, simple    |
-| zusagen                        | accept            |
-| absagen                        | cancel            |
-| bedanken                       | thank             |
-| jemand                         | somebody, anybody |
-| niemand                        | nobody            |
-| <d type="ie" text="Suppe"/>    | soup              |
-| <d type="as" text="Gericht"/>  | dish              |
-| <d type="as" text="Bescheid"/> | reply, decision   |
+| Deutsch      | Bedeutung         |
+| ------------ | ----------------- |
+| bald         | soon              |
+| einfach      | single, simple    |
+| zusagen      | accept            |
+| absagen      | cancel            |
+| bedanken     | thank             |
+| jemand       | somebody, anybody |
+| niemand      | nobody            |
+| die Suppe    | soup              |
+| das Gericht  | dish              |
+| das Bescheid | reply, decision   |
 
 #### <d type="ie" text="Kneipe"/>, <d type="as" text="Restaurant"/>, <d type="as" text="Bistro"/>, <d type="as" text="Café"/>
 
@@ -520,7 +509,7 @@ Franklin
 
 ### Sätze
 
-| Deutsch                                                           | Englisch                                          |
+| Deutsch                                                           | Bedeutung                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------- |
 | Du bist herzlich eingeladen.                                      | You are cordially invited.                        | Hat noch jemand einen Wunsch? | Does anyone else have a wish? |
 | Wir schließen bald.                                               | We close soon.                                    |
@@ -552,31 +541,31 @@ Ich freue mich auf einen tollen Abend mit euch!
 
 ### Wörter
 
-| Deutsch                                     | Englisch         |
-| ------------------------------------------- | ---------------- |
-| günstig                                     | favorable        |
-| interessant                                 | interesting      |
-| fertig                                      | finished         |
-| gesund                                      | healthy          |
-| kaputt                                      | broken           |
-| praktisch                                   | practical        |
-| bequem                                      | comfortable      |
-| glücklich                                   | fortunate        |
-| letzter                                     | last 最后的      |
-| vorbei                                      | past by          |
-| stimmen                                     | be right         |
-| nun                                         | now              |
-| warum                                       | why              |
-| zeigen                                      | point, show      |
-| <d type="er" text="Flur"/>                  | floor            |
-| <d type="er" text="Aufzug"/>                | lift, elevator   |
-| <d type="er" text="Grundriss"/>             | layout           |
-| <d type="ie" text="Wohngemeinschaft"/> (WG) | shared apartment |
-| <d type="ie" text="Sache"/>                 | thing            |
-| <d type="as" text="Fenster"/>               | window           |
-| <d type="as" text="Dach"/>                  | roof             |
+| Deutsch                   | Bedeutung        |
+| ------------------------- | ---------------- |
+| günstig                   | favorable        |
+| interessant               | interesting      |
+| fertig                    | finished         |
+| gesund                    | healthy          |
+| kaputt                    | broken           |
+| praktisch                 | practical        |
+| bequem                    | comfortable      |
+| glücklich                 | fortunate        |
+| letzter                   | last 最后的      |
+| vorbei                    | past by          |
+| stimmen                   | be right         |
+| nun                       | now              |
+| warum                     | why              |
+| zeigen                    | point, show      |
+| der Flur                  | floor            |
+| der Aufzug                | lift, elevator   |
+| der Grundriss             | layout           |
+| die Wohngemeinschaft (WG) | shared apartment |
+| die Sache                 | thing            |
+| das Fenster               | window           |
+| das Dach                  | roof             |
 
-#### <d type="as" text="Antonym"/>
+#### das Antonym
 
 | Wort          | Antonym               |
 | ------------- | --------------------- |
@@ -592,47 +581,47 @@ Ich freue mich auf einen tollen Abend mit euch!
 | modern        | altmodisch            |
 | wohl          | krank                 |
 
-#### Wo Man Wohnt
+#### Wo man wohnt
 
 Ich wohne im ...
 
-| Deutsch                                                            | Englisch      |
+| Deutsch                                                            | Bedeutung     |
 | ------------------------------------------------------------------ | ------------- |
 | <d type="as" text="Dachgeschoss"/>                                 | attic         |
 | ersten/zweiten/dritten/vierten/fünften <d type="er" text="Stock"/> | storey, floor |
 | <d type="as" text="Erdgeschoss"/>                                  | ground floor  |
 
-#### <d type="er" text="Raum"/>
+#### der Raum
 
-| Deutsch                             | Englisch        |
-| ----------------------------------- | --------------- |
-| <d type="er" text="Balkon"/>        | balcony         |
-| <d type="ie" text="Terrasse"/>      | terrace         |
-| <d type="ie" text="Küche"/>         | kitchen         |
-| <d type="ie" text="Toilette"/>      | toilet          |
-| <d type="as" text="Bad"/>           | bath            |
-| <d type="as" text="Esszimmer"/>     | dining room     |
-| <d type="as" text="Wohnzimmer"/>    | living room     |
-| <d type="as" text="Arbeitszimmer"/> | study           |
-| <d type="as" text="Schlafzimmer"/>  | bedroom         |
-| <d type="as" text="Kinderzimmer"/>  | children's room |
+| Deutsch           | Bedeutung       |
+| ----------------- | --------------- |
+| der Balkon        | balcony         |
+| die Terrasse      | terrace         |
+| die Küche         | kitchen         |
+| die Toilette      | toilet          |
+| das Bad           | bath            |
+| das Esszimmer     | dining room     |
+| das Wohnzimmer    | living room     |
+| das Arbeitszimmer | study           |
+| das Schlafzimmer  | bedroom         |
+| das Kinderzimmer  | children's room |
 
-#### <d type="as" text="Möbel"/> (furniture)
+#### das Möbel (furniture)
 
-| Deutsch                             | Englisch     |
-| ----------------------------------- | ------------ |
-| <d type="er" text="Tisch"/>         | desk         |
-| <d type="er" text="Stuhl"/>         | chair        |
-| <d type="er" text="Schrank"/>       | cupboard     |
-| <d type="er" text="Kühlschrank"/>   | fridge       |
-| <d type="er" text="Herd"/>          | stove        |
-| <d type="er" text="Fernseher"/>     | TV           |
-| <d type="ie" text="Lampe"/>         | lamp         |
-| <d type="ie" text="Waschmaschine"/> | wash machine |
-| <d type="as" text="Sofa"/>          | sofa         |
-| <d type="as" text="Bett"/>          | bed          |
-| <d type="as" text="Regal"/>         | shelf        |
-| <d type="as" text="Ladegerät"/>     | charger      |
+| Deutsch           | Bedeutung    |
+| ----------------- | ------------ |
+| der Tisch         | desk         |
+| der Stuhl         | chair        |
+| der Schrank       | cupboard     |
+| der Kühlschrank   | fridge       |
+| der Herd          | stove        |
+| der Fernseher     | TV           |
+| die Lampe         | lamp         |
+| die Waschmaschine | wash machine |
+| das Sofa          | sofa         |
+| das Bett          | bed          |
+| das Regal         | shelf        |
+| das Ladegerät     | charger      |
 
 #### Verb
 
@@ -645,7 +634,7 @@ Ich wohne im ...
 | ihr       | gefallt  |
 | sie/Sie   | gefallen |
 
-#### <d type="as" text="Pronomen"/>
+#### das Pronomen
 
 | Pronomen | der, die, das |
 | -------- | ------------- |
@@ -668,7 +657,7 @@ Ich wohne im ...
 
 ### Sätze
 
-| Deutsch                                           | Englisch                                           |
+| Deutsch                                           | Bedeutung                                          |
 | ------------------------------------------------- | -------------------------------------------------- |
 | sag mal                                           | tell me                                            |
 | Die Wohnung zahlen über 1000 Euro Miete im Monat. | The apartment pays over 1000 euros rent per month. |
@@ -704,23 +693,23 @@ Wer wohnt in dem Haus? Viele Familien? Nein, nur im Erdgeschoss wohnt eine Famil
 
 ### Wörter
 
-| Deutsch                         | Englisch    |
-| ------------------------------- | ----------- |
-| krank                           | ill         |
-| traurig                         | sad         |
-| chaotisch                       | chaotic     |
-| prima                           | great       |
-| preterite                       | past        |
-| wieder                          | again       |
-| endlich                         | at last     |
-| zwischen                        | between     |
-| melden                          | report      |
-| bewerten                        | assess      |
-| riechen                         | smell       |
-| spazieren                       | stroll      |
-| <d type="er" text="Strand"/>    | beach       |
-| <d type="as" text="Opernhaus"/> | opera house |
-| <d type="as" text="Gepäck"/>    | luggage     |
+| Deutsch       | Bedeutung   |
+| ------------- | ----------- |
+| krank         | ill         |
+| traurig       | sad         |
+| chaotisch     | chaotic     |
+| prima         | great       |
+| preterite     | past        |
+| wieder        | again       |
+| endlich       | at last     |
+| zwischen      | between     |
+| melden        | report      |
+| bewerten      | assess      |
+| riechen       | smell       |
+| spazieren     | stroll      |
+| der Strand    | beach       |
+| das Opernhaus | opera house |
+| das Gepäck    | luggage     |
 
 #### Präsens / Präteritum
 
@@ -735,7 +724,7 @@ Wer wohnt in dem Haus? Viele Familien? Nein, nur im Erdgeschoss wohnt eine Famil
 
 ### Sätze
 
-| Deutsch                  | Englisch                           |
+| Deutsch                  | Bedeutung                          |
 | ------------------------ | ---------------------------------- |
 | Gute Reise und bis bald! | Have a good trip and see you soon! |
 | Melde dich!              | Get in touch!                      |
@@ -837,29 +826,29 @@ Deine Mama
 
 #### E-Mail Formalia
 
-<d type="as" text="Betreff"/> (subject):
+das Betreff (subject):
 
 - Danke!
 - Es war toll bei euch!
 
-<d type="ie" text="Anrede"/> (form of address):
+die Anrede (form of address):
 
 - Hallo (liebe/lieber)
 - Liebe/Lieber
 
-<d type="er" text="Hauptteil"/> (main part):
+der Hauptteil (main part):
 
 - Ich hoffe, ...
 - Danke für ...
 - … war sehr schön.
 - ... ich komme ...
 
-<d type="er" text="Schluss"/> (end):
+der Schluss (end):
 
 - Bis bald!
 - Mach’s gut!
 
-<d type="er" text="Gruß"/> (greeting):
+der Gruß (greeting):
 
 - Viele (liebe) Grüße
 - Liebe Grüße
@@ -869,59 +858,59 @@ Deine Mama
 
 ### Wörter
 
-| Deutsch                            | Englisch           |
-| ---------------------------------- | ------------------ |
-| herzlich                           | warm               |
-| lustig                             | jolly              |
-| genug                              | enough             |
-| gerade                             | straight           |
-| gespannt                           | eager              |
-| begeistert                         | enthusiastic(ally) |
-| möglich                            | possible           |
-| <d type="ie" text="Möglichkeit"/>  | possibility        |
-| beispielsweise                     | for instance       |
-| nutzen                             | use                |
-| tragen                             | carry              |
-| schaffen                           | create, manage     |
-| werden                             | become             |
-| vergessen                          | forget             |
-| genießen                           | enjoy              |
-| empfehlen                          | recommend          |
-| drücken                            | press              |
-| ausdrücken                         | express            |
-| anbieten                           | offer              |
-| annehmen                           | accept             |
-| <d type="er" text="Glückwunsch"/>  | congratulations    |
-| <d type="er" text="Durchschnitt"/> | average            |
-| <d type="er" text="Tipp"/>         | tip                |
-| <d type="er" text="Punkt"/>        | spot               |
-| <d type="er" text="Treffpunkt"/>   | meeting place      |
-| <d type="er" text="Fortschritt"/>  | progress           |
-| <d type="ie" text="Maschine"/>     | machine            |
-| <d type="ie" text="Suchmaschine"/> | search engine      |
-| <d type="ie" text="Umfrage"/>      | survey             |
-| <d type="ie" text="Zutat"/>        | ingredient         |
-| <d type="ie" text="Gelegenheit"/>  | opportunity        |
-| <d type="as" text="Netz"/>         | net                |
-| <d type="as" text="Feuerwerk"/>    | firework           |
-| <d type="as" text="Rezept"/>       | recipe             |
-| <d type="as" text="Schwimmbad"/>   | swimming pool      |
+| Deutsch          | Bedeutung          |
+| ---------------- | ------------------ |
+| herzlich         | warm               |
+| lustig           | jolly              |
+| genug            | enough             |
+| gerade           | straight           |
+| gespannt         | eager              |
+| begeistert       | enthusiastic(ally) |
+| möglich          | possible           |
+| die Möglichkeit  | possibility        |
+| beispielsweise   | for instance       |
+| nutzen           | use                |
+| tragen           | carry              |
+| schaffen         | create, manage     |
+| werden           | become             |
+| vergessen        | forget             |
+| genießen         | enjoy              |
+| empfehlen        | recommend          |
+| drücken          | press              |
+| ausdrücken       | express            |
+| anbieten         | offer              |
+| annehmen         | accept             |
+| der Glückwunsch  | congratulations    |
+| der Durchschnitt | average            |
+| der Tipp         | tip                |
+| der Punkt        | spot               |
+| der Treffpunkt   | meeting place      |
+| der Fortschritt  | progress           |
+| die Maschine     | machine            |
+| die Suchmaschine | search engine      |
+| die Umfrage      | survey             |
+| die Zutat        | ingredient         |
+| die Gelegenheit  | opportunity        |
+| das Netz         | net                |
+| das Feuerwerk    | firework           |
+| das Rezept       | recipe             |
+| das Schwimmbad   | swimming pool      |
 
 #### Dativ
 
-| <d type="er" text="maskulin"/> | <d type="as" text="sächlich"/> | <d type="ie" text="feminin"/> | Plural |
-| ------------------------------ | ------------------------------ | ----------------------------- | ------ |
-| dem                            | dem                            | der                           | den    |
-| einem                          | einem                          | einer                         | einen  |
-| meinem                         | meinem                         | meiner                        | meinen |
-| keinem                         | keinem                         | keiner                        | keinen |
+| <d type="er" text="maskulin"/> | <d type="as" text="neuter"/> | <d type="ie" text="feminin"/> | Plural |
+| ------------------------------ | ---------------------------- | ----------------------------- | ------ |
+| dem                            | dem                          | der                           | den    |
+| einem                          | einem                        | einer                         | einen  |
+| meinem                         | meinem                       | meiner                        | meinen |
+| keinem                         | keinem                       | keiner                        | keinen |
 
 #### Akkusativ
 
-| <d type="er" text="maskulin"/> | <d type="as" text="sächlich"/> | <d type="ie" text="feminin"/> | Plural |
-| ------------------------------ | ------------------------------ | ----------------------------- | ------ |
-| den                            | das                            | die                           | die    |
-| meinen                         | mein                           | mein                          | mein   |
+| <d type="er" text="maskulin"/> | <d type="as" text="neuter"/> | <d type="ie" text="feminin"/> | Plural |
+| ------------------------------ | ---------------------------- | ----------------------------- | ------ |
+| den                            | das                          | die                           | die    |
+| meinen                         | mein                         | mein                          | mein   |
 
 #### Nominativ
 
@@ -931,18 +920,18 @@ Deine Mama
 
 #### Präposition + Artikel im Dativ $\rightarrow$ Verschmelzung des Artikels
 
-_bei_: bei dem $\rightarrow$ beim | <d type="er" text="Arzt"/> / <d type="as" text="Fest"/>
+_bei_: bei dem $\rightarrow$ beim | der Arzt / das Fest
 
-_von_: von dem $\rightarrow$ vom | <d type="er" text="Bahnhof"/> / <d type="as" text="Büro"/>
+_von_: von dem $\rightarrow$ vom | der Bahnhof / das Büro
 
 _zu_:
 
-- zu dem $\rightarrow$ zum | <d type="er" text="Garten"/> / <d type="as" text="Interview"/>
-- zu der $\rightarrow$ zur | <d type="ie" text="Schule"/>
+- zu dem $\rightarrow$ zum | der Garten / das Interview
+- zu der $\rightarrow$ zur | die Schule
 
 ### Sätze
 
-| Deutsch          | Englisch      |
+| Deutsch          | Bedeutung     |
 | ---------------- | ------------- |
 | wie immer        | as always     |
 | nicht vergessen  | don't forget  |
@@ -958,12 +947,12 @@ _zu_:
 
 #### Zeit
 
-- <d type="as" text="Jahr"/>
-- <d type="ie" text="Woche"/>
-- <d type="er" text="Tag"/>
-- <d type="ie" text="Stunde"/>(n)
-- <d type="ie" text="Minute"/>(n)
-- <d type="ie" text="Sekunde"/>(n)
+- das Jahr
+- die Woche
+- der Tag
+- die Stunde(n)
+- die Minute(n)
+- die Sekunde(n)
 
 #### Wie oft / lange?
 
@@ -991,7 +980,7 @@ _zu_:
 Ich nutze das Internet täglich. Im Durchschnitt bin ich pro Tag zehn Stunden online. Im Internet lese ich blogs und schreibe ich E-Mails. Ich lerne Deutsch auch im Internet. Ich benutze Facebook, WeChat, Google, Spotify oft.
 :::
 
-#### <d type="ie" text="Hilfe"/>
+#### die Hilfe
 
 Hilfe anbieten:
 
@@ -1011,19 +1000,19 @@ Hilfe ablehnen:
 
 #### Festival
 
-| Deutsch                           | Englisch       |
-| --------------------------------- | -------------- |
-| Silverster                        | New Year's Eve |
-| Silvesterparty                    | New Year party |
-| <d type="ie" text="Hochzeit"/>    | wedding        |
-| <d type="as" text="Weihnachten"/> | Christmas      |
+| Deutsch         | Bedeutung      |
+| --------------- | -------------- |
+| Silverster      | New Year's Eve |
+| Silvesterparty  | New Year party |
+| die Hochzeit    | wedding        |
+| das Weihnachten | Christmas      |
 
 #### Glückwünsche ausdrücken (express congrats)
 
-- <d type="er" text="Geburtstag"/> $\rightarrow$ Alles Gute (zum Geburtstabg)!
-- <d type="ie" text="Weihnachten(pl.)"/> $\rightarrow$ Frohe Weihnachten!
-- <d type="ie" text="Hochzeit"/> $\rightarrow$ Herzlichen Glückwunsch!
-- <d type="er" text="Neujahrstag"/> / <d type="as" text="Silvester"/> $\rightarrow$ Prosit Neujahr! / Gutes neues Jahr! / Frohes neues Jahr!
+- der Geburtstag $\rightarrow$ Alles Gute (zum Geburtstabg)!
+- die Weihnachten(pl.) $\rightarrow$ Frohe Weihnachten!
+- die Hochzeit $\rightarrow$ Herzlichen Glückwunsch!
+- der Neujahrstag / das Silvester $\rightarrow$ Prosit Neujahr! / Gutes neues Jahr! / Frohes neues Jahr!
 
 #### Auf Glückwünsche reagieren
 

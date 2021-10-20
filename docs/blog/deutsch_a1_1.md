@@ -18,45 +18,45 @@ Deutsch Notizen vom 2. bis 8. März, 2020.
 
 ### Wörter
 
-| Deutsch                           | Englisch           |
-| --------------------------------- | ------------------ |
-| Deutsch                           | German (language)  |
-| Englisch                          | English            |
-| Zeit                              | time               |
-| Zeitplan                          | schedule           |
-| teilnehmen                        | attend             |
-| kennenlernen                      | get to know        |
-| Kennenlernen                      | familiarization    |
-| speichern                         | store              |
-| wie                               | how/what           |
-| wer                               | who                |
-| wo                                | where              |
-| woher                             | from where         |
-| welche                            | which              |
-| heißen                            | be called          |
-| kommen                            | come               |
-| aus                               | from               |
-| wohnen                            | live               |
-| Wohnort                           | place of residence |
-| er                                | he                 |
-| sie                               | she/they           |
-| Sie                               | you 您             |
-| du                                | you 你             |
-| sprechen                          | speak              |
-| schreiben                         | write              |
-| hören                             | listen             |
-| lesen                             | read               |
-| arbeiten                          | work               |
-| Gruppe                            | group              |
-| Gruppenarbeit                     | group work         |
-| ordnen                            | order              |
-| richtig                           | right              |
-| <d type="ie" text="Reihenfolge"/> | order              |
-| ziehen                            | pull               |
-| Dialog                            | dialogue           |
-| passenden                         | suitable           |
+| Deutsch                         | Bedeutung          |
+| ------------------------------- | ------------------ |
+| das Deutsch                     | German (language)  |
+| das Englisch                    | English            |
+| die Zeit                        | time               |
+| der Zeitplan                    | schedule           |
+| teilnehmen                      | attend             |
+| kennenlernen                    | get to know        |
+| das Kennenlernen                | familiarization    |
+| speichern                       | store              |
+| wie                             | how/what           |
+| wer                             | who                |
+| wo                              | where              |
+| woher                           | from where         |
+| welcher, welch, welche, welches | which              |
+| heißen                          | be called          |
+| kommen                          | come               |
+| aus                             | from               |
+| wohnen                          | live               |
+| der Wohnort                     | place of residence |
+| er                              | he                 |
+| sie                             | she/they           |
+| Sie                             | you 您             |
+| du                              | you 你             |
+| sprechen                        | speak              |
+| schreiben                       | write              |
+| hören                           | listen             |
+| lesen                           | read               |
+| arbeiten                        | work               |
+| die Gruppe                      | group              |
+| die Gruppenarbeit               | group work         |
+| ordnen                          | order              |
+| richtig                         | right              |
+| die Reihenfolge                 | order              |
+| ziehen                          | pull               |
+| der Dialog                      | dialog             |
+| passend                         | suitable           |
 
-### Kennenlernen/Begrüßung
+### Kennenlernen / Begrüßung
 
 |                 | Frage                                                                       | Antwort                                                               |
 | --------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -69,41 +69,40 @@ Deutsch Notizen vom 2. bis 8. März, 2020.
 
 ### Wörter
 
-| Deutsch                       | Englisch     |
-| ----------------------------- | ------------ |
-| Welt                          | world        |
-| Karte                         | card, chart  |
-| Weltkarte                     | world map    |
-| Beispiel                      | example      |
-| Stelle/Stellung               | place (n.)   |
-| stellen                       | place (v.)   |
-| bauen                         | build        |
-| Frage                         | question     |
-| <d type="ie" text="Antwort"/> | answer       |
-| Aussage                       | statement    |
-| alles/all                     | all          |
-| Heimat                        | home         |
-| buchstabier(en)               | spell out    |
-| dein                          | your         |
-| sehr                          | very         |
-| Führung                       | guidance     |
-| Einführung                    | introduction |
-| sammeln                       | collect      |
-| zusammen                      | together     |
-| Schritt                       | step         |
-| nur                           | only         |
-| auf                           | on           |
-| Zahl                          | number (n.)  |
-| Zahlen                        | number (v.)  |
-| zahlen                        | pay          |
-| Zimmer                        | room         |
+| Deutsch             | Bedeutung    |
+| ------------------- | ------------ |
+| die Welt            | world        |
+| die Karte           | card, chart  |
+| die Weltkarte       | world map    |
+| das Beispiel        | example      |
+| die Stelle/Stellung | place (n.)   |
+| stellen             | place (v.)   |
+| bauen               | build        |
+| die Frage           | question     |
+| die Antwort         | answer       |
+| die Aussage         | statement    |
+| alles/all           | all          |
+| die Heimat          | home         |
+| buchstabier(en)     | spell out    |
+| dein                | your         |
+| sehr                | very         |
+| die Führung         | guidance     |
+| die Einführung      | introduction |
+| sammeln             | collect      |
+| zusammen            | together     |
+| der Schritt         | step         |
+| nur                 | only         |
+| auf                 | on           |
+| die Zahl, -en       | number (n.)  |
+| zahlen              | pay          |
+| das Zimmer          | room         |
 
 ### Länder und Sprachen
 
 | Land                 | Sprache                           |
 | -------------------- | --------------------------------- |
 | Frankreich           | Französisch                       |
-| England              | Englisch                          |
+| England              | Bedeutung                         |
 | Spanien              | Spanisch                          |
 | Österreich           | Deutsch                           |
 | Russische Föderation | Russisch                          |
@@ -115,7 +114,7 @@ Deutsch Notizen vom 2. bis 8. März, 2020.
 | Schweden             | Schwedisch                        |
 | Ägypten              | Arabisch                          |
 
-### Kommen
+### kommen
 
 | Person                 | Verb   |
 | ---------------------- | ------ |
@@ -128,7 +127,7 @@ Deutsch Notizen vom 2. bis 8. März, 2020.
 
 ### Sätze
 
-| Deutsch               | Englisch          |
+| Deutsch               | Bedeutung         |
 | --------------------- | ----------------- |
 | Sätze bauen           | build sentences   |
 | nur auf Deutsch       | only for German   |
@@ -138,37 +137,37 @@ Deutsch Notizen vom 2. bis 8. März, 2020.
 
 ### Wörter
 
-| Deutsch         | Englisch           |
-| --------------- | ------------------ |
-| klicken         | click              |
-| können/kann     | can                |
-| Vorstellung     | idea, presentation |
-| Sportarten      | sports             |
-| viele           | many               |
-| Pflicht         | duty               |
-| feld(er)        | field(s)           |
-| Pflichtfeld(er) | required field(s)  |
-| bisschen        | a bit              |
-| natürlich       | natural(ly)        |
-| Aufnahme        | opening, recording |
-| Beitrag         | contribution       |
-| absenden        | send               |
-| Änderung(en)    | change(s)          |
-| sichern         | store              |
-| Inhalt          | content            |
-| kennen          | know               |
-| verstehen       | understand         |
-| verstellen      | adjust             |
-| korrekt         | correct            |
-| auch            | also               |
-| sagen/sagt      | say                |
-| aussagen        | state              |
-| Aussprache      | pronunciation      |
-| aussprechen     | pronounce          |
-| Ihr(e)          | your               |
-| die Nummer      | number             |
+| Deutsch              | Bedeutung          |
+| -------------------- | ------------------ |
+| klicken              | click              |
+| können/kann          | can                |
+| die Vorstellung      | idea, presentation |
+| die Sportart, -en    | sports             |
+| viele                | many               |
+| die Pflicht          | duty               |
+| das Feld, -er        | field(s)           |
+| das Pflichtfeld, -er | required field(s)  |
+| bisschen             | a bit              |
+| natürlich            | natural(ly)        |
+| Aufnahme             | opening, recording |
+| der Beitrag          | contribution       |
+| absenden             | send               |
+| die Änderung, -en    | change(s)          |
+| sichern              | store              |
+| der Inhalt           | content            |
+| kennen               | know               |
+| verstehen            | understand         |
+| verstellen           | adjust             |
+| korrekt              | correct            |
+| auch                 | also               |
+| sagen(三单: sagt)    | say                |
+| aussagen             | state              |
+| die Aussprache       | pronunciation      |
+| aussprechen          | pronounce          |
+| Ihr(e)               | your               |
+| die Nummer           | number             |
 
-### <d type="ie" text="Zahlen"/>
+### die Zahlen
 
 | Zahl | Deutsch                               |
 | ---- | ------------------------------------- |
@@ -213,12 +212,12 @@ Deutsch Notizen vom 2. bis 8. März, 2020.
 
 ### Sätze
 
-| Deutsch                              | Englisch                                      |
+| Deutsch                              | Bedeutung                                     |
 | ------------------------------------ | --------------------------------------------- |
 | zum Beispiel                         | for example/instance                          |
 | Beitrag absenden                     | send the contribution                         |
 | Änderungen sichern                   | make changes                                  |
-| Vergangene Versuche anzeigen         | Show past attempts                            |
+| Vergangene Versuche anzeigen         | show past attempts                            |
 | mein(e)/dein(e)/Ihr(e) Telefonnummer | my/your（你的）/your（您的） telephone number |
 | Ich stelle mich vor.                 | I'll introduce myself.                        |
 
@@ -226,36 +225,36 @@ Deutsch Notizen vom 2. bis 8. März, 2020.
 
 ### Wörter
 
-| Deutsch               | Englisch          |
-| --------------------- | ----------------- |
-| vor                   | in front of       |
-| Vorname               | first/given name  |
-| Familie               | family            |
-| Nachname/Familienname | last/family name  |
-| Adresse               | address           |
-| mobil                 | mobile            |
-| Webseite              | website           |
-| zurück                | back              |
-| setzen                | put               |
-| zurücksetzen          | reset             |
-| Unterstrich           | underscore        |
-| Büro                  | bureau/office     |
-| dann                  | then              |
-| falsch                | false             |
-| hier                  | here              |
-| formell               | formal            |
-| Entschuldigung        | sorry             |
-| super                 | fantastic         |
-| Ferien                | holiday/vacation  |
-| oder                  | or                |
-| Begrüßung             | greeting          |
-| Wiederholung          | replay/repetition |
-| echt                  | really            |
-| schritt               | step              |
+| Deutsch                   | Bedeutung         |
+| ------------------------- | ----------------- |
+| vor                       | in front of       |
+| der Vorname               | first/given name  |
+| die Familie               | family            |
+| der Nachname/Familienname | last/family name  |
+| die Adresse               | address           |
+| mobil                     | mobile            |
+| die Webseite              | website           |
+| zurück                    | back              |
+| setzen                    | put               |
+| zurücksetzen              | reset             |
+| der Unterstrich           | underscore        |
+| das Büro                  | bureau/office     |
+| dann                      | then              |
+| falsch                    | false             |
+| hier                      | here              |
+| formell                   | formal            |
+| Entschuldigung            | sorry             |
+| super                     | fantastic         |
+| Ferien (plural)           | holiday/vacation  |
+| oder                      | or                |
+| die Begrüßung             | greeting          |
+| die Wiederholung          | replay/repetition |
+| echt                      | really            |
+| schritt                   | step              |
 
 ### Tag
 
-| Deutsch       | Englisch     |
+| Deutsch       | Bedeutung    |
 | ------------- | ------------ |
 | morgen        | tomorrow     |
 | am Morgen     | morning      |
@@ -267,7 +266,7 @@ Deutsch Notizen vom 2. bis 8. März, 2020.
 
 ### Sätze
 
-| Deutsch                                              | Englisch                |
+| Deutsch                                              | Bedeutung               |
 | ---------------------------------------------------- | ----------------------- |
 | Das ist dann alles.                                  | That's all.             |
 | Auf Wiedersehen.                                     | Goodbye.                |
@@ -283,23 +282,23 @@ Deutsch Notizen vom 2. bis 8. März, 2020.
 
 ### Wörter
 
-| Deutsch              | Englisch         |
-| -------------------- | ---------------- |
-| leben                | live             |
-| sehen                | see              |
-| studieren            | study            |
-| suchen               | look for         |
-| Sitzung/Treffen      | meeting          |
-| Abgabe               | delivery         |
-| mögen                | want to          |
-| Mode                 | fashion          |
-| Medizin              | medicine         |
-| Wirtschaft           | economy          |
-| Computerwissenschaft | computer science |
+| Deutsch         | Bedeutung        |
+| --------------- | ---------------- |
+| leben           | live             |
+| sehen           | see              |
+| studieren       | study            |
+| suchen          | look for         |
+| Sitzung/Treffen | meeting          |
+| Abgabe          | delivery         |
+| mögen           | want to          |
+| Mode            | fashion          |
+| Medizin         | medicine         |
+| Wirtschaft      | economy          |
+| Informatik      | computer science |
 
 ### Beruf(e)
 
-| Mann                              | Frau                                | Englisch                                                               |
+| Mann                              | Frau                                | Bedeutung                                                              |
 | --------------------------------- | ----------------------------------- | ---------------------------------------------------------------------- |
 | <d type="er" text="Arzt"/>        | <d type="ie" text="Ärztin"/>        | doctor                                                                 |
 | <d type="er" text="Architekt"/>   | <d type="ie" text="Architektin"/>   | architect                                                              |
@@ -323,7 +322,7 @@ Deutsch Notizen vom 2. bis 8. März, 2020.
 
 ### Sätze
 
-| Deutsch                      | Englisch        |
+| Deutsch                      | Bedeutung       |
 | ---------------------------- | --------------- |
 | Grüß dich!                   | Hello there!    |
 | ein bisschen / etwas Deutsch | a little German |
@@ -344,33 +343,33 @@ Deutsch Notizen vom 2. bis 8. März, 2020.
 
 ### Wörter
 
-| Deutsch                        | Englisch                 |
-| ------------------------------ | ------------------------ |
-| Reportage                      | reporting                |
-| vorkommen                      | happen                   |
-| ganz                           | whole                    |
-| folgender                      | following                |
-| helfen                         | help                     |
-| nur                            | only/just                |
-| wenig                          | little                   |
-| <d type="as" text="Bild(er)"/> | picture(s)               |
-| Paar(e)                        | pair(s)                  |
-| heute                          | today                    |
-| Achtung                        | attention                |
-| das Angebot                    | offer                    |
-| geben                          | give                     |
-| Bildung                        | education                |
-| kein(e)                        | no                       |
-| kosten                         | cost                     |
-| <d type="ie" text="Rechnung"/> | calculation/bill invoice |
-| Kugel                          | ball                     |
-| langsam                        | slow(ly)/gradual(ly)     |
-| einmal                         | once                     |
-| wiederholen                    | repeat                   |
+| Deutsch       | Bedeutung                |
+| ------------- | ------------------------ |
+| Reportage     | reporting                |
+| vorkommen     | happen                   |
+| ganz          | whole                    |
+| folgender     | following                |
+| helfen        | help                     |
+| nur           | only/just                |
+| wenig         | little                   |
+| das Bild, -er | picture(s)               |
+| das Paar, -e  | pair(s)                  |
+| heute         | today                    |
+| die Achtung   | attention                |
+| das Angebot   | offer                    |
+| geben         | give                     |
+| die Bildung   | education                |
+| kein(e)       | no                       |
+| kosten        | cost                     |
+| die Rechnung  | calculation/bill invoice |
+| die Kugel     | ball                     |
+| langsam       | slow(ly)/gradual(ly)     |
+| einmal        | once                     |
+| wiederholen   | repeat                   |
 
-### Familienstand (marital status)
+### der Familienstand (marital status)
 
-| Deutsch     | Englisch         |
+| Deutsch     | Bedeutung        |
 | ----------- | ---------------- |
 | ledig       | unmarried single |
 | verheiratet | married          |
@@ -379,33 +378,34 @@ Deutsch Notizen vom 2. bis 8. März, 2020.
 
 ### Arbeitsplatz (workplace)
 
-| Deutsch                              | Plural                               | Englisch     |
-| ------------------------------------ | ------------------------------------ | ------------ |
-| <d type="er" text="Computer"/>       | <d type="ie" text="Computer"/>       | computer     |
-| <d type="er" text="Drucker"/>        | <d type="ie" text="Drucker"/>        | printer      |
-| <d type="er" text="Kalender"/>       | <d type="ie" text="Kalender"/>       | calendar     |
-| <d type="er" text="Kopfhörer"/>      | <d type="ie" text="Kopfhörer"/>      | headphone    |
-| <d type="er" text="Kugelschreiber"/> | <d type="ie" text="Kugelschreiber"/> | pen          |
-| <d type="er" text="Bleistift"/>      | <d type="ie" text="Bleistifte"/>     | pencil       |
-| <d type="er" text="Ausweis"/>        | <d type="ie" text="Ausweise"/>       | ID card      |
-| <d type="er" text="Schlüssel"/>      | <d type="ie" text="Schlüssel"/>      | key          |
-| <d type="er" text="MP3-Player"/>     | <d type="ie" text="MP3-Player"/>     | MP3 player   |
-| <d type="er" text="USB-Stick"/>      | <d type="ie" text="USB-Sticks"/>     | USB stick    |
-| <d type="ie" text="Briefmarke"/>     | <d type="ie" text="Briefmarken"/>    | stamp        |
-| <d type="ie" text="Brille"/>         | <d type="ie" text="Brillen"/>        | glasses      |
-| <d type="ie" text="Maus"/>           | <d type="ie" text="Mäuse"/>          | mouse        |
-| <d type="as" text="Handy"/>          | <d type="ie" text="Handys"/>         | mobile phone |
-| <d type="as" text="Tablet"/>         | <d type="ie" text="Tablets"/>        | tablet       |
-| <d type="as" text="Buch"/>           | <d type="ie" text="Bücher"/>         | book         |
-| <d type="as" text="Formular"/>       | <d type="ie" text="Formulare"/>      | form         |
-| <d type="as" text="Foto"/>           | <d type="ie" text="Fotos"/>          | photo        |
-| <d type="as" text="Glas"/>           | <d type="ie" text="Gläser"/>         | glass        |
-| <d type="as" text="Tuch"/>           | <d type="ie" text="Tuche/Tücher"/>   | cloth        |
-| <d type="as" text="Taschentuch"/>    | <d type="ie" text="Taschentücher"/>  | hankerchief  |
+| Deutsch            | Plural             | Bedeutung    |
+| ------------------ | ------------------ | ------------ |
+| der Computer       | die Computer       | computer     |
+| der Drucker        | die Drucker        | printer      |
+| der Kalender       | die Kalender       | calendar     |
+| der Kopfhörer      | die Kopfhörer      | headphone    |
+| der Kugelschreiber | die Kugelschreiber | pen          |
+| der Bleistift      | die Bleistifte     | pencil       |
+| der Ausweis        | die Ausweise       | ID card      |
+| der Schlüssel      | die Schlüssel      | key          |
+| der MP3-Player     | die MP3-Player     | MP3 player   |
+| der USB-Stick      | die USB-Sticks     | USB stick    |
+| die Briefmarke     | die Briefmarken    | stamp        |
+| die Brille         | die Brillen        | glasses      |
+| die Maus           | die Mäuse          | mouse        |
+| das Handy          | die Handys         | mobile phone |
+| das Tablet         | die Tablets        | tablet       |
+| das Buch           | die Bücher         | book         |
+| das Formular       | die Formulare      | form         |
+| das Foto           | die Fotos          | photo        |
+| das Glas           | die Gläser         | glass        |
+| das Tuch           | die Tuche/Tücher   | cloth        |
+| das Taschentuch    | die Taschentücher  | hankerchief  |
 
-### <d type="ie" text="Artikel"/>
+### die Artikel
 
-Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules for plural formation.)
+Es gibt keine festen Regeln für die Plural-Bildung.  
+There are no fixed rules for plural formation.
 
 | <d type="er" text="der"/>                                      | <d type="as" text="das"/>           | <d type="ie" text="die"/>    |
 | -------------------------------------------------------------- | ----------------------------------- | ---------------------------- |
@@ -413,18 +413,18 @@ Es gibt keine festen Regeln für die Plural-Bildung. (There are no fixed rules f
 
 ### Farbe(n)
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| rot     | red      |
-| blau    | blue     |
-| gelb    | yellow   |
-| weiß    | white    |
-| grün    | green    |
-| grau    | grey     |
-| schwarz | black    |
-| braun   | brown    |
-| pink    | pink     |
-| orange  | orange   |
+| Deutsch | Bedeutung |
+| ------- | --------- |
+| rot     | red       |
+| blau    | blue      |
+| gelb    | yellow    |
+| weiß    | white     |
+| grün    | green     |
+| grau    | grey      |
+| schwarz | black     |
+| braun   | brown     |
+| pink    | pink      |
+| orange  | orange    |
 
 ### Sätze
 
@@ -440,7 +440,7 @@ alt:
 
 neu:
 
-| Deutsch                                                     | Englisch                               |
+| Deutsch                                                     | Bedeutung                              |
 | ----------------------------------------------------------- | -------------------------------------- |
 | Was kostet der Bleistift?                                   | How much is the pencil?                |
 | Vielen Dank.                                                | Thank you.                             |

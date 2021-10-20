@@ -54,7 +54,7 @@ Ich wohne lieber {in der Stadt / auf dem Land}, weil es Gute Angebote und mehr F
 
 ### Wörter
 
-| Deutsch                        | Englisch                     |
+| Deutsch                        | Bedeutung                    |
 | ------------------------------ | ---------------------------- |
 | höflich                        | polite                       |
 | gebrauchte Sache               | second-hand goods            |
@@ -257,7 +257,7 @@ Nur die 3. Person hat im Singular und Plural eine eigene Form: sich.
 
 ### Wörter
 
-| Deutsch                    | Englisch                   |
+| Deutsch                    | Bedeutung                  |
 | -------------------------- | -------------------------- |
 | Reklamation                | complaint                  |
 | Anschluss                  | port                       |

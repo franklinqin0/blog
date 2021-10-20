@@ -27,7 +27,7 @@ tags:
 前些时候看到了泰戈尔《飞鸟集》的一句话(在[quotes](quotes)里）：
 
 ::: theorem
-The grass seeks her crowd in the earth. The tree seeks his solitude of the sky
+The grass seeks her crowd in the earth. The tree seeks his solitude of the sky.
 :::
 
 要是不愿成为芸芸众生的草，若想成为挺拔的大树，便忍受住那无尽的孤独吧！

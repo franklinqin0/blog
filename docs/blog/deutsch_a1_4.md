@@ -19,40 +19,40 @@ Deutsch Notizen vom 30. März bis 8. Mai, 2020.
 
 ### Wörter
 
-| Deutsch                                | Englisch      |
-| -------------------------------------- | ------------- |
-| fast                                   | almost        |
-| zuerst                                 | first         |
-| zuletzt                                | lastly 最后地 |
-| höflich                                | polite        |
-| offiziel                               | official      |
-| komisch                                | funny         |
-| sofort                                 | immediately   |
-| manchmal                               | sometimes     |
-| hochladen                              | upload        |
-| schenken                               | give          |
-| recherchieren                          | investigate   |
-| Verspätung                             | lateness      |
-| <d type="ie" text="Pflanze"/>          | plant         |
-| <d type="ie" text="Tastatur"/>         | keyboard      |
-| <d type="ie" text="Führung"/>          | guided tour   |
-| <d type="er" text="Ordner"/>           | file          |
-| der/die Erwachsene                     | adult         |
-| <d type="ie" text="Krankenschwester"/> | nurse         |
-| <d type="as" text="Heimatland"/>       | homeland      |
+| Deutsch              | Bedeutung     |
+| -------------------- | ------------- |
+| fast                 | almost        |
+| zuerst               | first         |
+| zuletzt              | lastly 最后地 |
+| höflich              | polite        |
+| offiziel             | official      |
+| komisch              | funny         |
+| sofort               | immediately   |
+| manchmal             | sometimes     |
+| hochladen            | upload        |
+| schenken             | give          |
+| recherchieren        | investigate   |
+| Verspätung           | lateness      |
+| die Pflanze          | plant         |
+| die Tastatur         | keyboard      |
+| die Führung          | guided tour   |
+| der Ordner           | file          |
+| der/die Erwachsene   | adult         |
+| die Krankenschwester | nurse         |
+| das Heimatland       | homeland      |
 
-| <d type="er" text="Platz"/>                | für                                                             |
-| ------------------------------------------ | --------------------------------------------------------------- |
-| <d type="ie" text="Bank"/>                 | <d type="as" text="Geld"/>                                      |
-| <d type="er" text="Geldautomat"/>          | <d type="as" text="Geld"/>                                      |
-| <d type="ie" text="Post"/>                 | <d type="ie" text="Briefmarke"/>                                |
-| <d type="er" text="Museumsshop"/>          | <d type="ie" text="Postkarte"/>, <d type="as" text="Souvenir"/> |
-| <d type="ie" text="Touristeninformation"/> | <d type="er" text="Stadtplan"/>, <d type="er" text="Prospekt"/> |
-| <d type="ie" text="Kasse"/>                | <d type="as" text="Ticket"/>                                    |
+| der Platz                | für                         |
+| ------------------------ | --------------------------- |
+| die Bank                 | das Geld                    |
+| der Geldautomat          | das Geld                    |
+| die Post                 | die Briefmarke              |
+| der Museumsshop          | die Postkarte, das Souvenir |
+| die Touristeninformation | der Stadtplan, der Prospekt |
+| die Kasse                | das Ticket                  |
 
 ### Sätze
 
-| Deutsch                                       | Englisch                      |
+| Deutsch                                       | Bedeutung                     |
 | --------------------------------------------- | ----------------------------- |
 | Es macht's nicht.<br>Das macht (doch) nichts. | It doesn't matter.            |
 | im Stau stehen                                | stuck in jam                  |
@@ -62,7 +62,7 @@ Deutsch Notizen vom 30. März bis 8. Mai, 2020.
 
 #### Verspätung
 
-| Deutsch                                           | Englisch                        |
+| Deutsch                                           | Bedeutung                       |
 | ------------------------------------------------- | ------------------------------- |
 | Ich bin <d type="impt" text="in"/> 20 Minuten da. | I'll be there in 20 minutes.    |
 | Ich komme eine Stunde später.                     | I will come an hour later.      |
@@ -120,53 +120,53 @@ Ich komme aus China. Pünktlichkeit ist in China in der Arbeit und bei offiziell
 
 ### Wörter
 
-| Deutsch                               | Englisch       |
-| ------------------------------------- | -------------- |
-| erklären                              | explain        |
-| bewegen                               | move           |
-| nehmen                                | take           |
-| schenken                              | give           |
-| umkleiden                             | change clothes |
-| verbieten                             | forbid         |
-| rauchen                               | smoke          |
-| spülen                                | wash           |
-| putzen                                | polish, clean  |
-| einschalten                           | switch on      |
-| aufhängen                             | hang up        |
-| erstellen                             | build          |
-| verabschieden                         | say goodbye to |
-| <d type="er" text="Hocker"/>          | stool          |
-| <d type="er" text="Verstand"/>        | reason         |
-| <d type="er" text="Bewerber"/>        | applicant      |
-| <d type="ie" text="Anweisung"/>       | instruction    |
-| <d type="ie" text="Besprechung"/>     | meeting        |
-| <d type="ie" text="Einstellung"/>     | employment     |
-| <d type="ie" text="Ehre"/>            | honor          |
-| <d type="ie" text="Toilette"/>        | toilet         |
-| <d type="ie" text="Bewerbung"/>       | application    |
-| <d type="as" text="Geschirr"/> spülen | wash dishes    |
-| <d type="as" text="Lebensmittel"/>    | food           |
-| <d type="as" text="Gebäude"/>         | building       |
+| Deutsch             | Bedeutung      |
+| ------------------- | -------------- |
+| erklären            | explain        |
+| bewegen             | move           |
+| nehmen              | take           |
+| schenken            | give           |
+| umkleiden           | change clothes |
+| verbieten           | forbid         |
+| rauchen             | smoke          |
+| spülen              | wash           |
+| putzen              | polish, clean  |
+| einschalten         | switch on      |
+| aufhängen           | hang up        |
+| erstellen           | build          |
+| verabschieden       | say goodbye to |
+| der Hocker          | stool          |
+| der Verstand        | reason         |
+| der Bewerber        | applicant      |
+| die Anweisung       | instruction    |
+| die Besprechung     | meeting        |
+| die Einstellung     | employment     |
+| die Ehre            | honor          |
+| die Toilette        | toilet         |
+| die Bewerbung       | application    |
+| das Geschirr spülen | wash dishes    |
+| das Lebensmittel    | food           |
+| das Gebäude         | building       |
 
-| <d type="as" text="Geschenk"/> | present                         |
-| ------------------------------ | ------------------------------- |
-| <d type="er" text="Schuh"/>    | shoe                            |
-| <d type="er" text="Gürtel"/>   | belt                            |
-| <d type="er" text="Pullover"/> | pullover sweater                |
-| <d type="er" text="Sekt"/>     | sparkling white wine, champagne |
-| <d type="ie" text="Kette"/>    | chain                           |
-| <d type="ie" text="Uhr"/>      | watch                           |
-| <d type="as" text="Hemd"/>     | shirt                           |
-| <d type="as" text="Kleid"/>    | dress                           |
+| das Geschenk | present                         |
+| ------------ | ------------------------------- |
+| der Schuh    | shoe                            |
+| der Gürtel   | belt                            |
+| der Pullover | pullover sweater                |
+| der Sekt     | sparkling white wine, champagne |
+| die Kette    | chain                           |
+| die Uhr      | watch                           |
+| das Hemd     | shirt                           |
+| das Kleid    | dress                           |
 
-| Noun                                                         | Verb                          |
-| ------------------------------------------------------------ | ----------------------------- |
-| <d type="er" text="Drucker"/>                                | drucken                       |
-| <d type="er" text="Scanner"/>                                | scannen                       |
-| <d type="er" text="Kopierer"/> / <d type="ie" text="Kopie"/> | kopieren                      |
-| <d type="er" text="Klick"/>                                  | (an)klicken                   |
-| <d type="er" text="Download"/>                               | downloaden oder herunterladen |
-| <d type="er" text="Button"/>                                 | einen Button drücken          |
+| Noun                     | Verb                          |
+| ------------------------ | ----------------------------- |
+| der Drucker              | drucken                       |
+| der Scanner              | scannen                       |
+| der Kopierer / die Kopie | kopieren                      |
+| der Klick                | (an)klicken                   |
+| der Download             | downloaden oder herunterladen |
+| der Button               | einen Button drücken          |
 
 #### Verb
 
@@ -191,7 +191,7 @@ zuerst/zunächst > dann/danach/später > zuletzt
 #### Präposition + Dativ
 
 - Q: Wo ist der Kalender?
-- A: Der Kalender ist auf <d type="er" text="dem Tisch"/> / neben <d type="as" text="dem Telefon"/> / an <d type="ie" text="der Wand"/>.
+- A: Der Kalender ist auf der dem Tisch / neben das dem Telefon / an die der Wand.
 
 | Präposition | preposition |
 | ----------- | ----------- |
@@ -207,7 +207,7 @@ zuerst/zunächst > dann/danach/später > zuletzt
 
 ### Sätze
 
-| Deutsch                       | Englisch                       |
+| Deutsch                       | Bedeutung                      |
 | ----------------------------- | ------------------------------ |
 | ein paar                      | a few                          |
 | Man muss hier warten.         | You have to wait here.         |
@@ -245,22 +245,22 @@ Magdalena hat heute viel zu tun. **Zuerst** spricht sie mit Kollegen. Sie ruft *
 
 ### Wörter
 
-| Deutsch                           | Englisch     |
-| --------------------------------- | ------------ |
-| stören                            | disturb      |
-| echt                              | really       |
-| einfach                           | single, easy |
-| ähnlich                           | similar      |
-| besonderer                        | special      |
-| besonders                         | especially   |
-| draußen                           | outside      |
-| <d type="er" text="Bescheid"/>    | reply        |
-| <d type="ie" text="Rückmeldung"/> | feedback     |
-| <d type="ie" text="Geschichte"/>  | history      |
-| <d type="ie" text="Jugend"/>      | youth        |
-| <d type="ie" text="Schulter"/>    | shoulder     |
-| <d type="ie" text="Dame"/>        | lady         |
-| <d type="as" text="Bein"/>        | leg          |
+| Deutsch         | Bedeutung    |
+| --------------- | ------------ |
+| stören          | disturb      |
+| echt            | really       |
+| einfach         | single, easy |
+| ähnlich         | similar      |
+| besonderer      | special      |
+| besonders       | especially   |
+| draußen         | outside      |
+| der Bescheid    | reply        |
+| die Rückmeldung | feedback     |
+| die Geschichte  | history      |
+| die Jugend      | youth        |
+| die Schulter    | shoulder     |
+| die Dame        | lady         |
+| das Bein        | leg          |
 
 #### Familienmitglieder (members of family)
 
@@ -274,7 +274,7 @@ Magdalena hat heute viel zu tun. **Zuerst** spricht sie mit Kollegen. Sie ruft *
 
 ### Sätze
 
-| Deutsch                                                                                                                   | Englisch                                                                                                     |
+| Deutsch                                                                                                                   | Bedeutung                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | erzählen Geschichten aus ihrer Jugend                                                                                     | tell stories from her youth.                                                                                 |
 | Ein paar Probleme haben wir schon.                                                                                        | We already have a few problems.                                                                              |
@@ -351,38 +351,38 @@ Franklin
 
 ### Wörter
 
-| Deutsch                         | Englisch        |
-| ------------------------------- | --------------- |
-| regelmäßig                      | regular         |
-| anstrengend                     | strenuous       |
-| meist                           | mostly          |
-| wohin                           | where to        |
-| leer                            | empty           |
-| anprobieren                     | try on          |
-| entscheiden                     | decide          |
-| versprechen                     | promise         |
-| abfahren                        | depart          |
-| umsteigen                       | change 换车     |
-| einsteigen                      | get on          |
-| aussteigen                      | get off         |
-| fliegen                         | fly             |
-| verdienen                       | earn            |
-| aufregen                        | excite, agitate |
-| reden                           | talk            |
-| backen                          | bake            |
-| wechseln                        | change          |
-| <d type="er" text="Konditor"/>  | confectioner    |
-| <d type="er" text="Hinweis"/>   | hint            |
-| <d type="ie" text="Anzeige"/>   | report          |
-| <d type="ie" text="Redaktion"/> | editor          |
-| <d type="ie" text="Kleidung"/>  | clothes         |
-| <d type="ie" text="Kabine"/>    | cabin           |
-| <d type="as" text="Ehepaar"/>   | married couple  |
-| <d type="as" text="Gehalt"/>    | salary          |
+| Deutsch       | Bedeutung       |
+| ------------- | --------------- |
+| regelmäßig    | regular         |
+| anstrengend   | strenuous       |
+| meist         | mostly          |
+| wohin         | where to        |
+| leer          | empty           |
+| anprobieren   | try on          |
+| entscheiden   | decide          |
+| versprechen   | promise         |
+| abfahren      | depart          |
+| umsteigen     | change 换车     |
+| einsteigen    | get on          |
+| aussteigen    | get off         |
+| fliegen       | fly             |
+| verdienen     | earn            |
+| aufregen      | excite, agitate |
+| reden         | talk            |
+| backen        | bake            |
+| wechseln      | change          |
+| der Konditor  | confectioner    |
+| der Hinweis   | hint            |
+| die Anzeige   | report          |
+| die Redaktion | editor          |
+| die Kleidung  | clothes         |
+| die Kabine    | cabin           |
+| das Ehepaar   | married couple  |
+| das Gehalt    | salary          |
 
 ### Sätze
 
-| Deutsch                                | Englisch                                   |
+| Deutsch                                | Bedeutung                                  |
 | -------------------------------------- | ------------------------------------------ |
 | Der blaue Pullover steht mir besser.   | The blue sweater suits me better.          |
 | Wie viel verdient man?                 | How much do you earn?                      |
@@ -526,45 +526,45 @@ Präpositionen: an, auf, hinter, in, neben, über, unter, vor, zwischen
 
 ### Wörter
 
-| Deutsch                              | Englisch           |
-| ------------------------------------ | ------------------ |
-| denn                                 | because            |
-| dann                                 | then               |
-| plötzlich                            | sudden(ly)         |
-| komisch                              | funny              |
-| leicht                               | light              |
-| stark                                | strong             |
-| ungefähr                             | approximate(ly)    |
-| manchmal                             | sometimes          |
-| links                                | on the left        |
-| rechts                               | on the right       |
-| geradeaus                            | straight           |
-| unerwartet                           | unexpected         |
-| erwarten                             | expect             |
-| stürzen                              | fall               |
-| versichern                           | insure, assert     |
-| gratulieren                          | congratulate       |
-| vergessen                            | forget             |
-| bedeuten                             | mean               |
-| <d type="er" text="Zug"/>            | train              |
-| <d type="er" text="Bereich"/>        | area               |
-| <d type="er" text="Körperteil"/>     | part of the body   |
-| <d type="er" text="Unfall"/>         | accident           |
-| <d type="er" text="Diebstahl"/>      | theft              |
-| <d type="er" text="Auftrag"/>        | order, contact     |
-| <d type="ie" text="Fassung"/>        | version            |
-| <d type="ie" text="Luft"/>           | air                |
-| <d type="ie" text="Ankunft"/>        | arrival            |
-| <d type="ie" text="Klimaanlage"/>    | air conditioner    |
-| <d type="ie" text="Heizung"/>        | heating            |
-| <d type="ie" text="Lösung"/>         | solution           |
-| <d type="ie" text="Beschreibung"/>   | description        |
-| <d type="as" text="Paket"/>          | package            |
-| <d type="as" text="Verkehrsmittel"/> | means of transport |
+| Deutsch            | Bedeutung          |
+| ------------------ | ------------------ |
+| denn               | because            |
+| dann               | then               |
+| plötzlich          | sudden(ly)         |
+| komisch            | funny              |
+| leicht             | light              |
+| stark              | strong             |
+| ungefähr           | approximate(ly)    |
+| manchmal           | sometimes          |
+| links              | on the left        |
+| rechts             | on the right       |
+| geradeaus          | straight           |
+| unerwartet         | unexpected         |
+| erwarten           | expect             |
+| stürzen            | fall               |
+| versichern         | insure, assert     |
+| gratulieren        | congratulate       |
+| vergessen          | forget             |
+| bedeuten           | mean               |
+| der Zug            | train              |
+| der Bereich        | area               |
+| der Körperteil     | part of the body   |
+| der Unfall         | accident           |
+| der Diebstahl      | theft              |
+| der Auftrag        | order, contact     |
+| die Fassung        | version            |
+| die Luft           | air                |
+| die Ankunft        | arrival            |
+| die Klimaanlage    | air conditioner    |
+| die Heizung        | heating            |
+| die Lösung         | solution           |
+| die Beschreibung   | description        |
+| das Paket          | package            |
+| das Verkehrsmittel | means of transport |
 
 ### Sätze
 
-| Deutsch                                                                      | Englisch                                                              |
+| Deutsch                                                                      | Bedeutung                                                             |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Dann ruh dich aus!                                                           | Then rest!                                                            |
 | Gute Besserung!                                                              | Get well!                                                             |
@@ -583,37 +583,37 @@ Wohin fahren Timo und Julia? Sie haben sich entschieden, nach München zu fahren
 
 ### Die Körperteile
 
-| <d type="er" text="Körperteil"/> | part of body   |
-| -------------------------------- | -------------- |
-| <d type="er" text="Kopf"/>       | head           |
-| <d type="er" text="Mund"/>       | mouth          |
-| <d type="er" text="Hals"/>       | neck, throat   |
-| rücken                           | move           |
-| <d type="er" text="Rücken"/>     | back           |
-| <d type="er" text="Bauch"/>      | belly, stomach |
-| <d type="er" text="Arm"/>        | arm            |
-| <d type="er" text="Fuß"/>        | foot           |
-| <d type="as" text="Auge"/>       | eye            |
-| <d type="ie" text="Nase"/>       | nose           |
-| <d type="ie" text="Schulter"/>   | shoulder       |
-| <d type="ie" text="Brust"/>      | chest          |
-| <d type="ie" text="Hand"/>       | hand           |
-| <d type="as" text="Ohr"/>        | ear            |
-| <d type="as" text="Bein"/>       | leg            |
+| der Körperteil | part of body   |
+| -------------- | -------------- |
+| der Kopf       | head           |
+| der Mund       | mouth          |
+| der Hals       | neck, throat   |
+| rücken         | move           |
+| der Rücken     | back           |
+| der Bauch      | belly, stomach |
+| der Arm        | arm            |
+| der Fuß        | foot           |
+| das Auge       | eye            |
+| die Nase       | nose           |
+| die Schulter   | shoulder       |
+| die Brust      | chest          |
+| die Hand       | hand           |
+| das Ohr        | ear            |
+| das Bein       | leg            |
 
 ### Schmerzen Beschreiben
 
-| Deutsch                                                           | Englisch     |
-| ----------------------------------------------------------------- | ------------ |
-| schmerzen                                                         | hurt         |
-| erzählen                                                          | tell         |
-| schlimm                                                           | serious, bad |
-| atmen                                                             | respire      |
-| <d type="er" text="Husten"/>                                      | cough        |
-| <d type="er" text="Schnupfen"/> / <d type="ie" text="Erkältung"/> | cold         |
-| <d type="ie" text="Besserung"/>                                   | recovery     |
-| <d type="ie" text="Reservierung"/>                                | reservation  |
-| <d type="as" text="Fieber"/>                                      | fever        |
+| Deutsch                       | Bedeutung    |
+| ----------------------------- | ------------ |
+| schmerzen                     | hurt         |
+| erzählen                      | tell         |
+| schlimm                       | serious, bad |
+| atmen                         | respire      |
+| der Husten                    | cough        |
+| der Schnupfen / die Erkältung | cold         |
+| die Besserung                 | recovery     |
+| die Reservierung              | reservation  |
+| das Fieber                    | fever        |
 
 - Ich habe keine/leichte/starke Schmerzen.
 - Was fehlt Ihnen? $\rightarrow$ Der/Mein Arm tut weh.
@@ -636,22 +636,22 @@ Wohin fahren Timo und Julia? Sie haben sich entschieden, nach München zu fahren
 
 ### Wetter
 
-| Deutsch                         | Englisch      |
-| ------------------------------- | ------------- |
-| windig                          | windy         |
-| bewölkt                         | cloudy        |
-| schneien                        | snow          |
-| schneinen                       | shine         |
-| regnen                          | rain          |
-| <d type="er" text="Himmel"/>    | sky           |
-| <d type="er" text="Regenfall"/> | fall of rain  |
-| <d type="er" text="Schein"/>    | light         |
-| Es schneit.                     | It's snowing. |
-| Die Sonne scheint.              | It's sunny.   |
+| Deutsch            | Bedeutung     |
+| ------------------ | ------------- |
+| windig             | windy         |
+| bewölkt            | cloudy        |
+| schneien           | snow          |
+| schneinen          | shine         |
+| regnen             | rain          |
+| der Himmel         | sky           |
+| der Regenfall      | fall of rain  |
+| der Schein         | light         |
+| Es schneit.        | It's snowing. |
+| Die Sonne scheint. | It's sunny.   |
 
 ## Weiter
 
-| Deutsch          | Englisch               |
+| Deutsch          | Bedeutung              |
 | ---------------- | ---------------------- |
 | übersetzen       | translate              |
 | Schiff           | ship                   |

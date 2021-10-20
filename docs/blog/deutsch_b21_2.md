@@ -18,7 +18,7 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 zwei
 
 ### Wörter
 
-| Deutsch                           | Englisch                                       |
+| Deutsch                           | Bedeutung                                      |
 | --------------------------------- | ---------------------------------------------- |
 | der Auftakt                       | prelude                                        |
 | sich einsetzen, einsetzt          | be horrified                                   |

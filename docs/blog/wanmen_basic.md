@@ -14,7 +14,7 @@ Notes taken from Wanmen University's free [basic German](https://www.wanmen.org/
 
 ## September
 
-| Deutsch                            | Englisch              |
+| Deutsch                            | Bedeutung             |
 | ---------------------------------- | --------------------- |
 | verfolgen                          | track, pursue         |
 | kitzeln                            | tickle                |
@@ -32,7 +32,7 @@ Notes taken from Wanmen University's free [basic German](https://www.wanmen.org/
 | <d type='ie' text='Unterschrift'/> | signature             |
 | <d type='ie' text='Welle'/>        | wave                  |
 
-| Deutsch                                             | Englisch                                      |
+| Deutsch                                             | Bedeutung                                     |
 | --------------------------------------------------- | --------------------------------------------- |
 | kann Alles verstehen                                | can understand all                            |
 | Wo sind Sie gewesen?                                | Where were you?                               |
@@ -58,7 +58,7 @@ Notes taken from Wanmen University's free [basic German](https://www.wanmen.org/
 | $4 \times 4 = 16$                | Vier mals vier ist gleich sechzehn.         |
 | $10 \div 5 = 2$                  | Zehn (geteilt) durch fuenf ist gleich zwei. |
 
-| Deutsch                           | Englisch                       |
+| Deutsch                           | Bedeutung                      |
 | --------------------------------- | ------------------------------ |
 | Keine Regel ohne Ausnahme         | 规则总有例外                   |
 | Die Ausnahme bestätigt die Regel. | The exception proves the rule. |
@@ -147,11 +147,11 @@ A:
 
 Sie:
 
-- Wie ist Ihre <d type="ie" text="Adresse"/>?
+- Wie ist Ihre die Adresse?
 
 du:
 
-- Wie ist deine <d type="ie" text="Adresse"/>?
+- Wie ist deine die Adresse?
 
 A:
 
@@ -393,19 +393,19 @@ Hitze, Kälte, Stress, Alter, Glück
 ### Plural 复数
 
 das Brot  
-(die) / keine Brot<d type="impt" text="e"/>
+(die) / keine Brot<d type="impt" text="e
 
 der Bahnhof  
-(die) / keine Bahnh<d type="impt" text="öfe"/>
+(die) / keine Bahnh<d type="impt" text="öfe
 
 die Kirche  
-(die) / keine Kirche<d type="impt" text="n"/>
+(die) / keine Kirche<d type="impt" text="n
 
 das Auto  
-(die) / keine Auto<d type="impt" text="s"/>
+(die) / keine Auto<d type="impt" text="s
 
 das Haus  
-(die) / keine H<d type="impt" text="ä"/>us<d type="impt" text="er"/>
+(die) / keine H<d type="impt" text="äus<d type="impt" text="er
 
 der Wagen
 (die) / keine Wagen

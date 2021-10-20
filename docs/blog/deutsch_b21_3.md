@@ -18,7 +18,7 @@ Deutsch Notizen für Deutsch als Fremdsprache - B2.1 drei
 
 ### Wörter
 
-| Deutsch                            | Englisch                                |
+| Deutsch                            | Bedeutung                               |
 | ---------------------------------- | --------------------------------------- |
 | der Einsatz                        | usage, dedication                       |
 | das Start-up                       | start-up                                |
