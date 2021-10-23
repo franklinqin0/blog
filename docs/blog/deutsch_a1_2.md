@@ -322,20 +322,20 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Getränk (drink)
 
-| Deutsch                             | Bedeutung     |
-| ----------------------------------- | ------------- |
-| <d type="er" text="Tee"/>           | tea           |
-| <d type="er" text="Kaffee"/>        | coffee        |
-| <d type="er" text="Espresso"/>      | espresso      |
-| <d type="er" text="Rotwein"/>       | red wine      |
-| <d type="er" text="Weißwein"/>      | white wine    |
-| <d type="er" text="Apfelsaft"/>     | apple juice   |
-| <d type="ie" text="Cola"/>          | cola          |
-| <d type="ie" text="Schokolade"/>    | chocolate     |
-| <d type="ie" text="Limonade"/>      | lemonade      |
-| <d type="as" text="Wasser"/>        | water         |
-| <d type="as" text="Mineralwasser"/> | mineral water |
-| <d type="as" text="Bier"/>          | beer          |
+| Deutsch                              | Bedeutung     |
+| ------------------------------------ | ------------- |
+| der <d type="er" text="Tee"/>        | tea           |
+| der <d type="er" text="Kaffee"/>     | coffee        |
+| der <d type="er" text="Espresso"/>   | espresso      |
+| der <d type="er" text="Rotwein"/>    | red wine      |
+| der <d type="er" text="Weißwein"/>   | white wine    |
+| der <d type="er" text="Apfelsaft"/>  | apple juice   |
+| die <d type="ie" text="Cola"/>       | cola          |
+| die <d type="ie" text="Schokolade"/> | chocolate     |
+| die <d type="ie" text="Limonade"/>   | lemonade      |
+| <d type="as" text="Wasser"/>         | water         |
+| <d type="as" text="Mineralwasser"/>  | mineral water |
+| <d type="as" text="Bier"/>           | beer          |
 
 ### Sätze
 
@@ -511,28 +511,28 @@ M: Wir möchten dann zahlen.
 
 ### Meine Stadt
 
-| Deutsch                                 | Bedeutung         |
-| --------------------------------------- | ----------------- |
-| <d type="er" text="Zoo"/>               | zoo               |
-| <d type="er" text="Park(s)"/>           | park              |
-| <d type="er" text="Flughafen"/>         | airport           |
-| <d type="er" text="Bahnhof(Bahnhöfe)"/> | railway station   |
-| <d type="er" text="Hafen"/>             | harbor            |
-| <d type="er" text="Marktplatz"/>        | market place      |
-| <d type="ie" text="Bank(en)"/>          | bank              |
-| <d type="ie" text="Buchhandlung(en)"/>  | bookshop          |
-| <d type="ie" text="Post(en)"/>          | post office       |
-| <d type="ie" text="Oper"/>              | opera             |
-| <d type="ie" text="Kirche"/>            | church            |
-| <d type="ie" text="Bibliothek"/>        | library           |
-| <d type="ie" text="Philharmonie"/>      | philharmonic hall |
-| <d type="as" text="Kaufhaus"/>          | department store  |
-| <d type="as" text="Restaurant"/>        | restaurant        |
-| <d type="as" text="Museum"/>            | museum            |
-| <d type="as" text="Kino(s)"/>           | cinema            |
-| <d type="as" text="Theater"/>           | theater           |
-| <d type="as" text="Stadion"/>           | stadium           |
-| <d type="as" text="Rathaus"/>           | town hall         |
+| Deutsch                                     | Bedeutung         |
+| ------------------------------------------- | ----------------- |
+| der <d type="er" text="Zoo"/>               | zoo               |
+| der <d type="er" text="Park"/>, -s          | park              |
+| der <d type="er" text="Flughafen"/>         | airport           |
+| der <d type="er" text="Bahnhof(Bahnhöfe)"/> | railway station   |
+| der <d type="er" text="Hafen"/>             | harbor            |
+| der <d type="er" text="Marktplatz"/>        | market place      |
+| die <d type="ie" text="Bank(en)"/>          | bank              |
+| die <d type="ie" text="Buchhandlung(en)"/>  | bookshop          |
+| die <d type="ie" text="Post(en)"/>          | post office       |
+| die <d type="ie" text="Oper"/>              | opera             |
+| die <d type="ie" text="Kirche"/>            | church            |
+| die <d type="ie" text="Bibliothek"/>        | library           |
+| die <d type="ie" text="Philharmonie"/>      | philharmonic hall |
+| das <d type="as" text="Kaufhaus"/>          | department store  |
+| das <d type="as" text="Restaurant"/>        | restaurant        |
+| das <d type="as" text="Museum"/>            | museum            |
+| das <d type="as" text="Kino(s)"/>           | cinema            |
+| das <d type="as" text="Theater"/>           | theater           |
+| das <d type="as" text="Stadion"/>           | stadium           |
+| das <d type="as" text="Rathaus"/>           | town hall         |
 
 ### Sätze
 

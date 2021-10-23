@@ -84,3 +84,7 @@ http://www14.in.tum.de/lehre/2021WS/ea/
 2-3 weeks guide, then choose topic
 30 min presentation, literature review
 1 month after teaching, submit review
+
+## Integer Programming
+
+[moodle](https://www.moodle.tum.de/course/view.php?id=73764)

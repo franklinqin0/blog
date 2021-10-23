@@ -378,6 +378,7 @@ The burglar smashed a window to get into the house.
 | erheben                    | raise                 |
 | streuen                    | scatter               |
 | mitfühlend                 | empathic              |
+| die Maultasche             | Swabian ravioli       |
 
 hin und her  
 back and forth
@@ -401,11 +402,22 @@ Sie legt viel Wert auf ihr Äußeres.
 She attaches great importance to her appearance.
 
 ::: tip 5 Finger
-Daumen  
+Daumen
 Zeigefinger  
 Mittelfinger  
 Ringfinger  
 Kleiner Finger
 :::
 
-|die Maultasche | Swabian ravioli |
+::: tip Siegstor
+Dem Sieg Geweiht  
+vom Krieg zerstört  
+zum Frieden Mahnend
+
+Dedicated to victory  
+Destroyed by war  
+Admonishing to peace
+:::
+
+Schönheit vergeht, Tugend besteht.  
+Beauty fades, virtue endures.

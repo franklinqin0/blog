@@ -206,7 +206,7 @@ Ich habe zwei wichtigsten Dinge gemacht, um meine Gesundheit zu machen. Ich blie
 
 Außerdem spiele ich Tischtennis jeden Tag. Es kann entspannend oder sportlich sein. Auch laufe ich oft in der Natur, nämlich der Garchinger See. Am Anfang kann ich nur zwei runden, aber jetzt schaffe ich 3 oder mehr. Ich werde mich weiter verbessern und in Zukunft gesünder bleiben.
 
-Es is zu wenig. (negativ)
+Es is zu wenig. (negativ)  
 Es is so wenig. (neutral)
 
 Es gibt viele Paare, die zusammenleben.
@@ -227,20 +227,23 @@ streiten, gestritten
 verbrechen, hat verbrochen - to commit a crime
 verbringen, hat verbracht - to spend time
 
-| kommunal | municipal |
-|umkämpft|competitive|
-|der Vorwurf|reproach|
-|die Werkstatt|workshop, garage|
-|das Schneidebrett | cutting board|
-|die Trompete|trumpet|
-|eigenständig | independent|
+## Lektion 10
+
+| Deutsch           | Bedeutung        |
+| ----------------- | ---------------- |
+| kommunal          | municipal        |
+| umkämpft          | competitive      |
+| der Vorwurf       | reproach         |
+| die Werkstatt     | workshop, garage |
+| das Schneidebrett | cutting board    |
+| die Trompete      | trumpet          |
+| eigenständig      | independent      |
+| aber              | Überraschung     |
+| denn              | Interesse zeigen |
 
 jeden zweiten/dritten Tag
 
 Modalpartikel machen Aussagen persönlicher oder emotionaler.
-
-aber | Überraschung |
-denn | Interesse zeigen |
 
 das Ereignis experience
 das Ergebnis result
@@ -262,26 +265,27 @@ Wir hatten viel Spaß, währen wir die Filme gemacht haben.
 während + Nebensatz (mit Person)
 während + Genitiv (ohne Verb und Person)
 
-| die Frisur | hairstyle |
-|herumliegen | lie around|
-|der Dampf | steam |
-|tiefgründig|deep, profound|
-| vage | vague |
-|verwirren | confuse |
-|verwirrt | confused |
-| der Anglizịsmus | Anglicism |
-| die Gestaltung | design, composition |
+| Deutsch           | Bedeutung           |
+| ----------------- | ------------------- |
+| die Frisur        | hairstyle           |
+| herumliegen       | lie around          |
+| der Dampf         | steam               |
+| tiefgründig       | deep, profound      |
+| vage              | vague               |
+| verwirren         | confuse             |
+| verwirrt          | confused            |
+| der Anglizịsmus   | Anglicism           |
+| die Gestaltung    | design, composition |
+| verständigen      | inform              |
+| sich verständigen | communicate         |
+| entsprechen       | correspond to       |
+| entsprechend      | corresponding       |
+| genehmigen        | approve             |
+| anfallen          | incur               |
+| die Gebühr        | fee, charge         |
 
 ::: tip Aufgabe 1
 Als ich fünf Jahre alt war, habe ich eine der wichtigen Entscheidungen in meinem Leben getroffen: Violine statt Klavier spielen. In der Grundschule habe ich jeden Tag nach der Schule wenigstens eine Stunde lange Geige gespielt. Trotzdem mochte ich weder Geige noch Musik, aber ich spielte weiter, um auf der Bühne anzugeben. Musik bedeutete mir nur, die richtigen Stellen auf dem Griffbrett zu drücken. Obwohl ich die Musik nicht verstand, spielte ich nach der Schule und vor den Hausaufgaben immer Geige.
 
 Wegen der vielen Hausaufgaben in der Mittelschule musste ich mit Geige Spielen aufhören. In der Oberschule und an der Universität spielte ich nicht viel Geige, aber ich habe oft klassische Musik gehört. In meinem letzten Jahr als Bachelor war ich mit den Schulaufgaben, der Arbeitssuche und auch der Master Bewerbung beschäftigt, ganz gestresst und sogar oft deprimiert. Dank „An der schönen Donau” und Beethovens „9. Sinfonie”, empfand ich es Lichtblick in der Dunkelheit und Hoffnung zwischen Verzweiflung. Am Ende habe ich meinen Abschluss gemacht, eine gute Masterzulassung und ein großartiges Stellenangebot bekommen. Ohne die Unterstützung der Musik hätte ich nichts geschafft.
 :::
-
-|verständigen|inform|
-| sich verständigen |communicate|
-|entsprechen|correspond to|
-|entsprechend | corresponding|
-|genehmigen|approve|
-|anfallen|incur|
-|die Gebühr|fee, charge|
