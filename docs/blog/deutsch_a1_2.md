@@ -264,78 +264,78 @@ Deutsch Notizen vom 9. bis 15. März, 2020.
 
 ### Worter
 
-| Deutsch                           | Bedeutung           |
-| --------------------------------- | ------------------- |
-| <d type="er" text="Weg"/>         | path                |
-| <d type="er" text="Glaube"/>      | belief              |
-| <d type="er" text="Mitbewohner"/> | other occupant      |
-| <d type="er" text="Kellner"/>     | waiter              |
-| <d type="er" text="Gast"/>        | guest               |
-| <d type="er" text="Appetit"/>     | appetite            |
-| <d type="er" text="Saft"/>        | juice               |
-| <d type="er" text="Hunger"/>      | hunger              |
-| <d type="er" text="Durst"/>       | thirst              |
-| <d type="er" text="Teller"/>      | plate               |
-| <d type="ie" text="Speise"/>      | dish                |
-| <d type="ie" text="Anhang"/>      | (email) attachment  |
-| <d type="ie" text="Ahnung"/>      | knowledge           |
-| <d type="ie" text="Tasche"/>      | bag                 |
-| <d type="ie" text="Schachtel"/>   | box                 |
-| <d type="ie" text="Straße"/>      | street              |
-| <d type="ie" text="Regel"/>       | rule                |
-| <d type="ie" text="Zitrone"/>     | lemon               |
-| <d type="ie" text="Sache(n)"/>    | stuff               |
-| <d type="as" text="Gespräch"/>    | conversation        |
-| <d type="as" text="Fleisch"/>     | flesh               |
-| (zu) zweit                        | two                 |
-| über                              | over                |
-| üben                              | practice            |
-| aussehen                          | look                |
-| stimmen                           | be right            |
-| bestimmt                          | definite(ly)        |
-| ohne                              | without             |
-| glauben                           | believe             |
-| eigen(e)                          | own, characteristic |
-| vergleichen                       | compare             |
-| danach                            | then                |
-| kurz                              | short               |
-| lang                              | long                |
-| klein                             | little              |
-| groß                              | big                 |
-| frei                              | free                |
-| hoffen                            | hope                |
-| hoffentlich                       | hopefully           |
-| schnell                           | quick(ly)           |
-| müssen                            | have to             |
-| mögen                             | like                |
-| möchten                           | would like          |
-| schon                             | already             |
-| dazu                              | with it             |
-| nehmen(三单: nimmt)               | take                |
-| schmecken                         | taste               |
-| wirklich                          | real(ly)            |
-| bringen                           | bring               |
-| passieren                         | pass, happen        |
-| wünschen                          | wish                |
-| bestellen                         | order               |
-| halb                              | half                |
+| Deutsch                               | Bedeutung           |
+| ------------------------------------- | ------------------- |
+| der <d type="er" text="Weg"/>         | path                |
+| der <d type="er" text="Glaube"/>      | belief              |
+| der <d type="er" text="Mitbewohner"/> | other occupant      |
+| der <d type="er" text="Kellner"/>     | waiter              |
+| der <d type="er" text="Gast"/>        | guest               |
+| der <d type="er" text="Appetit"/>     | appetite            |
+| der <d type="er" text="Saft"/>        | juice               |
+| der <d type="er" text="Hunger"/>      | hunger              |
+| der <d type="er" text="Durst"/>       | thirst              |
+| der <d type="er" text="Teller"/>      | plate               |
+| die <d type="ie" text="Speise"/>      | dish                |
+| die <d type="ie" text="Anhang"/>      | (email) attachment  |
+| die <d type="ie" text="Ahnung"/>      | knowledge           |
+| die <d type="ie" text="Tasche"/>      | bag                 |
+| die <d type="ie" text="Schachtel"/>   | box                 |
+| die <d type="ie" text="Straße"/>      | street              |
+| die <d type="ie" text="Regel"/>       | rule                |
+| die <d type="ie" text="Zitrone"/>     | lemon               |
+| die <d type="ie" text="Sache(n)"/>    | stuff               |
+| das <d type="as" text="Gespräch"/>    | conversation        |
+| das <d type="as" text="Fleisch"/>     | flesh               |
+| (zu) zweit                            | two                 |
+| über                                  | over                |
+| üben                                  | practice            |
+| aussehen                              | look                |
+| stimmen                               | be right            |
+| bestimmt                              | definite(ly)        |
+| ohne                                  | without             |
+| glauben                               | believe             |
+| eigen(e)                              | own, characteristic |
+| vergleichen                           | compare             |
+| danach                                | then                |
+| kurz                                  | short               |
+| lang                                  | long                |
+| klein                                 | little              |
+| groß                                  | big                 |
+| frei                                  | free                |
+| hoffen                                | hope                |
+| hoffentlich                           | hopefully           |
+| schnell                               | quick(ly)           |
+| müssen                                | have to             |
+| mögen                                 | like                |
+| möchten                               | would like          |
+| schon                                 | already             |
+| dazu                                  | with it             |
+| nehmen(三单: nimmt)                   | take                |
+| schmecken                             | taste               |
+| wirklich                              | real(ly)            |
+| bringen                               | bring               |
+| passieren                             | pass, happen        |
+| wünschen                              | wish                |
+| bestellen                             | order               |
+| halb                                  | half                |
 
 ### Getränk (drink)
 
-| Deutsch                              | Bedeutung     |
-| ------------------------------------ | ------------- |
-| der <d type="er" text="Tee"/>        | tea           |
-| der <d type="er" text="Kaffee"/>     | coffee        |
-| der <d type="er" text="Espresso"/>   | espresso      |
-| der <d type="er" text="Rotwein"/>    | red wine      |
-| der <d type="er" text="Weißwein"/>   | white wine    |
-| der <d type="er" text="Apfelsaft"/>  | apple juice   |
-| die <d type="ie" text="Cola"/>       | cola          |
-| die <d type="ie" text="Schokolade"/> | chocolate     |
-| die <d type="ie" text="Limonade"/>   | lemonade      |
-| <d type="as" text="Wasser"/>         | water         |
-| <d type="as" text="Mineralwasser"/>  | mineral water |
-| <d type="as" text="Bier"/>           | beer          |
+| Deutsch                                 | Bedeutung     |
+| --------------------------------------- | ------------- |
+| der <d type="er" text="Tee"/>           | tea           |
+| der <d type="er" text="Kaffee"/>        | coffee        |
+| der <d type="er" text="Espresso"/>      | espresso      |
+| der <d type="er" text="Rotwein"/>       | red wine      |
+| der <d type="er" text="Weißwein"/>      | white wine    |
+| der <d type="er" text="Apfelsaft"/>     | apple juice   |
+| die <d type="ie" text="Cola"/>          | cola          |
+| die <d type="ie" text="Schokolade"/>    | chocolate     |
+| die <d type="ie" text="Limonade"/>      | lemonade      |
+| das <d type="as" text="Wasser"/>        | water         |
+| das <d type="as" text="Mineralwasser"/> | mineral water |
+| das <d type="as" text="Bier"/>          | beer          |
 
 ### Sätze
 
@@ -384,39 +384,39 @@ M: Wir möchten dann zahlen.
 
 ### Wörter
 
-| Deutsch                                                           | Bedeutung      |
-| ----------------------------------------------------------------- | -------------- |
-| <d type="er" text="Apfel"/>                                       | apple          |
-| <d type="er" text="Kuchen"/>                                      | cake           |
-| <d type="er" text="Apfelkuchen"/>                                 | apple cake     |
-| <d type="er" text="Fisch"/>                                       | fish           |
-| <d type="er" text="Reis"/>                                        | rice           |
-| <d type="er" text="Schinken"/>                                    | ham            |
-| <d type="er" text="Salat"/>                                       | salad          |
-| <d type="er" text="Obstsalat"/>                                   | fruit salad    |
-| <d type="ie" text="Vorspeise"/>                                   | starter        |
-| <d type="ie" text="Hauptspeise"/>                                 | main course    |
-| <d type="ie" text="Nachspeise"/><br><d type="as" text="Dessert"/> | dessert        |
-| <d type="ie" text="Omelette"/>                                    | omelette       |
-| <d type="ie" text="Melone"/>                                      | melon          |
-| <d type="ie" text="Speise"/>                                      | dish           |
-| <d type="ie" text="Gemüsesuppe"/>                                 | vegetable soup |
-| <d type="as" text="Gemüse"/>                                      | vegetable      |
-| <d type="as" text="Haupt"/>                                       | head           |
-| <d type="as" text="Eis"/>                                         | ice            |
-| <d type="as" text="Obst"/>                                        | fruit          |
-| <d type="as" text="Hähnchen"/>                                    | chicken        |
-| <d type="as" text="Bistro"/>                                      | bistro 小餐馆  |
-| bekommen                                                          | take           |
-| genau                                                             | exact(ly)      |
+| Deutsch                                                               | Bedeutung      |
+| --------------------------------------------------------------------- | -------------- |
+| der <d type="er" text="Apfel"/>                                       | apple          |
+| der <d type="er" text="Kuchen"/>                                      | cake           |
+| der <d type="er" text="Apfelkuchen"/>                                 | apple cake     |
+| der <d type="er" text="Fisch"/>                                       | fish           |
+| der <d type="er" text="Reis"/>                                        | rice           |
+| der <d type="er" text="Schinken"/>                                    | ham            |
+| der <d type="er" text="Salat"/>                                       | salad          |
+| der <d type="er" text="Obstsalat"/>                                   | fruit salad    |
+| die <d type="ie" text="Vorspeise"/>                                   | starter        |
+| die <d type="ie" text="Hauptspeise"/>                                 | main course    |
+| die <d type="ie" text="Nachspeise"/><br><d type="as" text="Dessert"/> | dessert        |
+| die <d type="ie" text="Omelette"/>                                    | omelette       |
+| die <d type="ie" text="Melone"/>                                      | melon          |
+| die <d type="ie" text="Speise"/>                                      | dish           |
+| die <d type="ie" text="Gemüsesuppe"/>                                 | vegetable soup |
+| das <d type="as" text="Gemüse"/>                                      | vegetable      |
+| das <d type="as" text="Haupt"/>                                       | head           |
+| das <d type="as" text="Eis"/>                                         | ice            |
+| das <d type="as" text="Obst"/>                                        | fruit          |
+| das <d type="as" text="Hähnchen"/>                                    | chicken        |
+| das <d type="as" text="Bistro"/>                                      | bistro 小餐馆  |
+| bekommen                                                              | take           |
+| genau                                                                 | exact(ly)      |
 
 #### die Speise
 
-| Speise                                                            | Detail                                                                                                                         |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| <d type="ie" text="Vorspeise"/>                                   | <d type="er" text="Salat"/><br><d type="er" text="Schinken"/> mit Melone<br><d type="ie" text="Gemüsesuppe"/>                  |
-| <d type="ie" text="Hauptspeise"/>                                 | <d type="as" text="Hähnchen"/> mit Pommes<br><d type="as" text="Omelette"/> mit Gemüse<br><d type="er" text="Fisch"/> mit Reis |
-| <d type="ie" text="Nachspeise"/><br><d type="as" text="Dessert"/> | <d type="as" text="Eis"/><br><d type="er" text="Apfelkuchen"/><br><d type="er" text="Obstsalat"/>                              |
+| Speise                                                                | Detail                                                                                                                             |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| die <d type="ie" text="Vorspeise"/>                                   | der <d type="er" text="Salat"/><br><d type="er" text="Schinken"/> mit Melone<br><d type="ie" text="Gemüsesuppe"/>                  |
+| die <d type="ie" text="Hauptspeise"/>                                 | das <d type="as" text="Hähnchen"/> mit Pommes<br><d type="as" text="Omelette"/> mit Gemüse<br><d type="er" text="Fisch"/> mit Reis |
+| die <d type="ie" text="Nachspeise"/><br><d type="as" text="Dessert"/> | das <d type="as" text="Eis"/><br><d type="er" text="Apfelkuchen"/><br><d type="er" text="Obstsalat"/>                              |
 
 #### konjugieren
 
@@ -448,41 +448,41 @@ M: Wir möchten dann zahlen.
 
 ### Wörter
 
-| Deutsch                          | Bedeutung       |
-| -------------------------------- | --------------- |
-| viertel                          | quarter         |
-| <d type="er" text="Einwohner"/>  | inhabitant      |
-| <d type="er" text="Fahrgast"/>   | passenger       |
-| <d type="er" text="Vorschlag" /> | suggestion      |
-| <d type="ie" text="Tageskasse"/> | box office      |
-| <d type="ie" text="Kneipe"/>     | pub             |
-| <d type="ie" text="Brücke"/>     | bridge          |
-| <d type="ie" text="Fläche"/>     | area            |
-| schade                           | pityful         |
-| kaufen                           | buy             |
-| dauern                           | last 持续       |
-| zwischen                         | between         |
-| zustimmen                        | agree           |
-| ablehnen                         | decline         |
-| wieder                           | again           |
-| ob                               | if              |
-| mitkommen                        | follow          |
-| interessiert                     | interested      |
-| ungefähr                         | approximate(ly) |
-| täglich                          | daily           |
-| besuchen                         | visit           |
-| groß                             | big             |
-| größer                           | bigger          |
-| größten                          | biggest         |
-| rund                             | around          |
-| hoch                             | high            |
-| toll                             | terrific        |
-| schließen                        | close(v.)       |
-| öffnen                           | open(v.)        |
-| erleben                          | experience      |
-| wollen                           | want to do      |
-| euch                             | you             |
-| aufmerksam                       | attentive       |
+| Deutsch                              | Bedeutung       |
+| ------------------------------------ | --------------- |
+| viertel                              | quarter         |
+| der <d type="er" text="Einwohner"/>  | inhabitant      |
+| der <d type="er" text="Fahrgast"/>   | passenger       |
+| der <d type="er" text="Vorschlag" /> | suggestion      |
+| die <d type="ie" text="Tageskasse"/> | box office      |
+| die <d type="ie" text="Kneipe"/>     | pub             |
+| die <d type="ie" text="Brücke"/>     | bridge          |
+| die <d type="ie" text="Fläche"/>     | area            |
+| schade                               | pityful         |
+| kaufen                               | buy             |
+| dauern                               | last 持续       |
+| zwischen                             | between         |
+| zustimmen                            | agree           |
+| ablehnen                             | decline         |
+| wieder                               | again           |
+| ob                                   | if              |
+| mitkommen                            | follow          |
+| interessiert                         | interested      |
+| ungefähr                             | approximate(ly) |
+| täglich                              | daily           |
+| besuchen                             | visit           |
+| groß                                 | big             |
+| größer                               | bigger          |
+| größten                              | biggest         |
+| rund                                 | around          |
+| hoch                                 | high            |
+| toll                                 | terrific        |
+| schließen                            | close(v.)       |
+| öffnen                               | open(v.)        |
+| erleben                              | experience      |
+| wollen                               | want to do      |
+| euch                                 | you             |
+| aufmerksam                           | attentive       |
 
 ### die Zahlen über 100
 

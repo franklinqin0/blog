@@ -619,6 +619,10 @@ public class DisjointSet {
 }
 ```
 
+## System Design
+
+[System Design for Interviews](https://www.freecodecamp.org/news/systems-design-for-interviews)
+
 ## Thanks
 
 My thanks go to:

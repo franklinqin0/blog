@@ -379,6 +379,7 @@ The burglar smashed a window to get into the house.
 | streuen                    | scatter               |
 | mitfühlend                 | empathic              |
 | die Maultasche             | Swabian ravioli       |
+| die Glocke                 | bell                  |
 
 hin und her  
 back and forth
@@ -402,7 +403,7 @@ Sie legt viel Wert auf ihr Äußeres.
 She attaches great importance to her appearance.
 
 ::: tip 5 Finger
-Daumen
+Daumen  
 Zeigefinger  
 Mittelfinger  
 Ringfinger  

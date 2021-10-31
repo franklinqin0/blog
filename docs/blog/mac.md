@@ -155,3 +155,11 @@ perl -e 'for(<*>){((stat)[9]<(unlink))}'
 ```sh
 du -sch * .[!.]* | sort -rh
 ```
+
+## Change Priority of Scheduled Job
+
+Whenever any process is started in Linux, it is assigned a priority level of 0 by default. Linux Kernel automatically schedules the process and allocates CPU time accordingly for each process.
+
+However, if we want to define the priority level of a process while launching it, we can do so using the nice command utility. If we want to define the priority level of a running process, we can use the renice command utility.
+
+The priority level of a process is called as nice value of the process. In Linux, this nice value can range from $-20$ to $19$.
