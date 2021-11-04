@@ -41,7 +41,7 @@ Despite their initial aim to help connect the world, social networks such as Fac
 ::: theorem
 Accidents, crimes, natural and man-made disasters, threats of conflict, gloomy editorials - these still seemed to be the main concern of the millions of words being sprayed into the ether.
 ::: right
-Arthur C. Clarke, 2001: A Space Odyssey
+Arthur C. Clarke, _2001: A Space Odyssey_
 :::
 
 The backend unobjective algorithm was written not for the users, but to serve the writer. Sadly and inevitably, it not only fuels users' addiction and distraction, but also threatens social welfare.
@@ -51,8 +51,6 @@ Based on the users' age, gender, location, past click-behaviours, search history
 As algorithm imperceptibly polarized and outraged human society, it has already induced many distressing social consequences: the Rohingya genocide in Myanmar[^4], Cambridge Analytica data scandal[^5], Russian interference in the 2016 presidential election[^6], Pizzagate fake news scandal[^7], arson attacks to 5G towers[^8], etc.
 
 Further, as a centralized data source, social networks own totalitarian control over the spread of information. Two weeks before the 2020 U.S. election, Twitter censored the New York Post article containing screenshots of emails by Hunter Biden, Joe Biden's son[^9]. While it seems sensible for Twitter to flag Donald Trump's tweets about the 2020 U.S. election as "inaccurate", permanently suspending his account without any checks and balances is perplexing[^10]. It is problematic that a private company, rather than the government, is able to limit freedom of speech in our society.
-
-For social networks tech giants, profit-making is more vital than protecting privacy data and societal safety. However, government policies fail to contain social media's threat to social well-being.
 
 As social networks prioritize profit growth over privacy data and societal safety, government policies should be implemented to contain their serious threat to social well-being.
 

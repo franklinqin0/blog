@@ -6,6 +6,7 @@ categories:
   - misc
 tags:
   - 中文
+  - tech
   - copy
 ---
 
