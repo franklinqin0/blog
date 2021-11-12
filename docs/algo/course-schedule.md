@@ -14,7 +14,7 @@ related:
 
 ## Solution
 
-### BFS
+### Kahn's Algorithm (BFS)
 
 ::: theorem Complexity
 time: $O(V + E)$  

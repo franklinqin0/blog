@@ -12,6 +12,10 @@ This blog features some of the most commonly used algorithms.
 
 <!-- more -->
 
+## Big O Notation
+
+[Big vs little O Notation](https://stackoverflow.com/a/1364491/6421652)
+
 ## Import Libraries
 
 ```py

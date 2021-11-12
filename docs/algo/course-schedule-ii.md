@@ -13,7 +13,7 @@ related:
 
 ## Solution
 
-### BFS
+### Kahn's Algorithm (BFS)
 
 This problem is similar to the [previous problem](course-schedule), but returns the `order`ed list of courses to take rather than a boolean to decide if courses can be finished.
 

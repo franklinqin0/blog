@@ -44,3 +44,10 @@ git pull origin master --allow-unrelated-histories
 ```sh
 git reset HEAD~
 ```
+
+[delete a branch local+remote](https://stackoverflow.com/a/2003515/6421652)
+
+```sh
+git push -d <remote_name> <branchname>
+git branch -d <branchname>
+```
