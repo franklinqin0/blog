@@ -47,7 +47,14 @@ git reset HEAD~
 
 [delete a branch local+remote](https://stackoverflow.com/a/2003515/6421652)
 
+remote
+
 ```sh
 git push -d <remote_name> <branchname>
+```
+
+local
+
+```sh
 git branch -d <branchname>
 ```
