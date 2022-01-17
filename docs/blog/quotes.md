@@ -313,3 +313,6 @@ Tell me and I forget. Show me and I remember. Involve me and I understand.
 ::: right
 《荀子·儒效篇》
 :::
+
+光含万象无今古
+不属阴阳绝障遮

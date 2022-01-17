@@ -422,3 +422,12 @@ Admonishing to peace
 
 Schönheit vergeht, Tugend besteht.  
 Beauty fades, virtue endures.
+
+| leihen | borrow|
+| die Ausrüstung | equipment |
+|behördlich|official|
+|die Beschreibung | description|
+|verbergen| hide|
+|merkwürdig|strange|
+|allmählich|gradual(ly)|
+|auswendig lernen| learn by heart|

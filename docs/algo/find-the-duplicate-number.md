@@ -76,11 +76,11 @@ Can you solve the problem using only $O(1)$ extra space?
 
 ### Binary Search
 
-$cnt[i]$ represents number of elements in `nums` $\le i$
+`cnt[i]` represents number of elements in `nums <= i`
 
-Say the duplicate is $target$, then all elements in $[1, target-1]$ satisfy $cnt[i]\le i$, and all elements in $[target, n]$ satisfy $cnt[i] > i$.
+Say the duplicate is $target$, then all elements in `[1, target-1]` satisfy `cnt[i]<= i`, and all elements in `[target, n]` satisfy `cnt[i] > i`.
 
-Thus, use binary search to find $target$ according to the **monotone** $cnt$.
+Thus, use binary search to find $target$ according to the **monotone** `cnt`.
 
 ::: theorem Complexity
 time: $O(n \log n)$  

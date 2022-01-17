@@ -21,3 +21,9 @@ publish: false
 `egrep` $=$ `grep -E`.
 
 The difference is that `-E` option enables usage of extended regexp patterns. It will allow you using of such meta-symbols as `+`, `?` or `|`. They aren't ordinary characters like we used to have in words or filenames but control commands for grep binary itself. Thus, `|` means _logical OR_.
+
+### Search for Files containing a Pattern under a Directory
+
+```sh
+grep -Ril "pattern" "location to search"
+```

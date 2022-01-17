@@ -117,7 +117,7 @@ def climbStairs(self, n: int) -> int:
     return pow(A,n)[0][0]
 ```
 
-### Gold Ratio
+### Golden Ratio
 
 Using Fibonacci formula involving _golden ratio_ is not recommended as the math formula is hard to remember or deduce.
 
