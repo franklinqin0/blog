@@ -6,6 +6,7 @@ categories:
 tags:
   - tech
   - research
+publish: false
 ---
 
 ## RTOS Scheduling w/ ML
@@ -75,10 +76,3 @@ A graph $G$ is defined to be chordal if its vertices have a _perfect elimination
 [yartiss]: Y. Chandarli, F. Fauberteau, M. Damien, S. Midonnet, and M. Qamhieh. YARTISS: A Tool to Visualize, Test, Compare and Evaluate Real-Time Scheduling Algorithms. In Proceedings of the 3rd International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems (WATERS), Pisa, Italy, 2012.
 
 [Agrawal13]: J. Li, K. Agrawal, C. Lu, and C. D. Gill. Analysis of global EDF for parallel tasks. In Proceedings of the 2013 25th Euromicro Conference on Real-Time Systems, ECRTS ’13, pages 3–13, Paris (France), 2013.
-
-???
-
-fix subtask
-
-how to control # nodes/subtasks, util range, # proc, # tasks, edges connected randomly
-algo type

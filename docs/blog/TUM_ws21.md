@@ -10,32 +10,19 @@ publish: false
 
 <!-- more -->
 
-## Analysis I
+## Plan for SS22
 
-join 1st lecture and see if continue
-[rbg](https://live.rbg.tum.de/course/2021/W/Analysis1)
+[MVG](https://vision.in.tum.de/teaching/online/mvg)
+[TUM Professors](https://www.professoren.tum.de/)
+[Zhihu TUM PhD Application](https://zhuanlan.zhihu.com/p/351695338)
 
-## BAML (Business Analytics and Machine Learning)
+## Advanced Programming
 
-join 1st lecture and see if continue
-[moodle](https://www.moodle.tum.de/course/view.php?id=68912)
-
-## Nonlinear Optimization
-
-Mon 12:15 - 13:45
-[moodle](https://www.moodle.tum.de/course/view.php?id=73132)
-[site](https://www-m1.ma.tum.de/bin/view/Lehrstuhl/UlbrichNOWS2122)
-
-## Auction Theory
-
-Info MI Hörsaal 2 (00.04.011)
-lec: Wed 14:00 - 17:30
-tut: Thur 16:00 - 18:00
-
-No time to attend class b/c of conflict w/ Convex Programming & Safe CPS
-
-[moodle](https://www.moodle.tum.de/course/view.php?id=68907)
-[rbg](https://live.rbg.tum.de/course/2021/W/AukTuMd)
+[moodle](https://www.moodle.tum.de/course/view.php?id=57974)
+[video](https://live.rbg.tum.de/course/2021/W/AdvProg)
+[core guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+[quiz](https://cppquiz.org/quiz/question/261)
+[FAQ](https://isocpp.org/faq)
 
 ## Advanced Algorithm
 

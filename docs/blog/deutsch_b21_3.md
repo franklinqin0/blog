@@ -153,6 +153,13 @@ receive rejections
 
 Entweder kämpft man sich durch die Praktikumszeit oder man findet wahrscheinlich nie eine Stelle.
 
+sich begeistern für  
+sich interessieren für  
+ein Praktikum absolvieren  
+über Kenntnisse/Fähigkeiten verfügen  
+Kenntnisse erwerben  
+tätig sein
+
 ### Sätze
 
 ::: tip der Teamgeist

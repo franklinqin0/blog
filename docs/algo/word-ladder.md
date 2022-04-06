@@ -35,6 +35,8 @@ space: $O(nm^2)$
 
 `vis` can be many data structures.
 
+<img class="medium-zoom" src="word-ladder-bfs-complexity.png">
+
 ### Layered BFS w/ HashSet
 
 For each layer of BFS, we increment `res` by $1$.
@@ -139,7 +141,7 @@ def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int
 
 ### Bidirectional BFS
 
-This is not needed during interview.
+<img class="medium-zoom" src="word-ladder-bidirectional-bfs-complexity.png">
 
 ```py
 from collections import defaultdict, deque

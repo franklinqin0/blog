@@ -492,3 +492,7 @@ Please come back to the heart that is true
 想一想你走后我的痛苦  
 还有那热爱你的朋友
 :::
+
+谭咏麟
+讲不出再见
+https://youtu.be/xnf6e1A8yn0

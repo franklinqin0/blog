@@ -115,7 +115,7 @@ $$
 extract policy from value function:
 
 $$
-V(s) = \underset{\pi}{\max} \, \mathbb{E} [r_{0} + \gamma V(s')]
+\pi = \underset{\pi}{\arg \max} \, \mathbb{E} [r_{0} + \gamma V(s')]
 $$
 
 ### Value Iteration
