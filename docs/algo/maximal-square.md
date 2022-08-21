@@ -12,12 +12,12 @@ tags:
 Let $n$ be the number of rows and $m$ be the number of columns.
 
 The state transition holds only when `matrix[i][j] == '1'`:  
-`dp[i, j] = min(dp[i-1, j], dp[i, j-1], dp[i-1, j-1]`
+`dp[i, j] = min(dp[i-1, j], dp[i, j-1], dp[i-1, j-1] + 1`
 
 ### Iterative DP - Squared Space
 
 ::: theorem Complexity
-time: $O(nm)$  
+time: $O(nm)$ single pass for each matrix element  
 space: $O(nm)$
 :::
 
@@ -41,7 +41,7 @@ def maximalSquare(self, matrix: List[List[str]]) -> int:
 
 ### Iterative DP - Linear Space
 
-TODO: explain `dp` meaning
+Since `dp` only uses one entry from previous iteration: `dp[i-1][j-1]`, we could just use 1D `dp` array and instead map `dp[i-1][j]`, `dp[i][j-1]`, `dp[i-1][j-1]` to `dp[j]`, `dp[j-1]`, and `prev`, respectively.
 
 ::: theorem Complexity
 time: $O(nm)$  

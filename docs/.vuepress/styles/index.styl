@@ -1,3 +1,25 @@
 .custom-block
   &.details
     background-color #eee !important
+
+::-webkit-scrollbar
+  width: 6px !important;
+/*滚动条的设置*/
+::-webkit-scrollbar-thumb {
+	background-color:#dad7cb !important; 
+	background-clip:padding-box !important; 
+	-webkit-border-radius: 10em !important; 
+	-moz-border-radius: 10em !important; 
+	border-radius: 10em !important; 
+}
+/*滚动条凹槽的颜色，还可以设置边框属性 */
+::-webkit-scrollbar-track-piece {
+	background-color:transparent !important; 
+	-webkit-border-radius: 0em !important; 
+	-moz-border-radius: 0em !important; 
+	border-radius: 0em !important; 
+}
+/*滚动条鼠标移上去*/
+::-webkit-scrollbar-thumb:hover {
+	background-color:#bbb !important; 
+}

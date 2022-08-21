@@ -7,6 +7,7 @@ tags:
   - whoami
 prev: about
 next: about_algo
+publish: false
 ---
 
 In this blog I talk about how this blog was built, developed, and transformed to the current state.
@@ -51,7 +52,6 @@ I might have expressed inappropriate words or incurred bad influence in this blo
 
 <!--
 - cannot scroll to anchor
-- invisible scrollbar
 - no good code theme
 - code of multiple languages
 -->

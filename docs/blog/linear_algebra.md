@@ -28,9 +28,10 @@ $A A^{T} = A^{T} A = I$
 
 _Spectral decomposition_: any normal operator $M$ on a vector space V is diagonal with respect to some orthonormal basis for V . Conversely, any diagonalizable operator is normal.
 
-_Spectral Theorem_: a normal matrix is Hermitian iff it has real eigenvalues.
+Properties of real symmetrix matrix:
 
-in a real symmetrix matrix, eigenvectors of distinct eigenvalues are orthogonal
+- all eigenvalues are real ([proof](http://pi.math.cornell.edu/~jerison/math2940/real-eigenvalues.pdf))
+- _Spectral Theorem_: eigenvectors corresponding to different eigenvalues are orthogonal. Or: a normal matrix is Hermitian iff it has real eigenvalues.
 
 ## Orthogonal Vectors & Subspaces
 
@@ -53,7 +54,7 @@ For a symmetric matrix, signs of pivots are the same as signs of eigenvalues.
 
 Positive definite matrix is symmetric. All eigenvalues are positive. All pivots are positive. All subdeterminants are positive.
 
-product of pivots = products of eigenvalues?
+product of pivots $=$ products of eigenvalues by SVD and determinant.
 
 If $A$ has independent columns, then $A^{T} A$ is invertible.
 
