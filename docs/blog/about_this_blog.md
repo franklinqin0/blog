@@ -52,6 +52,5 @@ I might have expressed inappropriate words or incurred bad influence in this blo
 
 <!--
 - cannot scroll to anchor
-- no good code theme
 - code of multiple languages
 -->

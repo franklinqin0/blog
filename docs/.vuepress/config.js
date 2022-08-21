@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Happy Turtle",
+  title: "You Are Always Happy",
   description: " ",
   dest: "docs/.vuepress/dist",
   head: [
@@ -120,7 +120,7 @@ module.exports = {
     [require("./plugins/vuepress-plugin-mode")],
   ],
   markdown: {
-    lineNumbers: false,
+    lineNumbers: true,
     extendMarkdown: (md) => {
       md.use(require("markdown-it-footnote"));
     },
