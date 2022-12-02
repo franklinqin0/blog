@@ -1,5 +1,5 @@
 module.exports = {
-  title: "You Are Always Happy",
+  title: "Franklin Qin",
   description: " ",
   dest: "docs/.vuepress/dist",
   head: [
