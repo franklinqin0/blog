@@ -7,6 +7,7 @@ tags:
   - tech
 prev: vim_commands
 next: tmux
+publish: false
 ---
 
 Write our own .vimrc!

@@ -7,6 +7,7 @@ categories:
 tags:
   - VT
 prev: ping_pong_coach
+publish: false
 ---
 
 This blog serves as an end to the `VT` (voluntary teaching) series:

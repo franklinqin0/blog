@@ -6,6 +6,7 @@ categories:
 tags:
   - tech
 prev: vim_customize
+publish: false
 ---
 
 I write this blog both to spread the efficiency of `tmux` and keep some useful notes for myself.

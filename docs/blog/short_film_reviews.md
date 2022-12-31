@@ -5,6 +5,7 @@ categories:
   - play
 tags:
   - life
+publish: false
 ---
 
 越长大越浮躁，不想写像[《无问西东》观后感](forever_young) 那样的长篇大论了。下面是一些印象深刻电影的短评。

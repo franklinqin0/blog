@@ -7,6 +7,7 @@ tags:
   - tech
   - life
   - philosophy
+publish: false
 ---
 
 Today I learned a lesson, seemingly trivial but profound.

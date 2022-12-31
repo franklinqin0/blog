@@ -5,6 +5,7 @@ categories:
   - study
 tags:
   - 粤语
+publish: false
 ---
 
 讲讲自己对 HK 的逐步了解和学广东话的心路历程。

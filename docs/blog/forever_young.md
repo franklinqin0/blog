@@ -5,9 +5,10 @@ categories:
   - play
 tags:
   - life
+publish: false
 ---
 
-无问西东，两小时的史诗，一部清华人的云图。
+无问西东，一部奋斗者的的史诗。
 
 <!-- more -->
 

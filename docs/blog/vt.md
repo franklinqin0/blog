@@ -9,6 +9,7 @@ tags:
   - life
 prev: why_vt
 next: ping_pong_coach
+publish: false
 ---
 
 ::: theorem 阿波罗神庙前庭的箴言

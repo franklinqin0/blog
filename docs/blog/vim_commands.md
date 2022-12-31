@@ -6,6 +6,7 @@ categories:
 tags:
   - tech
 next: vim_customize
+publish: false
 ---
 
 This blog both spreads the holiness of `Vim` and keeps a reminder of useful commands for myself.

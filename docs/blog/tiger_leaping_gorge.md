@@ -7,6 +7,7 @@ tags:
   - travel
   - life
   - philosophy
+publish: false
 ---
 
 写于大一暑假的云南之旅，游于虎跳峡时，有感而发。

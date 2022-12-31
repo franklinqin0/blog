@@ -6,6 +6,7 @@ categories:
 tags:
   - youth
   - life
+publish: false
 ---
 
 The title reminds me of following stuff I love:

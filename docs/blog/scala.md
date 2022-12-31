@@ -8,6 +8,10 @@ tags:
 publish: false
 ---
 
+The [Java FP](java_fp) post is pretty much a refinement of this post.
+
+<!-- more -->
+
 ## Programming Paradigms
 
 ### Paradigm:

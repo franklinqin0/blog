@@ -8,6 +8,7 @@ categories:
 tags:
   - ML
   - copy
+publish: false
 ---
 
 这是一篇讲 John von Neumann(冯·诺伊曼)和 Alan Turing(艾伦·图灵)的文章《面对面的办公室》（摘自[上](https://songshuhui.net/archives/69786)和[下](https://songshuhui.net/archives/77807)），也大概是很长一段时间内我博客中最好的文章了。

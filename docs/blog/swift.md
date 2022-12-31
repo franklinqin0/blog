@@ -1,3 +1,19 @@
+---
+title: Learn Swift
+date: 2021-09-06
+sidebar: "auto"
+categories:
+  - study
+tags:
+  - tech
+  - TUM
+publish: false
+---
+
+I once tried to do a practical course related to iOS app development using Swift, but later gave up due to lack of interest. Still, some unstructured notes are kept here.
+
+<!-- more -->
+
 `View`: rectangular area
 `var: body: some View` has to be inside `View`
 

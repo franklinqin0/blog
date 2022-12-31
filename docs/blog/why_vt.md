@@ -6,6 +6,7 @@ categories:
 tags:
   - VT
 next: vt
+publish: false
 ---
 
 This blogs serves as a beginning to the `VT` (voluntary teaching) series:

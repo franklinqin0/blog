@@ -5,6 +5,7 @@ categories:
   - play
 tags:
   - life
+publish: false
 ---
 
 大一暑假时与 Chase 相约看了林岭东的倒数第二部电影《谜城》，晚上便把自己关在房间里，写下了以下的感想。

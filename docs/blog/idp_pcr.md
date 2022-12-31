@@ -7,9 +7,10 @@ categories:
 tags:
   - tech
   - research
+publish: false
 ---
 
-Point cloud registration aims to find a rigid transformation ??? for aligning one point cloud to another.
+Point cloud registration aims to find a rigid transformation $R$ and $t$ for aligning one point cloud to another.
 
 ## Deep learning (DL) based point cloud registration (PCR): an overview
 
@@ -43,7 +44,7 @@ pipeline: **regress** rigid motion parameters by searching for the **difference 
 
 Performance relies on extracted feature descriptors.
 
-Lower limit determined by accuracy, sensitivity to motion, outlier robustness of the features
+Lower limit determined by accuracy, sensitivity to motion, outlier robustness of the features  
 Upper limit determined by align module.
 
 When large difference btw 2 input point clouds, perfermance depends on (generalizability of) feature extractor.
@@ -57,10 +58,6 @@ four parts:
 3. outlier rejection
 4. motion estimation
 
-### Q's
-
-read PointNet and PointNet++
-
 ## Stein ICP for Uncertainty Estimation in Point Cloud Matching
 
 ICP: point estimate for pose
@@ -73,10 +70,6 @@ solution: Stein variational inference framework with gradient based optimization
 - model complex multi-modal distributions
 - effectively parallelized on a GPU
 
-<!-- ### Stein variational gradient descent (SVGD) -->
-
-<!-- SVGD approximates intractable posterior distribution with a non-parametric representation given by a set of **Stein particles**. These particles are optimized with a **functional gradient descent** of **KL divergence** and provide a reliable **uncertainty estimation** by incorporating a **repulsive term** that prevents particles from **clustering** together and allows them to capture a wide range of **complex distributions**. -->
-
 ### Stein ICP
 
 - initialize $K$ Stein particles. Each particle: transformation of a mini-batch sampled from a source cloud to a reference cloud, producing $K$ transformed mini-batches
@@ -84,7 +77,7 @@ solution: Stein variational inference framework with gradient based optimization
 
 $$\text{point-to-point}\left(\mathbf{s}_{\mathbf{i}}^{\prime}, \mathscr{R}\right)=\min _{\mathbf{r} \in \mathscr{R}}\left\|\mathbf{r}-\mathbf{s}_{\mathbf{i}}^{\prime}\right\|$$
 
-- mean gradients are estimated for all the matching pairs belongingtoeachof the $K$ particles
+- mean gradients are estimated for all the matching pairs belonging to each of the $K$ particles
 
 $$\bar{g}\left(\boldsymbol{\theta}_{1: 3}^t, \mathscr{M}^t\right)=\frac{1}{m} \sum_i^m\left(\left(R^t \mathbf{s}_{\mathbf{i}}+\mathbf{u}^t\right)-\mathbf{r}_{\mathbf{i}}\right) \frac{\partial \mathbf{u}^t}{\partial \boldsymbol{\theta}_{1: 3}^t}$$
 
@@ -106,12 +99,7 @@ $$\hat{\boldsymbol{\phi}}^*(\boldsymbol{\theta})= \sum_{j=1}^K\left[-\left(N \ba
 
 Update rule:
 
-$$x_j \leftarrow + \eta \hat{\boldsymbol{\phi}}^*(\mathbf{x})$$
-
-### Q's
-
-- 2nd order opt
-- how uncertainty estimate is produced
+$$x_j \leftarrow x_j + \eta \hat{\boldsymbol{\phi}}^*(\mathbf{x})$$
 
 ## Iterative Distance-Aware Similarity Matrix (IDAM) Convolution with Mutual-Supervised Point Elimination for Eﬃcient Point Cloud Registration
 

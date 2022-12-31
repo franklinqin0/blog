@@ -1,5 +1,5 @@
 ---
-title: Natural Language Processing
+title: Natural Language Processing at TU Darmstadt
 date: 2020-12-10
 categories:
   - study
@@ -8,7 +8,7 @@ tags:
 publish: false
 ---
 
-Notes on NLP.
+Notes on NLP course at TU Darmstadt.
 
 <!-- more -->
 

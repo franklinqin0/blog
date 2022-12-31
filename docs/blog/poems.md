@@ -6,6 +6,7 @@ categories:
 tags:
   - life
   - copy
+publish: false
 ---
 
 This page documents good poems I came across.

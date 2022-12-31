@@ -26,7 +26,9 @@ $q_{i}^{T} q_j  = \sigma_{ij}$
 An _orthogonal matrix_ is a square matrix whose rows are mutually **orthonormal** and whose columns are mutually orthonormal:  
 $A A^{T} = A^{T} A = I$
 
-_Spectral decomposition_: any normal operator $M$ on a vector space V is diagonal with respect to some orthonormal basis for V . Conversely, any diagonalizable operator is normal.
+_Spectral decomposition_: any normal operator $M$ on a vector space $V$ is diagonal with respect to some orthonormal basis for $V$. Conversely, any diagonalizable operator is normal.
+
+TODO: put I2QC def here!
 
 Properties of real symmetrix matrix:
 

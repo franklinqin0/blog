@@ -6,6 +6,7 @@ categories:
 tags:
   - Cornell
   - copy
+publish: false
 ---
 
 Following records how the pumpkin was placed atop 173-foot McGraw Tower for 158 days since the brisk autumn morning of Wednesday, Oct. 8, 1997 at Cornell. This Whodunit story originally comes from [this source](https://cornelldailysun.github.io/pumpkin-feature).

@@ -7,6 +7,7 @@ tags:
   - whoami
 prev: youth
 next: about_this_blog
+publish: false
 ---
 
 Hi, I'm Franklin Qin.

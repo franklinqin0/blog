@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Franklin Qin",
+  title: "",
   description: " ",
   dest: "docs/.vuepress/dist",
   head: [
@@ -73,7 +73,6 @@ module.exports = {
         text: "Tag",
       },
     },
-    friendLink: [],
     logo: "/favicon.ico",
     search: true,
     searchMaxSuggestions: 10,

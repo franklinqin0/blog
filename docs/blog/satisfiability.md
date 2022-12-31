@@ -2,19 +2,19 @@
 title: Satisfiability
 date: 2020-06-12
 categories:
- - study
+  - study
 tags:
- - tech
+  - tech
 publish: false
 ---
 
-This blog features the SAT(satisfiability) problem.
+This blog features the SAT(satisfiability) problem. I got interested for the problem for a while, when I was writing the [course scheduling software](course_scheduling).
 
 <!-- more -->
 
 ## Definition of "Satisfy"
 
-Rather than the normal definition of "meet the expectations, needs, or desires of (someone)", *satisfy* actually means "(of a quantity) make (an equation) true".
+Rather than the normal definition of "meet the expectations, needs, or desires of (someone)", _satisfy_ actually means "(of a quantity) make (an equation) true".
 
 ## Definitions of Problems
 
@@ -22,7 +22,7 @@ Rather than the normal definition of "meet the expectations, needs, or desires o
 
 **Circuit SAT**: formula is expressed as a DAG circuit of logic gates.
 
-**CNF(conjunctive normal form) SAT**: *formula* is AND of *clauses*, a *clause* is OR of *literals*, a literal is $x_i$ or $\neg x_i$. It can also be viewed as bipartite graph of variables and clauses.
+**CNF(conjunctive normal form) SAT**: _formula_ is AND of _clauses_, a _clause_ is OR of _literals_, a literal is $x_i$ or $\neg x_i$. It can also be viewed as bipartite graph of variables and clauses.
 
 **3SAT**: consists of OR of 3 literals.
 
@@ -33,5 +33,4 @@ Rather than the normal definition of "meet the expectations, needs, or desires o
 **2SAT**: OR clause of 2 literals.
 $$a + b = c$$
 
-
-https://youtu.be/x-Ik9YAFAPo
+[MIT lecture on SAT](https://youtu.be/x-Ik9YAFAPo)

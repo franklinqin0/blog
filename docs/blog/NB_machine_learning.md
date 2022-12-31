@@ -1,3 +1,5 @@
+Too messy. Need to restructure.
+
 ## Classification
 
 Classification is the task of choosing the correct class label for a given input (= instance) based on its features, e.g.:

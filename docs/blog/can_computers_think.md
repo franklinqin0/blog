@@ -7,6 +7,7 @@ categories:
 tags:
   - tech
   - research
+publish: false
 ---
 
 ::: theorem

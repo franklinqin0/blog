@@ -5,6 +5,7 @@ categories:
   - play
 tags:
   - life
+publish: false
 ---
 
 ::: tip

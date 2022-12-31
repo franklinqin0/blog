@@ -7,6 +7,7 @@ tags:
   - philosophy
   - 中文
   - copy
+publish: false
 ---
 
 <!-- more -->

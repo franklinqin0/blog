@@ -5,6 +5,7 @@ categories:
   - misc
 tags:
   - college
+publish: false
 ---
 
 ::: tip

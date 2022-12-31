@@ -5,8 +5,11 @@ categories:
   - study
 tags:
   - tech
+  - TUM
 publish: false
 ---
+
+First semester, quite disoriented.
 
 <!-- more -->
 

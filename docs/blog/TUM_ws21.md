@@ -5,8 +5,11 @@ categories:
   - study
 tags:
   - tech
+  - TUM
 publish: false
 ---
+
+Second semester, spent most time dating YF.
 
 <!-- more -->
 

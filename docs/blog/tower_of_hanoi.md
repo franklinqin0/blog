@@ -5,11 +5,14 @@ categories:
   - study
 tags:
   - tech
+publish: false
 ---
 
 A few weeks ago, I was invited to a friend's house. On the table I saw the **Tower of Hanoi** game. I immediately realized with intuition that the total number of steps to move should be _exponential_ to the number of disks, but I could not think of a proof at the time. Thus, I write this blog about this interesting ancient problem.
 
 <!-- more -->
+
+TODO: will publish when the references are explored.
 
 ## Origin
 

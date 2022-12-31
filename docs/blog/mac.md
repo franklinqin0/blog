@@ -5,6 +5,7 @@ categories:
   - study
 tags:
   - tech
+publish: false
 ---
 
 This blog illustrates some notes on using my Mac (model was released in mid 2015, OS is Catalina 10.15).

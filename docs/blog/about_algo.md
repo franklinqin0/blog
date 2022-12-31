@@ -5,6 +5,7 @@ categories:
   - about
 tags:
   - whoami
+publish: false
 ---
 
 Recently, I created the [algo site](/algo) to record algorithm problems I've solved.

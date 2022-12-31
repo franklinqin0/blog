@@ -8,6 +8,7 @@ tags:
   - ping pong
 prev: vt
 next: why_stopped_vt
+publish: false
 ---
 
 带领学生参加了运动会的乒乓球比赛，男生第一名，女生第二三名，算是努力有一点回报。

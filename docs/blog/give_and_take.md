@@ -7,6 +7,7 @@ categories:
 tags:
   - life
   - philosophy
+publish: false
 ---
 
 This is the final essay I wrote for [NCC 5540](https://classes.cornell.edu/browse/roster/SP18/class/NCC/5540). It summarizes the content of the book _Give and Take: Why Helping Others Drives Our Success_ by Adam Grant. It is one of the few humanities books I read at Cornell I deemed as interesting and worth reading.
