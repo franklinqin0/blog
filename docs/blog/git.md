@@ -58,3 +58,24 @@ local
 ```sh
 git branch -d <branchname>
 ```
+
+## Git Submodules
+
+```sh
+git clone --recursive / --recurse-submodules
+git pull —-recurse-submodules
+git config submodule.recurse true
+
+git submodule sync --recursive
+git submodule update --init --recursive
+```
+
+## Delete Branch Locally and Remotely
+
+```sh
+# locally
+git branch -d <BranchName>
+
+# delete branch remotely
+git push origin --delete <BranchName>
+```

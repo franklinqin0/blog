@@ -58,7 +58,7 @@ A `pane` is a separate pseudo terminal.
 - `tmux`: start tmux
 - `tmux new -s {session_name}`: create a named session
 - `tmux a[ttach]`: restore a session (reattach to detached session)
-- `tmux attach-session -t {session_name}`: attach to a named session
+- `tmux a[ttach-session] -t {session_name}`: attach to a named session
 - `tmux kill-session -t {session_name}`: destroy a named session
 - `tmux ls`: display all sessions
 
@@ -126,6 +126,15 @@ If in a session and wants to:
 - **detach**, `{prefix} d`.
 
 DON'T **DESTROY** A SESSION WHILE YOU WANT TO **DETACH** IT!!!
+
+## Enable Scrolling
+
+Normally, scrolling up in a tmux session would show previous commands, but configuring the following in `.tmux.conf` could enable the scrolling.
+
+```
+set -g mouse on
+tmux kill-server && tmux
+```
 
 ## Useful Links
 

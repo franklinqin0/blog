@@ -78,7 +78,8 @@ since
 3. Ich habe oft mit meiner Familie gestritten, **nachdem** ich dem Pubertät gekommen war.
 4. Ich verstehe mich mit meinen Freunden besser, **nachdem** wir einen Streit beigelegt haben.
 5. Ich möchte ein besser Student werden, **nachdem** ich schlechte Noten bekommen habe.
-   :::
+
+:::
 
 ::: theorem Bewegung/Veränderung
 **sein** + Partizip II

@@ -7,19 +7,18 @@ categories:
 tags:
   - tech
   - research
+  - IDP
 publish: false
 ---
 
 ## Unceratinty
 
-Unceratinty: the lack of confidence for each output
+Uncertainty: the lack of confidence for each output
 
 - Epistemic uncertainty: uncertainty due to a lack of knowledge, stemming from observing only a subset of all possible data points
 - Aleatoric uncertainty: captures inherent stochasticity in the dataset, for example due to points that lie on the decision boundary between two classes
 
-In ICP[^1], sources of uncertainty include: initial pose uncertainty, sensor noise, partial overlap, multiple local minima of the cost function, and under-constrained or ill-posed cases, e.g. long featureless corridors or rotational symmetric objects such as bottles that admit infinite solutions.
-
-- epistemic ???: intrinsic to the problem, in the alignment of an under-constrained object where there is ambiguity in the matching, uncertainty relates to the geometry of the object.
+<img src="/idp/aleatoric_epistemic_uncertainty.png" alt="aleatoric and epistemic and uncertainty" width=100% class="medium-zoom">
 
 According to [^2], Uncertainties are epistemic, if the modeler sees a possibility to reduce them by gathering more data or by refining models. Uncertainties are categorized as aleatory if the modeler does not foresee the possibility of reducing them.
 
