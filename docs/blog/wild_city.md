@@ -36,7 +36,7 @@ p.s. 五年之后的 2020 年，为回顾了这部电影，为林岭东倒数第
 
 - 友谊之光
   - [监狱风云](https://www.bilibili.com/video/BV1jx411G7ZT)
-  - [澳门风云 3](https://www.bilibili.com/video/BV1yt411o7y7)
+  - [澳门风云 3](https://youtu.be/brSgHYEZIHM?si=Iy7xXd-OP1XBVYmX)
 - 希盼得好梦
   - [监狱风云 2：打架](https://youtu.be/WcYfmXj7Lm4)
   - [我嘅屎忽靓唔靓啊？😂](https://www.bilibili.com/video/BV1CJ411T79V)

@@ -82,7 +82,7 @@ It is very awkward for most to spread your index and little fingers when pressin
 
 The following commands resize a pane by **5 rows** (say, `{prefix} J`).
 
-```
+```sh
 bind-key J resize-pane -D 5
 bind-key K resize-pane -U 5
 bind-key H resize-pane -L 5
@@ -91,7 +91,7 @@ bind-key L resize-pane -R 5
 
 The following commands resize a pane by **1 row** (say, `{prefix} <M-h>`).
 
-```
+```sh
 bind-key M-h resize-pane -L
 bind-key M-j resize-pane -D
 bind-key M-k resize-pane -U
@@ -102,7 +102,7 @@ bind-key M-l resize-pane -R
 
 The following commands switch to another pane by direction (say, `{prefix} h`)
 
-```
+```sh
 bind h select-pane -L
 bind j select-pane -D
 bind k select-pane -U
@@ -131,9 +131,22 @@ DON'T **DESTROY** A SESSION WHILE YOU WANT TO **DETACH** IT!!!
 
 Normally, scrolling up in a tmux session would show previous commands, but configuring the following in `.tmux.conf` could enable the scrolling.
 
-```
+```sh
 set -g mouse on
 tmux kill-server && tmux
+```
+
+## Kill Multiple Sessions
+
+```sh
+# kill all sessions
+tmux kill-server
+
+# inside a session to keep, kill all other sessions
+tmux kill-session -a
+
+# kill a specific session
+tmux kill-session -t <target-session>
 ```
 
 ## Useful Links

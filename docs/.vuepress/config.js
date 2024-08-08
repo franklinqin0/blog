@@ -1,6 +1,6 @@
 module.exports = {
-  title: "Franklin",
-  description: "Stay hungry. Stay foolish.",
+  title: "Ziyuan Qin's blog",
+  description: " ",
   dest: "docs/.vuepress/dist",
   head: [
     [
