@@ -20,7 +20,7 @@ time: $O(\log n)$
 space: $O(\log n)$
 :::
 
-The following solution actually TLS b/c of highlighted lines, specifically on the following test case:
+The following solution actually TLE b/c of highlighted lines, specifically on the following test case:
 
 ```py
 x = 0.00001

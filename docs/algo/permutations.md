@@ -10,6 +10,25 @@ tags:
 
 ## Solution
 
+```py
+def permute(self, nums: List[int]) -> List[List[int]]:
+    
+    n = len(nums)
+    def backtrack(lst):
+        if len(lst) == n:
+            res.append(lst[:])
+            return
+        for num in nums:
+            if num not in lst:
+                lst.append(num)
+                backtrack(lst)
+                lst.pop()
+    
+    res = []
+    backtrack([])
+    return res
+```
+
 ### Backtracking 1
 
 ```py

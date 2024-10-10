@@ -51,7 +51,7 @@ At GS, people like to use abbreviations w/i the company and teams. There is even
 | SPA           | single page app             |
 | LC            | LeetCode                    |
 | OA            | online assessment           |
-| TLS           | time limit exceeded         |
+| TLE           | time limit exceeded         |
 | WFH           | work from home              |
 | RCA           | ripple carry adder          |
 | VCS           | version control system      |

@@ -16,6 +16,36 @@ related:
 
 Let $n$ be the length of the string `s`.
 
+### Brute Force
+
+::: theorem Complexity
+time: $O(n^3)$  
+space: $O(1)$
+:::
+
+TLE
+
+```py
+class Solution(object):
+    def is_palindrome(self, s):
+        for i in range(len(s) // 2):
+            if s[i] != s[len(s) - 1 - i]:
+                return False
+        return True
+
+    def countSubstrings(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        cnt = 0
+        for i in range(len(s)):
+            for j in range(i, len(s)):
+                if self.is_palindrome(s[i:j+1]):
+                    cnt += 1
+        return cnt
+```
+
 ### DP
 
 Let `dp[i][j]` be true if `s[i:j+1]` is a palindrome.

@@ -73,6 +73,26 @@ class Solution:
         return n > 0 and self.maxPowerOfThree % n == 0
 ```
 
+Or, could calculate `self.maxPowerOfThree` in this way:
+$3^{\lceil \log_3 2^{31}-1 \rceil}$
+
+```py
+class Solution(object):
+    def __init__(self):
+        max_int = 2**31 - 1
+        from math import log, floor
+        self.maxPowerOf3 = int(3**(floor(log(max_int, 3))))
+        
+    def isPowerOfThree(self, n):
+        """
+        :type n: int
+        :rtype: bool
+        """
+        if n < 1:
+            return False
+        return self.maxPowerOf3 % n == 0
+```
+
 ### Integer Limitation
 
 In `__init__` method calculate all powers of 3 smaller than $2^{31} - 1$.
